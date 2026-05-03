@@ -1,7 +1,8 @@
 import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
-  output: "export",
+  // Server build for Railway (Node). To switch back to static export
+  // (Cloudflare Pages / Netlify), set output: "export".
   images: { unoptimized: true },
   trailingSlash: true,
   reactStrictMode: true,

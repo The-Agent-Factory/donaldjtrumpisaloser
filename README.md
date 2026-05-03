@@ -21,7 +21,7 @@ npm install
 npm run dev
 ```
 
-Open http://localhost:3000.
+Open <http://localhost:3000>.
 
 ## Build
 
@@ -32,7 +32,27 @@ npm run build
 
 Output is written to `site/out/`. Upload `out/` to any static host.
 
-## Deploy: Cloudflare Pages
+## Deploy: Railway (primary)
+
+This repo deploys to Railway from GitHub. `railway.json` and `nixpacks.toml`
+at the repo root tell Railway how to install, build, and start the Next.js
+app inside `site/`.
+
+1. In Railway, click **New Project → Deploy from GitHub repo** and pick
+   `The-Agent-Factory/donaldjtrumpisaloser`.
+2. Railway auto-detects Next.js. No build settings need to be entered;
+   the configs in `railway.json` and `nixpacks.toml` cover it.
+3. After the first deploy, click **Settings → Networking → Generate Domain**
+   to get a public URL.
+4. Set env vars from `site/.env.example` under **Variables**. All are
+   optional — components render nothing when their var is unset.
+
+Subsequent `git push` to `main` redeploys automatically.
+
+## Deploy: Cloudflare Pages (alternate, static)
+
+To deploy as a static site instead, set `output: "export"` in
+`site/next.config.ts`, then:
 
 1. Connect this repo in Cloudflare Pages.
 2. Build command: `cd site && npm install && npm run build`
