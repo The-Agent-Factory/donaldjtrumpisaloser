@@ -1,6 +1,6 @@
 # Nixpacks config for Railway. The Next.js app lives in /site.
 [phases.setup]
-nixPkgs = ["nodejs_20", "npm-9_x"]
+nixPkgs = ["nodejs_20"]
 
 [phases.install]
 cmds = ["cd site && npm ci"]
