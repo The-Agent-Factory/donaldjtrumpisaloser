@@ -1,0 +1,19 @@
+# GitLab is the source of truth (GitHub account suspended 2026-07, treated as
+# gone). As of the reconcile merge on 2026-07-05, main is a SUPERSET of the live
+# production image: it contains the recovered GitHub-era work (birthday page,
+# homepage, globals.css) PLUS the founding-membership feature. Deploying now
+# moves production FORWARD, it no longer regresses. Kept manual so the first
+# GitLab-driven deploy is a conscious, watched action; flip to `when: on_success`
+# once you trust the pipeline.
+stages:
+  - deploy
+
+deploy_railway:
+  stage: deploy
+  image: node:20
+  rules:
+    - if: '$CI_COMMIT_BRANCH == $CI_DEFAULT_BRANCH'
+      when: manual
+  script:
+    - npm install -g @railway/cli
+    - railway up --service donaldjtrumpisaloser --ci
