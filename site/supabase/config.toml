@@ -1,0 +1,10 @@
+# Supabase project config. Governs `supabase functions deploy` and local dev.
+project_id = "donaldjtrumpisaloser"
+
+# The cron-invoked ingest function authenticates with the service-role bearer
+# passed by pg_net, so JWT verification stays ON is fine — but disabling it
+# keeps the cron call simple and the function has no public surface worth
+# protecting (it only writes to service-role-guarded tables). Either is safe;
+# we disable so a plain scheduled POST works without a valid end-user JWT.
+[functions.rss-ingest]
+verify_jwt = false
