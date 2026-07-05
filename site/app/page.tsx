@@ -3,6 +3,7 @@ import { Container } from "@/components/ui/Container";
 import { Section } from "@/components/ui/Section";
 import { Scoreboard } from "@/components/Scoreboard";
 import { EntryCard } from "@/components/EntryCard";
+import { BirthdayHero } from "@/components/BirthdayHero";
 import { SubstackEmbed } from "@/components/monetization/SubstackEmbed";
 import { entries } from "@/content/entries";
 import { categories } from "@/content/categories";
@@ -18,6 +19,9 @@ export default function Home() {
 
   return (
     <>
+      {/* Birthday edition: self-hides except around June 14 (visitor local time). */}
+      <BirthdayHero gated />
+
       <Section as="header" className="pt-20 md:pt-28 pb-10 border-b rule">
         <Container>
           <div className="font-mono text-[11px] uppercase tracking-widest mb-4" style={{ color: "var(--text-muted)" }}>
