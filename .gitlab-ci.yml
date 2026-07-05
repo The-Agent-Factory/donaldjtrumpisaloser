@@ -1,0 +1,15 @@
+# DEPLOYS ARE MANUAL-ONLY: production runs a GitHub-era build newer than this
+# repo's source (those commits were lost in the GitHub suspension). Triggering
+# this job will REGRESS production until the missing work is recreated on main.
+stages:
+  - deploy
+
+deploy_railway:
+  stage: deploy
+  image: node:20
+  rules:
+    - if: '$CI_COMMIT_BRANCH == $CI_DEFAULT_BRANCH'
+      when: manual
+  script:
+    - npm install -g @railway/cli
+    - railway up --service donaldjtrumpisaloser --ci
