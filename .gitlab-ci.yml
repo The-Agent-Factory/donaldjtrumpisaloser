@@ -12,7 +12,9 @@ deploy_railway:
   stage: deploy
   image: node:20
   rules:
-    - if: '$CI_COMMIT_BRANCH == $CI_DEFAULT_BRANCH'
+    - if: '$CI_PIPELINE_SOURCE == "web"'
+      when: manual
+    - when: never
       when: on_success
   script:
     - npm install -g @railway/cli
