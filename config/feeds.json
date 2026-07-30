@@ -1,0 +1,27 @@
+{
+  "feeds": [
+    {"id": "foxnews-politics", "name": "Fox News Politics", "url": "https://moxie.foxnews.com/google-publisher/politics.xml", "bias_note": "right-leaning"},
+    {"id": "foxnews-latest", "name": "Fox News Latest", "url": "https://moxie.foxnews.com/google-publisher/latest.xml", "bias_note": "right-leaning"},
+    {"id": "whitehouse", "name": "WhiteHouse.gov", "url": "https://www.whitehouse.gov/feed/", "bias_note": "official/primary-source"},
+    {"id": "npr-politics", "name": "NPR Politics", "url": "https://feeds.npr.org/1014/rss.xml", "bias_note": "center"},
+    {"id": "guardian-uspolitics", "name": "Guardian US Politics", "url": "https://www.theguardian.com/us-news/us-politics/rss", "bias_note": "left-leaning"},
+    {"id": "politico", "name": "Politico", "url": "https://rss.politico.com/politics-news.xml", "bias_note": "center"},
+    {"id": "thehill", "name": "The Hill", "url": "https://thehill.com/homenews/feed/", "bias_note": "center"},
+    {"id": "pbs-politics", "name": "PBS NewsHour Politics", "url": "https://www.pbs.org/newshour/feeds/rss/politics", "bias_note": "center"},
+    {"id": "propublica", "name": "ProPublica", "url": "https://www.propublica.org/feeds/propublica/main", "bias_note": "investigative"},
+    {"id": "abc-politics", "name": "ABC News Politics", "url": "https://abcnews.go.com/abcnews/politicsheadlines", "bias_note": "center"},
+    {"id": "cnn-politics", "name": "CNN Politics", "url": "http://rss.cnn.com/rss/cnn_allpolitics.rss", "bias_note": "left-leaning"}
+  ],
+  "keywords": [
+    "trump", "white house", "administration", "maga", "doj", "justice department",
+    "executive order", "tariff", "pardon", "impeach", "indict", "fraud",
+    "kushner", "ivanka", "don jr", "eric trump", "melania", "barron",
+    "trump org", "truth social", "djt", "world liberty", "meme coin", "mar-a-lago"
+  ],
+  "newsapi": {
+    "enabled_when_key_present": true,
+    "endpoint": "https://newsapi.org/v2/everything",
+    "query": "Trump OR \"White House\" OR \"Trump administration\"",
+    "note": "Set NEWSAPI_KEY as a repo secret to enable. Free tier: 100 req/day."
+  }
+}

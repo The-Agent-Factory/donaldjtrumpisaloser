@@ -1,0 +1,65 @@
+name: Update wire, panel, site & posts
+
+on:
+  schedule:
+    # Aggregate + rebuild every 2 hours
+    - cron: "17 */2 * * *"
+    # Daily 24-hour panel + social posts at 11:00 UTC (morning US time)
+    - cron: "0 11 * * *"
+  workflow_dispatch: {}
+  push:
+    branches: [master, main]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-pipeline
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Aggregate feeds (Fox News, whitehouse.gov, wires, NewsAPI)
+        env:
+          NEWSAPI_KEY: ${{ secrets.NEWSAPI_KEY }}
+        run: python3 scripts/aggregate.py
+
+      - name: Run the 24-hour LLM panel (daily schedule or manual runs)
+        if: github.event.schedule == '0 11 * * *' || github.event_name == 'workflow_dispatch'
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          XAI_API_KEY: ${{ secrets.XAI_API_KEY }}
+        run: python3 scripts/llm_panel.py
+
+      - name: Generate social posts (X thread, TikTok script, Substack edition)
+        if: github.event.schedule == '0 11 * * *' || github.event_name == 'workflow_dispatch'
+        env:
+          AUTOPOST_X: ${{ vars.AUTOPOST_X }}
+          X_API_KEY: ${{ secrets.X_API_KEY }}
+          X_API_SECRET: ${{ secrets.X_API_SECRET }}
+          X_ACCESS_TOKEN: ${{ secrets.X_ACCESS_TOKEN }}
+          X_ACCESS_SECRET: ${{ secrets.X_ACCESS_SECRET }}
+          SITE_URL: ${{ vars.SITE_URL }}
+        run: python3 scripts/social_posts.py
+
+      - name: Build site
+        env:
+          ADSENSE_CLIENT: ${{ vars.ADSENSE_CLIENT }}
+          DONATE_URL: ${{ vars.DONATE_URL }}
+          SUBSTACK_URL: ${{ vars.SUBSTACK_URL }}
+        run: python3 scripts/build_site.py
+
+      - name: Commit & push updates
+        run: |
+          git config user.name "accountability-wire-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add -A data docs
+          git diff --cached --quiet && echo "No changes" && exit 0
+          git commit -m "Automated update: wire + panel + site ($(date -u +%Y-%m-%dT%H:%MZ))"
+          git push
