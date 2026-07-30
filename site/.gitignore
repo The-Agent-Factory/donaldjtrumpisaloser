@@ -7,7 +7,5 @@ build/
 .env*.local
 .DS_Store
 *.tsbuildinfo
-*.log
+next-env.d.ts
 .vercel
-__pycache__/
-*.pyc

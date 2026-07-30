@@ -28,7 +28,7 @@ import urllib.request
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 PANEL_DIR = os.path.join(ROOT, "data", "panel")
 POSTS_DIR = os.path.join(ROOT, "data", "posts")
-SITE_URL = os.environ.get("SITE_URL", "the accountability wire")
+SITE_URL = os.environ.get("SITE_URL", "donaldjtrumpisaloser.com")
 MAX_SECONDS = int(os.environ.get("SHORT_MAX_SECONDS", "165"))
 
 W, H = 1080, 1920

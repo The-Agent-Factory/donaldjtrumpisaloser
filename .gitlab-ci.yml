@@ -1,68 +1,76 @@
-# GitLab CI/CD for the Accountability Wire.
+# GitLab is the source of truth (GitHub account suspended 2026-07, treated as
+# gone). Two concerns run here:
 #
-# Setup on GitLab (one-time):
-#   1. CI/CD -> Schedules: create two pipeline schedules:
-#        - every 2 hours ("0 */2 * * *")  -> set variable PIPELINE_MODE=wire
-#        - daily 11:00 UTC ("0 11 * * *") -> set variable PIPELINE_MODE=panel
-#   2. Settings -> CI/CD -> Variables (masked where possible):
-#        ANTHROPIC_API_KEY / OPENAI_API_KEY / GEMINI_API_KEY / XAI_API_KEY
-#        NEWSAPI_KEY, SITE_URL, AUTOPOST_X, X_API_KEY, X_API_SECRET,
-#        X_ACCESS_TOKEN, X_ACCESS_SECRET, ADSENSE_CLIENT, DONATE_URL, SUBSTACK_URL
-#        GITLAB_PUSH_TOKEN: a Project Access Token (role Developer, scope
-#          write_repository) — lets scheduled runs commit data/ back so the
-#          article store and panel archive persist in git history.
-#   3. Deploy -> Pages: site publishes automatically from the `pages` job at
-#        https://<namespace>.gitlab.io/<project>/
+#   1. deploy_railway — deploys the Next.js site in site/ to Railway
+#      (Railway cannot natively connect to GitLab).
+#   2. update — the Accountability Wire automation: aggregates feeds, runs the
+#      daily multi-LLM panel, generates social/Substack/Shorts content, and
+#      exports JSON into site/public/data/ so the live site serves it.
 #
-# Without GITLAB_PUSH_TOKEN the pipeline still works: data persists via CI
-# cache and the site still deploys — history just isn't committed to git.
+# Pipeline schedules to create (CI/CD -> Schedules):
+#   - every 2 hours ("0 */2 * * *")  -> variable PIPELINE_MODE=wire
+#   - daily 11:00 UTC ("0 11 * * *") -> variable PIPELINE_MODE=panel
+#
+# CI/CD variables (Settings -> CI/CD -> Variables, masked where possible):
+#   RAILWAY_TOKEN / RAILWAY_PROJECT_ID   (already set)
+#   ANTHROPIC_API_KEY / OPENAI_API_KEY / GEMINI_API_KEY / XAI_API_KEY  panel seats
+#   NEWSAPI_KEY                          extra firehose (optional)
+#   GITLAB_PUSH_TOKEN                    Project Access Token (Developer,
+#                                        write_repository) so runs commit data back
+#   SITE_URL                             https://donaldjtrumpisaloser.com
+#   AUTOPOST_X + X_API_KEY/X_API_SECRET/X_ACCESS_TOKEN/X_ACCESS_SECRET
+#   AUTOPOST_YOUTUBE + YT_CLIENT_ID/YT_CLIENT_SECRET/YT_REFRESH_TOKEN (+YT_PRIVACY)
 
-image: python:3.12-slim
-
-stages: [update, deploy]
-
-cache:
-  key: wire-data
-  paths: [data/]
+stages:
+  - update
+  - deploy
 
 update:
   stage: update
+  image: python:3.12-slim
   rules:
     - if: '$CI_PIPELINE_SOURCE == "schedule"'
     - if: '$CI_PIPELINE_SOURCE == "web"'
     - if: '$CI_COMMIT_BRANCH == $CI_DEFAULT_BRANCH && $CI_PIPELINE_SOURCE == "push"'
+  cache:
+    key: wire-data
+    paths: [data/]
   script:
+    - apt-get update -qq && apt-get install -y -qq git > /dev/null
     - python3 scripts/aggregate.py
     - |
       if [ "$PIPELINE_MODE" = "panel" ] || [ "$CI_PIPELINE_SOURCE" = "web" ]; then
         python3 scripts/llm_panel.py
         python3 scripts/social_posts.py
-        apt-get update -qq && apt-get install -y -qq ffmpeg fonts-dejavu-core > /dev/null
+        apt-get install -y -qq ffmpeg fonts-dejavu-core > /dev/null
         python3 scripts/shorts_video.py
       fi
-    - python3 scripts/build_site.py
+    - python3 scripts/export_to_site.py
     - |
-      if [ -n "$GITLAB_PUSH_TOKEN" ]; then
+      if [ -n "$GITLAB_PUSH_TOKEN" ] && [ "$CI_PIPELINE_SOURCE" != "push" ]; then
         git config user.name "accountability-wire-bot"
         git config user.email "bot@users.noreply.gitlab.com"
-        git add -A data docs ':!*.mp4'
+        git add -A data site/public/data ':!*.mp4'
         if ! git diff --cached --quiet; then
-          git commit -m "Automated update: wire + panel + site ($(date -u +%Y-%m-%dT%H:%MZ))"
+          git commit -m "Automated update: wire + panel data ($(date -u +%Y-%m-%dT%H:%MZ))"
           git push "https://wire-bot:${GITLAB_PUSH_TOKEN}@${CI_SERVER_HOST}/${CI_PROJECT_PATH}.git" "HEAD:${CI_COMMIT_BRANCH:-$CI_DEFAULT_BRANCH}" -o ci.skip
         fi
       fi
   artifacts:
-    paths: [docs/, data/posts/]
+    paths: [data/posts/, site/public/data/]
     expire_in: 2 days
 
-pages:
+# Deploys site/ to Railway. Runs on pushes to main and after scheduled data
+# updates (the update job's artifacts overlay fresh JSON onto the checkout,
+# so the deployed build includes the newest wire/panel data).
+deploy_railway:
   stage: deploy
+  image: node:20
   rules:
-    - if: '$CI_PIPELINE_SOURCE == "schedule"'
     - if: '$CI_PIPELINE_SOURCE == "web"'
-    - if: '$CI_COMMIT_BRANCH == $CI_DEFAULT_BRANCH'
-  needs: [update]
+      when: manual
+    - if: '$CI_COMMIT_BRANCH == $CI_DEFAULT_BRANCH && $CI_PIPELINE_SOURCE == "push"'
+    - if: '$CI_PIPELINE_SOURCE == "schedule" && $CI_COMMIT_BRANCH == $CI_DEFAULT_BRANCH'
   script:
-    - cp -r docs public
-  artifacts:
-    paths: [public]
+    - npm install -g @railway/cli
+    - railway up --service donaldjtrumpisaloser --ci

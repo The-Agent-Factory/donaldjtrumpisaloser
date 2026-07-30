@@ -26,7 +26,7 @@ from datetime import datetime, timezone
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 PANEL_DIR = os.path.join(ROOT, "data", "panel")
 POSTS_DIR = os.path.join(ROOT, "data", "posts")
-SITE_URL = os.environ.get("SITE_URL", "https://the-agent-factory.github.io/donaldjtrumpisaloser/")
+SITE_URL = os.environ.get("SITE_URL", "https://donaldjtrumpisaloser.com/")
 
 
 def latest_panel():
