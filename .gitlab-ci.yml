@@ -1,0 +1,66 @@
+# GitLab CI/CD for the Accountability Wire.
+#
+# Setup on GitLab (one-time):
+#   1. CI/CD -> Schedules: create two pipeline schedules:
+#        - every 2 hours ("0 */2 * * *")  -> set variable PIPELINE_MODE=wire
+#        - daily 11:00 UTC ("0 11 * * *") -> set variable PIPELINE_MODE=panel
+#   2. Settings -> CI/CD -> Variables (masked where possible):
+#        ANTHROPIC_API_KEY / OPENAI_API_KEY / GEMINI_API_KEY / XAI_API_KEY
+#        NEWSAPI_KEY, SITE_URL, AUTOPOST_X, X_API_KEY, X_API_SECRET,
+#        X_ACCESS_TOKEN, X_ACCESS_SECRET, ADSENSE_CLIENT, DONATE_URL, SUBSTACK_URL
+#        GITLAB_PUSH_TOKEN: a Project Access Token (role Developer, scope
+#          write_repository) — lets scheduled runs commit data/ back so the
+#          article store and panel archive persist in git history.
+#   3. Deploy -> Pages: site publishes automatically from the `pages` job at
+#        https://<namespace>.gitlab.io/<project>/
+#
+# Without GITLAB_PUSH_TOKEN the pipeline still works: data persists via CI
+# cache and the site still deploys — history just isn't committed to git.
+
+image: python:3.12-slim
+
+stages: [update, deploy]
+
+cache:
+  key: wire-data
+  paths: [data/]
+
+update:
+  stage: update
+  rules:
+    - if: '$CI_PIPELINE_SOURCE == "schedule"'
+    - if: '$CI_PIPELINE_SOURCE == "web"'
+    - if: '$CI_COMMIT_BRANCH == $CI_DEFAULT_BRANCH && $CI_PIPELINE_SOURCE == "push"'
+  script:
+    - python3 scripts/aggregate.py
+    - |
+      if [ "$PIPELINE_MODE" = "panel" ] || [ "$CI_PIPELINE_SOURCE" = "web" ]; then
+        python3 scripts/llm_panel.py
+        python3 scripts/social_posts.py
+      fi
+    - python3 scripts/build_site.py
+    - |
+      if [ -n "$GITLAB_PUSH_TOKEN" ]; then
+        git config user.name "accountability-wire-bot"
+        git config user.email "bot@users.noreply.gitlab.com"
+        git add -A data docs
+        if ! git diff --cached --quiet; then
+          git commit -m "Automated update: wire + panel + site ($(date -u +%Y-%m-%dT%H:%MZ))"
+          git push "https://wire-bot:${GITLAB_PUSH_TOKEN}@${CI_SERVER_HOST}/${CI_PROJECT_PATH}.git" "HEAD:${CI_COMMIT_BRANCH:-$CI_DEFAULT_BRANCH}" -o ci.skip
+        fi
+      fi
+  artifacts:
+    paths: [docs/]
+    expire_in: 2 days
+
+pages:
+  stage: deploy
+  rules:
+    - if: '$CI_PIPELINE_SOURCE == "schedule"'
+    - if: '$CI_PIPELINE_SOURCE == "web"'
+    - if: '$CI_COMMIT_BRANCH == $CI_DEFAULT_BRANCH'
+  needs: [update]
+  script:
+    - cp -r docs public
+  artifacts:
+    paths: [public]

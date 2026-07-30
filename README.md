@@ -35,7 +35,16 @@ Everything is Python 3 **stdlib only** — no pip installs, nothing to break.
 
 ## Setup (one-time, ~10 minutes)
 
-1. **Enable GitHub Pages**: repo Settings → Pages → Deploy from branch → `master` + `/docs`.
+**On GitLab** (primary home): `.gitlab-ci.yml` drives everything. Create two pipeline
+schedules (CI/CD → Schedules): `0 */2 * * *` with variable `PIPELINE_MODE=wire`, and
+`0 11 * * *` with `PIPELINE_MODE=panel`. Add the secrets below as CI/CD Variables
+(Settings → CI/CD → Variables), plus `GITLAB_PUSH_TOKEN` (Project Access Token,
+Developer role, `write_repository` scope) so runs commit data back. The site deploys
+to GitLab Pages automatically from the `pages` job.
+
+**On GitHub** (mirror, optional): `.github/workflows/update.yml` does the same job.
+
+1. **Enable GitHub Pages** (GitHub only): repo Settings → Pages → Deploy from branch → `master` + `/docs`.
 2. **Repo secrets** (Settings → Secrets and variables → Actions → Secrets) — each one is
    optional; the pipeline degrades gracefully:
    | Secret | Enables |
