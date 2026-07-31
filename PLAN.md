@@ -1,6 +1,6 @@
 # djtloser — News-to-Timeline Ingestion — Plan
 
-**Last updated:** 2026-07-05
+**Last updated:** 2026-07-31
 **Status:** active
 **Goal:** Cheapest safe pipeline that gathers primary + general news feeds daily, filters to documentable legal/business outcomes, and queues structured candidate entries for the timeline. Phase 1 = gather+filter+queue+digest, no auto-publish, no secrets.
 
@@ -25,8 +25,38 @@
   - /admin/candidates review UI + /api/admin/candidates (ADMIN_TOKEN gated).
   - config.toml (verify_jwt=false), supabase/README.md deploy guide.
 
+- Accountability Wire pipeline CODE COMPLETE (2026-07-31 session), on branch
+  `claude/news-aggregation-monetization-0lpgen`, MR !1 open. Complements (does not
+  replace) the Supabase Phase 1 lane; never writes entries.ts. See PIPELINE.md.
+  - scripts/aggregate.py: 2-hourly RSS aggregation across the spectrum (Fox News,
+    whitehouse.gov, NPR, Guardian, Politico, Hill, PBS, ProPublica, ABC, CNN
+    + optional NewsAPI). Stdlib only.
+  - scripts/llm_panel.py: daily 24-Hour Panel — Claude/ChatGPT/Gemini (+Grok,
+    +local Qwen seat) analyze the last 24h independently; consensus computed.
+  - scripts/social_posts.py: X thread (auto-post via OAuth1 when keys set),
+    TikTok script, Substack "LLM News" edition.
+  - scripts/shorts_video.py: daily YouTube Short (ffmpeg ticker, <3 min),
+    optional auto-upload via YouTube Data API.
+  - scripts/export_to_site.py -> site/public/data/*.json; new /panel page +
+    homepage panel strip + nav item in the site's design system (next build passes).
+  - .gitlab-ci.yml merged: deploy_railway preserved; update job on schedules
+    (PIPELINE_MODE=wire / panel); Railway redeploys after data updates.
+
 ## In flight
-- (none — Phase 1 code shipped; awaiting Denis to run deploy steps)
+- MR !1 awaiting Denis review/merge.
+
+## Next up (Wire pipeline ACTIVATE — all in GitLab UI, ~10 min)
+- [ ] Merge MR !1.
+- [ ] CI/CD Variables: GEMINI_API_KEY (min. to activate panel); optionally
+      ANTHROPIC_API_KEY / OPENAI_API_KEY / XAI_API_KEY / NEWSAPI_KEY;
+      GITLAB_PUSH_TOKEN (Project Access Token, Developer, write_repository);
+      SITE_URL=https://donaldjtrumpisaloser.com. Later: AUTOPOST_X + X_* keys,
+      AUTOPOST_YOUTUBE + YT_* keys, ADSENSE_CLIENT/DONATE_URL/SUBSTACK_URL.
+- [ ] Pipeline schedules: "0 */2 * * *" (PIPELINE_MODE=wire) and
+      "0 11 * * *" (PIPELINE_MODE=panel).
+- [ ] Run one pipeline manually; confirm /panel populates on prod after deploy.
+- [ ] Substack: create the "LLM News" publication; paste data/posts/DATE/
+      substack_llm_news.md daily (or wire RSS import); enable paid tier.
 
 ## Next up (Phase 1 DEPLOY — needs Supabase CLI on Denis's machine)
 - [ ] supabase link + db push (or run 0001 in SQL editor).
