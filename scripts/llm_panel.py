@@ -15,6 +15,7 @@ Output: data/panel/YYYY-MM-DD.json. Stdlib only.
 import json
 import os
 import sys
+import time
 import urllib.request
 from datetime import datetime, timezone, timedelta
 
@@ -174,8 +175,16 @@ def anchor_script(items):
     panelist wins; failure is non-fatal (script is a bonus artifact)."""
     prompt = ANCHOR_PROMPT.replace("{items}", items)
     for name, fn in PANELISTS:
+        r = None
+        for attempt in range(3):
+            try:
+                r = fn(prompt)
+                break
+            except Exception as e:
+                print(f"  anchor script via {name} attempt {attempt + 1} failed: {e}",
+                      file=sys.stderr)
+                time.sleep(10 * (attempt + 1))
         try:
-            r = fn(prompt)
             if r:
                 a = r["analysis"]
                 text = a.get("raw") if isinstance(a, dict) else None
