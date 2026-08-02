@@ -51,6 +51,7 @@ update:
         git config user.name "accountability-wire-bot"
         git config user.email "bot@users.noreply.gitlab.com"
         git add -A data site/public/data ':!*.mp4'
+        git add -f site/public/shorts/latest.mp4 2>/dev/null || true
         if ! git diff --cached --quiet; then
           git commit -m "Automated update: wire + panel data ($(date -u +%Y-%m-%dT%H:%MZ))"
           PUSH_URL="https://wire-bot:${GITLAB_PUSH_TOKEN}@${CI_SERVER_HOST}/${CI_PROJECT_PATH}.git"
@@ -61,7 +62,7 @@ update:
         fi
       fi
   artifacts:
-    paths: [data/posts/, site/public/data/]
+    paths: [data/posts/, site/public/data/, site/public/shorts/]
     expire_in: 2 days
 
 # Deploys site/ to Railway. Runs on pushes to main and after scheduled data

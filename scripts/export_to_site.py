@@ -8,6 +8,7 @@ Stdlib only.
 import glob
 import json
 import os
+import shutil
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 OUT = os.path.join(ROOT, "site", "public", "data")
@@ -39,6 +40,43 @@ def main():
             json.dump({"dates": dates}, f)
         print(f"export: panel-latest.json ({latest.get('date')}), "
               f"panel-index.json ({len(dates)} days)")
+
+    # Daily content package -> /studio (posts-latest.json + the Short itself)
+    post_dirs = sorted(glob.glob(os.path.join(ROOT, "data", "posts", "*")))
+    post_dirs = [d for d in post_dirs if os.path.isdir(d)]
+    if post_dirs:
+        pd = post_dirs[-1]
+        date = os.path.basename(pd)
+
+        def read(name):
+            p = os.path.join(pd, name)
+            if os.path.exists(p):
+                with open(p, encoding="utf-8") as f:
+                    return f.read()
+            return ""
+
+        thread = []
+        tj = os.path.join(pd, "x_thread.json")
+        if os.path.exists(tj):
+            with open(tj, encoding="utf-8") as f:
+                thread = json.load(f)
+
+        video_src = os.path.join(pd, "short.mp4")
+        has_video = os.path.exists(video_src)
+        if has_video:
+            shorts_dir = os.path.join(ROOT, "site", "public", "shorts")
+            os.makedirs(shorts_dir, exist_ok=True)
+            shutil.copyfile(video_src, os.path.join(shorts_dir, "latest.mp4"))
+        else:
+            has_video = os.path.exists(
+                os.path.join(ROOT, "site", "public", "shorts", "latest.mp4"))
+
+        with open(os.path.join(OUT, "posts-latest.json"), "w", encoding="utf-8") as f:
+            json.dump({"date": date, "thread": thread,
+                       "tiktok_script": read("tiktok_script.md"),
+                       "substack_md": read("substack_llm_news.md"),
+                       "has_video": has_video}, f)
+        print(f"export: posts-latest.json ({date}, video={has_video})")
 
 
 if __name__ == "__main__":
