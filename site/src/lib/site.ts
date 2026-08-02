@@ -11,6 +11,7 @@ export const SITE = {
 
 export const NAV = [
   { href: "/cases/", label: "Cases" },
+  { href: "/panel/", label: "24-Hour Panel" },
   { href: "/timeline/", label: "Timeline" },
   { href: "/topics/", label: "Topics" },
   { href: "/data/", label: "Data" },

@@ -9,3 +9,5 @@ build/
 *.tsbuildinfo
 *.log
 .vercel
+__pycache__/
+*.pyc

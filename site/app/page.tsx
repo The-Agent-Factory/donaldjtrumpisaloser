@@ -4,6 +4,7 @@ import { Section } from "@/components/ui/Section";
 import { Scoreboard } from "@/components/Scoreboard";
 import { EntryCard } from "@/components/EntryCard";
 import { BirthdayHero } from "@/components/BirthdayHero";
+import { HomePanelSection } from "@/components/PanelDigest";
 import { SubstackEmbed } from "@/components/monetization/SubstackEmbed";
 import { entries } from "@/content/entries";
 import { categories } from "@/content/categories";
@@ -70,6 +71,8 @@ export default function Home() {
           <Scoreboard />
         </Container>
       </Section>
+
+      <HomePanelSection />
 
       <Section className="border-t rule">
         <Container>

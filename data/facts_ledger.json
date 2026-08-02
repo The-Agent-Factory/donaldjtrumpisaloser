@@ -1,0 +1,112 @@
+{
+  "note": "The Documented Record. Every entry is a matter of court record, government filing, or on-the-record reporting by major outlets. Entries must cite at least one verifiable source. This ledger is the citable backbone of the site.",
+  "entries": [
+    {
+      "id": "ny-felony-conviction",
+      "category": "Criminal",
+      "date": "2024-05-30",
+      "fact": "A New York jury convicted Donald Trump on all 34 felony counts of falsifying business records in connection with a hush-money payment scheme (People v. Trump). He was sentenced on January 10, 2025 to an unconditional discharge, making him the first U.S. president to take office as a convicted felon.",
+      "sources": [
+        {"outlet": "Associated Press", "url": "https://apnews.com/hub/trump-hush-money-trial"},
+        {"outlet": "NY Courts (docket)", "url": "https://ww2.nycourts.gov/press/index.shtml"}
+      ]
+    },
+    {
+      "id": "ny-civil-fraud",
+      "category": "Civil fraud",
+      "date": "2024-02-16",
+      "fact": "In New York's civil fraud case (NY AG v. Trump et al.), Justice Arthur Engoron found Trump, his adult sons, and the Trump Organization liable for years of fraudulently inflating asset values, ordering roughly $454 million in disgorgement plus interest. In August 2025 a New York appeals court threw out the monetary penalty as constitutionally excessive while leaving liability findings in place; further appeals continue.",
+      "sources": [
+        {"outlet": "Reuters", "url": "https://www.reuters.com/legal/trump-civil-fraud-case/"},
+        {"outlet": "NY Attorney General", "url": "https://ag.ny.gov/press-releases"}
+      ]
+    },
+    {
+      "id": "carroll-verdicts",
+      "category": "Civil liability",
+      "date": "2023-05-09",
+      "fact": "Federal juries found Trump liable for sexually abusing and defaming writer E. Jean Carroll ($5 million, May 2023) and for further defamation ($83.3 million, January 2024). Both verdicts were upheld on appeal by the Second Circuit.",
+      "sources": [
+        {"outlet": "Associated Press", "url": "https://apnews.com/hub/e-jean-carroll"},
+        {"outlet": "Court Listener (Carroll v. Trump)", "url": "https://www.courtlistener.com/?q=carroll+v.+trump"}
+      ]
+    },
+    {
+      "id": "trump-university",
+      "category": "Fraud settlement",
+      "date": "2018-04-09",
+      "fact": "Trump paid $25 million to settle fraud claims from students of 'Trump University,' a real-estate seminar business that courts allowed to proceed to trial on fraud and racketeering claims before the settlement was finalized.",
+      "sources": [
+        {"outlet": "NPR", "url": "https://www.npr.org/2018/04/09/600894120/judge-finalizes-25-million-settlement-for-victims-of-trump-university"}
+      ]
+    },
+    {
+      "id": "trump-foundation",
+      "category": "Charity misuse",
+      "date": "2019-11-07",
+      "fact": "The Donald J. Trump Foundation was dissolved under court supervision after the New York Attorney General sued over 'a shocking pattern of illegality,' and Trump was ordered to pay $2 million in damages for misusing charitable funds, including to buy a portrait of himself and settle business debts.",
+      "sources": [
+        {"outlet": "New York Times", "url": "https://www.nytimes.com/2019/11/07/nyregion/trump-foundation-lawsuit-attorney-general.html"},
+        {"outlet": "NY Attorney General", "url": "https://ag.ny.gov/press-release/2019/donald-j-trump-pays-court-ordered-2-million-illegally-using-trump-foundation"}
+      ]
+    },
+    {
+      "id": "trump-org-tax-fraud",
+      "category": "Corporate criminal conviction",
+      "date": "2022-12-06",
+      "fact": "Two Trump Organization companies were convicted by a New York jury on 17 counts including tax fraud and falsifying business records, and fined $1.6 million. Longtime CFO Allen Weisselberg pleaded guilty and served jail time; he was jailed again in 2024 after pleading guilty to perjury.",
+      "sources": [
+        {"outlet": "Reuters", "url": "https://www.reuters.com/legal/trump-organization-found-guilty-tax-fraud-scheme-2022-12-06/"}
+      ]
+    },
+    {
+      "id": "six-bankruptcies",
+      "category": "Business failures",
+      "date": "1991-2009",
+      "fact": "Trump-branded businesses filed for Chapter 11 bankruptcy six times: Trump Taj Mahal (1991), Trump Castle (1992), Plaza Hotel (1992), Trump Plaza Casino (1992), Trump Hotels & Casino Resorts (2004), and Trump Entertainment Resorts (2009). Bondholders and contractors absorbed heavy losses.",
+      "sources": [
+        {"outlet": "Washington Post Fact Checker", "url": "https://www.washingtonpost.com/news/fact-checker/wp/2016/09/26/trumps-claim-that-he-never-filed-for-bankruptcy/"},
+        {"outlet": "PolitiFact", "url": "https://www.politifact.com/factchecks/2016/jun/21/hillary-clinton/yep-donald-trumps-companies-have-declared-bankrupt/"}
+      ]
+    },
+    {
+      "id": "meme-coins",
+      "category": "Self-enrichment in office",
+      "date": "2025-01-17",
+      "fact": "Days before his second inauguration, Trump launched the $TRUMP meme coin, and Melania Trump launched $MELANIA. Trump-affiliated entities control the large majority of the $TRUMP supply and earned hundreds of millions in trading fees while most retail buyers lost money, per on-chain analyses reported by Reuters and others. A dinner for top coin holders at his golf club drew bipartisan ethics alarms.",
+      "sources": [
+        {"outlet": "Reuters", "url": "https://www.reuters.com/technology/trump-meme-coin/"},
+        {"outlet": "NBC News", "url": "https://www.nbcnews.com/tech/crypto"}
+      ]
+    },
+    {
+      "id": "world-liberty-financial",
+      "category": "Family conflicts of interest",
+      "date": "2024-09-16",
+      "fact": "World Liberty Financial, a crypto venture in which Trump family members hold major economic interests, has generated enormous paper gains for the family while the administration sets crypto policy — including a $2 billion Abu Dhabi state-backed fund's investment routed through the venture's stablecoin, reported by the New York Times and examined by Senate investigators.",
+      "sources": [
+        {"outlet": "New York Times", "url": "https://www.nytimes.com/topic/company/world-liberty-financial"},
+        {"outlet": "Reuters", "url": "https://www.reuters.com/markets/currencies/"}
+      ]
+    },
+    {
+      "id": "kushner-saudi",
+      "category": "Family conflicts of interest",
+      "date": "2022-04-10",
+      "fact": "Six months after leaving the White House, Jared Kushner's new fund Affinity Partners received a $2 billion commitment from Saudi Arabia's sovereign wealth fund — over the objections of the fund's own screening panel, which cited his inexperience, per documents obtained by the New York Times. The investment has been a subject of Senate Finance Committee inquiry.",
+      "sources": [
+        {"outlet": "New York Times", "url": "https://www.nytimes.com/2022/04/10/us/jared-kushner-saudi-investment-fund.html"}
+      ]
+    },
+    {
+      "id": "trump-media-djt",
+      "category": "Self-enrichment in office",
+      "date": "2024-03-26",
+      "fact": "Trump Media & Technology Group (ticker DJT), majority-owned by Trump, went public via SPAC and has traded at valuations wildly disconnected from its revenue — with Trump's stake worth billions on paper while the company loses money, creating an unprecedented vehicle for anyone seeking to put money in a sitting president's pocket, as ethics experts have noted on the record.",
+      "sources": [
+        {"outlet": "Associated Press", "url": "https://apnews.com/hub/trump-media-technology-group"},
+        {"outlet": "SEC filings (TMTG)", "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=trump+media"}
+      ]
+    }
+  ]
+}

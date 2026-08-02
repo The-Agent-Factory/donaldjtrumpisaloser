@@ -111,3 +111,14 @@ This site is an independent, citation-based historical reference. It is not affi
 ## License
 
 MIT for the code (`LICENSE`). Content is licensed for non-commercial reuse with attribution.
+
+## Automation: the Accountability Wire pipeline
+
+This repo also carries an automated newsroom layer (see [PIPELINE.md](PIPELINE.md)):
+feed aggregation across the spectrum (Fox News, whitehouse.gov, NPR, Guardian, and
+more), a daily 24-Hour Panel where rival AI models (Claude, ChatGPT, Gemini, optional
+Grok / local Qwen) independently analyze the day, auto-generated distribution content
+(X thread, TikTok script, Substack "LLM News", YouTube Short), and JSON exports the
+site serves at `/data/*.json`. It runs on GitLab CI schedules — see `.gitlab-ci.yml`
+for setup. It never writes to `site/src/content/entries.ts`; the credibility gate for
+the curated record stays human-reviewed.
