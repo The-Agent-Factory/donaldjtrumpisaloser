@@ -2,7 +2,8 @@
   "feeds": [
     {"id": "foxnews-politics", "name": "Fox News Politics", "url": "https://moxie.foxnews.com/google-publisher/politics.xml", "bias_note": "right-leaning"},
     {"id": "foxnews-latest", "name": "Fox News Latest", "url": "https://moxie.foxnews.com/google-publisher/latest.xml", "bias_note": "right-leaning"},
-    {"id": "whitehouse", "name": "WhiteHouse.gov", "url": "https://www.whitehouse.gov/feed/", "bias_note": "official/primary-source"},
+    {"id": "whitehouse", "name": "WhiteHouse.gov News", "url": "https://www.whitehouse.gov/news/feed/", "bias_note": "official/primary-source"},
+    {"id": "whitehouse-actions", "name": "WhiteHouse.gov Presidential Actions", "url": "https://www.whitehouse.gov/presidential-actions/feed/", "bias_note": "official/primary-source"},
     {"id": "npr-politics", "name": "NPR Politics", "url": "https://feeds.npr.org/1014/rss.xml", "bias_note": "center"},
     {"id": "guardian-uspolitics", "name": "Guardian US Politics", "url": "https://www.theguardian.com/us-news/us-politics/rss", "bias_note": "left-leaning"},
     {"id": "politico", "name": "Politico", "url": "https://rss.politico.com/politics-news.xml", "bias_note": "center"},
