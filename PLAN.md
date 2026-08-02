@@ -1,6 +1,6 @@
 # djtloser — News-to-Timeline Ingestion — Plan
 
-**Last updated:** 2026-07-31
+**Last updated:** 2026-08-02
 **Status:** active
 **Goal:** Cheapest safe pipeline that gathers primary + general news feeds daily, filters to documentable legal/business outcomes, and queues structured candidate entries for the timeline. Phase 1 = gather+filter+queue+digest, no auto-publish, no secrets.
 
@@ -42,8 +42,16 @@
   - .gitlab-ci.yml merged: deploy_railway preserved; update job on schedules
     (PIPELINE_MODE=wire / panel); Railway redeploys after data updates.
 
+- ACTIVATED + LIVE (2026-08-02): MR !1 merged; schedules created (wire 2h / panel
+  11:00 UTC); CI vars set (GEMINI_API_KEY + GEMINI_MODEL=gemini-flash-latest,
+  GITLAB_PUSH_TOKEN rotated, SITE_URL); whitehouse.gov feeds fixed (/news/feed/ +
+  /presidential-actions/feed/); commit-back race fixed (rebase-first, non-fatal).
+  Site surfaces added: /wire, /studio (daily package + Short in-browser),
+  homepage wire strip. First panel ran on production: 21 articles, Gemini verdict
+  live, 74s Short at /shorts/latest.mp4. Next seats when keys added:
+  ANTHROPIC/OPENAI/XAI panelists, X + YouTube autopost, Substack publication.
 ## In flight
-- MR !1 awaiting Denis review/merge.
+- (none - Wire pipeline LIVE in production as of 2026-08-02)
 
 ## Next up (Wire pipeline ACTIVATE — all in GitLab UI, ~10 min)
 - [ ] Merge MR !1.
