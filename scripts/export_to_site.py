@@ -75,6 +75,7 @@ def main():
             json.dump({"date": date, "thread": thread,
                        "tiktok_script": read("tiktok_script.md"),
                        "substack_md": read("substack_llm_news.md"),
+                       "anchor_script": read("anchor_script.md"),
                        "has_video": has_video}, f)
         print(f"export: posts-latest.json ({date}, video={has_video})")
 

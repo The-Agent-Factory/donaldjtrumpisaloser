@@ -138,6 +138,55 @@ def ask_local(prompt):
 PANELISTS = [("claude", ask_claude), ("chatgpt", ask_openai),
              ("gemini", ask_gemini), ("grok", ask_grok), ("qwen-local", ask_local)]
 
+ANCHOR_PROMPT = """You write the daily segment for "THE CRIB REPORT" — a cartoon
+BABY news anchor (diaper, tiny suit, sippy cup of "coffee") who delivers REAL news.
+
+THE ONE UNBREAKABLE RULE: every factual statement, name, number, date, and quote
+must be EXACTLY what the sourced items below say. The comedy lives ONLY in the
+baby's persona, reactions, and delivery — never in altering, exaggerating, or
+inventing facts. If a fact isn't in the items below, it does not go in the script.
+
+Persona: world-weary veteran broadcaster energy in a baby's body. Deadpan.
+Occasionally derailed by baby problems (nap schedule, dropped pacifier, "my
+producer says I can't say that word"). Signs off every episode with:
+"I'm just a baby. Even I can see this. Back to you."
+
+Write a 60-90 second script (about 150-220 spoken words) covering the 2-3 biggest
+stories from the items below. Format:
+
+[COLD OPEN — delivery cue in brackets]
+Spoken line...
+[reaction cue]
+Spoken line...
+
+Rules for cues: brackets contain delivery/animation directions (facial expression,
+prop business, tone). Spoken lines contain the news. Attribute at least one story
+on-air ("NPR reports...", "according to the White House's own website...").
+End with the signature sign-off. Output ONLY the script, no preamble.
+
+HEADLINES (last 24h):
+{items}
+"""
+
+
+def anchor_script(items):
+    """One extra LLM call: the baby-anchor broadcast script. First available
+    panelist wins; failure is non-fatal (script is a bonus artifact)."""
+    prompt = ANCHOR_PROMPT.replace("{items}", items)
+    for name, fn in PANELISTS:
+        try:
+            r = fn(prompt)
+            if r:
+                a = r["analysis"]
+                text = a.get("raw") if isinstance(a, dict) else None
+                if not text and isinstance(a, dict):
+                    text = json.dumps(a, indent=1)
+                print(f"  anchor script: written by {name}")
+                return {"writer": name, "model": r["model"], "script": text or ""}
+        except Exception as e:
+            print(f"  anchor script via {name} failed: {e}", file=sys.stderr)
+    return None
+
 
 def consensus(reviews):
     """Merge panelist output without another LLM call: verdicts side by side,
@@ -199,6 +248,8 @@ def main():
               "GEMINI_API_KEY / XAI_API_KEY as repo secrets)")
         return
 
+    anchor = anchor_script(items)
+
     today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
     os.makedirs(OUTDIR, exist_ok=True)
     with open(os.path.join(OUTDIR, f"{today}.json"), "w") as f:
@@ -206,8 +257,10 @@ def main():
                    "generated": datetime.now(timezone.utc).isoformat(),
                    "article_count": len(recent),
                    "reviews": reviews,
-                   "consensus": consensus(reviews)}, f, indent=1)
-    print(f"panel: wrote data/panel/{today}.json with {len(reviews)} panelist(s)")
+                   "consensus": consensus(reviews),
+                   "anchor_script": anchor}, f, indent=1)
+    print(f"panel: wrote data/panel/{today}.json with {len(reviews)} panelist(s)"
+          f"{' + anchor script' if anchor else ''}")
 
 
 if __name__ == "__main__":

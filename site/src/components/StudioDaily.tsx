@@ -7,6 +7,7 @@ interface Posts {
   thread: string[];
   tiktok_script: string;
   substack_md: string;
+  anchor_script?: string;
   has_video: boolean;
 }
 
@@ -93,6 +94,26 @@ export function StudioDaily() {
               </div>
             ))}
           </div>
+        </div>
+      )}
+
+      {posts.anchor_script && (
+        <div>
+          <div className="flex items-baseline justify-between mb-4 flex-wrap gap-3">
+            <h2 className="font-serif">🍼 The Crib Report — anchor script</h2>
+            <CopyButton text={posts.anchor_script} label="Copy script" />
+          </div>
+          <p className="font-ui text-sm mb-3" style={{ color: "var(--text-muted)" }}>
+            Broadcast script for the baby-anchor avatar. Facts verbatim from
+            sourced coverage; the comedy is delivery-only. Feed it to your avatar
+            tool of choice.
+          </p>
+          <pre
+            className="border rule p-4 font-ui text-sm whitespace-pre-wrap overflow-x-auto"
+            style={{ background: "var(--surface)", color: "var(--text)" }}
+          >
+            {posts.anchor_script}
+          </pre>
         </div>
       )}
 

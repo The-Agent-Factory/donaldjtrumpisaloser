@@ -194,6 +194,15 @@ def main():
         f.write(build_tiktok_script(panel))
     with open(os.path.join(outdir, "substack_llm_news.md"), "w") as f:
         f.write(build_substack(panel))
+    anchor = panel.get("anchor_script") or {}
+    if anchor.get("script"):
+        with open(os.path.join(outdir, "anchor_script.md"), "w") as f:
+            f.write(f"# THE CRIB REPORT — {panel['date']}\n\n"
+                    f"*Baby-anchor broadcast script. All facts verbatim from "
+                    f"sourced coverage; comedy is delivery-only. "
+                    f"Written by {anchor.get('writer', '?')} "
+                    f"({anchor.get('model', '?')}).*\n\n---\n\n"
+                    + anchor["script"])
     print(f"posts: drafts written to data/posts/{panel['date']}/")
 
     if os.environ.get("AUTOPOST_X", "").lower() in ("1", "true", "yes"):
