@@ -16,8 +16,13 @@ each also redeploying the site) burned all 400 free min/month in days, then spam
       `railway up --service donaldjtrumpisaloser --ci` rebuilds the site.
       Env per service: GITLAB_PUSH_TOKEN, RAILWAY_TOKEN, SITE_URL, PIPELINE_MODE,
       REDEPLOY_SITE (+ GEMINI_API_KEY/GEMINI_MODEL on panel-cron). Commits a185190+eded9f5.
-- [ ] Watch first scheduled runs (wire: next even UTC hour; panel: 11:00 UTC) — check
-      `railway logs --service wire-cron`, expect a bot commit on main + site redeploy.
+- ⚠️ GOTCHA (cost a broken first deploy): `railway up` from a SUBDIRECTORY of a git repo
+      uploads the GIT ROOT, so the site's root railway.json won and wire-cron briefly ran a
+      second copy of the Next.js site with no cron. Correct command (from repo root):
+      `railway up ./railway-cron/wire --path-as-root --service wire-cron --detach`.
+- [ ] Watch first scheduled runs (wire: next even UTC hour after the --path-as-root
+      redeploy; panel: 11:00 UTC) — `railway logs --service wire-cron` should show
+      `[cron]` lines, then a bot commit on main + a fresh site deployment.
 - 💰 Cost knob: every wire run rebuilds the site (12 builds/day on Railway compute).
       Set `REDEPLOY_SITE=false` on wire-cron to only rebuild daily via panel-cron.
 **Goal:** Cheapest safe pipeline that gathers primary + general news feeds daily, filters to documentable legal/business outcomes, and queues structured candidate entries for the timeline. Phase 1 = gather+filter+queue+digest, no auto-publish, no secrets.
