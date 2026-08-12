@@ -28,10 +28,13 @@ stages:
 update:
   stage: update
   image: python:3.12-slim
+  # CI GATED 2026-08-12: the schedules burned the free tier's 400 min/month.
+  # The pipeline now runs on Railway cron services (railway-cron/). This job
+  # stays as a manual web-trigger fallback ONLY — never re-add schedule/push
+  # rules (schedules are also deactivated in CI/CD -> Schedules).
   rules:
-    - if: '$CI_PIPELINE_SOURCE == "schedule"'
     - if: '$CI_PIPELINE_SOURCE == "web"'
-    - if: '$CI_COMMIT_BRANCH == $CI_DEFAULT_BRANCH && $CI_PIPELINE_SOURCE == "push"'
+      when: manual
   cache:
     key: wire-data
     paths: [data/]
@@ -71,11 +74,11 @@ update:
 deploy_railway:
   stage: deploy
   image: node:20
+  # CI GATED 2026-08-12 (see update job). Site deploys happen from the Railway
+  # cron runs (railway up inside railway-cron/run.sh) or locally.
   rules:
     - if: '$CI_PIPELINE_SOURCE == "web"'
       when: manual
-    - if: '$CI_COMMIT_BRANCH == $CI_DEFAULT_BRANCH && $CI_PIPELINE_SOURCE == "push"'
-    - if: '$CI_PIPELINE_SOURCE == "schedule" && $CI_COMMIT_BRANCH == $CI_DEFAULT_BRANCH'
   script:
     - npm install -g @railway/cli
     - railway up --service donaldjtrumpisaloser --ci
