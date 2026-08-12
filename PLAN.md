@@ -1,7 +1,25 @@
 # djtloser — News-to-Timeline Ingestion — Plan
 
-**Last updated:** 2026-08-02
+**Last updated:** 2026-08-12
 **Status:** active
+
+## 🔷 2026-08-12 — WIRE/PANEL AUTOMATION MOVED OFF GITLAB CI → RAILWAY CRON
+GitLab dropped back to free tier; the two CI schedules (wire every 2h + panel daily,
+each also redeploying the site) burned all 400 free min/month in days, then spammed
+`ci_quota_exceeded` failures 13×/day.
+- [x] Both GitLab pipeline schedules DEACTIVATED (ids 4370287/4370288 — reactivate never).
+- [x] `.gitlab-ci.yml` gated: update + deploy_railway are manual web-triggers ONLY.
+- [x] Two Railway cron services in project donaldjtrumpisaloser.com (`railway-cron/`):
+      **wire-cron** `0 */2 * * *` and **panel-cron** `0 11 * * *` (UTC). Same Docker image
+      (python3.12 + git + ffmpeg + node/railway-cli); run.sh clones fresh, runs the
+      pipeline (PIPELINE_MODE env), commits data back with `-o ci.skip`, then
+      `railway up --service donaldjtrumpisaloser --ci` rebuilds the site.
+      Env per service: GITLAB_PUSH_TOKEN, RAILWAY_TOKEN, SITE_URL, PIPELINE_MODE,
+      REDEPLOY_SITE (+ GEMINI_API_KEY/GEMINI_MODEL on panel-cron). Commits a185190+eded9f5.
+- [ ] Watch first scheduled runs (wire: next even UTC hour; panel: 11:00 UTC) — check
+      `railway logs --service wire-cron`, expect a bot commit on main + site redeploy.
+- 💰 Cost knob: every wire run rebuilds the site (12 builds/day on Railway compute).
+      Set `REDEPLOY_SITE=false` on wire-cron to only rebuild daily via panel-cron.
 **Goal:** Cheapest safe pipeline that gathers primary + general news feeds daily, filters to documentable legal/business outcomes, and queues structured candidate entries for the timeline. Phase 1 = gather+filter+queue+digest, no auto-publish, no secrets.
 
 ## Decisions locked
