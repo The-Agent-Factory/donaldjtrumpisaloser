@@ -1,7 +1,62 @@
 {
- "updated": "2026-08-29T21:14:44.246770+00:00",
- "count": 121,
+ "updated": "2026-08-30T00:23:51.494738+00:00",
+ "count": 129,
  "articles": [
+  {
+   "id": "558a3bf3ebdfc969",
+   "title": "Beatty on Trump admin threats to demolish Kennedy Center: 'Who\u2019s going to stop them?'",
+   "url": "https://thehill.com/homenews/house/6059254-beatty-trump-kennedy-center-threat/",
+   "summary": "Rep. Joyce Beatty (D-Ohio) said Saturday she believes the ongoing legal battle over the Kennedy Center could stand in the way of President Trump tearing down the building, after his administration raised demolition as a possibility earlier this week. Beatty, an ex officio member of the center\u2019s board who has successfully challenged Trump\u2019s proposed changes...",
+   "published": "2026-08-29T23:23:13+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-08-30T00:23:50.499436+00:00"
+  },
+  {
+   "id": "020cf55810a7c9bc",
+   "title": "Drug institute warns that Trump-shaped ecstasy pills contain potentially fatal ingredient",
+   "url": "https://www.foxnews.com/health/drug-institute-warns-trump-shaped-ecstasy-pills-contain-potentially-fatal-ingredient",
+   "summary": "The Trimbos Institute in the Netherlands issued a red alert after Donald Trump-shaped ecstasy pills containing potentially fatal PMMA were handed in at testing centers.",
+   "published": "2026-08-29T22:28:40+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-08-30T00:23:48.324346+00:00"
+  },
+  {
+   "id": "8750099f00b68468",
+   "title": "Sunday shows preview: Trump admin economic tensions leave GOP vulnerable; U.S. foreign relations shift",
+   "url": "https://thehill.com/homenews/sunday-talk-shows/6059207-sunday-shows-trump-gop-economic-tensions-foreign-relations/",
+   "summary": "Republicans are nearing the final stretch of the midterm election cycle with an increasingly unstable political landscape, as races for traditionally safe red seats grow competitive amid tensions over President Trump\u2019s economic agenda. Democrats are looking to flip a handful of key battleground states to regain a Congressional majority come November. Senate races in Texas,...",
+   "published": "2026-08-29T22:19:40+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-08-30T00:23:50.499444+00:00"
+  },
+  {
+   "id": "073ec1d2e8da9e99",
+   "title": "Bill Maher ridicules liberals\u2019 'Lake America' outrage with jab at left-wing language police",
+   "url": "https://www.foxnews.com/media/bill-maher-ridicules-liberals-lake-america-outrage-jab-left-wing-language-police",
+   "summary": "Bill Maher mocked Democrats for opposing Trump&apos;s Lake Ontario renaming, comparing it to the left&apos;s own history of rebranding with terms like Latinx.",
+   "published": "2026-08-29T22:00:02+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-08-30T00:23:48.324367+00:00"
+  },
+  {
+   "id": "6557878d79fc47dd",
+   "title": "Leavitt is leaving the White House. Don't expect her to go far",
+   "url": "https://thehill.com/homenews/administration/6058288-karoline-leavitt-leaves-white-house/",
+   "summary": "Karoline Leavitt wrapped up her final day as White House press secretary on Thursday, but she is not expected to veer far from President Trump\u2019s orbit as Republicans seek to defend their majorities on Capitol Hill.  Trump and Leavitt announced earlier this month she would depart the White House to spend more time with her...",
+   "published": "2026-08-29T21:00:00+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-08-30T00:23:50.499449+00:00"
+  },
   {
    "id": "018ff0218053a034",
    "title": "Report claims MLB suspended prospect over fake identity plot that even included a phony death",
@@ -883,6 +938,17 @@
    "first_seen": "2026-08-29T21:14:43.675242+00:00"
   },
   {
+   "id": "9ec5458fc6425cbe",
+   "title": "Trump-backed businessman Mike Mazzei looks to secure GOP nomination for Oklahoma governor",
+   "url": "https://abcnews.com/Politics/wireStory/trump-backed-businessman-mike-mazzei-secure-gop-nomination-135925334",
+   "summary": "Tulsa businessman Mike Mazzei is hoping to win a hotly contested Republican primary runoff for Oklahoma governor against state Attorney General Gentner Drummond",
+   "published": "2026-08-25T11:40:13+00:00",
+   "source": "ABC News Politics",
+   "source_id": "abc-politics",
+   "bias_note": "center",
+   "first_seen": "2026-08-30T00:23:51.246230+00:00"
+  },
+  {
    "id": "acac055f37bd43d5",
    "title": "Kansas has not elected a Democrat to the US Senate since 1932. Will that change in November?",
    "url": "https://www.theguardian.com/us-news/2026/aug/25/democrat-adam-hamilton-kansas-senate",
@@ -914,6 +980,17 @@
    "source_id": "propublica",
    "bias_note": "investigative",
    "first_seen": "2026-08-29T21:14:43.675243+00:00"
+  },
+  {
+   "id": "768a223dcb029523",
+   "title": "MAGA Inc. spends $827,000 to back Darline Graham on final day of South Carolina GOP Senate runoff",
+   "url": "https://abcnews.com/Politics/wireStory/maga-spends-827000-back-darline-graham-final-day-135912775",
+   "summary": "Sen. Darline Graham and Rep. Ralph Norman are wrapping up their campaigns for South Carolina's Republican nomination in a special U.S. Senate primary",
+   "published": "2026-08-25T08:54:11+00:00",
+   "source": "ABC News Politics",
+   "source_id": "abc-politics",
+   "bias_note": "center",
+   "first_seen": "2026-08-30T00:23:51.246224+00:00"
   },
   {
    "id": "dd5b890b7001be1f",
@@ -991,6 +1068,17 @@
    "source_id": "propublica",
    "bias_note": "investigative",
    "first_seen": "2026-08-29T21:14:43.675246+00:00"
+  },
+  {
+   "id": "ce7cd5795e36d22e",
+   "title": "Trump is heading to his golf course in Ireland to watch the Irish Open golf tournament next month",
+   "url": "https://abcnews.com/Politics/wireStory/trump-heading-golf-ireland-watch-irish-open-golf-135891922",
+   "summary": "President Donald Trump plans to visit Ireland next month",
+   "published": "2026-08-24T05:45:42+00:00",
+   "source": "ABC News Politics",
+   "source_id": "abc-politics",
+   "bias_note": "center",
+   "first_seen": "2026-08-30T00:23:51.246195+00:00"
   },
   {
    "id": "04a9bd7e6c5be1cc",
