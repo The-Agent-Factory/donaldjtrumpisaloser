@@ -1,7 +1,183 @@
 {
- "updated": "2026-08-30T08:21:54.476537+00:00",
- "count": 133,
+ "updated": "2026-08-30T14:53:27.185819+00:00",
+ "count": 152,
  "articles": [
+  {
+   "id": "49251589cea13033",
+   "title": "Google Maps to change Lake Ontario to 'Lake America' on US phones",
+   "url": "https://thehill.com/policy/transportation/6059553-google-maps-renames-lake-america/",
+   "summary": "Google Maps on Saturday changed the name of Lake Ontario to \"Lake America\" for U.S. users, while keeping the name intact for Canadian Google users and carrying both names for international users, following President Trump's executive order to rename the Great Lake. The tech giant cited its name change to the U.S. Geographic Names Information...",
+   "published": "2026-08-30T14:45:08+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-08-30T14:53:14.245912+00:00"
+  },
+  {
+   "id": "db7053ba03de8149",
+   "title": "Canada claps back at Trump's efforts to rename Lake Ontario as 'Lake America'",
+   "url": "https://www.npr.org/2026/08/30/nx-s1-5949254/lake-ontario-america-doug-ford-trump-sign-google",
+   "summary": "Ontario Premier Doug Ford has unveiled a giant billboard reading: \"Lake Ontario \u2014 Now and Always.\" But tech giant Google has said it is renaming the lake for U.S. users, as President Trump demanded.",
+   "published": "2026-08-30T14:36:44+00:00",
+   "source": "NPR Politics",
+   "source_id": "npr-politics",
+   "bias_note": "center",
+   "first_seen": "2026-08-30T14:53:13.919776+00:00"
+  },
+  {
+   "id": "f89c9b77a9ca8603",
+   "title": "Ford says Trump renaming Lake Ontario is 'something out of Saturday Night Live'",
+   "url": "https://thehill.com/policy/international/6059521-ford-slams-lake-america-rename/",
+   "summary": "Ontario Premier Doug Ford on Sunday said that President Trump's executive order renaming Lake Ontario to \"Lake America\" resembled \"something out of 'Saturday Night Live.'\" Ford slammed Trump's trade war with Canada that placed a 50 percent tariff on $20 billion worth of Canadian goods in an interview with \"This Week\" host Martha Raddatz on...",
+   "published": "2026-08-30T14:18:04+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-08-30T14:53:14.245919+00:00"
+  },
+  {
+   "id": "13a6f019d21b364a",
+   "title": "Why is 'vegan' suddenly being used as a slur? | Emma Beddington",
+   "url": "https://www.theguardian.com/commentisfree/2026/aug/30/why-is-vegan-suddenly-being-used-as-a-slur",
+   "summary": "US republicans are tarnishing their plant-eating opponents at every opportunity. Yet vegans are perfectly suited to hold power \u2013 let me count the waysCool news, fellow soy boys and girls \u2013 we\u2019ve been promoted from feeble, tofu-eating wokerati to dangerous radicals unfit for public office. Politico reports that US Republicans have started throwing \u201cvegan\u201d around as a tactic to tarnish their political opponents. \u201cHe\u2019s a vegan,\u201d Trump warned of Democratic Texas senatorial candidate James Talarico in May, while Talarico\u2019s opponent, state attorney-general Ken Paxton, is trying to get the nickname \u201c",
+   "published": "2026-08-30T13:00:57+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-08-30T14:53:14.060558+00:00"
+  },
+  {
+   "id": "e39e814b1304216e",
+   "title": "Trump EPA is manipulating safety data around a highly toxic flame retardant, advocates allege",
+   "url": "https://www.theguardian.com/environment/2026/aug/30/trump-epa-data-toxic-flame-retardant",
+   "summary": "Widely used chemical TBBPA may present a danger to US public, and especially children, independent research findsThe Environmental Protection Agency is manipulating safety data around a highly toxic flame retardant deployed across the US economy, public health advocates allege.The chemical, TBBPA, has been found in dust in US homes and in consumer goods at combined levels that independent research has found may present a danger to the public, and especially small children. Continue reading...",
+   "published": "2026-08-30T13:00:56+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-08-30T14:53:14.060540+00:00"
+  },
+  {
+   "id": "a7074db04d5212fc",
+   "title": "Venezuelan interim president offers details on US oil deal",
+   "url": "https://thehill.com/policy/international/6059462-venezuela-us-oil-deal/",
+   "summary": "Venezuelan interim President Delcy Rodr\u00edguez on Saturday provided details on her country's new oil deal with the U.S., after President Trump said much of Venezuela's oil reserves will be under \"majority U.S. control.\" \"This 25-year bilateral project envisages the development of 17 strategic oilfields with a production \u200btarget of more than 1.5 million barrels per...",
+   "published": "2026-08-30T12:47:17+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-08-30T14:53:14.245951+00:00"
+  },
+  {
+   "id": "835a2f83b9b800c3",
+   "title": "Live updates: US-Venezuela oil deal sparks debate; Doug Ford set for Sunday show appearance",
+   "url": "https://thehill.com/homenews/administration/6059344-live-updates-trump-venezuela-oil-deal/",
+   "summary": "President Trump this weekend announced a\u00a0new deal\u00a0for the U.S. to acquire majority control of over 65 million barrels of Venezuelan oil, which has prompted a mixed response on the home front. Senate Democrats slammed the deal, describing the move as putting private profits over the safety of U.S. soldiers. GOP Sen. Bernie Moreno (Ohio) countered...",
+   "published": "2026-08-30T12:24:53+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-08-30T14:53:14.245957+00:00"
+  },
+  {
+   "id": "a2189fdecb50f7be",
+   "title": "Ontario premier unveils Lake Ontario sign in response to Trump\u2019s \u2018Lake America\u2019 order \u2013 video",
+   "url": "https://www.theguardian.com/world/video/2026/aug/30/doug-ford-lake-ontario-sign-trump-lake-america-video",
+   "summary": "The Canadian province's premier, Doug Ford, installed a billboard-sized sign on the lake's shoreline after the US president signed an executive order on Thursday directing US federal agencies to change the lake's name on US maps, documents and databases to 'Lake America'. Ford told reporters that the lake's name, which is more than 400 years old, would remain unchanged. Trade talks between the US and Canada collapsed last week, with each side \u200cblaming the \u2060other for derailing three days of intensive negotiationsTrump signs executive order to rename Lake Ontario as Lake America Continue reading",
+   "published": "2026-08-30T12:07:30+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-08-30T14:53:14.060603+00:00"
+  },
+  {
+   "id": "83a1256d9c42af82",
+   "title": "Politics chat: more tariffs, mail-in voting order, Kushner-Jeffries meeting",
+   "url": "https://www.npr.org/2026/08/30/nx-s1-5948115/politics-chat-more-tariffs-mail-in-voting-order-kushner-jeffries-meeting",
+   "summary": "Real economic sanctions on Canada and economic threats to countries trading with Iran may work against Republicans in the midterm elections.",
+   "published": "2026-08-30T12:02:26+00:00",
+   "source": "NPR Politics",
+   "source_id": "npr-politics",
+   "bias_note": "center",
+   "first_seen": "2026-08-30T14:53:13.919785+00:00"
+  },
+  {
+   "id": "4ce6bf407baddf0d",
+   "title": "Silicon Valley exec ignites firestorm after accusing JD Vance of bringing DEI back",
+   "url": "https://www.foxnews.com/politics/silicon-valley-exec-ignites-firestorm-after-accusing-jd-vance-bringing-dei-back",
+   "summary": "Silicon Valley exec Ankit Gupta\u2019s X post describing JD Vance\u2019s push to hire and train Americans as a return of &apos;DEI&apos; drew sharp rebukes from Trump officials and conservative voices.",
+   "published": "2026-08-30T12:00:33+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-08-30T14:53:05.154201+00:00"
+  },
+  {
+   "id": "f81abd11e8dfb1f3",
+   "title": "What happens when Republican senators have nothing left to lose? Not much.",
+   "url": "https://thehill.com/opinion/congress-blog/6057763-senators-abandoning-constitutional-checks/",
+   "summary": "Often\u00a0called\u00a0the \u201cWounded Bear\u201d\u00a0or YOLO (\u201cyou only live once\u201d)\u00a0Caucus,\u00a0these lawmakers have nothing to lose.\u00a0But\u00a0despite a greater willingness to voice objections to Trump nominations and policies,\u00a0they almost never vote\u00a0\u201cno\u201d\u00a0when it counts.",
+   "published": "2026-08-30T12:00:00+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-08-30T14:53:14.245963+00:00"
+  },
+  {
+   "id": "5d41e980f3400a85",
+   "title": "Documents leaked by Trump official to bolster a conspiracy show \u2018absolutely nothing\u2019",
+   "url": "https://www.theguardian.com/us-news/2026/aug/30/state-department-global-engagement-center-leaked-documents-foreign-propaganda",
+   "summary": "Inside the US state department, critics are still attacking a shuttered office established to counter foreign propaganda. Now, some of its work is also being resumedA botched leak of purportedly explosive government files to a prominent conservative online personality was supposed to offer proof of what the Trump administration and its allies have long alleged: that a little-known office inside the US state department, created to fight foreign propaganda, had secretly become a tool for domestic censorship.Two former high-ranking officials at the Global Engagement Center (GEC), a target of Repu",
+   "published": "2026-08-30T10:00:53+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-08-30T14:53:14.060551+00:00"
+  },
+  {
+   "id": "af2831bc010da692",
+   "title": "Newsom hit with lawsuit threat as whistleblower begs Trump for help with \u2018monumental\u2019 fraud scandal",
+   "url": "https://www.foxnews.com/politics/newsom-hit-lawsuit-threat-whistleblower-begs-trump-help-monumental-fraud-scandal",
+   "summary": "Assemblyman Carl DeMaio says he plans to file a lawsuit against Gavin Newsom&apos;s new California law that he claims criminalizes citizen journalism.",
+   "published": "2026-08-30T10:00:12+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-08-30T14:53:05.154218+00:00"
+  },
+  {
+   "id": "f69aa66f877d2439",
+   "title": "Zelensky\u2019s wonder-boy former defense minister goes rogue",
+   "url": "https://thehill.com/policy/international/6057730-former-minister-corruption-claims/",
+   "summary": "Mykhailo Fedorov rocketed to prominence as a driving force in Ukraine\u2019s pioneering use of drones in the fight against Russia, eventually becoming the country\u2019s third defense minister of the war. Since being removed from that role last month, the wonder boy adviser to Ukrainian President Volodymyr Zelensky has taken a sharp turn against the administration...",
+   "published": "2026-08-30T10:00:00+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-08-30T14:53:14.245987+00:00"
+  },
+  {
+   "id": "bb340ac8d8e5f90c",
+   "title": "GOP gambles on midterm dividends from RFK Jr.\u2019s MAHA",
+   "url": "https://thehill.com/policy/healthcare/6058532-trump-maha-midterm-impact/",
+   "summary": "Less than three months ahead of the midterm elections, the main political organization supporting Robert F. Kennedy Jr.'s Make America Healthy Again (MAHA) movement has barely made a splash to help boost Republican candidates.  President Trump and parts of the Republican Party have aligned his Make America Great Again (MAGA) movement with MAHA and Kennedy,...",
+   "published": "2026-08-30T10:00:00+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-08-30T14:53:14.245996+00:00"
+  },
+  {
+   "id": "fb03f91d7cd22468",
+   "title": "Trump administration deports relative of Afghans who helped US military to Central African Republic",
+   "url": "https://www.npr.org/2026/08/30/nx-s1-5949230/trump-administration-deports-afghan-central-african-republic",
+   "summary": "His family in Afghanistan had received threats from the Taliban because of the work performed by his brothers in support of the U.S. military.",
+   "published": "2026-08-30T08:32:13+00:00",
+   "source": "NPR Politics",
+   "source_id": "npr-politics",
+   "bias_note": "center",
+   "first_seen": "2026-08-30T14:53:13.919797+00:00"
+  },
   {
    "id": "1e145e18f9cd33fa",
    "title": "Trump\u2019s \u2018economic D-day\u2019 against Iran risks driving the stakes even higher | Sina Toossi",
@@ -298,6 +474,39 @@
    "source_id": "guardian-uspolitics",
    "bias_note": "left-leaning",
    "first_seen": "2026-08-29T21:14:42.935282+00:00"
+  },
+  {
+   "id": "1673e858978b697c",
+   "title": "\u2018If it\u2019s made in the US, I don\u2019t buy it\u2019: Canadians on boycotting Trump\u2019s America",
+   "url": "https://www.theguardian.com/business/2026/aug/29/if-its-made-in-the-us-i-dont-buy-it-canadians-on-boycotting-trumps-america",
+   "summary": "Avoiding US goods and services \u2013 from tech to whisky to air travel \u2013 has forced many to find a new way of livingFor William McDonald, 38, a diesel mechanic from Thunder Bay, Ontario, \u201cCanadian is always the first choice,\u201d even if it means his weekly bills are higher.\u201cAs soon as Trump started putting those tariffs on in February [last year], I started boycotting US goods,\u201d he said. \u201cAvoiding American products has driven my costs up, and I\u2019m still happy to do it. Continue reading...",
+   "published": "2026-08-29T12:02:55+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-08-30T14:53:14.060583+00:00"
+  },
+  {
+   "id": "c7cdf2bd5eb5bc15",
+   "title": "Trump\u2019s DHS is using an obscure law to secretly snoop on journalists, non-profits and unions: \u2018It\u2019s outrageous\u2019",
+   "url": "https://www.theguardian.com/us-news/2026/aug/29/trump-dhs-1509-summons-records-journalists-nonprofits",
+   "summary": "Even after judges rejected the same ploy, the Trump administration is going directly to social media and telecommunications companiesThe Trump administration has been deploying an obscure legal maneuver to try to obtain private information on journalists, non-profits and unions, raising alarm over a power the government has asserted without judicial oversight.In one instance, the government obtained six months of telephone records for Georgia Fort, a Minneapolis journalist. Fort was not notified of the request for her information, nor was she given a chance to contest the government\u2019s effort t",
+   "published": "2026-08-29T12:00:28+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-08-30T14:53:14.060590+00:00"
+  },
+  {
+   "id": "fe2d479c4c68bde2",
+   "title": "\u2018Inept, incompetent, craven\u2019: Scott Bessent struggles to clean up the president\u2019s mess",
+   "url": "https://www.theguardian.com/business/2026/aug/29/scott-bessant-us-economy-donald-trump",
+   "summary": "There\u2019s little optimism about treasury secretary\u2019s ability to handle Trump\u2019s tariffs, Iran sanctions and colossal US debtHistory remembers Gen Dwight Eisenhower, the supreme commander of the allied forces in Europe during the second world war, for his role in the D-day invasion of Normandy. Whether Scott Bessent will achieve similar posterity as the face of the \u201ceconomic D-day\u201d in Iran remains to be seen.The US treasury secretary, already trying to manage a $40tn national debt pile, this week took charge of Donald Trump\u2019s effort to reverse-engineer his war of choice. Whereas the US would typic",
+   "published": "2026-08-29T12:00:27+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-08-30T14:53:14.060596+00:00"
   },
   {
    "id": "3796a75792958b3c",
