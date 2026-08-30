@@ -1,7 +1,51 @@
 {
- "updated": "2026-08-30T00:23:51.494738+00:00",
- "count": 129,
+ "updated": "2026-08-30T08:21:54.476537+00:00",
+ "count": 133,
  "articles": [
+  {
+   "id": "1e145e18f9cd33fa",
+   "title": "Trump\u2019s \u2018economic D-day\u2019 against Iran risks driving the stakes even higher | Sina Toossi",
+   "url": "https://www.theguardian.com/commentisfree/2026/aug/30/trump-economic-d-day-iran-stakes-higher-war",
+   "summary": "As with its approach to Hormuz, the US has mistaken applying pressure for an actual strategy. But Tehran has chips of its own to playDonald Trump has found a new way to promise victory over Iran. After months of war have failed to force Iran\u2019s capitulation or collapse, his administration has unveiled what the US Treasury secretary, Scott Bessent, calls Operation Economic Outcast: an effort to cut it off from what remains of the global economy and threaten foreign governments, banks and companies with sanctions if they continue doing business with Tehran.There is no question that Iran is vulner",
+   "published": "2026-08-30T07:00:49+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-08-30T08:21:53.290251+00:00"
+  },
+  {
+   "id": "dc015f12c9339176",
+   "title": "Iceland votes on resuming EU membership talks as Trump's push for neighboring Greenland looms over debate",
+   "url": "https://www.foxnews.com/politics/iceland-votes-resuming-eu-membership-talks-trump-push-neighboring-greenland-looms-debate",
+   "summary": "President Donald Trump&apos;s push to acquire Greenland added a new security dimension to Iceland&apos;s EU referendum, with 275,000 eligible voters weighing in.",
+   "published": "2026-08-30T05:44:44+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-08-30T08:21:52.703497+00:00"
+  },
+  {
+   "id": "0eff08453bf6d7e1",
+   "title": "PGA Tour taps Donald Trump to reprise honorary chairman role for Presidents Cup, White House confirms",
+   "url": "https://www.foxnews.com/outkick-sports/pga-tour-taps-donald-trump-reprise-honorary-chairman-role-presidents-cup-white-house-confirms",
+   "summary": "The PGA Tour announced Donald Trump as honorary chairman of the 2026 Presidents Cup at Medinah Country Club, continuing a tradition of world leaders.",
+   "published": "2026-08-30T02:55:12+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-08-30T08:21:52.748398+00:00"
+  },
+  {
+   "id": "8f0f694ce3a6f535",
+   "title": "Tucker Carlson: Trump needs to be removed from office 'immediately'",
+   "url": "https://thehill.com/media/6059334-carlson-says-trump-should-be-removed/",
+   "summary": "Conservative podcaster Tucker Carlson said Friday that President Trump should be removed from office if he is considering using nuclear weapons first, saying even entertaining the possibility should disqualify a president from serving. \u201cThe second any president actively considers the first use of nuclear weapons, that person should be removed from office immediately, because that\u2019s...",
+   "published": "2026-08-30T02:36:24+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-08-30T08:21:53.538286+00:00"
+  },
   {
    "id": "558a3bf3ebdfc969",
    "title": "Beatty on Trump admin threats to demolish Kennedy Center: 'Who\u2019s going to stop them?'",
