@@ -1,7 +1,73 @@
 {
- "updated": "2026-08-30T19:20:35.010899+00:00",
- "count": 169,
+ "updated": "2026-08-30T22:48:21.274903+00:00",
+ "count": 175,
  "articles": [
+  {
+   "id": "49987f0481979d1a",
+   "title": "Freedom Fuel gas stations sold stolen fuel, lawsuit claims",
+   "url": "https://thehill.com/policy/energy-environment/6059912-freedom-fuel-lawsuit-unpaid-gas/",
+   "summary": "Freedom Fuel gas stations, which the Trump administration promoted last month, sold fuel that its supplier never paid for, according to a lawsuit filed earlier this month. The suit, which attorneys for Mansfield Oil Company filed in U.S. District Court in Eastern Pennsylvania on Aug. 19, alleges that KRSM, a foreign corporation, obtained in excess...",
+   "published": "2026-08-30T21:20:01+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-08-30T22:48:20.271901+00:00"
+  },
+  {
+   "id": "11e9b9add88c33ed",
+   "title": "USDA reportedly shelves cyclospora research amid relocations and fund cuts",
+   "url": "https://www.theguardian.com/us-news/2026/aug/30/usda-cyclospora-research-projects-shelved",
+   "summary": "Trump officials shuttering three projects on foodborne parasite, two defunded by Congress, Politico reportsThe Trump administration is shuttering \u2060two of the three US Department of Agriculture research projects studying cyclospora after the foodborne parasite has \u2060sickened tens of thousands of Americans during the summer, Politico reported on Sunday.The two projects were defunded by Congress earlier in the year, while the third is \u2060due to be moved in coming months from Maryland to Iowa as part of a broader USDA reorganization, according to the \u2060report. Continue reading...",
+   "published": "2026-08-30T21:10:56+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-08-30T22:48:18.987443+00:00"
+  },
+  {
+   "id": "2c142bafcb697851",
+   "title": "Republicans ready for 'very hasty' 'Trump-a-palooza' convention in Texas",
+   "url": "https://thehill.com/homenews/campaign/6058289-rnc-midterm-convention-dallas/",
+   "summary": "The Republican National Committee\u2019s (RNC) first-of-its-kind midterm convention has been cloaked in mystery until a few weeks ago. Details are finally emerging about what\u2019s expected to be a two-day pep rally to bolster hype and encourage Republicans to get out the vote in November amid President Trump\u2019s shrinking approval rate. But some Republicans are quietly...",
+   "published": "2026-08-30T21:00:00+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-08-30T22:48:20.271919+00:00"
+  },
+  {
+   "id": "b26081b9744f1cce",
+   "title": "Greene condemns Loomer\u2019s rhetoric: \u2018This is Trump\u2019s new MAGA and Republican Party\u2019",
+   "url": "https://thehill.com/homenews/media/6059887-marjorie-taylor-greene-denounces-loomer/",
+   "summary": "Former Rep. Marjorie Taylor Greene (R-Ga.) on Sunday slammed right-wing influencer Laura Loomer's remarks posted on social media, condemning them as President Trump's \"new MAGA and Republican Party.\" Greene reacted to an inflammatory post shared by Loomer on the social platform X directed at Florida state Rep. Angie Nixon (D), who is running for Senate....",
+   "published": "2026-08-30T20:21:53+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-08-30T22:48:20.271925+00:00"
+  },
+  {
+   "id": "55a2a55047dcddee",
+   "title": "Trump: 'I don't want Canadian anything'",
+   "url": "https://thehill.com/homenews/administration/6059848-trump-canada-import-tariffs/",
+   "summary": "President Trump said Sunday he does not want U.S. businesses to import Canadian goods amid continued tariff tensions between the two countries. In a post on Truth Social, Trump said his tariffs \u201crevived, and indeed saved\u201d the American automobile industry, pointing to profits made by Ford, General Motors and other U.S. car companies during his...",
+   "published": "2026-08-30T20:10:36+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-08-30T22:48:20.271930+00:00"
+  },
+  {
+   "id": "a73dfb12201e2b5d",
+   "title": "Ivanka Trump takes surfing lesson in Costa Rica during latest family beach vacation getaway",
+   "url": "https://www.foxnews.com/entertainment/ivanka-trump-takes-surfing-lesson-costa-rica-family-beach-vacation-getaway",
+   "summary": "Ivanka Trump was photographed taking a surfing lesson in Costa Rica during a family vacation, riding waves on a green surfboard in new photos.",
+   "published": "2026-08-30T20:00:04+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-08-30T22:48:18.277079+00:00"
+  },
   {
    "id": "88d768bd5b6f3803",
    "title": "Trump promises to 'fill up' SPR after US-Venezuela oil deal",
