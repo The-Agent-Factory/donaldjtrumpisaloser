@@ -1,7 +1,40 @@
 {
- "updated": "2026-08-30T14:53:27.185819+00:00",
- "count": 152,
+ "updated": "2026-08-30T15:13:55.018665+00:00",
+ "count": 155,
  "articles": [
+  {
+   "id": "46b5cc62def54e9a",
+   "title": "Trump promises NBC's Welker will be reported to FCC 'for rebuke or punishment'",
+   "url": "https://thehill.com/homenews/media/6059558-trump-threatens-nbc-welker-fcc/",
+   "summary": "President Trump said Sunday that NBC News's \"Meet the Press\" host Kristen Welker will be reported to the Federal Communications Commission (FCC) after she reportedly said on the program that Trump-endorsed candidates have had mixed results this election cycle. \"Kristen Welker, the Unpopular 'Hostess' of the once great Meet the Press, now considered Meet the...",
+   "published": "2026-08-30T15:02:28+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-08-30T15:13:53.799468+00:00"
+  },
+  {
+   "id": "f1acf504161f40da",
+   "title": "Canada erects giant \u2018Lake Ontario\u2019 sign as spat with Trump over name escalates",
+   "url": "https://www.theguardian.com/us-news/2026/aug/30/canada-trump-lake-ontario-name",
+   "summary": "Meanwhile, Trump posts video of himself kicking over a Lake Ontario sign and replacing it with Lake America signDonald Trump and Canada continued a verbal duel on Saturday over the US government\u2019s administrative renaming of Lake Ontario, with the country erecting a giant sign saying \u201cLake Ontario. Now and Always\u201d \u2013 and the American president posting a video of him tearing down an avatar of that sign, erecting a replacement saying Lake America, and dancing to YMCA.Rhetoric over the naming of Lake Ontario is the public face of an escalating trade dispute between the US and its northern neighbor ",
+   "published": "2026-08-30T14:55:55+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-08-30T15:13:53.515053+00:00"
+  },
+  {
+   "id": "09f480573f733763",
+   "title": "Homan pushes back on alleged ICE arrests of parents at bus stops",
+   "url": "https://thehill.com/policy/national-security/6059574-homan-ice-bus-stop-arrests/",
+   "summary": "White House border czar Tom Homan on Sunday pushed back on the idea of Immigration and Customs Enforcement (ICE) arresting parents at bus stops in Connecticut, as alleged by Sen. Chris Murphy (D-Conn.) this week. \"I pointed out, the last two years, no one can point to one single incidence we arrested anybody in elementary...",
+   "published": "2026-08-30T14:55:50+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-08-30T15:13:53.799499+00:00"
+  },
   {
    "id": "49251589cea13033",
    "title": "Google Maps to change Lake Ontario to 'Lake America' on US phones",
