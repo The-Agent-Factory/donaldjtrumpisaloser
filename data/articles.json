@@ -1,7 +1,150 @@
 {
- "updated": "2026-08-30T15:13:55.018665+00:00",
- "count": 155,
+ "updated": "2026-08-30T19:20:35.010899+00:00",
+ "count": 169,
  "articles": [
+  {
+   "id": "88d768bd5b6f3803",
+   "title": "Trump promises to 'fill up' SPR after US-Venezuela oil deal",
+   "url": "https://thehill.com/homenews/administration/6059809-trump-venezuela-spr-deal/",
+   "summary": "President Trump said Sunday the U.S. will \u201cfill up\u201d the Strategic Petroleum Reserve (SPR) as a result of the oil deal his administration reached with the Venezuelan government. \u201cOne of the things I am going to do with the Venezuelan Oil is fill up the Strategic National Reserves,\u201d Trump wrote on Truth Social, adding the...",
+   "published": "2026-08-30T19:11:22+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-08-30T19:20:34.265419+00:00"
+  },
+  {
+   "id": "8ab9224bfbf78fdb",
+   "title": "Trump \u2018border czar\u2019 denies that Milo Yiannopoulos was deported for political reasons",
+   "url": "https://www.theguardian.com/us-news/2026/aug/30/trump-border-czar-tom-homan-milo-yiannopoulos-arrest-deportation",
+   "summary": "Tom Homan says rightwing influencer overstayed visitor visa after receiving final order of removalThe White House \u201cborder czar,\u201d Tom Homan, denied on Sunday that the British far-right commentator Milo Yiannopoulos was deported just a day after being arrested by US Immigration and Customs Enforcement (ICE) for political reasons.Homan said it was his understanding that Yiannopoulos, 41, had overstayed what he believed to be a visitor visa, had not appeared at an immigration hearing and was issued a final order of removal on 22 July. Continue reading...",
+   "published": "2026-08-30T19:04:44+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-08-30T19:20:34.047090+00:00"
+  },
+  {
+   "id": "8ca08234e224147a",
+   "title": "Trump vows to report NBC anchor Kristen Welker to FCC over 'purposeful inaccuracy' on endorsements",
+   "url": "https://www.foxnews.com/media/trump-vows-report-nbc-anchor-kristen-welker-fcc-over-purposeful-inaccuracy-endorsements",
+   "summary": "Trump announced on Truth Social that Kristen Welker will be reported to the FCC after she described his primary endorsement record as mixed results.",
+   "published": "2026-08-30T19:04:13+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-08-30T19:20:33.468393+00:00"
+  },
+  {
+   "id": "bbeb9b05c4a16588",
+   "title": "Trump won the heart of Michigan\u2019s Arab American community. They're moving away from Mike Rogers.",
+   "url": "https://www.politico.com/news/2026/08/30/michigan-arab-muslim-vote-senate-el-sayed-rogers-01055928",
+   "summary": "The messy Senate race in Michigan has laid bare Republicans\u2019 floundering support from the Arab American community, which boosted Donald Trump in 2024.",
+   "published": "2026-08-30T18:00:00+00:00",
+   "source": "Politico",
+   "source_id": "politico",
+   "bias_note": "center",
+   "first_seen": "2026-08-30T19:20:34.199441+00:00"
+  },
+  {
+   "id": "fe6d6899032fb26b",
+   "title": "Chicago mayor demands companies reveal whether leaders \u2018reflect diversity\u2019 for city contracts",
+   "url": "https://www.foxnews.com/media/chicago-mayor-demands-companies-reveal-whether-leaders-reflect-diversity-city-contracts",
+   "summary": "DHS accused Brandon Johnson of punishing businesses that help ICE enforce federal immigration law after the Chicago mayor signed a new executive order.",
+   "published": "2026-08-30T17:57:12+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-08-30T19:20:33.468434+00:00"
+  },
+  {
+   "id": "f47768c2a1f1cc8b",
+   "title": "Homan after Milo Yiannopoulos deportation: 'Get them out quick'",
+   "url": "https://thehill.com/homenews/administration/6059702-homan-milo-yiannopoulos-deported/",
+   "summary": "White House border czar Tom Homan on Sunday said federal immigration enforcement authorities \"get them out quick\" after officials detained and swiftly deported far-right provocateur Milo Yiannopoulos last week. The Department of Homeland Security (DHS) previously stated that Immigration and Customs Enforcement (ICE) detained the British national after he overstayed his visa. He was issued...",
+   "published": "2026-08-30T17:52:48+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-08-30T19:20:34.265465+00:00"
+  },
+  {
+   "id": "343d1ba322a50512",
+   "title": "Trump surprises NASA officials with call after Roman Space Telescope launch",
+   "url": "https://www.foxnews.com/media/trump-surprises-nasa-officials-call-after-roman-space-telescope-launch",
+   "summary": "Trump dialed into a NASA press conference after the Nancy Grace Roman Space Telescope launched aboard a SpaceX Falcon Heavy from Florida.",
+   "published": "2026-08-30T17:28:04+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-08-30T19:20:33.468451+00:00"
+  },
+  {
+   "id": "003114e9efdac3cc",
+   "title": "Trump says NBC\u2019s Kristen \u200cWelker should face \u2018punishment\u2019 from FCC",
+   "url": "https://www.theguardian.com/us-news/2026/aug/30/trump-nbc-kristen-welker-fcc",
+   "summary": "Trump\u2019s threat comes after host described success record of candidates whom president had endorsed as \u2018mixed\u2019Donald Trump \u2060on Sunday said NBC\u2019s Kristen \u200cWelker \u2013 host of Meet the Press \u2013 should face \u201crebuke or punishment\u201d from the Federal Communications Commission (FCC).Preceding Trump\u2019s comments was a live shot by Welker in which she described the success record of political candidates whom president had endorsed as \u201cmixed\u201d on Washington DC\u2019s NBC affiliate prior to the airing of Sunday\u2019s edition of Meet the Press. Continue reading...",
+   "published": "2026-08-30T17:16:52+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-08-30T19:20:34.047107+00:00"
+  },
+  {
+   "id": "e63375ee24e43fe3",
+   "title": "Trump indicates support for Christian-backed plan to help Canadian Jews escape antisemitism",
+   "url": "https://www.foxnews.com/politics/trump-indicates-support-christian-backed-plan-help-canadian-jews-escape-antisemitism",
+   "summary": "Trump amplified a plan for expedited legal pathways for Jewish Canadians fleeing antisemitic persecution as Christian lawmakers press his administration.",
+   "published": "2026-08-30T16:45:00+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-08-30T19:20:33.424586+00:00"
+  },
+  {
+   "id": "288a47c1ea62cb37",
+   "title": "Ted Cruz defends Trump's 'accomplished' Iran messaging, citing 'multiple missions'",
+   "url": "https://thehill.com/homenews/senate/6059593-cruz-defends-iran-mission/",
+   "summary": "Sen. Ted Cruz (R-Texas) on Sunday said the U.S. is engaged in \"multiple missions\" in its conflict with Iran, defending the Trump administration's efforts in the war that hit its six-month mark on Friday. NBC's Kristen Welker on \"Meet the Press\" showed Cruz a graphic shared by President Trump on Truth Social stating, \"Mission accomplished,\"...",
+   "published": "2026-08-30T16:13:54+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-08-30T19:20:34.265527+00:00"
+  },
+  {
+   "id": "cc446520fc49ef2e",
+   "title": "Trump just brokered a deal with the country sitting atop the world\u2019s largest oil reserves",
+   "url": "https://www.foxnews.com/politics/trump-just-brokered-deal-country-sitting-atop-worlds-largest-oil-reserves",
+   "summary": "President Donald Trump&apos;s Venezuela oil deal targets 65 billion barrels across 17 fields, but major infrastructure hurdles stand before pump relief.",
+   "published": "2026-08-30T16:09:12+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-08-30T19:20:33.424605+00:00"
+  },
+  {
+   "id": "eecf08d62dff607d",
+   "title": "5 years after withdrawal, a grave picture for Afghans inside and outside the US",
+   "url": "https://thehill.com/policy/international/6058295-afghan-withdrawal-anniversary-deportations-tps-sivs/",
+   "summary": "The fifth anniversary of the U.S. withdrawal from Afghanistan falls as the nation\u2019s citizens face a starkly different picture than when they first arrived in America, with the Trump administration employing numerous tactics to deport Afghans and halt the arrival of new refugees. Since President Trump returned to office, he has drastically curtailed the pathways...",
+   "published": "2026-08-30T16:00:00+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-08-30T19:20:34.265536+00:00"
+  },
+  {
+   "id": "cd48c56fee2d6f5e",
+   "title": "Ontario premier answers Trump's 'Lake America' with giant 'Lake Ontario' sign",
+   "url": "https://www.pbs.org/newshour/world/ontario-premier-answers-trumps-lake-america-with-giant-lake-ontario-sign",
+   "summary": "The 24-by-12-foot sign stands on 6-foot legs, putting its top about 18 feet above the ground \u2014 roughly two stories high.",
+   "published": "2026-08-30T15:37:07+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-08-30T19:20:34.347942+00:00"
+  },
   {
    "id": "46b5cc62def54e9a",
    "title": "Trump promises NBC's Welker will be reported to FCC 'for rebuke or punishment'",
@@ -672,6 +815,17 @@
    "source_id": "foxnews-politics",
    "bias_note": "right-leaning",
    "first_seen": "2026-08-29T21:14:42.131016+00:00"
+  },
+  {
+   "id": "0773efe9534b4897",
+   "title": "How President Trump's efforts to change voting laws may play out in the midterms",
+   "url": "https://www.npr.org/2026/08/28/nx-s1-5945714/how-president-trumps-efforts-to-change-voting-laws-may-playout-in-the-midterms",
+   "summary": "President Trump is trying to change how people vote. How will that impact midterm voters?",
+   "published": "2026-08-28T19:52:42+00:00",
+   "source": "NPR Politics",
+   "source_id": "npr-politics",
+   "bias_note": "center",
+   "first_seen": "2026-08-30T19:20:33.874685+00:00"
   },
   {
    "id": "e979d568a9049acd",
