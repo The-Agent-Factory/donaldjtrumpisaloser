@@ -1,7 +1,128 @@
 {
- "updated": "2026-08-31T17:56:43.718618+00:00",
- "count": 205,
+ "updated": "2026-08-31T20:09:25.995847+00:00",
+ "count": 216,
  "articles": [
+  {
+   "id": "c26da915a0fadcf1",
+   "title": "House Dems move to block Trump's attempted renaming of Lake Ontario",
+   "url": "https://thehill.com/homenews/house/6061830-trump-lake-ontario-america-canada-trade-war/",
+   "summary": "A trio of House Democrats introduced legislation on Monday to block President Trump from renaming Lake Ontario as Lake America, which he signed an order to do last week amid his trade war with Canada. The legislation, titled the \u201cHands Off Our Great Lakes Act,\u201d proposes prohibiting the president, Interior Secretary Doug Burgum and federal...",
+   "published": "2026-08-31T20:05:07+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-08-31T20:09:24.937082+00:00"
+  },
+  {
+   "id": "6365a91c8f737630",
+   "title": "Trump announces Medicaid drug pricing deals with 9 firms",
+   "url": "https://thehill.com/policy/healthcare/6061821-trump-medicaid-drug-pricing/",
+   "summary": "The Trump administration on Monday announced new Medicaid drug pricing agreements with nine mid-sized biotechnology and pharmaceutical companies.  Every drug \u201cwill be at the lowest prices available anywhere in the world,\u201d President Trump said in the Oval Office, surrounded by company executives. \u00a0 Under the agreements, the companies will charge state Medicaid programs the same...",
+   "published": "2026-08-31T20:02:48+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-08-31T20:09:24.937091+00:00"
+  },
+  {
+   "id": "fe05b0a008997e88",
+   "title": "Why we should care about what\u2019s happening with Donald and Natalie",
+   "url": "https://thehill.com/opinion/congress-blog/the-administration/6061597-trump-harp-controversy-analyzed/",
+   "summary": "Trump\u2019s obvious lack of concern for the well-being of most Americans helps explain why there\u2019s such a\u00a0fascination\u00a0with the special treatment he affords Harp.",
+   "published": "2026-08-31T19:30:00+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-08-31T20:09:24.937127+00:00"
+  },
+  {
+   "id": "33ad6ef0af265e5a",
+   "title": "Trump to meet with oil refiners amid stubborn gas prices",
+   "url": "https://thehill.com/policy/energy-environment/6061687-trump-refineries-capacity-gas-prices-iran/",
+   "summary": "President Trump is expected to meet with fuel refiners and distributors Tuesday as gasoline prices remain stubbornly high and are expected to be a major midterm issue. The president is expected to discuss how to expand U.S. refining capacity as part of an effort to lower gasoline prices, according to a White House official. Small,...",
+   "published": "2026-08-31T19:22:12+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-08-31T20:09:24.937131+00:00"
+  },
+  {
+   "id": "e56f664ba608d256",
+   "title": "Fact Sheet: President Donald J. Trump Announces Deal with Nine Additional Pharmaceutical Manufacturers to Lower Drug Prices for Americans",
+   "url": "https://www.whitehouse.gov/fact-sheets/2026/08/fact-sheet-president-donald-j-trump-announces-deal-with-nine-additional-pharmaceutical-manufacturers-to-lower-drug-prices-for-americans/",
+   "summary": "ADVANCING MOST-FAVORED-NATION (MFN) PRICING:&#160;Today, President Donald J. Trump announced nine new agreements with pharmaceutical manufacturers to lower prescription drug prices for Americans in line with the lowest prices paid by other developed nations (known as the most-favored-nation, or MFN, price). The agreements bring the total number of pharmaceutical manufacturers with MFN deals to 26, covering [&#8230;]\nThe post Fact Sheet: President Donald J. Trump Announces Deal with Nine Additional Pharmaceutical Manufacturers to Lower Drug Prices for Americans appeared first on The White House",
+   "published": "2026-08-31T19:14:29+00:00",
+   "source": "WhiteHouse.gov News",
+   "source_id": "whitehouse",
+   "bias_note": "official/primary-source",
+   "first_seen": "2026-08-31T20:09:24.016945+00:00"
+  },
+  {
+   "id": "b3e049606e4b0ca2",
+   "title": "Trump admin revives \u2018Apprentice\u2019-era energy with $1M business battle in DC",
+   "url": "https://www.foxnews.com/politics/trump-admin-revives-apprentice-era-energy-1m-business-battle-dc",
+   "summary": "Nicki Minaj, Grant Cardone, and Joe Gebbia will judge the SBA&apos;s Patriot Pitch as five entrepreneur finalists compete for $1 million in cash.",
+   "published": "2026-08-31T19:00:12+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-08-31T20:09:23.770505+00:00"
+  },
+  {
+   "id": "54c692eb78718ef1",
+   "title": "Trump is using antisemitism claims as a pretext for a cash-grab",
+   "url": "https://thehill.com/opinion/white-house/6061568-title-vi-investigations-college-funding/",
+   "summary": "The contrived charges have obscured the very real incidents of antisemitism that have occurred on campuses and elsewhere.",
+   "published": "2026-08-31T19:00:00+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-08-31T20:09:24.937146+00:00"
+  },
+  {
+   "id": "a526f1bdbe7c15a3",
+   "title": "Republicans will pay for Trump\u2019s tariffs in the midterms",
+   "url": "https://thehill.com/opinion/campaign/6061519-gop-vulnerable-trade-war-costs/",
+   "summary": "Ultimately, the 2026 midterms were always going to be an uphill battle for Republicans.",
+   "published": "2026-08-31T18:30:00+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-08-31T20:09:24.937162+00:00"
+  },
+  {
+   "id": "c1fe63ac8808ce11",
+   "title": "Kalshi bans ex-congressman George Santos from prediction platform for life",
+   "url": "https://www.theguardian.com/us-news/2026/aug/31/george-santos-kalshi-lifetime-ban",
+   "summary": "Santos was accused of profiting from bets tied to his attendance at Trump\u2019s State of the Union addressGeorge Santos, the former Republican congressman whose political career collapsed under a mountain of lies, has become the first person ever handed a lifetime ban by the prediction-market platform Kalshi.The company announced the permanent suspension on Monday, along with a $71,356 fine, after federal regulators accused Santos of profiting from bets tied to his own attendance at Donald Trump\u2019s State of the Union address earlier this year. Continue reading...",
+   "published": "2026-08-31T18:26:30+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-08-31T20:09:24.662520+00:00"
+  },
+  {
+   "id": "6c6b93be93b336cd",
+   "title": "\u2018Backwards and poor\u2019: Trump issues dire warning to communities blocking critical technology",
+   "url": "https://www.foxnews.com/politics/backwards-poor-trump-issues-dire-warning-communities-blocking-critical-technology",
+   "summary": "President Donald Trump warned communities rejecting data centers risk becoming &quot;backwards and poor&quot; as states battle over AI boom energy and water costs.",
+   "published": "2026-08-31T18:21:31+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-08-31T20:09:23.770521+00:00"
+  },
+  {
+   "id": "950ca5a184aea15b",
+   "title": "WATCH: Vance says Trump likes to 'switch it up' by posting AI video of Kharg Island bombing",
+   "url": "https://www.pbs.org/newshour/politics/watch-vance-says-trump-likes-to-switch-it-up-by-posting-ai-video-of-kharg-island-bombing",
+   "summary": "The vice president spoke to reporters before he flew to Michigan on Monday about the AI video that President Donald Trump posted on social media over the weekend that featured a stylized imaginary attack on Iran's Kharg Island, which is key to its oil exports and Trump has repeatedly threatened.",
+   "published": "2026-08-31T18:14:54+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-08-31T20:09:25.100922+00:00"
+  },
   {
    "id": "ef75307ff69951cd",
    "title": "Watch live: Trump makes announcement on drug pricing",
