@@ -1,7 +1,172 @@
 {
- "updated": "2026-08-31T13:59:12.964568+00:00",
- "count": 192,
+ "updated": "2026-08-31T17:56:43.718618+00:00",
+ "count": 205,
  "articles": [
+  {
+   "id": "ef75307ff69951cd",
+   "title": "Watch live: Trump makes announcement on drug pricing",
+   "url": "https://thehill.com/video-clips/6061382-watch-live-donald-trump-healthcare-affordability-drug-pricing-announcement/",
+   "summary": "President Trump will make an announcement Monday afternoon tied to his efforts to make healthcare more affordable \u2014 after insurance prices skyrocketed when expanded subsidies under the Affordable Care Act expired late last year. The announcement comes as Trump has made lowering prescription drug costs a key part of his broader healthcare agenda, including efforts...",
+   "published": "2026-08-31T17:43:25+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-08-31T17:56:43.152905+00:00"
+  },
+  {
+   "id": "b74ac1cf9a1d1501",
+   "title": "Trump sending message to Iran with AI Kharg Island video, says Vance",
+   "url": "https://thehill.com/homenews/6061484-vance-trump-ai-iran-message/",
+   "summary": "Vice President Vance told reporters on Monday that President Trump was sending a message to Iran by posting what appears to be an AI-generated video of Iran\u2019s Kharg Island being blown up.  Trump \"would be the first to say he doesn't make announcements about military actions on social media, but I think that he's sending...",
+   "published": "2026-08-31T17:33:36+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-08-31T17:56:43.152922+00:00"
+  },
+  {
+   "id": "8112078817ebd993",
+   "title": "Trump attacks datacenter pushback, saying opponents \u2018want to end up being backwards and poor\u2019",
+   "url": "https://www.theguardian.com/us-news/2026/aug/31/trump-datacenter-comments",
+   "summary": "Three-quarters of Americans said in a recent poll that they oppose datacenters being built next to their homesDonald Trump has criticized communities pushing back against datacenter projects across the US amid a growing backlash, warning those that reject them risk becoming \u201cbackwards and poor\u201d.As controversy surrounding local datacenter plans continues to swirl around election campaigns nationwide ahead of November\u2019s midterm elections, the US president declared Americans \u201cwill only have yourselves to blame\u201d if they are canceled. Continue reading...",
+   "published": "2026-08-31T17:32:02+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-08-31T17:56:42.964445+00:00"
+  },
+  {
+   "id": "d2ebe5d91990728c",
+   "title": "What additives are in your food? The FDA doesn't always know, but seeks to change that",
+   "url": "https://www.pbs.org/newshour/health/what-additives-are-in-your-food-the-fda-doesnt-always-know-but-seeks-to-change-that",
+   "summary": "For nearly 70 years, food and beverage companies have been able to decide on their own that a new ingredient is safe and put it on the market without informing the Food and Drug Administration. But a new proposal could require that companies notify the agency when they add a new substance to human or animal food.",
+   "published": "2026-08-31T17:23:14+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-08-31T17:56:43.259369+00:00"
+  },
+  {
+   "id": "91dfb7a676329cb6",
+   "title": "'Rebuke or punishment': Trump threatens to report Kristen Welker to FCC",
+   "url": "https://thehill.com/opinion/lindseys-lens/6061458-trump-welker-fcc-threat/",
+   "summary": "Press can be criticized,\u00a0but the president cannot use the power of the federal government as a threat against a journalist because the coverage is unfavorable.",
+   "published": "2026-08-31T17:19:38+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-08-31T17:56:43.152927+00:00"
+  },
+  {
+   "id": "68f2c2fa7102eed9",
+   "title": "Florida grand jury finds DeSantis administration misused $10 million, but no charges have been filed",
+   "url": "https://www.pbs.org/newshour/politics/florida-grand-jury-finds-desantis-administration-misused-10-million-but-no-charges-have-been-filed",
+   "summary": "Despite the lack of charges, the report ignited a new round of criticism aimed at Gov. Ron DeSantis and other top state Republicans over the charity receiving $10 million from a state Medicaid settlement intended to help poor children get health insurance.",
+   "published": "2026-08-31T17:15:33+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-08-31T17:56:43.259375+00:00"
+  },
+  {
+   "id": "1cbb8f392956e936",
+   "title": "Trump still suggests he may seek a 3rd term. But he's now talking more about post-presidency life",
+   "url": "https://www.pbs.org/newshour/politics/trump-still-suggests-he-may-seek-a-3rd-term-but-hes-now-talking-more-about-post-presidency-life",
+   "summary": "Trump is now more openly contemplating his post-presidency life as he works on projects like the ballroom designed to leave his mark on the office.",
+   "published": "2026-08-31T17:04:00+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-08-31T17:56:43.259378+00:00"
+  },
+  {
+   "id": "9f7fffb66302dac4",
+   "title": "President Trump and VP Vance Deliver Manufacturing Renaissance to Michigan",
+   "url": "https://www.whitehouse.gov/releases/2026/08/president-trump-and-vp-vance-deliver-manufacturing-renaissance-to-michigan/",
+   "summary": "Vice President JD Vance is in Michigan today to mark the Trump Administration&#8217;s unprecedented crackdown on fraud and the comeback of American manufacturing under the leadership of President Donald J. Trump. Since taking office, the Trump Administration has onshored production, restored factory jobs, and put vehicles back on Michigan assembly lines \u2014 while delivering tax [&#8230;]\nThe post President Trump and VP Vance Deliver Manufacturing Renaissance to Michigan appeared first on The White House.",
+   "published": "2026-08-31T17:02:26+00:00",
+   "source": "WhiteHouse.gov News",
+   "source_id": "whitehouse",
+   "bias_note": "official/primary-source",
+   "first_seen": "2026-08-31T17:56:42.471037+00:00"
+  },
+  {
+   "id": "1e512a2a27ba9633",
+   "title": "Frost: Biden should have released Epstein files",
+   "url": "https://thehill.com/homenews/house/6061199-frost-epstein-files-biden-trump/",
+   "summary": "Rep. Maxwell Frost (D-Fla.) on Sunday said former President Biden and his administration should have released the federal government's documents and files connected to convicted sex offender Jeffrey Epstein. Frost appeared on Jubilee's \"Surrounded,\" where a guest confronted him about President Trump before the lawmaker asked if he did not believe the president has been...",
+   "published": "2026-08-31T16:36:27+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-08-31T17:56:43.152954+00:00"
+  },
+  {
+   "id": "55667cd7182e1d03",
+   "title": "Iran war flares up on two fronts as Trump issues fresh threat",
+   "url": "https://thehill.com/newsletters/1230-report/6061321-iran-war-resumes-donald-trump-threats/",
+   "summary": "\u23f0 House returns to face shutdown clock {beacon} &#8202; It\u2019s Monday \u2026 and the last day of August, as the end of summer rapidly approaches. Soak it up, 12:30 Report readers. &#8202; In today's issue: U.S., Iran resume strikes Pentagon on defense over leak House returns from monthlong break Bessent to invoke China at G20...",
+   "published": "2026-08-31T16:31:50+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-08-31T17:56:43.152959+00:00"
+  },
+  {
+   "id": "658647a5a701735e",
+   "title": "Trump says communities opposed to data centers want to be 'backwards and poor'",
+   "url": "https://thehill.com/policy/technology/6061094-trump-ai-data-centers-economy/",
+   "summary": "President Trump said Monday that communities that do not want AI data centers will suffer economically.\u00a0 \u201cThe only reason that communities throughout the U.S.A. should not want Data Centers is if they want to end up being backwards and poor,\u201d Trump wrote on Truth Social. \u201cIf they want to be successful and rich, with far...",
+   "published": "2026-08-31T15:36:53+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-08-31T17:56:43.152991+00:00"
+  },
+  {
+   "id": "d01b9ea2ddce4fa7",
+   "title": "Live updates: Trump says US 'will respond' to Iran strike in Jordan; House returns with shutdown bill on tap",
+   "url": "https://thehill.com/homenews/administration/6060538-live-updates-trump-iran-house-spending-cr/",
+   "summary": "The U.S. resumed strikes on Iran on Sunday, hitting rocket launchers on Larak Island that U.S. Central Command said were ready to deploy mines into the Strait of Hormuz. Iran then retaliated, carrying out attacks on American military assets at bases in the United Arab Emirates and Jordan. President Trump told Fox News on Monday...",
+   "published": "2026-08-31T15:33:40+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-08-31T17:56:43.152999+00:00"
+  },
+  {
+   "id": "bd601c562b11146b",
+   "title": "Trump: Reflecting Pool 'almost completely fixed' with improvements",
+   "url": "https://thehill.com/homenews/administration/6061024-trump-reflecting-pool-renovations/",
+   "summary": "President Trump on Sunday said the improvements to the Lincoln Memorial Reflecting Pool are \"almost completely fixed.\" Trump shared a photo of the grass near the World War II Memorial on the National Mall, where an etching of \"86 47\" was seen in the grass in June. The aerial shot also showed the Lincoln Memorial...",
+   "published": "2026-08-31T15:26:18+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-08-31T17:56:43.153002+00:00"
+  },
+  {
+   "id": "1dd3a18c2d17b4a7",
+   "title": "Hosting G20 meeting, Bessent tries to rally allies on Iran as tariffs strain ties",
+   "url": "https://www.pbs.org/newshour/world/hosting-g20-meeting-bessent-tries-to-rally-allies-on-iran-as-tariffs-strain-ties",
+   "summary": "Treasury Secretary Scott Bessent is meeting with finance ministers of the world's largest economies this week at a time when the United States has disrupted the international order with aggressive tariffs on major allies and an unpopular war on Iran.",
+   "published": "2026-08-31T15:04:31+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-08-31T17:56:43.259398+00:00"
+  },
+  {
+   "id": "2cc1b78476cbbf27",
+   "title": "A pediatrician is running for Senate. Can doctors change the political debate over health and science?",
+   "url": "https://www.theguardian.com/us-news/2026/aug/31/annie-andrews-south-carolina-senate",
+   "summary": "After Lindsey Graham\u2019s death, Democrat Annie Andrews finds herself in a closely watched race as she seeks to flip his Republican seatAnnie Andrews was a dark horse Democrat challenging a five-term Republican in the US Senate when 314 Action, a political action fund devoted to electing scientists and doctors, first backed her.Now, after the unexpected death of Senator Lindsey Graham, Andrews finds herself in a closely watched race. Donald Trump persuaded South Carolina voters last week to select Graham\u2019s sister, Darline, as the new Republican candidate. They will face off in November in an elec",
+   "published": "2026-08-31T14:08:12+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-08-31T17:56:42.964493+00:00"
+  },
   {
    "id": "84dfdda46fcff05d",
    "title": "Watch live: Mullin, Duffy to announce crackdown on alleged trucking fraud",
@@ -2091,28 +2256,6 @@
    "source_id": "whitehouse",
    "bias_note": "official/primary-source",
    "first_seen": "2026-08-29T21:14:42.361543+00:00"
-  },
-  {
-   "id": "6573e08adb254fb2",
-   "title": "ICYMI: \u201cUSS Lincoln: Performance For the Ages\u201d",
-   "url": "https://www.whitehouse.gov/releases/2026/08/icymi-uss-lincoln-performance-for-the-ages/",
-   "summary": "In a powerful op-ed, U.S. Central Command Commander Adm. Brad Cooper shares a firsthand account from his visit to the USS Abraham Lincoln. Adm. Cooper describes a crew of extraordinary American sailors whose unwavering dedication to their country, their mission, and each other continues to define one of the most intense and consequential deployments in [&#8230;]\nThe post ICYMI: \u201cUSS Lincoln: Performance For the Ages\u201d appeared first on The White House.",
-   "published": "2026-08-17T14:29:09+00:00",
-   "source": "WhiteHouse.gov News",
-   "source_id": "whitehouse",
-   "bias_note": "official/primary-source",
-   "first_seen": "2026-08-29T21:14:42.361544+00:00"
-  },
-  {
-   "id": "0604b31260b7f7a5",
-   "title": "President Trump Delivers Largest Prescription Drug Price Drop in Over 60 Years",
-   "url": "https://www.whitehouse.gov/releases/2026/08/president-trump-delivers-largest-prescription-drug-price-drop-in-over-60-years/",
-   "summary": "President Donald J. Trump promised to slash prescription drug prices \u2014 and he has delivered. New data confirms prescription drug prices just recorded their largest annual decline in more than 60 years, the steepest drop since 1963, as the Trump Administration\u2019s landmark Most Favored Nation policies take hold. President Trump is the first President to [&#8230;]\nThe post President Trump Delivers Largest Prescription Drug Price Drop in Over 60 Years appeared first on The White House.",
-   "published": "2026-08-17T14:03:07+00:00",
-   "source": "WhiteHouse.gov News",
-   "source_id": "whitehouse",
-   "bias_note": "official/primary-source",
-   "first_seen": "2026-08-29T21:14:42.361546+00:00"
   }
  ]
 }
