@@ -1,7 +1,183 @@
 {
- "updated": "2026-08-31T05:42:44.428359+00:00",
- "count": 178,
+ "updated": "2026-08-31T13:59:12.964568+00:00",
+ "count": 192,
  "articles": [
+  {
+   "id": "84dfdda46fcff05d",
+   "title": "Watch live: Mullin, Duffy to announce crackdown on alleged trucking fraud",
+   "url": "https://thehill.com/policy/transportation/6060620-watch-live-markwayne-mullin-dhs-sean-duffy-dot-trucking-fraud-crackdown/",
+   "summary": "Department of Homeland Security Secretary Markwayne Mullin and Transportation Secretary Sean Duffy on Monday will announce new efforts to combat alleged fraud in the trucking industry in remarks from Detroit. The announcement comes amid the Trump administration's wider crackdown on fraud. Duffy teased the press conference on Sunday but provided few details. The event is...",
+   "published": "2026-08-31T13:41:49+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-08-31T13:59:12.173051+00:00"
+  },
+  {
+   "id": "c12ab006b12d9532",
+   "title": "Trump knocks 'highly conflicted' judge in Kennedy Center case",
+   "url": "https://thehill.com/homenews/administration/6060525-donald-trump-kennedy-center-renovation-case-judge-criticism/",
+   "summary": "President Trump on Sunday knocked U.S. District Judge Christopher Cooper, who has overseen the case over the Kennedy Center and the president's attempts to refurbish and rename the institution, as \"highly conflicted.\" \"Kennedy Center is an old and decrepit building that is badly in need of a major construction and public relations fix before it...",
+   "published": "2026-08-31T13:24:06+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-08-31T13:59:12.173062+00:00"
+  },
+  {
+   "id": "bceb3815210e43eb",
+   "title": "Trump vows response to Iran's retaliatory strikes: 'We're going to hit them hard'",
+   "url": "https://thehill.com/homenews/administration/6060630-us-iran-exchange-strikes/",
+   "summary": "President Trump vowed to respond to Iran\u2019s retaliatory strikes on Monday after the two countries exchanged strikes late Sunday.  \"We're going to hit them hard. There will be a response,\u201d Trump told Fox News correspondent Trey Yingst.  The president\u2019s remarks to Fox News come after he lashed out at Iran in a TruthSocial post, calling...",
+   "published": "2026-08-31T13:20:10+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-08-31T13:59:12.173069+00:00"
+  },
+  {
+   "id": "c1c7e4ddd442a4a4",
+   "title": "Trump still teases seeking a third term. But he's now talking more about post-presidency life",
+   "url": "https://abcnews.com/Politics/wireStory/trump-teases-presidential-run-talking-life-after-2028-136079796",
+   "summary": "Donald Trump frequently hints at seeking a third presidential term, even wearing 2028 campaign hats",
+   "published": "2026-08-31T12:34:15+00:00",
+   "source": "ABC News Politics",
+   "source_id": "abc-politics",
+   "bias_note": "center",
+   "first_seen": "2026-08-31T13:59:12.736059+00:00"
+  },
+  {
+   "id": "00cecff0b966db0d",
+   "title": "AI is hurting US politics. Here\u2019s how candidates could use it for good | Bruce Schneier and Nathan E Sanders",
+   "url": "https://www.theguardian.com/commentisfree/2026/aug/31/ai-politics-voters",
+   "summary": "The technology can help candidates listen more deeply to voters, as examples from Japan and Scotland showThere are plenty of signs that AI will make all of our experiences of the US midterm elections worse. Voters have anxiety about AI\u2019s impacts on the country. Politicos are using AI deepfakes to spread lies. The White House is posting slopaganda.Meanwhile, candidates are missing a real opportunity to use AI to make campaigning better. The technology can help candidates listen more deeply to voters\u2019 concerns, engage constituents more inclusively, and formulate policy platforms that are more re",
+   "published": "2026-08-31T12:00:24+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-08-31T13:59:10.999843+00:00"
+  },
+  {
+   "id": "d155dd6536fad826",
+   "title": "Treasury Department blocks certain journalists from covering G20 meeting",
+   "url": "https://www.pbs.org/newshour/politics/treasury-department-blocks-certain-journalists-from-covering-g20-meeting",
+   "summary": "The New York Times said in a statement that denying American journalists access to an event in the U.S. is \"not just another disturbing effort by the administration to undermine independent journalism, but a blatant attempt to evade public scrutiny.\"",
+   "published": "2026-08-31T11:47:35+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-08-31T13:59:12.263404+00:00"
+  },
+  {
+   "id": "27263c229e2dd9ac",
+   "title": "Why the left can't stop obsessing over Trump",
+   "url": "https://thehill.com/opinion/white-house/6057790-psychology-behind-trump-fatigue-failure/",
+   "summary": "Trump's supporters aren't the mystery \u2014 his critics are more interesting.",
+   "published": "2026-08-31T11:30:00+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-08-31T13:59:12.173140+00:00"
+  },
+  {
+   "id": "7ecc9a27552eacac",
+   "title": "Pentagon erupts over classified leak of Iran war dissent",
+   "url": "https://thehill.com/newsletters/morning-report/6060440-pentagon-trump-administration-response-iran-war-dissent-leak-washington-post/",
+   "summary": "In today's issue: \u25aa U.S. strikes Iran after monthlong pause \u25aa Trump touts Venezuela oil deal \u25aa House back in session \u25aa GOP midterm convention frustrations The Pentagon is seething over a Washington Post report that top military leaders recently warned Defense Secretary Pete Hegseth against extending large-scale Iran war operations. People familiar with a classified assessment prepared...",
+   "published": "2026-08-31T11:08:56+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-08-31T13:59:12.173145+00:00"
+  },
+  {
+   "id": "266725edd5b8981c",
+   "title": "Vulnerable Dem's own audit admits Medicaid oversight failure amid massive statewide fraud scandal",
+   "url": "https://www.foxnews.com/politics/dem-congressional-candidate-hopeful-audit-admits-medicaid-oversight-failure-maine-fraud-scandal",
+   "summary": "Matt Dunlap&apos;s office acknowledged a significant deficiency in tracking MaineCare payments as JD Vance calls Maine a fraud capital of America.",
+   "published": "2026-08-31T11:00:05+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-08-31T13:59:10.311118+00:00"
+  },
+  {
+   "id": "379c099200860a35",
+   "title": "Trump says U.S. struck deal to take control of 65 billion barrels Venezuelan oil",
+   "url": "https://www.npr.org/2026/08/31/nx-s1-5949305/trump-says-u-s-struck-deal-to-take-control-of-65-billion-barrels-venezuelan-oil",
+   "summary": "President Trump is touting a new deal for the U.S. to access Venezuelan oil fields. Trump says it's a major boon for the American people, but it's unclear when they'll see the benefits.",
+   "published": "2026-08-31T10:49:12+00:00",
+   "source": "NPR Politics",
+   "source_id": "npr-politics",
+   "bias_note": "center",
+   "first_seen": "2026-08-31T13:59:10.864353+00:00"
+  },
+  {
+   "id": "22ddd45b90a6fad7",
+   "title": "Scholar discusses Trump's claims of a new Venezuelan oil agreement",
+   "url": "https://www.npr.org/2026/08/31/nx-s1-5949309/scholar-discusses-trumps-claims-of-a-new-venezuelan-oil-agreement",
+   "summary": "NPR's A Mart\u00ednez speaks with Francisco Monaldi, director of the Latin America Energy Program at Rice University, about President Trump's claims of a Venezuelan oil agreement.",
+   "published": "2026-08-31T10:49:08+00:00",
+   "source": "NPR Politics",
+   "source_id": "npr-politics",
+   "bias_note": "center",
+   "first_seen": "2026-08-31T13:59:10.864365+00:00"
+  },
+  {
+   "id": "f71e43f2f1d21f45",
+   "title": "As US-Canada tensions flare, who\u2019s calling the shots in Trump\u2019s trade team?",
+   "url": "https://www.theguardian.com/us-news/2026/aug/31/trump-trade-officials-tariffs-canada",
+   "summary": "US trade representative Jamieson Greer has a level-headed reputation but commerce secretary Howard Lutnick and White House adviser Peter Navarro also have key rolesHaving reportedly read Victor Hugo\u2019s Les Mis\u00e9rables, in French, during a military tour of duty in Iraq, Jamieson Greer considered himself an unlikely target for accusations of francophobia.But Donald Trump\u2019s US trade representative, hitherto one of the president\u2019s less high-profile cabinet members, found himself in that uncomfortable position amid the acrimonious collapse of bilateral trade talks with Canada that now threatens to de",
+   "published": "2026-08-31T10:00:23+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-08-31T13:59:10.999813+00:00"
+  },
+  {
+   "id": "cc6e824786211dda",
+   "title": "The Trump Administration\u2019s Plan for Protecting Consumers? Politely Ask Companies to Behave.",
+   "url": "https://www.propublica.org/article/bilt-cfpb-russell-vought-trump-consumer-protection-fintech",
+   "summary": "The post The Trump Administration\u2019s Plan for Protecting Consumers? Politely Ask Companies to Behave. appeared first on ProPublica.",
+   "published": "2026-08-31T10:00:00+00:00",
+   "source": "ProPublica",
+   "source_id": "propublica",
+   "bias_note": "investigative",
+   "first_seen": "2026-08-31T13:59:12.544699+00:00"
+  },
+  {
+   "id": "0e65024c8a34cd63",
+   "title": "The U.S. Venezuela oil deal won't lower your gas prices. Here's what you need to know",
+   "url": "https://www.npr.org/2026/08/31/nx-s1-5949407/us-venezuelan-oil-deal",
+   "summary": "The Trump administration announced a deal Friday to develop a vast amount of Venezuela's oil reserves, with the U.S. taking a majority stake. Energy experts say there are many reasons to be skeptical.",
+   "published": "2026-08-31T09:00:00+00:00",
+   "source": "NPR Politics",
+   "source_id": "npr-politics",
+   "bias_note": "center",
+   "first_seen": "2026-08-31T13:59:10.864372+00:00"
+  },
+  {
+   "id": "62e83fb78d8b0ea0",
+   "title": "He Spent 27 Years on Death Row as a Wrongfully Convicted Man. What Comes Next?",
+   "url": "https://www.propublica.org/article/louisiana-angola-death-row-wrongful-conviction-jimmie-duncan",
+   "summary": "The post He Spent 27 Years on Death Row as a Wrongfully Convicted Man. What Comes Next? appeared first on ProPublica.",
+   "published": "2026-08-31T09:00:00+00:00",
+   "source": "ProPublica",
+   "source_id": "propublica",
+   "bias_note": "investigative",
+   "first_seen": "2026-08-31T13:59:12.544703+00:00"
+  },
+  {
+   "id": "b50815373c197c26",
+   "title": "Trump\u2019s trade war with Canada gets nasty \u2013 podcast",
+   "url": "https://www.theguardian.com/politics/audio/2026/aug/28/how-did-donald-trump-get-so-rich-podcast",
+   "summary": "In the past couple of weeks, the Trump administration has reignited its trade war with Canada, threatened an \u2018economic D-day\u2019 against Iran and watched the US national debt surpass $40tn. Meanwhile, Donald Trump has personally made billions of dollars since returning to office.Jonathan Freedland speaks to Dan Alexander of Forbes about how Trump has amassed his fortune \u2013 and what his economic record could mean for voters in the midtermsWatch Jonathan Freedland on our new Politics Weekly YouTube channelSend your questions and feedback to politicsweeklyamerica@theguardian.comSubscribe to The Guard",
+   "published": "2026-08-31T07:07:24+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-08-31T13:59:10.999822+00:00"
+  },
   {
    "id": "ecd8645c79bef768",
    "title": "Duffy teases 'unprecedented fraud crackdown' announcement with DHS, DOJ",
@@ -1937,28 +2113,6 @@
    "source_id": "whitehouse",
    "bias_note": "official/primary-source",
    "first_seen": "2026-08-29T21:14:42.361546+00:00"
-  },
-  {
-   "id": "0eae61292e36fda0",
-   "title": "First Lady Melania Trump\u2019s Efforts Prove Successful in Ukraine-Russia",
-   "url": "https://www.whitehouse.gov/briefings-statements/2026/08/first-lady-melania-trumps-efforts-prove-successful-in-ukraine-russia/",
-   "summary": "First Lady Melania Trump facilitated the reunification of another child with her family on Monday, August 17, 2026, after being separated during the Ukraine \u2013 Russia Federation conflict. &#160; \u201cThere is nothing more powerful than reuniting a mother with her child after an extended period of time. &#160;My representative and I are focused on helping [&#8230;]\nThe post First Lady Melania Trump\u2019s Efforts Prove Successful in Ukraine-Russia appeared first on The White House.",
-   "published": "2026-08-17T13:02:21+00:00",
-   "source": "WhiteHouse.gov News",
-   "source_id": "whitehouse",
-   "bias_note": "official/primary-source",
-   "first_seen": "2026-08-29T21:14:42.361547+00:00"
-  },
-  {
-   "id": "c686b1b8855e08f5",
-   "title": "At \u201cQuasi-Public\u201d Private Schools, 100% of Students Get Tuition Vouchers. There\u2019s Almost No Accountability.",
-   "url": "https://www.propublica.org/article/private-schools-vouchers-wisconsin-atlas-preparatory",
-   "summary": "The post At \u201cQuasi-Public\u201d Private Schools, 100% of Students Get Tuition Vouchers. There\u2019s Almost No Accountability. appeared first on ProPublica.",
-   "published": "2026-08-17T09:00:00+00:00",
-   "source": "ProPublica",
-   "source_id": "propublica",
-   "bias_note": "investigative",
-   "first_seen": "2026-08-29T21:14:43.675254+00:00"
   }
  ]
 }
