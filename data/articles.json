@@ -1,7 +1,51 @@
 {
- "updated": "2026-08-31T23:53:32.811316+00:00",
- "count": 244,
+ "updated": "2026-09-01T05:16:16.433330+00:00",
+ "count": 248,
  "articles": [
+  {
+   "id": "fefa9c61552d8b1c",
+   "title": "Teen girl indicted on murder charges for allegedly helping spread livestream of deadly mosque shooting",
+   "url": "https://www.foxnews.com/us/teen-girl-indicted-murder-charges-allegedly-helping-spread-livestream-deadly-mosque-shooting",
+   "summary": "A North Carolina teen has been indicted for allegedly recording and spreading a deadly San Diego mosque attack livestream and manifesto.",
+   "published": "2026-09-01T00:45:07+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-01T05:16:14.076977+00:00"
+  },
+  {
+   "id": "b4cc9585b052b8bd",
+   "title": "Caine tells Slotkin there are no plans to send military to polls in November",
+   "url": "https://thehill.com/policy/defense/6062392-caine-denies-military-election-intervention/",
+   "summary": "Joint Chiefs of Staff Chair Gen. Dan Caine told Sen. Elissa Slotkin (D-Mich.) in a letter that there are no plans to send the military to the polls in November\u2019s midterm elections. \u201cElection administration and security remain the fundamental responsibility of state and local officials. The Joint Force has no plans to send Federal military...",
+   "published": "2026-09-01T00:44:48+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-01T05:16:15.222818+00:00"
+  },
+  {
+   "id": "6a2ac2d6c237b9f1",
+   "title": "Trump calls Hollywood a 'total disaster,' pushes federal tax incentive for film after meeting with Jon Voight",
+   "url": "https://www.foxnews.com/entertainment/trump-calls-hollywood-total-disaster-pushes-federal-tax-incentive-film-meeting-jon-voight",
+   "summary": "Jon Voight previously met with Trump at Mar-a-Lago to push a federal tax incentive aimed at reviving domestic film production and saving Hollywood jobs.",
+   "published": "2026-08-31T23:58:54+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-01T05:16:14.077007+00:00"
+  },
+  {
+   "id": "36c165910ff098ab",
+   "title": "Fact Sheet: President Donald J. Trump Announces Historic Oil Agreement to Secure American Energy Dominance and Drive Venezuela\u2019s Economic Recovery",
+   "url": "https://www.whitehouse.gov/fact-sheets/2026/08/fact-sheet-president-donald-j-trump-announces-historic-oil-agreement-to-secure-american-energy-dominance-and-drive-venezuelas-economic-recovery/",
+   "summary": "SECURING STABLE &#38; LOW-COST OIL SUPPLY IN OUR HEMISPHERE: In the biggest oil deal in world history, President Donald J. Trump has secured U.S. majority control of more than 65 billion barrels of proven oil reserves in Venezuela \u2013 vastly expanding our current U.S. territorial proven reserves of roughly 46 billion barrels. This deal secures [&#8230;]\nThe post Fact Sheet: President Donald J. Trump Announces Historic Oil Agreement to Secure American Energy Dominance and Drive Venezuela\u2019s Economic Recovery appeared first on The White House.",
+   "published": "2026-08-31T23:55:33+00:00",
+   "source": "WhiteHouse.gov News",
+   "source_id": "whitehouse",
+   "bias_note": "official/primary-source",
+   "first_seen": "2026-09-01T05:16:14.243541+00:00"
+  },
   {
    "id": "f1c389007faea81c",
    "title": "CNN admits error after suggesting US troops abroad would be impacted by Trump's mail-in ballot crackdown",
