@@ -1,7 +1,106 @@
 {
- "updated": "2026-09-01T15:25:05.211338+00:00",
- "count": 280,
+ "updated": "2026-09-01T16:43:07.323996+00:00",
+ "count": 292,
  "articles": [
+  {
+   "id": "1ab3ac3bd7e1486b",
+   "title": "US lawmakers demand investigation into Trump administration\u2019s secret surveillance of Americans",
+   "url": "https://www.theguardian.com/us-news/2026/sep/01/lawmakers-trump-obscure-law-investigation",
+   "summary": "Exclusive: Two congressmembers respond to revelations of government snooping on journalists, non-profits and unionsTwo congressional Democrats asked a government watchdog Tuesday to investigate the Trump administration\u2019s use of an obscure law to secretly collect records on journalists, non-profits and unions without judicial oversight.The request from the senator Ron Wyden of Oregon and the representative Pramila Jayapal of Washington seen by the Guardian comes amid mounting scrutiny over the way the Department of Homeland Security (DHS) recently used its power to issue administrative summonse",
+   "published": "2026-09-01T16:11:20+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-09-01T16:43:05.416233+00:00"
+  },
+  {
+   "id": "7c8303ca811afa46",
+   "title": "White House brings receipts after media claims noncriminal ICE arrests \u2018soaring\u2019: \u2018False narratives\u2019",
+   "url": "https://www.foxnews.com/politics/white-house-brings-receipts-media-claims-noncriminal-ice-arrests-soaring-false-narratives",
+   "summary": "The White House says many ICE arrests labeled &quot;noncriminal&quot; by the Washington Post and New York Times involve MS-13 members and foreign fugitives.",
+   "published": "2026-09-01T15:51:40+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-01T16:43:04.989517+00:00"
+  },
+  {
+   "id": "b08b297270e798d5",
+   "title": "Mark Carney tells US to \u2018start being serious\u2019 amid escalating trade war",
+   "url": "https://www.theguardian.com/us-news/2026/sep/01/trump-mark-carney-trade-war-canada",
+   "summary": "Canadian PM is set to retaliate against tariffs levied by Donald Trump and criticized US officials over insultsUS politics live \u2013 latest updatesMark Carney has rebuked Donald Trump\u2019s administration and urged officials in Washington to \u201cstart being serious\u201d amid escalating trade tensions between the US and Canada.Days before Canada is due to retaliate against Trump\u2019s sweeping tariffs with its own duties on US goods, the Canadian prime minister criticized US officials for insulting his country. \u201cIt is beneath their office,\u201d he said. Continue reading...",
+   "published": "2026-09-01T15:48:27+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-09-01T16:43:05.416250+00:00"
+  },
+  {
+   "id": "47e751de6d93391b",
+   "title": "Live updates: House faction aims to freeze Johnson's agenda; Trump set to huddle with energy executives",
+   "url": "https://thehill.com/homenews/administration/6062462-live-updates-trump-energy-iran-house/",
+   "summary": "As House Speaker Mike Johnson tries to get through a legislative agenda this week, a group of hard-line conservatives may block his progress. Reps. Chip Roy (R-Texas) and Andy Harris (R-Md.) are among those threatening to oppose a rule vote to protest a Senate-passed government funding bill the lower chamber is set to take up...",
+   "published": "2026-09-01T15:47:56+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-01T16:43:06.610255+00:00"
+  },
+  {
+   "id": "cded071da1c1ea49",
+   "title": "Netflix documentary on Trump's 'decoy plane' coming Friday",
+   "url": "https://thehill.com/blogs/in-the-know/6063459-netflix-instadocs-trump-decoy-plane-air-force-one/",
+   "summary": "President Trump's secret departure on an alternate military aircraft over the summer in Turkey is getting the Netflix documentary treatment. \"Instadocs: The Decoy Plane,\" premiering Friday on the streamer, will explore how the president was\u00a0secretly shuttled\u00a0inside a catering truck to a smaller Air Force C-32A plane in July amid security concerns involving Iran. The documentary...",
+   "published": "2026-09-01T15:45:42+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-01T16:43:06.610264+00:00"
+  },
+  {
+   "id": "cfd54e2aa0db5d49",
+   "title": "Bessent: Iran economy could collapse 'within weeks or months'",
+   "url": "https://thehill.com/homenews/administration/6063299-bessent-iranian-economy-collapse/",
+   "summary": "Treasury Secretary Scott Bessent on Monday said Iran's economy could collapse \"within weeks or months,\" as the Trump administration seeks to debilitate the Middle Eastern country's economy. \"I think it could be within weeks or months \u2013\u2013 and the economy doesn't have to collapse, we just have to have the regime come to their senses,\"...",
+   "published": "2026-09-01T15:38:26+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-01T16:43:06.610290+00:00"
+  },
+  {
+   "id": "c8136dfda7b5e087",
+   "title": "Fairness for growers is food security for America",
+   "url": "https://thehill.com/opinion/international/6062379-protecting-seasonal-growers-trade/",
+   "summary": "Rep. Vern Buchanan is calling on the Trump administration to implement seasonal tariff-rate quotas on Mexican produce during the ongoing USMCA review to protect Florida's agricultural sector.",
+   "published": "2026-09-01T15:30:00+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-01T16:43:06.610293+00:00"
+  },
+  {
+   "id": "a1db83f36061de94",
+   "title": "Majority of Americans reject Trump\u2019s renaming of Lake Ontario to Lake America, poll finds",
+   "url": "https://www.foxnews.com/politics/majority-americans-reject-trumps-renaming-lake-ontario-lake-america-poll-finds",
+   "summary": "A Reuters/Ipsos poll shows 63% of Americans oppose Trump&apos;s executive order renaming Lake Ontario to Lake America amid the U.S.-Canada trade war.",
+   "published": "2026-09-01T15:29:41+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-01T16:43:04.989531+00:00"
+  },
+  {
+   "id": "b61712b2c0bf74be",
+   "title": "Haberman: 'No polling' where Trump is popular",
+   "url": "https://thehill.com/homenews/administration/6063375-trump-haberman-approval-polls/",
+   "summary": "CNN political analyst Maggie Haberman said Monday that President Trump\u2019s approval is sinking across nearly all polls as the midterm elections near. \u201cThere is no polling where this president is popular. Let\u2019s put it that way,\u201d Haberman said during an appearance on CNN\u2019s \u201cThe Source\u201d with Kaitlan Collins. \u201cAnd there is no polling where he...",
+   "published": "2026-09-01T15:27:15+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-01T16:43:06.610307+00:00"
+  },
   {
    "id": "5e84f86c3f55e7f0",
    "title": "Whistleblower: Postal Service's work to comply with Trump order is rushed and sloppy",
@@ -14,6 +113,17 @@
    "first_seen": "2026-09-01T15:25:04.714858+00:00"
   },
   {
+   "id": "de8289b44a739b9d",
+   "title": "Olivia Rodrigo is standing up for the vulnerable. I wish Taylor Swift would do the same | Arwa Mahdawi",
+   "url": "https://www.theguardian.com/commentisfree/2026/sep/01/olivia-rodrigo-is-standing-up-for-the-vulnerable-i-wish-taylor-swift-would-do-the-same",
+   "summary": "This weekend, Rodrigo raised millions for charities that benefit women and girls, and she has previously been vocal about Gaza and Ice. With free speech increasingly under threat, her peers should take noteDonald Trump, the 80-year-old president of the United States, spent his weekend whining about a lake and posting memes of Donald\u2019s Ducks. While he was busy with his ducks, Olivia Rodrigo, a 23-year-old pop star, spent her weekend trying to Make America Somewhat Decent Again. On Saturday, Rodrigo hosted the inaugural Daisy Chain Fields festival, bringing together female artists to raise money",
+   "published": "2026-09-01T15:21:43+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-09-01T16:43:05.416282+00:00"
+  },
+  {
    "id": "790bd57ea2ebf5f2",
    "title": "Ocasio-Cortez: 'Put a data center up in Mar-a-Lago'",
    "url": "https://thehill.com/policy/technology/6063264-ocasio-cortez-data-center-mar-a-lago-florida/",
@@ -23,6 +133,17 @@
    "source_id": "thehill",
    "bias_note": "center",
    "first_seen": "2026-09-01T15:25:04.416935+00:00"
+  },
+  {
+   "id": "1ff7ffe235fafe74",
+   "title": "Ocasio-Cortez: 'Put a data center up in Mar-a-Lago'",
+   "url": "https://thehill.com/homenews/house/6063264-ocasio-cortez-data-center-mar-a-lago-florida/",
+   "summary": "Progressive Rep. Alexandria Ocasio-Cortez (D-N.Y.) quipped Monday that a company should build an AI data center near President Trump\u2019s Mar-a-Lago resort, after he said communities will be \u201cbackwards and poor\u201d if they oppose the construction of such facilities. \u201cHow about we put one in Mar-a-Lago? I love that. Let\u2019s put a data center up in...",
+   "published": "2026-09-01T15:17:13+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-01T16:43:06.610313+00:00"
   },
   {
    "id": "52149bad5a34798d",
@@ -89,6 +210,17 @@
    "source_id": "foxnews-politics",
    "bias_note": "right-leaning",
    "first_seen": "2026-09-01T15:25:03.844078+00:00"
+  },
+  {
+   "id": "2a09ca834d491b87",
+   "title": "Trump, Schiff forge unlikely alliance as Hollywood bleeds jobs",
+   "url": "https://www.foxnews.com/politics/politics-trump-finds-unlikely-ally-longtime-arch-nemesis-hollywood-bleeds-jobs",
+   "summary": "President Donald Trump and Adam Schiff find rare common ground on a federal film tax incentive to bring back Hollywood entertainment jobs lost abroad.",
+   "published": "2026-09-01T14:19:00+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-01T16:43:04.989535+00:00"
   },
   {
    "id": "59f51a51b414ca71",
