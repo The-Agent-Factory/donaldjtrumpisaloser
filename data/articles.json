@@ -1,7 +1,194 @@
 {
- "updated": "2026-09-01T05:16:16.433330+00:00",
- "count": 248,
+ "updated": "2026-09-01T11:43:58.379398+00:00",
+ "count": 264,
  "articles": [
+  {
+   "id": "2e7f4dc098334b1f",
+   "title": "Tough primary season for incumbents reaches grand finale in Massachusetts",
+   "url": "https://thehill.com/newsletters/morning-report/6062732-tough-primary-season-incumbents-grand-finale-massachusetts-markey-moulton/",
+   "summary": "In today's issue: \u25aa Generational battles in Massachusetts \u25aa Army secretary hands in resignation \u25aa Supreme Court lets Trump's ballroom go ahead \u25aa Kalshi issues platform bans A brutal primary cycle for congressional incumbents will face its final test cases today in Massachusetts as longtime officeholders seek to fend off challenges from much younger opponents.  Sen. Ed Markey (D-Mass.)...",
+   "published": "2026-09-01T11:18:34+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-01T11:43:56.979249+00:00"
+  },
+  {
+   "id": "a1424aaf3243b784",
+   "title": "Trump says Iran is \u2018dead\u2019 as Tehran is nearing the brink and more top headlines",
+   "url": "https://www.foxnews.com/us/trump-says-iran-tehran-nearing-brink-more-top-headlines",
+   "summary": "Get all the stories you need-to-know from the most powerful name in news delivered first thing every morning to your inbox.",
+   "published": "2026-09-01T11:13:51+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-01T11:43:54.312481+00:00"
+  },
+  {
+   "id": "744d5baf574df605",
+   "title": "House to vote on stopgap funding bill as lawmakers scramble to avoid government shutdown \u2013 US politics live",
+   "url": "https://www.theguardian.com/us-news/live/2026/sep/01/house-vote-stopgap-funding-bill-us-federal-government-shutdown-mike-johnson-trump-ballroom-politics-latest-news-updates",
+   "summary": "Speaker Mike Johnson to launch a floor vote designed to prevent any federal shutdown before the November midtermsSign up for the US Breaking News emailDonald Trump this month announced plans to rescind a landmark rule that has protected old-growth forests in the US for 25 years. If finalized, the rollback is expected to benefit the companies that Tom Schultz, chief of the US Forest Service, represented in his previous roles as a timber industry lobbyist and executive, according to research by consumer advocacy non-profit Public Citizen.The Roadless Area Conservation Rule, more commonly known a",
+   "published": "2026-09-01T11:13:31+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-09-01T11:43:55.148158+00:00"
+  },
+  {
+   "id": "8c952f71719069fb",
+   "title": "Forest Service chief faces scrutiny over logging ties as Trump plans to scrap protections",
+   "url": "https://www.theguardian.com/us-news/2026/sep/01/trump-roadless-rule-old-growth-forests",
+   "summary": "Rollback of \u2018roadless rule\u2019 expected to benefit companies US Forest Service chief, Tom Schultz, previously lobbied forDonald Trump this month announced plans to rescind a landmark rule that has protected old-growth forests in the US for 25 years. If finalized, the rollback is expected to benefit the companies that Tom Schultz, chief of the US Forest Service, represented in his previous roles as a timber industry lobbyist and executive, according to research by consumer advocacy non-profit Public Citizen.The Roadless Area Conservation Rule, more commonly known as the \u201croadless rule\u201d, was adopte",
+   "published": "2026-09-01T11:00:03+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-09-01T11:43:55.148170+00:00"
+  },
+  {
+   "id": "a1afeca37644e1b4",
+   "title": "Once again, Trump wants the FCC to put a bandage on his thin skin | Tom Wheeler",
+   "url": "https://www.theguardian.com/commentisfree/2026/sep/01/trump-kristen-welker-fcc-media",
+   "summary": "The president is lashing out at an NBC host. As the agency\u2019s former chair, I can only hope it stands up for free speechWill the FCC chairperson again abuse his authority over broadcast licenses to put a Band-Aid on Donald Trump\u2019s thin skin?Since the opening days of the Trump presidency, Brendan Carr has acted as the president\u2019s attack dog to coerce broadcasters to say things that please his client. Only days after taking office in January 2025, Carr revived a previously dismissed complaint against CBS for the editing of 60 Minutes that tracked candidate Trump\u2019s specious lawsuit on the matter. ",
+   "published": "2026-09-01T11:00:02+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-09-01T11:43:55.148225+00:00"
+  },
+  {
+   "id": "03ac42ad0369757b",
+   "title": "Untangle Washington's strings on grants to states",
+   "url": "https://thehill.com/opinion/finance/6061087-trump-omb-cuts-grant-strings/",
+   "summary": "Red tape reduction is a hallmark of President Trump\u2019s administration. But there\u2019s another problematic set of strings that deserves cutting too: the multiple strings federal agencies impose on state grant recipients. Luckily for the states (and the citizens who count on state programing), the White House Office of Management and Budget has some really big...",
+   "published": "2026-09-01T11:00:00+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-01T11:43:56.979259+00:00"
+  },
+  {
+   "id": "6c66963cda7ab745",
+   "title": "Is recalled Argentine beef connected to Trump's beef import plan?",
+   "url": "https://thehill.com/policy/international/6062087-recalled-argentine-beef-donald-trump-beef-tariff-pause/",
+   "summary": "The recalled beef is not part of the president's plan to bring down prices by importing foreign beef.",
+   "published": "2026-09-01T10:41:40+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-01T11:43:56.979272+00:00"
+  },
+  {
+   "id": "e860998ba27958b4",
+   "title": "Trump says Iran is \u2018DEAD\u2019 \u2014 experts point to the real sign Tehran is nearing the brink",
+   "url": "https://www.foxnews.com/world/trump-says-iran-dead-experts-point-real-sign-tehran-nearing-brink",
+   "summary": "U.S. strikes on Iranian launchers near the Strait of Hormuz triggered ballistic missile retaliation as Brent crude climbed above $90 a barrel Monday.",
+   "published": "2026-09-01T10:00:12+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-01T11:43:54.312558+00:00"
+  },
+  {
+   "id": "61bbcff9941afea8",
+   "title": "Whistleblower claims USPS plan for Trump's mail voting order could 'derail' midterms",
+   "url": "https://www.npr.org/2026/09/01/nx-s1-5950869/trump-mail-in-voting-usps",
+   "summary": "A whistleblower says the U.S. Postal Service is rushing out an online system for President Trump's push to restrict mail voting that could \"derail\" the midterm election if courts allow it to proceed.",
+   "published": "2026-09-01T10:00:00+00:00",
+   "source": "NPR Politics",
+   "source_id": "npr-politics",
+   "bias_note": "center",
+   "first_seen": "2026-09-01T11:43:54.927766+00:00"
+  },
+  {
+   "id": "648a72176911d72d",
+   "title": "New turbulence upends stability of Iran war for Trump",
+   "url": "https://thehill.com/homenews/analysis/6062071-trump-iran-conflict-us-volatility-strait-hormuz/",
+   "summary": "There is new turbulence in the war in Iran \u2014 but the pressing question is whether any of it will change the underlying realities of the six-month conflict. The latest dramatic\u00a0development\u00a0was an exchange of fire late Sunday in which the United States first attacked two Iranian rocket launchers that were reportedly seeking to deploy new...",
+   "published": "2026-09-01T10:00:00+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-01T11:43:56.979300+00:00"
+  },
+  {
+   "id": "642a7060001bcf92",
+   "title": "Democrats, shook by woke and Trump, make case they\u2019re the normal ones",
+   "url": "https://thehill.com/homenews/campaign/6062082-trump-era-democratic-primary-shift/",
+   "summary": "The 2028 Democratic presidential primary is shaping up as a contest over who can seem the most reasonable. Prospective candidates are imploring their party to be normal, while battling among one another over who is the most normal of all.   California Gov. Gavin Newsom is making an appeal to his party to become more \u201cculturally normal,\u201d...",
+   "published": "2026-09-01T10:00:00+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-01T11:43:56.979305+00:00"
+  },
+  {
+   "id": "ad433a934e126b89",
+   "title": "Trump creates new headache for GOP with call for FCC to crack down on NBC, Welker",
+   "url": "https://thehill.com/homenews/senate/6062204-trump-welker-press-controversy/",
+   "summary": "President Trump\u2019s call on the Federal Communications Commission (FCC) to crack down on NBC's \u201cMeet the Press\u201d after host Kristen Welker said the president has a \u201cmixed record\u201d on endorsements this year is a new political headache for GOP lawmakers and candidates. Republicans weathered a public backlash last year when the FCC threatened it could pursue...",
+   "published": "2026-09-01T10:00:00+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-01T11:43:56.979311+00:00"
+  },
+  {
+   "id": "55d5f96547397df2",
+   "title": "Help Us Investigate Abusive Coaches in Youth Sports",
+   "url": "https://www.propublica.org/getinvolved/help-us-investigate-abusive-coaches-youth-sports-aau",
+   "summary": "The post Help Us Investigate Abusive Coaches in Youth Sports appeared first on ProPublica.",
+   "published": "2026-09-01T09:05:00+00:00",
+   "source": "ProPublica",
+   "source_id": "propublica",
+   "bias_note": "investigative",
+   "first_seen": "2026-09-01T11:43:57.635332+00:00"
+  },
+  {
+   "id": "439d2d8c80cf5f91",
+   "title": "SEN BERNIE SANDERS: Yes, we must hit the pause button on AI before it is too late",
+   "url": "https://www.foxnews.com/opinion/sen-bernie-sanders-yes-we-must-hit-pause-button-ai-before-it-is-too-late",
+   "summary": "Trump and Xi must negotiate AI safety controls at their Washington meeting in September much like Reagan and Gorbachev tackled nuclear arms control decades ago.",
+   "published": "2026-09-01T09:00:08+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-01T11:43:54.312578+00:00"
+  },
+  {
+   "id": "622bc1103b70d7f9",
+   "title": "Life after Maga: the group offering an \u2018exit ramp\u2019 for rightwingers questioning Trumpism",
+   "url": "https://www.theguardian.com/us-news/2026/sep/01/leaving-maga-support-group",
+   "summary": "The non-profit Leaving Maga is built on the premise that abandoning the Trump-built movement is like fighting a disease or breaking an addictionStephania Messina kept birthing boys. In the Quiverfull conservative Christian church she belonged to outside Detroit, Michigan, that made her a community celebrity. Your quiver, as the church taught it, is your womb, meant to be filled with as many arrows \u2013 a metaphor for children \u2013 as you can shoot unto the Lord. She shot five. \u201cThey treated me like I was Mother Mary, like I was this gift to the church,\u201d she said.But while she was quickly pushed into",
+   "published": "2026-09-01T09:00:05+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-09-01T11:43:55.148217+00:00"
+  },
+  {
+   "id": "b791cbcded2722ad",
+   "title": "Fears of a Canadian trade war are overblown. So far, it\u2019s more of a skirmish",
+   "url": "https://www.foxnews.com/opinion/fears-canadian-trade-war-overblown-skirmish",
+   "summary": "USMCA-compliant firms now face higher tariffs than competitors that built in Shenzhen as Section 338 duties stack on top of the trade agreement&apos;s rates.",
+   "published": "2026-09-01T09:00:00+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-01T11:43:54.312584+00:00"
+  },
+  {
+   "id": "7e198791bd817770",
+   "title": "Homeland Security Opens Child Exploitation Probe Into Banned Texas Volleyball Coach",
+   "url": "https://www.propublica.org/article/volleyball-coach-ryan-richardson-homeland-security-investigations-child-exploitation",
+   "summary": "The post Homeland Security Opens Child Exploitation Probe Into Banned Texas Volleyball Coach appeared first on ProPublica.",
+   "published": "2026-09-01T09:00:00+00:00",
+   "source": "ProPublica",
+   "source_id": "propublica",
+   "bias_note": "investigative",
+   "first_seen": "2026-09-01T11:43:57.635337+00:00"
+  },
   {
    "id": "fefa9c61552d8b1c",
    "title": "Teen girl indicted on murder charges for allegedly helping spread livestream of deadly mosque shooting",
@@ -2718,17 +2905,6 @@
    "source_id": "whitehouse",
    "bias_note": "official/primary-source",
    "first_seen": "2026-08-29T21:14:42.361542+00:00"
-  },
-  {
-   "id": "deb657d03dbca06d",
-   "title": "Measles Used to Be in Our Rearview Mirror. Now Cases Are Reaching Record Highs.",
-   "url": "https://www.propublica.org/article/measles-cases-vaccines",
-   "summary": "The post Measles Used to Be in Our Rearview Mirror. Now Cases Are Reaching Record Highs. appeared first on ProPublica.",
-   "published": "2026-08-18T09:00:00+00:00",
-   "source": "ProPublica",
-   "source_id": "propublica",
-   "bias_note": "investigative",
-   "first_seen": "2026-08-29T21:14:43.675253+00:00"
   }
  ]
 }
