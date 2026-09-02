@@ -1,7 +1,260 @@
 {
- "updated": "2026-09-02T07:08:35.841481+00:00",
- "count": 319,
+ "updated": "2026-09-02T12:48:18.728745+00:00",
+ "count": 338,
  "articles": [
+  {
+   "id": "8c7838117a93dd02",
+   "title": "The Venezuelan oil deal is a strategic victory for Trump's new Monroe Doctrine",
+   "url": "https://thehill.com/opinion/energy-environment/6063029-trump-venezuela-oil-deal/",
+   "summary": "Regardless of criticism or credit, the\u00a0oil agreement\u00a0with Venezuela marks an unprecedented geopolitical victory for the United States.",
+   "published": "2026-09-02T12:30:00+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-02T12:48:17.794919+00:00"
+  },
+  {
+   "id": "ba4e25bafce177eb",
+   "title": "Can anything stop the White House ballroom?",
+   "url": "https://thehill.com/newsletters/the-gavel/6064292-white-house-ballroom-trump-supreme-court-standing/",
+   "summary": "A preservationist group likely has no standing to stop the White House ballroom, the Supreme Court says. So, does anyone? Not necessarily.   Let's start with a little bit of history.   The majority's per curiam (unsigned) opinion focuses entirely on standing, a principle rooted in Article III, Section 2 of the Constitution that gives federal courts the authority to resolve only actual \"cases\" and \"controversies.\"  Courts have historically...",
+   "published": "2026-09-02T12:00:00+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-02T12:48:17.794952+00:00"
+  },
+  {
+   "id": "3799727f8cbf7aa4",
+   "title": "China has found a new illicit drug market. America must shut it down",
+   "url": "https://www.foxnews.com/opinion/china-found-new-illicit-drug-market-america-must-shut-down",
+   "summary": "Chinese chemical manufacturers linked to fentanyl precursors are now shipping unapproved retatrutide peptides into U.S. homes via customs fraud.",
+   "published": "2026-09-02T11:59:48+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-02T12:48:17.163010+00:00"
+  },
+  {
+   "id": "d9f23d62b7775aba",
+   "title": "MIKE DAVIS: Why SCOTUS defying Obama judge must be impeached to protect elections",
+   "url": "https://www.foxnews.com/opinion/mike-davis-why-scotus-defying-obama-judge-must-be-impeached-protect-elections",
+   "summary": "Judge Indira Talwani issued a temporary restraining order against Trump&apos;s election security rule a day after the Supreme Court reversed her injunction.",
+   "published": "2026-09-02T11:08:29+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-02T12:48:17.163024+00:00"
+  },
+  {
+   "id": "3f16ae582f5c7f42",
+   "title": "Congress takes midterm shutdown fight off the table",
+   "url": "https://thehill.com/newsletters/morning-report/6065382-congress-passes-stop-gap-funding-avoiding-midtem-shutdown-fight/",
+   "summary": "In today's issue: \u25aa House sends funding bill to Trump \u25aa Markey coasts to victory over Moulton \u25aa U.S. launches new Iran strikes \u25aa Postal Service whistleblower issues warning Members of both parties came together Tuesday as the House easily approved a short-term funding measure to keep the government open into December and rule out the possibility...",
+   "published": "2026-09-02T11:06:05+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-02T12:48:17.794994+00:00"
+  },
+  {
+   "id": "753514c7c1f9597d",
+   "title": "Trump\u2019s threat against an NBC journalist is an attack on reality | Margaret Sullivan",
+   "url": "https://www.theguardian.com/commentisfree/2026/sep/02/trump-nbc-fcc-kristin-welker",
+   "summary": "The president\u2019s call for the FCC to scrutinize Kristin Welker\u2019s innocuous remarks is a sign of desperationWith his approval ratings tanking, the crucial midterm elections looming, and his war with Iran turning into a quagmire, Donald Trump has entered full freak-out mode.It\u2019s not hard to tell. Just look at what happened this week when he lashed out at Kristen Welker, the well-respected host of NBC\u2019s Meet the Press, and one of the best-known journalists in the nation. Continue reading...",
+   "published": "2026-09-02T11:00:22+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-09-02T12:48:17.615835+00:00"
+  },
+  {
+   "id": "616dc9250c40d2ab",
+   "title": "Trump's boat strikes are illegal. Does it matter?",
+   "url": "https://thehill.com/opinion/judiciary/6064098-aclu-lawsuit-wrongful-deaths/",
+   "summary": "An ACLU attorney argues that the Trump administration's boat strikes off the Venezuelan coast are illegal, immoral, and ineffective, citing the deaths of Trinidadian nationals Chad Joseph and Rishi Samaroo as evidence of the campaign's human cost.",
+   "published": "2026-09-02T11:00:00+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-02T12:48:17.794998+00:00"
+  },
+  {
+   "id": "7d41b0b1d498cfae",
+   "title": "New Mail Voting Rules Moved Forward Despite USPS Officials\u2019 Concerns About Mass Disenfranchisement",
+   "url": "https://www.propublica.org/article/mail-voting-usps-officials-concerns-disenfranchisement",
+   "summary": "The post New Mail Voting Rules Moved Forward Despite USPS Officials\u2019 Concerns About Mass Disenfranchisement appeared first on ProPublica.",
+   "published": "2026-09-02T11:00:00+00:00",
+   "source": "ProPublica",
+   "source_id": "propublica",
+   "bias_note": "investigative",
+   "first_seen": "2026-09-02T12:48:18.169066+00:00"
+  },
+  {
+   "id": "c9b502c9bdaf1292",
+   "title": "Texas Dem candidate to hold high-dollar Hollywood fundraiser while GOP gathers in Dallas: 'Fake cowboy'",
+   "url": "https://www.foxnews.com/politics/texas-dem-candidate-hold-high-dollar-hollywood-fundraiser-gop-gathers-dallas-fake-cowboy",
+   "summary": "James Talarico heads to Hollywood for a second celebrity fundraiser as Ken Paxton and Trump rally Republicans in Dallas for the midterm push.",
+   "published": "2026-09-02T10:00:49+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-02T12:48:17.099835+00:00"
+  },
+  {
+   "id": "32e67e81a931deaf",
+   "title": "This data has helped fight workplace discrimination for 60 years. The Trump administration plans to delete it",
+   "url": "https://www.theguardian.com/us-news/ng-interactive/2026/sep/02/eeoc-workplace-discrimination-data-trump",
+   "summary": "Enforcing civil rights without these reports will be difficult for the Equal Employment Opportunity Commission, pushing US agency closer to Trump\u2019s agenda, experts warnThe US civil rights agency mandated to protect equal rights for workers is set to stop collecting data on the demographic makeup of companies \u2013 which for the past six decades has been used to enforce anti-discrimination laws.The move marks a fundamental shift for the Equal Employment Opportunity Commission (EEOC). Without this data, it will be much harder for the agency to identify widespread cases of discrimination in hiring an",
+   "published": "2026-09-02T10:00:22+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-09-02T12:48:17.615783+00:00"
+  },
+  {
+   "id": "a7983b4089725714",
+   "title": "\u2018Pitiful\u2019: experts condemn initial US aid contribution for Nepal flood victims",
+   "url": "https://www.theguardian.com/us-news/2026/sep/02/nepal-flood-aid",
+   "summary": "Sum of $500,000 has been increased as death toll passes 1,000 but specialists decry Trump dismantling of USAIDAid experts have denounced the US\u2019s \u201cembarrassing\u201d and \u201cpitiful\u201d initial response to the Nepal flood disaster after the US state department announced it was releasing $500,000 in emergency funds to help the relief effort.The modest sum \u2013 which has since been increased \u2013 allocated in response to the devastation caused by mudslides in the mountainous Asian country was mocked on social media, where users contrasted it with the amount spent on other Trump administration priorities. Continu",
+   "published": "2026-09-02T10:00:21+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-09-02T12:48:17.615795+00:00"
+  },
+  {
+   "id": "502b2c2f5bb35bdf",
+   "title": "The deportation of Milo Yiannopoulos signals a rupture within Maga | Moira Donegan",
+   "url": "https://www.theguardian.com/commentisfree/2026/sep/02/milo-yiannopoulos-deportation-maga",
+   "summary": "The far-right provocateur helped galvanize a movement that no longer needs him. Now his imitators are claiming victoryIt\u2019s been a long, slow decline for Milo Yiannopoulos. From the vantage point of 2026, it\u2019s easy to forget that he was once a big deal.The British-born far-right provocateur, who was arrested by ICE in Louisiana and deported from the US this week, was among the first media figures to ride the \u201cgamergate\u201d controversy and ensuing rightwing populist wave that brought Donald Trump to office in 2016. An editor of the then ascendant Breitbart News from 2014 to 2017, Yiannopoulous was ",
+   "published": "2026-09-02T10:00:21+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-09-02T12:48:17.615843+00:00"
+  },
+  {
+   "id": "3623a839ff12666e",
+   "title": "Trump seeks affordability wins down midterm homestretch",
+   "url": "https://thehill.com/homenews/administration/6064533-trump-affordability-midterms/",
+   "summary": "President Trump is taking every available avenue in his effort to appeal to voters on affordability as frustrations over high prices and economic uncertainty show no signs of subsiding nine weeks out from the midterms.  Trump met with oil and gas retailers and refineries at the White House as oil prices jumped again amid the...",
+   "published": "2026-09-02T10:00:00+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-02T12:48:17.795044+00:00"
+  },
+  {
+   "id": "268554d04f8a9da3",
+   "title": "A third Trump impeachment looks inevitable, but what kind?",
+   "url": "https://thehill.com/homenews/analysis/6062939-trump-third-impeachment-risks/",
+   "summary": "As the final primaries wrap up and we head into the full gale of the general election campaign season, the consensus is that Republicans are all but certain to lose their very narrow House majority. If you ask Nate Silver and his team, they\u2019ll say there\u2019s an 86 percent chance of Democratic control with the...",
+   "published": "2026-09-02T10:00:00+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-02T12:48:17.795050+00:00"
+  },
+  {
+   "id": "f11697eeb5409bf0",
+   "title": "Texas Rejected an AI-Driven School\u2019s Bid to Open a Charter. The State Still Approved It for the Voucher Program.",
+   "url": "https://www.propublica.org/article/alpha-school-texas-vouchers-ai",
+   "summary": "The post Texas Rejected an AI-Driven School\u2019s Bid to Open a Charter. The State Still Approved It for the Voucher Program. appeared first on ProPublica.",
+   "published": "2026-09-02T10:00:00+00:00",
+   "source": "ProPublica",
+   "source_id": "propublica",
+   "bias_note": "investigative",
+   "first_seen": "2026-09-02T12:48:18.169072+00:00"
+  },
+  {
+   "id": "819e54aa196ee403",
+   "title": "Trump is closing an asylum loophole legal immigrants have watched others exploit",
+   "url": "https://www.foxnews.com/opinion/trump-closing-asylum-loophole-legal-immigrants-watched-others-exploit",
+   "summary": "The Trump administration plans to revoke visitor visas of up to 200,000 foreign nationals who later sought asylum, raising due process concerns.",
+   "published": "2026-09-02T09:00:47+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-02T12:48:17.163100+00:00"
+  },
+  {
+   "id": "2709567e2308d5a2",
+   "title": "Trump and Rubio\u2019s bold Venezuela oil pact could finally crush communism\u2019s grip",
+   "url": "https://www.foxnews.com/opinion/trump-rubio-bold-venezuela-oil-pact-could-finally-crush-communisms-grip",
+   "summary": "Critics call it colonialism, but the U.S.-Venezuela oil partnership aims to block Cuba, China and Russia from recapturing the failed state.",
+   "published": "2026-09-02T09:00:11+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-02T12:48:17.163132+00:00"
+  },
+  {
+   "id": "3e32018cb4af7456",
+   "title": "How will tariffs affect the midterms? In this Michigan border town, it's complicated",
+   "url": "https://www.npr.org/2026/09/02/nx-s1-5947963/tariffs-tariffs-voters-michigan-upper-peninsula-trump",
+   "summary": "The recent trade war between the U.S. and Canada has both economic and political implications for Michigan given it's the state's top trade partner.",
+   "published": "2026-09-02T09:00:00+00:00",
+   "source": "NPR Politics",
+   "source_id": "npr-politics",
+   "bias_note": "center",
+   "first_seen": "2026-09-02T12:48:17.477599+00:00"
+  },
+  {
+   "id": "a5ee51f9c66b0646",
+   "title": "Susan Collins on Trump, tariffs and her fight for Maine",
+   "url": "https://www.politico.com/video/2026/09/02/susan-collins-on-trump-tariffs-and-her-fight-for-maine-2156176",
+   "summary": "",
+   "published": "2026-09-02T09:00:00+00:00",
+   "source": "Politico",
+   "source_id": "politico",
+   "bias_note": "center",
+   "first_seen": "2026-09-02T12:48:17.724652+00:00"
+  },
+  {
+   "id": "93087043f22353ac",
+   "title": "Hurricane Helene Killed His Wife and Destroyed His Mobile Home. New Tenants Are Now Renting the Same Flood-Prone Land.",
+   "url": "https://www.propublica.org/article/western-north-carolina-helene-mobile-home-fema-recovery",
+   "summary": "The post Hurricane Helene Killed His Wife and Destroyed His Mobile Home. New Tenants Are Now Renting the Same Flood-Prone Land. appeared first on ProPublica.",
+   "published": "2026-09-02T09:00:00+00:00",
+   "source": "ProPublica",
+   "source_id": "propublica",
+   "bias_note": "investigative",
+   "first_seen": "2026-09-02T12:48:18.169075+00:00"
+  },
+  {
+   "id": "d9bace8831c97393",
+   "title": "Republicans aren\u2019t exactly flocking to Trump\u2019s midterm convention",
+   "url": "https://www.politico.com/news/2026/09/02/gop-midterm-convention-attendance-01061286",
+   "summary": "\u201cI can't control what the president's going to say at the convention, but I can control where I'm at,\u201d one battleground member said.",
+   "published": "2026-09-02T08:45:00+00:00",
+   "source": "Politico",
+   "source_id": "politico",
+   "bias_note": "center",
+   "first_seen": "2026-09-02T12:48:17.724668+00:00"
+  },
+  {
+   "id": "2c9e8b4224606f20",
+   "title": "Trump attempts to combat high gas prices as affordability crisis looms over midterms",
+   "url": "https://www.npr.org/2026/09/02/nx-s1-5951976/trump-attempts-to-combat-high-gas-prices-as-affordability-crisis-looms-over-midterms",
+   "summary": "President Trump seems to be pulling out all the stops to mitigate high gas prices ahead of the midterms.",
+   "published": "2026-09-02T08:42:26+00:00",
+   "source": "NPR Politics",
+   "source_id": "npr-politics",
+   "bias_note": "center",
+   "first_seen": "2026-09-02T12:48:17.477605+00:00"
+  },
+  {
+   "id": "9a8c6a72f8d543c1",
+   "title": "Political consultant on how the cost-of-living is affecting Trump's approval rating",
+   "url": "https://www.npr.org/2026/09/02/nx-s1-5951679/political-consultant-on-how-the-cost-of-living-is-affecting-trumps-approval-rating",
+   "summary": "NPR's Steve Inskeep speaks with political consultant Sarah Longwell about Trump's low approval rating and high gas prices, as affordability shadows the approaching midterm election.",
+   "published": "2026-09-02T08:41:54+00:00",
+   "source": "NPR Politics",
+   "source_id": "npr-politics",
+   "bias_note": "center",
+   "first_seen": "2026-09-02T12:48:17.477608+00:00"
+  },
   {
    "id": "e694744b003a300c",
    "title": "US launches new strikes against Iran as Trump says he's \"not trying to force Iran to the negotiating table\"",
@@ -3466,50 +3719,6 @@
    "source_id": "politico",
    "bias_note": "center",
    "first_seen": "2026-08-29T21:14:43.102514+00:00"
-  },
-  {
-   "id": "2b45a35f717444f8",
-   "title": "Senators Criticize Trump Administration\u2019s Demands to Access Health Data as a Condition for Lifesaving Aid",
-   "url": "https://www.propublica.org/article/senators-letter-health-data-africa-humanitarian-aid",
-   "summary": "The post Senators Criticize Trump Administration\u2019s Demands to Access Health Data as a Condition for Lifesaving Aid appeared first on ProPublica.",
-   "published": "2026-08-19T10:00:00+00:00",
-   "source": "ProPublica",
-   "source_id": "propublica",
-   "bias_note": "investigative",
-   "first_seen": "2026-08-29T21:14:43.675251+00:00"
-  },
-  {
-   "id": "502f8881f752222f",
-   "title": "Trump tries to quiet his mass deportation campaign. Voters aren\u2019t moving.",
-   "url": "https://www.politico.com/news/2026/08/19/poll-trump-deportations-voters-midterms-01041099",
-   "summary": "New results from The POLITICO Poll show that half of Americans, including nearly a quarter of Trump\u2019s 2024 voters, still say the president\u2019s mass deportation campaign is too aggressive.",
-   "published": "2026-08-19T09:00:00+00:00",
-   "source": "Politico",
-   "source_id": "politico",
-   "bias_note": "center",
-   "first_seen": "2026-08-29T21:14:43.102517+00:00"
-  },
-  {
-   "id": "7767b1f0f9717521",
-   "title": "The $1 Trillion Black Box",
-   "url": "https://www.propublica.org/article/military-defense-spending-budget-series",
-   "summary": "The post The $1 Trillion Black Box appeared first on ProPublica.",
-   "published": "2026-08-19T09:00:00+00:00",
-   "source": "ProPublica",
-   "source_id": "propublica",
-   "bias_note": "investigative",
-   "first_seen": "2026-08-29T21:14:43.675252+00:00"
-  },
-  {
-   "id": "b10f100b10b3692d",
-   "title": "Do You Know About U.S. Military Spending? Help ProPublica Understand Where the Money Goes.",
-   "url": "https://www.propublica.org/getinvolved/share-military-defense-spending-tips",
-   "summary": "The post Do You Know About U.S. Military Spending? Help ProPublica Understand Where the Money Goes. appeared first on ProPublica.",
-   "published": "2026-08-19T09:00:00+00:00",
-   "source": "ProPublica",
-   "source_id": "propublica",
-   "bias_note": "investigative",
-   "first_seen": "2026-08-29T21:14:43.675253+00:00"
   }
  ]
 }
