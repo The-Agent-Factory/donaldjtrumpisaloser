@@ -1,7 +1,62 @@
 {
- "updated": "2026-09-02T00:17:57.205283+00:00",
- "count": 317,
+ "updated": "2026-09-02T07:08:35.841481+00:00",
+ "count": 319,
  "articles": [
+  {
+   "id": "e694744b003a300c",
+   "title": "US launches new strikes against Iran as Trump says he's \"not trying to force Iran to the negotiating table\"",
+   "url": "https://thehill.com/policy/defense/6065153-us-military-strikes-iran-targets/",
+   "summary": "The U.S. military completed a new wave of strikes Tuesday on targets in Iran as the conflict in the region stretches into its seventh month. \u201cU.S. forces struck Islamic Revolutionary Guard Corps (IRGC) targets including air defense sites, radar systems, maritime assets and facilities, mine laying capabilities, and communications sites,\u201d U.S. Central Command (Centcom) wrote...",
+   "published": "2026-09-02T02:45:16+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-02T07:08:35.159801+00:00"
+  },
+  {
+   "id": "5ef1f91a11e9f119",
+   "title": "President Trump nominates Hung Cao as Navy Secretary",
+   "url": "https://thehill.com/policy/defense/6065087-trump-nominates-hung-cao-navy/",
+   "summary": "President Trump said on Tuesday he would be nominating Hung Cao for Navy Secretary after the predecessor to the role stepped down in April.  The president announced his pick on Truth Social Tuesday night, saying \u201cWe need Patriots like Hung leading our Navy and Marine Corps, and I can think of no one better than...",
+   "published": "2026-09-02T01:40:13+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-02T07:08:35.159856+00:00"
+  },
+  {
+   "id": "57cf399417b10c20",
+   "title": "Trump taps \u2018true warrior\u2019 Hung Cao as Navy secretary after 4 months as acting leader",
+   "url": "https://www.foxnews.com/politics/trump-taps-true-warrior-hung-cao-navy-secretary-after-4-months-acting-leader",
+   "summary": "Hung Cao, a retired Navy captain and special operations veteran, has led the Department of the Navy for four months as President Trump now seeks Senate confirmation.",
+   "published": "2026-09-02T01:24:20+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-02T07:08:34.360203+00:00"
+  },
+  {
+   "id": "3ab929f15a9c96b5",
+   "title": "Trump nominates loyalist Hung Cao to be permanent navy secretary",
+   "url": "https://www.theguardian.com/us-news/2026/sep/01/trump-navy-secretary-hung-cao-nomination",
+   "summary": "Acting secretary picked for top role as critics accuse president of overworking sailors during war with IranDonald Trump said Tuesday that he is nominating acting navy secretary Hung Cao for the permanent job, giving the navy combat veteran the nod as concerns have emerged that some sailors have been stretched to the limit during the Iran war.Cao has been serving as acting navy secretary since John Phelan departed the job unexpectedly and without explanation in late April. Continue reading...",
+   "published": "2026-09-02T00:31:03+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-09-02T07:08:34.940024+00:00"
+  },
+  {
+   "id": "980ef9b47fda1865",
+   "title": "Majority of Americans against Lake Ontario name change, Canada tariffs: Poll",
+   "url": "https://thehill.com/homenews/administration/6064850-americans-against-lake-america-canada-tariffs/",
+   "summary": "A majority of Americans are against President Trump\u2019s recent decisions to rename Lake Ontario to \u201cLake America\u201d and impose additional tariffs on Canada, a new survey suggests. The Ipsos/Reuters poll, published Tuesday, reported that 63 percent of respondents opposed Lake Ontario\u2019s renaming, while 14 percent supported the decision and 21 percent said they did not...",
+   "published": "2026-09-02T00:16:31+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-02T07:08:35.159932+00:00"
+  },
   {
    "id": "87ce80a09b950890",
    "title": "DOJ lawsuit targets alleged school \u2018secret gender transitions\u2019 policies that keep parents in the dark",
@@ -3455,39 +3510,6 @@
    "source_id": "propublica",
    "bias_note": "investigative",
    "first_seen": "2026-08-29T21:14:43.675253+00:00"
-  },
-  {
-   "id": "b0d2e8f9e01705b6",
-   "title": "Florida rejects Democratic establishment \u2014 and even snubs Trump",
-   "url": "https://www.politico.com/news/2026/08/18/florida-angie-nixon-trump-democratic-republican-primary-2026-01041405",
-   "summary": "Democrats picked a progressive for Senate. The GOP spurned the president\u2019s endorsements in two House races.",
-   "published": "2026-08-19T03:20:52+00:00",
-   "source": "Politico",
-   "source_id": "politico",
-   "bias_note": "center",
-   "first_seen": "2026-08-29T21:14:43.102519+00:00"
-  },
-  {
-   "id": "1023b38bf3e11b77",
-   "title": "Trump\u2019s pick for Wyoming governor is the latest endorsee to lose primary",
-   "url": "https://www.politico.com/news/2026/08/18/trumps-pick-for-wyoming-governor-is-the-latest-endorsee-to-lose-primary-01041404",
-   "summary": "State Sen. Eric Barlow defeated Superintendent of Public Instruction Megan Degenfelder, who had President Donald Trump\u2019s support in the race.",
-   "published": "2026-08-19T03:04:23+00:00",
-   "source": "Politico",
-   "source_id": "politico",
-   "bias_note": "center",
-   "first_seen": "2026-08-29T21:14:43.102521+00:00"
-  },
-  {
-   "id": "6f70fc3252c87f79",
-   "title": "Temporary Suspension of Additional Duties to Offset Canadian Discrimination Against the Commerce of the United States with Respect to Alcoholic Beverages, Dairy, and Motor Vehicles",
-   "url": "https://www.whitehouse.gov/presidential-actions/2026/08/temporary-suspension-of-additional-duties-to-offset-canadian-discrimination-against-the-commerce-of-the-united-states-with-respect-to-alcoholic-beverages-dairy-and-motor-vehicles/",
-   "summary": "BY THE PRESIDENT OF THE UNITED STATES OF AMERICA A PROCLAMATION 1.&#160; In Proclamation 11046 of July 20, 2026 (Imposing Additional Duties to Offset Canadian Discrimination Against the&#160;Commerce of the United States With Respect to Alcoholic Beverages), I found as a fact that Canada is discriminating against the commerce of the United States by banning [&#8230;]\nThe post Temporary Suspension of Additional Duties to Offset Canadian Discrimination Against the Commerce of the United States with Respect to Alcoholic Beverages, Dairy, and Motor Vehicles appeared first on The White House.",
-   "published": "2026-08-19T02:34:18+00:00",
-   "source": "WhiteHouse.gov News",
-   "source_id": "whitehouse",
-   "bias_note": "official/primary-source",
-   "first_seen": "2026-08-29T21:14:42.361542+00:00"
   }
  ]
 }
