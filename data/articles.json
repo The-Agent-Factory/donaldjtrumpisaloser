@@ -1,7 +1,150 @@
 {
- "updated": "2026-09-01T21:05:58.720097+00:00",
- "count": 304,
+ "updated": "2026-09-02T00:17:57.205283+00:00",
+ "count": 317,
  "articles": [
+  {
+   "id": "87ce80a09b950890",
+   "title": "DOJ lawsuit targets alleged school \u2018secret gender transitions\u2019 policies that keep parents in the dark",
+   "url": "https://www.foxnews.com/politics/doj-lawsuit-targets-alleged-school-secret-gender-transitions-policies-keep-parents-dark",
+   "summary": "The DOJ lawsuit against Kansas City, Kansas Public Schools alleges &quot;secret&quot; gender transition plans locked parents out, violating FERPA and PPRA.",
+   "published": "2026-09-01T23:50:23+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-02T00:17:55.087039+00:00"
+  },
+  {
+   "id": "75cd4e2c91fff9a5",
+   "title": "Rosie O\u2019Donnell rants that Trump-era ICE facilities are concentration camps where inmates are raped",
+   "url": "https://www.foxnews.com/media/rosie-odonnell-rants-trump-era-ice-facilities-concentration-camps-inmates-raped",
+   "summary": "Rosie O&apos;Donnell compared ICE detention facilities to concentration camps in Nazi Germany and suggested Dolly Parton should run the world instead.",
+   "published": "2026-09-01T23:21:23+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-02T00:17:55.115781+00:00"
+  },
+  {
+   "id": "bb2a614432435c9c",
+   "title": "Trump homeland security chief says ICE agents could be sent to polling places",
+   "url": "https://www.theguardian.com/us-news/2026/sep/01/trump-homeland-security-markwayne-mullin-polling",
+   "summary": "Markwayne Mullin says officers could be deployed \u2018if there is a threat to that polling place or we\u2019re serving a warrant\u2019US homeland security secretary Markwayne Mullin on Tuesday said that federal immigration and customs enforcement (ICE) officers could be deployed to polling sites across the country.Speaking to reporters in New York, Mullin said: \u201cICE isn\u2019t there to patrol the polling places. We\u2019re there to enforce specific threats.\u201d Continue reading...",
+   "published": "2026-09-01T22:50:32+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-09-02T00:17:55.841694+00:00"
+  },
+  {
+   "id": "fd5b2419a3e82313",
+   "title": "Hegseth has created 'climate of fear' at Pentagon, former Air Force secretary says",
+   "url": "https://www.pbs.org/newshour/show/hegseth-has-created-climate-of-fear-at-pentagon-former-air-force-secretary-says",
+   "summary": "To discuss the resignation of Secretary of the Army Dan Driscoll and the tension inside the Pentagon under Pete Hegseth, Geoff Bennett spoke with Frank Kendall of the Center for American Progress. He was Air Force Secretary during the Biden administration and co-wrote \"Lethal Autonomy: The Future of Warfare Whether We Like It or Not.\"",
+   "published": "2026-09-01T22:47:51+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-09-02T00:17:56.374763+00:00"
+  },
+  {
+   "id": "259361342fe016f5",
+   "title": "Democrats warn of \u2018hollowed out\u2019 leadership after army chief resigns amid clashes with Hegseth",
+   "url": "https://www.theguardian.com/us-news/2026/sep/01/dan-driscoll-resignation-hegseth",
+   "summary": "Sudden departure of Daniel Driscoll comes after Pentagon chief removed senior officers and blocked promotions, prompting warnings of a leadership crisisA senior Senate Democrat accused Pentagon secretary Pete Hegseth of having \u201chollowed out\u201d the army\u2019s senior ranks after its top civilian leader resigned after months of internal clashes with Hegseth.No official reason was given for army secretary Daniel Driscoll\u2019s departure after 18 months on the job, while thousands of US soldiers are deployed in the Middle East. In a statement on Monday night, White House spokesperson Anna Kelly said Driscoll",
+   "published": "2026-09-01T22:37:57+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-09-02T00:17:55.841706+00:00"
+  },
+  {
+   "id": "f6c817e9f87a98f3",
+   "title": "After long break, House returns to a changing political landscape",
+   "url": "https://www.pbs.org/newshour/show/after-long-break-house-returns-to-a-changing-political-landscape",
+   "summary": "The House has returned to Washington after a nearly two-month absence, and lawmakers came back to a changing political landscape. Since they left town in mid-July, President Trump has escalated or ignited controversies on a host of issues, from Iran to the Great Lakes. Now, lawmakers must confront those fights while also facing a looming deadline to fund the government. Lisa Desjardins reports.",
+   "published": "2026-09-01T22:35:22+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-09-02T00:17:56.374777+00:00"
+  },
+  {
+   "id": "944e423319a42940",
+   "title": "Springfield's Haitian community braces for deportations after protected status ends",
+   "url": "https://www.pbs.org/newshour/show/springfields-haitian-community-braces-for-deportations-after-protected-status-ends",
+   "summary": "In June, the Supreme Court cleared the way to end temporary protected status for Haitians and Syrians living in the U.S. The Trump administration let that TPS expire last month, and about 350,000 Haitians became at risk of deportation. The impact is now hitting the small city of Springfield, Ohio, long a political flashpoint in the debate around immigration. Stephanie Sy reports.",
+   "published": "2026-09-01T22:30:21+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-09-02T00:17:56.374783+00:00"
+  },
+  {
+   "id": "f55f7386eb0c272b",
+   "title": "US could ask parents to prove citizenship or immigration status to obtain passports for children",
+   "url": "https://www.theguardian.com/us-news/2026/sep/01/parents-citizenship-passports-children",
+   "summary": "Proposal offers look at how state department could enforce Trump order targeting what it calls \u2018birth tourism\u2019The US state department has proposed requiring parents applying for passports for their children to provide proof of their own citizenship or immigration status as part of Donald Trump\u2019s \u2060latest effort to limit birthright citizenship.The \u2060draft guidance, reviewed by \u200bReuters, is the first detailed look at how the state department could enforce Trump\u2019s 6 August executive order targeting what it calls \u201cbirth tourism\u201d and broadening historical exceptions to birthright citizenship. Continu",
+   "published": "2026-09-01T22:28:59+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-09-02T00:17:55.841714+00:00"
+  },
+  {
+   "id": "dc16768f640ac7d1",
+   "title": "Ted Cruz shuts down Trump Supreme Court talk with a fiery 'not just no, but hell no'",
+   "url": "https://www.foxnews.com/media/ted-cruz-shuts-down-trump-supreme-court-talk-fiery-not-just-no-but-hell-no",
+   "summary": "Sen. Ted Cruz told Sean Hannity his answer to a Supreme Court nomination from Trump would be &quot;not just no, but hell no,&quot; despite his deep legal background.",
+   "published": "2026-09-01T22:00:18+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-02T00:17:55.115857+00:00"
+  },
+  {
+   "id": "7f4f25108c1a8030",
+   "title": "Ohio man pleads guilty to smashing windows at Vance's home",
+   "url": "https://thehill.com/regulation/court-battles/6064527-ohio-man-pleads-guilty-vance/",
+   "summary": "An Ohio man pleaded guilty Tuesday to vandalizing Vice President JD Vance\u2019s Cincinnati home earlier this year. William D. DeFoor pleaded guilty in federal court to engaging in acts of physical violence against government officials or property and causing willful injury or depredation to property of the U.S., Justice Department (DOJ) officials said in a...",
+   "published": "2026-09-01T21:53:36+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-02T00:17:56.186878+00:00"
+  },
+  {
+   "id": "1900a1d2d68ef20f",
+   "title": "White House unveils new details of Venezuela agreement",
+   "url": "https://thehill.com/newsletters/energy-environment/6064628-white-house-unveils-new-details-of-venezuela-agreement/",
+   "summary": "{beacon} Energy &#038; Environment Energy &#038; Environment &#8202; The Big Story  Administration details oil deal with Venezuela The Trump administration unveiled additional details Monday evening about its new oil deal with Venezuela. AP Photo/Ariana Cubillos The Trump administration unveiled additional details Monday evening about its new oil deal with Venezuela.   The administration said in a...",
+   "published": "2026-09-01T21:46:59+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-02T00:17:56.186885+00:00"
+  },
+  {
+   "id": "9b64a44b73d23af3",
+   "title": "WATCH: Massie names 14 Epstein associates to 'shame' DOJ",
+   "url": "https://www.pbs.org/newshour/politics/watch-massie-names-14-epstein-associates-to-shame-doj",
+   "summary": "Speaking from the House floor Monday, Rep. Thomas Massie, R-Ky., pointed to how much time had passed since President Donald Trump signed the Epstein Files Transparency Act.",
+   "published": "2026-09-01T21:33:39+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-09-02T00:17:56.374790+00:00"
+  },
+  {
+   "id": "d1e9f705dd8bc6e9",
+   "title": "Haitian-born student in Ohio appears to take his own life after losing immigration status",
+   "url": "https://thehill.com/homenews/state-watch/6064510-haitian-student-ohio-suicide/",
+   "summary": "A Haitian-born student in Ohio reportedly took his own life following the loss of his immigration status as part of the Trump administration\u2019s termination of temporary protected status for immigrants around the country. The Ohio State Highway Patrol stated in a Monday press release that 20-year-old Pierre Damas Bel died Monday when he walked into...",
+   "published": "2026-09-01T21:19:18+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-02T00:17:56.186923+00:00"
+  },
   {
    "id": "8cde73f7a5c833af",
    "title": "Deported Milo Yiannopoulos says he is \u2018ashamed\u2019 of support for Trump",
