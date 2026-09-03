@@ -1,7 +1,172 @@
 {
- "updated": "2026-09-02T21:06:42.192798+00:00",
- "count": 381,
+ "updated": "2026-09-03T00:19:41.105869+00:00",
+ "count": 394,
  "articles": [
+  {
+   "id": "42a9b110a9809f3d",
+   "title": "Vance to give White House's first press briefing in over 40 days",
+   "url": "https://thehill.com/homenews/administration/6067880-vance-to-host-white-house-briefing/",
+   "summary": "Vice President Vance will host the first White House press briefing since July on Thursday, the White House Press Office announced. \u201cVice President @JDVance will take the podium tomorrow at 1:00 PM,\u201d the press office wrote Wednesday on social platform X.  Former White House press secretary Karoline Leavitt wrapped up her final day in the...",
+   "published": "2026-09-02T23:44:46+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-03T00:19:40.231423+00:00"
+  },
+  {
+   "id": "55f15a60b99c3fc9",
+   "title": "Federal judge blocks Trump\u2019s new birthright citizenship order",
+   "url": "https://thehill.com/regulation/court-battles/6067819-judge-blocks-trump-birthright-order/",
+   "summary": "A federal judge in Maryland on Wednesday blocked an executive order from President Trump that again seeks to restrict birthright citizenship. U.S. District Judge Deborah Boardman granted a preliminary injunction in a case brought by two immigration advocacy groups that had also challenged the Trump administration\u2019s initial attempt last year to limit who is eligible...",
+   "published": "2026-09-02T23:35:40+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-03T00:19:40.231435+00:00"
+  },
+  {
+   "id": "fed017c7e23d5a2d",
+   "title": "DHS boss reveals Oval Office plan to 'withhold funding' from sanctuary cities after aggressive New York bust",
+   "url": "https://www.foxnews.com/media/dhs-boss-reveals-oval-office-plan-withhold-funding-sanctuary-cities-aggressive-new-york-bust",
+   "summary": "Homeland Security Secretary Markwayne Mullin says Trump explored withholding federal funding from sanctuary cities during an Oval Office meeting.",
+   "published": "2026-09-02T22:56:54+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-03T00:19:39.638467+00:00"
+  },
+  {
+   "id": "10083decf400972f",
+   "title": "U.S. strikes Iran again as Tehran targets American allies in Gulf region",
+   "url": "https://www.pbs.org/newshour/show/u-s-strikes-iran-again-as-tehran-targets-american-allies-in-gulf-region",
+   "summary": "Iran attacked American bases and allies across the Gulf region on Wednesday. It followed U.S. attacks along Iran's southern coast that killed at least 18, according to Iran's health minister. At the White House, President Trump said this renewed campaign wouldn't last long, but threatened to hit Tehran \"very hard\" if the conflict over the Strait of Hormuz remains unresolved. Liz Landers reports.",
+   "published": "2026-09-02T22:55:26+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-09-03T00:19:40.476616+00:00"
+  },
+  {
+   "id": "ea92c9526b04f078",
+   "title": "Bessent rallies support for Trump agenda at G20",
+   "url": "https://thehill.com/newsletters/business-economy/6067771-bessent-trump-agenda-g20-finance/",
+   "summary": "Welcome to The Hill's Business &#038; Economy newsletter {beacon} Business &#038; Economy Business &#038; Economy &#8202; The Big Story  Bessent rallies support for Trump agenda at G20 Treasury Secretary Scott Bessent hosted economic officials from around the world in Asheville, N.C., this week, seeking to rally support for the Trump administration\u2019s financial agenda regarding Iran...",
+   "published": "2026-09-02T22:42:46+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-03T00:19:40.231482+00:00"
+  },
+  {
+   "id": "8bfc223e767a541a",
+   "title": "Ocasio-Cortez says she's concerned about Jeffries's meeting with Kushner: 'I don\u2019t know what that was about'",
+   "url": "https://thehill.com/homenews/house/6067762-aoc-criticizes-jeffries-kushner-meeting/",
+   "summary": "Rep. Alexandria Ocasio-Cortez (D-N.Y.) voiced her concern over a meeting between House Minority Leader Hakeem Jeffries (D-N.Y.) and Jared Kushner, President Trump\u2019s son-in-law. While walking near the Capitol, Ocasio-Cortez was asked if she was \u201cconcerned with\u201d Jeffries's meeting with Kushner. \u201cYeah,\u201d she said before laughing. \u201cI don\u2019t know what that was about.\u201d The New York...",
+   "published": "2026-09-02T22:39:51+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-03T00:19:40.231492+00:00"
+  },
+  {
+   "id": "2fdaaf5844245af2",
+   "title": "Trump under pressure to contain Iran fighting as midterms near",
+   "url": "https://thehill.com/policy/defense/6067742-trump-iran-strikes-escalation-midterms/",
+   "summary": "President Trump is under pressure to avoid an escalatory spiral after launching the largest wave of strikes on Iran in weeks, with the U.S. military strained and the midterm elections rapidly approaching. Trump on Wednesday downplayed the Iran war's negative impact on Republican candidates. The president\u2019s approval rating has reached a record low \u2014 33...",
+   "published": "2026-09-02T22:32:32+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-03T00:19:40.231515+00:00"
+  },
+  {
+   "id": "86a3136f64fb7199",
+   "title": "Norman endorses Graham after questioning why Trump backed her",
+   "url": "https://thehill.com/homenews/campaign/6067649-ralph-norman-darline-graham-trump-endorsement/",
+   "summary": "Rep. Ralph Norman (R-S.C.) gave his support Wednesday to Sen. Darline Graham (R-S.C.) for the Senate, after previously questioning why President Trump endorsed her in their tense Republican primary runoff. \u201cI respect the decision of South Carolina voters, and I congratulate Senator Darline Graham on winning the Republican nomination. I will support our Republican nominee...",
+   "published": "2026-09-02T22:04:06+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-03T00:19:40.231540+00:00"
+  },
+  {
+   "id": "b8aad43abdebac0c",
+   "title": "Trump says Harry and Meghan treated royals with \u2018great disrespect\u2019: \u2018I wouldn\u2019t have taken them back\u2019",
+   "url": "https://www.foxnews.com/entertainment/trump-says-harry-meghan-treated-royals-great-disrespect-wouldnt-taken-back",
+   "summary": "President Trump says he&apos;s &quot;happy&quot; Prince Harry and Meghan Markle are leaving the U.S., claiming the couple disrespected the royal family.",
+   "published": "2026-09-02T21:59:44+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-03T00:19:39.638514+00:00"
+  },
+  {
+   "id": "a13856935f519ef0",
+   "title": "White House defends Trump's beef import plan after report on billionaire's influence",
+   "url": "https://thehill.com/homenews/administration/6067644-trump-beef-tariffs-brazil-influence/",
+   "summary": "The White House defended President Trump\u2019s decision to temporarily suspend higher tariffs on ground beef imports amid a report that a Brazilian billionaire influenced the decision. \u201cPresident Trump\u2019s action to address a short-term supply crunch in the beef market was the result of a long policy planning and coordination process involving domestic stakeholders; this action...",
+   "published": "2026-09-02T21:49:53+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-03T00:19:40.231550+00:00"
+  },
+  {
+   "id": "8c980214c683d991",
+   "title": "Thune says he worries about losing Senate majority: 'I\u2019m a realist'",
+   "url": "https://thehill.com/homenews/senate/6067615-thune-gop-senate-majority/",
+   "summary": "Senate Majority Leader John Thune (R-S.D.) admitted in a recent interview that he\u2019s worried about Republicans losing their Senate majority, acknowledging the strong political headwinds they face this fall because of high prices and President Trump\u2019s slumping approval rating. Thune described himself as \u201ca realist\u201d during a wide-ranging interview with Keloland News in South Dakota....",
+   "published": "2026-09-02T21:47:40+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-03T00:19:40.231559+00:00"
+  },
+  {
+   "id": "b95a014df5633b58",
+   "title": "5 things to know from G20 finance summit",
+   "url": "https://thehill.com/homenews/administration/6067626-bessent-rally-g20-support/",
+   "summary": "Treasury Secretary Scott Bessent hosted economic officials from around the world in Asheville, N.C., this week, seeking to rally support for the Trump administration\u2019s financial agenda regarding Iran and China. During the Group of 20 (G20) finance summit, Bessent touted the Treasury Department\u2019s\u00a0beefed-up sanctions\u00a0on the Islamic Republic and its benefactors and downplayed\u00a0rising bond yields\u00a0in the...",
+   "published": "2026-09-02T21:42:25+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-03T00:19:40.231569+00:00"
+  },
+  {
+   "id": "77ab1e09234287f3",
+   "title": "U.S. oil giant Chevron confirms it will expand operations in Venezuela",
+   "url": "https://www.pbs.org/newshour/world/u-s-oil-giant-chevron-confirms-it-will-expand-operations-in-venezuela",
+   "summary": "Oil giant Chevron confirmed that it will expand operations in Venezuela after President Donald Trump announced an ambitious deal to develop the nation's oil reserves and give the Pentagon a stake in the profits.",
+   "published": "2026-09-02T21:39:57+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-09-03T00:19:40.476676+00:00"
+  },
+  {
+   "id": "4a5901ed0ff98630",
+   "title": "G20 Innovation Ministerial Concludes with Consensus Statement",
+   "url": "https://www.whitehouse.gov/releases/2026/09/g20-innovation-ministerial-concludes-with-consensus-statement/",
+   "summary": "Today, G20 member ministers concluded a two-day Innovation Ministerial in Chapel Hill, North Carolina. The Ministerial was hosted by the Department of Commerce and the White House Office of Science and Technology Policy (OSTP). At the conclusion of the Ministerial, G20 Ministers released a consensus statement recognizing that \u201cemerging technologies have the potential to unlock [&#8230;]\nThe post G20 Innovation Ministerial Concludes with Consensus Statement appeared first on The White House.",
+   "published": "2026-09-02T21:37:46+00:00",
+   "source": "WhiteHouse.gov News",
+   "source_id": "whitehouse",
+   "bias_note": "official/primary-source",
+   "first_seen": "2026-09-03T00:19:39.674980+00:00"
+  },
+  {
+   "id": "80c59ec1be8cf0b3",
+   "title": "Trump coins already out of stock at US Mint",
+   "url": "https://thehill.com/homenews/administration/6067590-trump-gold-coins-sell-out/",
+   "summary": "One dollar gold-colored coins featuring President Trump\u2019s image sold out hours after they were released on Wednesday afternoon, according to the U.S. Mint\u2019s website.\u00a0 The currency, which the Trump administration advertised as an opportunity to \u201cown a piece of American History,\u201d went up for purchase at noon.\u00a0 A 25-coin roll, priced at $61, is \u201ccurrently...",
+   "published": "2026-09-02T21:34:49+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-03T00:19:40.231592+00:00"
+  },
   {
    "id": "fc33d0d258c46c44",
    "title": "Newsom, Schiff back Trump's push for federal film tax credit",
@@ -4170,28 +4335,6 @@
    "source_id": "politico",
    "bias_note": "center",
    "first_seen": "2026-08-29T21:14:43.102509+00:00"
-  },
-  {
-   "id": "0652b199c02c3590",
-   "title": "President Trump\u2019s Trade Agenda Is Rebuilding the American Auto Industry",
-   "url": "https://www.whitehouse.gov/releases/2026/08/president-trumps-trade-agenda-is-rebuilding-the-american-auto-industry/",
-   "summary": "Ford Motor Company announced it will reshore production of its Lincoln models to the United States \u2014 phasing out imports from China and creating thousands of new American jobs. This is the latest proof that President Donald J. Trump\u2019s America First trade agenda is delivering exactly as designed: rewarding domestic manufacturing, protecting American workers, and [&#8230;]\nThe post President Trump\u2019s Trade Agenda Is Rebuilding the American Auto Industry appeared first on The White House.",
-   "published": "2026-08-19T21:42:19+00:00",
-   "source": "WhiteHouse.gov News",
-   "source_id": "whitehouse",
-   "bias_note": "official/primary-source",
-   "first_seen": "2026-08-29T21:14:42.361541+00:00"
-  },
-  {
-   "id": "3167613f78ceefef",
-   "title": "\u2018Woefully underprepared\u2019: Graham critics seize on her foreign policy misstep",
-   "url": "https://www.politico.com/news/2026/08/19/darline-graham-taiwan-flub-south-carolina-senate-01042395",
-   "summary": "President Donald Trump is working hard to propel the political newcomer into office. Her debate performance proved just how green she still is.",
-   "published": "2026-08-19T21:12:54+00:00",
-   "source": "Politico",
-   "source_id": "politico",
-   "bias_note": "center",
-   "first_seen": "2026-08-29T21:14:43.102514+00:00"
   }
  ]
 }
