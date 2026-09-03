@@ -1,7 +1,249 @@
 {
- "updated": "2026-09-03T07:13:21.360416+00:00",
- "count": 400,
+ "updated": "2026-09-03T12:51:43.592147+00:00",
+ "count": 419,
  "articles": [
+  {
+   "id": "a66a8eef664b6584",
+   "title": "Live updates: Vance to helm White House's first press briefing in weeks; House wraps up before next recess",
+   "url": "https://thehill.com/homenews/administration/6067935-live-updates-trump-vance-white-house-briefing/",
+   "summary": "Vice President Vance is set to hold the White House's first press briefing in 42 days on Thursday afternoon, speaking in place of a press secretary \u2014 a role that remains vacant after Karoline Leavitt's end-of-August departure. The briefing is set for 1 p.m. EDT. The vice president was one of a handful of Trump...",
+   "published": "2026-09-03T12:45:21+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-03T12:51:42.562244+00:00"
+  },
+  {
+   "id": "6481d41eccb3ff4f",
+   "title": "Judge blocks new Trump bid against birthright citizenship \u2013 US politics live",
+   "url": "https://www.theguardian.com/us-news/live/2026/sep/03/donald-trump-immigration-tariffs-canada-trade-iran-jd-vance-latest-news-updates",
+   "summary": "Maryland judge issues preliminary injunction blocking Trump\u2019s executive order targeting what he termed \u2018birth tourism\u2019Sign up for US Breaking News emailsThe White House has rejected New York governor Kathy Hochul\u2019s claim that federal emergency authorities denied assistance due to \u201cpolitical games.\u201d\u201cThere is no politicization to the President\u2019s decisions on disaster relief, unlike under the Biden Administration where [Federal Emergency Management Agency] officials refused aid to disaster survivors who displayed political signs and flags they disagreed with,\u201d White House spokeswoman Lauren Bis s",
+   "published": "2026-09-03T12:39:40+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-09-03T12:51:41.104673+00:00"
+  },
+  {
+   "id": "a5c16ed24375949a",
+   "title": "Mine safety commissioner fired by Trump gives up legal fight, citing Supreme Court",
+   "url": "https://thehill.com/regulation/court-battles/6068303-donald-trump-mine-safety-commissioner-legal-fight/",
+   "summary": "The Supreme Court\u2019s\u00a0expansion of President Trump\u2019s firing power is\u00a0sweeping into mine safety.\u00a0 Moshe Marvit, whom Trump sacked from the\u00a0Federal Mine Safety and Health Review Commission (FMSHRC), moved to voluntarily drop his legal challenge on Wednesday. He disagrees with the high court's decision but conceded it means the agency is no longer independent.\u00a0 \u201cI brought this case to...",
+   "published": "2026-09-03T12:28:27+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-03T12:51:42.562264+00:00"
+  },
+  {
+   "id": "8b145e40fb93ab22",
+   "title": "Watch live: Vance headlines opening of school to 'rebuild American manufacturing'",
+   "url": "https://thehill.com/video-clips/6068299-watch-live-jd-vance-marco-rubio-donald-trump-domestic-manufacturing-school-opening/",
+   "summary": "Vice President Vance will give remarks Thursday on the Trump administration\u2019s effort to rebuild the U.S. manufacturing workforce through the launch of a new training program as part of President Trump's focus on domestic production. The Foundry School, a project of the State Department\u2019s Pax Silica initiative, will train entrepreneurs, engineers, technicians and industrial leaders...",
+   "published": "2026-09-03T12:21:58+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-03T12:51:42.562271+00:00"
+  },
+  {
+   "id": "39715aa1890c72ab",
+   "title": "FIRST ON FOX: \u2018No Kings\u2019 protest network behind fight against AI data centers and Flock cameras",
+   "url": "https://www.foxnews.com/politics/no-kings-protest-network-fight-against-ai-data-centers-flock-cameras",
+   "summary": "Fox News Digital traces how pro-China socialist groups moved from anti-Trump, anti-Israel protests into technology messages that spread to conservatives and libertarians.",
+   "published": "2026-09-03T12:14:29+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-03T12:51:40.477010+00:00"
+  },
+  {
+   "id": "8afd0aff0b3b58af",
+   "title": "Trump urges Republicans in tight races to run on his record",
+   "url": "https://thehill.com/homenews/administration/6068248-donald-trump-gop-voting-record-midterms/",
+   "summary": "President Trump on Wednesday urged Republicans facing tight races in the November midterm elections to run on his record, pledging to join them on the campaign trail. Trump told Republican lawmakers at a dinner in the White House Rose Garden that they had successful stories to pass along to voters in the remaining months of...",
+   "published": "2026-09-03T12:03:00+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-03T12:51:42.562275+00:00"
+  },
+  {
+   "id": "c0f72c2b32ee9f79",
+   "title": "In 2016, Trump pledged to erase the federal debt. It just hit $40tn | Steven Greenhouse",
+   "url": "https://www.theguardian.com/commentisfree/2026/sep/03/trump-federal-debt-40-trillion",
+   "summary": "The trillions in tax cuts going to the rich and corporations could have instead been used to address the affordability crisisDear reader, I recognize that your eyes might glaze over at any mention of the nation\u2019s $40tn federal debt. But your reaction to this mind-boggling number shouldn\u2019t be ennui; it should be outrage and dismay.Outrage is in order because the nation\u2019s debt has climbed to more than $40tn under Donald Trump, even though back in 2016, when the debt was less than half what it is today, candidate Trump insisted that he\u2019d totally eliminate the debt within eight years. That was yet",
+   "published": "2026-09-03T12:00:30+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-09-03T12:51:41.104736+00:00"
+  },
+  {
+   "id": "4c2d6fa811adcb28",
+   "title": "India's Modi-Iran meeting comes amid US warnings of sanctions on Tehran's trading partners",
+   "url": "https://www.foxnews.com/world/indias-modi-iran-meeting-comes-amid-us-warnings-sanctions-tehrans-trading-partners",
+   "summary": "Trump administration Iran sanctions threaten India&apos;s commercial and energy ties with Tehran, putting India-U.S. relations to the test over secondary sanctions.",
+   "published": "2026-09-03T11:46:40+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-03T12:51:40.492354+00:00"
+  },
+  {
+   "id": "ad01c67f808cf108",
+   "title": "Federal judge considers whether to extend ban against US Postal Service mail voting changes",
+   "url": "https://abcnews.com/Politics/wireStory/federal-judge-considers-extend-ban-us-postal-service-136166784",
+   "summary": "A federal judge is hearing arguments on whether to extend a prohibition against the U.S. Postal Service implementing President Donald Trump's executive order that restricts mail voting during the midterms",
+   "published": "2026-09-03T11:38:33+00:00",
+   "source": "ABC News Politics",
+   "source_id": "abc-politics",
+   "bias_note": "center",
+   "first_seen": "2026-09-03T12:51:43.387374+00:00"
+  },
+  {
+   "id": "a8f6eada3b777eef",
+   "title": "GOP mail-in voting proposal could impact millions of Americans ahead of midterms",
+   "url": "https://www.foxnews.com/politics/gop-mail-in-voting-proposal-could-impact-millions-americans-ahead-midterms",
+   "summary": "President Donald Trump&apos;s allies unveil a bill requiring mail-in ballots be received by Election Day, citing Florida&apos;s system as proof it works.",
+   "published": "2026-09-03T11:00:45+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-03T12:51:40.477027+00:00"
+  },
+  {
+   "id": "9047f8f4fbc8e5ee",
+   "title": "Iran is no Vietnam, but Trump is mimicking Lyndon Johnson's failed approach",
+   "url": "https://thehill.com/opinion/national-security/6066434-avoiding-vietnam-mistake-iran-conflict/",
+   "summary": "Trump needs to learn the lesson in Iran that Johnson never did in Vietnam: that there is no slow squeezing of the enemy to the negotiating table.",
+   "published": "2026-09-03T11:00:00+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-03T12:51:42.562334+00:00"
+  },
+  {
+   "id": "e10d8c6173b86cfe",
+   "title": "Trump\u2019s Army secretary hunt takes shape as insiders float potential picks",
+   "url": "https://www.foxnews.com/politics/trumps-army-secretary-hunt-takes-shape-insiders-float-potential-picks",
+   "summary": "Sean Parnell and Brian Mast are among names floated to replace Dan Driscoll as secretary of the Army after his reported clashes with Pete Hegseth.",
+   "published": "2026-09-03T10:40:53+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-03T12:51:40.477032+00:00"
+  },
+  {
+   "id": "10bfce7085f48d35",
+   "title": "Revealed: attorneys rally to free children held in US immigration custody",
+   "url": "https://www.theguardian.com/us-news/2026/sep/03/attorneys-rally-children-immigration-custody",
+   "summary": "Trump administration has indefinitely stranded hundreds of kids and lawyers from over 50 organizations are fighting for their releaseAn army of attorneys is rallying to free hundreds of children from immigration custody, where they have been stranded indefinitely by the Trump administration without their parents or loved ones, the Guardian can reveal.The effort is a counter strike to what critics see as unprecedented moves by federal officials to ride roughshod over children\u2019s rights and increase deportations \u2013 while in the meantime corralling them in conditions that can allegedly lead to psyc",
+   "published": "2026-09-03T10:00:50+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-09-03T12:51:41.104722+00:00"
+  },
+  {
+   "id": "3fe6f04f408b68d4",
+   "title": "Trump ranks himself the greatest US president ever. Historians beg to differ",
+   "url": "https://www.theguardian.com/us-news/2026/sep/03/greatest-president-trump-historians-disagree",
+   "summary": "Donald Trump posted his own presidential rankings to Truth Social last week, separating past US presidents into six categories from \u2018greatest\u2019 to \u2018failures\u2019Donald Trump has declared himself to be the \u201cgreatest\u201d US president ever, sharing a post on social media last week which graded him above the likes of Abraham Lincoln, Franklin D Roosevelt and George Washington. Experts take a different view.Few presidential historians have previously suggested Trump holds such a place in the history books. After all, neither Lincoln, nor Roosevelt, nor Washington \u2013 the three leaders typically seen as Ameri",
+   "published": "2026-09-03T10:00:50+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-09-03T12:51:41.104729+00:00"
+  },
+  {
+   "id": "46c1f833cdcd9c07",
+   "title": "Some Republicans are planning to skip Trump\u2019s GOP convention",
+   "url": "https://thehill.com/homenews/campaign/6067580-gop-midterm-convention-trump-polls/",
+   "summary": "Republicans are cautiously approaching the party\u2019s midterm convention next week as President Trump spirals in polls, with some candidates and lawmakers deciding to skip the gathering all together.   The dynamic underscores how worried Republicans are about Trump\u2019s own brand ahead of midterm elections in which the party is in danger of losing the House...",
+   "published": "2026-09-03T10:00:00+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-03T12:51:42.562373+00:00"
+  },
+  {
+   "id": "b7703491499bdc43",
+   "title": "Hegseth headed for clash with GOP senators as frustrations grow",
+   "url": "https://thehill.com/policy/defense/6067589-hegseth-pentagon-senator-clash/",
+   "summary": "Secretary of Defense Pete Hegseth is on a collision course with GOP senators as key lawmakers have major concerns about the turnover of senior staff, the lack of a clear plan for ending the Iran war, and the failure of the administration to reach out to Democrats to build support for funding priorities. Hegseth has...",
+   "published": "2026-09-03T10:00:00+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-03T12:51:42.562378+00:00"
+  },
+  {
+   "id": "9e5e3fbd8f8bc3ec",
+   "title": "Democratic senators ask McMahon for details on student loan administration spending",
+   "url": "https://thehill.com/homenews/education/6068035-democratic-senators-education-loan-spending-letter/",
+   "summary": "Four Democratic senators sent a letter Wednesday to Education Secretary Linda McMahon, calling for her to share details on how her department used $1 billion in funding intended for student loan administration. The letter, authored by Sens. Cory Booker (D-N.J.), Jeff Merkley (D-Ore.), Chris Van Hollen (D-Md.) and Elizabeth Warren (D-Mass.), questions why the Education...",
+   "published": "2026-09-03T10:00:00+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-03T12:51:42.562382+00:00"
+  },
+  {
+   "id": "99d3f0b739c1dd93",
+   "title": "MAGA begins to crack as 2026 GOP roster backs away from Trump's tech vision",
+   "url": "https://www.foxnews.com/politics/maga-begins-crack-2026-gop-roster-backs-away-from-trumps-tech-vision",
+   "summary": "Donald Trump urges communities to &quot;let Data Reign,&quot; but GOP candidates across battleground states propose data center moratoriums ahead of midterms.",
+   "published": "2026-09-03T09:00:55+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-03T12:51:40.477071+00:00"
+  },
+  {
+   "id": "121c9b78c63541fc",
+   "title": "Johnson downplays GOP's midterm woes as Democrats eye House takeover: 'I am very bullish'",
+   "url": "https://www.foxnews.com/politics/johnson-downplays-gops-midterm-woes-democrats-eye-house-takeover",
+   "summary": "With Election Day two months away, Democrats eye Senate and House majorities as inflation, gas prices and Trump&apos;s approval ratings batter the GOP.",
+   "published": "2026-09-03T09:00:45+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-03T12:51:40.477074+00:00"
+  },
+  {
+   "id": "9de50da05175c4e6",
+   "title": "Inside the failed mission to eliminate FEMA",
+   "url": "https://www.npr.org/2026/09/03/nx-s1-5943052/fema-trump-flood-wildfire-hurricane-disaster",
+   "summary": "David Richardson worked to eliminate the country's top disaster agency when he led FEMA last year. Now, he says the administration has abandoned that goal.",
+   "published": "2026-09-03T09:00:00+00:00",
+   "source": "NPR Politics",
+   "source_id": "npr-politics",
+   "bias_note": "center",
+   "first_seen": "2026-09-03T12:51:40.944817+00:00"
+  },
+  {
+   "id": "ec9483534eb5d9b4",
+   "title": "These Judges Take Months to Decide If Immigrants Have Been Unlawfully Detained",
+   "url": "https://www.propublica.org/article/ice-detention-judges-habeas-petitions",
+   "summary": "The post These Judges Take Months to Decide If Immigrants Have Been Unlawfully Detained appeared first on ProPublica.",
+   "published": "2026-09-03T09:00:00+00:00",
+   "source": "ProPublica",
+   "source_id": "propublica",
+   "bias_note": "investigative",
+   "first_seen": "2026-09-03T12:51:43.232238+00:00"
+  },
+  {
+   "id": "69b648f72015bb72",
+   "title": "Ex-National Security Council director on administration's plan for Venezuela oil",
+   "url": "https://www.npr.org/2026/09/03/nx-s1-5954063/ex-national-security-council-director-on-administrations-plan-for-venezuela-oil",
+   "summary": "NPR's Michel Martin asks former Obama administration official Benjamin Gedan {guh-DAN} about the viability of the Trump administration's plan for Venezuelan oil.",
+   "published": "2026-09-03T08:08:17+00:00",
+   "source": "NPR Politics",
+   "source_id": "npr-politics",
+   "bias_note": "center",
+   "first_seen": "2026-09-03T12:51:40.944831+00:00"
+  },
   {
    "id": "83dbf39de0425336",
    "title": "DOJ threatens to cut billions in welfare funding from states for failing to report illegal migrants",
@@ -4368,39 +4610,6 @@
    "source_id": "whitehouse",
    "bias_note": "official/primary-source",
    "first_seen": "2026-08-29T21:14:42.361540+00:00"
-  },
-  {
-   "id": "0840fc3d4ca4b2d0",
-   "title": "This Coach Is Banned From Working With Kids. Why Is He Still Coaching?",
-   "url": "https://www.propublica.org/article/ryan-richardson-pharr-texas-usa-volleyball-safesport-abuse-teens",
-   "summary": "The post This Coach Is Banned From Working With Kids. Why Is He Still Coaching? appeared first on ProPublica.",
-   "published": "2026-08-20T09:00:00+00:00",
-   "source": "ProPublica",
-   "source_id": "propublica",
-   "bias_note": "investigative",
-   "first_seen": "2026-08-29T21:14:43.675249+00:00"
-  },
-  {
-   "id": "98fdd90484df9a80",
-   "title": "What Parents Need to Know About Sexual Abuse in Youth Sports",
-   "url": "https://www.propublica.org/getinvolved/what-parents-should-know-sexual-abuse-youth-sports-aau-safesport",
-   "summary": "The post What Parents Need to Know About Sexual Abuse in Youth Sports appeared first on ProPublica.",
-   "published": "2026-08-20T08:55:00+00:00",
-   "source": "ProPublica",
-   "source_id": "propublica",
-   "bias_note": "investigative",
-   "first_seen": "2026-08-29T21:14:43.675250+00:00"
-  },
-  {
-   "id": "51b58f02bd733846",
-   "title": "#Resistance Democrats are flopping in primaries",
-   "url": "https://www.politico.com/news/2026/08/20/the-trump-resistance-is-losing-its-primaries-01042844",
-   "summary": "Alexander Vindman\u2019s Senate primary loss Tuesday is the latest stumble from a top Trump critic.",
-   "published": "2026-08-20T08:45:00+00:00",
-   "source": "Politico",
-   "source_id": "politico",
-   "bias_note": "center",
-   "first_seen": "2026-08-29T21:14:43.102506+00:00"
   }
  ]
 }
