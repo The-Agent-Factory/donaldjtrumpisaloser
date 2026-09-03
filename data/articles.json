@@ -1,7 +1,238 @@
 {
- "updated": "2026-09-03T17:53:07.265151+00:00",
- "count": 439,
+ "updated": "2026-09-03T21:05:45.458890+00:00",
+ "count": 457,
  "articles": [
+  {
+   "id": "94a7ba120a52504e",
+   "title": "Trump moves to end tax-exempt status for schools that help minority students",
+   "url": "https://thehill.com/homenews/administration/6070210-trump-ends-private-school-tax-exemptions/",
+   "summary": "The Trump administration moved on Thursday to end tax-exempt status for private schools that provide preferential treatment to minority students. The Treasury Department and Internal Revenue Status (IRS) issued a proposed regulation that would provide a \u201cclear standard, and the institutions that continue to use discriminatory practices will no longer receive the benefits of federal...",
+   "published": "2026-09-03T21:02:29+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-03T21:05:44.265830+00:00"
+  },
+  {
+   "id": "38ba54f86a622c12",
+   "title": "Reality star's son, 15, indicted on 7 counts stemming from alleged sexual battery",
+   "url": "https://www.foxnews.com/entertainment/reality-stars-son-15-indicted-7-counts-stemming-from-alleged-sexual-battery",
+   "summary": "KJ Biermann, 15, now faces 7 counts including child molestation and aggravated sodomy stemming from April incident after a grand jury indictment.",
+   "published": "2026-09-03T20:59:54+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-03T21:05:43.195835+00:00"
+  },
+  {
+   "id": "b82386103f8158e2",
+   "title": "Interior preparing to start work on Trump's arch 'over the next two-week period'",
+   "url": "https://thehill.com/policy/energy-environment/6070202-trump-dc-arch-interior/",
+   "summary": "The federal government is preparing \u201cover the next two weeks\u201d to start work on President Trump\u2019s proposed triumphal arch in the Washington, D.C. area, Interior Secretary Doug Burgum said Thursday.\u00a0 \u201cWe are preparing to start, over the next two-week period, the excavation work necessary for the Great Triumphal Arch and Military Observation Deck,\u201d Burgum said...",
+   "published": "2026-09-03T20:50:31+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-03T21:05:44.265850+00:00"
+  },
+  {
+   "id": "b4b970873c977348",
+   "title": "Trump asks Supreme Court to lift block on USPS plan to restrict mail voting",
+   "url": "https://www.npr.org/2026/09/03/nx-s1-5955614/trump-mail-in-voting-ruling-court-usps",
+   "summary": "The Trump administration has asked the Supreme Court to lift a temporary block on the U.S. Postal Service plan for President Trump's attempt to restrict mail-in voting for the midterm election.",
+   "published": "2026-09-03T20:48:21+00:00",
+   "source": "NPR Politics",
+   "source_id": "npr-politics",
+   "bias_note": "center",
+   "first_seen": "2026-09-03T21:05:43.705974+00:00"
+  },
+  {
+   "id": "9cd71744ef2ab3eb",
+   "title": "Postal Service asks Supreme Court to allow Trump\u2019s mail voting changes",
+   "url": "https://thehill.com/regulation/court-battles/6070171-supreme-court-justice-department-mail-voting-usps/",
+   "summary": "The Justice Department urged the Supreme Court on Thursday to clear the way for the U.S. Postal Service to implement President Trump\u2019s executive order targeting mail voting in time for the midterms.\u00a0 The high court previously lifted the judge\u2019s block on the president\u2019s executive order itself. Now, the judge has blocked the Postal Service\u2019s final...",
+   "published": "2026-09-03T20:45:29+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-03T21:05:44.265855+00:00"
+  },
+  {
+   "id": "6ee33fa55f4d1f9a",
+   "title": "Smithsonian showdown intensifies as Trump administration issues a stark new warning",
+   "url": "https://www.foxnews.com/politics/smithsonian-showdown-intensifies-trump-administration-issues-stark-new-warning",
+   "summary": "The Smithsonian Institution faces threats beyond its $1 billion federal funding as Trump administration claims evidence of antidiscrimination violations.",
+   "published": "2026-09-03T20:34:46+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-03T21:05:43.076616+00:00"
+  },
+  {
+   "id": "1f515848a1939ebc",
+   "title": "White House rips \u2018activist\u2019 Biden judge who upended Trump birthright citizenship order",
+   "url": "https://www.foxnews.com/politics/white-house-rips-activist-biden-judge-upended-trump-birthright-citizenship-order",
+   "summary": "A Biden-appointed judge blocked President Donald Trump&apos;s birthright citizenship executive order, calling it &quot;almost certainly unconstitutional.&quot;",
+   "published": "2026-09-03T20:30:43+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-03T21:05:43.076627+00:00"
+  },
+  {
+   "id": "57575977e9bf565f",
+   "title": "Vance reveals who's behind his recent weight loss in first White House press briefing since July",
+   "url": "https://www.foxnews.com/politics/vance-reveals-whos-behind-his-recent-weight-loss-first-white-house-press-briefing-since-july",
+   "summary": "The vice president credited Robert F. Kennedy Jr.&apos;s diet of high protein and sauerkraut for his weight loss during his first press briefing since the departure of Karoline Leavitt.",
+   "published": "2026-09-03T20:26:25+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-03T21:05:43.076631+00:00"
+  },
+  {
+   "id": "ed9722758c1a7568",
+   "title": "MIKE DAVIS: Cheers to David Warrington, Trump\u2019s outgoing White House counsel",
+   "url": "https://www.foxnews.com/opinion/mike-davis-cheers-david-warrington-trumps-outgoing-white-house-counsel",
+   "summary": "David Warrington departs after steering Trump through over 30 Supreme Court victories against lawfare and helping install constitutionalist judges.",
+   "published": "2026-09-03T20:09:06+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-03T21:05:43.195922+00:00"
+  },
+  {
+   "id": "26472dd3fbeace64",
+   "title": "Excavation work on Trump's arch in Washington to begin over next 2 weeks, administration says",
+   "url": "https://abcnews.com/Politics/wireStory/excavation-work-trumps-arch-washington-begin-2-weeks-136185425",
+   "summary": "The Trump administration has announced that it is planning to start excavation work on a memorial arch in Washington over the next two weeks",
+   "published": "2026-09-03T20:06:10+00:00",
+   "source": "ABC News Politics",
+   "source_id": "abc-politics",
+   "bias_note": "center",
+   "first_seen": "2026-09-03T21:05:45.051527+00:00"
+  },
+  {
+   "id": "48775a58767eb079",
+   "title": "White House gives classic arcade games a MAGA makeover in new online launch",
+   "url": "https://www.foxnews.com/politics/white-house-classic-arcade-games-maga-makeover-online-launch",
+   "summary": "The White House launched a gaming website with MAGA remakes of Snake, Flappy Bird, Duck Hunt and Tetris designed to highlight Trump&apos;s second-term wins.",
+   "published": "2026-09-03T20:05:27+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-03T21:05:43.076644+00:00"
+  },
+  {
+   "id": "4f1e93a4643fa34c",
+   "title": "OpenAI's ChatGPT pivots after previously putting Trump alongside Putin as top threats to democracy",
+   "url": "https://www.foxnews.com/media/openais-chatgpt-pivots-after-previously-putting-trump-alongside-putin-as-top-threats-to-democracy",
+   "summary": "ChatGPT originally rated President Trump as a major threat to democracy, but the results changed after a Media Research Center (MRC) study was brought to its attention.",
+   "published": "2026-09-03T20:00:22+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-03T21:05:43.195946+00:00"
+  },
+  {
+   "id": "32dc274744b5d88d",
+   "title": "ICE officer who shot Venezuelan man in Minneapolis charged with lying to investigators",
+   "url": "https://www.theguardian.com/us-news/2026/sep/03/ice-officer-charged-venzuela-man-shot-minneapolis",
+   "summary": "Julio Sosa-Celis, who was shot in the leg by Christian Castro and survived, was one of three people shot by federal immigration agents during Trump\u2019s \u2018Operation Metro Surge\u2019A US Immigration and Customs Enforcement (ICE) officer has been indicted on charges of lying to investigators about the events leading up to the shooting of a Venezuelan man during the Minneapolis immigration crackdown earlier this year, according to multiple reports.A source told the Associated Press that Christian Castro, the officer accused of shooting Julio Sosa-Celis in the leg in January, has been charged by US federa",
+   "published": "2026-09-03T19:40:53+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-09-03T21:05:43.850024+00:00"
+  },
+  {
+   "id": "6e48c041588dabbb",
+   "title": "Vance says he won't turn on 'friend' Carlson over Trump, Rogers criticism",
+   "url": "https://thehill.com/homenews/administration/6069864-vance-defends-tucker-carlson-friendship/",
+   "summary": "Vice President Vance defended his relationship with right-wing media personality Tucker Carlson during Thursday's White House press briefing, saying he won't allow political disagreements to ruin friendships. Carlson this past week has said President Trump should be removed from office for \"actively considering\" preemptive nuclear strikes, while also saying he wouldn't vote for former Rep....",
+   "published": "2026-09-03T19:13:14+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-03T21:05:44.265917+00:00"
+  },
+  {
+   "id": "fd76c7eb6fa2028e",
+   "title": "Former pardon attorney sues DoJ over \u2018unlawful\u2019 firing tied to Mel Gibson case",
+   "url": "https://www.theguardian.com/us-news/2026/sep/03/pardon-attorney-liz-oyer-mel-gibson",
+   "summary": "Liz Oyer says department fired her after she refused to recommend restoring gun rights of actor and Trump allyThe former pardon attorney for the US justice department, Elizabeth Oyer, filed a lawsuit on Thursday against the department and attorney general Todd Blanche, accusing them of \u201cunlawfully\u201d firing her last year after she said she refused to recommend restoring actor Mel Gibson\u2019s gun rights.In the complaint, filed in the US district court for the District of Columbia, Oyer alleges that in early 2025, while she was serving as pardon attorney, she was asked to \u201cdisregard her duties and fa",
+   "published": "2026-09-03T19:06:15+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-09-03T21:05:43.850032+00:00"
+  },
+  {
+   "id": "7f96b2106f01c191",
+   "title": "Patagonia joins lawsuit against Trump's Utah national monument reduction",
+   "url": "https://thehill.com/policy/energy-environment/6069727-patagonia-joins-national-monuments-lawsuit/",
+   "summary": "The outdoor retailer Patagonia on Wednesday joined a lawsuit against the Trump administration over its executive orders to shrink the sizes of the Bears Ears and Grand Staircase-Escalante national monuments in Utah. Patagonia joined a coalition of Native American groups, the Natural Resources Defense Council and other environmental groups to reopen two 2017 lawsuits against...",
+   "published": "2026-09-03T19:05:18+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-03T21:05:44.265919+00:00"
+  },
+  {
+   "id": "7e98eb12d3d1fcb0",
+   "title": "Former pardon attorney challenges firing after refusing to restore Mel Gibson's gun rights",
+   "url": "https://thehill.com/regulation/court-battles/6069747-liz-oyer-mel-gibson-lawsuit/",
+   "summary": "Former U.S. pardon attorney Liz Oyer is suing the Department of Justice (DOJ) over her termination, which took place last year after she refused to recommend that actor Mel Gibson have his gun rights restored. Oyer was dismissed in March 2025, one of many in an early wave of dismissals and reassignments at the DOJ in the...",
+   "published": "2026-09-03T18:26:39+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-03T21:05:44.265938+00:00"
+  },
+  {
+   "id": "74b4cf0a9cb09d20",
+   "title": "'Ghetto': Laura Loomer must be denounced for racist comments",
+   "url": "https://thehill.com/opinion/lindseys-lens/6069767-laura-loomer-racist-comments/",
+   "summary": "If Republicans cannot simply say that racism is wrong, that 9/11 is not an inside job, and that President Trump should disassociate himself from people who traffic in this kind of hateful, vile and bigoted rhetoric, then what are we even talking about?",
+   "published": "2026-09-03T18:25:51+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-03T21:05:44.265941+00:00"
+  },
+  {
+   "id": "94c26a6c87e99b21",
+   "title": "Trump administration stalled a survey of PFAS in wastewater, former EPA officials say",
+   "url": "https://abcnews.com/Politics/wireStory/trump-administration-stalled-survey-pfas-wastewater-former-epa-136182821",
+   "summary": "The Trump administration has stalled a study that would help identify industries dumping harmful PFAS chemicals in wastewater, two former officials say",
+   "published": "2026-09-03T18:21:00+00:00",
+   "source": "ABC News Politics",
+   "source_id": "abc-politics",
+   "bias_note": "center",
+   "first_seen": "2026-09-03T21:05:45.051531+00:00"
+  },
+  {
+   "id": "2710243b9beea959",
+   "title": "ICE officer faces federal charges for lying over shooting of Venezuelan immigrant",
+   "url": "https://www.npr.org/2026/09/03/nx-s1-5955654/justice-department-charges-castro-ice-officer",
+   "summary": "The charges represent a rare moment of the Justice Department seeking to hold immigration officers accountable.",
+   "published": "2026-09-03T18:14:53+00:00",
+   "source": "NPR Politics",
+   "source_id": "npr-politics",
+   "bias_note": "center",
+   "first_seen": "2026-09-03T21:05:43.705987+00:00"
+  },
+  {
+   "id": "adaa1a58bbfabdbf",
+   "title": "Feds bust LGBT podcaster, former Christian reality TV star for alleged threats to kill Trump",
+   "url": "https://www.foxnews.com/politics/feds-bust-lgbt-podcaster-former-christian-reality-tv-star-alleged-threats-kill-trump",
+   "summary": "Benjamin Azariah Southworth allegedly posted videos calling for President Donald Trump&apos;s assassination and targeted the family of his attorney.",
+   "published": "2026-09-03T18:02:00+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-03T21:05:43.076660+00:00"
+  },
   {
    "id": "625c067743e2f0af",
    "title": "ICE whistleblower: Agency cut corners to fill ranks",
@@ -210,6 +441,17 @@
    "source_id": "foxnews-politics",
    "bias_note": "right-leaning",
    "first_seen": "2026-09-03T14:54:45.093867+00:00"
+  },
+  {
+   "id": "a5d592dedc0c0500",
+   "title": "'Why would he do this to us?': One crucial Trump decision is hurting his base, Republicans warn",
+   "url": "https://www.foxnews.com/politics/one-crucial-trump-decision-is-hurting-his-base-republicans-warn",
+   "summary": "Republican lawmakers warn President Donald Trump that his foreign beef import order is hurting loyal cattle ranchers ahead of the midterm elections.",
+   "published": "2026-09-03T13:00:50+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-03T21:05:43.076726+00:00"
   },
   {
    "id": "a66a8eef664b6584",
@@ -4786,50 +5028,6 @@
    "source_id": "propublica",
    "bias_note": "investigative",
    "first_seen": "2026-08-29T21:14:43.675248+00:00"
-  },
-  {
-   "id": "3d7a357740fd7365",
-   "title": "Fact Sheet: President Donald J. Trump Launches the Golden Age of Space Transportation",
-   "url": "https://www.whitehouse.gov/fact-sheets/2026/08/fact-sheet-president-donald-j-trump-launches-the-golden-age-of-space-transportation/",
-   "summary": "RENEWING AMERICAN SPACE TRANSPORTATION LEADERSHIP:&#160;Today, President Donald J. Trump signed a National Security Presidential Memorandum to reinvigorate America\u2019s leadership in space transportation and enable over 1,000 launches and reentries on American soil annually by 2030. SECURING AMERICA\u2019S NATIONAL AND ECONOMIC INTERESTS:&#160;At a time when our adversaries are challenging American space superiority, President Trump is securing [&#8230;]\nThe post Fact Sheet: President Donald J. Trump Launches the Golden Age of Space Transportation appeared first on The White House.",
-   "published": "2026-08-20T20:58:25+00:00",
-   "source": "WhiteHouse.gov News",
-   "source_id": "whitehouse",
-   "bias_note": "official/primary-source",
-   "first_seen": "2026-08-29T21:14:42.361537+00:00"
-  },
-  {
-   "id": "bfdba3614fa8a165",
-   "title": "The National Space Transportation Policy",
-   "url": "https://www.whitehouse.gov/presidential-actions/2026/08/national-security-presidential-memorandum-nspm-17/",
-   "summary": "MEMORANDUM FOR THE SECRETARY OF STATETHE SECRETARY OF WARTHE SECRETARY OF THE INTERIORTHE SECRETARY OF COMMERCETHE SECRETARY OF TRANSPORTATIONTHE SECRETARY OF ENERGYTHE SECRETARY OF HOMELAND SECURITYTHE DIRECTOR OF THE OFFICE OF MANAGEMENT AND BUDGETTHE DIRECTOR OF NATIONAL INTELLIGENCETHE ASSISTANT TO THE PRESIDENT FOR NATIONAL SECURITY AFFAIRSTHE ASSISTANT TO THE PRESIDENT FOR SCIENCE AND TECHNOLOGYTHE ASSISTANT [&#8230;]\nThe post The National Space Transportation Policy appeared first on The White House.",
-   "published": "2026-08-20T20:54:58+00:00",
-   "source": "WhiteHouse.gov News",
-   "source_id": "whitehouse",
-   "bias_note": "official/primary-source",
-   "first_seen": "2026-08-29T21:14:42.361538+00:00"
-  },
-  {
-   "id": "5250904d5ddbda68",
-   "title": "President Trump\u2019s Cabinet Champions America First Successes Nationwide",
-   "url": "https://www.whitehouse.gov/releases/2026/08/president-trumps-cabinet-champions-america-first-successes-nationwide/",
-   "summary": "From the heartland to the coasts, members of President Donald J. Trump\u2019s Cabinet are on the ground across the nation to engage with Americans and showcase the Administration\u2019s signature achievements. From energy dominance and infrastructure modernization to manufacturing growth, veterans\u2019 care, and border security, these visits deliver an unmistakable message: the America First agenda is [&#8230;]\nThe post President Trump\u2019s Cabinet Champions America First Successes Nationwide appeared first on The White House.",
-   "published": "2026-08-20T20:43:03+00:00",
-   "source": "WhiteHouse.gov News",
-   "source_id": "whitehouse",
-   "bias_note": "official/primary-source",
-   "first_seen": "2026-08-29T21:14:42.361539+00:00"
-  },
-  {
-   "id": "75ccd225fa477a73",
-   "title": "$2 Million Donation Expands First Lady Melania Trump\u2019s Fostering the Future Initiative to Indiana University and Purdue University",
-   "url": "https://www.whitehouse.gov/briefings-statements/2026/08/2-million-donation-expands-first-lady-melania-trumps-fostering-the-future-initiative-to-indiana-university-and-purdue-university/",
-   "summary": "First Lady Melania Trump\u2019s Fostering the Future initiative will expand its national network through a $2 million donation from IndyCar and Fox Corporation to fund scholarships at Indiana University and Purdue University. First Lady Melania Trump drew attention to America\u2019s next generation during today\u2019s Rose Garden ceremony: \u201cAmerica&#8217;s greatest competitive advantage remains in its own [&#8230;]\nThe post $2 Million Donation Expands First Lady Melania Trump\u2019s Fostering the Future Initiative to Indiana University and Purdue University appeared first on The White House.",
-   "published": "2026-08-20T20:41:41+00:00",
-   "source": "WhiteHouse.gov News",
-   "source_id": "whitehouse",
-   "bias_note": "official/primary-source",
-   "first_seen": "2026-08-29T21:14:42.361540+00:00"
   }
  ]
 }
