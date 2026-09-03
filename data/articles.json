@@ -1,7 +1,150 @@
 {
- "updated": "2026-09-03T14:54:47.810212+00:00",
- "count": 426,
+ "updated": "2026-09-03T17:53:07.265151+00:00",
+ "count": 439,
  "articles": [
+  {
+   "id": "625c067743e2f0af",
+   "title": "ICE whistleblower: Agency cut corners to fill ranks",
+   "url": "https://thehill.com/homenews/administration/6069572-ice-hiring-whistleblower-dhs-oig/",
+   "summary": "A U.S. Immigration and Customs Enforcement (ICE) official warned the agency about cutting corners in vetting officer candidates as the agency surged its hiring under the Trump administration. The whistleblower report filed last August cited significant issues in how the department was reviewing its new hires, including making offers to candidates who had not yet...",
+   "published": "2026-09-03T17:29:12+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-03T17:53:06.377238+00:00"
+  },
+  {
+   "id": "730657e06f0faf80",
+   "title": "Tucker Carlson: El-Sayed campaign 'literally Trumpian'",
+   "url": "https://thehill.com/homenews/media/6069453-tucker-carlson-el-sayed-campaign-trumpian/",
+   "summary": "Right-wing media personality Tucker Carlson described Michigan Democratic Senate candidate Abdul El-Sayed\u2019s campaign as \"literally Trumpian\u201d in his podcast episode released Wednesday. During an interview with conservative commentator Saagar Enjeti's, the pair discussed the Michigan senate race between El-Sayed and his GOP opponent, former Rep. Mike Rogers (R-Mich.). \u201cI watch his campaign now, America First,\u201d...",
+   "published": "2026-09-03T17:29:07+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-03T17:53:06.377249+00:00"
+  },
+  {
+   "id": "57ef127599f21d73",
+   "title": "GOP Sen Thom Tillis urges Trump to replace Pete Hegseth, blasts Pentagon leadership",
+   "url": "https://www.foxnews.com/politics/gop-sen-thom-tillis-urges-trump-replace-pete-hegseth-blasts-pentagon-leadership",
+   "summary": "Sen. Tillis called for President Trump to replace War Secretary Pete Hegseth, accusing the Pentagon chief of &quot;creating a leadership void at the top of our military ranks.&quot;",
+   "published": "2026-09-03T17:26:30+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-03T17:53:04.776812+00:00"
+  },
+  {
+   "id": "6641c03302486389",
+   "title": "FAA proposes permanent flight restrictions over Mar-a-Lago",
+   "url": "https://thehill.com/policy/transportation/6069490-faa-proposed-mar-a-lago-restrictions/",
+   "summary": "The Federal Aviation Administration (FAA) proposed a new rule Wednesday that would place permanent restrictions on what flights are permitted within a one-mile radius of Mar-a-Lago.\u00a0 The proposed rule would \u201cestablish a flight restriction from the surface to 2,000 feet\u201d above mean sea level \u201cwithin a one NM radius of Mar-a-Lago Club.\u201d These were temporary...",
+   "published": "2026-09-03T17:24:12+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-03T17:53:06.377257+00:00"
+  },
+  {
+   "id": "1b0e90570cbaccfc",
+   "title": "Donald Trump\u2019s shallow renaming of the Great Lakes | Letters",
+   "url": "https://www.theguardian.com/us-news/2026/sep/03/donald-trumps-shallow-renaming-of-the-great-lakes",
+   "summary": "Readers respond to the Trump administration\u2019s decision to change Lake Ontario to \u2018Lake America\u2019I think too much is being made of this (Apple Maps renames Lake Ontario as \u2018Lake America\u2019 for US users after Trump order, 2 August). It is common for geographical features straddling borders to receive different names in different&nbsp;jurisdictions.Consider, for example, Lac L\u00e9man and the Bodensee, La Manche and Les \u00celes Malouines. Wales has only recently reclaimed Yr Wyddfa and Bannau Brycheiniog, and for a reminder and dramatisation of how renaming played out in Ireland, look no further than Brian",
+   "published": "2026-09-03T16:52:07+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-09-03T17:53:05.111056+00:00"
+  },
+  {
+   "id": "0b4d329653ab2225",
+   "title": "Jennings: Trump should release 'formal declaration of victory' for Iran war",
+   "url": "https://thehill.com/homenews/administration/6069225-scott-jennings-donald-trump-iran-war-victory-declaration/",
+   "summary": "Conservative commentator Scott Jennings said Wednesday that President Trump should issue a \"formal declaration of victory\" against Iran, as the Trump administration seeks to financially hamper the regime and its allies amid tit-for-tat strikes in the Middle East. Jennings responded to remarks made by fellow CNN political commentator Xochitl Hinojosa on \"The Arena with Kasie...",
+   "published": "2026-09-03T16:51:54+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-03T17:53:06.377303+00:00"
+  },
+  {
+   "id": "160bb489c2e7701c",
+   "title": "Vance gives briefing room another whirl",
+   "url": "https://thehill.com/newsletters/1230-report/6069360-vance-gives-briefing-room-another-whirl/",
+   "summary": "\u2640\ufe0f Plus: Rest in peace, Gloria Steinem {beacon} &#8202; It\u2019s Thursday. The deadlocked Lindsay Clancy jury is set to deliberate for the sixth day after it was unable to come to a unanimous decision on Wednesday. &#8202; In today's issue: Vance to hold White House press briefing  The government is funded through the midterms  Hegseth faces backlash  Women weigh in on Gloria Steinem  Programming note: We\u2019re Abigail...",
+   "published": "2026-09-03T16:32:00+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-03T17:53:06.377321+00:00"
+  },
+  {
+   "id": "0b921d1a8d3202ad",
+   "title": "Trump defends handling of US munitions amid Iran conflict",
+   "url": "https://thehill.com/homenews/administration/6069276-trump-claims-unlimited-ammunition/",
+   "summary": "President Trump on Thursday said the U.S. has \u201cvirtually unlimited\u201d amounts of mid- to high-grade munitions, pushing back on reports of the Pentagon depleting its stockpiles in the Iran war. In a post on Truth Social, Trump called journalists who report on U.S. munitions shortages \u201ctreasonous SCUM,\u201d saying the country has \u201cvirtually unlimited amounts of...",
+   "published": "2026-09-03T16:31:17+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-03T17:53:06.377338+00:00"
+  },
+  {
+   "id": "ebed85eccbd99779",
+   "title": "North Korea's threat to moral norms",
+   "url": "https://thehill.com/opinion/international/6068141-trump-north-korea-human-rights/",
+   "summary": "Author Aaron Rhodes argues that President Trump's diplomatic overtures toward North Korea and the proposed Peace on the Korean Peninsula Act risk legitimizing the regime's systemic human rights violations and corruption of international moral standards.",
+   "published": "2026-09-03T16:30:00+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-03T17:53:06.377341+00:00"
+  },
+  {
+   "id": "26b992fd0f6c3c58",
+   "title": "WATCH LIVE: Vance holds White House briefing after Leavitt's departure",
+   "url": "https://www.pbs.org/newshour/politics/watch-live-vance-holds-white-house-briefing-after-leavitts-departure",
+   "summary": "President Donald Trump urged Republican lawmakers facing tough reelection campaigns to run on his record in the White House despite his sagging popularity, and he pledged to campaign in all of the roughly three dozen contests that are likely to determine control of Congress.",
+   "published": "2026-09-03T15:52:56+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-09-03T17:53:06.527517+00:00"
+  },
+  {
+   "id": "ce06e8745f0de7b1",
+   "title": "Federal judge considers whether to extend ban against U.S. Postal Service mail voting changes",
+   "url": "https://www.pbs.org/newshour/politics/federal-judge-considers-whether-to-extend-ban-against-u-s-postal-service-mail-voting-changes",
+   "summary": "U.S. District Court Judge Indira Talwani is deciding whether to extend her prohibition on the proposed regulation of mail ballots, an effort undertaken as part of an executive order by President Donald Trump.",
+   "published": "2026-09-03T15:41:17+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-09-03T17:53:06.527524+00:00"
+  },
+  {
+   "id": "a5ec37baa2ccdef6",
+   "title": "Trump promises to campaign for Republicans and says they have a winning midterm message",
+   "url": "https://www.pbs.org/newshour/politics/trump-promises-to-campaign-for-republicans-and-says-they-have-a-winning-midterm-message",
+   "summary": "Voters' dim views of the economy and the war in Iran have put Republicans in a tough spot as the midterm election season enters its final stretch.",
+   "published": "2026-09-03T15:36:58+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-09-03T17:53:06.527528+00:00"
+  },
+  {
+   "id": "a0ba6041082fa188",
+   "title": "Federal judge considers whether to extend ban on USPS mail ballot changes",
+   "url": "https://www.theguardian.com/us-news/2026/sep/03/federal-judge-usps-mail-ballot-changes",
+   "summary": "Judge says US Postal Service has told her nothing about how it plans to regulate mail ballots for midterm electionsA federal judge in Boston said on Thursday the US Postal Service had told her nothing about how it would implement a plan to regulate mail ballots for the midterms as she considers whether to let the plan proceed in the weeks before election day.US district court judge Indira Talwani is deciding whether to extend her prohibition on the proposed regulation of mail ballots, an effort undertaken as part of an executive order by Donald Trump. The hearing in the closely watched case ca",
+   "published": "2026-09-03T14:50:58+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-09-03T17:53:05.111078+00:00"
+  },
   {
    "id": "9aede525663082e3",
    "title": "Court halts Trump effort to help Congress overturn California clean car rules",
