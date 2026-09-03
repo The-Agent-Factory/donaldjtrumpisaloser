@@ -1,7 +1,95 @@
 {
- "updated": "2026-09-03T00:19:41.105869+00:00",
- "count": 394,
+ "updated": "2026-09-03T07:13:21.360416+00:00",
+ "count": 400,
  "articles": [
+  {
+   "id": "83dbf39de0425336",
+   "title": "DOJ threatens to cut billions in welfare funding from states for failing to report illegal migrants",
+   "url": "https://www.foxnews.com/politics/doj-threatens-cut-billions-welfare-funding-states-failing-report-illegal-migrants",
+   "summary": "The Justice Department warns states they could lose billions in welfare funding if they fail to report illegal immigrants to DHS under new rules.",
+   "published": "2026-09-03T06:33:49+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-03T07:13:19.672327+00:00"
+  },
+  {
+   "id": "05666c7cbb120d4f",
+   "title": "Stephen A. Smith on Trump, Democrats and the politics of chaos",
+   "url": "https://www.politico.com/video/2026/09/02/stephen-a-smith-on-trump-democrats-and-the-politics-of-chaos-2156846",
+   "summary": "",
+   "published": "2026-09-03T03:59:00+00:00",
+   "source": "Politico",
+   "source_id": "politico",
+   "bias_note": "center",
+   "first_seen": "2026-09-03T07:13:20.596350+00:00"
+  },
+  {
+   "id": "7c7885759604011f",
+   "title": "Trump signs stopgap funding bill into law, temporarily avoiding shutdown",
+   "url": "https://thehill.com/homenews/administration/6067996-trump-stopgap-funding-law-government-shutdown/",
+   "summary": "President Trump on Wednesday signed a stopgap government funding bill into law, affirming Congress's efforts to temporarily avert a shutdown until at least Dec. 11. By signing the \u201cContinuing Appropriations and Extensions Act, 2027\u201d into law, Trump ensured federal agencies will be funded through November's midterms into December. The measure passed the Senate and House...",
+   "published": "2026-09-03T02:36:47+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-03T07:13:20.672042+00:00"
+  },
+  {
+   "id": "6aa0d34df1ba0191",
+   "title": "Federal judge dismisses DOJ lawsuit challenging California policy allowing biological males in girls\u2019 sports",
+   "url": "https://www.foxnews.com/outkick-sports/federal-judge-dismisses-doj-lawsuit-challenging-california-policy-allowing-biological-males-girls-sports",
+   "summary": "A federal judge dismissed the Department of Justice lawsuit against California over transgender athletes competing in girls&apos; sports on procedural grounds.",
+   "published": "2026-09-03T02:31:20+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-03T07:13:19.718516+00:00"
+  },
+  {
+   "id": "183dd5857edb13fe",
+   "title": "FAA seeks permanent airspace restrictions near Trump\u2019s Mar-a-Lago as expert warns rules are \u2018not good enough\u2019",
+   "url": "https://www.foxnews.com/politics/faa-seeks-permanent-airspace-restrictions-trump-mar-a-lago-expert-warns-rules-not-good-enough",
+   "summary": "The FAA proposed permanent flight rules near Donald J. Trump International Airport at Secret Service request, but drone expert warns it&apos;s may not be enough.",
+   "published": "2026-09-03T02:03:35+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-03T07:13:19.672348+00:00"
+  },
+  {
+   "id": "fb0dbdae7967c05a",
+   "title": "Trump\u2019s DOJ Blocked Serious ICE Shooting Charge Over Federal Prosecutor\u2019s \u201cStrongest Possible\u201d Objections",
+   "url": "https://www.propublica.org/article/doj-blocks-charges-ice-agent-minneapolis-julio-cesar-sosa-celis",
+   "summary": "The post Trump\u2019s DOJ Blocked Serious ICE Shooting Charge Over Federal Prosecutor\u2019s \u201cStrongest Possible\u201d Objections appeared first on ProPublica.",
+   "published": "2026-09-03T01:14:00+00:00",
+   "source": "ProPublica",
+   "source_id": "propublica",
+   "bias_note": "investigative",
+   "first_seen": "2026-09-03T07:13:20.935610+00:00"
+  },
+  {
+   "id": "9473bfad9ff8da74",
+   "title": "President Trump Secures the Biggest Oil Deal in World History",
+   "url": "https://www.whitehouse.gov/releases/2026/09/president-trump-secures-the-biggest-oil-deal-in-world-history/",
+   "summary": "President Trump has secured the\u00a0biggest oil deal in world history, \u00a0delivering U.S. majority control of more than 65 billion barrels of proven oil reserves in Venezuela \u2013 vastly expanding our current U.S. territorial proven reserves of roughly 46 billion barrels. President Trump&#8217;s bold foreign policy is driving America First wins: this deal\u00a0greatly increases America&#8217;s oil [&#8230;]\nThe post President Trump Secures the Biggest Oil Deal in World History appeared first on The White House.",
+   "published": "2026-09-03T00:35:13+00:00",
+   "source": "WhiteHouse.gov News",
+   "source_id": "whitehouse",
+   "bias_note": "official/primary-source",
+   "first_seen": "2026-09-03T07:13:20.132145+00:00"
+  },
+  {
+   "id": "cbc17a42f394751a",
+   "title": "Congressional Bill H.R. 6500 Signed into Law",
+   "url": "https://www.whitehouse.gov/briefings-statements/2026/09/congressional-bill-h-r-6500-signed-into-law/",
+   "summary": "On Wednesday, September 2, 2026, the President signed into law: H.R. 6500, the &#8220;Continuing Appropriations and Extensions Act, 2027,&#8221; which includes a short-term continuing resolution that provides fiscal year 2027 appropriations to Federal agencies through December 11, 2026, for continuing projects and activities of the Federal Government, and extends authorities for a broad range of [&#8230;]\nThe post Congressional Bill H.R. 6500 Signed into Law appeared first on The White House.",
+   "published": "2026-09-03T00:02:19+00:00",
+   "source": "WhiteHouse.gov News",
+   "source_id": "whitehouse",
+   "bias_note": "official/primary-source",
+   "first_seen": "2026-09-03T07:13:20.132151+00:00"
+  },
   {
    "id": "42a9b110a9809f3d",
    "title": "Vance to give White House's first press briefing in over 40 days",
@@ -4313,28 +4401,6 @@
    "source_id": "politico",
    "bias_note": "center",
    "first_seen": "2026-08-29T21:14:43.102506+00:00"
-  },
-  {
-   "id": "0590b8cfc739fa29",
-   "title": "Trump talks about grass as he shows off White House renovations \u2013 video",
-   "url": "https://www.theguardian.com/us-news/video/2026/aug/19/trump-talks-grass-white-house",
-   "summary": "The US president waxed lyrical about grass being added around the new White House helipad in front of the media. 'You know, grass has a life like humans have a life,' Trump said Continue reading...",
-   "published": "2026-08-20T02:00:20+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-08-29T21:14:42.935347+00:00"
-  },
-  {
-   "id": "32dc5d3b42e919f7",
-   "title": "Michael Cohen won\u2019t say if he\u2019ll use his Trump interview to seek a pardon",
-   "url": "https://www.politico.com/news/2026/08/19/michael-cohen-trump-interview-radio-pardon-01043191",
-   "summary": "The president is expected to call into Cohen\u2019s radio show Thursday in their first public conversation since a very public falling out.",
-   "published": "2026-08-20T01:58:37+00:00",
-   "source": "Politico",
-   "source_id": "politico",
-   "bias_note": "center",
-   "first_seen": "2026-08-29T21:14:43.102509+00:00"
   }
  ]
 }
