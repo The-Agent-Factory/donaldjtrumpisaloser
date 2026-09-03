@@ -1,7 +1,73 @@
 {
- "updated": "2026-09-03T12:51:43.592147+00:00",
- "count": 419,
+ "updated": "2026-09-03T14:54:47.810212+00:00",
+ "count": 426,
  "articles": [
+  {
+   "id": "9aede525663082e3",
+   "title": "Court halts Trump effort to help Congress overturn California clean car rules",
+   "url": "https://thehill.com/policy/transportation/6068923-california-clean-car-rules-epa-cra/",
+   "summary": "A federal judge late Wednesday temporarily blocked a Trump administration effort to overturn California\u2019s clean car rules through Congress. Judge Beryl Howell, an Obama appointee, blocked an Environmental Protection Agency (EPA) move that would have allowed Congress and President Trump to overturn California rules related to vehicle and lawn equipment emissions.  In years past, the...",
+   "published": "2026-09-03T14:45:19+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-03T14:54:47.026266+00:00"
+  },
+  {
+   "id": "4261658719f911c3",
+   "title": "US commerce secretary erroneously said no Americans have died in Iran war, Trump claims",
+   "url": "https://www.theguardian.com/world/2026/sep/03/howard-lutnick-iran-war-deaths-trump",
+   "summary": "President said Howard Lutnick had Venezuela operation on his mind when he was discussing Iran war on CNBCDonald Trump has claimed his commerce secretary, Howard Lutnick, erroneously stated that no Americans had been killed in the war with Iran because he was thinking about a previous US operation, in Venezuela.The claim, at odds with the Pentagon\u2019s count of 18 US service members dead in the US-Israel war on Iran, sparked a swift backlash as Trump struggles to end the conflict after six months. Continue reading...",
+   "published": "2026-09-03T14:38:40+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-09-03T14:54:45.536489+00:00"
+  },
+  {
+   "id": "2e86a49613c1ffbb",
+   "title": "House Republican 'pretty sure' Lake Ontario name change 'a troll'",
+   "url": "https://thehill.com/homenews/house/6068874-tenney-calls-lake-america-troll/",
+   "summary": "Rep. Claudia Tenney (R-N.Y.) said President Trump\u2019s decision to change the name of Lake Ontario to \"Lake America\" is likely a \u201ctroll,\u201d casting doubt on whether the new name will stick even as the federal government and major mapping services move to adopt it. \u201cI\u2019m pretty sure this is a troll,\u201d Tenney, whose district covers...",
+   "published": "2026-09-03T14:35:00+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-03T14:54:47.026289+00:00"
+  },
+  {
+   "id": "eebd6dfb3221088f",
+   "title": "Trump: 'I don't wear a wig'",
+   "url": "https://thehill.com/homenews/administration/6068447-trump-denies-wig-allegations/",
+   "summary": "President Trump denied allegations Wednesday that he wore a wig, citing an incident in 2024 where he faced windy weather. During a speech at the White House Rose Garden dinner, Trump recalled when he spoke at a campaign rally in 2024 for Sen. Bernie Moreno (R-Ohio), where he faced \"the worst weather I think I've...",
+   "published": "2026-09-03T14:09:13+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-03T14:54:47.026374+00:00"
+  },
+  {
+   "id": "a41a25c6a7315bee",
+   "title": "Trump's campaign funding colossus is the midterms' biggest unknown",
+   "url": "https://thehill.com/opinion/white-house/6067311-trump-midterm-spending-power/",
+   "summary": "The Republicans\u2019 cash advantage is staggering.",
+   "published": "2026-09-03T14:00:00+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-03T14:54:47.026396+00:00"
+  },
+  {
+   "id": "9fbade295891a4f0",
+   "title": "\u2018Why would he do this to us?\u2019: Trump's foreign beef push is hurting his base, Republicans warn",
+   "url": "https://www.foxnews.com/politics/why-would-he-do-us-trumps-foreign-beef-push-hurting-his-base-republicans-warn",
+   "summary": "Republican lawmakers warn President Donald Trump that his foreign beef import order is hurting loyal cattle ranchers ahead of the midterm elections.",
+   "published": "2026-09-03T13:00:50+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-03T14:54:45.093867+00:00"
+  },
   {
    "id": "a66a8eef664b6584",
    "title": "Live updates: Vance to helm White House's first press briefing in weeks; House wraps up before next recess",
@@ -837,6 +903,17 @@
    "source_id": "whitehouse",
    "bias_note": "official/primary-source",
    "first_seen": "2026-09-02T15:00:41.348012+00:00"
+  },
+  {
+   "id": "08b04c253a63460b",
+   "title": "Ten Times Extreme Liberal Democrats in Congress Put Their Dangerous Agenda Ahead of the American People",
+   "url": "https://www.whitehouse.gov/releases/2026/09/ten-times-extreme-liberal-democrats-in-congress-put-their-dangerous-agenda-ahead-of-the-american-people/",
+   "summary": "President Trump and Republicans have passed legislation that has put more money in hardworking American\u2019s pockets and made communities safer nationwide. At every turn, Extreme Liberal Democrats continue to attempt to obstruct commonsense policies in pursuit of their dangerous radical agenda\u2014 and their voting record proves it. In fact, last night 192 Democrats voted AGAINST [&#8230;]\nThe post Ten Times Extreme Liberal Democrats in Congress Put Their Dangerous Agenda Ahead of the American People appeared first on The White House.",
+   "published": "2026-09-02T14:45:55+00:00",
+   "source": "WhiteHouse.gov News",
+   "source_id": "whitehouse",
+   "bias_note": "official/primary-source",
+   "first_seen": "2026-09-03T14:54:45.264523+00:00"
   },
   {
    "id": "d7ce8cd3133e01ad",
