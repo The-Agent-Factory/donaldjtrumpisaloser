@@ -1,7 +1,216 @@
 {
- "updated": "2026-09-04T16:25:46.671237+00:00",
- "count": 510,
+ "updated": "2026-09-04T20:48:45.666216+00:00",
+ "count": 528,
  "articles": [
+  {
+   "id": "e4be92f635bc64f5",
+   "title": "Trump says skilled foreign workers take jobs away from Americans. It's not that simple, experts say",
+   "url": "https://www.pbs.org/newshour/economy/trump-says-skilled-foreign-workers-take-jobs-away-from-americans-its-not-that-simple-experts-say",
+   "summary": "Economists have studied the impacts H-1B employees have within individual companies and at the local labor market level and reached similar conclusions about foreign workers' impacts on American jobs.",
+   "published": "2026-09-04T20:46:15+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-09-04T20:48:44.876610+00:00"
+  },
+  {
+   "id": "652b72aa181136a8",
+   "title": "Trump says data center opponents face 'poverty, crime and squalor'",
+   "url": "https://thehill.com/policy/technology/6072246-trump-ai-data-center-opponents/",
+   "summary": "President Trump took aim at data center opponents again Friday, suggesting they want to \u201cgo through poverty, crime and squalor.\u201d It marks the second time this week that Trump has gone after critics of AI infrastructure, which has become increasingly unpopular among Americans in recent months. \u201cIf you want to get rich as a state...",
+   "published": "2026-09-04T20:32:58+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-04T20:48:44.472593+00:00"
+  },
+  {
+   "id": "50b8cc60bf303416",
+   "title": "Trump\u2019s \u2018retribution\u2019 could now include Falklands as favor to Milei \u2013 and revenge on the UK",
+   "url": "https://www.theguardian.com/us-news/2026/sep/04/trump-argentina-falklands-uk",
+   "summary": "US president suggests he might support his Argentinian acolyte\u2019s drive to reclaim sovereignty of disputed islandsDonald Trump has long embraced vengeance. \u201cI am your retribution,\u201d he declared to an admiring audience at the 2023 Conservative Political Action Conference (CPAC) as he commenced his march back to the White House.It is unlikely Argentina, and far-flung holdovers of the former British empire, were on the US president\u2019s mind at the time. Continue reading...",
+   "published": "2026-09-04T20:21:52+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-09-04T20:48:43.250990+00:00"
+  },
+  {
+   "id": "d0bebee270966910",
+   "title": "Administration says excavation will start on Trump's arch",
+   "url": "https://www.npr.org/2026/09/04/nx-s1-5957459/administration-says-excavation-will-start-on-trumps-arch",
+   "summary": "President Trump's planned 250-foot arch would stand near the entrance to Arlington National Cemetery. It lacks final approval, but digging may start anyway. Three Vietnam veterans want it stopped.",
+   "published": "2026-09-04T20:15:05+00:00",
+   "source": "NPR Politics",
+   "source_id": "npr-politics",
+   "bias_note": "center",
+   "first_seen": "2026-09-04T20:48:43.185784+00:00"
+  },
+  {
+   "id": "bc2f64a2ab8befbd",
+   "title": "Trump reveals Brazil, Argentina involved in controversial beef deal",
+   "url": "https://thehill.com/homenews/administration/6072163-trump-tariffs-beef-imports-brazil-argentina/",
+   "summary": "President Trump said Friday that tariff-free imported beef will be coming from Brazil and Argentina, among other places, as his administration works to alleviate stubbornly high prices. \u201cIt\u2019s coming from Argentina. It's coming from Brazil,\u201d Trump said at an Oval Office event surrounded by ranchers and farmers. \u201cIt's coming from a couple of other places....",
+   "published": "2026-09-04T19:56:35+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-04T20:48:44.472619+00:00"
+  },
+  {
+   "id": "63dc9c0bf66f2316",
+   "title": "Virginia Democrat says DOJ wiretapped phone calls with state Senate leader",
+   "url": "https://thehill.com/homenews/house/6072134-virginia-democrat-doj-fbi-wiretapping-letters/",
+   "summary": "Rep. Suhas Subramanyam (D-Va.) said Thursday that the FBI and Justice Department (DOJ) informed him they had wiretapped his past phone conversations with a Virginia state lawmaker. Subramanyam\u2019s office shared photos of two letters he said he received from the agencies, dated from July and August, notifying him they monitored some of his calls with...",
+   "published": "2026-09-04T19:53:22+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-04T20:48:44.472626+00:00"
+  },
+  {
+   "id": "bcc08fd0fa05ee27",
+   "title": "Supporting America\u2019s Ranchers",
+   "url": "https://www.whitehouse.gov/presidential-actions/2026/09/supporting-americas-ranchers/",
+   "summary": "By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered: Section 1. \u00a0Policy. \u00a0Ranchers play a vital role in our Nation&#8217;s food supply chain and cultural heritage.\u00a0 These hardworking Americans ensure that our country has a reliable domestic source of high-quality [&#8230;]\nThe post Supporting America&#8217;s Ranchers appeared first on The White House.",
+   "published": "2026-09-04T19:28:18+00:00",
+   "source": "WhiteHouse.gov News",
+   "source_id": "whitehouse",
+   "bias_note": "official/primary-source",
+   "first_seen": "2026-09-04T20:48:42.662194+00:00"
+  },
+  {
+   "id": "99a2efe0a72227b0",
+   "title": "Promoting Fair Competition In Livestock Markets And Expanding Market Access for American Meat Producers",
+   "url": "https://www.whitehouse.gov/presidential-actions/2026/09/promoting-fair-competition-in-livestock-markets-and-expanding-market-access-for-american-meat-producers/",
+   "summary": "By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered: Section 1. \u00a0Purpose.\u00a0 American ranchers want to be able to butcher, process, package, and sell their meat to consumers across State lines while maintaining the highest standards of\u00a0food safety and avoid [&#8230;]\nThe post Promoting Fair Competition In Livestock Markets And Expanding Market Access for American Meat Producers appeared first on The White House.",
+   "published": "2026-09-04T19:23:49+00:00",
+   "source": "WhiteHouse.gov News",
+   "source_id": "whitehouse",
+   "bias_note": "official/primary-source",
+   "first_seen": "2026-09-04T20:48:42.662200+00:00"
+  },
+  {
+   "id": "fb9bef71ad2dfea9",
+   "title": "Fact Sheet: President Donald J. Trump Supports America\u2019s Ranchers",
+   "url": "https://www.whitehouse.gov/fact-sheets/2026/09/fact-sheet-president-donald-j-trump-supports-americas-ranchers/",
+   "summary": "DEFENDING AND STRENGTHENING OUR NATION\u2019S VITAL RANCHING INDUSTRY:&#160;Today, President Donald J. Trump signed an Executive Order launching a whole-of-government effort to protect and fully support America\u2019s ranchers. EQUIPPING RANCHERS IN MODERN CHALLENGES:&#160;President Trump is honoring our hardworking ranchers who feed our Nation by taking decisive action to give them the tools they need to thrive [&#8230;]\nThe post Fact Sheet: President Donald J. Trump Supports America\u2019s Ranchers appeared first on The White House.",
+   "published": "2026-09-04T19:15:35+00:00",
+   "source": "WhiteHouse.gov News",
+   "source_id": "whitehouse",
+   "bias_note": "official/primary-source",
+   "first_seen": "2026-09-04T20:48:42.662202+00:00"
+  },
+  {
+   "id": "0eb1ad942ebddf9e",
+   "title": "Fact Sheet: President Donald J. Trump Promotes Fair Competition in Livestock Markets and Expands Market Access for American Meat Producers",
+   "url": "https://www.whitehouse.gov/fact-sheets/2026/09/fact-sheet-president-donald-j-trump-promotes-fair-competition-in-livestock-markets-and-expands-market-access-for-american-meat-producers/",
+   "summary": "ADVANCING COMPETITION AND ACCOUNTABILITY:&#160;Today, President Donald J. Trump signed an Executive Order to support American producers\u2019 ability to butcher, process, package, and sell their meat to consumers across state lines while maintaining the highest standards of food safety while avoiding being overcharged by monopolistic practices in the meat processing industry.&#160; EXPANDING MARKET ACCESS FOR U.S. [&#8230;]\nThe post Fact Sheet: President Donald J. Trump Promotes Fair Competition in Livestock Markets and Expands Market Access for American Meat Producers appeared first on The White H",
+   "published": "2026-09-04T19:15:33+00:00",
+   "source": "WhiteHouse.gov News",
+   "source_id": "whitehouse",
+   "bias_note": "official/primary-source",
+   "first_seen": "2026-09-04T20:48:42.662204+00:00"
+  },
+  {
+   "id": "a906448148f1dbb3",
+   "title": "\u2018\u2018Never Forget\u2019 is not a slogan\u2019: Mamdani designates 9/11 as a Day of Remembrance and Service",
+   "url": "https://www.theguardian.com/us-news/2026/sep/04/mamdani-september-11-day-of-rememberance",
+   "summary": "The New York City mayor will sign two executive orders honoring those impacted by the attacks, as he faces campaign to exclude him from the 25th anniversary commemoration  New York City mayor Zohran Mamdani is set to designate September 11 as a Day of Remembrance and Service ahead of the 25th anniversary of the terrorist attacks.Mamdani\u2019s office announced on Friday morning that the mayor will sign two executive orders honoring victims, first responders, survivors, city workers and families affected by the attacks. The orders will also strengthen the city\u2019s ability to protect New Yorkers and ma",
+   "published": "2026-09-04T18:36:44+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-09-04T20:48:43.251006+00:00"
+  },
+  {
+   "id": "26105ea97a6f998b",
+   "title": "Trump administration pushes to remove tax exemption for private colleges with DEI policies",
+   "url": "https://www.pbs.org/newshour/education/trump-administration-pushes-to-remove-tax-exemption-for-private-colleges-with-dei-policies",
+   "summary": "The rule is broadly aimed at ending any policies or programs that help students because of their race, and it specifically says such benefits in admissions, scholarships and facilities \"would be incompatible\" with the rule.",
+   "published": "2026-09-04T18:13:08+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-09-04T20:48:44.876625+00:00"
+  },
+  {
+   "id": "5991b5773c5ff97f",
+   "title": "Watch: Trump to sign beef-related executive order after easing tariffs",
+   "url": "https://thehill.com/video-clips/6071809-trump-beef-tariff-executive-order/",
+   "summary": "President Trump signed an executive order Friday afternoon related to the beef industry, according to the White House. Trump announced last month that the U.S. would pause higher tariffs on ground beef imports for 90 days, allowing up to 300,000 metric tons to enter the country without the higher \u201cout-of-quota\u201d tariff rate. Trump said the...",
+   "published": "2026-09-04T18:09:10+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-04T20:48:44.472674+00:00"
+  },
+  {
+   "id": "ab11c879020a1589",
+   "title": "Witkoff, Kushner to visit Russia, Ukraine in effort to jump-start peace talks",
+   "url": "https://thehill.com/homenews/administration/6071900-witkoff-kushner-peace-negotiations/",
+   "summary": "Two top U.S. envoys, Steve Witkoff and Jared Kushner, will travel to Russia and Ukraine this weekend in an effort to restart peace negotiations between the two countries, according to multiple reports.  Witkoff and Kushner \u2014 President Trump's special envoy and son-in-law, respectively \u2014 will first meet with Russian President Vladimir Putin in Moscow on...",
+   "published": "2026-09-04T18:00:54+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-04T20:48:44.472679+00:00"
+  },
+  {
+   "id": "ec8e16cce4c87711",
+   "title": "\u2018Not feasible\u2019: With ballots already in the mail, election officials say it is too late for Trump\u2019s USPS order",
+   "url": "https://www.politico.com/news/2026/09/04/trump-mail-ballots-order-november-elections-01065234",
+   "summary": "While the Trump administration's bid to overhaul mail-in voting remains blocked by the lower courts, North Carolina will be the first state to send ballots on Friday.",
+   "published": "2026-09-04T18:00:00+00:00",
+   "source": "Politico",
+   "source_id": "politico",
+   "bias_note": "center",
+   "first_seen": "2026-09-04T20:48:43.405000+00:00"
+  },
+  {
+   "id": "535b6b50af77879c",
+   "title": "\u2018Treasonous scum\u2019: Trump attacks media over Iran war coverage",
+   "url": "https://thehill.com/opinion/lindseys-lens/6071924-iran-war-weapons-strain/",
+   "summary": "Nobody wants to see the United States fail. Nobody wants American service members put in greater danger. Nobody wants our military unprepared to respond to another threat.\u00a0But that does not mean Americans have to pretend this war is going according to plan.",
+   "published": "2026-09-04T17:52:08+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-04T20:48:44.472690+00:00"
+  },
+  {
+   "id": "84e8ed7375d4366f",
+   "title": "Missouri court blocks Trump-backed U.S. House map and orders it to be put to a vote",
+   "url": "https://www.pbs.org/newshour/politics/missouri-court-blocks-trump-backed-u-s-house-map-and-orders-it-to-be-put-to-a-vote",
+   "summary": "Republicans had hoped Missouri's new congressional boundaries could help them win an additional seat and hold onto their slim House majority in the midterms.",
+   "published": "2026-09-04T17:48:45+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-09-04T20:48:44.876628+00:00"
+  },
+  {
+   "id": "91678c7ba9c78fc4",
+   "title": "Trump\u2019s ex-labor secretary drank on job and created \u2018toxic\u2019 work environment, report alleges",
+   "url": "https://www.theguardian.com/us-news/2026/sep/04/lori-chavez-deremer-misconduct-report",
+   "summary": "Labor department report alleges Lori Chavez-DeRemer also made a staffer attend a strip club while on a personal tripDonald Trump\u2019s former secretary of labor, Lori Chavez-DeRemer, drank during working hours, kept alcohol on federal property and made a staffer attend a strip club while on a personal trip, according to a new report by the Department of Labor\u2019s Office of Inspector General .Chavez-DeRemer was appointed by Trump to serve as labor secretary in January 2025 and resigned in April 2026 amid the misconduct allegations. Continue reading...",
+   "published": "2026-09-04T17:36:43+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-09-04T20:48:43.251012+00:00"
+  },
+  {
+   "id": "f1be5132c7d8191e",
+   "title": "Pelosi, Omar join Trump and Schiff as unlikely alliance pushes to onshore key industry",
+   "url": "https://www.foxnews.com/politics/pelosi-omar-join-trump-schiff-unlikely-alliance-pushes-onshore-key-industry",
+   "summary": "Adam Schiff, Nancy Pelosi and Ilhan Omar back Donald Trump&apos;s federal film tax incentive to bring movie production back to California and America.",
+   "published": "2026-09-04T17:35:13+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-04T20:48:42.337965+00:00"
+  },
   {
    "id": "35c234da3dc4030d",
    "title": "Trump threatens trade war if rates aren't cut after strong jobs report",
@@ -309,6 +518,17 @@
    "source_id": "propublica",
    "bias_note": "investigative",
    "first_seen": "2026-09-04T11:24:35.735483+00:00"
+  },
+  {
+   "id": "61b332e85e7e986b",
+   "title": "Wesleyan president calls Trump's tax-exempt proposal 'extraordinary overreach'",
+   "url": "https://www.npr.org/2026/09/04/nx-s1-5955592/wesleyan-president-trump-tax-exempt-race-programs",
+   "summary": "The Trump administration wants to end tax-exempt status for universities with certain race-based programs. Wesleyan President Michael Roth says the plan could frighten schools.",
+   "published": "2026-09-04T08:03:21+00:00",
+   "source": "NPR Politics",
+   "source_id": "npr-politics",
+   "bias_note": "center",
+   "first_seen": "2026-09-04T20:48:43.185789+00:00"
   },
   {
    "id": "ba4280e752310b29",
@@ -5589,28 +5809,6 @@
    "source_id": "politico",
    "bias_note": "center",
    "first_seen": "2026-08-29T21:14:43.102481+00:00"
-  },
-  {
-   "id": "4dd11157e8f2c3c9",
-   "title": "President Trump and Republicans Deliver for South Carolina Families",
-   "url": "https://www.whitehouse.gov/releases/2026/08/president-trump-and-republicans-deliver-for-south-carolina-families/",
-   "summary": "Today, President Donald J. Trump returns to South Carolina to celebrate the powerful results of America First leadership. Under President Trump and Republicans, South Carolina is thriving: the largest tax cuts for working families in a generation, the most secure border in history, plunging crime rates, unleashed American energy, and a surge of private investment [&#8230;]\nThe post President Trump and Republicans Deliver for South Carolina Families appeared first on The White House.",
-   "published": "2026-08-21T20:00:54+00:00",
-   "source": "WhiteHouse.gov News",
-   "source_id": "whitehouse",
-   "bias_note": "official/primary-source",
-   "first_seen": "2026-08-29T21:14:42.361536+00:00"
-  },
-  {
-   "id": "6794cd4bad768319",
-   "title": "Why is Trump\u2019s \u2018human printer\u2019 aide Natalie Harp suddenly in the spotlight? - The Latest",
-   "url": "https://www.theguardian.com/news/video/2026/aug/21/why-is-trumps-human-printer-aide-natalie-harp-suddenly-in-the-spotlight-the-latest",
-   "summary": "One of Donald Trump\u2019s closest and most devoted aides, Natalie Harp, has faced intense media scrutiny this week, after a Democratic senator, Jon Ossoff, name-checked her in a speech that went viral. So what do we know about Harp, who is often referred to as the \u2018human printer\u2019? And why is everybody talking about her relationship with Trump? Helen Pidd speaks to international news editor Paul Owen Continue reading...",
-   "published": "2026-08-21T17:07:00+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-08-29T21:14:42.935334+00:00"
   }
  ]
 }
