@@ -1,7 +1,106 @@
 {
- "updated": "2026-09-04T14:51:35.581798+00:00",
- "count": 501,
+ "updated": "2026-09-04T16:25:46.671237+00:00",
+ "count": 510,
  "articles": [
+  {
+   "id": "35c234da3dc4030d",
+   "title": "Trump threatens trade war if rates aren't cut after strong jobs report",
+   "url": "https://thehill.com/business/6071563-trump-trade-war-fed-interest-rates-august-jobs-report/",
+   "summary": "President Trump called on the Federal Reserve to lower interest rates Friday after the August jobs report came in stronger than expected, threatening to cut off trade with several countries if the central bank doesn\u2019t budge. The Bureau of Labor Statistics reported Friday that U.S. employers added 162,000 jobs last month, well above the 53,000...",
+   "published": "2026-09-04T16:04:46+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-04T16:25:45.906022+00:00"
+  },
+  {
+   "id": "a063e8212abcdd2f",
+   "title": "How much does Donald Trump care about winning the midterms? Apparently, not much at all | Jonathan Freedland",
+   "url": "https://www.theguardian.com/commentisfree/2026/sep/04/donald-trump-winning-midterms-us-president",
+   "summary": "Such is the US president\u2019s narcissism that he would see a Democratic victory as proof that he\u2019s indispensable \u2013 meanwhile, his every decision spells calamity for votersWhat is Donald Trump playing at? If it\u2019s true that the best way of understanding the behaviour of an organisation is to assume it\u2019s controlled by a secret cabal of its enemies, perhaps that same logic extends to the current conduct of the president of the United States. Maybe he secretly wants Republicans to lose the looming midterm elections that will decide the balance of power in the US for the next two years and for which th",
+   "published": "2026-09-04T16:01:18+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-09-04T16:25:45.632207+00:00"
+  },
+  {
+   "id": "d482f13bcb967f16",
+   "title": "Trump administration moves to fast-track oil drilling approvals in Alaska",
+   "url": "https://thehill.com/policy/energy-environment/6071615-blm-proposes-npra-oil-approvals/",
+   "summary": "The Trump administration announced Friday it was proposing to fast-track approvals for oil drilling projects in Alaska after a request from a trade group to do so. The Bureau of Land Management (BLM) issued a proposal that would seek to quickly approve oil and gas drilling in the National Petroleum Reserve in Alaska (NPRA). In...",
+   "published": "2026-09-04T16:00:23+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-04T16:25:45.906028+00:00"
+  },
+  {
+   "id": "51b63a8a5f61d778",
+   "title": "Republicans face a dilemma over Trump's role in the midterms",
+   "url": "https://thehill.com/opinion/6069504-swing-voters-donald-trump/",
+   "summary": "As the 2026 midterm elections approach, both parties face significant challenges regarding presidential popularity and internal ideological divisions.",
+   "published": "2026-09-04T16:00:00+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-04T16:25:45.906031+00:00"
+  },
+  {
+   "id": "9c961f1068dc04ae",
+   "title": "Ken Paxton\u2019s Financial Disclosures Appear to Violate Federal Ethics Law, Experts Say",
+   "url": "https://www.propublica.org/article/ken-paxton-senate-financial-disclosures-ethics-law",
+   "summary": "The post Ken Paxton\u2019s Financial Disclosures Appear to Violate Federal Ethics Law, Experts Say appeared first on ProPublica.",
+   "published": "2026-09-04T15:35:00+00:00",
+   "source": "ProPublica",
+   "source_id": "propublica",
+   "bias_note": "investigative",
+   "first_seen": "2026-09-04T16:25:46.268949+00:00"
+  },
+  {
+   "id": "b5fc45e963683544",
+   "title": "The 50 percent problem with Trump's Canada tariffs",
+   "url": "https://thehill.com/opinion/finance/6069916-legal-challenge-canadian-trade-war/",
+   "summary": "\u201cUp to 50 percent\u201d does not mean 50 percent whenever the president feels like it.",
+   "published": "2026-09-04T15:30:00+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-04T16:25:45.906048+00:00"
+  },
+  {
+   "id": "858604faeb5e6b64",
+   "title": "Made in America: Manufacturing, Private Hiring Power Explosive August Jobs Report",
+   "url": "https://www.whitehouse.gov/releases/2026/09/made-in-america-manufacturing-private-hiring-power-explosive-august-jobs-report/",
+   "summary": "\u201cAmerica added 162,000 jobs in August \u2014 triple economists\u2019 expectations. The private sector has now created over one million jobs under President Trump, whose reindustrialization agenda continues to drive manufacturing and factory construction job growth. America is in the middle of a historic investment boom, and the August jobs report is the latest data point [&#8230;]\nThe post Made in America: Manufacturing, Private Hiring Power Explosive August Jobs Report appeared first on The White House.",
+   "published": "2026-09-04T15:25:08+00:00",
+   "source": "WhiteHouse.gov News",
+   "source_id": "whitehouse",
+   "bias_note": "official/primary-source",
+   "first_seen": "2026-09-04T16:25:45.224339+00:00"
+  },
+  {
+   "id": "0d36d4dbbe4309a6",
+   "title": "North Carolina becomes first state to send out mail-in ballots for US midterms",
+   "url": "https://www.theguardian.com/us-news/2026/sep/04/north-carolina-mail-in-ballots-midterms",
+   "summary": "State decides to proceed hours after Trump administration asks supreme court to let it carry out proposed crackdownNorth Carolina became the first state to start sending out mail-in ballots for November\u2019s US midterm elections on Friday, as Donald Trump\u2019s administration fights to impose sweeping restrictions on the practice before millions of Americans cast their votes.The state\u2019s decision to proceed \u2013 hours after Trump\u2019s officials asked the supreme court to let the administration press ahead with its proposed crackdown \u2013 comes amid deep uncertainty over whether new federal rules governing mail",
+   "published": "2026-09-04T14:58:45+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-09-04T16:25:45.632184+00:00"
+  },
+  {
+   "id": "ab21f43283a859b3",
+   "title": "Former podcaster charged for death threats against Trump",
+   "url": "https://thehill.com/homenews/administration/6071430-benjamin-southworth-arrested-trump/",
+   "summary": "Former podcaster Benjamin Azariah Southworth was charged Thursday in connection with death threats against President Trump. FBI Director Kash Patel announced Southworth was arrested in a statement on the social platform X, writing, \u201cEarly this morning, the @FBI and partners arrested Benjamin Azariah Southworth in LA - after a federal grand jury indicted him for...",
+   "published": "2026-09-04T14:57:10+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-04T16:25:45.906074+00:00"
+  },
   {
    "id": "020c2c9c5d5389fd",
    "title": "Trump commutes sentence for former Philadelphia union official, attorney says",
