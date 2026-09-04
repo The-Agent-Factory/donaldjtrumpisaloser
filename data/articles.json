@@ -1,7 +1,161 @@
 {
- "updated": "2026-09-03T21:05:45.458890+00:00",
- "count": 457,
+ "updated": "2026-09-04T00:08:37.029264+00:00",
+ "count": 472,
  "articles": [
+  {
+   "id": "61f097cfd518f79b",
+   "title": "The Trump administration still aims to make state citizenship lists ahead of midterms",
+   "url": "https://www.npr.org/2026/09/03/nx-s1-5955822/voting-citizenship-lists-dhs-uscis-lawsuit",
+   "summary": "The Trump administration is taking the unprecedented step of creating lists of adult citizens who are eligible to vote in each state \u2013 but will not meet its own deadline 60 days before Election Day.",
+   "published": "2026-09-03T23:59:35+00:00",
+   "source": "NPR Politics",
+   "source_id": "npr-politics",
+   "bias_note": "center",
+   "first_seen": "2026-09-04T00:08:36.270934+00:00"
+  },
+  {
+   "id": "91006182f2ef92f9",
+   "title": "Excavation set to begin on Trump administration's 250-foot triumphal arch amid legal battle",
+   "url": "https://www.foxnews.com/politics/excavation-begin-trump-administration-250-foot-triumphal-arch-amid-legal-battle",
+   "summary": "Doug Burgum announced the start of excavation on the 250-foot Great Triumphal Arch in Washington, D.C., but a lawsuit challenges the project&apos;s authorization.",
+   "published": "2026-09-03T23:50:10+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-04T00:08:35.968406+00:00"
+  },
+  {
+   "id": "aa663c68f76886f7",
+   "title": "Trump administration warns agencies could stop helping Smithsonian",
+   "url": "https://thehill.com/homenews/administration/6070543-trump-administration-warns-agencies-could-stop-helping-smithsonian/",
+   "summary": "The Trump administration is threatening to cut off federal agencies\u2019 participation with the Smithsonian Institution, accusing its leaders of promoting a \u201cculture of ideological activism\" \u2014 the latest move in an ongoing dispute surrounding the world\u2019s largest museum complex's presentation of exhibits about the U.S. In a letter to Smithsonian leaders last Friday, Interior Secretary...",
+   "published": "2026-09-03T23:47:03+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-04T00:08:36.469475+00:00"
+  },
+  {
+   "id": "ce362c9307873e1d",
+   "title": "Trump announces Telle as acting Army secretary following Driscoll's resignation",
+   "url": "https://thehill.com/homenews/administration/6070592-trump-adam-telle-army-secretary-announcement/",
+   "summary": "President Trump announced Thursday evening that Adam Telle, the current assistant secretary of the Army for Civil Works, will be the acting Army secretary following this week\u2019s resignation of Dan Driscoll.\u00a0 \u201cHe is a Great Patriot, who is respected by all,\u201d the president wrote in a Truth Social post announcing Telle's appointment. As assistant secretary...",
+   "published": "2026-09-03T23:10:01+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-04T00:08:36.469483+00:00"
+  },
+  {
+   "id": "5d11c8e0c3e740aa",
+   "title": "Trump appointees advance plans for Lafayette Square fencing and White House gates",
+   "url": "https://www.pbs.org/newshour/politics/trump-appointees-advance-plans-for-lafayette-square-fencing-and-white-house-gates",
+   "summary": "Pieces of President Donald Trump's wide-ranging Washington makeover made their next step toward approval Thursday, but not without substantial critiques of plans for permanent fencing and gates around Lafayette Square in front of the White House.",
+   "published": "2026-09-03T22:53:15+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-09-04T00:08:36.621566+00:00"
+  },
+  {
+   "id": "c2aeb4beaf2dae75",
+   "title": "Pentagon sought to divert NIH funds for defense use, top House Appropriations Democrat says",
+   "url": "https://thehill.com/homenews/house/6070508-pentagon-nih-diverts-funds-democrats-statement/",
+   "summary": "The Pentagon is attempting to divert billions of dollars from the National Institutes of Health (NIH) to bolster the agency's budget, according to the top Democrat on the House Appropriations Committee.  Rep. Rosa DeLauro (D-Conn.) in a statement Thursday said Trump administration officials only recently disclosed to Congress that the Defense Department signed an interagency agreement...",
+   "published": "2026-09-03T22:48:08+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-04T00:08:36.469511+00:00"
+  },
+  {
+   "id": "079a18412ce0ce1a",
+   "title": "California girls\u2019 sports advocates vow fight after judge tosses trans athlete case: 'Far from over'",
+   "url": "https://www.foxnews.com/media/california-girls-sports-advocates-vow-fight-after-judge-tosses-trans-athlete-case-far-over",
+   "summary": "The Justice Department is weighing an appeal after a federal judge dismissed Trump&apos;s lawsuit over transgender athletes in California girls&apos; sports.",
+   "published": "2026-09-03T22:46:48+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-04T00:08:35.994221+00:00"
+  },
+  {
+   "id": "c9d99c11784409a4",
+   "title": "Judge halts EPA effort to overturn California car rules",
+   "url": "https://thehill.com/newsletters/energy-environment/6070522-judge-halts-epa-effort-to-overturn-california-car-rules/",
+   "summary": "{beacon} Energy &#038; Environment Energy &#038; Environment &#8202; The Big Story  Judge halts EPA effort to overturn California car rules A federal judge late Wednesday temporarily blocked a Trump administration effort to overturn California\u2019s clean car rules through Congress. J. David Ake, Getty Images Judge Beryl Howell, an appointee of former President Obama, blocked an Environmental Protection...",
+   "published": "2026-09-03T22:41:00+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-04T00:08:36.469517+00:00"
+  },
+  {
+   "id": "68c96c1573030624",
+   "title": "Missouri supreme court throws out new congressional maps backed by Trump",
+   "url": "https://www.theguardian.com/us-news/2026/sep/03/missouri-supreme-court-trump",
+   "summary": "Setback for Republicans in redistricting battle as court forbids maps from being used in November electionsThe Missouri supreme court has unanimously blocked new congressional districts backed by Donald Trump from being used in the November election and ordered a statewide vote on whether to uphold or reject the new map.The decision Thursday marks a rare setback for Republicans in a national redistricting battle. Republicans had hoped Missouri\u2019s new congressional boundaries could help them win an additional seat and hold onto their slim House majority in the midterms. The ruling still could be",
+   "published": "2026-09-03T22:38:41+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-09-04T00:08:36.364054+00:00"
+  },
+  {
+   "id": "f0849f31ce50c44f",
+   "title": "Missouri Supreme Court throws out GOP-favored House maps",
+   "url": "https://thehill.com/homenews/campaign/6070458-missouri-supreme-court-redistricting-republicans/",
+   "summary": "The Missouri Supreme Court dealt a blow to President Trump and Republicans Thursday, ruling the GOP could not issue a new map aimed at giving the party an additional seat in the House until the congressional lines are approved by voters in November. The decision is a setback for Republicans, who had sought to quickly...",
+   "published": "2026-09-03T22:15:10+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-04T00:08:36.469546+00:00"
+  },
+  {
+   "id": "d25c3c721b80a4fa",
+   "title": "Federal judge blocks Trump\u2019s latest attempt to restrict birthright citizenship",
+   "url": "https://www.theguardian.com/us-news/2026/sep/03/federal-judge-blocks-trump-birthright-citizenship-order",
+   "summary": "Supreme court ruled in June against president\u2019s earlier order to change citizenship rules for babies born in USA federal judge has temporarily blocked Donald Trump\u2019s latest attempt to restrict birthright citizenship \u2013 the longstanding principle that all babies born in the US are guaranteed American citizenship.The decision came nearly a month after the president tried for a second time to limit via executive order which people born in the US can become American citizens. The supreme court ruled in late June that Trump\u2019s previous sweeping order denying birthright citizenship to the children of ",
+   "published": "2026-09-03T21:50:26+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-09-04T00:08:36.364065+00:00"
+  },
+  {
+   "id": "63156303388ce45e",
+   "title": "Excavation work on Trump\u2019s towering, gilded arch to begin over next two weeks",
+   "url": "https://www.theguardian.com/us-news/2026/sep/03/trump-arch-washington-excavation-work",
+   "summary": "Project that critics say will disrupt historic sightlines in Washington DC is facing a lawsuitThe Trump administration said on Thursday that excavation work will start over the next two weeks on the site where it plans to build a towering, gilded arch, a project that is facing a lawsuit and that critics say will disrupt historic sightlines in Washington DC.The proposed arch is one of several projects the Republican president is pursuing to leave his lasting imprint on Washington, including renaming and renovating the Kennedy Center, building a huge new White House ballroom, refurbishing the Li",
+   "published": "2026-09-03T21:49:51+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-09-04T00:08:36.364072+00:00"
+  },
+  {
+   "id": "098edb7d500e147a",
+   "title": "Trump takes the risk on data centers",
+   "url": "https://thehill.com/newsletters/technology/6070307-trump-takes-the-risk-on-data-centers/",
+   "summary": "{beacon} Technology Technology &#8202; The Big Story  Trump, AI industry go on offensive to counter data center backlash President Trump and the AI industry are going on the offensive, attempting to bolster support for data centers as they contend with a groundswell of public opposition that has swept across party lines.  \u00a9 Manuel Balce Ceneta, Associated Press Trump has not shied away from embracing the controversial...",
+   "published": "2026-09-03T21:20:38+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-04T00:08:36.469586+00:00"
+  },
+  {
+   "id": "e1650ee72ad1fc3a",
+   "title": "Groundbreaking for Trump's arch will begin soon, Burgum says",
+   "url": "https://www.politico.com/news/2026/09/03/trump-arch-groundbreaking-timeline-01064052",
+   "summary": "Excavation work for the 250-foot-tall monument could begin in the next two weeks, the Interior secretary said.",
+   "published": "2026-09-03T21:05:21+00:00",
+   "source": "Politico",
+   "source_id": "politico",
+   "bias_note": "center",
+   "first_seen": "2026-09-04T00:08:36.429889+00:00"
+  },
   {
    "id": "94a7ba120a52504e",
    "title": "Trump moves to end tax-exempt status for schools that help minority students",
@@ -23,6 +177,17 @@
    "source_id": "foxnews-latest",
    "bias_note": "right-leaning",
    "first_seen": "2026-09-03T21:05:43.195835+00:00"
+  },
+  {
+   "id": "4f4061e2fc17dd4e",
+   "title": "Reality star's son, 15, indicted on 7 counts stemming from alleged assault",
+   "url": "https://www.foxnews.com/entertainment/reality-stars-son-15-indicted-7-counts-stemming-from-alleged-assault",
+   "summary": "KJ Biermann, 15, now faces 7 counts including child molestation and aggravated sodomy stemming from April incident after a grand jury indictment.",
+   "published": "2026-09-03T20:59:54+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-04T00:08:35.994317+00:00"
   },
   {
    "id": "b82386103f8158e2",
