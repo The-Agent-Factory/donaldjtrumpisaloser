@@ -1,7 +1,84 @@
 {
- "updated": "2026-09-04T00:08:37.029264+00:00",
- "count": 472,
+ "updated": "2026-09-04T04:40:00.248033+00:00",
+ "count": 479,
  "articles": [
+  {
+   "id": "3c1149b2218c3fc9",
+   "title": "Is Jon Ossoff the key for Democrats in 2028? \u2013 podcast",
+   "url": "https://www.theguardian.com/politics/audio/2026/sep/04/who-is-jon-ossoff-democrat-senator-georgia-trump-podcast",
+   "summary": "In August, the Democratic senator from Georgia, Jon Ossoff, implied Donald Trump was not interested in being president because he just wanted to \u2018build his ballroom and travel with Natalie\u2019. The implication Trump was having an affair with his aide (which he denied) rattled Republicans and excited Democrats.This week, Jonathan Freedland speaks to David A Graham of the Atlantic about why Ossoff is now a potential candidate for 2028Watch Jonathan Freedland on our new Politics Weekly YouTube channelSend your questions and feedback to politicsweeklyamerica@theguardian.comSubscribe to The Guardian I",
+   "published": "2026-09-04T04:00:58+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-09-04T04:39:58.804782+00:00"
+  },
+  {
+   "id": "c6bf2ad6b004b724",
+   "title": "Trump: Missouri Supreme Court 'ridiculously ruled in favor' of blocking redistricting plan",
+   "url": "https://thehill.com/homenews/administration/6070786-trump-condemns-missouri-redistricting-ruling/",
+   "summary": "President Trump on Thursday condemned the Missouri Supreme Court\u2019s decision to block new congressional lines drawn to benefit Republicans from being used in the state\u2019s November election.  The state\u2019s highest court unanimously ruled Thursday evening that this map, which were used in the state\u2019s primary elections last month, \u201cdid not go into effect and will...",
+   "published": "2026-09-04T02:58:55+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-04T04:39:59.188691+00:00"
+  },
+  {
+   "id": "802c3339e66e49ae",
+   "title": "Missouri high court blocks GOP-backed congressional maps ahead of midterms; Trump blasts 'ridiculous' ruling",
+   "url": "https://www.foxnews.com/politics/missouri-high-court-blocks-gop-backed-congressional-maps-ahead-midterms-trump-blasts-ridiculous-ruling",
+   "summary": "The Missouri Supreme Court unanimously blocked the GOP-drawn map, and President Donald Trump called the ruling &quot;ridiculous&quot; before November&apos;s vote.",
+   "published": "2026-09-04T01:35:24+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-04T04:39:57.945412+00:00"
+  },
+  {
+   "id": "1e3ee32c888b42e0",
+   "title": "Trump again appeals to Supreme Court on mail voting restrictions as midterms loom",
+   "url": "https://www.pbs.org/newshour/politics/trump-again-appeals-to-supreme-court-on-mail-voting-restrictions-as-midterms-loom",
+   "summary": "The Trump administration on Thursday asked the Supreme Court to reject an order by a federal judge that halts it from implementing a new rule regulating mail ballots, hours after being unable to tell that judge whether the computer system that would govern the entire project was operational yet.",
+   "published": "2026-09-04T00:25:01+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-09-04T04:39:59.333944+00:00"
+  },
+  {
+   "id": "b142a5f6e77a514b",
+   "title": "Trump names Adam Telle as acting army secretary following departure of Dan Driscoll",
+   "url": "https://www.theguardian.com/us-news/2026/sep/03/adam-telle-acting-army-secretary",
+   "summary": "Telle has previously worked for Trump during his first term as a special assistant to the president for legislative affairsDonald Trump on Thursday named Adam Telle as the acting army secretary after the departure of Daniel Driscoll amid widespread reports of tensions with defense secretary Pete Hegseth.Telle is currently the assistant secretary of the army for civil works. Continue reading...",
+   "published": "2026-09-04T00:18:46+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-09-04T04:39:58.804823+00:00"
+  },
+  {
+   "id": "f8aee99beace0fd3",
+   "title": "Trump names Adam Telle acting secretary of the Army following Dan Driscoll's resignation",
+   "url": "https://www.foxnews.com/us/trump-names-adam-telle-acting-secretary-army-following-dan-driscoll-resignation",
+   "summary": "Adam Telle steps in as acting Army secretary after Dan Driscoll&apos;s resignation amid reported clashes with Pete Hegseth over Army readiness efforts.",
+   "published": "2026-09-04T00:14:06+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-04T04:39:58.008761+00:00"
+  },
+  {
+   "id": "2c93ccc9ed354aa6",
+   "title": "Split verdict in New Orleans murder trial tied to staged-wrecks scheme",
+   "url": "https://www.theguardian.com/us-news/2026/sep/03/new-orleans-jury-slammers-trial",
+   "summary": "Sean Alfortish and Leon Parker convicted on some counts but not murder charges linked to insurance fraud plotA federal jury in New Orleans on Thursday returned a split verdict after more than 30 hours of deliberations in a three-week-long blockbuster fraud and murder trial that garnered headlines far beyond Louisiana.Jurors deadlocked on murder charges Sean Alfortish and Leon \u201cChunky\u201d Parker faced, leading US district judge Wendy Vitter to declare a mistrial as prosecutors vowed to try the case on those counts again. Continue reading...",
+   "published": "2026-09-04T00:08:40+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-09-04T04:39:58.804841+00:00"
+  },
   {
    "id": "61f097cfd518f79b",
    "title": "The Trump administration still aims to make state citizenship lists ahead of midterms",
