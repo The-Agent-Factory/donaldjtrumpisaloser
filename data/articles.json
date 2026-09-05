@@ -1,7 +1,40 @@
 {
- "updated": "2026-09-05T13:44:29.362484+00:00",
- "count": 561,
+ "updated": "2026-09-05T15:18:16.137297+00:00",
+ "count": 564,
  "articles": [
+  {
+   "id": "64cd0a8489320867",
+   "title": "Trump negotiators Witkoff, Kushner arrive in Moscow as US pushes for end to Russia-Ukraine war",
+   "url": "https://www.foxnews.com/world/trump-negotiators-witkoff-kushner-arrive-moscow-us-pushes-end-russia-ukraine-war",
+   "summary": "Steve Witkoff and Jared Kushner have landed in Moscow for peace talks before heading to Kyiv, as Trump says there may be a good chance for a deal.",
+   "published": "2026-09-05T14:52:30+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-05T15:18:13.745364+00:00"
+  },
+  {
+   "id": "75f05deba92c765a",
+   "title": "MIKE DAVIS: The Trump DOJ should withdraw its statement of interest in the OpenAI lawsuit",
+   "url": "https://www.foxnews.com/opinion/mike-davis-trump-doj-withdraw-statement-interest-openai-lawsuit",
+   "summary": "Trump&apos;s Justice Department backed OpenAI&apos;s fair use argument for AI training on copyrighted works, a move critics say lets Big Tech steal from creators.",
+   "published": "2026-09-05T14:19:18+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-05T15:18:13.745405+00:00"
+  },
+  {
+   "id": "37d665c20f72abe6",
+   "title": "Steve Witkoff and Jared Kushner land in Moscow aiming to revive Ukraine talks",
+   "url": "https://www.theguardian.com/world/2026/sep/05/steve-witkoff-jared-kushner-russia-revive-ukraine-talks",
+   "summary": "US envoys expected to meet Vladimir Putin before going to Kyiv, after peace efforts floundered in recent monthsThe US envoys Steve Witkoff and Jared Kushner have arrived in Moscow to try to resuscitate a deal to end Russia\u2019s invasion of Ukraine, as both sides said they would halt airstrikes for the visit.The envoys were met at the airport on Saturday by the Russian presidential envoy Kirill Dmitriev, a key interlocutor for the Trump administration\u2019s efforts to end the Ukraine-Russia war. The US outlet Axios reported that they were expected to meet the Russian president, Vladimir Putin, later i",
+   "published": "2026-09-05T14:04:29+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-09-05T15:18:14.516250+00:00"
+  },
   {
    "id": "78f3b8265ed60336",
    "title": "After years of defying the odds, California's David Valadao faces new test as Latinos turn on Trump",
