@@ -1,7 +1,40 @@
 {
- "updated": "2026-09-05T04:35:44.353254+00:00",
- "count": 549,
+ "updated": "2026-09-05T10:40:55.907893+00:00",
+ "count": 552,
  "articles": [
+  {
+   "id": "452451f157b6d8bf",
+   "title": "Democrats see midterm gift in Trump embrace of data centers",
+   "url": "https://thehill.com/homenews/house/6072613-trump-data-center-midterms-democrats/",
+   "summary": "House Democrats see President Trump's embrace of data centers as a political gift, hoping the radioactive issue will help the party flip control of the chamber in November's midterms. The topic has emerged as a late campaign juggernaut given the sheer proliferation of data centers in a great many communities around the country, which has...",
+   "published": "2026-09-05T10:00:00+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-05T10:40:54.903979+00:00"
+  },
+  {
+   "id": "2b8906f5bb3a40d1",
+   "title": "Democrats seek to counter RNC's 'Trump-a-palooza' convention in Dallas",
+   "url": "https://thehill.com/homenews/campaign/6072532-democrats-counterprogramming-rnc-dallas/",
+   "summary": "Democrats are seeking to seize on the Republican National Committee's first-of-its-kind midterm convention with plans for counterprogramming around the two-day Dallas bash as the party eyes a Senate flip in the red state.  Republicans are hopeful the\u00a0so-called\u00a0\"Trump-a-palooza\" next week excites the base about turning out amid\u00a0a bleak midterm outlook for the GOP\u00a0and concerns about\u00a0low attendance,\u00a0timing\u00a0and...",
+   "published": "2026-09-05T10:00:00+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-05T10:40:54.904011+00:00"
+  },
+  {
+   "id": "27280acfa40979ff",
+   "title": "Missouri AG files petition asking Supreme Court to revive Trump-backed redistricting map",
+   "url": "https://www.foxnews.com/politics/missouri-ag-files-petition-asking-supreme-court-revive-trump-backed-redistricting-map",
+   "summary": "Missouri Attorney General Catherine Hanaway filed an emergency U.S. Supreme Court appeal to restore the Trump-backed congressional redistricting map.",
+   "published": "2026-09-05T09:17:17+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-05T10:40:53.414216+00:00"
+  },
   {
    "id": "bfc699334645aaea",
    "title": "Watchdog issues scathing report on Trump's former labor secretary",
