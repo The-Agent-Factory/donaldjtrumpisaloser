@@ -1,7 +1,84 @@
 {
- "updated": "2026-09-05T15:18:16.137297+00:00",
- "count": 564,
+ "updated": "2026-09-05T18:21:11.598605+00:00",
+ "count": 571,
  "articles": [
+  {
+   "id": "bbe2aa8ce6537d27",
+   "title": "Kennedy Center closes after ceiling piece falls: 'President Trump has been right'",
+   "url": "https://thehill.com/homenews/administration/6073213-kennedy-center-ceiling-collapse-grand-foyer/",
+   "summary": "A portion of the ceiling inside the Kennedy Center\u2019s Grand Foyer collapsed Friday evening as heavy rain swept through the Washington, D.C. area, prompting officials to temporarily close the main building. No one was injured in the collapse, according to the Kennedy Center, which released photos from the scene showing chunks of the ceiling and...",
+   "published": "2026-09-05T17:35:17+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-05T18:21:10.923211+00:00"
+  },
+  {
+   "id": "b05e22f2e9abd4e3",
+   "title": "Kennedy Center renews call for Trump-backed shutdown after part of a ceiling collapses",
+   "url": "https://www.pbs.org/newshour/politics/kennedy-center-renews-call-for-trump-backed-shutdown-after-part-of-a-ceiling-collapses",
+   "summary": "No one was injured when a piece of the ceiling inside the Kennedy Center's grand foyer collapsed Friday evening, said Roma Daravi, the center's vice president for public relations.",
+   "published": "2026-09-05T17:33:29+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-09-05T18:21:11.025531+00:00"
+  },
+  {
+   "id": "134568698b6a4b1a",
+   "title": "Trump weighs in on Lindsay Clancy murder trial dubbed 'kangaroo court' by GOP leaders",
+   "url": "https://www.foxnews.com/politics/trump-weighs-lindsay-clancy-murder-trial-dubbed-kangaroo-court-gop-leaders",
+   "summary": "Trump says Lindsay Clancy will pay &quot;the price&quot; after a mistrial was declared when the jury deadlocked 11-1 in the Massachusetts murder case.",
+   "published": "2026-09-05T16:55:02+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-05T18:21:10.207499+00:00"
+  },
+  {
+   "id": "978f53d7fd368045",
+   "title": "Ranking the Democratic 2028 presidential contenders",
+   "url": "https://thehill.com/homenews/analysis/6071507-democrats-rank-2028-presidential-contenders/",
+   "summary": "Democrats are already looking beyond November\u2019s midterms to the 2028 presidential contest \u2014 and they like what they see. For now, Republicans are weighed down by President Trump\u2019s low approval ratings and broader voter concerns about the economy. Democrats guess whoever becomes the GOP nominee in 2028 will suffer from the president\u2019s liabilities without being...",
+   "published": "2026-09-05T16:00:00+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-05T18:21:10.923224+00:00"
+  },
+  {
+   "id": "b7310ce3b0513887",
+   "title": "U.S. envoys arrive in Moscow to revive peace talks with Ukraine",
+   "url": "https://thehill.com/homenews/administration/6073112-envoys-kushner-witkoff-moscow-kyiv-arrival/",
+   "summary": "Two U.S. envoys, Steve Witkoff and Jared Kushner, arrived in Moscow on Saturday as part of an effort to restart negotiations between Russia and Ukraine after a monthslong stall. Russian leader Vladimir Putin authorized a 72-hour pause on strikes against Kyiv to facilitate the U.S. delegation\u2019s visit to the country, according to Kremlin spokesperson Dmitry...",
+   "published": "2026-09-05T15:57:43+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-05T18:21:10.923236+00:00"
+  },
+  {
+   "id": "1993a8befc37370c",
+   "title": "Trump pardons Jay-Z associate Emory Jones after federal drug conviction",
+   "url": "https://www.foxnews.com/entertainment/trump-pardons-jay-z-associate-emory-jones-after-federal-drug-conviction",
+   "summary": "Alice Marie Johnson revealed Trump granted clemency to 30 individuals, including Emory Jones, a Roc Nation executive and Jay-Z&apos;s longtime associate.",
+   "published": "2026-09-05T15:39:52+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-05T18:21:10.227365+00:00"
+  },
+  {
+   "id": "04a6b39bbd7287c3",
+   "title": "Judge orders Trump administration to reveal who set up $1.8bn \u2018anti-weaponization fund\u2019",
+   "url": "https://www.theguardian.com/us-news/2026/sep/05/judge-trump-administration-anti-weaponization-fund",
+   "summary": "Judge issued order as part of discovery process in lawsuit brought by non-profit into now defunct compensation fundA federal judge has ordered the Trump administration to reveal who set up the structure of a controversial $1.8bn \u201canti-weaponization fund\u201d to recompense victims of political lawfare that was reportedly dropped by the justice department last month.The US magistrate judge Ivan Davis for eastern district of Virginia issued the order compelling discovery materials from the government as part of a lawsuit brought by the Democracy Forward non-profit on behalf of plaintiffs including a ",
+   "published": "2026-09-05T15:14:37+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-09-05T18:21:10.682365+00:00"
+  },
   {
    "id": "64cd0a8489320867",
    "title": "Trump negotiators Witkoff, Kushner arrive in Moscow as US pushes for end to Russia-Ukraine war",
