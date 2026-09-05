@@ -1,7 +1,73 @@
 {
- "updated": "2026-09-05T00:09:07.240081+00:00",
- "count": 544,
+ "updated": "2026-09-05T04:35:44.353254+00:00",
+ "count": 549,
  "articles": [
+  {
+   "id": "bfc699334645aaea",
+   "title": "Watchdog issues scathing report on Trump's former labor secretary",
+   "url": "https://thehill.com/homenews/administration/6072826-labor-secretary-chavez-deremer-workplace-misconduct-report/",
+   "summary": "Former Labor Secretary Lori Chavez-DeRemer allegedly fostered a \u201ctoxic, intimidating and humiliating\u201d workplace when she led the department, a scathing watchdog report released Thursday found. An investigation by the Labor Department\u2019s Office of Inspector General said Chavez-DeRemer, who resigned in April, regularly drank alcohol during the workday, failed to properly report expensive gifts she had...",
+   "published": "2026-09-05T03:26:39+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-05T04:35:43.348147+00:00"
+  },
+  {
+   "id": "4cfd5d3eb335a55d",
+   "title": "Vietnam veterans suing over Trump's arch seek court block ahead of groundbreaking",
+   "url": "https://thehill.com/homenews/administration/6072808-veterans-trump-arch-excavation-restraining-order/",
+   "summary": "The Vietnam War veterans suing over President Trump\u2019s proposed triumphal arch are seeking an emergency court order to block the administration from pursuing its imminent plans to break ground in the Washington D.C. area. Veterans Michael Lemmon, Shaun Byrnes, Jon Gundersen \u2014 along with architectural historian Calder Loth \u2014 filed their temporary restraining order request...",
+   "published": "2026-09-05T02:29:57+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-05T04:35:43.348157+00:00"
+  },
+  {
+   "id": "a3172c730a140e82",
+   "title": "Tetris suggests White House 'Build the Wall' game infringes copyright",
+   "url": "https://thehill.com/homenews/administration/6072786-tetris-white-house-game-copyright-infringement/",
+   "summary": "The Tetris Company appeared to warn the White House Friday that its new online arcade based on President Trump's policies may constitute copyright infringement. The site, launched Thursday, features games emulating the style of arcade classics. One of these video games, \"Build the Wall,\" uses mechanics that closely resemble those of Tetris. But in the...",
+   "published": "2026-09-05T01:24:24+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-05T04:35:43.348161+00:00"
+  },
+  {
+   "id": "a303d118d6b376ad",
+   "title": "DOJ ordered to freeze antitrust work with Canada as trade tensions intensify",
+   "url": "https://www.foxnews.com/politics/doj-ordered-freeze-antitrust-work-canada-trade-tensions-intensify",
+   "summary": "The Justice Department&apos;s antitrust division was directed to pause all cooperation with Canada amid the escalating U.S.-Canada trade war, according to a report.",
+   "published": "2026-09-05T01:09:14+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-05T04:35:42.669481+00:00"
+  },
+  {
+   "id": "2a15c97fa9c895d4",
+   "title": "Trump order directs officials to consider stripping protections for gray wolves",
+   "url": "https://www.theguardian.com/us-news/2026/sep/04/trump-order-gray-wolves",
+   "summary": "Interior department given three months to decide whether wolves can be removed from endangered species listDonald Trump signed an executive order on Friday directing the interior department to consider de-listing gray wolves from the Endangered Species Act and to contemplate whether the agency could make it easier to authorize killing them.The order gives interior secretary Doug Burgum three months to determine whether gray wolves and Mexican gray wolves have recovered enough for the federal government to de-list them. Continue reading...",
+   "published": "2026-09-05T00:50:41+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-09-05T04:35:43.129528+00:00"
+  },
+  {
+   "id": "cc10e3da81210288",
+   "title": "Federal judge extends block on Trump order seeking to limit mail voting in the midterms",
+   "url": "https://www.pbs.org/newshour/politics/federal-judge-extends-block-on-trump-order-seeking-to-limit-mail-voting-in-the-midterms",
+   "summary": "A federal judge on Friday extended her prohibition against the U.S. Postal Service implementing President Donald Trump's executive order\u00a0seeking to limit mail voting\u00a0during the midterms, putting another major obstacle in the way of the administration as the first states begin sending out mail ballots.",
+   "published": "2026-09-05T00:19:17+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-09-05T04:35:43.615600+00:00"
+  },
   {
    "id": "31d161e7339c1a74",
    "title": "US judge extends block on Trump order to restrict mail-in voting",
@@ -5974,17 +6040,6 @@
    "source_id": "abc-politics",
    "bias_note": "center",
    "first_seen": "2026-08-30T00:23:51.246195+00:00"
-  },
-  {
-   "id": "04a9bd7e6c5be1cc",
-   "title": "\u2018I\u2019m on the ballot\u2019: Trump lends a hand to struggling Darline Graham",
-   "url": "https://www.politico.com/news/2026/08/21/ballot-trump-darline-graham-01046646",
-   "summary": "The president sought to paper over emerging cracks in Graham\u2019s campaign to succeed her late brother.",
-   "published": "2026-08-22T00:36:55+00:00",
-   "source": "Politico",
-   "source_id": "politico",
-   "bias_note": "center",
-   "first_seen": "2026-08-29T21:14:43.102481+00:00"
   }
  ]
 }
