@@ -1,7 +1,84 @@
 {
- "updated": "2026-09-05T18:21:11.598605+00:00",
- "count": 571,
+ "updated": "2026-09-05T22:04:27.715291+00:00",
+ "count": 578,
  "articles": [
+  {
+   "id": "403dd5af954a222a",
+   "title": "Trump's MAGA Inc. super-PAC funnels $10 million into Ken Paxton's Senate campaign",
+   "url": "https://thehill.com/homenews/campaign/6073421-trump-maga-inc-paxton-donation-10-million/",
+   "summary": "President Trump\u2019s super-PAC MAGA Inc. gave $10 million to Texas Attorney General Ken Paxton's (R) Senate campaign ahead of the 2026 midterm elections, according to Federal Election Commission (FEC) filings published Saturday. The $10 million payment, given to political media company, Del Ray Media, funded two attack ads against his Democratic opponent James Talarico \u2014...",
+   "published": "2026-09-05T21:43:31+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-05T22:04:26.785289+00:00"
+  },
+  {
+   "id": "669f43d54a95fe85",
+   "title": "EXCLUSIVE: FBI's fifth 'Most Wanted Fraudster' captured after alleged SNAP scam suspect arrested in India",
+   "url": "https://www.foxnews.com/us/exclusive-fbis-fifth-most-wanted-fraudster-captured-alleged-snap-scam-suspect-arrested-india",
+   "summary": "Manjit Singh Bedi was arrested in India after allegedly fleeing the U.S. to escape SNAP benefits fraud charges tied to a $600,000 EBT scheme.",
+   "published": "2026-09-05T21:31:35+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-05T22:04:25.383812+00:00"
+  },
+  {
+   "id": "8a6aa0f5154f5a46",
+   "title": "Trump faces down beef backlash. Will import plan pay off?",
+   "url": "https://thehill.com/homenews/administration/6072701-trump-imports-foreign-beef/",
+   "summary": "President Trump is pushing ahead with his plan to import foreign beef as a way to reduce prices for Americans, despite the backlash from cattle farmers and Republicans whose states would be most be most affected. In an apparent effort to soften the blow, Trump signed executive orders Friday, including one that allows ranchers and...",
+   "published": "2026-09-05T21:00:00+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-05T22:04:26.785295+00:00"
+  },
+  {
+   "id": "36320fb319d5d675",
+   "title": "Trump's first major midterm money move: A $10 million Texas Senate ad blitz",
+   "url": "https://www.pbs.org/newshour/politics/trumps-first-major-midterm-money-move-a-10-million-texas-senate-ad-blitz",
+   "summary": "This is the first significant spending in a premier general election contest by MAGA, Inc., and reflects how a once-safe Republican seat in Texas may be viable for Democrats with the candidacy of James Talarico.",
+   "published": "2026-09-05T20:44:35+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-09-05T22:04:26.950698+00:00"
+  },
+  {
+   "id": "a9536e3fbdcefea5",
+   "title": "Sunday shows preview: Trump travels to Texas for RNC midterm convention; Administration downplays Iran war consequences",
+   "url": "https://thehill.com/homenews/sunday-talk-shows/6073362-sunday-shows-trump-rnc-convention-iran-war/",
+   "summary": "President Trump will head to the GOP\u2019s convention in Dallas next week \u2014 an event aimed at galvanizing Republican voters to get out the vote ahead of the midterm elections this November.  The president will headline the two-day convention, and Vice President JD Vance is also expected to address attendees. Ahead of the inaugural event,...",
+   "published": "2026-09-05T20:44:16+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-05T22:04:26.785303+00:00"
+  },
+  {
+   "id": "bc62e1cd7876455a",
+   "title": "Trump shakes up RNC midterm convention schedule, says he'll speak on night one",
+   "url": "https://thehill.com/homenews/campaign/6073371-trump-to-speak-night-one/",
+   "summary": "President Trump is set to speak on Night 1 of the Republican National Committee\u2019s (RNC) Midterm Convention in Dallas on Sept. 9. \u201cThe Greatest RALLY of them all,\u201d Trump wrote in a Friday Truth Social post. \u201cI\u2019ll be speaking on night one, and hanging around for an earlier closing, and lots of music, on night...",
+   "published": "2026-09-05T20:42:37+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-05T22:04:26.785310+00:00"
+  },
+  {
+   "id": "674645beeeaf50c9",
+   "title": "Trump\u2019s first major midterm money move: A $10M Texas Senate ad blitz",
+   "url": "https://abcnews.com/Politics/wireStory/trumps-major-midterm-money-move-10m-texas-senate-136230356",
+   "summary": "President Donald Trump's political group is spending $10 million on ads in the Texas Senate race",
+   "published": "2026-09-05T19:20:06+00:00",
+   "source": "ABC News Politics",
+   "source_id": "abc-politics",
+   "bias_note": "center",
+   "first_seen": "2026-09-05T22:04:27.504248+00:00"
+  },
   {
    "id": "bbe2aa8ce6537d27",
    "title": "Kennedy Center closes after ceiling piece falls: 'President Trump has been right'",
