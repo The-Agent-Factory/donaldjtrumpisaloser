@@ -1,7 +1,29 @@
 {
- "updated": "2026-09-05T22:04:27.715291+00:00",
- "count": 578,
+ "updated": "2026-09-05T23:56:34.281217+00:00",
+ "count": 580,
  "articles": [
+  {
+   "id": "a63e3bafcb7aae35",
+   "title": "Here's a look at 'reach' election races where Democrats hope to pull off House upsets",
+   "url": "https://www.pbs.org/newshour/politics/heres-a-look-at-reach-election-races-where-democrats-hope-to-pull-off-house-upsets",
+   "summary": "The party in power traditionally suffers losses during midterm elections. Democrats managed to avoid a predicted 2022 \"red wave,\" but they saw Republicans flip both chambers when President Donald Trump was reelected last cycle.",
+   "published": "2026-09-05T22:36:33+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-09-05T23:56:33.756403+00:00"
+  },
+  {
+   "id": "b6a92f7a4509f3ea",
+   "title": "Trump admin ends $45M support for Namibia HIV program",
+   "url": "https://thehill.com/policy/international/6073469-us-ends-namibia-hiv-funding/",
+   "summary": "The Trump administration announced it will be ending $45 million in support for Namibia\u2019s HIV response program following two decades of annual payments. The U.S. will provide its final $45 million payment in the 2027 fiscal year as \u201cthis support will transition into a technical cooperation model,\u201d according to a Friday joint statement from Namibia\u2019s...",
+   "published": "2026-09-05T22:24:04+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-05T23:56:33.591787+00:00"
+  },
   {
    "id": "403dd5af954a222a",
    "title": "Trump's MAGA Inc. super-PAC funnels $10 million into Ken Paxton's Senate campaign",
