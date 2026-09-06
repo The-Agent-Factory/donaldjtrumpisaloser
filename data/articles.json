@@ -1,7 +1,62 @@
 {
- "updated": "2026-09-06T14:00:56.794547+00:00",
- "count": 593,
+ "updated": "2026-09-06T15:31:18.905719+00:00",
+ "count": 598,
  "articles": [
+  {
+   "id": "c218546666b52bda",
+   "title": "Former Air Force secretary questions 'advice' Trump received before starting Iran war",
+   "url": "https://thehill.com/policy/defense/6073796-kendall-questions-trump-iran-war/",
+   "summary": "Former Air Force Secretary Frank Kendall III on Sunday questioned the \u201cadvice\u201d President Trump received in the lead-up to the Iran war. \u201cWhat I don't understand, frankly, about the Iran war is what advice was given to the president that led him to start this conflict?\u201d Kendall told host Martha Raddatz on ABC\u2019s \u201cThis Week.\u201d...",
+   "published": "2026-09-06T15:29:19+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-06T15:31:17.423265+00:00"
+  },
+  {
+   "id": "ccbdd37f838a4792",
+   "title": "Trump administration makes another appeal to Supreme Court to allow mail ballot restrictions",
+   "url": "https://www.pbs.org/newshour/politics/trump-administration-makes-another-appeal-to-supreme-court-to-allow-mail-ballot-restrictions",
+   "summary": "The filing came after U.S. District Court Judge Indira Talwani extended an order against the Postal Service enforcing President Donald Trump's executive order for the November elections.",
+   "published": "2026-09-06T15:15:28+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-09-06T15:31:17.764657+00:00"
+  },
+  {
+   "id": "32c4d8773c1ea874",
+   "title": "Former Air Force secretary says he 'couldn't serve' in Trump administration",
+   "url": "https://thehill.com/policy/defense/6073772-kendall-blasts-hegseth-leadership/",
+   "summary": "Former Air Force Secretary Frank Kendall III said Sunday he \u201ccouldn\u2019t serve\u201d in the Trump administration, blasting Defense Secretary Pete Hegseth\u2019s leadership of the Pentagon. \u201cI\u2019ve never seen an attempt to politicize our military like the one being conducted by Pete Hegseth,\u201d Kendall told Martha Raddatz on ABC\u2019s \u201cThis Week.\u201d Earlier this week, Army Secretary...",
+   "published": "2026-09-06T14:43:48+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-06T15:31:17.423305+00:00"
+  },
+  {
+   "id": "7dbeddbf9dd12aef",
+   "title": "8 everyday things that would quit working without data centers",
+   "url": "https://www.foxnews.com/politics/8-everyday-things-would-quit-working-without-data-centers",
+   "summary": "Data centers power everything from streaming and gaming to AI chatbots and fraud detection. Here&apos;s how they quietly run the apps you use daily.",
+   "published": "2026-09-06T14:17:07+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-06T15:31:15.105183+00:00"
+  },
+  {
+   "id": "0512b6e61e44f5d3",
+   "title": "Wright: US 'may not' reach nuclear agreement with Iran",
+   "url": "https://thehill.com/homenews/administration/6073768-wright-iran-nuclear-deal/",
+   "summary": "Energy Secretary Chris Wright said Sunday the Trump administration \u201cmay not\u201d reach a nuclear agreement with the Iranian regime. \u201cThere may not be a nuclear agreement. It may be simply destroying their capabilities to do it,\u201d Wright told host Martha Raddatz on ABC\u2019s \u201cThis Week.\u201d The Energy secretary added a nuclear agreement with the Islamic...",
+   "published": "2026-09-06T14:12:42+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-06T15:31:17.423311+00:00"
+  },
   {
    "id": "8aa5eeca1abb6c2f",
    "title": "Trump envoys set for Zelensky meeting after Russia-Ukraine peace talks with Putin",
