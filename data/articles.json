@@ -1,7 +1,40 @@
 {
- "updated": "2026-09-05T23:56:34.281217+00:00",
- "count": 580,
+ "updated": "2026-09-06T04:45:31.843330+00:00",
+ "count": 583,
  "articles": [
+  {
+   "id": "3db8b50d81c3fe82",
+   "title": "Kennedy Center ceiling partially collapses as Trump-led board pushes for 2-year closure",
+   "url": "https://www.foxnews.com/politics/kennedy-center-ceiling-partially-collapses-trump-led-board-pushes-2-year-closure",
+   "summary": "Photos show a partial ceiling collapse in a main Kennedy Center hallway, which officials say underscores the urgent need for Trump-backed renovations.",
+   "published": "2026-09-06T02:02:39+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-06T04:45:29.857485+00:00"
+  },
+  {
+   "id": "c8428b87f3d4567b",
+   "title": "Russia calls talks with US envoys \"useful\"",
+   "url": "https://thehill.com/policy/international/6073550-putin-witkoff-kushner-peace-talks/",
+   "summary": "A Russian aide said talks between Russian President Vladimir Putin and two United States envoys were \u201chighly useful\u201d as the Americans attempt to restart stalled peace negotiations between Russia and Ukraine. Yuri Ushakov, a foreign-policy adviser to Putin, said that U.S. envoys Steve Witkoff and Jared Kushner \u201coutlined a number of ideas regarding possible avenues...",
+   "published": "2026-09-06T01:44:46+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-06T04:45:30.923178+00:00"
+  },
+  {
+   "id": "b24e71fe9f6e1b14",
+   "title": "Trump-linked MAGA Inc pours $10M into Ken Paxton's Texas Senate race against James Talarico",
+   "url": "https://www.foxnews.com/politics/trump-linked-maga-inc-pours-10m-ken-paxton-texas-senate-race-james-talarico",
+   "summary": "MAGA Inc. drops $10 million in ads backing Ken Paxton against James Talarico in a neck and neck Texas Senate race that could reshape the midterms.",
+   "published": "2026-09-06T00:59:13+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-06T04:45:29.857502+00:00"
+  },
   {
    "id": "a63e3bafcb7aae35",
    "title": "Here's a look at 'reach' election races where Democrats hope to pull off House upsets",
