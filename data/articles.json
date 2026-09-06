@@ -1,7 +1,29 @@
 {
- "updated": "2026-09-06T22:08:53.054205+00:00",
- "count": 612,
+ "updated": "2026-09-06T23:58:48.625408+00:00",
+ "count": 614,
  "articles": [
+  {
+   "id": "121218531c3d361f",
+   "title": "Trump appears to debut darker hair, sparking online buzz",
+   "url": "https://www.foxnews.com/politics/trump-appears-debut-darker-hair-sparking-online-buzz",
+   "summary": "New photos of President Trump stepping off Air Force One with what appeared to be a darker hairstyle have quickly fueled social media buzz.",
+   "published": "2026-09-06T23:39:48+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-06T23:58:47.183323+00:00"
+  },
+  {
+   "id": "065d142673ffa9b6",
+   "title": "Trump posts map labeling New Mexico as 'New America' after online hoax",
+   "url": "https://thehill.com/homenews/administration/6074249-trump-posts-map-labeling-new-mexico-as-new-america-after-online-hoax/",
+   "summary": "President Trump on Sunday posted a map of New Mexico labeled \"New America\" following the spread of a since-debunked online hoax claiming he had signed an executive order renaming the state. The map Trump shared on Truth Social showed a large \"X\" over \"Mexico\" in the state's name, with the word \"America\" labeled below it....",
+   "published": "2026-09-06T23:14:00+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-06T23:58:47.810455+00:00"
+  },
   {
    "id": "a2575a7c7a5694e4",
    "title": "Trump says White House helipad work is done after August project restart",
