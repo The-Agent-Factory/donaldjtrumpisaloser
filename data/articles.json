@@ -1,7 +1,106 @@
 {
- "updated": "2026-09-06T18:22:08.638721+00:00",
- "count": 603,
+ "updated": "2026-09-06T22:08:53.054205+00:00",
+ "count": 612,
  "articles": [
+  {
+   "id": "a2575a7c7a5694e4",
+   "title": "Trump says White House helipad work is done after August project restart",
+   "url": "https://thehill.com/homenews/administration/6074141-trump-completes-white-house-helipad/",
+   "summary": "President Trump on Sunday announced that the White House helipad, which was redone at his request last month, has been completed. Trump posted a photo of former President Dwight D. Eisenhower on the White House lawn before departing in an Air Force H-13J helicopter in July 1957, becoming the first U.S. president to fly in...",
+   "published": "2026-09-06T21:15:02+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-06T22:08:52.036083+00:00"
+  },
+  {
+   "id": "3583d10b1d24f628",
+   "title": "Trump administration expands mass deportations with noncriminals",
+   "url": "https://thehill.com/homenews/administration/6072318-ice-arrests-surge-non-criminals/",
+   "summary": "A surge in immigration arrests is sweeping up immigrants with no criminal record whatsoever, including many who were already known by the government, as officers push to meet quotas set by the Trump administration. U.S. Immigration and Customs Enforcement (ICE) officers broke records for the second Trump administration with back-to-back months of arrests topping 50,000...",
+   "published": "2026-09-06T21:00:00+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-06T22:08:52.036111+00:00"
+  },
+  {
+   "id": "cd5a9883f3fbcc29",
+   "title": "Trump: Canada's currency imbalance with US will be 'no longer'",
+   "url": "https://thehill.com/homenews/administration/6074097-trump-calls-canada-dollar-imbalance-unacceptable/",
+   "summary": "President Trump said Sunday the U.S. dollar to Canadian dollar \u201cimbalance\u201d is \u201cunacceptable,\u201d two days before Canadian tariffs will go into effect on a slew of American goods. \u201cCanada\u2019s (currency) Dollar imbalance with the U.S. is unacceptable,\u201d Trump wrote on Truth Social. \u201cIt has been that way for years \u2014 but no longer!\u201d One Canadian...",
+   "published": "2026-09-06T20:17:45+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-06T22:08:52.036145+00:00"
+  },
+  {
+   "id": "4055955d2ad61a21",
+   "title": "Wright: US has 'a lot of leverage' in Venezuela after oil deal reached",
+   "url": "https://thehill.com/policy/energy-environment/6074075-us-leverage-venezuela-oil-deal/",
+   "summary": "Energy Secretary Chris Wright said on Sunday that the U.S. has \u201ca lot of leverage\u201d over Venezuela after the Trump administration reached a deal with the latter government to grant it control of more than 65 billion barrels of oil.\u00a0 \u201cWe have a lot of leverage over Venezuela. We control the sale of oil outside...",
+   "published": "2026-09-06T19:58:55+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-06T22:08:52.036150+00:00"
+  },
+  {
+   "id": "a9abbc860d8b724c",
+   "title": "At least 5 dead after Amazon cargo plane barreled off runway at Miami airport",
+   "url": "https://thehill.com/policy/transportation/aviation/6074113-amazon-cargo-plane-sends-up-billowing-cloud-of-smoke-after-overrunning-runway-at-miami-airport/",
+   "summary": "The Federal Aviation Administration said the aircraft overran the runway at around 2 p.m. after heading into Florida from San Juan, Puerto Rico.",
+   "published": "2026-09-06T19:56:17+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-06T22:08:52.036154+00:00"
+  },
+  {
+   "id": "8abd07a1aff321c5",
+   "title": "After 'Lake America,' Trump suggests a new name for the state of New Mexico",
+   "url": "https://www.foxnews.com/politics/lake-america-trump-suggests-new-name-state-new-mexico",
+   "summary": "The White House reposted Trump&apos;s Truth Social image showing New Mexico crossed out and rebranded as &quot;America&quot; days after the Lake America order.",
+   "published": "2026-09-06T19:44:41+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-06T22:08:51.140650+00:00"
+  },
+  {
+   "id": "2da7724ab60861d9",
+   "title": "Hinojosa on Trump $10 million Paxton race investment: 'I welcome the attention on Texas'",
+   "url": "https://thehill.com/homenews/campaign/6074013-hinojosa-texas-elections-democrats-tossup-attention/",
+   "summary": "Texas gubernatorial candidate Gina Hinojosa (D) embraced the new spotlight on her state brought on by the unexpectedly close Senate race between Democrat James Talarico and Republican Ken Paxton. \u201cYou are running in a state President Trump won by nearly 14 percentage points. He just announced, as I mentioned, that $10 million investment to boost...",
+   "published": "2026-09-06T19:20:18+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-06T22:08:52.036160+00:00"
+  },
+  {
+   "id": "152ffb291db2a5fa",
+   "title": "Army combat veteran challenging Mike Lawler calls Hegseth national security 'hazard,' backs impeachment",
+   "url": "https://www.foxnews.com/media/army-combat-veteran-challenging-mike-lawler-calls-hegseth-national-security-hazard-backs-impeachment",
+   "summary": "Cait Conley, a 16-year Army veteran challenging Rep. Mike Lawler, says she would vote for articles of impeachment against Pete Hegseth at the Pentagon.",
+   "published": "2026-09-06T18:34:28+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-06T22:08:51.166157+00:00"
+  },
+  {
+   "id": "a63c66dc9214d601",
+   "title": "Trump admin\u2019s mail-in ballot fight lands back at Supreme Court",
+   "url": "https://www.foxnews.com/politics/trump-admin-mail-ballot-fight-lands-back-supreme-court",
+   "summary": "The Trump administration asks the Supreme Court to enforce postal service ballot mail restrictions as North Carolina ballots already enter the mail.",
+   "published": "2026-09-06T18:19:58+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-06T22:08:51.140662+00:00"
+  },
   {
    "id": "098a34a4f882e3b6",
    "title": "Lawler disagrees with Trump on Iran war: 'It is certainly not small potatoes'",
