@@ -1,7 +1,18 @@
 {
- "updated": "2026-09-07T16:19:03.617959+00:00",
+ "updated": "2026-09-07T18:45:23.184071+00:00",
  "count": 628,
  "articles": [
+  {
+   "id": "399248de62dd3af1",
+   "title": "Trump promises midterm victory, slams Democrats in Labor Day message",
+   "url": "https://thehill.com/homenews/administration/6075049-trump-attacks-democrats-labor-day/",
+   "summary": "President Trump on Monday promised victory in the upcoming midterm elections for the GOP and went after Democrats in a Labor Day message posted to social media. \u201cHappy Labor Day to all, including the Radical Left Lunatics, Communists, and Dumocrats who will do anything possible to destroy our Country. These Deranged People, after fighting for...",
+   "published": "2026-09-07T17:15:50+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-07T18:45:22.435985+00:00"
+  },
   {
    "id": "b9691f3bacbe7b1a",
    "title": "Labor Day, 2026",
@@ -6898,17 +6909,6 @@
    "source_id": "whitehouse",
    "bias_note": "official/primary-source",
    "first_seen": "2026-08-29T21:14:42.361534+00:00"
-  },
-  {
-   "id": "c5d6f25d5eab9852",
-   "title": "President Trump Champions Educational Freedom \u2014 Putting Students and Parents First",
-   "url": "https://www.whitehouse.gov/releases/2026/08/president-trump-champions-educational-freedom-putting-students-and-parents-first/",
-   "summary": "Today, President Donald J. Trump welcomes students, parents, and education advocates to the White House to celebrate the start of a new school year. Under President Trump\u2019s and Secretary of Education Linda McMahon\u2019s leadership, this Administration has delivered an unparalleled record of expanding educational freedom, restoring parental rights, returning power to the states, and putting [&#8230;]\nThe post President Trump Champions Educational Freedom \u2014 Putting Students and Parents First appeared first on The White House.",
-   "published": "2026-08-24T16:41:15+00:00",
-   "source": "WhiteHouse.gov News",
-   "source_id": "whitehouse",
-   "bias_note": "official/primary-source",
-   "first_seen": "2026-08-29T21:14:42.361535+00:00"
   }
  ]
 }
