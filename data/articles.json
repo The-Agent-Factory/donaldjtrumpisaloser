@@ -1,7 +1,106 @@
 {
- "updated": "2026-09-07T18:45:23.184071+00:00",
- "count": 628,
+ "updated": "2026-09-07T22:52:20.149257+00:00",
+ "count": 634,
  "articles": [
+  {
+   "id": "d975439ec8dcd1e0",
+   "title": "Trump posts updates about his DC \u2018beautification\u2019 projects",
+   "url": "https://thehill.com/homenews/administration/6075345-trump-dc-beautification-projects/",
+   "summary": "President Donald Trump made several posts on social media on Monday morning with pictures of statues and landmarks around Washington, D.C., that the National Park Service has been updating. Trump has been emphasizing his efforts to \u201cbeautify\u201d D.C., including constructing an arch in his honor, fixing fountains and gold-plating statues, among other projects.\u00a0 Each post...",
+   "published": "2026-09-07T21:53:46+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-07T22:52:19.227128+00:00"
+  },
+  {
+   "id": "4a4bbc17fe635716",
+   "title": "EU seeks to reassure a Trump-rattled Greenland with promise of a new partnership and investment",
+   "url": "https://www.pbs.org/newshour/world/eu-seeks-to-reassure-a-trump-rattled-greenland-with-promise-of-a-new-partnership-and-investment",
+   "summary": "The European Union is promising Greenland a stronger partnership and hundreds of millions of euros in investment, wanting to reassure Greenland after U.S. President Donald Trump's threats to take control of the island.",
+   "published": "2026-09-07T21:29:13+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-09-07T22:52:19.429515+00:00"
+  },
+  {
+   "id": "9319adca137c501d",
+   "title": "Trump takes narrow Supreme Court rulings as big wins",
+   "url": "https://thehill.com/regulation/court-battles/6072461-trump-white-house-ballroom-supreme-court/",
+   "summary": "The construction of a massive White House ballroom is moving full steam ahead after the Supreme Court found a historic preservation group likely had no right to stop it.   \"We have a lot of very happy construction workers,\" President Trump told reporters in the Oval Office on Wednesday. The $400 million project on the site of the former...",
+   "published": "2026-09-07T21:00:00+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-07T22:52:19.227134+00:00"
+  },
+  {
+   "id": "ecb89961d8931af0",
+   "title": "This week on the Hill: Political spotlight turns to GOP midterm convention in Dallas",
+   "url": "https://thehill.com/newsletters/this-week-on-the-hill/6072342-trump-pentagon-911-anniversary/",
+   "summary": "The political world\u2019s eyes are focused this week on Dallas, where Republicans are turning up the volume at a two-day convention meant to bolster the GOP\u2019s chances in this year\u2019s midterms. The event is being billed as a unifying and electrifying celebration of President Trump\u2019s second term in office that is being put on by...",
+   "published": "2026-09-07T21:00:00+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-07T22:52:19.227141+00:00"
+  },
+  {
+   "id": "0c2f1ca089d64ad6",
+   "title": "Trump's construction projects are transforming the capital",
+   "url": "https://www.npr.org/2026/09/07/nx-s1-5958600/trumps-construction-projects-are-transforming-the-capital",
+   "summary": "President Trump is transforming Washington. New York Magazine's Ben Terris says the ballroom, the planned arch and other changes are an attempt to achieve \"architectural immortality.\"",
+   "published": "2026-09-07T20:32:13+00:00",
+   "source": "NPR Politics",
+   "source_id": "npr-politics",
+   "bias_note": "center",
+   "first_seen": "2026-09-07T22:52:18.903763+00:00"
+  },
+  {
+   "id": "b3cdfa0e83be2daf",
+   "title": "Trump posts map with American flag emblazoned over Canada, Greenland, Mexico",
+   "url": "https://thehill.com/homenews/administration/6075255-trump-map-territorial-ambitions/",
+   "summary": "President Trump posted a map with an American flag covering most of North America, as well as Iceland and islands in the Caribbean, on Monday morning, a post that follows his previous pushes to take over territory outside of U.S. borders. The president\u2019s post featured a map with the pattern of the American flag superimposed...",
+   "published": "2026-09-07T20:00:47+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-07T22:52:19.227147+00:00"
+  },
+  {
+   "id": "f69e630c8da67c8b",
+   "title": "A whiplash election year enters its final stretch as Trump holds wild cards",
+   "url": "https://www.pbs.org/newshour/politics/a-whiplash-election-year-enters-its-final-stretch-as-trump-holds-wild-cards",
+   "summary": "As the final midterm of Donald Trump's presidency rapidly approaches, the landscape is proving especially volatile, with Trump often stirring the tumult.",
+   "published": "2026-09-07T19:30:39+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-09-07T22:52:19.429525+00:00"
+  },
+  {
+   "id": "09c4ad879f5d7ffc",
+   "title": "Fake Republican midterm convention site still redirects to Epstein files",
+   "url": "https://thehill.com/homenews/campaign/6075245-fake-gop-convention-site-epstein-files/",
+   "summary": "A fake website claiming to be associated with the Republican National Committee\u2019s (RNC) midterm convention, taking place Sept. 9-10 in Dallas, redirects to the Justice Department\u2019s homepage for the Epstein files. The online bait and switch demonstrates a push from a mysterious source to remind Republicans, or anyone seeking convention details, about the Epstein files. ...",
+   "published": "2026-09-07T19:25:28+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-07T22:52:19.227156+00:00"
+  },
+  {
+   "id": "7a2c0deb7eff8949",
+   "title": "Trump keeps heralding an economic boom, but even a solid jobs report is causing problems for him",
+   "url": "https://www.pbs.org/newshour/politics/trump-keeps-heralding-an-economic-boom-but-even-a-solid-jobs-report-is-causing-problems-for-him",
+   "summary": "President Donald Trump has spent 20 months promising that America was on the cusp of an economic boom. But Friday's surprisingly positive jobs report ultimately provoked frustration from Trump.",
+   "published": "2026-09-07T18:46:50+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-09-07T22:52:19.429529+00:00"
+  },
   {
    "id": "399248de62dd3af1",
    "title": "Trump promises midterm victory, slams Democrats in Labor Day message",
@@ -6876,39 +6975,6 @@
    "source_id": "whitehouse",
    "bias_note": "official/primary-source",
    "first_seen": "2026-08-29T21:14:42.361532+00:00"
-  },
-  {
-   "id": "9d93f9eb421b032f",
-   "title": "Trump\u2019s MAGA Inc. makes last-minute buy for Darline Graham in South Carolina runoff",
-   "url": "https://www.politico.com/news/2026/08/24/trump-maga-inc-darline-graham-south-carolina-01048038",
-   "summary": "The president\u2019s super PAC spent more than $827,000 on voter phone calls and texts for Graham \u2014 even as battleground Republicans have been clamoring for money.",
-   "published": "2026-08-24T20:51:21+00:00",
-   "source": "Politico",
-   "source_id": "politico",
-   "bias_note": "center",
-   "first_seen": "2026-08-29T21:14:43.102472+00:00"
-  },
-  {
-   "id": "abd4e8efa8a942a7",
-   "title": "Presidential Message on National Park Week",
-   "url": "https://www.whitehouse.gov/briefings-statements/2026/08/presidential-message-on-national-park-week/",
-   "summary": "America\u2019s vast and wondrous national parks stand at the heart of our story, preserving the lands our ancestors cherished and the unmatched splendor of a continent like no other.&#160; During National Park Week, we celebrate the rich cultural heritage, grandeur, and exceptionalism found in the more than 400 national parks and monuments across our land. [&#8230;]\nThe post Presidential Message on National Park Week appeared first on The White House.",
-   "published": "2026-08-24T19:17:02+00:00",
-   "source": "WhiteHouse.gov News",
-   "source_id": "whitehouse",
-   "bias_note": "official/primary-source",
-   "first_seen": "2026-08-29T21:14:42.361534+00:00"
-  },
-  {
-   "id": "55101b0fec02fc57",
-   "title": "Operation Economic Outcast: Total Isolation of the Iranian Regime",
-   "url": "https://www.whitehouse.gov/releases/2026/08/operation-economic-outcast-total-isolation-of-the-iranian-regime/",
-   "summary": "Today, the Trump Administration unleashed Operation Economic Outcast, an unprecedented campaign to sever every remaining economic lifeline sustaining the Islamic Republic of Iran. After President Trump and the overwhelming might of the U.S. military dismantled Iran\u2019s military capabilities and crippled its nuclear program, America is entering the endgame with the single greatest financial offensive ever [&#8230;]\nThe post Operation Economic Outcast: Total Isolation of the Iranian Regime appeared first on The White House.",
-   "published": "2026-08-24T19:15:08+00:00",
-   "source": "WhiteHouse.gov News",
-   "source_id": "whitehouse",
-   "bias_note": "official/primary-source",
-   "first_seen": "2026-08-29T21:14:42.361534+00:00"
   }
  ]
 }
