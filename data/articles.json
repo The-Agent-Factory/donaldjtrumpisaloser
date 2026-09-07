@@ -1,7 +1,84 @@
 {
- "updated": "2026-09-07T12:41:43.179297+00:00",
- "count": 621,
+ "updated": "2026-09-07T16:19:03.617959+00:00",
+ "count": 628,
  "articles": [
+  {
+   "id": "b9691f3bacbe7b1a",
+   "title": "Labor Day, 2026",
+   "url": "https://www.whitehouse.gov/presidential-actions/2026/09/labor-day-2026/",
+   "summary": "By the President of the United States of America A Proclamation This Labor Day, we recognize the hard work, dedication, and unwavering commitment of the American worker.&#160; Their inspiring skill and unbreakable spirit have propelled our country forward for generations.&#160; Their strength built our cities, their genius launched and sustained our most advanced industries, and [&#8230;]\nThe post Labor Day, 2026 appeared first on The White House.",
+   "published": "2026-09-07T16:05:01+00:00",
+   "source": "WhiteHouse.gov Presidential Actions",
+   "source_id": "whitehouse-actions",
+   "bias_note": "official/primary-source",
+   "first_seen": "2026-09-07T16:19:01.529173+00:00"
+  },
+  {
+   "id": "d177e6e630ad02df",
+   "title": "Trump\u2019s DC makeover: What to know",
+   "url": "https://thehill.com/homenews/administration/6072139-trump-dc-beautification-projects/",
+   "summary": "The Supreme Court last week cleared the way for President Trump to continue construction of a massive ballroom replacing the White House\u2019s East Wing, removing a major legal hurdle for one of his several beautification projects around Washington, D.C. Since returning to office for a second term, Trump has launched a sweeping campaign to transform...",
+   "published": "2026-09-07T16:00:00+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-07T16:19:02.519571+00:00"
+  },
+  {
+   "id": "28d3c18f1d249ed6",
+   "title": "Where is 'King of Debt' Trump when we need him on the national debt?",
+   "url": "https://thehill.com/opinion/white-house/6072093-trump-king-debt-40-trillion/",
+   "summary": "The United States is now well beyond responsible management of the debt, and my party has lost its willingness to recommend the hard choices needed to control it.",
+   "published": "2026-09-07T16:00:00+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-07T16:19:02.519615+00:00"
+  },
+  {
+   "id": "1e8f4b8fa91b8a55",
+   "title": "It's\u00a0a tough time\u00a0for unions in the age of Trump \u2014 cities and states can help",
+   "url": "https://thehill.com/opinion/white-house/6071536-protecting-labor-rights/",
+   "summary": "Say\u00a0yes\u00a0to Labor Day picnics and barbeques and parades. But also\u00a0say\u00a0yes\u00a0to\u00a0building more and stronger unions.",
+   "published": "2026-09-07T15:00:00+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-07T16:19:02.519649+00:00"
+  },
+  {
+   "id": "ae33586251a5cf2d",
+   "title": "New Mexico governor rips Trump's 'New America' post, says name 'isn't up for debate'",
+   "url": "https://thehill.com/homenews/state-watch/6074788-lujan-grisham-slams-trump-new-america/",
+   "summary": "New Mexico Gov. Michelle Lujan Grisham (D) slammed President Trump\u2019s recent post where he shared a map showing her state renamed as \"New America.\" \u201cNew Mexico\u2019s name isn\u2019t up for debate \u2014 it\u2019s been ours since before the United States existed. What is up for debate? Who\u2019s showing up for working families,\u201d Lujan Grisham said...",
+   "published": "2026-09-07T13:30:51+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-07T16:19:02.519679+00:00"
+  },
+  {
+   "id": "35d74a1b28693396",
+   "title": "UN agency accused of Hamas ties sees another European nation cut funding",
+   "url": "https://www.foxnews.com/world/un-agency-accused-hamas-ties-sees-another-european-nation-cut-funding",
+   "summary": "Finland will discontinue UNRWA funding by end of 2026, following the Trump administration and Sweden in cutting ties with the Hamas-linked U.N. agency.",
+   "published": "2026-09-07T12:46:51+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-07T16:19:01.061623+00:00"
+  },
+  {
+   "id": "b506adb41828c367",
+   "title": "Live updates: Canadian retaliatory tariffs loom; Big Tech opposition grows as midterms approach",
+   "url": "https://thehill.com/homenews/administration/6074261-live-canadian-tariffs-loom-us-iran-strikes/",
+   "summary": "Monday is the last day before Canada's \"dollar for dollar\" retaliatory tariffs are set to go into effect, two weeks after President Trump put 50 percent levies on $27.6 billion worth of Canadian products. There have not been reports of renewed negotiations between the two countries. \u201cCanada\u2019s Dollar imbalance with the U.S. is unacceptable,\u201d Trump...",
+   "published": "2026-09-07T12:29:27+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-07T16:19:02.519717+00:00"
+  },
   {
    "id": "61f246e99846ca91",
    "title": "Legal veterans lead fightback against Trump\u2019s \u2018full-out assault on democracy\u2019",
