@@ -1,7 +1,117 @@
 {
- "updated": "2026-09-08T14:58:48.632629+00:00",
- "count": 656,
+ "updated": "2026-09-08T16:42:01.344797+00:00",
+ "count": 665,
  "articles": [
+  {
+   "id": "a124101f394e7d6c",
+   "title": "Live updates: Canadian tariffs take effect as Trump threatens Bombardier in growing trade war",
+   "url": "https://thehill.com/homenews/administration/6075462-live-updates-trump-canada-tariffs-rnc-midterm-convention/",
+   "summary": "Canada's retaliatory tariffs against the U.S. went into effect at midnight Tuesday, affecting hundreds of goods, including steel and aluminum, appliances and electronics and wood, pulp and paper products. There are no reports of negotiations between the two countries. The Trump administration levied 50 percent tariffs on $27.6 billion worth of Canadian goods two weeks...",
+   "published": "2026-09-08T16:32:16+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-08T16:42:00.302558+00:00"
+  },
+  {
+   "id": "4b14813923e747d4",
+   "title": "Gavin Newsom on Democrats, Trump and 2028",
+   "url": "https://www.pbs.org/newshour/podcasts/settle-in-with-pbs-news/gavin-newsom-on-democrats-trump-and-2028",
+   "summary": "California Gov. Gavin Newsom thinks Democrats took their eyes off the ball on state-level races. Now, he's campaigning across the South to drive turnout in states where Republicans have tried to redraw congressional maps. In this episode of \"Settle In,\" recorded during a recent visit to South Carolina, Newsom talks to Amna Nawaz about what Democrats need to compete in rural America and what he's considering as he weighs a presidential campaign in 2028.",
+   "published": "2026-09-08T16:16:00+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-09-08T16:42:00.604240+00:00"
+  },
+  {
+   "id": "76d7da4ab6174ccb",
+   "title": "DHS asks Supreme Court to reinstate overhauled immigration tool for midterms",
+   "url": "https://thehill.com/regulation/court-battles/6076539-administration-seeks-election-verification-restore/",
+   "summary": "The Trump administration urged the Supreme Court on Tuesday to restore\u00a0the Department of Homeland Security\u2019s (DHS) overhauled\u00a0immigration verification system in time for the midterm elections.\u00a0 \u201cThe district court has issued an indefensible order that threatens the integrity of upcoming elections,\u201d Solicitor General D. John Sauer wrote.\u00a0 DHS\u2019s Systematic Alien Verification for Entitlements (SAVE) is used...",
+   "published": "2026-09-08T16:11:48+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-08T16:42:00.302594+00:00"
+  },
+  {
+   "id": "4cf8d512fe0bc7c6",
+   "title": "Republican strategist knocks Trump for not spending more on GOP candidates",
+   "url": "https://thehill.com/homenews/campaign/6076508-gop-strategist-doug-heye-donald-trump-republican-campaign-spending/",
+   "summary": "Republican strategist Doug Heye slammed President Trump on Monday for not directing more funding from his super PAC to a variety of GOP campaigns as the Republican Party fights to maintain its control of Congress this fall.\u00a0 Heye, a former communications director for the Republican National Committee (RNC), told CNN\u2019s Kaitlan Collins that the GOP\u2019s...",
+   "published": "2026-09-08T16:09:09+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-08T16:42:00.302598+00:00"
+  },
+  {
+   "id": "f8be22edc9779ce2",
+   "title": "Trump economists say the most unbelievable things",
+   "url": "https://thehill.com/opinion/finance/6075091-trump-debt-growth-plan/",
+   "summary": "Author Merrill Matthews argues that the Trump administration's claim that economic growth can offset the $40 trillion federal debt is dishonest, citing a GAO report that projects debt will grow more than twice as fast as the economy over the next decade.",
+   "published": "2026-09-08T16:00:00+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-08T16:42:00.302601+00:00"
+  },
+  {
+   "id": "c2cbe4aae57a4cef",
+   "title": "Live Results: New Hampshire midterm primaries",
+   "url": "https://www.pbs.org/newshour/politics/live-results-new-hampshire-midterm-primaries",
+   "summary": "The race to replace retiring three-term Democratic Sen. Jeanne Shaheen is one of a handful across the country that could determine control of the U.S. Senate for the second half of President Donald Trump's final term.",
+   "published": "2026-09-08T15:50:59+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-09-08T16:42:00.604251+00:00"
+  },
+  {
+   "id": "8b652f0265db1240",
+   "title": "Former GOP rep: Trump's 'bizarre' New Mexico post is 'hurting his own team'",
+   "url": "https://thehill.com/homenews/administration/6076169-charles-dent-donald-trump-ai-posts-new-mexico-maps/",
+   "summary": "Former Republican Rep. Charlie Dent (Pa.) on Monday called President Trump's social media posts referring to New Mexico as \"New America\" \"bizarre\" and accused him of \"hurting his own team\" ahead of the midterms. MS NOW's Peter Alexander asked Dent on \"State of Play\" about the president's latest posts, including an AI-generated map with the...",
+   "published": "2026-09-08T15:50:32+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-08T16:42:00.302603+00:00"
+  },
+  {
+   "id": "9e179ae31256130c",
+   "title": "Trump posthumously awards Medal of Freedom to 9/11's 'man in red bandana'",
+   "url": "https://www.foxnews.com/politics/trump-posthumously-awards-medal-freedom-9-11s-man-red-bandana",
+   "summary": "President Donald Trump awards the Presidential Medal of Freedom posthumously to Welles Crowther, the heroic &quot;man in the red bandana&quot; who saved up to 18 lives during the September 11 attacks.",
+   "published": "2026-09-08T15:37:05+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-08T16:41:59.096853+00:00"
+  },
+  {
+   "id": "b3eaeb51799d120b",
+   "title": "GOP senator defends Bombardier after Trump threat",
+   "url": "https://thehill.com/homenews/senate/6076339-moran-defends-bombardier-trump-canada-tariffs/",
+   "summary": "Sen. Jerry Moran (R-Kan.) is defending private jet maker Bombardier from growing pressure from President Trump, who on Monday declared the Canadian aerospace company would no longer be able to sell planes in the United States. Moran, the senior Republican senator from Kansas, pointed out that Bombardier is a major employer in his home state,...",
+   "published": "2026-09-08T15:00:36+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-08T16:42:00.302624+00:00"
+  },
+  {
+   "id": "c586a35e1e279e61",
+   "title": "Trump\u2019s call to rename New Mexico \u2018New America\u2019 is a distraction tactic, Democrats say",
+   "url": "https://www.theguardian.com/us-news/2026/sep/08/trump-new-mexico-rename-democrats",
+   "summary": "Amid unpopular Iran war and persistent inflation, governor says state has had its name since before US existedDemocrats have hit back against Donald Trump\u2019s suggestion that the state of New Mexico should be renamed \u201cNew America\u201d, accusing the US president of trying to distract from his war on Iran and rising prices.The administration moved to rename the Gulf of Mexico as the \u201cGulf of America\u201d hours after Trump\u2019s return to office in January 2025. In August, as trade tensions escalated between the US and Canada, it moved to do the same with Lake Ontario, moving to rename it as \u201cLake America\u201d. Co",
+   "published": "2026-09-08T14:59:21+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-09-08T16:42:00.032353+00:00"
+  },
   {
    "id": "57748b28eeb4dc44",
    "title": "Trump-Carney AI hockey video stirs anger while racking up views",
@@ -7206,17 +7316,6 @@
    "source_id": "whitehouse",
    "bias_note": "official/primary-source",
    "first_seen": "2026-08-29T21:14:42.361532+00:00"
-  },
-  {
-   "id": "7e44b1bc51f2401b",
-   "title": "Top Commanders Told Hegseth Not to Cut Civilian Protection Program, Poll Showed. He Did It Anyway.",
-   "url": "https://www.propublica.org/article/hegseth-civilian-harm-mitigation-response-trump-defense-department",
-   "summary": "The post Top Commanders Told Hegseth Not to Cut Civilian Protection Program, Poll Showed. He Did It Anyway. appeared first on ProPublica.",
-   "published": "2026-08-25T15:05:00+00:00",
-   "source": "ProPublica",
-   "source_id": "propublica",
-   "bias_note": "investigative",
-   "first_seen": "2026-08-29T21:14:43.675242+00:00"
   }
  ]
 }
