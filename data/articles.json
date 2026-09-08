@@ -1,7 +1,84 @@
 {
- "updated": "2026-09-07T22:52:20.149257+00:00",
- "count": 634,
+ "updated": "2026-09-08T04:44:37.929319+00:00",
+ "count": 640,
  "articles": [
+  {
+   "id": "13c0149fb0c2c5c9",
+   "title": "Russian strikes continue following visit by Witkoff and Kushner to Kyiv",
+   "url": "https://www.foxnews.com/world/russian-strikes-continue-following-visit-witkoff-kushner-kyiv",
+   "summary": "Russia launched ballistic and cruise missiles at Kyiv shortly after envoys Steve Witkoff and Jared Kushner&apos;s visit to the city for peace negotiations.",
+   "published": "2026-09-08T04:25:39+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-08T04:44:36.191831+00:00"
+  },
+  {
+   "id": "670c39143b26acc2",
+   "title": "UK moves to sanction Israeli settlements as PM Burnham risks clash with Trump: report",
+   "url": "https://www.foxnews.com/world/uk-moves-sanction-israeli-settlements-pm-burnham-risks-clash-trump-report",
+   "summary": "Andy Burnham&apos;s UK sanctions targeting Israeli West Bank settlements spark fierce backlash from Benjamin Netanyahu&apos;s ministers and U.S. lawmakers.",
+   "published": "2026-09-08T01:58:28+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-08T04:44:36.191840+00:00"
+  },
+  {
+   "id": "48ad8fb1db5a0c3a",
+   "title": "Worker injured during White House construction rescued by emergency crew",
+   "url": "https://thehill.com/homenews/administration/6075446-worker-rescued-white-house-scaffolding/",
+   "summary": "An emergency crew rescued a construction worker from high up in scaffolding on the White House North Portico on Monday afternoon, responding to a dispatch saying that a worker had been injured.\u00a0 The worker was put into a stretcher and ambulance, which then went to the hospital, according to the Washington Post. The White House did...",
+   "published": "2026-09-08T01:54:41+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-08T04:44:37.114510+00:00"
+  },
+  {
+   "id": "b2332a85bb0b2bc1",
+   "title": "Hunter Biden to launch crypto meme coin",
+   "url": "https://thehill.com/policy/technology/6075409-hunter-biden-laptop-meme-coin/",
+   "summary": "Hunter Biden, son of former President Joe Biden, announced Monday that he\u2019s debuting a meme coin, traded under the ticker $LAPTOP, in reference to the political controversy that swarmed him in 2020 and since over his personal laptop. Biden teased the launch, first reported by the Wall Street Journal, with a video that compiled clips of news outlets...",
+   "published": "2026-09-08T01:11:46+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-08T04:44:37.114529+00:00"
+  },
+  {
+   "id": "dc2cfd96a611a689",
+   "title": "Rudy Giuliani urges Mamdani to not attend 9/11 anniversary",
+   "url": "https://thehill.com/homenews/state-watch/6075377-giuliani-criticizes-mamdani-911/",
+   "summary": "Rudy Giuliani, the former mayor of New York City who later worked as President Trump\u2019s personal lawyer, publicly criticized current Mayor Zohran Mamdani for planning to attend a 9/11 commemoration ceremony at Ground Zero on Friday. \u201cFrankly, whatever he\u2019d like to say, he doesn\u2019t agree that September 11th was an Islamic terrorist attack on the...",
+   "published": "2026-09-07T23:14:13+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-08T04:44:37.114535+00:00"
+  },
+  {
+   "id": "0639f433212458d2",
+   "title": "Gavin Newsom on how to beat the GOP: 'Democrats need to grow a backbone'",
+   "url": "https://www.pbs.org/newshour/show/gavin-newsom-on-how-to-beat-the-gop-democrats-need-to-grow-a-backbone",
+   "summary": "As California's governor, Gavin Newsom has become one of the Democratic Party's most vocal critics of President Trump. As speculation swirls around Newsom's own potential presidential bid, he's on the road and raising money to get more Democrats elected at the state level, where he says his party took its eye off the ball. Amna Nawaz caught up with  Newsom in North and South Carolina.",
+   "published": "2026-09-07T22:40:33+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-09-08T04:44:37.492928+00:00"
+  },
+  {
+   "id": "c6067092b61cfeed",
+   "title": "Tamara Keith and Amy Walter on GOP's midterm challenges",
+   "url": "https://www.pbs.org/newshour/show/tamara-keith-and-amy-walter-on-gops-midterm-challenges",
+   "summary": "NPR's Tamara Keith and Amy Walter of the Cook Political Report with Amy Walter join Geoff Bennett to discuss the latest political news, including Gov. Gavin Newsom's apparent efforts to get a jump on the 2028 presidential race, the Republicans holding a midterm convention and how President Trump's low approval rating is impacting GOP campaigns.",
+   "published": "2026-09-07T22:35:03+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-09-08T04:44:37.492934+00:00"
+  },
   {
    "id": "d975439ec8dcd1e0",
    "title": "Trump posts updates about his DC \u2018beautification\u2019 projects",
@@ -6964,17 +7041,6 @@
    "source_id": "abc-politics",
    "bias_note": "center",
    "first_seen": "2026-08-30T00:23:51.246224+00:00"
-  },
-  {
-   "id": "dd5b890b7001be1f",
-   "title": "Presidential Message on Overdose and Drug Poisoning Awareness Week",
-   "url": "https://www.whitehouse.gov/briefings-statements/2026/08/presidential-message-on-overdose-and-drug-poisoning-awareness-week/",
-   "summary": "During Overdose and Drug Poisoning Awareness Week, our Nation renews its resolve to defeat the scourge of illicit drugs and synthetic poisons that have devastated hundreds of thousands of American lives.&#160; My Administration is relentlessly confronting this threat at every source, and we will always put our national security and the safety, health, and well-being [&#8230;]\nThe post Presidential Message on Overdose and Drug Poisoning Awareness Week appeared first on The White House.",
-   "published": "2026-08-25T02:00:00+00:00",
-   "source": "WhiteHouse.gov News",
-   "source_id": "whitehouse",
-   "bias_note": "official/primary-source",
-   "first_seen": "2026-08-29T21:14:42.361532+00:00"
   }
  ]
 }
