@@ -1,7 +1,227 @@
 {
- "updated": "2026-09-08T16:42:01.344797+00:00",
- "count": 665,
+ "updated": "2026-09-08T21:13:23.274044+00:00",
+ "count": 683,
  "articles": [
+  {
+   "id": "eff52c8680ca8dd0",
+   "title": "Former Obama aides joke about Trump being stopped by heart disease or old age",
+   "url": "https://www.foxnews.com/media/former-obama-aides-joke-about-trump-being-stopped-heart-disease-old-age",
+   "summary": "Former Obama aides on &quot;Pod Save America&quot; appeared to joke about heart disease and time catching up to President Donald Trump, sparking fierce backlash.",
+   "published": "2026-09-08T20:53:28+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-08T21:13:21.878059+00:00"
+  },
+  {
+   "id": "2b016432a70dcb95",
+   "title": "Fact-checking Trump's stories about his own 9/11 response",
+   "url": "https://www.pbs.org/newshour/politics/fact-checking-trumps-stories-about-his-own-9-11-response",
+   "summary": "President Donald Trump recounted his response to the Sept. 11, 2001, attacks in an interview and event leading up to the 25th anniversary this week, repeating statements that lack evidence about aiding in the recovery.",
+   "published": "2026-09-08T20:44:33+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-09-08T21:13:22.543009+00:00"
+  },
+  {
+   "id": "a247bea50a84ed63",
+   "title": "Trump\u2019s push for film tax credit finds receptive audience in Democrats",
+   "url": "https://thehill.com/homenews/administration/6076992-trump-federal-film-tax-credit-democrats-support/",
+   "summary": "President Trump\u2019s push for a federal tax credit to help keep more film and television production in the United States has been met with open arms from Democratic lawmakers, industry officials and entertainment experts, giving the president a rare chance for a bipartisan win.  Trump made the push for the credits last week after meeting...",
+   "published": "2026-09-08T20:39:37+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-08T21:13:22.314331+00:00"
+  },
+  {
+   "id": "fa29487ea4c282fd",
+   "title": "Canada's tariffs take effect",
+   "url": "https://thehill.com/newsletters/business-economy/6077332-canadas-tariffs-take-effect/",
+   "summary": "Welcome to The Hill's Business &#038; Economy newsletter {beacon} Business &#038; Economy Business &#038; Economy &#8202; The Big Story  Canada's tariffs take effect Canada\u2019s retaliatory tariffs on $27.6 billion in American products took effect on Tuesday, marking the latest escalation in an ongoing trade fight between the U.S. and its northern neighbor.  \u00a9 Ethan Cairns,...",
+   "published": "2026-09-08T20:28:06+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-08T21:13:22.314354+00:00"
+  },
+  {
+   "id": "856003d567211a7f",
+   "title": "Sapporo to move some beer production from Canada to US after tariffs",
+   "url": "https://thehill.com/business/6077248-sapporo-moves-production-us-canada/",
+   "summary": "Japanese brewing company Sapporo said Monday it will shift some of its production from Canada to the U.S. in the wake of the Trump administration\u2019s new tariffs on Canadian beer. Last month, President Trump implemented 50 percent levies on Canadian alcoholic products like beer and wine, in addition to a wide variety of other imported...",
+   "published": "2026-09-08T20:05:22+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-08T21:13:22.314370+00:00"
+  },
+  {
+   "id": "8507c2463c0a71d6",
+   "title": "Veterans group launches new campaign against Trump\u2019s planned arch",
+   "url": "https://thehill.com/policy/defense/6077266-votevets-trump-great-triumphal-arch-arlington-national-cemetery/",
+   "summary": "VoteVets, the largest Democratic veterans group in the U.S., on Tuesday launched a new messaging campaign against President Trump\u2019s planned arch across from Arlington National Cemetery. Paul Eaton, a retired major general and VoteVets adviser, argued in a video posted to social media that the project is \u201centirely inappropriate and borders on sacrilege to the...",
+   "published": "2026-09-08T20:04:17+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-08T21:13:22.314376+00:00"
+  },
+  {
+   "id": "acc3561e4545acca",
+   "title": "'The View' co-host demands 25th Amendment be used against Trump, suggests Cabinet could do it after midterms",
+   "url": "https://www.foxnews.com/media/the-view-co-host-demands-25th-amendment-used-against-trump-suggests-cabinet-could-do-it-after-midterms",
+   "summary": "Sunny Hostin raised invoking the 25th Amendment against President Donald Trump on &quot;The View,&quot; speculating the Cabinet could act if Republicans lose the House and Senate.",
+   "published": "2026-09-08T19:52:15+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-08T21:13:21.878130+00:00"
+  },
+  {
+   "id": "7a634b6730963123",
+   "title": "Trump's unusual role at midterm convention revealed as schedule goes public",
+   "url": "https://www.foxnews.com/politics/trumps-unusual-role-midterm-convention",
+   "summary": "Trump headlines both nights of the RNC&apos;s first-ever GOP midterm convention in Dallas, with JD Vance delivering the Thursday keynote speech.",
+   "published": "2026-09-08T19:45:41+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-08T21:13:21.839100+00:00"
+  },
+  {
+   "id": "e10a25bdd0801fca",
+   "title": "Virginia county to pay up to $2K to families with primary wage earner detained by ICE",
+   "url": "https://www.foxnews.com/us/virginia-county-pay-2k-families-primary-wage-earner-detained-ice",
+   "summary": "Arlington County approved $50,000 to support immigrant families whose primary wage earner has been detained amid Trump administration enforcement efforts.",
+   "published": "2026-09-08T19:43:37+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-08T21:13:21.878135+00:00"
+  },
+  {
+   "id": "79bb2b25243ae25c",
+   "title": "WATCH: Trump remembers 9/11 victims and heroes at Steel Across America anniversary event",
+   "url": "https://www.pbs.org/newshour/politics/watch-trump-remembers-9-11-victims-and-heroes-at-steel-across-america-anniversary-event",
+   "summary": "Nearly a quarter century after a day \"etched forever into the memories of Americans,\" President Donald Trump honored the victims of the Sept. 11, 2001, attacks on Tuesday by vowing to \"never forget.\"",
+   "published": "2026-09-08T19:39:27+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-09-08T21:13:22.543019+00:00"
+  },
+  {
+   "id": "516c74091830ae00",
+   "title": "Carney: Canada relied 'too much' on 'easy' economic ties with US",
+   "url": "https://thehill.com/business/6077085-mark-carney-canada-u-s-easy-ties/",
+   "summary": "Canadian Prime Minister Mark Carney said Tuesday his country has overrelied on \"easy\" economic ties to the U.S., a take he shared as his retaliatory tariffs on American goods went into effect. \u201cThe past 40 years has been a period of deeper economic integration with the United States. Truth is, it was easy business, but...",
+   "published": "2026-09-08T19:17:35+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-08T21:13:22.314384+00:00"
+  },
+  {
+   "id": "b10caa2c661a6811",
+   "title": "'South Park' jabs Trump after Emmy win, changes name to 'South America'",
+   "url": "https://thehill.com/blogs/in-the-know/6077111-south-park-renaming-trump-south-america/",
+   "summary": "The animated show \u201cSouth Park\u201d said Tuesday that the program's name will be changed to \u201cSouth America\u201d amid similar renaming efforts by President Trump. \u201cInspired by the bravery and patriotism of Apple and Google, we are changing the name of South Park to SOUTH AMERICA,\u201d co-creators Trey Parker and Matt Stone said in a statement...",
+   "published": "2026-09-08T19:14:22+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-08T21:13:22.314408+00:00"
+  },
+  {
+   "id": "f18eed452fbdbb2a",
+   "title": "Fact Sheet: President Donald J. Trump Accelerates Veterans\u2019 Access to Benefits and Employment Opportunities",
+   "url": "https://www.whitehouse.gov/fact-sheets/2026/09/fact-sheet-president-donald-j-trump-accelerates-veterans-access-to-benefits-and-employment-opportunities/",
+   "summary": "EXPANDING ACCESS AND CREATING OPPORTUNITY:&#160;Today, President Donald J. Trump signed an Executive Order to modernize data management and data sharing between the Departments of War and Veterans Affairs in order to expedite veterans\u2019 access to benefits.&#160;&#160; REMOVING ANTIQUATED SYSTEM BARRIERS TO DELIVER RESULTS:&#160;President Trump is removing the inefficiencies and delays that hinder our service members [&#8230;]\nThe post Fact Sheet: President Donald J. Trump Accelerates Veterans\u2019 Access to Benefits and Employment Opportunities appeared first on The White House.",
+   "published": "2026-09-08T19:02:42+00:00",
+   "source": "WhiteHouse.gov News",
+   "source_id": "whitehouse",
+   "bias_note": "official/primary-source",
+   "first_seen": "2026-09-08T21:13:21.956493+00:00"
+  },
+  {
+   "id": "8bd96d61bcbbffd3",
+   "title": "Accelerating Access To Veterans\u2019 Benefits And Employment Opportunities",
+   "url": "https://www.whitehouse.gov/presidential-actions/2026/09/accelerating-access-to-veterans-benefits-and-employment-opportunities/",
+   "summary": "By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered: Section 1. \u00a0Purpose and Policy. \u00a0Millions of brave men and women have served in our Armed Forces with courage, commitment, and sacrifice, guaranteeing our security, prosperity, and freedom. \u00a0These veterans deserve [&#8230;]\nThe post Accelerating Access To Veterans&#8217; Benefits And Employment Opportunities appeared first on The White House.",
+   "published": "2026-09-08T19:00:01+00:00",
+   "source": "WhiteHouse.gov News",
+   "source_id": "whitehouse",
+   "bias_note": "official/primary-source",
+   "first_seen": "2026-09-08T21:13:21.956499+00:00"
+  },
+  {
+   "id": "be2bf076ea8bd35d",
+   "title": "Adjusting Certain Delegations Under the Defense Production Act",
+   "url": "https://www.whitehouse.gov/presidential-actions/2026/09/adjusting-certain-delegations-under-the-defense-production-act-e2de/",
+   "summary": "By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered: Section 1. \u00a0Purpose. \u00a0This order amends Executive Order\u00a013603 of March 16, 2012 (National Defense Resources Preparedness), as amended by Executive Order 14391 of March 13, 2026 (Adjusting Certain Delegations Under the [&#8230;]\nThe post Adjusting Certain Delegations Under the Defense Production Act appeared first on The White House.",
+   "published": "2026-09-08T18:52:09+00:00",
+   "source": "WhiteHouse.gov News",
+   "source_id": "whitehouse",
+   "bias_note": "official/primary-source",
+   "first_seen": "2026-09-08T21:13:21.956501+00:00"
+  },
+  {
+   "id": "75dc9b255a1ed698",
+   "title": "Major blue state hospital pulls plug on controversial child transgender treatments after DOJ intervention",
+   "url": "https://www.foxnews.com/politics/major-blue-state-hospital-pulls-plug-controversial-child-transgender-treatments-after-doj-intervention",
+   "summary": "Mount Sinai, one of New York City&apos;s largest hospitals, agreed to stop sex reassignment procedures for minors and allocate $2 million for patient care.",
+   "published": "2026-09-08T18:32:58+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-08T21:13:21.839116+00:00"
+  },
+  {
+   "id": "c8549675122c1a41",
+   "title": "South Park changes name to South America in response to Trump changes",
+   "url": "https://www.theguardian.com/tv-and-radio/2026/sep/08/south-park-changes-name-to-south-america-trump",
+   "summary": "Satirical program\u2019s new title is \u2018inspired by bravery and patriotism\u2019 of Apple and Google, who capitulated to Trump\u2019s requests to change Lake Ontario to \u2018Lake America\u2019In light of Donald Trump\u2019s attempts to rename a gulf, lakes and even states after \u201cAmerica\u201d, South Park, the animated satirical program that has long skewered those in power, has announced an official name change. For its 29th season, the Comedy Central series will be known as \u201cSouth America\u201d.\u201cInspired by the bravery and patriotism of Apple and Google, we are changing the name of South Park to SOUTH AMERICA,\u201d creators Matt Stone ",
+   "published": "2026-09-08T18:21:11+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-09-08T21:13:22.187815+00:00"
+  },
+  {
+   "id": "b8129f5e12bfdb77",
+   "title": "President Trump Honors 9/11 Heroes and Renews America\u2019s Vow to Never Forget",
+   "url": "https://www.whitehouse.gov/releases/2026/09/president-trump-honors-9-11-heroes-and-renews-americas-vow-to-never-forget/",
+   "summary": "Today, President Donald J. Trump stood with first responders, Gold Star families, and the Tunnel to Towers Foundation to honor the Americans who ran toward the fire on September 11, 2001. At his side was a 21-foot steel beam recovered from the wreckage of the South Tower \u2014 carried more than 10,500 miles on Tunnel [&#8230;]\nThe post President Trump Honors 9/11 Heroes and Renews America\u2019s Vow to Never Forget appeared first on The White House.",
+   "published": "2026-09-08T18:11:32+00:00",
+   "source": "WhiteHouse.gov News",
+   "source_id": "whitehouse",
+   "bias_note": "official/primary-source",
+   "first_seen": "2026-09-08T21:13:21.956503+00:00"
+  },
+  {
+   "id": "1c53ea95c11b70c3",
+   "title": "Trump renames places and poses as superhero in bizarre social media blitz",
+   "url": "https://www.theguardian.com/us-news/2026/sep/08/trump-labor-day-weekend-posts",
+   "summary": "Trump passed the long weekend posting a torrent of memes and musings on his Truth Social platformThe long weekend may have proved too long for Donald Trump, who passed the time by musing about annexing other countries, unilaterally renaming places he\u2019s not allowed to rename and turning himself into a superhero.Amid the torrent of memes and posts by the president on his Truth Social platform over the Labor Day holiday weekend was a bizarre AI-generated video depicting Trump as the Green Lantern DC superhero, wielding a glowing green power ring to erect his border wall, illuminate an \u201cAmerican m",
+   "published": "2026-09-08T17:12:48+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-09-08T21:13:22.187860+00:00"
+  },
+  {
+   "id": "08f0157f50101d7b",
+   "title": "Lonnie Bunch to retire from Smithsonian leadership following Trump administration clash",
+   "url": "https://www.pbs.org/newshour/politics/lonnie-bunch-to-retire-from-smithsonian-leadership-following-trump-administration-clash",
+   "summary": "Bunch is stepping down from the leadership of the Smithsonian Institution following a tumultuous year in which President Donald Trump tried to remake the portrayal of U.S. history by the Smithsonian museums and other cultural entities.",
+   "published": "2026-09-08T17:02:50+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-09-08T21:13:22.543035+00:00"
+  },
   {
    "id": "a124101f394e7d6c",
    "title": "Live updates: Canadian tariffs take effect as Trump threatens Bombardier in growing trade war",
@@ -7294,28 +7514,6 @@
    "source_id": "abc-politics",
    "bias_note": "center",
    "first_seen": "2026-08-29T21:14:43.947987+00:00"
-  },
-  {
-   "id": "61dea394b3754c1c",
-   "title": "Honoring the Memory of Dolly Parton",
-   "url": "https://www.whitehouse.gov/presidential-actions/2026/08/honoring-the-memory-of-dolly-parton/",
-   "summary": "BY THE PRESIDENT OF THE UNITED STATES OF AMERICA A PROCLAMATION As a mark of respect for the memory of Dolly Parton, I\u00a0hereby order, by the authority vested in me by the Constitution and the laws of the United\u00a0States of America, that\u00a0the flag of the United\u00a0States shall be flown at half-staff at the White\u00a0House and [&#8230;]\nThe post Honoring the Memory of Dolly Parton appeared first on The White House.",
-   "published": "2026-08-25T20:42:03+00:00",
-   "source": "WhiteHouse.gov News",
-   "source_id": "whitehouse",
-   "bias_note": "official/primary-source",
-   "first_seen": "2026-08-29T21:14:42.361531+00:00"
-  },
-  {
-   "id": "e4ff536caf463097",
-   "title": "President Trump Is Finally Ending Canada\u2019s Free Ride",
-   "url": "https://www.whitehouse.gov/releases/2026/08/president-trump-is-finally-ending-canadas-free-ride/",
-   "summary": "Canada has been ripping off the United States for decades \u2014 and President Donald J. Trump is done letting them get away with it. Last week, the U.S. offered Canada the most preferential market access of any country on Earth, with deep cuts on steel, aluminum, autos, lumber, and more. Instead of partnership, Canada chose [&#8230;]\nThe post President Trump Is Finally Ending Canada\u2019s Free Ride appeared first on The White House.",
-   "published": "2026-08-25T18:19:31+00:00",
-   "source": "WhiteHouse.gov News",
-   "source_id": "whitehouse",
-   "bias_note": "official/primary-source",
-   "first_seen": "2026-08-29T21:14:42.361532+00:00"
   }
  ]
 }
