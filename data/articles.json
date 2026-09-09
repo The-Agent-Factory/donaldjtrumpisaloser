@@ -1,7 +1,227 @@
 {
- "updated": "2026-09-09T17:51:04.330064+00:00",
- "count": 746,
+ "updated": "2026-09-09T20:59:12.358062+00:00",
+ "count": 762,
  "articles": [
+  {
+   "id": "a56447844a5cd774",
+   "title": "Trump snaps at ABC reporter over question on Republicans avoiding GOP convention",
+   "url": "https://thehill.com/homenews/administration/6080068-republicans-skip-midterm-gop-rally/",
+   "summary": "President Trump hit back at a question Thursday over why some Republican candidates were skipping the midterm GOP convention in Dallas, saying there isn\u2019t room for everyone. Trump said, \u201ceverybody wants to come,\u201d to the convention and questioned the reporter, Mary Bruce of ABC, on what outlet she was with. He bashed her outlet before...",
+   "published": "2026-09-09T20:49:00+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-09T20:59:11.364843+00:00"
+  },
+  {
+   "id": "8b834b6eba4b369e",
+   "title": "As midterms approach, new poll finds that few Americans trust campaigns or Trump",
+   "url": "https://www.pbs.org/newshour/politics/as-midterms-approach-new-poll-finds-that-few-americans-trust-campaigns-or-trump",
+   "summary": "Americans are more skeptical of government information than they were a few years ago, with majorities now saying they have little or no trust in federal government information about elections and politics, foreign affairs or the environment, a new poll finds.",
+   "published": "2026-09-09T20:36:53+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-09-09T20:59:11.681034+00:00"
+  },
+  {
+   "id": "c3a3b495270f7bf8",
+   "title": "Republicans kick off unconventional midterm convention in Dallas with Trump speech",
+   "url": "https://www.npr.org/2026/09/09/nx-s1-5963200/republicans-kick-off-unconventional-midterm-convention-in-dallas-with-trump-speech",
+   "summary": "Republicans' first midterm convention, being touted as a \"Trumpapalooza\" by the Republican Party chairman, kicks off in Dallas with a program focused heavily on tax cuts and border security.",
+   "published": "2026-09-09T20:36:20+00:00",
+   "source": "NPR Politics",
+   "source_id": "npr-politics",
+   "bias_note": "center",
+   "first_seen": "2026-09-09T20:59:09.388374+00:00"
+  },
+  {
+   "id": "4640b7c3b8a7abd2",
+   "title": "Trump officials push to exclude undocumented immigrants from US census",
+   "url": "https://www.theguardian.com/us-news/2026/sep/09/trump-census-changes-immigrants",
+   "summary": "Census Bureau also considers race and ethnicity questions in overhaul that would have dramatic effect on voter mapsThe Trump administration on Wednesday proposed changes to the US census intended to exclude immigrants without legal status in addition to other groups, with potentially significant effects on the allocation of federal resources and drawing of districts in the House of Representatives.In a proposed rule published in the Federal Register, the Census Bureau also announced it was considering changes to the data it collects about race and ethnicity, amid the Trump administration\u2019s pus",
+   "published": "2026-09-09T20:32:16+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-09-09T20:59:09.613393+00:00"
+  },
+  {
+   "id": "66248d38371f88fe",
+   "title": "Ukraine strikes deep into Russia\u2019s Arctic gas heartland as Trump pushes Putin toward peace",
+   "url": "https://www.foxnews.com/world/ukraine-strikes-deep-russias-arctic-gas-heartland-trump-pushes-putin-toward-peace",
+   "summary": "Ukrainian drones struck Novy Urengoy, sparking a fire in Russia&apos;s top natural-gas region roughly 1,740 miles from Ukraine&apos;s border in the Arctic.",
+   "published": "2026-09-09T20:23:58+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-09T20:59:08.252063+00:00"
+  },
+  {
+   "id": "b73b323c0a4aa3f6",
+   "title": "Lewandowski pushes back on 'politically driven' Wall Street Journal report",
+   "url": "https://thehill.com/homenews/administration/6079649-lewandowski-wall-street-journal-dhs-report-denial/",
+   "summary": "Former Trump adviser Corey Lewandowski on Tuesday pushed back on a recent Wall Street Journal article alleging he controlled billions of dollars of Department of Homeland Security (DHS) contracts, accusing the news outlet's reporting of being \"politically driven.\" The DHS designated Lewandowski as a \"special government employee\" allowed to carry out private business for the...",
+   "published": "2026-09-09T20:22:38+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-09T20:59:11.364870+00:00"
+  },
+  {
+   "id": "7dd495452bddd75c",
+   "title": "Radical leftist podcaster viciously attacks Melania Trump in graphic curse-laden rant",
+   "url": "https://www.foxnews.com/politics/radical-leftist-podcaster-viciously-attacks-melania-trump-graphic-curse-laden-rant",
+   "summary": "Podcaster Jennifer Welch called first lady Melania Trump &quot;an absolutely horrific person&quot; in a profanity-laden rant targeting the Trump family.",
+   "published": "2026-09-09T20:18:02+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-09T20:59:08.197340+00:00"
+  },
+  {
+   "id": "3153dd9ac9811686",
+   "title": "President Trump Delivers Historic Results for the American People in Under Two Years",
+   "url": "https://www.whitehouse.gov/releases/2026/09/president-trump-delivers-historic-results-for-the-american-people-in-under-two-years/",
+   "summary": "In less than two years, President Donald J. Trump has driven the most consequential stretch of governing in modern American history. He inherited a disaster \u2014 and turned it into a historic comeback. President Trump sealed the border, drove violent crime to historic lows, unleashed American energy, cut taxes for working families, focused Washington on [&#8230;]\nThe post President Trump Delivers Historic Results for the American People in Under Two Years appeared first on The White House.",
+   "published": "2026-09-09T20:14:42+00:00",
+   "source": "WhiteHouse.gov News",
+   "source_id": "whitehouse",
+   "bias_note": "official/primary-source",
+   "first_seen": "2026-09-09T20:59:08.369175+00:00"
+  },
+  {
+   "id": "ec97fcca30a2bf62",
+   "title": "Competing court orders add confusion to Missouri congressional elections",
+   "url": "https://www.pbs.org/newshour/politics/competing-court-orders-add-confusion-to-missouri-congressional-elections",
+   "summary": "Dueling court orders eight weeks before Election Day left Missouri's congressional map uncertain Tuesday as legal wrangling over a redistricting plan backed by President Donald Trump sparked fresh confusion.",
+   "published": "2026-09-09T20:03:34+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-09-09T20:59:11.681039+00:00"
+  },
+  {
+   "id": "7dab05c825c48348",
+   "title": "Watch: The Hill 'Rising' presents live special primetime RNC midterm convention coverage",
+   "url": "https://thehill.com/video-clips/6079432-watch-the-hill-rising-live-primetime-coverage-gop-midterm-convention-dallas/",
+   "summary": "The Hill's\u00a0\"Rising\" takes over primetime, presenting live coverage of the Republican National Committee's (RNC) first midterm convention focused on modern American history Sept. 9-10 from 8:30 p.m. to 10:30 p.m. EDT. The convention, featuring keynote addresses by President Trump and Vice President Vance, is being held at the American Airlines Center in Dallas. Rising's\u00a0coverage will...",
+   "published": "2026-09-09T20:00:00+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-09T20:59:11.364891+00:00"
+  },
+  {
+   "id": "6010c0d09091eb52",
+   "title": "Live fact check: Night 1 of the Republican Midterm Convention",
+   "url": "https://www.pbs.org/newshour/politics/live-fact-check-night-1-of-the-republican-midterm-convention",
+   "summary": "President Donald Trump will appear Wednesday at an unconventional national convention thrown by the Republican Party in Dallas.",
+   "published": "2026-09-09T19:59:42+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-09-09T20:59:11.681041+00:00"
+  },
+  {
+   "id": "a62bdaed536cfcb3",
+   "title": "Trump says he'd consider pardoning Michael Cohen",
+   "url": "https://thehill.com/homenews/administration/6079896-cohen-hush-money-trial-recantation/",
+   "summary": "President Trump said Friday he would consider pardoning attorney Michael Cohen, while complaining about how the legal system treated his former fixer. Trump was asked about whether he would pardon Cohen, who was the star witness in the 2024 New York hush money trial, since he recanted everything he said. \u201cIt was illegal what they...",
+   "published": "2026-09-09T19:55:34+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-09T20:59:11.364898+00:00"
+  },
+  {
+   "id": "216526369466e2f5",
+   "title": "Qatari-gifted Air Force One deploys inflatable slide before departing for GOP convention in Texas",
+   "url": "https://thehill.com/homenews/administration/6079809-trump-air-force-one-slide/",
+   "summary": "An emergency inflatable slide on the Qatari-gifted Air Force One was deployed at Joint Base Andrews before President Trump departed for the Republican midterm convention in Dallas on Wednesday. The slide was inflated onto the tarmac from the door on the right-hand side, opposite the door that Trump usually uses to enter the plane, according...",
+   "published": "2026-09-09T19:41:52+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-09T20:59:11.364902+00:00"
+  },
+  {
+   "id": "370d1c19a0f3fca9",
+   "title": "Appeals court hears bid to curtail access to medication abortion",
+   "url": "https://thehill.com/policy/healthcare/6079744-appeals-court-mifepristone-medication-argument/",
+   "summary": "A federal appeals court Wednesday heard arguments in a case that could eventually wipe out access to medication abortion, even in blue states that protect abortion.  A three-judge panel of the 5th U.S. Circuit Court of Appeals peppered questions on attorneys for Louisiana, the Food and Drug Administration (FDA) and two manufacturers and distributors of...",
+   "published": "2026-09-09T19:36:49+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-09T20:59:11.364906+00:00"
+  },
+  {
+   "id": "bb1a547f7e39e131",
+   "title": "Trump predicts Iran war will end 'immediately after the election'",
+   "url": "https://thehill.com/homenews/administration/6079754-trump-comments-iran-midterms/",
+   "summary": "President Trump said Wednesday he believes the U.S. war with Iran will end \u201cimmediately\u201d after November\u2019s midterm elections. \u201cI think the war is going to end immediately after the election,\u201d Trump told reporters at Joint Base Andrews en route to the Republican midterm convention in Dallas. \u201cThey can\u2019t hold out any longer,\u201d he continued. \u201cThey\u2019re...",
+   "published": "2026-09-09T19:27:52+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-09T20:59:11.364928+00:00"
+  },
+  {
+   "id": "2e11671996a54318",
+   "title": "With AI memes, Trump promotes mythical version of himself as challenges stack up ahead of midterms",
+   "url": "https://www.pbs.org/newshour/politics/with-ai-memes-trump-promotes-mythical-version-of-himself-as-challenges-stack-up-ahead-of-midterms",
+   "summary": "In the real world, President Donald Trump is struggling to stop inflation, rout the Iranian government and restore American manufacturing with tariffs. It's a different story in the fantastical vision that he shares with supporters on social media.",
+   "published": "2026-09-09T19:26:04+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-09-09T20:59:11.681044+00:00"
+  },
+  {
+   "id": "dd84355deec9db1b",
+   "title": "Hunter Biden\u2019s laptop-linked meme coin soars, then falls after market debut",
+   "url": "https://thehill.com/policy/technology/6079738-hunter-biden-laptop-meme-coin-launches/",
+   "summary": "Hunter Biden\u2019s meme coin soared in value Wednesday before its price plummeted hours after the launch.  The $LAPTOP coin quickly surged from $37 to around $222 within its first hour. But the cryptocurrency is trading around $1.36 just after 3 p.m. EDT, according to Coinmarketcap.com, a database tracking cryptocurrency prices.\u00a0 The coin dropped around 95...",
+   "published": "2026-09-09T19:23:54+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-09T20:59:11.364940+00:00"
+  },
+  {
+   "id": "39df8e5c7c9778bb",
+   "title": "Watch live: Trump to headline first GOP midterm convention",
+   "url": "https://thehill.com/video-clips/6079217-watch-live-donald-trump-rnc-midterms-convention-dallas/",
+   "summary": "President Trump will deliver the keynote address Wednesday evening as the Republican National Committee (RNC) kicks off its two-day midterm convention \u2014 the first of its kind \u2014 in Dallas. A slew of other big-name speakers \u2014 including Attorney General Todd Blanche, Centers for Medicare and Medicaid Services Administrator Mehmet Oz, Treasury Secretary Scott Bessent...",
+   "published": "2026-09-09T19:00:00+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-09T20:59:11.364949+00:00"
+  },
+  {
+   "id": "5c340d63417b4407",
+   "title": "Emergency slide sparks questions on Trump\u2019s new Air Force One before president reveals why",
+   "url": "https://www.foxnews.com/politics/emergency-slide-sparks-questions-trumps-new-air-force-one-before-president-reveals-why",
+   "summary": "An emergency slide deployed from the Qatar-gifted Boeing 747 at Joint Base Andrews before Trump explained it was part of a routine safety check.",
+   "published": "2026-09-09T18:45:00+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-09T20:59:08.197355+00:00"
+  },
+  {
+   "id": "d42f40f27fdbba38",
+   "title": "Republicans gather in Dallas for two-day midterm convention billed as 'Trump-a-Palooza'",
+   "url": "https://www.pbs.org/newshour/politics/republicans-gather-in-dallas-for-two-day-midterm-convention-billed-as-trump-a-palooza",
+   "summary": "The highly unusual midterm convention puts President Donald Trump at the center of this fall's midterm elections \u2014 whether the candidates running like it or not.",
+   "published": "2026-09-09T18:07:44+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-09-09T20:59:11.681057+00:00"
+  },
   {
    "id": "c2f1b6f581cb7818",
    "title": "Who won't be at RNC's midterm convention in Dallas",
@@ -8163,50 +8383,6 @@
    "source_id": "whitehouse",
    "bias_note": "official/primary-source",
    "first_seen": "2026-08-29T21:14:42.361526+00:00"
-  },
-  {
-   "id": "b3d3328437de9cd1",
-   "title": "Fact Sheet: President Donald J. Trump Declares a National Emergency to Secure America\u2019s Bulk-Power System",
-   "url": "https://www.whitehouse.gov/fact-sheets/2026/08/fact-sheet-president-donald-j-trump-declares-a-national-emergency-to-secure-americas-bulk-power-system/",
-   "summary": "SECURING AMERICA\u2019S BULK-POWER SYSTEM:&#160;Today,&#160;President Donald J. Trump&#160;signed an Executive Order to protect the security, integrity, and reliability of bulk-power system electric equipment used in the United States, particularly from interference by foreign actors. PREVENTING FOREIGN ACTORS FROM CRIPPLING CRITICAL INFRASTRUCTURE:&#160;President Trump is taking steps to eliminate supply chain vulnerabilities while ensuring abundant, reliable electricity. SECURING [&#8230;]\nThe post Fact Sheet: President Donald J. Trump Declares a National Emergency to Secure America\u2019s Bulk-Power ",
-   "published": "2026-08-26T19:59:27+00:00",
-   "source": "WhiteHouse.gov News",
-   "source_id": "whitehouse",
-   "bias_note": "official/primary-source",
-   "first_seen": "2026-08-29T21:14:42.361526+00:00"
-  },
-  {
-   "id": "88e3545e63effcdf",
-   "title": "Declaring a National Emergency to Secure the United States Bulk-Power System",
-   "url": "https://www.whitehouse.gov/presidential-actions/2026/08/declaring-a-national-emergency-to-secure-the-united-states-bulk-power-system/",
-   "summary": "By the authority vested in me as President by the Constitution and the laws of the United States of America, including the International Emergency Economic Powers Act (50&#160;U.S.C. 1701&#160;et seq.) (IEEPA), the National Emergencies Act (50 U.S.C. 1601&#160;et seq.) (NEA), and section 301 of title 3, United States Code, I hereby determine and order: Section [&#8230;]\nThe post Declaring a National Emergency to Secure the United States Bulk-Power System appeared first on The White House.",
-   "published": "2026-08-26T19:59:10+00:00",
-   "source": "WhiteHouse.gov News",
-   "source_id": "whitehouse",
-   "bias_note": "official/primary-source",
-   "first_seen": "2026-08-29T21:14:42.361528+00:00"
-  },
-  {
-   "id": "a52931cca7084be7",
-   "title": "Fifth Anniversary of the Attack at Abbey Gate",
-   "url": "https://www.whitehouse.gov/presidential-actions/2026/08/fifth-anniversary-of-the-attack-at-abbey-gate/",
-   "summary": "BY THE PRESIDENT OF THE UNITED STATES OF AMERICA A PROCLAMATION At 5:36 p.m. on August 26, 2021, a lone ISIS-K terrorist pressed into the crowd at Abbey Gate in Kabul, Afghanistan, and\u00a0detonated a body-worn bomb.\u00a0 The terrorist was one of the thousands of prisoners released by the Taliban just 2 months earlier.\u00a0 As a [&#8230;]\nThe post Fifth Anniversary of the Attack at Abbey Gate appeared first on The White House.",
-   "published": "2026-08-26T19:29:53+00:00",
-   "source": "WhiteHouse.gov News",
-   "source_id": "whitehouse",
-   "bias_note": "official/primary-source",
-   "first_seen": "2026-08-29T21:14:42.361529+00:00"
-  },
-  {
-   "id": "597a9ba8fd95c591",
-   "title": "Trump Delivers: 14 Recent Wins You May Have Missed",
-   "url": "https://www.whitehouse.gov/releases/2026/08/trump-delivers-14-wins-you-may-have-missed/",
-   "summary": "President Donald J. Trump is delivering the results he promised \u2014 and the wins keep stacking up. From the securing a landmark election integrity ruling and launching the largest visa crackdown in American history to cutting illegals off taxpayer benefits and driving fentanyl deaths way down, the Trump Administration posted another decisive week putting the [&#8230;]\nThe post Trump Delivers: 14 Recent Wins You May Have Missed appeared first on The White House.",
-   "published": "2026-08-26T18:29:53+00:00",
-   "source": "WhiteHouse.gov News",
-   "source_id": "whitehouse",
-   "bias_note": "official/primary-source",
-   "first_seen": "2026-08-29T21:14:42.361530+00:00"
   }
  ]
 }
