@@ -1,7 +1,249 @@
 {
- "updated": "2026-09-08T21:13:23.274044+00:00",
- "count": 683,
+ "updated": "2026-09-09T00:18:49.927537+00:00",
+ "count": 705,
  "articles": [
+  {
+   "id": "e9e9652a8e253c09",
+   "title": "Incumbent GOP governor rolls to primary victory after keeping Trump at a distance",
+   "url": "https://www.foxnews.com/politics/incumbent-gop-governor-rolls-primary-victory-keeping-trump-distance",
+   "summary": "Kelly Ayotte cruised past Republican primary challengers, setting up a high-stakes New Hampshire governor&apos;s race against Democrat Cinde Warmington.",
+   "published": "2026-09-09T00:14:00+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-09T00:18:48.558822+00:00"
+  },
+  {
+   "id": "76c13e65c5c7cd6d",
+   "title": "Trump's pick wins GOP primary for open Pappas House seat",
+   "url": "https://thehill.com/homenews/campaign/6077306-dilorenzo-wins-new-hampshire-house-primary/",
+   "summary": "Anthony DiLorenzo, President Trump's pick for an open House seat in New Hampshire, is projected to win the Republican nomination, according to Decision Desk HQ. DiLorenzo defeated Hollie Noveletsky, a military veteran and businesswoman, to advance to the general election in what will likely be a pivotal race for control of the House. He led...",
+   "published": "2026-09-09T00:05:32+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-09T00:18:49.084872+00:00"
+  },
+  {
+   "id": "8833bab144dae574",
+   "title": "US bans Canadian dairy, alcohol and motorcycles as trade war with longtime ally escalates",
+   "url": "https://www.theguardian.com/us-news/2026/sep/08/trump-canada-trade-war-dairy-alcohol",
+   "summary": "The measure comes as Canada imposes $20bn in retaliatory tariffs and Canadian prime minister Mark Carney vows to reduce his country\u2019s economic dependence on the USThe US is banning dairy products, most alcoholic beverages and motorcycles from Canada, the White House said Tuesday, as the trade war between the two neighbors and longtime allies escalates.The ban will take effect in three weeks and comes after Canada imposed retaliatory tariffs on $20bn in US imports earlier Tuesday. Continue reading...",
+   "published": "2026-09-08T23:59:37+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-09-09T00:18:48.956526+00:00"
+  },
+  {
+   "id": "db2d47b839aa416c",
+   "title": "Missouri congressional maps thrown into chaos after conflicting court rulings",
+   "url": "https://www.theguardian.com/us-news/2026/sep/08/supreme-court-ruling-missouri-gop-congressional-maps",
+   "summary": "Federal judge says old maps cannot be used in November election, hours after supreme court blocked redrawn maps A federal judge in Missouri on Tuesday temporarily prevented the state from using its old congressional maps in the November midterm elections, hours after the supreme court declined to intervene, the latest twist in a legal back-and-forth playing out less than two months before the midterms.On Tuesday the conservative justice Brett Kavanaugh denied the emergency request from Missouri officials to use a congressional map in November that was redrawn with Donald Trump\u2019s support to giv",
+   "published": "2026-09-08T23:57:05+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-09-09T00:18:48.956535+00:00"
+  },
+  {
+   "id": "1e63f5bc8039bb05",
+   "title": "What to watch as Republicans gather in Dallas for Trump's unusual midterm convention",
+   "url": "https://www.pbs.org/newshour/politics/what-to-watch-as-republicans-gather-in-dallas-for-trumps-unusual-midterm-convention",
+   "summary": "Midterms are often difficult for the party in power in Washington, and Trump believes the event can juice enthusiasm for the party and boost turnout among his voters.",
+   "published": "2026-09-08T23:49:11+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-09-09T00:18:49.256573+00:00"
+  },
+  {
+   "id": "433462e692462387",
+   "title": "Carville claims Trump 'wants to torture' GOP ahead of midterms",
+   "url": "https://thehill.com/homenews/campaign/6077638-carville-trump-wants-gop-lose/",
+   "summary": "Democratic strategist James Carville speculated Tuesday that President Trump wants his party to lose the midterms. \u201cThe only answer that I can come up [with] that explains the current behavior of Donald Trump is simply this: He wants the Republicans to lose. He hates them. He wants to torture them,\u201d Carville told journalist Al Hunt...",
+   "published": "2026-09-08T23:28:32+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-09T00:18:49.084905+00:00"
+  },
+  {
+   "id": "9c186d3096b0ae5e",
+   "title": "ICE launches CDL fraud tipline as DHS highlights deadly crashes involving illegal immigrants",
+   "url": "https://www.foxnews.com/politics/ice-launches-cdl-fraud-tipline-dhs-highlights-deadly-crashes-involving-illegal-immigrants",
+   "summary": "Immigration and Customs Enforcement launched a CDL fraud tipline as DHS details deadly truck crashes allegedly involving illegal immigrants granted licenses.",
+   "published": "2026-09-08T23:06:17+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-09T00:18:48.421802+00:00"
+  },
+  {
+   "id": "611473d3eccd84e2",
+   "title": "Vulnerable House Democrat selling Zyn-inspired campaign merchandise",
+   "url": "https://thehill.com/homenews/house/6077601-vulnerable-house-democrat-selling-zyn-inspired-campaign-merchandise/",
+   "summary": "A House Democrat seeking reelection is selling Zyn-inspired campaign merchandise, leaning into an association with the explosively popular nicotine pouches that have devotees among the Trump administration.  Rep. Marie Gluesenkamp Perez (D-Wash.) is selling a $50 \"GLUE-ZYN-KAMP\" storage tin on her office campaign website, mimicking the Zyn pouches' ubiquitous circular container. The Democrat is among...",
+   "published": "2026-09-08T23:00:30+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-09T00:18:49.084909+00:00"
+  },
+  {
+   "id": "a1f3b4a6a579092a",
+   "title": "Canadian tariffs on U.S. goods take effect, marking turning point in relations",
+   "url": "https://www.pbs.org/newshour/show/canadian-tariffs-on-u-s-goods-take-effect-marking-turning-point-in-relations",
+   "summary": "Canadian Prime Minister Mark Carney says Canada will move quickly to reduce its economic reliance on the United States as retaliatory tariffs took effect on roughly $20 billion worth of American goods. The tariffs match duties President Trump imposed on Canadian imports and follows months of strained relations and unsuccessful trade negotiations between the two countries. Amna Nawaz reports.",
+   "published": "2026-09-08T22:55:04+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-09-09T00:18:49.256580+00:00"
+  },
+  {
+   "id": "75790c1cac5dde82",
+   "title": "How the U.S.-Canada trade dispute is impacting the economy on both sides of the border",
+   "url": "https://www.pbs.org/newshour/show/how-the-u-s-canada-trade-dispute-is-impacting-the-economy-on-both-sides-of-the-border",
+   "summary": "To discuss the impact of the tariffs on the United States and Canada, Amna Nawaz spoke with Matthew Shoemaker. He is the mayor of Sault Ste. Marie, Ontario, a Canadian city just across the border from its sister city, Sault Ste. Marie, Michigan.",
+   "published": "2026-09-08T22:50:20+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-09-09T00:18:49.256587+00:00"
+  },
+  {
+   "id": "2d45a53bdc9088ca",
+   "title": "Modifying the Scope of Products of Canada Subject to the Additional Duties Imposed to Offset Canadian Discrimination Against the United States with Respect to Motor Vehicles",
+   "url": "https://www.whitehouse.gov/presidential-actions/2026/09/modifying-the-scope-of-products-of-canada-subject-to-the-additional-duties-imposed-to-offset-canadian-discrimination-against-the-united-states-with-respect-to-motor-vehicles/",
+   "summary": "BY THE PRESIDENT OF THE UNITED STATES OF AMERICA A PROCLAMATION 1.&#160; In Proclamation 11048 of July 20, 2026 (Imposing Additional Duties To Offset Canadian Discrimination Against the Commerce of the United States With Respect to Motor Vehicles), I&#160;found as a fact that Canada is discriminating in fact against the commerce of the United States [&#8230;]\nThe post Modifying the Scope of Products of Canada Subject to the Additional Duties Imposed to Offset Canadian Discrimination Against the United States with Respect to Motor Vehicles appeared first on The White House.",
+   "published": "2026-09-08T22:50:00+00:00",
+   "source": "WhiteHouse.gov News",
+   "source_id": "whitehouse",
+   "bias_note": "official/primary-source",
+   "first_seen": "2026-09-09T00:18:48.590008+00:00"
+  },
+  {
+   "id": "3dc31e61328ae80b",
+   "title": "Excluding Certain Canadian Alcoholic Beverages from Importation into the United States in Response to Continued Discrimination Against the Commerce of the United States with Respect to Alcoholic Beverages",
+   "url": "https://www.whitehouse.gov/presidential-actions/2026/09/excluding-certain-canadian-alcoholic-beverages-from-importation-into-the-united-states-in-response-to-continued-discrimination-against-the-commerce-of-the-united-states-with-respect-to-alcoholic-bever/",
+   "summary": "BY THE PRESIDENT OF THE UNITED STATES OF AMERICA A PROCLAMATION 1.&#160; In Proclamation 11046 of July 20, 2026 (Imposing Additional Duties To Offset Canadian Discrimination Against the&#160;Commerce of the United States With Respect to Alcoholic Beverages), I found as a fact that Canada is discriminating in fact against the commerce of the United States [&#8230;]\nThe post Excluding Certain Canadian Alcoholic Beverages from Importation into the United States in Response to Continued Discrimination Against the Commerce of the United States with Respect to Alcoholic Beverages appeared first on T",
+   "published": "2026-09-08T22:50:00+00:00",
+   "source": "WhiteHouse.gov News",
+   "source_id": "whitehouse",
+   "bias_note": "official/primary-source",
+   "first_seen": "2026-09-09T00:18:48.590012+00:00"
+  },
+  {
+   "id": "f18cf99325b54aea",
+   "title": "Excluding Certain Canadian Products from Importation into the United States in Response to Continued Discrimination Against the Commerce of the United States with Respect to Dairy",
+   "url": "https://www.whitehouse.gov/presidential-actions/2026/09/excluding-certain-canadian-products-from-importation-into-the-united-states-in-response-to-continued-discrimination-against-the-commerce-of-the-united-states-with-respect-to-dairy/",
+   "summary": "BY THE PRESIDENT OF THE UNITED STATES OF AMERICA A PROCLAMATION 1.&#160; In Proclamation 11047 of July 20, 2026 (Imposing Additional Duties To Offset Canadian Discrimination Against the Commerce of the United States With Respect to Dairy), I found as&#160;a fact that Canada is discriminating in fact against the commerce of the United States through [&#8230;]\nThe post Excluding Certain Canadian Products from Importation into the United States in Response to Continued Discrimination Against the Commerce of the United States with Respect to Dairy appeared first on The White House.",
+   "published": "2026-09-08T22:50:00+00:00",
+   "source": "WhiteHouse.gov News",
+   "source_id": "whitehouse",
+   "bias_note": "official/primary-source",
+   "first_seen": "2026-09-09T00:18:48.590015+00:00"
+  },
+  {
+   "id": "8b496fc848643d81",
+   "title": "Modifying the Scope of Products of Canada Subject to the Additional Duties Imposed to Offset Canadian Discrimination Against the Commerce of the United States with Respect to Alcoholic Beverages",
+   "url": "https://www.whitehouse.gov/presidential-actions/2026/09/modifying-the-scope-of-products-of-canada-subject-to-the-additional-duties-imposed-to-offset-canadian-discrimination-against-the-commerce-of-the-united-states-with-respect-to-alcoholic-beverages/",
+   "summary": "By the President of the United States of America A Proclamation 1.&#160; In Proclamation 11046 of July 20, 2026 (Imposing Additional Duties To Offset Canadian Discrimination Against the Commerce of the United States With Respect to Alcoholic Beverages), I found as a fact that Canada is discriminating in fact against the commerce of the United [&#8230;]\nThe post Modifying the Scope of Products of Canada Subject to the Additional Duties Imposed to Offset Canadian Discrimination Against the Commerce of the United States with Respect to Alcoholic Beverages appeared first on The White House.",
+   "published": "2026-09-08T22:50:00+00:00",
+   "source": "WhiteHouse.gov News",
+   "source_id": "whitehouse",
+   "bias_note": "official/primary-source",
+   "first_seen": "2026-09-09T00:18:48.590016+00:00"
+  },
+  {
+   "id": "03c231462ca9e1c1",
+   "title": "Excluding Certain Canadian Products from Importation into the United States in Response to Continued Discrimination Against the Commerce of the United States with Respect to Motor Vehicles",
+   "url": "https://www.whitehouse.gov/presidential-actions/2026/09/excluding-certain-canadian-products-from-importation-into-the-united-states-in-response-to-continued-discrimination-against-the-commerce-of-the-united-states-with-respect-to-motor-vehicles/",
+   "summary": "BY THE PRESIDENT OF THE UNITED STATES OF AMERICA A PROCLAMATION 1.&#160; In Proclamation 11048 of July 20, 2026 (Imposing Additional Duties To Offset Canadian Discrimination Against the Commerce of the United States With Respect to Motor Vehicles), I&#160;found as a fact that Canada is discriminating in fact against the commerce of the United States [&#8230;]\nThe post Excluding Certain Canadian Products from Importation into the United States in Response to Continued Discrimination Against the Commerce of the United States with Respect to Motor Vehicles appeared first on The White House.",
+   "published": "2026-09-08T22:50:00+00:00",
+   "source": "WhiteHouse.gov News",
+   "source_id": "whitehouse",
+   "bias_note": "official/primary-source",
+   "first_seen": "2026-09-09T00:18:48.590018+00:00"
+  },
+  {
+   "id": "ded542534b90c75a",
+   "title": "Trump's trade war with Canada looms over key Congressional races",
+   "url": "https://www.pbs.org/newshour/show/trumps-trade-war-with-canada-looms-over-key-congressional-races",
+   "summary": "President Trump's tariff policies are shaping key races for control of Congress this fall. Geoff Bennett discussed the impact on the midterms with congressional correspondent Lisa Desjardins.",
+   "published": "2026-09-08T22:47:07+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-09-09T00:18:49.256591+00:00"
+  },
+  {
+   "id": "02ffdd5a00ab6045",
+   "title": "Lonnie Bunch on his legacy and protecting the Smithsonian from political pressure",
+   "url": "https://www.pbs.org/newshour/show/lonnie-bunch-on-his-legacy-and-protecting-the-smithsonian-from-political-pressure",
+   "summary": "Smithsonian Secretary Lonnie Bunch announced that he is stepping down as the institution he leads faces an escalating battle with the Trump administration over how it tells the American story. Geoff Bennett spoke with Bunch about the political pressure, what's at stake for the Smithsonian and how he sees his legacy. It's for our Art in Action series exploring the intersection of art and democracy.",
+   "published": "2026-09-08T22:40:43+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-09-09T00:18:49.256607+00:00"
+  },
+  {
+   "id": "8bcdfeacbe134ef7",
+   "title": "American Bishop Robert Barron calls out St. Paul's Cathedral in UK over nightclub partnership",
+   "url": "https://www.foxnews.com/media/american-bishop-robert-barron-calls-st-pauls-cathedral-uk-nightclub-partnership",
+   "summary": "Roman Catholic Bishop Robert Barron blasted St. Paul&apos;s Cathedral for its multi-year Fabric nightclub concert deal, calling it a surrender to secularism.",
+   "published": "2026-09-08T22:17:26+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-09T00:18:48.558904+00:00"
+  },
+  {
+   "id": "9362c190f057800d",
+   "title": "WATCH LIVE: 2026 Republican Midterm Convention | Night 1",
+   "url": "https://www.pbs.org/newshour/politics/watch-live-2026-republican-midterm-convention-night-1",
+   "summary": "President Donald Trump will deliver a keynote speech Wednesday at a gathering of Republicans in Dallas, where a first-of-its-kind midterm convention is taking place.",
+   "published": "2026-09-08T22:04:19+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-09-09T00:18:49.256629+00:00"
+  },
+  {
+   "id": "56aa9a341c04f03b",
+   "title": "South Park creators mock Trump's Lake Ontario rename and company compliance in mock statement",
+   "url": "https://www.foxnews.com/media/south-park-creators-mock-trump-lake-ontario-rename-company-compliance-mock-statement",
+   "summary": "Trey Parker and Matt Stone announced &quot;South Park&quot; will be renamed &quot;South America&quot; Tuesday in a jab at Apple Maps and Google Maps over the Lake Ontario name change.",
+   "published": "2026-09-08T22:00:02+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-09T00:18:48.558919+00:00"
+  },
+  {
+   "id": "75b0747a3b493c37",
+   "title": "Canada tariffs on US goods take effect amid trade war: What to know",
+   "url": "https://thehill.com/business/6077430-canada-retaliatory-us-tariffs-impact/",
+   "summary": "Canada\u2019s retaliatory tariffs on an array of U.S. goods\u00a0went into effect on Tuesday, marking the latest chapter of a\u00a0weeks-long trade war\u00a0between the two countries. The\u00a0\"dollar for dollar\"\u00a0levies \u2014 ranging from 15 percent to 50 percent \u2014 impact American products such as milk and cream, steel, aluminum, paper and agricultural equipment. The Canadian government imposed the...",
+   "published": "2026-09-08T21:49:52+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-09T00:18:49.084967+00:00"
+  },
+  {
+   "id": "80fa813ee587bec0",
+   "title": "Trump leans into trolling critics as GOP midterm anxiety grows",
+   "url": "https://thehill.com/homenews/administration/6077459-new-mexico-name-controversy/",
+   "summary": "President Trump is leaning into online trolling, off-color attacks and picking fights over geographical names as his approval rating sinks just weeks out from November\u2019s midterm elections.  Over the weekend, Trump raised eyebrows when he floated changing the name of New Mexico to \u201cNew America\u201d weeks after he swapped the name of Lake Ontario to...",
+   "published": "2026-09-08T21:35:14+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-09T00:18:49.084996+00:00"
+  },
   {
    "id": "eff52c8680ca8dd0",
    "title": "Former Obama aides joke about Trump being stopped by heart disease or old age",
@@ -518,6 +760,17 @@
    "source_id": "propublica",
    "bias_note": "investigative",
    "first_seen": "2026-09-08T11:25:01.197214+00:00"
+  },
+  {
+   "id": "f31494aabac0a4f0",
+   "title": "Republicans are hoping \u2018Trump-a-palooza\u2019 isn\u2019t only about Trump",
+   "url": "https://www.politico.com/news/2026/09/08/gop-midterm-convention-trump-message-01066258",
+   "summary": "GOP lawmakers said they are counting on the president to draw a contrast with Democrats in Dallas, not prosecute personal grievances.",
+   "published": "2026-09-08T08:45:00+00:00",
+   "source": "Politico",
+   "source_id": "politico",
+   "bias_note": "center",
+   "first_seen": "2026-09-09T00:18:49.031558+00:00"
   },
   {
    "id": "72fe0212efd79067",
@@ -7503,17 +7756,6 @@
    "source_id": "politico",
    "bias_note": "center",
    "first_seen": "2026-08-29T21:14:43.102461+00:00"
-  },
-  {
-   "id": "d492eed8a49b0229",
-   "title": "Trump and Vance to keynote Republicans' midterm convention in Texas",
-   "url": "https://abcnews.com/Politics/wireStory/trump-vance-keynote-republicans-midterm-convention-texas-135953165",
-   "summary": "As if there was any doubt, Republicans&rsquo; midterm convention will be the Donald Trump show, with the president appearing at both nights of the event in Dallas next month",
-   "published": "2026-08-25T23:30:11+00:00",
-   "source": "ABC News Politics",
-   "source_id": "abc-politics",
-   "bias_note": "center",
-   "first_seen": "2026-08-29T21:14:43.947987+00:00"
   }
  ]
 }
