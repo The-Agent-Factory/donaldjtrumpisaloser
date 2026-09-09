@@ -1,7 +1,216 @@
 {
- "updated": "2026-09-09T07:25:38.727842+00:00",
- "count": 710,
+ "updated": "2026-09-09T12:59:43.154887+00:00",
+ "count": 725,
  "articles": [
+  {
+   "id": "aad61c065fca6999",
+   "title": "Trump attacks New York Magazine for calling 9/11 remarks 'weird lie'",
+   "url": "https://thehill.com/homenews/administration/6078299-donald-trump-new-york-magazine-9-11-remarks-criticism/",
+   "summary": "President Trump lashed out at New York Magazine for its coverage of his remarks on Tuesday, after he said two firefighters picked him up off the ground near the U.S. Steel Building in New York City in the aftermath of the terror attacks on Sept. 11, 2001.\u00a0 \u201cThe Failing New York Magazine wrote a story...",
+   "published": "2026-09-09T12:44:50+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-09T12:59:42.054661+00:00"
+  },
+  {
+   "id": "9c85c345624140c5",
+   "title": "Trump center stage at RNC in midterms gamble \u2013 US politics live",
+   "url": "https://www.theguardian.com/us-news/live/2026/sep/09/donald-trump-rnc-republican-national-convention-jd-vance-midterms-latest-news-updates",
+   "summary": "President to give speeches on both days of unprecedented gatheringRepublicans look to \u2018midterm convention\u2019 to overcome Trump unpopularitySign up for US Breaking News emailIt would be the first time in nearly a decade that an incumbent governor has been ousted in a party primary.Dan McKee, Rhode Island\u2019s Democratic governor, stands to lose his seat as voters head to the polls today in the state\u2019s primary elections. McKee has been trailing in the polls for weeks against Helena Foulkes, a former CVS executive who he narrowly bested to win the party\u2019s nomination in 2022. Continue reading...",
+   "published": "2026-09-09T12:33:10+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-09-09T12:59:40.618000+00:00"
+  },
+  {
+   "id": "c1b59144d410e271",
+   "title": "Supreme Court races against midterms clock",
+   "url": "https://thehill.com/newsletters/the-gavel/6077380-supreme-court-trump-midterms/",
+   "summary": "President Trump\u2019s mail voting restrictions are on the emergency docket again, but ballots have already begun going out in one state.  Justice Brett Kavanaugh declined to restore Missouri Republicans\u2019 congressional map just ahead of the deadline to lock in the state\u2019s ballot, but a ruling in a separate lawsuit has led to continued confusion.  Plus, another...",
+   "published": "2026-09-09T12:00:00+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-09T12:59:42.054691+00:00"
+  },
+  {
+   "id": "b4b4e30379741a65",
+   "title": "The House must turn the screws on Putin",
+   "url": "https://thehill.com/opinion/6076874-house-must-pass-russia-sanctions-act/",
+   "summary": "The House of Representatives faces the decision to pass the Lindsey O. Graham Sanctioning Russia and Iran Act, which would authorize the Trump administration to impose tariffs on nations importing Russian energy to help Ukraine prepare for a potentially deadly winter.",
+   "published": "2026-09-09T12:00:00+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-09T12:59:42.054694+00:00"
+  },
+  {
+   "id": "cfa970bcc6b25751",
+   "title": "Democrats struggled to win young voters in 2024. Progressives plan to reach them at campuses and quincea\u00f1eras",
+   "url": "https://www.theguardian.com/us-news/2026/sep/09/progressive-democrats-young-voters-midterms",
+   "summary": "After young people shifted right for Trump, Democratic-aligned groups across the US are eager to capture gen Z voters where they are before November\u2019s midterm electionsOn the first day of the fall semester at California State University, Northridge, student organizers holding \u201cHot People Vote\u201d signs wheeled a bright pink wagon outside the student union. They offered \u201cno strings attached\u201d donuts, heart-shaped sunglasses and voting information for the November general election. Even though it was 105F outside, dozens of people stopped by to chat with the Donuts + Democracy volunteers and registe",
+   "published": "2026-09-09T11:39:32+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-09-09T12:59:40.618026+00:00"
+  },
+  {
+   "id": "c9a4dab32700d1d6",
+   "title": "Supreme Court chief justice praises outgoing Smithsonian leader who was under pressure from Trump admin",
+   "url": "https://www.foxnews.com/politics/supreme-court-chief-justice-praises-outgoing-smithsonian-leader-pressure-trump-admin",
+   "summary": "John Roberts praised Lonnie Bunch&apos;s Smithsonian leadership as the secretary retired amid mounting Trump administration pressure over museum exhibits.",
+   "published": "2026-09-09T11:30:39+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-09T12:59:39.919942+00:00"
+  },
+  {
+   "id": "303abf8b59c0e7e0",
+   "title": "GOP puts Trump \u2018on the ballot\u2019 with historic midterm convention and more top headlines",
+   "url": "https://www.foxnews.com/us/gop-puts-trump-on-ballot-historic-midterm-convention-more-top-headlines",
+   "summary": "Get all the stories you need-to-know from the most powerful name in news delivered first thing every morning to your inbox.",
+   "published": "2026-09-09T10:32:28+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-09T12:59:39.987772+00:00"
+  },
+  {
+   "id": "4af818eaa2bc814e",
+   "title": "Republicans head to Dallas with one mission: Defy history and win big",
+   "url": "https://www.foxnews.com/opinion/republicans-head-dallas-one-mission-defy-history-win-big",
+   "summary": "Trump will headline the first-ever Republican Convention in Dallas, where the party plans to showcase tax cuts, border security and its 2026 agenda.",
+   "published": "2026-09-09T10:00:49+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-09T12:59:39.987794+00:00"
+  },
+  {
+   "id": "4d080921a0d5d1dc",
+   "title": "Lindsay Clancy attorney's appeal to Trump for pardon could hurt his credibility, expert says",
+   "url": "https://www.foxnews.com/us/lindsay-clancy-attorney-appeal-trump-pardon-could-hurt-credibility-expert-says",
+   "summary": "Lindsay Clancy&apos;s defense attorney Kevin Reddington made a surprise appeal to Trump for a pardon after the mistrial, but legal experts are skeptical.",
+   "published": "2026-09-09T10:00:19+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-09T12:59:39.987827+00:00"
+  },
+  {
+   "id": "30f16d2ca2de9b89",
+   "title": "The Memo: Trump\u2019s midterm convention presents GOP candidates with stark dilemma",
+   "url": "https://thehill.com/homenews/analysis/6077563-trump-midterm-convention-gop-candidates/",
+   "summary": "The Trump-centric Republican midterm convention that kicks off Wednesday in Dallas is putting GOP candidates in a tight spot. On one hand, there are clear arguments in favor of attending the convention and wrapping themselves metaphorically in President Trump\u2019s flag. Most GOP candidates want Trump\u2019s backing and his blessing. He said last week he is...",
+   "published": "2026-09-09T10:00:00+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-09T12:59:42.054718+00:00"
+  },
+  {
+   "id": "1502434bc63ec389",
+   "title": "Conservatives split over Trump plan to pay stay-at-home parents",
+   "url": "https://thehill.com/homenews/administration/6077706-trump-childcare-subsidy-stay-at-home-parents/",
+   "summary": "A new proposal from the White House to expand childcare subsidies to cover stay-at-home parents is dividing conservatives.  The idea is not a new one. The rule change the administration is pushing forward that would make married stay-at-home parents eligible for federal funding has been bandied about by think tank scholars and Republicans in Congress. It\u2019s part...",
+   "published": "2026-09-09T10:00:00+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-09T12:59:42.054723+00:00"
+  },
+  {
+   "id": "65455d57a1a083ff",
+   "title": "Republicans head to Dallas for first GOP midterm convention: What to know",
+   "url": "https://thehill.com/homenews/campaign/6077615-rnc-midterm-convention-trump-dallas/",
+   "summary": "The Republican National Committee's (RNC) midterm convention kicks off in Dallas on Wednesday, a first-of-its kind event aimed at helping Republicans buck President Trump's low approval numbers and defy historical midterm trends.  The two-day event, billed by some as a \"Trump-a-palooza,\" will host dozens of top speakers from the administration and Republican leadership, as well...",
+   "published": "2026-09-09T10:00:00+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-09T12:59:42.054725+00:00"
+  },
+  {
+   "id": "754dea88d7dd2945",
+   "title": "Trump\u2019s escalation of fight with Canada puts GOP Senate candidates in a vice",
+   "url": "https://thehill.com/homenews/senate/6077659-trump-canada-trade-war-gop-candidates-midterms/",
+   "summary": "President Trump's escalation of the trade war with Canada is coming at a bad time for Senate Republican candidates, who are being put in the awkward place of having to defend the administration's economic record while having to push back against Trump's targeting of critical Canadian imports and companies. Trump got pushback from a loyal...",
+   "published": "2026-09-09T10:00:00+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-09T12:59:42.054730+00:00"
+  },
+  {
+   "id": "7cebb56e835cb706",
+   "title": "Ectopic Pregnancy Deaths Have Nearly Doubled. It\u2019s Worse in States With Abortion Bans.",
+   "url": "https://www.propublica.org/article/ectopic-pregnancy-deaths-doubled-analysis",
+   "summary": "The post Ectopic Pregnancy Deaths Have Nearly Doubled. It\u2019s Worse in States With Abortion Bans. appeared first on ProPublica.",
+   "published": "2026-09-09T10:00:00+00:00",
+   "source": "ProPublica",
+   "source_id": "propublica",
+   "bias_note": "investigative",
+   "first_seen": "2026-09-09T12:59:42.620282+00:00"
+  },
+  {
+   "id": "509aa4a1b1209a91",
+   "title": "Record gas prices squeeze Americans as summer travel season ends, midterms loom and Iran war wages on",
+   "url": "https://www.foxnews.com/politics/record-gas-prices-squeeze-americans-summer-travel-season-ends-midterms-loom-iran-war-wages",
+   "summary": "Gas prices hit a record $4.15 per gallon over Labor Day weekend, shattering the previous high and posing a significant political test for Trump.",
+   "published": "2026-09-09T09:00:22+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-09T12:59:39.919962+00:00"
+  },
+  {
+   "id": "f8a79b1ffa8d90fd",
+   "title": "Can the 'best showman in politics' deliver again? GOP bets on Trump at historic midterm convention",
+   "url": "https://www.foxnews.com/politics/best-showman-politics-deliver-gop-bets-trump-historic-midterm-convention",
+   "summary": "Donald Trump headlines the first-ever GOP midterm convention in Dallas, aiming to energize low-propensity MAGA voters ahead of key 2026 races.",
+   "published": "2026-09-09T09:00:02+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-09T12:59:39.919965+00:00"
+  },
+  {
+   "id": "de4f6e956a3d399b",
+   "title": "Mail-in voters weigh flying to vote in person and other backup plans amid uncertainty",
+   "url": "https://www.npr.org/2026/09/09/nx-s1-5946380/trump-mail-in-voting-by-mail",
+   "summary": "Voters and election officials are navigating uncertainty about mail-in voting for the midterms as the legal fight drags on over the U.S. Postal Service plan for President Trump's bid for restrictions.",
+   "published": "2026-09-09T09:00:00+00:00",
+   "source": "NPR Politics",
+   "source_id": "npr-politics",
+   "bias_note": "center",
+   "first_seen": "2026-09-09T12:59:40.371729+00:00"
+  },
+  {
+   "id": "a9b181271c6f77ca",
+   "title": "Republicans kick off a 'Trumpapalooza' of a midterm convention Wednesday in Texas",
+   "url": "https://www.npr.org/2026/09/09/nx-s1-5961045/republican-midterm-convention-dallas-trump-vance",
+   "summary": "Republicans have never held a midterm convention before. But there's also never been a president like Donald Trump. Billed as a \"Trumpapalooza,\" the unprecedented event kicks of in Dallas Wednesday.",
+   "published": "2026-09-09T09:00:00+00:00",
+   "source": "NPR Politics",
+   "source_id": "npr-politics",
+   "bias_note": "center",
+   "first_seen": "2026-09-09T12:59:40.371734+00:00"
+  },
+  {
+   "id": "ba9f22c88fde7c63",
+   "title": "I Wrote About His Wrongful Conviction. He Got Only 13 Years of Freedom Before Cancer Took His Life.",
+   "url": "https://www.propublica.org/article/wrongful-conviction-cancer-death",
+   "summary": "The post I Wrote About His Wrongful Conviction. He Got Only 13 Years of Freedom Before Cancer Took His Life. appeared first on ProPublica.",
+   "published": "2026-09-09T09:00:00+00:00",
+   "source": "ProPublica",
+   "source_id": "propublica",
+   "bias_note": "investigative",
+   "first_seen": "2026-09-09T12:59:42.620287+00:00"
+  },
   {
    "id": "e144db039999bd3e",
    "title": "With AI memes, Trump promotes mythical version of himself as challenges stack up ahead of midterms",
@@ -7767,50 +7976,6 @@
    "source_id": "abc-politics",
    "bias_note": "center",
    "first_seen": "2026-08-29T21:14:43.947969+00:00"
-  },
-  {
-   "id": "4bf0eab0eca75863",
-   "title": "\u2018A Bible-sized blind spot\u2019: congressman sounds alarm on rising Christian nationalism",
-   "url": "https://www.theguardian.com/world/2026/aug/26/jared-huffman-rising-christian-nationalism-no-prophets-book",
-   "summary": "In his new book, congressman Jared Huffman argues that theocratic insurgency has only grown more powerful after Donald Trump returned to the White HouseCrosses, shofars and \u201cAppeal to Heaven\u201d flags. Rioters praying with their hands aloft as police officers are brutalised. January 6 2021 is widely remembered as a deadly insurrection by supporters of Donald Trump; but for Congressman Jared Huffman, who was locked down alone in his office that day, something else stands out.It was a very Christian coup. Continue reading...",
-   "published": "2026-08-26T12:00:12+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-08-29T21:14:42.935321+00:00"
-  },
-  {
-   "id": "fe4768fad88b5a06",
-   "title": "The Costly Blunders in the Army\u2019s $533 Million Fiasco",
-   "url": "https://www.propublica.org/article/army-artillery-factory-fiasco-takeaways",
-   "summary": "The post The Costly Blunders in the Army\u2019s $533 Million Fiasco appeared first on ProPublica.",
-   "published": "2026-08-26T10:00:00+00:00",
-   "source": "ProPublica",
-   "source_id": "propublica",
-   "bias_note": "investigative",
-   "first_seen": "2026-08-29T21:14:43.675240+00:00"
-  },
-  {
-   "id": "41b1e05034f521da",
-   "title": "Iowa\u2019s last Democrat on how he can win in Trump country",
-   "url": "https://www.politico.com/video/2026/08/26/iowas-last-democrat-on-how-he-can-win-in-trump-country-2151071",
-   "summary": "",
-   "published": "2026-08-26T09:00:00+00:00",
-   "source": "Politico",
-   "source_id": "politico",
-   "bias_note": "center",
-   "first_seen": "2026-08-29T21:14:43.102443+00:00"
-  },
-  {
-   "id": "e34203e1aafc1ccf",
-   "title": "Idaho Law Protects Faith Healers. It Wasn\u2019t Always That Way.",
-   "url": "https://www.propublica.org/article/idaho-law-faith-healing-exemption",
-   "summary": "The post Idaho Law Protects Faith Healers. It Wasn\u2019t Always That Way. appeared first on ProPublica.",
-   "published": "2026-08-26T09:00:00+00:00",
-   "source": "ProPublica",
-   "source_id": "propublica",
-   "bias_note": "investigative",
-   "first_seen": "2026-08-29T21:14:43.675241+00:00"
   }
  ]
 }
