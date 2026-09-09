@@ -1,7 +1,84 @@
 {
- "updated": "2026-09-09T00:18:49.927537+00:00",
- "count": 705,
+ "updated": "2026-09-09T07:25:38.727842+00:00",
+ "count": 710,
  "articles": [
+  {
+   "id": "e144db039999bd3e",
+   "title": "With AI memes, Trump promotes mythical version of himself as challenges stack up ahead of midterms",
+   "url": "https://abcnews.com/Politics/wireStory/ai-memes-trump-promotes-mythical-version-challenges-stack-136293014",
+   "summary": "President Donald Trump is using memes to portray himself as powerful amid struggles with inflation and international issues",
+   "published": "2026-09-09T06:42:31+00:00",
+   "source": "ABC News Politics",
+   "source_id": "abc-politics",
+   "bias_note": "center",
+   "first_seen": "2026-09-09T07:25:38.507631+00:00"
+  },
+  {
+   "id": "21251e682bc859c3",
+   "title": "Trump gave $45,000 to Natalie Harp and other White House aides as holiday gifts",
+   "url": "https://www.theguardian.com/us-news/2026/sep/09/trump-gift-45000-natalie-harp-white-house-aides",
+   "summary": "The president\u2019s substantial holiday gifts to four White House aides were made public via financial disclosures released by the administration Donald Trump gave sizable holiday gifts to four White House aides, according to new financial disclosures released by the administration, including $45,000 to executive assistant Natalie Harp.Communications adviser Margo Martin and deputy director of Oval Office operations Chamberlain Harris also received $45,000, while director of Oval Office operations Walt Nauta received a $20,000 gift. Continue reading...",
+   "published": "2026-09-09T04:20:59+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-09-09T07:25:37.627472+00:00"
+  },
+  {
+   "id": "c85d57c47662fc5d",
+   "title": "Trump banning Canada's dairy products, motorcycles and many alcoholic beverages",
+   "url": "https://thehill.com/business/6077886-trump-bans-canadian-dairy-vehicles/",
+   "summary": "President Trump on Tuesday signed executive orders to ban the sale of Canadian dairy products, motor vehicles and many alcoholic beverages in the U.S., as the trade war between the two countries continues. The bans take effect on Sept. 29, with Trump signing the orders on the day retaliatory Canadian tariffs on $27.6 billion worth...",
+   "published": "2026-09-09T02:25:52+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-09T07:25:37.936006+00:00"
+  },
+  {
+   "id": "cac9c324245686c9",
+   "title": "Fact Sheet: President Donald J. Trump Responds to Canada\u2019s Retaliation",
+   "url": "https://www.whitehouse.gov/fact-sheets/2026/09/fact-sheet-president-donald-j-trump-responds-to-canadas-retaliation/",
+   "summary": "COUNTERING CANADA\u2019S LATEST RETALIATION AGAINST AMERICAN EXPORTS:\u00a0Today, to address Canada\u2019s increased discrimination against U.S. commerce,\u00a0President Trump signed five Proclamations pursuant to Section 338 of the Tariff Act of 1930 to ban certain products from Canada and modify the scope of the tariffs on certain Canadian products previously\u00a0announced\u00a0on July 20, 2026. President Trump is taking decisive [&#8230;]\nThe post Fact Sheet: President Donald J. Trump Responds to Canada\u2019s Retaliation appeared first on The White House.",
+   "published": "2026-09-09T01:38:43+00:00",
+   "source": "WhiteHouse.gov News",
+   "source_id": "whitehouse",
+   "bias_note": "official/primary-source",
+   "first_seen": "2026-09-09T07:25:36.946305+00:00"
+  },
+  {
+   "id": "b876909b346f1809",
+   "title": "Trump\u2019s foreign policy saves taxpayers $320 billion over 4 years: Report",
+   "url": "https://thehill.com/newsletters/defense-national-security/6077894-trump-foreign-policy-saves-taxpayers/",
+   "summary": "Welcome to The Hill's Defense &#038; NatSec newsletter {beacon} Defense &#038;National Security Defense &#038;National Security &#8202; The Big Story  Trump\u2019s foreign policy saves taxpayers $320 billion over 4 years: Report President Trump\u2019s foreign policy approach in the second term - hard border security, shifting weapons support to allied-financed purchases, hawkish actions in the Middle East...",
+   "published": "2026-09-09T01:32:18+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-09T07:25:37.936045+00:00"
+  },
+  {
+   "id": "26147cd5077cb81c",
+   "title": "Trump-backed candidate wins high-stakes GOP primary for New Hampshire battleground district",
+   "url": "https://www.foxnews.com/politics/trump-backed-candidate-wins-high-stakes-gop-primary-new-hampshire-battleground-district",
+   "summary": "Donald Trump endorsed Anthony DiLorenzo defeated Novel Iron Works owner Hollie Noveletsky and state Rep. Brian Cole to clinch the GOP nomination for the Granite State&apos;s 1st Congressional District.",
+   "published": "2026-09-09T00:30:09+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-09T07:25:36.765751+00:00"
+  },
+  {
+   "id": "3959d21f8116aa90",
+   "title": "U.S. will ban dairy products, motorcycles and most alcoholic beverages from Canada",
+   "url": "https://www.pbs.org/newshour/economy/u-s-will-ban-dairy-products-motorcycles-and-most-alcoholic-beverages-from-canada",
+   "summary": "The ban will take effect in three weeks and comes after Canada imposed retaliatory tariffs on $20 billion in U.S. imports earlier Tuesday.",
+   "published": "2026-09-09T00:20:23+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-09-09T07:25:38.109103+00:00"
+  },
   {
    "id": "e9e9652a8e253c09",
    "title": "Incumbent GOP governor rolls to primary victory after keeping Trump at a distance",
@@ -12,6 +89,17 @@
    "source_id": "foxnews-latest",
    "bias_note": "right-leaning",
    "first_seen": "2026-09-09T00:18:48.558822+00:00"
+  },
+  {
+   "id": "9a4294269161654d",
+   "title": "Trump-backed John Sununu wins New Hampshire Republican Senate primary",
+   "url": "https://www.theguardian.com/us-news/2026/sep/08/new-hampshire-republican-senate-primary",
+   "summary": "Frontrunner Sununu beats Scott Brown to earn Republican nod in closely watched race in NovemberFormer senator John E Sununu triumphed on Tuesday in the New Hampshire Republican Senate primary Scott Brown, earning the GOP nod in what will likely be a must-win race if Democrats hope to seize the upper chamber.Sununu, 61, was the clear frontrunner in the GOP primary. He served one term in the Senate from 2003 to 2009. Continue reading...",
+   "published": "2026-09-09T00:08:22+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-09-09T07:25:37.627507+00:00"
   },
   {
    "id": "76c13e65c5c7cd6d",
@@ -7723,39 +7811,6 @@
    "source_id": "propublica",
    "bias_note": "investigative",
    "first_seen": "2026-08-29T21:14:43.675241+00:00"
-  },
-  {
-   "id": "a2a5fad0f597ca12",
-   "title": "Trump-backed candidate wins primary for Oklahoma governor",
-   "url": "https://www.politico.com/news/2026/08/25/mazzei-wins-oklahoma-governor-runoff-01050323",
-   "summary": "Former state Sen. Mike Mazzei\u2019s victory is a relief for the president after several of his chosen candidates fell in other states.",
-   "published": "2026-08-26T03:04:10+00:00",
-   "source": "Politico",
-   "source_id": "politico",
-   "bias_note": "center",
-   "first_seen": "2026-08-29T21:14:43.102458+00:00"
-  },
-  {
-   "id": "91cbc7626623b6fc",
-   "title": "Nothing changes yet with the Supreme Court's order on elections. But it could open door to 'chaos'",
-   "url": "https://abcnews.com/Politics/wireStory/supreme-courts-order-elections-open-door-chaos-135925697",
-   "summary": "The Supreme Court's decision clearing one obstacle to the enactment of President Donald Trump's order on mail voting may not mean the order ultimately takes effect for November's elections",
-   "published": "2026-08-26T02:29:00+00:00",
-   "source": "ABC News Politics",
-   "source_id": "abc-politics",
-   "bias_note": "center",
-   "first_seen": "2026-08-29T21:14:43.948004+00:00"
-  },
-  {
-   "id": "beb6018b45d55a04",
-   "title": "Political newcomer Darline Graham wins South Carolina\u2019s GOP Senate runoff",
-   "url": "https://www.politico.com/news/2026/08/25/darline-graham-wins-south-carolina-senate-runoff-01050320",
-   "summary": "Her win in the snap primary to replace her late brother Lindsey Graham comes after President Donald Trump significantly boosted her campaign.",
-   "published": "2026-08-26T01:03:27+00:00",
-   "source": "Politico",
-   "source_id": "politico",
-   "bias_note": "center",
-   "first_seen": "2026-08-29T21:14:43.102461+00:00"
   }
  ]
 }
