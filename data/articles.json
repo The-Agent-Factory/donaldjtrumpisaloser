@@ -1,7 +1,150 @@
 {
- "updated": "2026-09-10T14:54:57.616513+00:00",
- "count": 822,
+ "updated": "2026-09-10T17:43:19.425747+00:00",
+ "count": 834,
  "articles": [
+  {
+   "id": "bfeaacf79f7b9a59",
+   "title": "Trump administration alleges UC Berkeley law school favors Black applicants",
+   "url": "https://thehill.com/homenews/education/6082300-doj-berkeley-law-discrimination/",
+   "summary": "Officials from the Justice Department (DOJ) and Education Department alleged Wednesday that the University of California, Berkeley School of Law favors Black applicants over white and Asian applicants, in violation of federal law. In a letter to attorney Tania Faransso, who is representing the law school, Assistant Attorney General Harmeet Dhillon said the institution \u201cdeliberately...",
+   "published": "2026-09-10T17:24:47+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-10T17:43:18.371760+00:00"
+  },
+  {
+   "id": "a7f6f1f98865976c",
+   "title": "Supreme Court again rejects push to use Trump-backed congressional map in Missouri",
+   "url": "https://www.pbs.org/newshour/politics/supreme-court-again-rejects-push-to-use-trump-backed-congressional-map-in-missouri",
+   "summary": "The U.S. Supreme Court again rejected Missouri congressional maps backed by President Donald Trump on Thursday, a loss for Republicans trying to maintain control of the House in the pivotal midterm elections.",
+   "published": "2026-09-10T17:23:13+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-09-10T17:43:18.463545+00:00"
+  },
+  {
+   "id": "6eb443ac958f7b2d",
+   "title": "Multistate salmonella outbreak linked to broccoli sprouts: FDA",
+   "url": "https://thehill.com/policy/healthcare/6082261-fda-investigates-salmonella-broccoli-sprouts/",
+   "summary": "The Food and Drug Administration (FDA) reported Wednesday it will investigate a multistate outbreak of salmonella linked to recalled broccoli sprouts. The Centers for Disease Control and Prevention (CDC) and state partners found 22 cases in four states. Two people were hospitalized for salmonella-related symptoms, and there have been no reported deaths.\u00a0 Washington has the...",
+   "published": "2026-09-10T17:15:39+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-10T17:43:18.371788+00:00"
+  },
+  {
+   "id": "60aac7e547ed79b2",
+   "title": "Steve Hilton vows to abolish California DMV if elected governor",
+   "url": "https://www.theguardian.com/us-news/2026/sep/10/steve-hilton-california-abolish-dmv",
+   "summary": "Republican calls department of motor vehicles a \u2018bloated bureaucracy\u2019 as he seeks to boost his longshot campaignThe longshot California gubernatorial candidate Steve Hilton pledged this week to abolish the state\u2019s department of motor vehicles if he is elected, promising to shutter the oft-criticized department for good and set a flat $73 annual registration fee per car.Hilton, a Trump-backed former conservative pundit running in reliably blue California, called the state\u2019s DMV a \u201cbloated bureaucracy\u201d, during a Tuesday campaign event, echoing the Trump administration\u2019s efforts to slash the fede",
+   "published": "2026-09-10T17:12:56+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-09-10T17:43:17.340796+00:00"
+  },
+  {
+   "id": "ff80a03ae4d7adcc",
+   "title": "US appeals court rejects Trump\u2019s bid to impose restrictions on mail-in voting before midterms",
+   "url": "https://www.theguardian.com/us-news/2026/sep/10/usps-mail-ballot-voting-court-ruling",
+   "summary": "Court declined to \u2060put on hold \u2060injunction preventing the USPS from tightening rules around postal votingA US appeals court has rejected Donald Trump\u2019s bid to impose sweeping restrictions on mail-in voting before November\u2019s midterm elections, dealing a fresh blow to the president\u2019s attempted crackdown.The Boston-based first US circuit court of appeals declined to \u2060put on hold an \u2060injunction issued by a \u200blower court judge last week, preventing the US Postal Service from tightening rules around postal voting. Continue reading...",
+   "published": "2026-09-10T17:07:37+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-09-10T17:43:17.340805+00:00"
+  },
+  {
+   "id": "0af3b5fb12ab88cd",
+   "title": "Trump pledges $500 ObamaCare rebate checks",
+   "url": "https://thehill.com/policy/healthcare/6082253-trump-pledges-healthcare-rebate-checks/",
+   "summary": "The Trump administration is pledging to send $500 rebate checks to nearly 1 million Americans who the White House says were overcharged for ObamaCare coverage.  In a recorded message posted Thursday to the White House account on the social platform X, President Trump alleged without evidence that the Biden administration was \u201cmassively\u201d overcharging enrollees on the...",
+   "published": "2026-09-10T17:04:08+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-10T17:43:18.371794+00:00"
+  },
+  {
+   "id": "a8f68a9284540fba",
+   "title": "WATCH LIVE: 2026 Republican Midterm Convention | Night 2",
+   "url": "https://www.pbs.org/newshour/politics/watch-live-2026-republican-midterm-convention-night-2",
+   "summary": "Republicans spent the first night denouncing Democrats as extremists before President Donald Trump capped Wednesday with a speech saying the choice this election is \"very, very simple\" and making the outlandish promise of $5,000 to each American adult, if his party wins.",
+   "published": "2026-09-10T17:01:28+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-09-10T17:43:18.463550+00:00"
+  },
+  {
+   "id": "2e441ceaceeb24e3",
+   "title": "Watch live: Trump gives remarks, tours National Medal of Honor Museum",
+   "url": "https://thehill.com/video-clips/6082128-watch-live-donald-trump-texas-remarks-national-medal-of-honor-museum/",
+   "summary": "President Trump will give remarks Thursday afternoon after touring the National Medal of Honor Museum in Arlington, Texas. The event comes less than a day after Trump headlined the first night of the GOP midterm convention in Dallas. During his speech, he pledged $5,000 dividend checks to Americans if Republicans maintain control of both chambers...",
+   "published": "2026-09-10T17:00:00+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-10T17:43:18.371815+00:00"
+  },
+  {
+   "id": "36a6dbd8b080d231",
+   "title": "Is Trump\u2019s $5,000 midterm pledge a new low? \u2013 The Latest",
+   "url": "https://www.theguardian.com/news/audio/2026/sep/10/trump-5000-midterm-pledge-new-low-the-latest",
+   "summary": "Donald Trump has pledged a payment of $5,000 to every adult American citizen if the Republicans win in the November midterms. The outlandish proposal, which would cost over $1tn, immediately raised legal and ethical concerns. It comes as the president\u2019s approval rating has hit a record low, hovering at about 38%. Lucy Hough speaks to global editor Devika Bhat \u2013 watch on YouTube Continue reading...",
+   "published": "2026-09-10T16:49:20+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-09-10T17:43:17.340830+00:00"
+  },
+  {
+   "id": "3d493c2f844c9ef0",
+   "title": "Trump invokes Charlie Kirk at RNC convention",
+   "url": "https://thehill.com/newsletters/1230-report/6082115-trump-invokes-charlie-kirk-at-rnc-convention/",
+   "summary": "\ud83d\udcb8 Plus: Who wants $5K? {beacon} &#8202; It\u2019s Thursday, and the 49ers play the Rams tonight. May the best Californians win. &#8202; In today's issue: TPUSA without Charlie Kirk Fetterman friction  Trump\u2019s $5K promise to Americans  Strait of Hormuz hostilities  Programming note: We\u2019re Abigail Walker and Claire Leibowitz filling in for Cate today. Please send us your tips, comments and...",
+   "published": "2026-09-10T16:31:25+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-10T17:43:18.371822+00:00"
+  },
+  {
+   "id": "ffb8fc46e78c64e4",
+   "title": "5 things to know about Trump's $5K dividend pledge",
+   "url": "https://thehill.com/homenews/administration/6081142-trump-pledges-five-thousand-dividends/",
+   "summary": "President Trump pledged Wednesday to dole out $5,000 dividends to U.S. adults only if Republicans keep their control of Congress after the fall midterm elections, the latest financial promise he has made across his two presidencies. The president announced the proposed \"Trump dividends\" while speaking at the Republican National Committee's (RNC) midterm convention in Dallas....",
+   "published": "2026-09-10T16:25:32+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-10T17:43:18.371833+00:00"
+  },
+  {
+   "id": "18dcd6a2418f15d7",
+   "title": "For 'horrible moment,' Bush White House thought US military shot down Flight 93",
+   "url": "https://www.foxnews.com/politics/horrible-moment-bush-white-house-thought-us-military-shot-down-flight-93",
+   "summary": "Condoleezza Rice recalled the tense moment she and George W. Bush believed Flight 93 had been shot down while coordinating responses in a bunker.",
+   "published": "2026-09-10T15:48:14+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-10T17:43:17.063755+00:00"
+  },
+  {
+   "id": "766857098b688b33",
+   "title": "Supreme Court again blocks Missouri from using Trump-backed congressional maps",
+   "url": "https://www.foxnews.com/politics/supreme-court-again-blocks-missouri-from-using-trump-backed-congressional-maps",
+   "summary": "The Supreme Court blocked Missouri&apos;s Republican-backed congressional map for a second time as a contempt hearing looms for Denny Hoskins this week.",
+   "published": "2026-09-10T15:00:50+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-10T17:43:17.063772+00:00"
+  },
   {
    "id": "f8a9cae287a6916a",
    "title": "Fox News\u2019s Baier presses Vance on Trump\u2019s $5K dividend promise",
@@ -9032,17 +9175,6 @@
    "source_id": "whitehouse",
    "bias_note": "official/primary-source",
    "first_seen": "2026-08-29T21:14:42.361523+00:00"
-  },
-  {
-   "id": "d94fa15d9fd9a7d1",
-   "title": "The lesson Democrats could learn from MAGA",
-   "url": "https://www.politico.com/video/2026/08/27/the-lesson-democrats-could-learn-from-maga-2153266",
-   "summary": "",
-   "published": "2026-08-27T15:59:00+00:00",
-   "source": "Politico",
-   "source_id": "politico",
-   "bias_note": "center",
-   "first_seen": "2026-08-29T21:14:43.102435+00:00"
   }
  ]
 }
