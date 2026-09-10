@@ -1,7 +1,106 @@
 {
- "updated": "2026-09-10T12:56:54.795044+00:00",
- "count": 815,
+ "updated": "2026-09-10T14:54:57.616513+00:00",
+ "count": 822,
  "articles": [
+  {
+   "id": "f8a9cae287a6916a",
+   "title": "Fox News\u2019s Baier presses Vance on Trump\u2019s $5K dividend promise",
+   "url": "https://thehill.com/homenews/administration/6081616-bret-baier-jd-vance-donald-trump-midterms-5k-dividends-gop-convention/",
+   "summary": "Fox News anchor Bret Baier pressed Vice President Vance over President Trump\u2019s pledge to give Americans $5,000 if Republicans keep control of Congress come November, saying critics would respond to the roughly $1.3 trillion payout as \u201cbribing voters.\u201d \u201cI can hear the critics\u2019 heads exploding,\u201d Braier told Vance late Wednesday, hours after Trump made the...",
+   "published": "2026-09-10T14:44:13+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-10T14:54:56.492201+00:00"
+  },
+  {
+   "id": "d096f9866d4892c1",
+   "title": "Buffalo Bills' plan to feature Canadian anthem at stadium opener met with mixed reactions",
+   "url": "https://www.foxnews.com/outkick-sports/buffalo-bills-plan-feature-canadian-anthem-stadium-opener-mixed-reactions",
+   "summary": "Buffalo Bills will play &quot;O Canada&quot; at the Highmark Stadium opener, sparking heated debate among fans amid ongoing U.S.-Canada tariff tensions.",
+   "published": "2026-09-10T14:42:28+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-10T14:54:54.421871+00:00"
+  },
+  {
+   "id": "033fa067811423c9",
+   "title": "Trump\u2019s promise of $5,000 \u2018dividend\u2019 for US citizens after midterms met with incredulity",
+   "url": "https://www.theguardian.com/us-news/2026/sep/10/trump-5000-midterm-cash-dividend-response",
+   "summary": "Critics call bid for Republican votes \u2018bribery\u2019 and point to potential $1.2tn cost added to existing national debtDonald Trump\u2019s promise of a $5,000 \u201cTrump dividend\u201d for every US citizen if Republicans retain control of the US Congress in November\u2019s midterm elections has sparked incredulity and accusations of bribery.\u201cIf the Republicans win, you win with us and you get $5,000,\u201d Trump said during the unprecedented Republican midterm convention in Dallas. \u201cIt will be called the Trump dividend.\u201d Continue reading...",
+   "published": "2026-09-10T14:34:31+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-09-10T14:54:55.286705+00:00"
+  },
+  {
+   "id": "d3c17114504ce976",
+   "title": "Trump should remove the Iran War\u2019s most dangerous tripwire",
+   "url": "https://thehill.com/opinion/national-security/6079253-trump-iran-blockade-risks/",
+   "summary": "The blockade hurts Iran, but it no longer justifies the risks.",
+   "published": "2026-09-10T14:30:00+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-10T14:54:56.492208+00:00"
+  },
+  {
+   "id": "d4293226105e9cab",
+   "title": "Fact Sheet: President Donald J. Trump Announces the Working Families Obamacare Refunds",
+   "url": "https://www.whitehouse.gov/fact-sheets/2026/09/fact-sheet-president-donald-j-trump-announces-the-working-families-obamacare-refunds/",
+   "summary": "RETURNING BIDEN OVERCHARGES TO WORKING FAMILIES:&#160;Today, President Donald J. Trump announced that the federal government will return to the American people hundreds of millions in Obamacare overcharges, collected by the Biden Administration, by issuing refunds of $500 per person to nearly 1 million Americans in 30 states. Today\u2019s actions directly refund the Americans most exposed [&#8230;]\nThe post Fact Sheet: President Donald J. Trump Announces the Working Families Obamacare Refunds appeared first on The White House.",
+   "published": "2026-09-10T14:06:53+00:00",
+   "source": "WhiteHouse.gov News",
+   "source_id": "whitehouse",
+   "bias_note": "official/primary-source",
+   "first_seen": "2026-09-10T14:54:54.714942+00:00"
+  },
+  {
+   "id": "80f5b830e5ef04d4",
+   "title": "Trump dangles $5,000 checks as debt surges \u2014 but only if GOP can clear major midterm hurdle",
+   "url": "https://www.foxnews.com/politics/trump-dangles-5000-checks-us-debt-surges-gop-clear-major-midterm-hurdle",
+   "summary": "President Donald Trump&apos;s $5,000 dividend pledge could cost roughly $1.2 trillion, with JD Vance suggesting wealthy Americans may be excluded.",
+   "published": "2026-09-10T13:44:34+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-10T14:54:54.369206+00:00"
+  },
+  {
+   "id": "b8f8773dfe7cbe3c",
+   "title": "Foulkes defeats Rhode Island's McKee, 1st governor in 8 years to lose a primary",
+   "url": "https://www.pbs.org/newshour/politics/foulkes-defeats-rhode-islands-mckee-1st-governor-in-8-years-to-lose-a-primary",
+   "summary": "Rhode Island Gov. Dan McKee was dogged by questions about his administration's work to replace a critical bridge in the state capital that was abruptly closed due to safety problems in 2023.",
+   "published": "2026-09-10T13:21:04+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-09-10T14:54:56.689152+00:00"
+  },
+  {
+   "id": "cfd0029e8bc38e7f",
+   "title": "Kimmel pulls Talarico interview after FCC threat",
+   "url": "https://thehill.com/homenews/media/6081125-abc-jimmy-kimmel-james-talarico-interview-pulled-fcc-threat-midterms/",
+   "summary": "ABC late-night comedian Jimmy Kimmel said an interview he conducted with Texas Democratic Senate nominee James Talarico will not air on broadcast because of what he called threats issued to his network by President Trump's Federal Communications Commission (FCC). Kimmel told his audience he has interviewed candidates for office in election years for decades, including...",
+   "published": "2026-09-10T13:06:40+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-10T14:54:56.492274+00:00"
+  },
+  {
+   "id": "ec2111717f9db867",
+   "title": "Canada saved the bald eagle from near extinction in the US \u2013 does the White House know?",
+   "url": "https://www.theguardian.com/us-news/2026/sep/10/bald-eagle-us-canada-trade-war",
+   "summary": "The White House posted a photo of bald eagle attacking a Canada goose to send a message \u2013 but it was Canada that played a critical role in the recovery of the bird in the USIn late August, the White House posted a real photograph on social media of a bald eagle standing atop the limp neck of a Canada goose.The raptor presses the goose\u2019s face into the grey winter slush. With its stark white head and brilliant yellow talons, the eagle looks victorious and defiant. Continue reading...",
+   "published": "2026-09-10T13:00:36+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-09-10T14:54:55.286729+00:00"
+  },
   {
    "id": "ed10471c3c578d80",
    "title": "Live updates: Trump, Vance to close out RNC midterm convention; Democrats counter with protests",
@@ -8944,28 +9043,6 @@
    "source_id": "politico",
    "bias_note": "center",
    "first_seen": "2026-08-29T21:14:43.102435+00:00"
-  },
-  {
-   "id": "897cb82d55454558",
-   "title": "These Local Jails Were Supposed to Detain Immigrants for Only 72 Hours. One Woman Was Held for a Total of 26 Days.",
-   "url": "https://www.propublica.org/article/immigrants-rebooking-ice-jails-florida",
-   "summary": "The post These Local Jails Were Supposed to Detain Immigrants for Only 72 Hours. One Woman Was Held for a Total of 26 Days. appeared first on ProPublica.",
-   "published": "2026-08-27T14:50:00+00:00",
-   "source": "ProPublica",
-   "source_id": "propublica",
-   "bias_note": "investigative",
-   "first_seen": "2026-08-29T21:14:43.675238+00:00"
-  },
-  {
-   "id": "731baf3a328574ff",
-   "title": "US goals have shifted after 6 months of Iran war. The Strait of Hormuz is now a top concern",
-   "url": "https://abcnews.com/Politics/wireStory/us-goals-shifted-after-6-months-iran-war-135995683",
-   "summary": "Back in February, President Donald Trump said he expected the war he'd just launched with Iran to last four weeks to five weeks",
-   "published": "2026-08-27T13:51:09+00:00",
-   "source": "ABC News Politics",
-   "source_id": "abc-politics",
-   "bias_note": "center",
-   "first_seen": "2026-08-29T21:14:43.947952+00:00"
   }
  ]
 }
