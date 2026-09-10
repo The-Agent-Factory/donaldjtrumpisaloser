@@ -1,7 +1,304 @@
 {
- "updated": "2026-09-10T07:21:10.874387+00:00",
- "count": 790,
+ "updated": "2026-09-10T12:56:54.795044+00:00",
+ "count": 815,
  "articles": [
+  {
+   "id": "ed10471c3c578d80",
+   "title": "Live updates: Trump, Vance to close out RNC midterm convention; Democrats counter with protests",
+   "url": "https://thehill.com/homenews/administration/6080688-live-trump-vance-rnc-midterm-convention-charlie-kirk-missouri/",
+   "summary": "Vice President Vance will take his turn at the Republican National Committee midterm convention podium Thursday night, followed by President Trump, as GOP members close out their two-day push to energize voters ahead of November's midterms. Trump spoke for over 90 minutes on Wednesday night, urging voters to cast a ballot as though he were...",
+   "published": "2026-09-10T12:43:02+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-10T12:56:54.145055+00:00"
+  },
+  {
+   "id": "f124d31039d7c7f7",
+   "title": "Vance appears to walk back Trump\u2019s offer of $5,000 \u2018dividend\u2019 if Republicans win midterms \u2013 US politics live",
+   "url": "https://www.theguardian.com/us-news/live/2026/sep/10/donald-trump-republican-midterm-convention-dividend-offer-5000-vance-latest-news-updates",
+   "summary": "Vice-president suggests payment would not go to all and would be paid for by tariff revenues despite supreme court rulings against much of Trump\u2019s programUS citizens will receive $5,000 if Republicans win midterms, Trump claims Sign up for the US Breaking News emailBefore departing for Republicans\u2019 midterm convention yesterday, President Trump predicted to reporters that the war in Iran he helped launch would end immediately after the midterms (assuming that his party held onto its majority in Congress).But a new report from the Wall Street Journal, published Wednesday evening, indicates that,",
+   "published": "2026-09-10T12:42:01+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-09-10T12:56:53.213565+00:00"
+  },
+  {
+   "id": "32d5686b0de399e6",
+   "title": "Trump on convention crowd booing Thune: 'No, no. John is working hard'",
+   "url": "https://thehill.com/homenews/senate/6081006-donald-trump-john-thune-gop-midterm-convention-criticism/",
+   "summary": "President Trump on Wednesday told the crowd at the Republican National Committee's (RNC) first midterm convention in Dallas not to boo the absent Senate Majority Leader John Thune (R-S.D.), telling them that \"John is working hard.\" Trump mentioned Thune's name after he said Speaker Mike Johnson (R-La.) \"will go down as the greatest Speaker of...",
+   "published": "2026-09-10T12:32:01+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-10T12:56:54.145061+00:00"
+  },
+  {
+   "id": "c7df17204aa3272b",
+   "title": "Bet on it: The Trumps' ties to prediction markets will become the IRS's problem",
+   "url": "https://thehill.com/opinion/finance/6078912-irs-silence-polymarket-kalshi/",
+   "summary": "The IRS has remained uncharacteristically reticent on the associated tax implications of such transactions.",
+   "published": "2026-09-10T12:30:00+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-10T12:56:54.145065+00:00"
+  },
+  {
+   "id": "aa1d9059af020b97",
+   "title": "Presidential flip? GOP insider predicts Trump change of mind on key AI policy ahead of midterms",
+   "url": "https://www.foxnews.com/politics/presidential-flip-gop-insider-predicts-trump-change-mind-key-ai-policy-ahead-midterms",
+   "summary": "Trump ally Amy Kremer predicts President Donald Trump will shift on AI data centers after hearing from Americans on the midterm campaign trail.",
+   "published": "2026-09-10T12:00:53+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-10T12:56:52.768918+00:00"
+  },
+  {
+   "id": "56e4427efcfe1919",
+   "title": "American democracy depends on the census. Trump is undermining it | danah boyd",
+   "url": "https://www.theguardian.com/commentisfree/2026/sep/10/census-trump-congress",
+   "summary": "The very mechanisms that allow the census bureau to resist partisan interference are coming undone. And Congress is silentWhen the constitutional architects of the United States got together, they came up with a crazy plan: \u201cWhat if we count everyone in the country and allocate political representation that way?\u201dIt was a radical act. Until then, censuses had been used by kings to levy taxes and conscript men into war. With the penning of article 1, section 2 of the US constitution, being counted ensured that states would get financial resources and political representatives. Congress was taske",
+   "published": "2026-09-10T12:00:35+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-09-10T12:56:53.213641+00:00"
+  },
+  {
+   "id": "d647cda41aeec0dc",
+   "title": "Too easy to fake: US needs stricter screening for marriage visas",
+   "url": "https://thehill.com/opinion/immigration/6079166-uscis-marriage-fraud-crackdown/",
+   "summary": "The Department of Justice has unsealed\u00a0an indictment describing\u00a0a\u00a0large-scale marriage fraud network that has operated\u00a0for more than a decade, conspiring\u00a0\u201cto orchestrate more than\u00a01,000 sham marriages\u202fto fraudulently obtain immigration status for foreign nationals.\"",
+   "published": "2026-09-10T12:00:00+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-10T12:56:54.145108+00:00"
+  },
+  {
+   "id": "e685305529325373",
+   "title": "Trump promises Americans $5K if GOP wins. And, Kirk supporters reflect on his death",
+   "url": "https://www.npr.org/2026/09/10/g-s1-142670/up-first-newsletter-trump-midterm-convention-missouri-denny-hoskins-apple-charlie-kirk",
+   "summary": "President Trump tries to incentivize voters by promising $5,000 to Americans if the GOP wins the midterms. And, young conservatives reflect on the party one year after Charlie Kirk's death.",
+   "published": "2026-09-10T11:27:14+00:00",
+   "source": "NPR Politics",
+   "source_id": "npr-politics",
+   "bias_note": "center",
+   "first_seen": "2026-09-10T12:56:53.161072+00:00"
+  },
+  {
+   "id": "e0956c73ba2554bc",
+   "title": "Trump, Fetterman deliver surprises at RNC night 1",
+   "url": "https://thehill.com/newsletters/morning-report/6080953-donald-trump-john-fetterman-gop-midterm-convention-day-1/",
+   "summary": "In today's issue: \u25aa Trump\u2019s expensive election promise \u25aa A rare primary loss for a governor \u25aa Apple unveils foldable iPhone \u25aa AI researchers issue stark warning President Trump wrapped up the first day of the GOP's unprecedented midterm convention Wednesday with a lengthy speech reminiscent of his own campaign rallies \u2014 delivering on the \"Trump-a-palooza\" hype. Speakers throughout...",
+   "published": "2026-09-10T11:16:31+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-10T12:56:54.145137+00:00"
+  },
+  {
+   "id": "11246f5fca6ac5db",
+   "title": "Empty Seat: U.S. Absent as Western Powers Meet on Wartime Protections for Civilians",
+   "url": "https://www.propublica.org/article/trump-hegseth-dod-nato-civilian-harm-reduction-absent",
+   "summary": "The post Empty Seat: U.S. Absent as Western Powers Meet on Wartime Protections for Civilians appeared first on ProPublica.",
+   "published": "2026-09-10T11:00:00+00:00",
+   "source": "ProPublica",
+   "source_id": "propublica",
+   "bias_note": "investigative",
+   "first_seen": "2026-09-10T12:56:54.394649+00:00"
+  },
+  {
+   "id": "3cfc51b7c3c1780f",
+   "title": "Trump's stunning vow steals show during night one keynote at GOP midterm convention and more top headlines",
+   "url": "https://www.foxnews.com/us/trumps-stunning-vow-steals-show-during-night-one-keynote-gop-midterm-convention-more-top-headlines",
+   "summary": "Get all the stories you need-to-know from the most powerful name in news delivered first thing every morning to your inbox.",
+   "published": "2026-09-10T10:53:23+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-10T12:56:52.799466+00:00"
+  },
+  {
+   "id": "2f5ba0c04caa4645",
+   "title": "Trump gives primetime speech at GOP convention, promising payout if Republicans win",
+   "url": "https://www.npr.org/2026/09/10/nx-s1-5963201/trump-gives-primetime-speech-at-gop-convention-promising-payout-if-republicans-win",
+   "summary": "President Trump kicked off the Republican midterm convention with a primetime speech, outlining the Republican message and promising Americans a payout if the GOP wins the upcoming election.",
+   "published": "2026-09-10T10:47:24+00:00",
+   "source": "NPR Politics",
+   "source_id": "npr-politics",
+   "bias_note": "center",
+   "first_seen": "2026-09-10T12:56:53.161079+00:00"
+  },
+  {
+   "id": "4c6913261ba5ed11",
+   "title": "Veteran pollster shares takeaways from Trump's convention speech",
+   "url": "https://www.npr.org/2026/09/10/nx-s1-5962893/veteran-pollster-shares-takeaways-from-trumps-convention-speech",
+   "summary": "Veteran pollster and political consultant Frank Luntz gives an analysis of President Trump's speech at the Republicans' midterm convention.",
+   "published": "2026-09-10T10:47:15+00:00",
+   "source": "NPR Politics",
+   "source_id": "npr-politics",
+   "bias_note": "center",
+   "first_seen": "2026-09-10T12:56:53.161083+00:00"
+  },
+  {
+   "id": "97dcfb33f36100f1",
+   "title": "Lindsay Clancy's lawyer reveals post-mistrial strategy as retrial looms",
+   "url": "https://www.foxnews.com/us/lindsay-clancys-lawyer-reveals-post-mistrial-strategy-retrial-looms",
+   "summary": "Lindsay Clancy&apos;s attorney Kevin Reddington reveals his strategy after the mistrial, urging prosecutors to pursue treatment instead of prison while appealing to President Donald Trump.",
+   "published": "2026-09-10T10:00:44+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-10T12:56:52.799499+00:00"
+  },
+  {
+   "id": "194ae9c9cd83e63d",
+   "title": "Trump\u2019s comments on the Falkland Islands reflect a fractured US-UK relationship",
+   "url": "https://www.theguardian.com/commentisfree/2026/sep/10/trump-falkland-islands-us-uk-relationship",
+   "summary": "President suggested US might not help UK if Argentina tried to seize Falklands \u2013 a new low for UK-US \u2018special relationship\u2019Last week, Donald Trump suggested in an interview with the British TV channel GB News that he might not help the UK if Argentina tried again to seize the Falkland Islands. It was a new low for UK-US relations.The \u201cspecial relationship\u201d (Winston Churchill\u2019s phrase) was never perfect, but the UK helped the US on countless occasions, from Korea to Iraq to Afghanistan. The US often stood by the UK as well \u2013 although not during the Suez Crisis of 1956, but Ronald Reagan\u2019s gover",
+   "published": "2026-09-10T10:00:22+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-09-10T12:56:53.213650+00:00"
+  },
+  {
+   "id": "959a0c325e3e036b",
+   "title": "Democratic donors determined to oust Trump say they\u2019re opening checkbooks",
+   "url": "https://thehill.com/homenews/campaign/6079964-trump-opposition-dnc-funding/",
+   "summary": "Democratic donors who were once turned off by the state of their party are beginning to write checks again, spurred by the prospect of Republican losses in November\u2019s midterm elections.  But their return comes with a big caveat: Many are bypassing the party and homing in on individual candidates and races where they say they can...",
+   "published": "2026-09-10T10:00:00+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-10T12:56:54.145182+00:00"
+  },
+  {
+   "id": "8bbb3f17ba579690",
+   "title": "Israeli isolation grows as Britain spearheads new ban on trade with settlements",
+   "url": "https://thehill.com/homenews/analysis/6080374-uk-canada-france-restrict-settlement-trade/",
+   "summary": "Israel\u2019s international isolation is growing this week after the United Kingdom, Canada and France all announced they would move to restrict trade with settlements in the occupied West Bank. Tellingly, it\u2019s not yet clear how hard the Trump administration will fight back on Israel\u2019s behalf.  The British government, helmed by newly installed Prime Minister Andy...",
+   "published": "2026-09-10T10:00:00+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-10T12:56:54.145189+00:00"
+  },
+  {
+   "id": "0f36b1c52348914d",
+   "title": "The elephant in the room at the RNC: Trump's money",
+   "url": "https://thehill.com/homenews/administration/6080226-trump-campaign-spending-gop-convention/",
+   "summary": "President Trump\u2019s massive campaign war chest is looming over the GOP\u2019s midterm convention in Dallas this week as Republicans grow frustrated with how his political operation has spent in races this cycle. Trump\u2019s super PAC made its first major investment of the cycle last week, dropping a $10 million ad buy supporting the GOP Senate...",
+   "published": "2026-09-10T10:00:00+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-10T12:56:54.145195+00:00"
+  },
+  {
+   "id": "4d640e9e26e02a3d",
+   "title": "25 Years After 9/11, Questions About the FBI\u2019s Pursuit of Saudi Suspects in the Case Have Only Grown",
+   "url": "https://www.propublica.org/article/fbi-911-saudi-bayoumi-investigation",
+   "summary": "The post 25 Years After 9/11, Questions About the FBI\u2019s Pursuit of Saudi Suspects in the Case Have Only Grown appeared first on ProPublica.",
+   "published": "2026-09-10T10:00:00+00:00",
+   "source": "ProPublica",
+   "source_id": "propublica",
+   "bias_note": "investigative",
+   "first_seen": "2026-09-10T12:56:54.394656+00:00"
+  },
+  {
+   "id": "de269e288aaf158d",
+   "title": "How Charlie Kirk's martyrdom fed the right. And then tore it apart \u2013 Stateside with Kai and Carter",
+   "url": "https://www.theguardian.com/us-news/video/2026/sep/10/how-charlie-kirks-martyrdom-fed-the-right-and-then-tore-it-apart-stateside-with-kai-and-carter",
+   "summary": "Charlie Kirk's death created a vacuum of power that still consumes the Maga right a year later. Immediately after Kirk was shot and killed, his ultraconservative activist organization Turning Point USA announced that his widow, Erika Kirk, would replace her late husband as CEO. But as Guardian reporter J Oliver Conroy tells Kai Wright, conspiracy theories pushed by Kirk's former allies and proteges have dogged both the organization and Erika Kirk herself. Real questions remain about whether Erika Kirk can maintain the enormous power and influence Turning Point holds on the right and what she i",
+   "published": "2026-09-10T09:45:21+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-09-10T12:56:53.213736+00:00"
+  },
+  {
+   "id": "379950371966f916",
+   "title": "Trump: we will pay every US citizen $5,000 if Republicans win midterms \u2013 video",
+   "url": "https://www.theguardian.com/us-news/video/2026/sep/10/trump-we-will-pay-every-us-citizen-5000-if-republicans-win-midterms-video",
+   "summary": "Donald Trump pledged to pay every adult citizen in the US a $5,000 dividend if the Republicans retain the House and Senate in the midterms, during a rambling speech at the party's midterm convention in Dallas.The US president claimed the payment was possible due to the country's 'tremendous economic success, like in history we've never had anything like what's happening'. The  proposal, which would cost more than $1tn, immediately raised ethical concernsUS citizens will receive $5,000 if Republicans win midterms, Trump claims Continue reading...",
+   "published": "2026-09-10T09:19:04+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-09-10T12:56:53.213742+00:00"
+  },
+  {
+   "id": "500fc8f76d346181",
+   "title": "Got a Connection to Dominican Baseball? Text Us on WhatsApp.",
+   "url": "https://www.propublica.org/getinvolved/dominican-republic-baseball-whatsapp-line",
+   "summary": "The post Got a Connection to Dominican Baseball? Text Us on WhatsApp. appeared first on ProPublica.",
+   "published": "2026-09-10T09:04:00+00:00",
+   "source": "ProPublica",
+   "source_id": "propublica",
+   "bias_note": "investigative",
+   "first_seen": "2026-09-10T12:56:54.394658+00:00"
+  },
+  {
+   "id": "3aca27fca9a72b20",
+   "title": "Trump puts himself back on the ballot: 5 takeaways from GOP midterm convention night one",
+   "url": "https://www.foxnews.com/politics/trump-puts-himself-back-ballot-5-takeaways-from-gop-midterm-convention-night-one",
+   "summary": "President Donald Trump unveiled a $5,000 dividend for every American adult at the GOP midterm convention in Dallas, with one major spending caveat.",
+   "published": "2026-09-10T09:03:12+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-10T12:56:52.768955+00:00"
+  },
+  {
+   "id": "60d2dca9dd01c22c",
+   "title": "The Rising Baseball Star, a Fatal Car Crash and the Fixer",
+   "url": "https://www.propublica.org/article/oneil-cruz-pittsburgh-pirates-santo-caraballo-car-crash-payments-dominican-republic",
+   "summary": "The post The Rising Baseball Star, a Fatal Car Crash and the Fixer appeared first on ProPublica.",
+   "published": "2026-09-10T09:02:00+00:00",
+   "source": "ProPublica",
+   "source_id": "propublica",
+   "bias_note": "investigative",
+   "first_seen": "2026-09-10T12:56:54.394660+00:00"
+  },
+  {
+   "id": "adf9d5122216d222",
+   "title": "After Trump promised to pay $5,000 if Republicans win, here's what to expect Thursday",
+   "url": "https://www.npr.org/2026/09/10/nx-s1-5963880/trump-republican-midterm-convention-vance",
+   "summary": "President Trump promised to send every adult citizen $5,000, but only if Republicans maintain control of Congress in the midterm election, setting high expectations for the convention's final night.",
+   "published": "2026-09-10T09:00:00+00:00",
+   "source": "NPR Politics",
+   "source_id": "npr-politics",
+   "bias_note": "center",
+   "first_seen": "2026-09-10T12:56:53.161086+00:00"
+  },
+  {
+   "id": "5024518061fd35e5",
+   "title": "The Dominican Baseball Factory",
+   "url": "https://www.propublica.org/article/how-dominican-republic-baseball-factory-traps-players-mlb-santo-caraballo",
+   "summary": "The post The Dominican Baseball Factory appeared first on ProPublica.",
+   "published": "2026-09-10T09:00:00+00:00",
+   "source": "ProPublica",
+   "source_id": "propublica",
+   "bias_note": "investigative",
+   "first_seen": "2026-09-10T12:56:54.394662+00:00"
+  },
+  {
+   "id": "a82947aeecb552f4",
+   "title": "Trump gave Natalie Harp and 2 other aides $45,000 as gifts, report says",
+   "url": "https://www.npr.org/2026/09/10/nx-s1-5962896/trump-gave-natalie-harp-and-2-other-aides-45-000-as-gifts-report-says",
+   "summary": "The Washington Post is reporting that the president gave $45,000 cash gifts to executive assistant Natalie Harp and two other White House aides.",
+   "published": "2026-09-10T08:40:40+00:00",
+   "source": "NPR Politics",
+   "source_id": "npr-politics",
+   "bias_note": "center",
+   "first_seen": "2026-09-10T12:56:53.161105+00:00"
+  },
   {
    "id": "ff296e98134ca17c",
    "title": "As the midterms loom, Trump returns to his happy place: on stage in the theatre of the absurd",
@@ -8669,28 +8966,6 @@
    "source_id": "abc-politics",
    "bias_note": "center",
    "first_seen": "2026-08-29T21:14:43.947952+00:00"
-  },
-  {
-   "id": "416a09c6a75e5bd1",
-   "title": "Republicans face midterm verdict as Iran war drags on longer than Trump promised",
-   "url": "https://abcnews.com/Politics/wireStory/republicans-face-midterm-verdict-iran-war-drags-months-135998199",
-   "summary": "The Iran war has reshaped the rapidly approaching midterm elections",
-   "published": "2026-08-27T12:02:35+00:00",
-   "source": "ABC News Politics",
-   "source_id": "abc-politics",
-   "bias_note": "center",
-   "first_seen": "2026-08-29T21:14:43.947951+00:00"
-  },
-  {
-   "id": "2a21f76e35485185",
-   "title": "How to Check In on Your 401(k) Fees",
-   "url": "https://www.propublica.org/article/401k-retirement-plan-fees-funds",
-   "summary": "The post How to Check In on Your 401(k) Fees appeared first on ProPublica.",
-   "published": "2026-08-27T09:00:00+00:00",
-   "source": "ProPublica",
-   "source_id": "propublica",
-   "bias_note": "investigative",
-   "first_seen": "2026-08-29T21:14:43.675239+00:00"
   }
  ]
 }
