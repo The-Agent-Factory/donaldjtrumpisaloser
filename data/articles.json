@@ -1,7 +1,194 @@
 {
- "updated": "2026-09-09T20:59:12.358062+00:00",
- "count": 762,
+ "updated": "2026-09-10T00:17:32.642915+00:00",
+ "count": 777,
  "articles": [
+  {
+   "id": "c45e465db3bf3b53",
+   "title": "\u2018We are going in the wrong direction\u2019: Republican convention dogged by the cost of living",
+   "url": "https://www.politico.com/news/2026/09/09/republicans-economy-trump-dallas-midterm-convention-01069724",
+   "summary": "The GOP is gathering in Dallas to tout the administration\u2019s wins. Many Republicans worry there are few on affordability.",
+   "published": "2026-09-09T23:25:24+00:00",
+   "source": "Politico",
+   "source_id": "politico",
+   "bias_note": "center",
+   "first_seen": "2026-09-10T00:17:31.490029+00:00"
+  },
+  {
+   "id": "6f8352c03a90d76b",
+   "title": "Chris Rock says President Trump is correct on one key issue, and it almost redeems his \u2018other sins\u2019",
+   "url": "https://www.foxnews.com/media/chris-rock-says-president-trump-correct-one-key-issue-almost-redeems-his-other-sins",
+   "summary": "Chris Rock says Trump got it right about fake news, calling media bias the one thing that &quot;almost&quot; clears Trump of all his &quot;other sins&quot; in a new interview.",
+   "published": "2026-09-09T23:24:13+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-10T00:17:30.346880+00:00"
+  },
+  {
+   "id": "466275a9684f5cc1",
+   "title": "Patriot Day 2026, The 25th Anniversary of the September 11 Terrorist Attacks",
+   "url": "https://www.whitehouse.gov/presidential-actions/2026/09/patriot-day-2026-the-25th-anniversary-of-the-september-11-terrorist-attacks/",
+   "summary": "BY THE PRESIDENT OF THE UNITED STATES OF AMERICA A PROCLAMATION A quarter of a century has passed since the terrible day of September 11,&#160;2001,&#160;and an entire generation of Americans has now come of age with no living memory of that fateful day. &#160;The passage of time must never dim what&#160;will forever&#160;burn bright in the [&#8230;]\nThe post Patriot Day 2026, The 25th Anniversary of the September 11 Terrorist Attacks appeared first on The White House.",
+   "published": "2026-09-09T23:23:01+00:00",
+   "source": "WhiteHouse.gov News",
+   "source_id": "whitehouse",
+   "bias_note": "official/primary-source",
+   "first_seen": "2026-09-10T00:17:30.515880+00:00"
+  },
+  {
+   "id": "9291cd62c3bd48f4",
+   "title": "First Lady Melania Trump\u2019s Personal Vision to Preserve America\u2019s Story Through Superior Design",
+   "url": "https://www.whitehouse.gov/briefings-statements/2026/09/first-lady-melania-trumps-personal-vision-to-preserve-americas-story-through/",
+   "summary": "First Lady Melania Trump shared her forward-looking vision on the generational significance of institutional design, declaring that, \u201cThe White House stands as an architectural autobiography of America, embodying the enduring values of ambition, democracy, and civic life through its design, craftmanship, and the objects within.\u201d First Lady Melania Trump\u2019s elevated creative vision has played a [&#8230;]\nThe post First Lady Melania Trump\u2019s Personal Vision to Preserve America\u2019s Story Through Superior Design appeared first on The White House.",
+   "published": "2026-09-09T22:59:40+00:00",
+   "source": "WhiteHouse.gov News",
+   "source_id": "whitehouse",
+   "bias_note": "official/primary-source",
+   "first_seen": "2026-09-10T00:17:30.515885+00:00"
+  },
+  {
+   "id": "d152d3e018d52369",
+   "title": "Potential Dem presidential contender crashes GOP convention, tries to snatch spotlight from Trump",
+   "url": "https://www.foxnews.com/politics/potential-dem-presidential-contender-crashes-trumpalooza-tries-snatch-spotlight-trump",
+   "summary": "Democratic Gov. JB Pritzker claims Republicans are trying to &quot;rig&quot; the 2026 midterm elections as the GOP kicks off its first-ever convention in Dallas.",
+   "published": "2026-09-09T22:48:16+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-10T00:17:30.261433+00:00"
+  },
+  {
+   "id": "5fa62640ae324ec4",
+   "title": "News Wrap: White House defends Trump's $45,000 gifts to Natalie Harp and other aides",
+   "url": "https://www.pbs.org/newshour/show/news-wrap-white-house-defends-trumps-45000-gifts-to-natalie-harp-and-other-aides",
+   "summary": "In our news wrap Wednesday, the White House is defending President Trump's gift of $45,000 to his executive assistant Natalie Harp and others, the U.S. and Iran are trading more attacks in a fight to control the Strait of Hormuz and the trade war between the U.S. and Canada is escalating even further after the Trump administration announced a ban on certain Canadian imports.",
+   "published": "2026-09-09T22:45:05+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-09-10T00:17:31.819232+00:00"
+  },
+  {
+   "id": "cb1a7a0048e5fb11",
+   "title": "What to expect from the GOP's first-ever midterm convention",
+   "url": "https://www.pbs.org/newshour/show/what-to-expect-from-the-gops-first-ever-midterm-convention",
+   "summary": "Republicans are gathering in Dallas for an unusual two-day midterm convention, with President Trump set to address the party both nights. The event, part rally and part political showcase, is aimed at energizing Republican voters. White House correspondent Liz Landers reports from Dallas.",
+   "published": "2026-09-09T22:40:53+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-09-10T00:17:31.819237+00:00"
+  },
+  {
+   "id": "ae7434a2151fe9c8",
+   "title": "Roy Cohn's continued influence on politics and Trump traced in 'American Scoundrel'",
+   "url": "https://www.pbs.org/newshour/show/roy-cohns-continued-influence-on-politics-and-trump-traced-in-american-scoundrel",
+   "summary": "For decades, Roy Cohn operated at the center of American power, from his work with Sen. Joseph McCarthy to his role as a lawyer, political fixer and mentor to a young Donald Trump. Biographer Kai Bird traces Cohn's life and the influence he still exerts on American politics in \"American Scoundrel.\" Jeffrey Brown spoke with Bird for our arts and culture series, CANVAS.",
+   "published": "2026-09-09T22:25:16+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-09-10T00:17:31.819255+00:00"
+  },
+  {
+   "id": "d47a68e90d834404",
+   "title": "Beauty school moms caught in accreditation crossfire as Trump administration weighs consequential decision",
+   "url": "https://www.foxnews.com/politics/beauty-school-moms-caught-accreditation-crossfire-trump-admin-weighs-consequential-decision",
+   "summary": "Trump&apos;s Department of Education faces a pivotal decision on NACCAS accreditation that could cut federal student aid for 120,000 beauty students.",
+   "published": "2026-09-09T22:22:12+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-10T00:17:30.261439+00:00"
+  },
+  {
+   "id": "74d2eb5ec2111d66",
+   "title": "Notorious Ecuadorian crime gang designated a terrorist group by US",
+   "url": "https://www.theguardian.com/world/2026/sep/09/ecuador-drugs-gang-terrorist-group-los-tiguerones-rubio",
+   "summary": "Trump administration to seek extra funding from Congress to \u2018dismantle\u2019 Los Tiguerones over narcotics traffickingThe US has designated Ecuador\u2019s Los Tiguerones gang, which stormed a television station during a live broadcast in 2024, as a terrorist organisation as the Trump administration expands its campaign against narcotics traffickers it says are destabilising Latin America.The US secretary of state, Marco Rubio, made the announcement in Quito, where he met Ecuadorian president Daniel Noboa, one of several rightwing allies of Donald Trump whom Rubio is courting as a security partner during",
+   "published": "2026-09-09T22:19:25+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-09-10T00:17:31.241996+00:00"
+  },
+  {
+   "id": "1d39c6bf1651b8ff",
+   "title": "WATCH: Trump says oil prices will come down after midterm elections",
+   "url": "https://www.pbs.org/newshour/politics/watch-trump-says-oil-prices-will-come-down-after-midterm-elections",
+   "summary": "President Donald Trump, in an exchange with reporters before traveling to Dallas for the midterm Republican convention, added that he believes Iran will finally relent after the pivotal elections are held in the U.S.",
+   "published": "2026-09-09T22:08:17+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-09-10T00:17:31.819268+00:00"
+  },
+  {
+   "id": "67cedc37ebf6c8b0",
+   "title": "Trump says he would consider pardon for former attorney Michael Cohen",
+   "url": "https://www.theguardian.com/us-news/2026/sep/09/trump-pardon-michael-cohen",
+   "summary": "Cohen has not personally asked Trump for a pardon, but he submitted an application to the White House after his request was denied by the Biden administrationDonald Trump on Wednesday said he would consider pardoning Michael Cohen, the former fixer whom he once branded a \u201crat\u201d for testifying against him in court and before Congress, but with whom he has recently staged a stunning public reconciliation.Asked by a reporter whether he would grant Cohen\u2019s appeal for presidential clemency, Trump said: \u201cIf everything is checking out, it\u2019s something I would consider.\u201d Continue reading...",
+   "published": "2026-09-09T22:03:00+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-09-10T00:17:31.242004+00:00"
+  },
+  {
+   "id": "3699fc132ae37108",
+   "title": "Trump admits Iran war will not end before midterms",
+   "url": "https://thehill.com/newsletters/defense-national-security/6080270-trump-admits-iran-war-will-not-end-before-midterms/",
+   "summary": "Welcome to The Hill's Defense &#038; NatSec newsletter {beacon} Defense &#038;National Security Defense &#038;National Security &#8202; The Big Story  Iran war not to end before midterms, Trump admits The Iran war is all but likely to drag on through the midterm elections in November, according to President Trump. Annabelle Gordon, CNP, Bloomberg via Getty Images...",
+   "published": "2026-09-09T22:01:08+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-10T00:17:31.639597+00:00"
+  },
+  {
+   "id": "570d311e567f0743",
+   "title": "Rubio hails Ecuador as an 'aggressive' partner in the US counterdrug push",
+   "url": "https://www.pbs.org/newshour/world/rubio-hails-ecuador-as-an-aggressive-partner-in-the-us-counterdrug-push",
+   "summary": "U.S. Secretary of State Marco Rubio hailed Ecuador on Wednesday as being the most \"aggressive\" partner in the Trump administration's push to crack down on drug trafficking and transnational criminal groups in the Western Hemisphere.",
+   "published": "2026-09-09T21:53:07+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-09-10T00:17:31.819271+00:00"
+  },
+  {
+   "id": "d62bb82bcc39ac29",
+   "title": "WATCH: Democrats say Trump's 'bizarre' convention is a distraction from his faltering presidency",
+   "url": "https://www.pbs.org/newshour/politics/watch-democrats-say-trumps-bizarre-convention-is-a-distraction-from-his-faltering-presidency",
+   "summary": "\"This bizarre Republican midterm convention here can't paper over the fact that Republicans have done nothing to earn your vote,\" Illinois Gov. JB Pritzker, a potential 2028 presidential contender, said Wednesday morning.",
+   "published": "2026-09-09T21:39:56+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-09-10T00:17:31.819272+00:00"
+  },
+  {
+   "id": "600d892d5a8a2ea1",
+   "title": "Trump\u2019s health nominees set to move forward with Senate return",
+   "url": "https://thehill.com/newsletters/healthcare/6080173-trumps-health-nominees-set-to-move-forward-with-senate-return/",
+   "summary": "Click in for more news from The Hill {beacon} Healthcare Healthcare &#8202; The Big Story  Trump\u2019s health nominees set to move forward with Senate return Several of President Trump\u2019s health nominees will get a confirmation hearing next week in the Senate Health, Education, Labor and Pensions Committee, including surgeon general nominee Nicole Saphier.   John...",
+   "published": "2026-09-09T21:29:40+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-10T00:17:31.639627+00:00"
+  },
+  {
+   "id": "fbf616a92ab55e3c",
+   "title": "Pritzker: Vance is Trump's 'chief bootlicker'",
+   "url": "https://thehill.com/homenews/campaign/6080162-pritzker-calls-vance-bootlicker/",
+   "summary": "Illinois Gov. JB Pritzker (D) went after Vice President Vance on Tuesday, calling him President Trump's \"chief bootlicker.\" \u201cWe're going to make sure that the public understands that; we're going to remind people of what the policies have been that JD Vance has stood with Donald Trump on,\u201d Pritzker told MS NOW\u2019s Jen Psaki on...",
+   "published": "2026-09-09T21:29:25+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-10T00:17:31.639631+00:00"
+  },
   {
    "id": "a56447844a5cd774",
    "title": "Trump snaps at ABC reporter over question on Republicans avoiding GOP convention",
@@ -8361,28 +8548,6 @@
    "source_id": "propublica",
    "bias_note": "investigative",
    "first_seen": "2026-08-29T21:14:43.675239+00:00"
-  },
-  {
-   "id": "09ba9fb0cf8447a9",
-   "title": "Fact Sheet: President Donald J. Trump Further Ensures Affordable Beef for the American Consumer",
-   "url": "https://www.whitehouse.gov/fact-sheets/2026/08/fact-sheet-president-donald-j-trump-further-ensures-affordable-beef-for-the-american-consumer/",
-   "summary": "ADDRESSING BEEF AFFORDABILITY WITH TARGETED ACTION:&#160;Today, President Donald J. Trump signed a Proclamation to temporarily increase the quantity of lean beef trimmings that are imported with no above-quota tariff to ensure affordable beef for American consumers in light of current supply challenges. This action includes key safeguards to maximize cost savings while protecting American ranchers [&#8230;]\nThe post Fact Sheet: President Donald J. Trump Further Ensures Affordable Beef for the American Consumer appeared first on The White House.",
-   "published": "2026-08-26T21:19:54+00:00",
-   "source": "WhiteHouse.gov News",
-   "source_id": "whitehouse",
-   "bias_note": "official/primary-source",
-   "first_seen": "2026-08-29T21:14:42.361524+00:00"
-  },
-  {
-   "id": "3a5e507a323dcad9",
-   "title": "Further Ensuring Affordable Beef for the American Consumer",
-   "url": "https://www.whitehouse.gov/presidential-actions/2026/08/further-ensuring-affordable-beef-for-the-american-consumer/",
-   "summary": "BY THE PRESIDENT OF THE UNITED STATES OF AMERICA A PROCLAMATION 1.\u00a0 In Proclamation 11010 of February 6, 2026 (Ensuring Affordable Beef for the American Consumer), I found that cattle ranchers in the United States have played, and continue to play, an integral role in food production for the United States; that the United States [&#8230;]\nThe post Further Ensuring Affordable Beef for the American Consumer appeared first on The White House.",
-   "published": "2026-08-26T21:18:42+00:00",
-   "source": "WhiteHouse.gov News",
-   "source_id": "whitehouse",
-   "bias_note": "official/primary-source",
-   "first_seen": "2026-08-29T21:14:42.361526+00:00"
   }
  ]
 }
