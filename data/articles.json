@@ -1,7 +1,139 @@
 {
- "updated": "2026-09-10T00:17:32.642915+00:00",
- "count": 777,
+ "updated": "2026-09-10T07:21:10.874387+00:00",
+ "count": 790,
  "articles": [
+  {
+   "id": "ff296e98134ca17c",
+   "title": "As the midterms loom, Trump returns to his happy place: on stage in the theatre of the absurd",
+   "url": "https://www.theguardian.com/us-news/2026/sep/10/trump-theatre-of-the-absurd-republican-midterm-convention-dallas-rally",
+   "summary": "President\u2019s quest in self-mythology stops off in Dallas for a Republican convention where fans indulged his lies and revelled in his jokesKim Il-sung of North Korea reportedly sought transfusions of blood from young men; Mao Zedong of China believed sex with young women could prolong his life; Muammar Gaddafi underwent fat injections and hair transplantation to make himself look younger. But for Donald Trump, the secret of eternal youth lies in nights like this.The occasion of the Republican midterm convention in Dallas was enough to get the 80-year-old US president\u2019s juices flowing. An arena ",
+   "published": "2026-09-10T05:59:28+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-09-10T07:21:09.834309+00:00"
+  },
+  {
+   "id": "8f38f7412d4e5bcd",
+   "title": "US citizens will receive $5,000 if Republicans win midterms, Trump claims in lengthy convention speech",
+   "url": "https://www.theguardian.com/us-news/2026/sep/09/trump-republican-convention-speech-midterm-elections",
+   "summary": "President makes offer that would cost US over $1tn and asks voters to \u2018pretend that I\u2019m on the ballot\u2019 despite being deeply unpopular among electorateDonald Trump pledged to pay every adult citizen in the US $5,000 if Republicans retain the House and Senate in the midterm elections, during a marathon speech at the Republican midterm convention in Dallas in which the president assailed Democrats as \u201cradical\u201d and defended his unpopular war in Iran.The outlandish proposal, which would cost over $1tn, immediately raised ethical concerns. But it laid bare the extent of the Republicans\u2019 concern abou",
+   "published": "2026-09-10T05:26:46+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-09-10T07:21:09.834335+00:00"
+  },
+  {
+   "id": "a94d5c8ef41f6eeb",
+   "title": "GOP midterm convention lives up to its 'Trump-a-Palooza' hype",
+   "url": "https://thehill.com/homenews/campaign/6080104-trump-gop-midterm-convention-dallas/",
+   "summary": "DALLAS \u2014 The Republican National Committee\u2019s first-ever midterm convention lived up to its \u201cTrump-a-palooza\u201d nickname as the two-day Dallas bash kicked off Wednesday.\u00a0\u00a0 Posters of the president \u2014 from Oval Office meetings to his triumphant stance in Butler, Pa., \u2014 dotted the American Airlines Center\u2019s walls. Red, white and blue baseball caps emblazoned with Trump\u2019s...",
+   "published": "2026-09-10T04:47:29+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-10T07:21:10.041328+00:00"
+  },
+  {
+   "id": "6aca414abf8cec64",
+   "title": "Trump implores GOP to 'pretend' he's on November ballot at first night of midterm convention",
+   "url": "https://thehill.com/homenews/administration/6080107-trump-midterm-convention-dallas-dividends/",
+   "summary": "President Trump renewed his calls on Wednesday for Republicans to pretend that he's on the ballot in November, promising $5,000 for every U.S. adult if the GOP holds onto the House and Senate. \u201cI'm asking you to pretend that I'm on the ballot,\u201d he said in the keynote address at the RNC midterm convention in...",
+   "published": "2026-09-10T04:14:42+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-10T07:21:10.041337+00:00"
+  },
+  {
+   "id": "48ecab6f7ce88163",
+   "title": "WATCH: Trump promises $5,000 'dividend' for Americans if GOP wins midterms",
+   "url": "https://www.pbs.org/newshour/politics/watch-trump-promises-5000-dividend-for-americans-if-gop-wins-midterms",
+   "summary": "President Donald Trump promised on Wednesday to send every adult American citizen a $5,000 \"dividend\" if Republicans keep control of both the Senate and House of Representatives in the midterms.",
+   "published": "2026-09-10T03:41:34+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-09-10T07:21:10.236469+00:00"
+  },
+  {
+   "id": "d92d3ff02de5a2bf",
+   "title": "Trump makes stunning first-of-its-kind cash promise in bid to rally GOP voters at Dallas midterm convention",
+   "url": "https://www.foxnews.com/politics/trump-makes-stunning-first-of-its-kind-cash-promise-bid-rally-gop-voters-dallas-midterm-convention",
+   "summary": "President Donald Trump promised a $5,000 &quot;Trump dividend&quot; to every adult citizen if Republicans keep Congress at the GOP midterm convention.",
+   "published": "2026-09-10T03:20:25+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-10T07:21:09.510654+00:00"
+  },
+  {
+   "id": "44327fd11cee5642",
+   "title": "Trump pledges $5K 'Trump dividend' if Republicans hold onto Congress",
+   "url": "https://thehill.com/homenews/administration/6080741-trump-dividend-november-pledge/",
+   "summary": "President Trump pledged a $5,000 payout to U.S. adults on Wednesday, but only if Republicans hold onto their majority in Congress come November. \"Here is my promise: if the Republicans win the House of Representatives and the United States Senate, both of them \u2026 because of our tremendous strength and success economically, I will issue...",
+   "published": "2026-09-10T02:48:47+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-10T07:21:10.041355+00:00"
+  },
+  {
+   "id": "64d1b34597f79ed4",
+   "title": "EXCLUSIVE: 25 years after 9/11, ICE says more than 2K known or suspected terrorists have been deported",
+   "url": "https://www.foxnews.com/politics/exclusive-25-years-after-911-ice-says-more-than-2k-known-suspected-terrorists-deported",
+   "summary": "ICE arrested over 2,150 known or suspected terrorists and deported more than 2,000 since Trump took office, DHS says ahead of the 9/11 anniversary.",
+   "published": "2026-09-10T02:33:51+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-10T07:21:09.510668+00:00"
+  },
+  {
+   "id": "70e6e5e8b2324c11",
+   "title": "Fetterman, already at odds with his party, makes surprise video for GOP convention",
+   "url": "https://www.npr.org/2026/09/09/nx-s1-5963916/john-fetterman-gop-midterm-convention-trump",
+   "summary": "The Pennsylvania Democrat has already had a strained relationship with many inside his party. In the video, he spoke about working with Trump but did not outright praise him.",
+   "published": "2026-09-10T01:17:28+00:00",
+   "source": "NPR Politics",
+   "source_id": "npr-politics",
+   "bias_note": "center",
+   "first_seen": "2026-09-10T07:21:09.763261+00:00"
+  },
+  {
+   "id": "0242cafaf5020d9b",
+   "title": "Dem senator delivers surprise video at Republican convention backing McCormick",
+   "url": "https://www.foxnews.com/politics/democratic-sen-fetterman-delivers-surprise-video-republican-convention-backing-mccormick",
+   "summary": "John Fetterman&apos;s surprise video at the GOP convention praised Trump and Dave McCormick while rejecting what he called Democratic &quot;extremes and socialism.&quot;",
+   "published": "2026-09-10T01:08:54+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-10T07:21:09.510681+00:00"
+  },
+  {
+   "id": "4476d21fb467a7d8",
+   "title": "HSI agent who investigated child exploitation cases indicted on rape and child abuse charges",
+   "url": "https://www.foxnews.com/us/hsi-agent-who-investigated-child-exploitation-cases-indicted-rape-child-abuse-charges",
+   "summary": "A Homeland Security Investigations agent who worked child exploitation cases faces rape, incest and sodomy charges involving a juvenile in Alabama.",
+   "published": "2026-09-10T00:47:04+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-10T07:21:09.529446+00:00"
+  },
+  {
+   "id": "d8ea251e4b0952f0",
+   "title": "U.S. Postal Service Failed to Properly Handle Some Ballots During This Year\u2019s Primary Elections, Audit Finds",
+   "url": "https://www.propublica.org/article/postal-service-audit-primary-election-ballots",
+   "summary": "The post U.S. Postal Service Failed to Properly Handle Some Ballots During This Year\u2019s Primary Elections, Audit Finds appeared first on ProPublica.",
+   "published": "2026-09-10T00:35:00+00:00",
+   "source": "ProPublica",
+   "source_id": "propublica",
+   "bias_note": "investigative",
+   "first_seen": "2026-09-10T07:21:10.489750+00:00"
+  },
   {
    "id": "c45e465db3bf3b53",
    "title": "\u2018We are going in the wrong direction\u2019: Republican convention dogged by the cost of living",
@@ -419,6 +551,17 @@
    "source_id": "thehill",
    "bias_note": "center",
    "first_seen": "2026-09-09T17:51:03.234966+00:00"
+  },
+  {
+   "id": "63184506df2a430d",
+   "title": "Republicans kick off \u2018midterm convention\u2019 to overcome Trump unpopularity",
+   "url": "https://www.theguardian.com/us-news/2026/sep/09/republicans-midterm-convention-trump",
+   "summary": "GOP plans to center the president at rare two-day Texas event as party hopes to retain control of House in midtermsRepublicans are gathering in Texas on Wednesday for a rare \u201cmidterm convention\u201d, as they attempt to convince Americans to vote for a party led by a deeply unpopular president who has overseen inflation and led the US into an increasingly unpopular war.Donald Trump will dominate the two-day convention, appearing both nights as the GOP works to cling to control of the House of Representatives in November. Republicans plan to put the president at the center of the event, a bold strat",
+   "published": "2026-09-09T17:23:44+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-09-10T07:21:09.834395+00:00"
   },
   {
    "id": "6b9377608b44152c",
