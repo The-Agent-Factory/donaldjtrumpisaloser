@@ -1,7 +1,194 @@
 {
- "updated": "2026-09-10T20:54:55.022744+00:00",
- "count": 850,
+ "updated": "2026-09-11T00:13:22.473597+00:00",
+ "count": 865,
  "articles": [
+  {
+   "id": "87b7b7ad82945698",
+   "title": "Trump says he would \u2018probably\u2019 be able to make deals with Democrats",
+   "url": "https://thehill.com/homenews/administration/6083451-trump-potential-democratic-majority-probably-deals/",
+   "summary": "President Trump said he would \u201cprobably\u201d be able to make deals with Democrats should they take back majorities in Congress \u2014 but warned he would also work to block their agenda. \u201cI\u2019ll be a block. I\u2019ll end up being a blocker. I\u2019ll block all of their bad stuff for two years,\u201d Trump said in an...",
+   "published": "2026-09-11T00:12:03+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-11T00:13:21.590523+00:00"
+  },
+  {
+   "id": "2f7fb7c3df3032ce",
+   "title": "Federal appeals court compares Trump migrant detention policy to Japanese American internment",
+   "url": "https://www.foxnews.com/politics/federal-appeals-court-compares-trump-migrant-detention-policy-japanese-american-internment",
+   "summary": "The 4th Circuit rejected Trump&apos;s mass detention policy, comparing it to Japanese Americans&apos; World War II internment, setting the stage for a Supreme Court showdown.",
+   "published": "2026-09-10T23:40:01+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-11T00:13:19.455283+00:00"
+  },
+  {
+   "id": "91b6dccdc7d2af14",
+   "title": "UK bans trade with Israeli settlements in West Bank",
+   "url": "https://thehill.com/homenews/6082956-uk-bans-trade-with-israeli-settlements-in-west-bank-yt/",
+   "summary": "Israel\u2019s international isolation is growing this week after the United Kingdom, Canada and France all announced they would move to restrict trade with settlements in the occupied West Bank. Tellingly, it\u2019s not yet clear how hard the Trump administration will fight back on Israel\u2019s behalf.",
+   "published": "2026-09-10T23:30:00+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-11T00:13:21.590542+00:00"
+  },
+  {
+   "id": "8a1f5ec01a2d4eee",
+   "title": "Missouri is poised to revert to former districts after Supreme Court rejects Trump-backed map",
+   "url": "https://www.pbs.org/newshour/politics/missouri-is-poised-to-revert-to-former-districts-after-supreme-court-rejects-trump-backed-map",
+   "summary": "The decision means Missouri could run the November general election with different U.S. House districts than were used in the August primary \u2014 an extremely rare situation that could switch the candidate choices for more than a million potential voters.",
+   "published": "2026-09-10T23:25:15+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-09-11T00:13:21.694879+00:00"
+  },
+  {
+   "id": "b909cb5aa47abf0d",
+   "title": "Trump surgeon general nominee discloses tobacco, pharma investments",
+   "url": "https://thehill.com/policy/healthcare/6083278-trump-surgeon-general-nominee-tobacco-drug-investments/",
+   "summary": "President Trump\u2019s surgeon general nominee reported investments in the tobacco company Philip Morris International as well as beverage companies Monster Beverage Corp, Coca Cola Co. and Pepsi Co., according to financial disclosures released Thursday. Nicole Saphier disclosed these investments in an ethics agreement, where she pledged to completely or partially divest from those companies, as...",
+   "published": "2026-09-10T23:15:19+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-11T00:13:21.590549+00:00"
+  },
+  {
+   "id": "9a6eee917aa46080",
+   "title": "Bond yields rise modestly after Trump's dividend pledge",
+   "url": "https://thehill.com/business/6083360-gop-midterm-dividend-bond-yields-high/",
+   "summary": "Bond yields ticked up slightly on Thursday, after President Trump pledged to send a $5,000 dividend to every American adult if Republicans win the midterms. The yield on the 10-year U.S. Treasury bond closed at roughly 4.96 percent, roughly 1.3 basis points above where it opened. The note closed at its highest point since April...",
+   "published": "2026-09-10T22:58:02+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-11T00:13:21.590552+00:00"
+  },
+  {
+   "id": "ed00e552a5bd5445",
+   "title": "Trump's vow of $5,000 payments to Americans faces bipartisan criticism",
+   "url": "https://www.pbs.org/newshour/show/trumps-vow-of-5000-payments-to-americans-faces-bipartisan-criticism",
+   "summary": "Republicans are back in Dallas Thursday night as they wrap up their unprecedented midterm convention. Night one brought a claim from President Trump of $5,000 payments to Americans if Republicans keep control of Congress. Democratic Sen. John Fetterman also made a surprise video appearance. White House correspondent Liz Landers reports.",
+   "published": "2026-09-10T22:55:04+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-09-11T00:13:21.694887+00:00"
+  },
+  {
+   "id": "883286bf97713f29",
+   "title": "A look at the young conservative movement a year after Charlie Kirk's killing",
+   "url": "https://www.pbs.org/newshour/show/a-look-at-the-young-conservative-movement-a-year-after-charlie-kirks-killing",
+   "summary": "Charlie Kirk's influence is still deeply felt at the Republicans' midterm convention. His killing a year ago reshaped the young conservative movement he built and left his friends and political allies with the task of carrying it forward. To discuss the future of Turning Point USA, Geoff Bennett spoke with Robert Draper, a New York Times Magazine reporter who profiled Kirk before his death.",
+   "published": "2026-09-10T22:50:23+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-09-11T00:13:21.694892+00:00"
+  },
+  {
+   "id": "2e6e557998391234",
+   "title": "Prosecutor Joseph diGenova resigns from DOJ role investigating Trump-Russia probes",
+   "url": "https://www.foxnews.com/politics/prosecutor-joseph-digenova-resigns-from-doj-role-investigating-trump-russia-probes",
+   "summary": "Joseph diGenova resigned from his Justice Department role investigating the alleged &quot;Grand Conspiracy&quot; surrounding the Trump-Russia investigations.",
+   "published": "2026-09-10T22:46:19+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-11T00:13:19.455306+00:00"
+  },
+  {
+   "id": "b56eb4d2e1982d89",
+   "title": "Top Republicans didn\u2019t expect Trump\u2019s dividends. Now they\u2019re scrambling.",
+   "url": "https://www.politico.com/news/2026/09/10/republicans-split-trump-payouts-midterms-01071816",
+   "summary": "As they gathered in Dallas, GOP lawmakers wavered from full-on embrace to full-on avoidance of the president\u2019s promise of $5,000 checks to Americans.",
+   "published": "2026-09-10T22:33:38+00:00",
+   "source": "Politico",
+   "source_id": "politico",
+   "bias_note": "center",
+   "first_seen": "2026-09-11T00:13:20.185399+00:00"
+  },
+  {
+   "id": "52c804b946dee212",
+   "title": "Trump promises Obamacare rebates to people in swing states",
+   "url": "https://thehill.com/newsletters/healthcare/6083316-trump-promises-obamacare-rebates-to-people-in-swing-states/",
+   "summary": "Click in for more news from The Hill {beacon} Healthcare Healthcare &#8202; The Big Story  Trump promises Obamacare rebates to people in swing states, right before midterms  President Trump said he\u2019s planning to send $500 checks to about 1 million people who he claims were \u201cmassively\u201d overcharged for Affordable Care Act (ACA) coverage.  Jacquelyn Martin, Associated...",
+   "published": "2026-09-10T22:27:08+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-11T00:13:21.590567+00:00"
+  },
+  {
+   "id": "97fb5627d71a7eda",
+   "title": "Trump ally resigns from post leading inquiry into alleged conspiracy against president",
+   "url": "https://www.theguardian.com/us-news/2026/sep/10/trump-ally-resigns-president-conspiracy-inquiry",
+   "summary": "Joe diGenova led investigation focused on intelligence assessment that Russia interfered in 2016 electionAn ally of Donald Trump said on Thursday that he had resigned from his post leading a Department of Justice investigation into whether former law enforcement and intelligence officials conspired against the Republican president.The departure injects instant tumult into an investigation targeting former government officials who have investigated Trump over the last decade, including in connection with Russian interference in the 2016 presidential election and his retention of classified docu",
+   "published": "2026-09-10T22:19:57+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-09-11T00:13:20.095294+00:00"
+  },
+  {
+   "id": "b995440b1f8c6674",
+   "title": "Trump sees backlash over $5K dividend pledge",
+   "url": "https://thehill.com/newsletters/business-economy/6083240-trump-sees-backlash-over-5k-dividend-pledge/",
+   "summary": "Welcome to The Hill's Business &#038; Economy newsletter {beacon} Business &#038; Economy Business &#038; Economy &#8202; The Big Story  Trump sees backlash over $5K dividend pledge President Trump\u2019s promise to distribute $5,000 to every U.S. adult if the GOP wins the midterms is drawing backlash from Republicans and Democrats as the president\u2019s allies are forced...",
+   "published": "2026-09-10T21:45:27+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-11T00:13:21.590586+00:00"
+  },
+  {
+   "id": "b1a4d2c796310130",
+   "title": "200,000 Salvadoran immigrants hope for protection amid Trump administration silence",
+   "url": "https://www.pbs.org/newshour/politics/200000-salvadoran-immigrants-hope-for-protection-amid-trump-administration-silence",
+   "summary": "A deadline for the Trump administration to decide whether about 200,000 immigrants from El Salvador can remain protected from deportation has passed without any public announcement, raising hopes among many for another six-month extension while also sowing confusion.",
+   "published": "2026-09-10T21:19:24+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-09-11T00:13:21.694954+00:00"
+  },
+  {
+   "id": "ab879c3f4443940b",
+   "title": "Trump administration accuses prestigious law school of favoring Black applicants over White, Asian peers",
+   "url": "https://www.foxnews.com/politics/trump-administration-accuses-prestigious-law-school-favoring-black-applicants-over-white-asian-peers",
+   "summary": "Federal officials allege a major California law school favored Black applicants over Asian and White students, but the university denies violating admissions laws.",
+   "published": "2026-09-10T21:15:30+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-11T00:13:19.455321+00:00"
+  },
+  {
+   "id": "f9860d52462a1a92",
+   "title": "Trump signs act clearing the way for Medal of Honor monument on National Mall",
+   "url": "https://www.foxnews.com/politics/trump-signs-act-clearing-way-medal-honor-monument-national-mall",
+   "summary": "Trump signed the act at the National Medal of Honor Museum in Arlington, Texas, after meeting 15 living recipients and touring the facility.",
+   "published": "2026-09-10T21:04:32+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-11T00:13:19.455324+00:00"
+  },
+  {
+   "id": "d14c111b308b3e5d",
+   "title": "US supreme court again rejects Missouri maps drawn to boost Republicans in midterms",
+   "url": "https://www.theguardian.com/us-news/2026/sep/10/missouri-redistricting-map-supreme-court-rejection",
+   "summary": "Latest decision appears to set the stage for the state to use its old electoral maps this yearThe US supreme court again rejected a push backed by Donald Trump to overhaul Missouri\u2019s congressional maps in an effort to hand Republicans an edge in November\u2019s midterm elections.Its latest ruling, after days of confusion, comes less than two months before the pivotal midterm elections in which control of the narrowly divided US House of Representatives could be determined by a handful of seats. Continue reading...",
+   "published": "2026-09-10T20:55:20+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-09-11T00:13:20.095304+00:00"
+  },
   {
    "id": "557a382f2db2d673",
    "title": "Trump faces reckoning as GOP figures label $5K promise a 'socialist vote-buying scheme'",
@@ -9329,28 +9516,6 @@
    "source_id": "abc-politics",
    "bias_note": "center",
    "first_seen": "2026-08-29T21:14:43.947935+00:00"
-  },
-  {
-   "id": "d26bf6dc8ca8e4f7",
-   "title": "Jan. 6 rioters pursue new path for payments from Trump administration",
-   "url": "https://www.pbs.org/newshour/show/jan-6-rioters-pursue-new-path-for-payments-from-trump-administration",
-   "summary": "Some Jan. 6 rioters are pursuing a new path to seek millions of dollars from the federal government after the Justice Department abandoned plans for its controversial anti-weaponization fund. White House correspondent Liz Landers reports.",
-   "published": "2026-08-27T22:35:36+00:00",
-   "source": "PBS NewsHour Politics",
-   "source_id": "pbs-politics",
-   "bias_note": "center",
-   "first_seen": "2026-08-29T21:14:43.533273+00:00"
-  },
-  {
-   "id": "8fa968290ecd29e7",
-   "title": "Honoring the American History of the Great Lakes and Renaming Lake Ontario as Lake America",
-   "url": "https://www.whitehouse.gov/presidential-actions/2026/08/honoring-the-american-history-of-the-great-lakes-and-renaming-lake-ontario-as-lake-america-3a36/",
-   "summary": "By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered: Section 1.&#160; Purpose and Policy.&#160; As I announced in Executive Order 14172 of January 20, 2025 (Restoring Names That Honor American Greatness), it is the policy of my Administration to recognize [&#8230;]\nThe post Honoring the American History of the Great Lakes and Renaming Lake Ontario as Lake America appeared first on The White House.",
-   "published": "2026-08-27T21:00:35+00:00",
-   "source": "WhiteHouse.gov News",
-   "source_id": "whitehouse",
-   "bias_note": "official/primary-source",
-   "first_seen": "2026-08-29T21:14:42.361520+00:00"
   }
  ]
 }
