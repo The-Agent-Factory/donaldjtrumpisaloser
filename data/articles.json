@@ -1,7 +1,139 @@
 {
- "updated": "2026-09-11T11:28:26.874863+00:00",
- "count": 887,
+ "updated": "2026-09-11T14:53:40.431143+00:00",
+ "count": 898,
  "articles": [
+  {
+   "id": "14709fa628f61e6b",
+   "title": "\u2018Trump-level\u2019 smackdown earns Vance roaring praise as 2028 buzz builds at GOP convention",
+   "url": "https://www.foxnews.com/politics/trump-level-smackdown-earns-vance-roaring-praise-2028-buzz-builds-gop-convention",
+   "summary": "JD Vance fired back at a protester waving a Mexican flag during his RNC convention speech in Dallas, offering to buy them a plane ticket to Mexico.",
+   "published": "2026-09-11T14:47:31+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-11T14:53:39.143126+00:00"
+  },
+  {
+   "id": "5367a78115a68d83",
+   "title": "Carney: Latest Trump trade moves 'relatively modest'",
+   "url": "https://thehill.com/policy/international/6084500-carney-latest-trump-trade-moves-relatively-modest/",
+   "summary": "Canadian Prime Minister Mark Carney said Thursday President Trump\u2019s latest round of tariffs is \u201crelatively modest\u201d compared to the United States' past moves.  When talking with reporters at a cabinet retreat in Banff, Alberta, Carney was asked if Canada was going to retaliate to added U.S. tariffs. Carney said that this government was analyzing the...",
+   "published": "2026-09-11T14:27:58+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-11T14:53:39.745608+00:00"
+  },
+  {
+   "id": "45af63d4b3ea44db",
+   "title": "Live updates: Trump, Vance, past presidents pause to remember Sept. 11",
+   "url": "https://thehill.com/homenews/administration/6083845-live-updates-trump-vance-sept-11/",
+   "summary": "President Trump and Defense Secretary Pete Hegseth are attending a remembrance at the Pentagon, while Vice President Vance has joined past presidents and New York City Mayor Zohran Mamdani (D) at Ground Zero on Friday morning, as America pauses to honor the victims of the Sept. 11, 2001, terrorist attacks. While the memorial in New...",
+   "published": "2026-09-11T14:24:36+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-11T14:53:39.745614+00:00"
+  },
+  {
+   "id": "7f47d234fd7613c3",
+   "title": "Trump list of U.S.-designated 'foreign terrorist organizations' in Latin America grows to 21",
+   "url": "https://www.pbs.org/newshour/world/trump-list-of-u-s-designated-foreign-terrorist-organizations-in-latin-america-grows-to-21",
+   "summary": "The Trump administration has designated 21 Latin American and Caribbean criminal groups as \"foreign terrorist organizations,\" with the latest an Ecuadorian group added to the list on Wednesday.",
+   "published": "2026-09-11T14:23:19+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-09-11T14:53:39.883521+00:00"
+  },
+  {
+   "id": "52028b783048ab5d",
+   "title": "Presidential Message on Rosh Hashanah",
+   "url": "https://www.whitehouse.gov/briefings-statements/2026/09/presidential-message-on-rosh-hashanah-982e/",
+   "summary": "Melania and I send our warmest greetings to the entire Jewish community on Rosh Hashanah\u2014the Jewish New Year and the first of the High Holy Days. The Jewish community around the world marks the anniversary of when the Almighty created Adam and Eve and the story of humanity began.&#160; These two days open a solemn [&#8230;]\nThe post Presidential Message on Rosh Hashanah appeared first on The White House.",
+   "published": "2026-09-11T14:22:25+00:00",
+   "source": "WhiteHouse.gov News",
+   "source_id": "whitehouse",
+   "bias_note": "official/primary-source",
+   "first_seen": "2026-09-11T14:53:39.228143+00:00"
+  },
+  {
+   "id": "4ca33522e74607e9",
+   "title": "Trump admin\u2019s fraud crackdown targets foreigners accused of infiltrating US federal programs",
+   "url": "https://www.foxnews.com/politics/trump-admins-fraud-crackdown-targets-foreigners-accused-infiltrating-u-s-federal-programs",
+   "summary": "The FBI&apos;s Most Wanted list names Onur Simsek, a Turkish national accused of a defense procurement fraud scheme involving fake parts for U.S. military gear.",
+   "published": "2026-09-11T14:21:14+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-11T14:53:39.096386+00:00"
+  },
+  {
+   "id": "9ef290227e47b755",
+   "title": "Collins: Trump\u2019s proposed $5K dividend \u2018extraordinarily costly\u2019",
+   "url": "https://thehill.com/homenews/senate/6084345-collins-trump-dividend-midterms/",
+   "summary": "Sen. Susan Collins (R-Maine) said President Trump\u2019s proposal to give $5,000 to every American adult if Republicans win the midterm elections \u201cwould be extraordinarily costly\u201d and questioned providing it to everyone regardless of financial need. \u201cFrom the few details we have, it seems that the proposed $5,000 dividend would not have an income cap and...",
+   "published": "2026-09-11T14:08:58+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-11T14:53:39.745620+00:00"
+  },
+  {
+   "id": "639ac8e1903802c3",
+   "title": "Vance? Rubio? DeSantis? Cruz? Republicans at Dallas convention ponder options for post-Trump leader",
+   "url": "https://www.pbs.org/newshour/politics/vance-rubio-desantis-cruz-republicans-at-dallas-convention-ponder-options-for-post-trump-leader",
+   "summary": "The vice president's speech solidified his status as a potential frontrunner, and President Donald Trump talked him up afterwards as a \"very talented guy\" who \"did a very good job.\"",
+   "published": "2026-09-11T14:03:28+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-09-11T14:53:39.883528+00:00"
+  },
+  {
+   "id": "b5187e71ff7e5aa2",
+   "title": "Why Trump is leaning into his role as \u2018builder-in-chief\u2019",
+   "url": "https://thehill.com/opinion/white-house/6083435-trump-builder-chief-war-distraction/",
+   "summary": "Donald Trump is shifting focus from the ongoing conflict with Iran toward several major architectural renovation projects across Washington, D.C.",
+   "published": "2026-09-11T14:00:00+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-11T14:53:39.745638+00:00"
+  },
+  {
+   "id": "6d96109d50940a69",
+   "title": "Joe diGenova resigns from DOJ position investigating Trump foes",
+   "url": "https://thehill.com/homenews/administration/6084344-jodigenova-trump-investigation-resigned/",
+   "summary": "Joe diGenova, a Trump ally tapped to lead a sprawling investigation into many of the president\u2019s perceived enemies, resigned from his post late Thursday, indicating concerns over the strength of the case. The so-called grand conspiracy investigation was led out of a U.S. attorney office in Florida where prosecutors issued dozens of subpoenas in a...",
+   "published": "2026-09-11T13:59:44+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-11T14:53:39.745644+00:00"
+  },
+  {
+   "id": "db83c9236864362c",
+   "title": "DeSantis knocks Trump's $5K dividend payment pledge: 'More debt and more inflation'",
+   "url": "https://thehill.com/homenews/state-watch/6083953-ron-desantis-donald-trump-dividends-midterms/",
+   "summary": "Florida Gov. Ron DeSantis (R) on Thursday criticized President Trump\u2019s controversial proposal to pay out $5,000 checks to every U.S. adult if Republicans win the midterms.\u00a0 \u201cWhat I would say is, if you are getting surplus revenue, you should cut people\u2019s tax and return it to the people,\u201d DeSantis said during a press conference in...",
+   "published": "2026-09-11T12:57:17+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-11T14:53:39.745688+00:00"
+  },
+  {
+   "id": "ec7203ee5995ad78",
+   "title": "Remembering 9/11. And, Vance, Trump urge voters to back Republicans in the midterms",
+   "url": "https://www.npr.org/2026/09/11/g-s1-142846/up-first-newsletter-september-11-remembrance-republican-midterm-convention-scotus-missouri-redistricting",
+   "summary": "NPR reflects on the events of 9/11 and the toll it left on the U.S. 25 years later. And, President Trump and Vice President Vance's convention speeches urge voters to back the GOP in the midterms.",
+   "published": "2026-09-11T11:55:49+00:00",
+   "source": "NPR Politics",
+   "source_id": "npr-politics",
+   "bias_note": "center",
+   "first_seen": "2026-09-11T14:53:39.429809+00:00"
+  },
   {
    "id": "17ae2645579d6c73",
    "title": "Trump set to honor 9/11 victims and first responders at Pentagon and more top headlines",
@@ -9747,17 +9879,6 @@
    "source_id": "pbs-politics",
    "bias_note": "center",
    "first_seen": "2026-08-29T21:14:43.533258+00:00"
-  },
-  {
-   "id": "ab0a165c4902f3d3",
-   "title": "Dolly Parton was the polar opposite of our bullying president | Robert Reich",
-   "url": "https://www.theguardian.com/commentisfree/2026/aug/28/dolly-parton-trump-canada",
-   "summary": "Terrified of being seen as a loser, Donald Trump is nonsensically lashing out \u2013 even against our old friend CanadaI\u2019m still grieving Dolly Parton. I never met her and always wanted to. She was almost exactly my age and my height and had values I deeply admired. Her death leaves a hole in the firmament.Which brings me to the person whose values are as far from Dolly Parton\u2019s as any human could possibly be and still claim to be human. I\u2019m referring, of course, to the current occupant of the Oval Office. Continue reading...",
-   "published": "2026-08-28T12:00:56+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-08-29T21:14:42.935291+00:00"
   }
  ]
 }
