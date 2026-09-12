@@ -1,7 +1,40 @@
 {
- "updated": "2026-09-12T12:12:26.514352+00:00",
+ "updated": "2026-09-12T13:55:21.041414+00:00",
  "count": 920,
  "articles": [
+  {
+   "id": "1ca938b0e2e84502",
+   "title": "Live updates: Trump visits Ireland, the debate over 5K dividends heats up",
+   "url": "https://thehill.com/homenews/administration/6085709-live-updates-trump-visits-ireland-the-debate-over-5k-dividends-heats-up/",
+   "summary": "President Trump's pledge to give $5,000 to every U.S. adult if Republicans keep control of both chambers of Congress in the midterm elections has raised questions over whether the plan could cross legal lines.   Trump announced the dividends on the first night of the Republican National Committee (RNC) midterm convention in Dallas Wednesday night. Those on...",
+   "published": "2026-09-12T13:00:00+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-12T13:55:20.014225+00:00"
+  },
+  {
+   "id": "54b1cf1dac0931be",
+   "title": "Trump says a unified Ireland is 'going to happen eventually'",
+   "url": "https://thehill.com/homenews/administration/6085955-trump-ireland-reunification-comments/",
+   "summary": "President Trump on Saturday expressed optimism about the reunification of Ireland during a meeting with Irish Taoiseach Miche\u00e1l Martin in Dublin.\u00a0 The president, who is visiting his Irish golf course this weekend for a major golf tournament, said he would \u201clove\u201d to see the joining of the Republic of Ireland and the U.K.\u2019s Northern Ireland. ...",
+   "published": "2026-09-12T12:51:38+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-12T13:55:20.014236+00:00"
+  },
+  {
+   "id": "a8547b859094d56e",
+   "title": "Democrats and Republicans can agree: there should be more monetary support for child care",
+   "url": "https://www.npr.org/2026/09/12/nx-s1-5965806/democrats-and-republicans-can-agree-there-should-be-more-monetary-support-for-child-care",
+   "summary": "The Trump administration is eyeing a proposal to\u00a0give childcare subsidies to married couples\u00a0with a stay-at-home parent. Some Democrats have a similar proposal, with one major difference.",
+   "published": "2026-09-12T12:47:08+00:00",
+   "source": "NPR Politics",
+   "source_id": "npr-politics",
+   "bias_note": "center",
+   "first_seen": "2026-09-12T13:55:18.757788+00:00"
+  },
   {
    "id": "7cbdea65840eafa0",
    "title": "President Trump to meet with Irish president and prime minister",
@@ -10088,39 +10121,6 @@
    "source_id": "thehill",
    "bias_note": "center",
    "first_seen": "2026-08-29T21:14:43.317917+00:00"
-  },
-  {
-   "id": "093aa007f69e877e",
-   "title": "Ex-White House teleprompter operator fined $172,000 for Trump speech bets",
-   "url": "https://www.theguardian.com/us-news/2026/aug/29/former-white-house-teleprompter-operator-fined-kalshi",
-   "summary": "Commodity Futures Trading Commission said Gabriel Perez wagered on Kalshi about words president used in speechesA White House teleprompter operator who left his post amid accusations that he used inside knowledge to make bets on Donald Trump\u2019s speeches on an online prediction market has been fined $172,000, according to federal regulators.Gabriel Perez illicitly exploited \u201cmaterial, nonpublic information\u201d that he gathered through his work for the president in order to place wagers on the Kalshi platform \u201cfor his personal benefit\u201d, the Commodity Futures Trading Commission (CFTC) maintained in a",
-   "published": "2026-08-29T13:33:29+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-08-29T21:14:42.935277+00:00"
-  },
-  {
-   "id": "1aae0ffca99aa59d",
-   "title": "Trump confirms Pentagon plans for 25th anniversary of 9/11 attacks, disputes report on Ground Zero absence",
-   "url": "https://www.foxnews.com/politics/trump-confirms-pentagon-plans-25th-anniversary-9-11-attacks-disputes-report-ground-zero-absence",
-   "summary": "President Donald Trump said he will be at the Pentagon. A White House official said Vice President JD Vance will travel to New York for the 25th anniversary of the 9/11 attacks.",
-   "published": "2026-08-29T13:13:10+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-08-29T21:14:42.130952+00:00"
-  },
-  {
-   "id": "77d66fbb4b85c21d",
-   "title": "Is Donald Trump\u2019s bid to brand Democrats as \u2018radical\u2019 communists working?",
-   "url": "https://www.theguardian.com/us-news/2026/aug/29/republican-voters-south-carolina-communism",
-   "summary": "In deep red South Carolina, the president helped stoke apprehension of a deeper red surge ahead of November\u2019s US midterm electionsAfter casting his vote in South Carolina, a man who introduced himself as Chestnut was unwilling to give his full name. \u201cYou don\u2019t have a need to know,\u201d the air force veteran declared. He was, however, happy to share his views.\u201cI\u2019m a true American. I believe in the USA,\u201d said the man, outside Christ the Servant Lutheran church in Conway. \u201cAnd I don\u2019t believe in communism or socialism.\u201d Continue reading...",
-   "published": "2026-08-29T13:00:27+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-08-29T21:14:42.935282+00:00"
   }
  ]
 }
