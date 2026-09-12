@@ -1,7 +1,172 @@
 {
- "updated": "2026-09-12T07:12:09.229612+00:00",
- "count": 912,
+ "updated": "2026-09-12T12:12:26.514352+00:00",
+ "count": 920,
  "articles": [
+  {
+   "id": "7cbdea65840eafa0",
+   "title": "President Trump to meet with Irish president and prime minister",
+   "url": "https://www.npr.org/2026/09/12/nx-s1-5966500/president-trump-to-meet-with-irish-president-and-prime-minister",
+   "summary": "President Trump is working in some Irish diplomacy as he attends a golf tournament at his club in Doonbeg.",
+   "published": "2026-09-12T12:04:24+00:00",
+   "source": "NPR Politics",
+   "source_id": "npr-politics",
+   "bias_note": "center",
+   "first_seen": "2026-09-12T12:12:24.853702+00:00"
+  },
+  {
+   "id": "ae27b883684e289d",
+   "title": "Week in politics: Trump attends Republican midterm convention and Pentagon's 9/11 memorial service",
+   "url": "https://www.npr.org/2026/09/12/nx-s1-5965782/week-in-politics-trump-attends-republican-midterm-convention-and-pentagons-9-11-memorial-service",
+   "summary": "President Trump attended a 9/11 memorial service at the Pentagon on Friday after speaking on both nights of a Republican gathering in Dallas.",
+   "published": "2026-09-12T12:04:21+00:00",
+   "source": "NPR Politics",
+   "source_id": "npr-politics",
+   "bias_note": "center",
+   "first_seen": "2026-09-12T12:12:24.853707+00:00"
+  },
+  {
+   "id": "47ec0deeb8557046",
+   "title": "Trump says he would allow Chinese automakers to build cars in US",
+   "url": "https://thehill.com/homenews/administration/6085912-trump-permits-chinese-automakers-us-manufacturing/",
+   "summary": "President Trump said Friday he would permit Chinese automakers to move manufacturing to the U.S. over the protest of American automakers.  \u201cIf China wanted to come in and open a plant to build their cars here, I\u2019d be OK with it,\u201d the president told Fox News\u2019s Laura Ingraham on \u201cThe Ingraham Angle.\u201d  \u201cJapan does it,...",
+   "published": "2026-09-12T12:01:30+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-12T12:12:25.647137+00:00"
+  },
+  {
+   "id": "b1e7982e63f45408",
+   "title": "\u2018Don\u2019t I deserve a little grace?\u2019: Lonnie Bunch on pressure from Trump and leaving the Smithsonian on his own terms",
+   "url": "https://www.theguardian.com/culture/2026/sep/12/lonnie-bunch-smithsonian-resignation-trump",
+   "summary": "The man who shepherded the creation of the National Museum for African American History and Culture discusses his tenure and interference from the White House\u201cFor the last two years, everything has implied getting rid of me,\u201d Lonnie Bunch III, the Smithsonian Institution\u2019s secretary, said on Thursday. Following an unremitting pressure campaign from Donald Trump and his administration, Bunch, the founding director of the National Museum for African American History and Culture (NMAAHC), announced his retirement on 9 September.Bunch insisted, however, that the pressure \u201cwas not part of my calcul",
+   "published": "2026-09-12T12:00:35+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-09-12T12:12:25.370911+00:00"
+  },
+  {
+   "id": "50a85e293be1e76f",
+   "title": "White House unloads on violent \u2018criminal alien\u2019 nabbed after investigators uncover election offense",
+   "url": "https://www.foxnews.com/politics/white-house-rips-violent-criminal-alien-nabbed-after-investigators-uncover-election-offense",
+   "summary": "Anthony Tyrone Higgs, a Bahamian green card holder with a violent rap sheet, was arrested after officials say he illegally voted in the 2020 election.",
+   "published": "2026-09-12T12:00:13+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-12T12:12:24.384208+00:00"
+  },
+  {
+   "id": "5d9fbadf47d5e4be",
+   "title": "White House unloads on violent \u2018criminal alien\u2019 nabbed after investigators uncover election offense",
+   "url": "https://www.foxnews.com/politics/white-house-unloads-violent-criminal-alien-nabbed-after-investigators-uncover-election-offense",
+   "summary": "Anthony Tyrone Higgs, a Bahamian green card holder with a violent rap sheet, was arrested after officials say he illegally voted in the 2020 election.",
+   "published": "2026-09-12T12:00:13+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-12T12:12:24.455053+00:00"
+  },
+  {
+   "id": "9e9f437bf6f04d20",
+   "title": "Trump says he would \u2018love\u2019 to see unified Ireland and \u2018it may as well happen now\u2019 as he visits Dublin \u2013 live",
+   "url": "https://www.theguardian.com/us-news/live/2026/sep/12/donald-trump-ireland-golf-catherine-connolly-us-politics-latest-news-updates",
+   "summary": "US president is meeting politicians and business leaders \u2013 and playing golf \u2013 during two-day trip to IrelandReuters has issued a series of alerts on Trump\u2019s latest comments (he is currently meeting with Miche\u00e1l Martin). Here is what the news agency has reported:On Iran: War will end very soon. Continue reading...",
+   "published": "2026-09-12T12:00:12+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-09-12T12:12:25.370921+00:00"
+  },
+  {
+   "id": "035b303caf282ab9",
+   "title": "Trump says he would 'love' to see Ireland unified as one nation",
+   "url": "https://www.foxnews.com/politics/trump-says-he-would-love-see-ireland-unified-one-nation",
+   "summary": "Speaking to reporters, President Donald Trump said he hopes to see the island of Ireland become one country in the future, describing reunification as beneficial and predicting it will happen over time.",
+   "published": "2026-09-12T11:13:05+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-12T12:12:24.384227+00:00"
+  },
+  {
+   "id": "be8ada3e02b7f1ae",
+   "title": "\u2018The president doesn\u2019t want you here any more\u2019: Anthony Scaramucci on what really happened during the 11 days he worked in the White House",
+   "url": "https://www.theguardian.com/us-news/2026/sep/12/anthony-scaramucci-11-days-white-house-fired-donald-trump-book",
+   "summary": "Sacked after less than two weeks as Donald Trump\u2019s communications director, the financier and podcaster reflects on the mistakes he made in an exclusive extract from his new book\u2022 Plus: What it\u2019s like to be fired by Trump, by four people who know19 July 2017. My phone rings. White House operator: \u201cPlease hold for the president.\u201dI do. Of course. Continue reading...",
+   "published": "2026-09-12T11:00:35+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-09-12T12:12:25.370928+00:00"
+  },
+  {
+   "id": "fcbaec148d4d994f",
+   "title": "\u2018There\u2019s a weird market failure in media\u2019: David Brooks on how his new podcast will tackle the big questions",
+   "url": "https://www.theguardian.com/media/2026/sep/12/david-brooks-podcast-permanent-questions",
+   "summary": "The former New York Times columnist is taking a step away from politics to focus on moral and humanistic concerns the media rarely coverDavid Brooks knows there are plenty of podcasts out there. But as the veteran commentator prepares to launch his own, he believes there is still space for someone to tackle the big moral questions facing us all.Brooks, who left the New York Times in February after 22 years and joined the Atlantic magazine full-time as a staff writer, hopes to fill that market gap with a new video podcast called The Permanent Questions, funded in part by Yale University, that w",
+   "published": "2026-09-12T11:00:33+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-09-12T12:12:25.370938+00:00"
+  },
+  {
+   "id": "8f251fb7fa52df0d",
+   "title": "\u2018I said, if you want to fire me, just fire me. And so he did\u2019: my showdown with Donald Trump",
+   "url": "https://www.theguardian.com/us-news/2026/sep/12/fired-showdown-donald-trump-us-president-interview-stories",
+   "summary": "What\u2019s it like to be shown the door by the US president? A former national security adviser, an Apprentice contestant and more share their stories\u2022 Plus: The truth about my 11 days in the White House, by Anthony ScaramucciGene Folkes, 62, based in Manhattan, was a contestant on season 10 of The Apprentice, which aired in 2010. A&nbsp;former air force recruiter until 1991, he retrained as an investment banker, then launched his own business before appearing on the reality show. He was fired by Trump in episode 5. He now runs the technology consulting firm OshunX and hosts a podcast, Folkes Unfe",
+   "published": "2026-09-12T11:00:32+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-09-12T12:12:25.370946+00:00"
+  },
+  {
+   "id": "2a9d51749c0113bc",
+   "title": "Pennsylvania lawmaker suggests Trump should rename Lake Erie to 'Lake Pennsylvania'",
+   "url": "https://www.foxnews.com/politics/pennsylvania-lawmaker-suggests-trump-should-rename-lake-erie-lake-pennsylvania",
+   "summary": "Pennsylvania state Rep. David Maloney wants President Donald Trump to rename Lake Erie to &quot;Lake Pennsylvania,&quot; following recent name changes to other bodies of water.",
+   "published": "2026-09-12T10:03:49+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-12T12:12:24.384231+00:00"
+  },
+  {
+   "id": "aed67f589b30284e",
+   "title": "Exclusive: Nobel laureate freed by Trump urges hard line in new Belarus talks",
+   "url": "https://thehill.com/policy/international/6084537-bialiatski-urges-more-concessions/",
+   "summary": "Ales Bialiatski, the Belarusian human rights activist and Nobel Peace Prize laureate freed by President Trump, is grateful for the U.S. intervention that saved his life and hundreds of other political prisoners. But he is also urging the administration to demand greater concessions from the country\u2019s dictator Alexander Lukashenko in exchange for U.S. sanctions relief,...",
+   "published": "2026-09-12T10:00:00+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-12T12:12:25.647161+00:00"
+  },
+  {
+   "id": "1eddf785fa87d936",
+   "title": "Trump pledges $5K checks if Republicans do well in the midterms. Can he legally do that?",
+   "url": "https://thehill.com/homenews/administration/6085556-trump-midterm-dividend-legal-questions/",
+   "summary": "President Trump's pledge to\u00a0give $5,000 to every U.S. adult\u00a0if Republicans keep control of both chambers of Congress in the midterm elections has raised questions over whether the plan could cross legal lines. \u00a0 The president announced the so-called \"Trump dividends\" on the first night of the Republican National Committee's (RNC) midterm convention in Dallas this...",
+   "published": "2026-09-12T10:00:00+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-12T12:12:25.647167+00:00"
+  },
+  {
+   "id": "c5adb9614327f28b",
+   "title": "The Memo: Trump\u2019s convention may struggle to turn tide for GOP",
+   "url": "https://thehill.com/homenews/campaign/6085663-trump-republican-midterm-convention-impact/",
+   "summary": "President Trump basked in the approval of the MAGA base during this week\u2019s Republican midterm convention in Dallas. But the bigger question is whether the event made any difference to a political landscape that is seriously challenging for Republicans as Election Day looms less than eight weeks away. The Hill\u2019s data partner Decision Desk HQ...",
+   "published": "2026-09-12T10:00:00+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-12T12:12:25.647174+00:00"
+  },
   {
    "id": "e431361a22293cc7",
    "title": "Bacon says he's mulling 2028 White House bid",
@@ -9956,83 +10121,6 @@
    "source_id": "guardian-uspolitics",
    "bias_note": "left-leaning",
    "first_seen": "2026-08-29T21:14:42.935282+00:00"
-  },
-  {
-   "id": "1673e858978b697c",
-   "title": "\u2018If it\u2019s made in the US, I don\u2019t buy it\u2019: Canadians on boycotting Trump\u2019s America",
-   "url": "https://www.theguardian.com/business/2026/aug/29/if-its-made-in-the-us-i-dont-buy-it-canadians-on-boycotting-trumps-america",
-   "summary": "Avoiding US goods and services \u2013 from tech to whisky to air travel \u2013 has forced many to find a new way of livingFor William McDonald, 38, a diesel mechanic from Thunder Bay, Ontario, \u201cCanadian is always the first choice,\u201d even if it means his weekly bills are higher.\u201cAs soon as Trump started putting those tariffs on in February [last year], I started boycotting US goods,\u201d he said. \u201cAvoiding American products has driven my costs up, and I\u2019m still happy to do it. Continue reading...",
-   "published": "2026-08-29T12:02:55+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-08-30T14:53:14.060583+00:00"
-  },
-  {
-   "id": "c7cdf2bd5eb5bc15",
-   "title": "Trump\u2019s DHS is using an obscure law to secretly snoop on journalists, non-profits and unions: \u2018It\u2019s outrageous\u2019",
-   "url": "https://www.theguardian.com/us-news/2026/aug/29/trump-dhs-1509-summons-records-journalists-nonprofits",
-   "summary": "Even after judges rejected the same ploy, the Trump administration is going directly to social media and telecommunications companiesThe Trump administration has been deploying an obscure legal maneuver to try to obtain private information on journalists, non-profits and unions, raising alarm over a power the government has asserted without judicial oversight.In one instance, the government obtained six months of telephone records for Georgia Fort, a Minneapolis journalist. Fort was not notified of the request for her information, nor was she given a chance to contest the government\u2019s effort t",
-   "published": "2026-08-29T12:00:28+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-08-30T14:53:14.060590+00:00"
-  },
-  {
-   "id": "fe2d479c4c68bde2",
-   "title": "\u2018Inept, incompetent, craven\u2019: Scott Bessent struggles to clean up the president\u2019s mess",
-   "url": "https://www.theguardian.com/business/2026/aug/29/scott-bessant-us-economy-donald-trump",
-   "summary": "There\u2019s little optimism about treasury secretary\u2019s ability to handle Trump\u2019s tariffs, Iran sanctions and colossal US debtHistory remembers Gen Dwight Eisenhower, the supreme commander of the allied forces in Europe during the second world war, for his role in the D-day invasion of Normandy. Whether Scott Bessent will achieve similar posterity as the face of the \u201ceconomic D-day\u201d in Iran remains to be seen.The US treasury secretary, already trying to manage a $40tn national debt pile, this week took charge of Donald Trump\u2019s effort to reverse-engineer his war of choice. Whereas the US would typic",
-   "published": "2026-08-29T12:00:27+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-08-30T14:53:14.060596+00:00"
-  },
-  {
-   "id": "3796a75792958b3c",
-   "title": "The rebranding of \u2018Lake America\u2019 is Trump\u2019s desperate attempt to distract us | Arwa Mahdawi",
-   "url": "https://www.theguardian.com/commentisfree/2026/aug/29/lake-america-trump-approval-ratings",
-   "summary": "Ignore Iran, the Epstein files, and your wallet \u2013 not to mention Trump\u2019s plummeting approval ratingsDon\u2019t mention the war! Or the economy, for that matter. Or the Epstein files. Or Natalie Harp. Or \u201caffordability\u201d, which, as Donald Trump recently said at a rally, is a word that was \u201cnever used\u201d by the media before he took office. Best not to talk about anything that affects ordinary people or embarrasses the president, really. Instead, let\u2019s all rejoice in Trump\u2019s latest triumph: renaming Lake Ontario, which is shared by Canada and the US, as Lake America.On Thursday, Trump signed an executive",
-   "published": "2026-08-29T12:00:26+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-08-29T21:14:42.935287+00:00"
-  },
-  {
-   "id": "7439736e89e5df2b",
-   "title": "Week in Politics: Trump renames Lake Ontario 'Lake America'; Fed chair signals hikes",
-   "url": "https://www.npr.org/2026/08/29/nx-s1-5945108/week-in-politics-trump-renames-lake-ontario-lake-america-fed-chair-signals-hikes",
-   "summary": "President Trump signed an executive order to change the name of Lake Ontario to Lake America to provoke Canadian leaders. Meanwhile, the new Fed chair says inflation continues to be a problem.",
-   "published": "2026-08-29T11:40:48+00:00",
-   "source": "NPR Politics",
-   "source_id": "npr-politics",
-   "bias_note": "center",
-   "first_seen": "2026-08-29T21:14:42.675881+00:00"
-  },
-  {
-   "id": "a5a279b0d082325b",
-   "title": "Trump\u2019s tougher round-two birthright citizenship strategy hinges on key legal distinction, experts say",
-   "url": "https://www.foxnews.com/politics/solid-ground-conservative-legal-minds-optimistic-new-targeted-birthright-citizenship-restrictions",
-   "summary": "President Donald Trump&apos;s new birthright citizenship orders target children of terrorists and foreign government employees using classic legal exceptions.",
-   "published": "2026-08-29T11:00:39+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-08-29T21:14:42.130974+00:00"
-  },
-  {
-   "id": "be2d9a4b38226f71",
-   "title": "'We have not slowed down': Minnesota not out of the woods on massive fraud scandal, expert warns",
-   "url": "https://www.foxnews.com/politics/we-have-not-slowed-down-minnesota-not-out-of-woods-massive-fraud-scandal-expert-warns",
-   "summary": "Despite Minnesota&apos;s fraud scandal costing taxpayers billions, a policy expert warns more than one new assisted-living license is approved daily.",
-   "published": "2026-08-29T09:00:53+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-08-29T21:14:42.130995+00:00"
   }
  ]
 }
