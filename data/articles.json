@@ -1,7 +1,18 @@
 {
- "updated": "2026-09-12T00:20:59.471571+00:00",
+ "updated": "2026-09-12T07:12:09.229612+00:00",
  "count": 912,
  "articles": [
+  {
+   "id": "e431361a22293cc7",
+   "title": "Bacon says he's mulling 2028 White House bid",
+   "url": "https://thehill.com/homenews/campaign/6085724-don-bacon-considers-2028-presidency/",
+   "summary": "Rep. Don Bacon (R-Neb.) said he is considering a run for president in 2028 as he prepares to leave Congress next year. Bacon, who has previously floated a bid for the White House, said in an interview to be released in full Saturday that he would \u201clove\u201d to run. \u201cI won\u2019t lie. Yes, I would...",
+   "published": "2026-09-12T00:50:58+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-12T07:12:08.203118+00:00"
+  },
   {
    "id": "40f011824226d4c6",
    "title": "Trump, Hegseth tie Iran war into 9/11 speeches",
@@ -10022,17 +10033,6 @@
    "source_id": "foxnews-politics",
    "bias_note": "right-leaning",
    "first_seen": "2026-08-29T21:14:42.130995+00:00"
-  },
-  {
-   "id": "bbd635d6f494654c",
-   "title": "Trump says U.S. has entered deal with Venezuela to take control of 65 billion barrels of oil reserves",
-   "url": "https://www.npr.org/2026/08/28/nx-s1-5948229/trump-says-u-s-has-entered-deal-with-venezuela-to-take-control-of-65-billion-barrels-of-oil-reserves",
-   "summary": "President Trump says his administration has entered a sweeping agreement with Venezuela that could give the U.S. access to vast amounts of the South American country's untapped oil reserves, at cost.",
-   "published": "2026-08-29T02:07:55+00:00",
-   "source": "NPR Politics",
-   "source_id": "npr-politics",
-   "bias_note": "center",
-   "first_seen": "2026-08-29T21:14:42.675890+00:00"
   }
  ]
 }
