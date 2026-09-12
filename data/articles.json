@@ -1,7 +1,73 @@
 {
- "updated": "2026-09-12T15:35:37.444443+00:00",
- "count": 923,
+ "updated": "2026-09-12T18:26:56.449031+00:00",
+ "count": 922,
  "articles": [
+  {
+   "id": "8c35358506daca92",
+   "title": "Trump political adviser is 'cautiously optimistic' about GOP in upcoming midterms",
+   "url": "https://thehill.com/homenews/administration/6086235-trump-adviser-gop-midterm-optimism/",
+   "summary": "A top political adviser to President Trump said he is \u201ccautiously optimistic\u201d that Republicans can keep control of Congress in November, despite political headwinds for the party and the president\u2019s sinking approval ratings. \"I won\u2019t predict, you know, how many seats are going to be in either chamber come November,\" James Blair told NBC News's...",
+   "published": "2026-09-12T18:15:48+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-12T18:26:55.236103+00:00"
+  },
+  {
+   "id": "cffe69439941fa6b",
+   "title": "Blue state governor's pardon of convicted felon torpedos a major Supreme Court immigration fight",
+   "url": "https://www.foxnews.com/politics/blue-state-governors-pardon-convicted-felon-torpedos-major-supreme-court-immigration-fight",
+   "summary": "Kathy Hochul pardoned a convicted noncitizen, effectively mooting a Supreme Court case on bond hearing rights for detained immigrants facing deportation.",
+   "published": "2026-09-12T17:19:08+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-12T18:26:53.989965+00:00"
+  },
+  {
+   "id": "c84172b9ccbd6c52",
+   "title": "Trump touches a nerve while in Ireland by saying reunification would be 'fantastic'",
+   "url": "https://www.pbs.org/newshour/politics/trump-touches-a-nerve-while-in-ireland-by-saying-reunification-would-be-fantastic",
+   "summary": "At a meeting with Irish Prime Minister Miche\u00e1l Martin in Dublin, Trump said he would love to see the reunification of the Republic of Ireland with the United Kingdom's Northern Ireland.",
+   "published": "2026-09-12T17:11:01+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-09-12T18:26:55.453058+00:00"
+  },
+  {
+   "id": "466692006509682e",
+   "title": "Trump plots a campaign blitz; GOP candidates face a decision",
+   "url": "https://thehill.com/homenews/administration/6085604-gop-candidates-split-strategy/",
+   "summary": "President Trump\u2019s upcoming midterm campaign blitz is risking dragging down Republicans facing tough reelection bids as his approval rating plummets ahead of November.  Trump will head to battleground North Carolina to campaign with Senate nominee Michael Whatley on Wednesday in an effort to boost Republican efforts in the fight to keep the seat red.  The...",
+   "published": "2026-09-12T16:00:00+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-12T18:26:55.236165+00:00"
+  },
+  {
+   "id": "b90312ace096818e",
+   "title": "Trump asks Smithsonian to install George Washington statues and exhibit",
+   "url": "https://www.pbs.org/newshour/politics/trump-asks-smithsonian-to-install-george-washington-statues-and-exhibit",
+   "summary": "Trump asked for an exhibit beginning now and continuing through Feb. 22, 2032, the 300th anniversary of Washington's birth. For Constitution Day on Sept. 17, Trump asked the institution to install the 11-foot statue of Washington featured at the recent Freedom 250 IndyCar race in the museum's Flag Hall.",
+   "published": "2026-09-12T15:59:51+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-09-12T18:26:55.453064+00:00"
+  },
+  {
+   "id": "545a6754955ea23f",
+   "title": "Trump ally in Wisconsin sticks close to the president as Democrats push to flip swing district",
+   "url": "https://abcnews.com/Politics/wireStory/trump-ally-wisconsin-sticks-close-president-democrats-push-136386559",
+   "summary": "Wisconsin Democrats are hoping to unseat a Republican congressman with close ties to President Donald Trump",
+   "published": "2026-09-12T15:50:43+00:00",
+   "source": "ABC News Politics",
+   "source_id": "abc-politics",
+   "bias_note": "center",
+   "first_seen": "2026-09-12T18:26:56.158223+00:00"
+  },
   {
    "id": "21eac10d12d10222",
    "title": "The one line from JD Vance\u2019s GOP keynote that reveals his vision for America",
@@ -10077,83 +10143,6 @@
    "source_id": "foxnews-latest",
    "bias_note": "right-leaning",
    "first_seen": "2026-08-29T21:14:42.231740+00:00"
-  },
-  {
-   "id": "6b4e7b1106420dd5",
-   "title": "Trump cannot deport students for criticizing Israel, judge rules",
-   "url": "https://www.pbs.org/newshour/nation/trump-cannot-deport-students-for-criticizing-israel-judge-rules",
-   "summary": "Judge No\u00ebl Wise, in a ruling Friday, delivered a victory for the student newspaper at Stanford University, which has said some international students were afraid to speak out because of the deportation threat.",
-   "published": "2026-08-29T18:14:48+00:00",
-   "source": "PBS NewsHour Politics",
-   "source_id": "pbs-politics",
-   "bias_note": "center",
-   "first_seen": "2026-08-29T21:14:43.533215+00:00"
-  },
-  {
-   "id": "0524e93d2669f235",
-   "title": "Trump touts access to 65 billion barrels of Venezuelan oil in deal he says will slash gas prices",
-   "url": "https://www.foxnews.com/politics/trump-touts-access-65-billion-barrels-venezuelan-oil-deal-he-says-slash-gas-prices",
-   "summary": "The Trump administration is touting the oil deal with Venezuela as a way to lower gasoline prices, which have been elevated since the Iran war broke out.",
-   "published": "2026-08-29T18:01:33+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-08-29T21:14:42.130940+00:00"
-  },
-  {
-   "id": "962dfac77f80bed4",
-   "title": "Democrats sound alarm on US-Venezuela oil deal: 'This isn't a win'",
-   "url": "https://thehill.com/homenews/senate/6059052-democrats-slam-trump-venezuela-oil-deal/",
-   "summary": "Democrats slammed Friday's announcement by President Trump on a new deal to acquire majority U.S. control of over 65 million barrels of Venezuelan oil.  \u201cLet's be clear: this isn't a win,\u201d Maryland Sen. Chris Van Hollen (D) wrote in a social media post.  \u201cThis is proof Trump put our service members at risk to get...",
-   "published": "2026-08-29T17:39:45+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-08-29T21:14:43.317871+00:00"
-  },
-  {
-   "id": "c8b9af2ea0372db6",
-   "title": "Top energy trader hails Trump's Venezuela oil deal as a 'generational win' for gas prices",
-   "url": "https://www.foxnews.com/media/top-energy-trader-hails-trumps-venezuela-oil-deal-generational-win-gas-prices",
-   "summary": "President Donald Trump&apos;s Venezuela oil deal secures 65 billion barrels of reserves, and oil trader Phil Flynn calls it a &quot;generational win.&quot;",
-   "published": "2026-08-29T17:38:39+00:00",
-   "source": "Fox News Latest",
-   "source_id": "foxnews-latest",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-08-29T21:14:42.231756+00:00"
-  },
-  {
-   "id": "a39c24d63bc550aa",
-   "title": "Trump admin unjustly revoked pro-Palestinian foreign students' visas, judge finds",
-   "url": "https://thehill.com/regulation/court-battles/6059009-federal-judge-trump-visa-activist-ruling/",
-   "summary": "A federal judge in California ruled Friday the Trump administration unconstitutionally sought to deport international students for pro-Palestinian activism and criticism of Israel.  In a 90-page ruling, U.S. District Judge No\u00ebl Wise found the President Trump administration's use of existing immigration law to cancel foreign students' visas and deport them violated their constitutional right to...",
-   "published": "2026-08-29T17:15:25+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-08-29T21:14:43.317874+00:00"
-  },
-  {
-   "id": "a0fd310234bd8623",
-   "title": "The Memo: GOP sees risks in Trump\u2019s midterm strategy of focusing on himself",
-   "url": "https://thehill.com/homenews/analysis/6057609-gop-campaign-centered-trump/",
-   "summary": "President Trump is likely to make the GOP\u2019s midterm campaign partly about himself \u2014 and that\u2019s a risky strategy, as even some in his party acknowledge. Trump\u2019s efforts go beyond the standard, campaign-trail appearances he is making on behalf of Republican candidates.  According to a Tuesday report from The Atlantic, the president has proposed to...",
-   "published": "2026-08-29T16:00:00+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-08-29T21:14:43.317896+00:00"
-  },
-  {
-   "id": "1f7494f42bedfd49",
-   "title": "Untested in court, Trump's new tariffs on Canada raise legal questions",
-   "url": "https://www.pbs.org/newshour/politics/untested-in-court-trumps-new-tariffs-on-canada-raise-legal-questions",
-   "summary": "The president's Section 338 tariff authority has never been used, let alone tested in court.",
-   "published": "2026-08-29T15:58:58+00:00",
-   "source": "PBS NewsHour Politics",
-   "source_id": "pbs-politics",
-   "bias_note": "center",
-   "first_seen": "2026-08-29T21:14:43.533217+00:00"
   }
  ]
 }
