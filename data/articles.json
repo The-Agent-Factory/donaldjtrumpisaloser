@@ -1,7 +1,84 @@
 {
- "updated": "2026-09-11T21:01:00.147563+00:00",
- "count": 911,
+ "updated": "2026-09-12T00:20:59.471571+00:00",
+ "count": 912,
  "articles": [
+  {
+   "id": "40f011824226d4c6",
+   "title": "Trump, Hegseth tie Iran war into 9/11 speeches",
+   "url": "https://thehill.com/newsletters/defense-national-security/6085685-trump-hegseth-tie-iran-war-into-9-11-speeches/",
+   "summary": "Welcome to The Hill's Defense &#038; NatSec newsletter {beacon} Defense &#038;National Security Defense &#038;National Security &#8202; The Big Story  A link between Iran war and 9/11 in Trump administration speeches President Trump and Defense Secretary Pete Hegseth tied the Iran war to the Sept. 11, 2001, terrorist attacks in remarks at the Pentagon, suggesting the...",
+   "published": "2026-09-11T23:07:09+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-12T00:20:58.491906+00:00"
+  },
+  {
+   "id": "3118266c38196b74",
+   "title": "Federal court rejects Trump administration order keeping Michigan coal plant open",
+   "url": "https://www.pbs.org/newshour/politics/federal-court-rejects-trump-administration-order-keeping-michigan-coal-plant-open",
+   "summary": "In a defeat for the Trump administration, a federal court on Friday ruled that the Energy Department exceeded its authority when it forced a Michigan coal-fired power plant to stay open past its scheduled retirement date last year.",
+   "published": "2026-09-11T23:02:58+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-09-12T00:20:58.656957+00:00"
+  },
+  {
+   "id": "e4323a1cb5e0bcbd",
+   "title": "Proxy fight in Yemen heats up, risking new front in US-Iran war",
+   "url": "https://thehill.com/policy/defense/6085660-houthis-takeover-port-saudi-gas-pipeline/",
+   "summary": "The Iranian-backed Houthi rebel group\u2019s reported takeover of a Yemen port city is raising the stakes in Tehran\u2019s war with the U.S. Saudi Arabia, which backs Yemen\u2019s military, is reportedly urging President Trump to strike the rebels, while the U.S. has sent more than 100 advisors to aid its Saudi allies in the fight. In...",
+   "published": "2026-09-11T22:45:35+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-12T00:20:58.491953+00:00"
+  },
+  {
+   "id": "d36457ad8be476fc",
+   "title": "Prosecutor brought in to lead investigation of Trump foes tells AP that he has resigned",
+   "url": "https://www.pbs.org/newshour/politics/prosecutor-brought-in-to-lead-investigation-of-trump-foes-tells-ap-that-he-has-resigned",
+   "summary": "An ally of President Donald Trump said Thursday that he has resigned from his post\u00a0leading a Justice Department investigation\u00a0into whether former law enforcement and intelligence officials conspired against the Republican president.",
+   "published": "2026-09-11T22:41:38+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-09-12T00:20:58.657022+00:00"
+  },
+  {
+   "id": "631aff1852268999",
+   "title": "Trump remains focus of GOP's midterm campaign as convention wraps",
+   "url": "https://www.pbs.org/newshour/show/trump-remains-focus-of-gops-midterm-campaign-as-convention-wraps",
+   "summary": "With November's midterms closing in, Republicans wrapped an unprecedented two-day convention in Dallas aimed at firing up the party's base. President Trump and Vice President JD Vance headlined an event that also produced some striking and unexpected moments. Liz Landers spoke with some of the attendees.",
+   "published": "2026-09-11T22:40:47+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-09-12T00:20:58.657029+00:00"
+  },
+  {
+   "id": "fc5e8e590da1a8a9",
+   "title": "First use of Alien Terrorist Removal Court sends Afghan woman back after Election Day ISIS plot: DOJ",
+   "url": "https://www.foxnews.com/politics/first-use-alien-terrorist-removal-court-sends-afghan-woman-back-election-day-isis-plot-doj",
+   "summary": "Nazira Haji Zada admitted she was an &quot;alien terrorist&quot; in the first-ever use of a specialized federal court created 30 years ago by Congress after an ISIS Election Day plot.",
+   "published": "2026-09-11T22:00:13+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-12T00:20:57.204261+00:00"
+  },
+  {
+   "id": "a1f674d35a1fa5fe",
+   "title": "WATCH: Trump leads RNC in pledge to 'cheat like hell' in November elections",
+   "url": "https://www.pbs.org/newshour/politics/watch-trump-leads-rnc-in-pledge-to-cheat-like-hell-in-november-elections",
+   "summary": "After President Donald Trump told attendees at the Republican midterm convention Thursday night that \"we want honesty in our elections,\" he led them in a pledge to \"cheat like hell\" and \"go out and vote\" in the midterm elections.",
+   "published": "2026-09-11T21:56:18+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-09-12T00:20:58.657084+00:00"
+  },
   {
    "id": "f26795de857f0b14",
    "title": "Stubborn inflation raises prospect of Fed rate hike",
@@ -9956,72 +10033,6 @@
    "source_id": "npr-politics",
    "bias_note": "center",
    "first_seen": "2026-08-29T21:14:42.675890+00:00"
-  },
-  {
-   "id": "7a9eb2f9f3689bc0",
-   "title": "President Trump Was Right: America Controls the Strait of Hormuz",
-   "url": "https://www.whitehouse.gov/releases/2026/08/president-trump-was-right-america-controls-the-strait-of-hormuz/",
-   "summary": "U.S. Central Command confirms what Democrats and the Fake News have spent months denying: the United States \u2014 not the Islamic Republic of Iran \u2014 controls the Strait of Hormuz. American forces are keeping energy moving to the world while denying Tehran the revenue it needs to threaten global commerce. Here are the facts: President [&#8230;]\nThe post President Trump Was Right: America Controls the Strait of Hormuz appeared first on The White House.",
-   "published": "2026-08-29T00:00:05+00:00",
-   "source": "WhiteHouse.gov News",
-   "source_id": "whitehouse",
-   "bias_note": "official/primary-source",
-   "first_seen": "2026-08-29T21:14:42.361515+00:00"
-  },
-  {
-   "id": "6dce33a76c1d7a88",
-   "title": "Trump says U.S. has entered deal with Venezuela to control 65 billion barrels of its oil reserves",
-   "url": "https://www.pbs.org/newshour/politics/trump-says-u-s-has-entered-deal-with-venezuela-to-control-65-billion-barrels-of-its-oil-reserves",
-   "summary": "The announcement of the deal comes nearly nine months after the U.S. military at Trump's direction carried out an operation to\u00a0capture Venezuela's president Nicol\u00e1s Maduro\u00a0and spirit him to the United States to face federal narcoterrorism and drug trafficking charges.",
-   "published": "2026-08-28T23:35:32+00:00",
-   "source": "PBS NewsHour Politics",
-   "source_id": "pbs-politics",
-   "bias_note": "center",
-   "first_seen": "2026-08-29T21:14:43.533227+00:00"
-  },
-  {
-   "id": "bf208227611b0318",
-   "title": "News Wrap: Friday marks 6 months since Iran war started",
-   "url": "https://www.pbs.org/newshour/show/news-wrap-friday-marks-6-months-since-iran-war-started",
-   "summary": "In our news wrap Friday, it has been six months since the U.S. and Israel launched strikes on Iran, a conflict that President Trump said would last weeks, Trump honored the Artemis II crew with the Congressional Space Medal of Honor and Anthropic says it remains focused on working \"productively\" with the administration after a judge ruled the Pentagon's measures against the company were illegal.",
-   "published": "2026-08-28T22:50:14+00:00",
-   "source": "PBS NewsHour Politics",
-   "source_id": "pbs-politics",
-   "bias_note": "center",
-   "first_seen": "2026-08-29T21:14:43.533229+00:00"
-  },
-  {
-   "id": "e8a9dd9d16e90299",
-   "title": "National parks under strain from Trump's construction projects and political pressure",
-   "url": "https://www.pbs.org/newshour/show/national-parks-under-strain-from-trumps-construction-projects-and-political-pressure",
-   "summary": "Americans continue to flock to the national parks, with more than 320 million visitors in the last year alone. But that broad appeal is facing new political pressures, from orders to revise exhibits to President Trump's construction projects. Amna Nawaz discussed the state of national parks with Tiernan Sittenfeld, the president and CEO of the National Parks Conservation Association.",
-   "published": "2026-08-28T22:35:20+00:00",
-   "source": "PBS NewsHour Politics",
-   "source_id": "pbs-politics",
-   "bias_note": "center",
-   "first_seen": "2026-08-29T21:14:43.533237+00:00"
-  },
-  {
-   "id": "2747fafec7a0c5a5",
-   "title": "Brooks and Capehart on Trump's 'forever trade war'",
-   "url": "https://www.pbs.org/newshour/show/brooks-and-capehart-on-trumps-forever-trade-war",
-   "summary": "David Brooks of The Atlantic and Jonathan Capehart of MS NOW join Geoff Bennett to discuss the week in politics, including President Trump's trade war and dispute with Canada, the legal fight over mail-in ballots, the public backlash to AI and data centers and the loss of Dolly Parton.",
-   "published": "2026-08-28T22:30:06+00:00",
-   "source": "PBS NewsHour Politics",
-   "source_id": "pbs-politics",
-   "bias_note": "center",
-   "first_seen": "2026-08-29T21:14:43.533239+00:00"
-  },
-  {
-   "id": "4ffcc5ac1e3d2483",
-   "title": "National Park Service backs Trump's arch, despite its impact on key Washington sightlines",
-   "url": "https://www.pbs.org/newshour/politics/national-park-service-backs-trumps-arch-despite-its-impact-on-key-washington-sightlines",
-   "summary": "A new National Park Service report backs President Donald Trump's proposed arch, despite what it says are adverse effects to the sightline between a host of iconic landmarks in Washington, including the Washington Monument and Lincoln and Jefferson memorials.",
-   "published": "2026-08-28T22:20:58+00:00",
-   "source": "PBS NewsHour Politics",
-   "source_id": "pbs-politics",
-   "bias_note": "center",
-   "first_seen": "2026-08-29T21:14:43.533241+00:00"
   }
  ]
 }
