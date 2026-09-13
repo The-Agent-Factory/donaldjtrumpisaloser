@@ -1,7 +1,51 @@
 {
- "updated": "2026-09-13T14:50:28.881863+00:00",
- "count": 915,
+ "updated": "2026-09-13T16:23:48.573721+00:00",
+ "count": 912,
  "articles": [
+  {
+   "id": "e0c09de086143dec",
+   "title": "Trump calls on Ukraine to halt strikes on Russian diesel, saying attacks are causing a shortage",
+   "url": "https://www.pbs.org/newshour/world/trump-calls-on-ukraine-to-halt-strikes-on-russian-diesel-saying-attacks-are-causing-a-shortage",
+   "summary": "Ukraine has for months been targeting Russia's oil and gas industry with long-range strikes, prompting fuel rationing across the country and causing Moscow to ban diesel exports in July, one factor disrupting the global supply of diesel.",
+   "published": "2026-09-13T15:58:37+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-09-13T16:23:47.799713+00:00"
+  },
+  {
+   "id": "d0ad328f9c4e7e17",
+   "title": "Trump downplays AI warnings, citing competition with China",
+   "url": "https://thehill.com/policy/technology/6086739-trump-downplays-ai-risks/",
+   "summary": "President Trump on Sunday downplayed the growing concerns over artificial intelligence's rapid development and its implications for the future of humanity, saying guardrails can be placed on the technology but that the U.S. cannot lose the AI race to China in the process. \"Well I say this, we're leading China on AI. We're the most...",
+   "published": "2026-09-13T15:57:05+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-13T16:23:47.650563+00:00"
+  },
+  {
+   "id": "05541ad16abe77ac",
+   "title": "Federal judge rules Homeland Security plan for 50% FEMA staffing cuts was unlawful",
+   "url": "https://www.pbs.org/newshour/politics/federal-judge-rules-homeland-security-plan-for-50-fema-staffing-cuts-was-unlawful",
+   "summary": "The issue of the FEMA staffing was part of a much larger lawsuit filed by the American Federation of Government Employees and other labor groups, pushing back on efforts by the Trump administration to slash the federal workforce.",
+   "published": "2026-09-13T15:44:30+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-09-13T16:23:47.799718+00:00"
+  },
+  {
+   "id": "9b26424dc03d7082",
+   "title": "Trump reiterates $5,000 \u2018dividend\u2019 pledge if Republicans win midterms",
+   "url": "https://www.theguardian.com/us-news/2026/sep/13/trump-5000-dividend-pledge",
+   "summary": "Plan to give US adults $5,000 has been greeted with incredulity across the political spectrum as well as outrageDonald Trump on Sunday doubled down on his controversial pledge to give US adults a $5,000 \u201cdividend\u201d if his Republican \u2060party keeps control of Congress after November\u2019s midterm elections.The plan has been greeted with expressions of incredulity across the US political spectrum as well as outraged accusations of seeing to bribe voters. The plan \u2013 which would cost more than a trillion dollars \u2013 also comes amid huge concern over the US national debt, which topped $40tn for the first ti",
+   "published": "2026-09-13T15:07:23+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-09-13T16:23:46.598029+00:00"
+  },
   {
    "id": "092ebfe63bf489ab",
    "title": "Trump gives Smithsonian days to replace 'strange modernist sculpture' with Founding Father",
@@ -9989,83 +10033,6 @@
    "source_id": "foxnews-politics",
    "bias_note": "right-leaning",
    "first_seen": "2026-08-30T19:20:33.424586+00:00"
-  },
-  {
-   "id": "288a47c1ea62cb37",
-   "title": "Ted Cruz defends Trump's 'accomplished' Iran messaging, citing 'multiple missions'",
-   "url": "https://thehill.com/homenews/senate/6059593-cruz-defends-iran-mission/",
-   "summary": "Sen. Ted Cruz (R-Texas) on Sunday said the U.S. is engaged in \"multiple missions\" in its conflict with Iran, defending the Trump administration's efforts in the war that hit its six-month mark on Friday. NBC's Kristen Welker on \"Meet the Press\" showed Cruz a graphic shared by President Trump on Truth Social stating, \"Mission accomplished,\"...",
-   "published": "2026-08-30T16:13:54+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-08-30T19:20:34.265527+00:00"
-  },
-  {
-   "id": "cc446520fc49ef2e",
-   "title": "Trump just brokered a deal with the country sitting atop the world\u2019s largest oil reserves",
-   "url": "https://www.foxnews.com/politics/trump-just-brokered-deal-country-sitting-atop-worlds-largest-oil-reserves",
-   "summary": "President Donald Trump&apos;s Venezuela oil deal targets 65 billion barrels across 17 fields, but major infrastructure hurdles stand before pump relief.",
-   "published": "2026-08-30T16:09:12+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-08-30T19:20:33.424605+00:00"
-  },
-  {
-   "id": "eecf08d62dff607d",
-   "title": "5 years after withdrawal, a grave picture for Afghans inside and outside the US",
-   "url": "https://thehill.com/policy/international/6058295-afghan-withdrawal-anniversary-deportations-tps-sivs/",
-   "summary": "The fifth anniversary of the U.S. withdrawal from Afghanistan falls as the nation\u2019s citizens face a starkly different picture than when they first arrived in America, with the Trump administration employing numerous tactics to deport Afghans and halt the arrival of new refugees. Since President Trump returned to office, he has drastically curtailed the pathways...",
-   "published": "2026-08-30T16:00:00+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-08-30T19:20:34.265536+00:00"
-  },
-  {
-   "id": "cd48c56fee2d6f5e",
-   "title": "Ontario premier answers Trump's 'Lake America' with giant 'Lake Ontario' sign",
-   "url": "https://www.pbs.org/newshour/world/ontario-premier-answers-trumps-lake-america-with-giant-lake-ontario-sign",
-   "summary": "The 24-by-12-foot sign stands on 6-foot legs, putting its top about 18 feet above the ground \u2014 roughly two stories high.",
-   "published": "2026-08-30T15:37:07+00:00",
-   "source": "PBS NewsHour Politics",
-   "source_id": "pbs-politics",
-   "bias_note": "center",
-   "first_seen": "2026-08-30T19:20:34.347942+00:00"
-  },
-  {
-   "id": "46b5cc62def54e9a",
-   "title": "Trump promises NBC's Welker will be reported to FCC 'for rebuke or punishment'",
-   "url": "https://thehill.com/homenews/media/6059558-trump-threatens-nbc-welker-fcc/",
-   "summary": "President Trump said Sunday that NBC News's \"Meet the Press\" host Kristen Welker will be reported to the Federal Communications Commission (FCC) after she reportedly said on the program that Trump-endorsed candidates have had mixed results this election cycle. \"Kristen Welker, the Unpopular 'Hostess' of the once great Meet the Press, now considered Meet the...",
-   "published": "2026-08-30T15:02:28+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-08-30T15:13:53.799468+00:00"
-  },
-  {
-   "id": "f1acf504161f40da",
-   "title": "Canada erects giant \u2018Lake Ontario\u2019 sign as spat with Trump over name escalates",
-   "url": "https://www.theguardian.com/us-news/2026/aug/30/canada-trump-lake-ontario-name",
-   "summary": "Meanwhile, Trump posts video of himself kicking over a Lake Ontario sign and replacing it with Lake America signDonald Trump and Canada continued a verbal duel on Saturday over the US government\u2019s administrative renaming of Lake Ontario, with the country erecting a giant sign saying \u201cLake Ontario. Now and Always\u201d \u2013 and the American president posting a video of him tearing down an avatar of that sign, erecting a replacement saying Lake America, and dancing to YMCA.Rhetoric over the naming of Lake Ontario is the public face of an escalating trade dispute between the US and its northern neighbor ",
-   "published": "2026-08-30T14:55:55+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-08-30T15:13:53.515053+00:00"
-  },
-  {
-   "id": "09f480573f733763",
-   "title": "Homan pushes back on alleged ICE arrests of parents at bus stops",
-   "url": "https://thehill.com/policy/national-security/6059574-homan-ice-bus-stop-arrests/",
-   "summary": "White House border czar Tom Homan on Sunday pushed back on the idea of Immigration and Customs Enforcement (ICE) arresting parents at bus stops in Connecticut, as alleged by Sen. Chris Murphy (D-Conn.) this week. \"I pointed out, the last two years, no one can point to one single incidence we arrested anybody in elementary...",
-   "published": "2026-08-30T14:55:50+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-08-30T15:13:53.799499+00:00"
   }
  ]
 }
