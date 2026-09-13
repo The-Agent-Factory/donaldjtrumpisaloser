@@ -1,7 +1,106 @@
 {
- "updated": "2026-09-13T04:54:19.601398+00:00",
- "count": 918,
+ "updated": "2026-09-13T11:58:18.250023+00:00",
+ "count": 921,
  "articles": [
+  {
+   "id": "133efd75c7cfa68b",
+   "title": "State of Texas: Paxton and Talarico in their own words",
+   "url": "https://thehill.com/homenews/campaign/6086429-state-of-texas-paxton-and-talarico-in-their-own-words/",
+   "summary": "At the Republican party\u2019s first-ever midterm convention, President Donald Trump called upon attendees in Dallas to support Ken Paxton in the upcoming Texas senatorial race.",
+   "published": "2026-09-13T11:03:00+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-13T11:58:17.555197+00:00"
+  },
+  {
+   "id": "985006313bc818d3",
+   "title": "Why is the Trump administration calling bike lanes \u2018DEI\u2019? | Dave Schilling",
+   "url": "https://www.theguardian.com/commentisfree/2026/sep/13/trump-administration-bike-lanes-dei",
+   "summary": "The government apparently has an issue with paths for cyclists. Take it from someone who can\u2019t ride a bike: this makes no senseI\u2019m out of gas. Not metaphorically. Literally, my car has the barest minimum amount of fuel in it. This is not because I like to live dangerously, a la the great literary hero Austin Powers, but because gas is more expensive than ever. I have nowhere to be today, so I\u2019m allowing my car to sit idle, empty and alone, lest my bank account disappear into the Phantom Zone of negative balance. If things get sticky, I can take public transit or, God forbid, ride a bike.Except",
+   "published": "2026-09-13T11:00:06+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-09-13T11:58:17.451801+00:00"
+  },
+  {
+   "id": "3990a12b835d9e1f",
+   "title": "\u2018Trump accounts\u2019 promise to mint child millionaires. Experts have their doubts",
+   "url": "https://www.theguardian.com/us-news/2026/sep/13/donald-trump-accounts-child-investment-wealth",
+   "summary": "President has hyped growth of federal investment accounts to help US children \u2013 for his own political gainSince returning to the White House, Donald Trump has scrapped rules that made childcare more affordable and pushed to cut funding for the nation\u2019s public schools. But with midterm elections fast approaching and his approval ratings very low, the US president has repeatedly trumpeted a two-month-old program designed to help the nation\u2019s children. That program, unhumbly named \u201cTrump accounts\u201d, calls for the federal government to give a one-time $1,000 seed deposit to every newborn whose fami",
+   "published": "2026-09-13T11:00:05+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-09-13T11:58:17.451757+00:00"
+  },
+  {
+   "id": "5a309e9f80cce1e0",
+   "title": "Vulnerable House Republicans embrace Trump as GOP bets on defying midterm history",
+   "url": "https://www.foxnews.com/politics/vulnerable-house-republicans-embrace-trump-gop-bets-defying-midterm-history",
+   "summary": "President Donald Trump urged Republicans to &quot;pretend that I&apos;m on the ballot,&quot; as vulnerable GOP incumbents rallied at the first-ever midterm convention.",
+   "published": "2026-09-13T10:00:45+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-13T11:58:17.193855+00:00"
+  },
+  {
+   "id": "91fbb3ea42c3ddba",
+   "title": "\u2018It\u2019s just straight bigotry\u2019: Trump leads wave of Islamophobic rhetoric as midterms loom",
+   "url": "https://www.theguardian.com/us-news/2026/sep/13/republicans-islamophobic-rhetoric-democrats",
+   "summary": "As Muslims win historic victories, experts describe rise in anti-Islamic sentiment that rivals post-9/11 climateWithin hours of Abdul El-Sayed\u2019s victory in Michigan\u2019s Democratic US Senate primary, Republican senator Tommy Tuberville of Alabama declared that the party had \u201cjust voted to send a TERRORIST\u201d to Washington.El-Sayed \u2013 or \u201cAbdulrahman Mohamed El-Sayed\u201d, as Tuberville called him on X \u2013 was a \u201cRADICAL ISLAMIST\u201d who would \u201cdo everything he can to destroy America\u201d, he claimed. Continue reading...",
+   "published": "2026-09-13T10:00:06+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-09-13T11:58:17.451765+00:00"
+  },
+  {
+   "id": "84a1280e159b1f07",
+   "title": "Trump\u2019s attempted crackdown on mail-in voting \u2013 here\u2019s what to know",
+   "url": "https://www.theguardian.com/us-news/2026/sep/13/trump-voting-by-mail-explainer",
+   "summary": "President and allies have tried to ram through changes to the US voting system, but his efforts are being challengedVoting by mail is a \u201choax\u201d, according to Donald Trump, despite about 29% of American voters casting their vote this way in 2024. The US president has repeatedly done so himself.But the Trump administration is nevertheless attempting to ram through a sweeping crackdown on the practice, pushing for changes to federal law. Continue reading...",
+   "published": "2026-09-13T10:00:05+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-09-13T11:58:17.451771+00:00"
+  },
+  {
+   "id": "dde39ab60b74ebc8",
+   "title": "Student loan borrowers race for lower payments as changes come to a head",
+   "url": "https://thehill.com/homenews/education/6085081-student-loan-borrowers-trump-plans-debt-relief/",
+   "summary": "Student loan borrowers are in a race against the clock to keep their payments as low as possible as they navigate upcoming deadlines to get out of old repayment plans, choose a new one and potentially receive a temporary reduction in their loans\u2019 interest rate.   The Trump administration's standard repayment plan and Repayment Assistance Plan...",
+   "published": "2026-09-13T10:00:00+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-13T11:58:17.555228+00:00"
+  },
+  {
+   "id": "545984a76957774b",
+   "title": "GOP rising star reveals how Republicans can lock down minority voters without Trump on ballot",
+   "url": "https://www.foxnews.com/politics/gop-rising-star-reveals-how-republicans-lock-down-minority-voters-without-trump-ballot",
+   "summary": "T.W. Shannon says Donald Trump transformed the GOP into a working party, pointing to job creation and lower crime as keys to winning Black voters.",
+   "published": "2026-09-13T09:00:52+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-13T11:58:17.193863+00:00"
+  },
+  {
+   "id": "8d07ce0f59aea723",
+   "title": "Religious Vance seeks to avoid Maga schism as he keeps the faith for 2028",
+   "url": "https://www.theguardian.com/us-news/2026/sep/13/jd-vance-religion-catholic-evangelical-maga",
+   "summary": "Vice-president wears religion on his sleeve but winding spiritual path could alienate evangelicals and CatholicsUS vice-president JD Vance has worn his religion on his sleeve since converting to the Catholicism in 2019. He recently published a book, Communion: Finding My Way Back to Faith, and memorably met the late Pope Francis at the Vatican on Easter Sunday in 2025, a day before the pontiff died.But his religious identity could take on new weight as he positions himself for a presidential run in 2028, in which a successful campaign would make him only the third Catholic president in US hist",
+   "published": "2026-09-13T09:00:03+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-09-13T11:58:17.451776+00:00"
+  },
   {
    "id": "96a2bd2e061c5cba",
    "title": "Marshall backtracks on support for $5,000 Trump dividend in Kansas Senate debate",
@@ -375,6 +474,17 @@
    "source_id": "foxnews-politics",
    "bias_note": "right-leaning",
    "first_seen": "2026-09-12T12:12:24.384231+00:00"
+  },
+  {
+   "id": "5dbd28bc22ab6276",
+   "title": "Trump personality cult alive and well in Dallas \u2013 will it power Republican midterm success?",
+   "url": "https://www.theguardian.com/us-news/2026/sep/12/trump-dallas-midterms-convention-republicans",
+   "summary": "President the star of the show at two-day convention, but party\u2019s plan to treat November elections as referendum on Trump himself poses grave risks\u201cWe\u2019re going to have a good time listening to music,\u201d Donald Trump told thousands of supporters in downtown Dallas before handing the mic to an opera singer, \u201cbecause I\u2019m getting a little bit tired of politics now.\u201dMillions of Americans seem tired of politics after a decade dominated by Trump. So the US president\u2019s decision to close out this week\u2019s first ever Republican midterm convention with a plea \u2013 treat November\u2019s congressional elections as a r",
+   "published": "2026-09-12T10:00:32+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-09-13T11:58:17.451849+00:00"
   },
   {
    "id": "aed67f589b30284e",
@@ -10022,83 +10132,6 @@
    "source_id": "thehill",
    "bias_note": "center",
    "first_seen": "2026-08-30T14:53:14.245963+00:00"
-  },
-  {
-   "id": "5d41e980f3400a85",
-   "title": "Documents leaked by Trump official to bolster a conspiracy show \u2018absolutely nothing\u2019",
-   "url": "https://www.theguardian.com/us-news/2026/aug/30/state-department-global-engagement-center-leaked-documents-foreign-propaganda",
-   "summary": "Inside the US state department, critics are still attacking a shuttered office established to counter foreign propaganda. Now, some of its work is also being resumedA botched leak of purportedly explosive government files to a prominent conservative online personality was supposed to offer proof of what the Trump administration and its allies have long alleged: that a little-known office inside the US state department, created to fight foreign propaganda, had secretly become a tool for domestic censorship.Two former high-ranking officials at the Global Engagement Center (GEC), a target of Repu",
-   "published": "2026-08-30T10:00:53+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-08-30T14:53:14.060551+00:00"
-  },
-  {
-   "id": "af2831bc010da692",
-   "title": "Newsom hit with lawsuit threat as whistleblower begs Trump for help with \u2018monumental\u2019 fraud scandal",
-   "url": "https://www.foxnews.com/politics/newsom-hit-lawsuit-threat-whistleblower-begs-trump-help-monumental-fraud-scandal",
-   "summary": "Assemblyman Carl DeMaio says he plans to file a lawsuit against Gavin Newsom&apos;s new California law that he claims criminalizes citizen journalism.",
-   "published": "2026-08-30T10:00:12+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-08-30T14:53:05.154218+00:00"
-  },
-  {
-   "id": "f69aa66f877d2439",
-   "title": "Zelensky\u2019s wonder-boy former defense minister goes rogue",
-   "url": "https://thehill.com/policy/international/6057730-former-minister-corruption-claims/",
-   "summary": "Mykhailo Fedorov rocketed to prominence as a driving force in Ukraine\u2019s pioneering use of drones in the fight against Russia, eventually becoming the country\u2019s third defense minister of the war. Since being removed from that role last month, the wonder boy adviser to Ukrainian President Volodymyr Zelensky has taken a sharp turn against the administration...",
-   "published": "2026-08-30T10:00:00+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-08-30T14:53:14.245987+00:00"
-  },
-  {
-   "id": "bb340ac8d8e5f90c",
-   "title": "GOP gambles on midterm dividends from RFK Jr.\u2019s MAHA",
-   "url": "https://thehill.com/policy/healthcare/6058532-trump-maha-midterm-impact/",
-   "summary": "Less than three months ahead of the midterm elections, the main political organization supporting Robert F. Kennedy Jr.'s Make America Healthy Again (MAHA) movement has barely made a splash to help boost Republican candidates.  President Trump and parts of the Republican Party have aligned his Make America Great Again (MAGA) movement with MAHA and Kennedy,...",
-   "published": "2026-08-30T10:00:00+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-08-30T14:53:14.245996+00:00"
-  },
-  {
-   "id": "fb03f91d7cd22468",
-   "title": "Trump administration deports relative of Afghans who helped US military to Central African Republic",
-   "url": "https://www.npr.org/2026/08/30/nx-s1-5949230/trump-administration-deports-afghan-central-african-republic",
-   "summary": "His family in Afghanistan had received threats from the Taliban because of the work performed by his brothers in support of the U.S. military.",
-   "published": "2026-08-30T08:32:13+00:00",
-   "source": "NPR Politics",
-   "source_id": "npr-politics",
-   "bias_note": "center",
-   "first_seen": "2026-08-30T14:53:13.919797+00:00"
-  },
-  {
-   "id": "1e145e18f9cd33fa",
-   "title": "Trump\u2019s \u2018economic D-day\u2019 against Iran risks driving the stakes even higher | Sina Toossi",
-   "url": "https://www.theguardian.com/commentisfree/2026/aug/30/trump-economic-d-day-iran-stakes-higher-war",
-   "summary": "As with its approach to Hormuz, the US has mistaken applying pressure for an actual strategy. But Tehran has chips of its own to playDonald Trump has found a new way to promise victory over Iran. After months of war have failed to force Iran\u2019s capitulation or collapse, his administration has unveiled what the US Treasury secretary, Scott Bessent, calls Operation Economic Outcast: an effort to cut it off from what remains of the global economy and threaten foreign governments, banks and companies with sanctions if they continue doing business with Tehran.There is no question that Iran is vulner",
-   "published": "2026-08-30T07:00:49+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-08-30T08:21:53.290251+00:00"
-  },
-  {
-   "id": "dc015f12c9339176",
-   "title": "Iceland votes on resuming EU membership talks as Trump's push for neighboring Greenland looms over debate",
-   "url": "https://www.foxnews.com/politics/iceland-votes-resuming-eu-membership-talks-trump-push-neighboring-greenland-looms-debate",
-   "summary": "President Donald Trump&apos;s push to acquire Greenland added a new security dimension to Iceland&apos;s EU referendum, with 275,000 eligible voters weighing in.",
-   "published": "2026-08-30T05:44:44+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-08-30T08:21:52.703497+00:00"
   }
  ]
 }
