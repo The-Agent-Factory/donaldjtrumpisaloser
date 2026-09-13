@@ -1,7 +1,62 @@
 {
- "updated": "2026-09-13T11:58:18.250023+00:00",
- "count": 921,
+ "updated": "2026-09-13T14:50:28.881863+00:00",
+ "count": 915,
  "articles": [
+  {
+   "id": "092ebfe63bf489ab",
+   "title": "Trump gives Smithsonian days to replace 'strange modernist sculpture' with Founding Father",
+   "url": "https://www.foxnews.com/politics/trump-gives-smithsonian-days-replace-strange-modernist-sculpture-founding-father",
+   "summary": "President Donald Trump demands a 30-foot George Washington statue replace the &quot;Infinity&quot; sculpture outside the National Museum of American History in Washington.",
+   "published": "2026-09-13T14:05:04+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-13T14:50:26.349025+00:00"
+  },
+  {
+   "id": "92096ed9e0c23507",
+   "title": "'RedZone' returns for 18th season and, despite 15-second commercials, could still be on in the White House",
+   "url": "https://www.foxnews.com/outkick-sports/redzone-returns-18th-season-despite-15-second-commercials-could-still-be-white-house",
+   "summary": "Scott Hanson confirms &apos;RedZone&apos; will air limited 15-second commercials between plays this season, but promises fewer ads than last year&apos;s count",
+   "published": "2026-09-13T14:00:59+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-13T14:50:26.412997+00:00"
+  },
+  {
+   "id": "9833bdefa826f7b5",
+   "title": "Live updates: Lawmakers set to return from recess; Trump attends golf tournament in Ireland",
+   "url": "https://thehill.com/homenews/administration/6086633-live-updates-congress-returns-washington-agenda-trump-ireland/",
+   "summary": "House and Senate lawmakers will return to Washington this week with a packed agenda before much of their focus shifts to the fast-approaching midterm elections. The Senate is expected to continue talks over the budget resolution and hold a procedural vote on the cryptocurrency regulation bill, among other priorities. The House, meanwhile, will reportedly consider...",
+   "published": "2026-09-13T13:02:06+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-13T14:50:27.549161+00:00"
+  },
+  {
+   "id": "0b349e410c0add75",
+   "title": "Surging inflation puts interest rates back in focus as policymakers meet in Japan, US and UK",
+   "url": "https://www.theguardian.com/business/2026/sep/13/interest-rates-predicted-rise-us-uk-inflation-fears",
+   "summary": "Iran war and turbulent global bond markets add to pressure as rate decisions loom this week in major western economiesEconomics viewpoint: perilous UK economic conditions trace back to TrumpCentral bankers in economies including the US, Japan and the UK will face a moment of truth this week, as surging inflation raises the prospect of higher interest rates.Policymakers in all three countries will set rates in the next seven days against the backdrop of turbulent global bond markets. Continue reading...",
+   "published": "2026-09-13T12:33:16+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-09-13T14:50:27.221265+00:00"
+  },
+  {
+   "id": "105aa55ba1996123",
+   "title": "Politics chat: Trump's $5,000 promise to voters, Vance invokes Charlie Kirk",
+   "url": "https://www.npr.org/2026/09/13/nx-s1-5964863/politics-chat-trumps-5-000-promise-to-voters-vance-invokes-charlie-kirk",
+   "summary": "Following the midterm convention in Dallas, President Trump's $5,000 campaign promise has generated attention, but not belief. And, Vice President JD Vance characterizes Democrats as extremists.",
+   "published": "2026-09-13T12:04:27+00:00",
+   "source": "NPR Politics",
+   "source_id": "npr-politics",
+   "bias_note": "center",
+   "first_seen": "2026-09-13T14:50:26.986529+00:00"
+  },
   {
    "id": "133efd75c7cfa68b",
    "title": "State of Texas: Paxton and Talarico in their own words",
@@ -10011,127 +10066,6 @@
    "source_id": "thehill",
    "bias_note": "center",
    "first_seen": "2026-08-30T15:13:53.799499+00:00"
-  },
-  {
-   "id": "49251589cea13033",
-   "title": "Google Maps to change Lake Ontario to 'Lake America' on US phones",
-   "url": "https://thehill.com/policy/transportation/6059553-google-maps-renames-lake-america/",
-   "summary": "Google Maps on Saturday changed the name of Lake Ontario to \"Lake America\" for U.S. users, while keeping the name intact for Canadian Google users and carrying both names for international users, following President Trump's executive order to rename the Great Lake. The tech giant cited its name change to the U.S. Geographic Names Information...",
-   "published": "2026-08-30T14:45:08+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-08-30T14:53:14.245912+00:00"
-  },
-  {
-   "id": "db7053ba03de8149",
-   "title": "Canada claps back at Trump's efforts to rename Lake Ontario as 'Lake America'",
-   "url": "https://www.npr.org/2026/08/30/nx-s1-5949254/lake-ontario-america-doug-ford-trump-sign-google",
-   "summary": "Ontario Premier Doug Ford has unveiled a giant billboard reading: \"Lake Ontario \u2014 Now and Always.\" But tech giant Google has said it is renaming the lake for U.S. users, as President Trump demanded.",
-   "published": "2026-08-30T14:36:44+00:00",
-   "source": "NPR Politics",
-   "source_id": "npr-politics",
-   "bias_note": "center",
-   "first_seen": "2026-08-30T14:53:13.919776+00:00"
-  },
-  {
-   "id": "f89c9b77a9ca8603",
-   "title": "Ford says Trump renaming Lake Ontario is 'something out of Saturday Night Live'",
-   "url": "https://thehill.com/policy/international/6059521-ford-slams-lake-america-rename/",
-   "summary": "Ontario Premier Doug Ford on Sunday said that President Trump's executive order renaming Lake Ontario to \"Lake America\" resembled \"something out of 'Saturday Night Live.'\" Ford slammed Trump's trade war with Canada that placed a 50 percent tariff on $20 billion worth of Canadian goods in an interview with \"This Week\" host Martha Raddatz on...",
-   "published": "2026-08-30T14:18:04+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-08-30T14:53:14.245919+00:00"
-  },
-  {
-   "id": "13a6f019d21b364a",
-   "title": "Why is 'vegan' suddenly being used as a slur? | Emma Beddington",
-   "url": "https://www.theguardian.com/commentisfree/2026/aug/30/why-is-vegan-suddenly-being-used-as-a-slur",
-   "summary": "US republicans are tarnishing their plant-eating opponents at every opportunity. Yet vegans are perfectly suited to hold power \u2013 let me count the waysCool news, fellow soy boys and girls \u2013 we\u2019ve been promoted from feeble, tofu-eating wokerati to dangerous radicals unfit for public office. Politico reports that US Republicans have started throwing \u201cvegan\u201d around as a tactic to tarnish their political opponents. \u201cHe\u2019s a vegan,\u201d Trump warned of Democratic Texas senatorial candidate James Talarico in May, while Talarico\u2019s opponent, state attorney-general Ken Paxton, is trying to get the nickname \u201c",
-   "published": "2026-08-30T13:00:57+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-08-30T14:53:14.060558+00:00"
-  },
-  {
-   "id": "e39e814b1304216e",
-   "title": "Trump EPA is manipulating safety data around a highly toxic flame retardant, advocates allege",
-   "url": "https://www.theguardian.com/environment/2026/aug/30/trump-epa-data-toxic-flame-retardant",
-   "summary": "Widely used chemical TBBPA may present a danger to US public, and especially children, independent research findsThe Environmental Protection Agency is manipulating safety data around a highly toxic flame retardant deployed across the US economy, public health advocates allege.The chemical, TBBPA, has been found in dust in US homes and in consumer goods at combined levels that independent research has found may present a danger to the public, and especially small children. Continue reading...",
-   "published": "2026-08-30T13:00:56+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-08-30T14:53:14.060540+00:00"
-  },
-  {
-   "id": "a7074db04d5212fc",
-   "title": "Venezuelan interim president offers details on US oil deal",
-   "url": "https://thehill.com/policy/international/6059462-venezuela-us-oil-deal/",
-   "summary": "Venezuelan interim President Delcy Rodr\u00edguez on Saturday provided details on her country's new oil deal with the U.S., after President Trump said much of Venezuela's oil reserves will be under \"majority U.S. control.\" \"This 25-year bilateral project envisages the development of 17 strategic oilfields with a production \u200btarget of more than 1.5 million barrels per...",
-   "published": "2026-08-30T12:47:17+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-08-30T14:53:14.245951+00:00"
-  },
-  {
-   "id": "835a2f83b9b800c3",
-   "title": "Live updates: US-Venezuela oil deal sparks debate; Doug Ford set for Sunday show appearance",
-   "url": "https://thehill.com/homenews/administration/6059344-live-updates-trump-venezuela-oil-deal/",
-   "summary": "President Trump this weekend announced a\u00a0new deal\u00a0for the U.S. to acquire majority control of over 65 million barrels of Venezuelan oil, which has prompted a mixed response on the home front. Senate Democrats slammed the deal, describing the move as putting private profits over the safety of U.S. soldiers. GOP Sen. Bernie Moreno (Ohio) countered...",
-   "published": "2026-08-30T12:24:53+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-08-30T14:53:14.245957+00:00"
-  },
-  {
-   "id": "a2189fdecb50f7be",
-   "title": "Ontario premier unveils Lake Ontario sign in response to Trump\u2019s \u2018Lake America\u2019 order \u2013 video",
-   "url": "https://www.theguardian.com/world/video/2026/aug/30/doug-ford-lake-ontario-sign-trump-lake-america-video",
-   "summary": "The Canadian province's premier, Doug Ford, installed a billboard-sized sign on the lake's shoreline after the US president signed an executive order on Thursday directing US federal agencies to change the lake's name on US maps, documents and databases to 'Lake America'. Ford told reporters that the lake's name, which is more than 400 years old, would remain unchanged. Trade talks between the US and Canada collapsed last week, with each side \u200cblaming the \u2060other for derailing three days of intensive negotiationsTrump signs executive order to rename Lake Ontario as Lake America Continue reading",
-   "published": "2026-08-30T12:07:30+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-08-30T14:53:14.060603+00:00"
-  },
-  {
-   "id": "83a1256d9c42af82",
-   "title": "Politics chat: more tariffs, mail-in voting order, Kushner-Jeffries meeting",
-   "url": "https://www.npr.org/2026/08/30/nx-s1-5948115/politics-chat-more-tariffs-mail-in-voting-order-kushner-jeffries-meeting",
-   "summary": "Real economic sanctions on Canada and economic threats to countries trading with Iran may work against Republicans in the midterm elections.",
-   "published": "2026-08-30T12:02:26+00:00",
-   "source": "NPR Politics",
-   "source_id": "npr-politics",
-   "bias_note": "center",
-   "first_seen": "2026-08-30T14:53:13.919785+00:00"
-  },
-  {
-   "id": "4ce6bf407baddf0d",
-   "title": "Silicon Valley exec ignites firestorm after accusing JD Vance of bringing DEI back",
-   "url": "https://www.foxnews.com/politics/silicon-valley-exec-ignites-firestorm-after-accusing-jd-vance-bringing-dei-back",
-   "summary": "Silicon Valley exec Ankit Gupta\u2019s X post describing JD Vance\u2019s push to hire and train Americans as a return of &apos;DEI&apos; drew sharp rebukes from Trump officials and conservative voices.",
-   "published": "2026-08-30T12:00:33+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-08-30T14:53:05.154201+00:00"
-  },
-  {
-   "id": "f81abd11e8dfb1f3",
-   "title": "What happens when Republican senators have nothing left to lose? Not much.",
-   "url": "https://thehill.com/opinion/congress-blog/6057763-senators-abandoning-constitutional-checks/",
-   "summary": "Often\u00a0called\u00a0the \u201cWounded Bear\u201d\u00a0or YOLO (\u201cyou only live once\u201d)\u00a0Caucus,\u00a0these lawmakers have nothing to lose.\u00a0But\u00a0despite a greater willingness to voice objections to Trump nominations and policies,\u00a0they almost never vote\u00a0\u201cno\u201d\u00a0when it counts.",
-   "published": "2026-08-30T12:00:00+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-08-30T14:53:14.245963+00:00"
   }
  ]
 }
