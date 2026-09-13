@@ -1,7 +1,139 @@
 {
- "updated": "2026-09-13T16:23:48.573721+00:00",
+ "updated": "2026-09-13T20:53:40.181243+00:00",
  "count": 912,
  "articles": [
+  {
+   "id": "20a8df60aae1700f",
+   "title": "House Speaker Mike Johnson says Trump's $5,000 'dividend' needs congressional approval",
+   "url": "https://abcnews.com/Politics/wireStory/house-speaker-mike-johnson-trumps-5000-dividend-congressional-136408032",
+   "summary": "House Speaker Mike Johnson says Congress would have to approve President Donald Trump's proposal to send $5,000 to each American adult if the Republican Party maintains control of the House and Senate in the November election",
+   "published": "2026-09-13T20:10:50+00:00",
+   "source": "ABC News Politics",
+   "source_id": "abc-politics",
+   "bias_note": "center",
+   "first_seen": "2026-09-13T20:53:39.844287+00:00"
+  },
+  {
+   "id": "8e5ae3c4e5268875",
+   "title": "Trump says Lindsay Clancy case is a \u2018state situation' following attorney's pardon plea",
+   "url": "https://www.foxnews.com/politics/trump-says-lindsay-clancy-case-state-situation-following-attorneys-pardon-plea",
+   "summary": "President Donald Trump expressed sympathy for the family of Lindsay Clancy\u2019s three children while signaling that he would not intervene in the former nurse\u2019s state murder case.",
+   "published": "2026-09-13T19:58:28+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-13T20:53:37.948223+00:00"
+  },
+  {
+   "id": "bc803485af6e6c92",
+   "title": "Homan confirms 'criminal' investigation involving Ilhan Omar, says he knows 'things are going on\u2019",
+   "url": "https://www.foxnews.com/media/homan-confirms-criminal-investigation-involving-ilhan-omar-says-knows-things-going",
+   "summary": "Tom Homan confirmed officials are investigating allegations involving Rep. Ilhan Omar but declined to share specifics about possible immigration fraud.",
+   "published": "2026-09-13T19:51:24+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-13T20:53:38.040254+00:00"
+  },
+  {
+   "id": "5a49ad25ae575255",
+   "title": "House Speaker Mike Johnson says Trump's $5,000 'dividend' needs congressional approval",
+   "url": "https://www.pbs.org/newshour/politics/house-speaker-mike-johnson-says-trumps-5000-dividend-needs-congressional-approval",
+   "summary": "Trump made the unusual pitch at the party's midterm convention in Dallas last week, promising a \"Trump Dividend\" if voters keep the GOP in power on Capitol Hill.",
+   "published": "2026-09-13T19:36:17+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-09-13T20:53:39.310196+00:00"
+  },
+  {
+   "id": "7819325ea296ba5a",
+   "title": "Trump floats idea to 'stay and keep the oil' in Iran, noting Venezuela deal",
+   "url": "https://thehill.com/policy/energy-environment/6086928-trump-compares-iran-venezuela-oil/",
+   "summary": "President Trump on Sunday floated the idea that the U.S. could \"stay and keep the oil\" in Iran, comparing the notion to the U.S.'s major oil deal with Venezuela. Trump told reporters while in Doonbeg, Ireland, that the conflict with Iran will \"end after the midterm\" elections and that the Iranian regime \"wants to make...",
+   "published": "2026-09-13T19:05:43+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-13T20:53:39.144893+00:00"
+  },
+  {
+   "id": "81fdd48557defd6a",
+   "title": "Lawler deflects on supporting Trump's $5K dividend pledge: 'How do you pay for it?'",
+   "url": "https://thehill.com/homenews/house/6086944-lawler-questions-trump-dividend/",
+   "summary": "Rep. Mike Lawler (R-N.Y.) on Sunday joined multiple Republican lawmakers in questioning the fiscal sense of President Trump\u2019s proposal to send $5,000 to every American adult.  During an interview on ABC\u2019s \u201cThis Week,\u201d Lawler initially avoided the question of whether he supported Trump\u2019s proposed dividend. \u201cI support putting money back in the pockets of hard-working...",
+   "published": "2026-09-13T18:50:47+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-13T20:53:39.144900+00:00"
+  },
+  {
+   "id": "43311994c5f22c08",
+   "title": "Hassett on Trump trade war interest rates threat: \u2018I don't expect the trade's going to go to zero\u2019",
+   "url": "https://thehill.com/business/6086906-hassett-plays-down-trump-trade-threat/",
+   "summary": "Kevin Hassett, director of the National Economic Council, on Sunday played down President Trump's threat to begin a trade war if the Federal Reserve doesn\u2019t drop interest rates. \u201cI don't expect the trade's going to go to zero, but I do think that the president has a very strong opinion that interest rates could be...",
+   "published": "2026-09-13T18:28:27+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-13T20:53:39.144904+00:00"
+  },
+  {
+   "id": "024d7e27c814b2cd",
+   "title": "Jeffries does not rule out pursuing Trump impeachment if Democrats win House",
+   "url": "https://thehill.com/homenews/house/6086866-jeffries-trump-impeachment-possibility/",
+   "summary": "House Minority Leader Hakeem Jeffries (D-N.Y.) said Sunday he has not ruled out pursuing the impeachment of President Trump if Democrats take back the House in November. \u201cNo, we haven't ruled anything in and we haven't ruled anything out in terms of impeachment,\u201d Jeffries told George Stephanopoulos on ABC\u2019s \u201cThis Week,\u201d when the host asked...",
+   "published": "2026-09-13T18:10:57+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-13T20:53:39.144908+00:00"
+  },
+  {
+   "id": "79e533dee518be95",
+   "title": "GOP rep: Priority 'needs to be the military,' not $5K checks",
+   "url": "https://thehill.com/homenews/house/6086831-flood-prioritizes-pentagon-over-dividend/",
+   "summary": "GOP Rep. Mike Flood (Neb.) said Sunday he supports providing the Pentagon with more funding amid the Iran war over passing legislation to implement President Trump\u2019s $5,000 dividend proposal. \u201cFirst thing, I think we need to see the proposal, but the priority, in my opinion right now, should be funding our troops and replenishing our...",
+   "published": "2026-09-13T17:27:31+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-13T20:53:39.144919+00:00"
+  },
+  {
+   "id": "f89779610151ca53",
+   "title": "Trump tells Zelenskyy to stop doing 'one thing' during attacks on Russia",
+   "url": "https://www.foxnews.com/politics/trump-tells-zelenskyy-stop-doing-one-thing-during-attacks-russia",
+   "summary": "President Donald Trump told reporters he wants Volodymyr Zelensky to stop hitting Russian diesel refineries, saying the strikes are causing a global fuel shortage.",
+   "published": "2026-09-13T17:14:44+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-13T20:53:37.948229+00:00"
+  },
+  {
+   "id": "838ba4dc313e053d",
+   "title": "Trump team unloads on liberal journalist over Natalie Harp posts: \u2018Sick, deluded freak\u2019",
+   "url": "https://www.foxnews.com/media/trump-team-unloads-liberal-journalist-natalie-harp-posts-sick-deluded-freak",
+   "summary": "The White House fired back at journalist Aaron Rupar over his #TravelWithNatalie posts about aide Natalie Harp joining Trump on his Ireland trip.",
+   "published": "2026-09-13T17:03:02+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-13T20:53:38.040324+00:00"
+  },
+  {
+   "id": "77a416b77d877762",
+   "title": "Trump's\u00a0coastal power grab should alarm all Americans",
+   "url": "https://thehill.com/opinion/energy-environment/6085213-trump-california-coastal-takeover/",
+   "summary": "The right to manage the coast should remain equal under the law for all coastal states.",
+   "published": "2026-09-13T17:00:00+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-13T20:53:39.144922+00:00"
+  },
   {
    "id": "e0c09de086143dec",
    "title": "Trump calls on Ukraine to halt strikes on Russian diesel, saying attacks are causing a shortage",
@@ -9901,138 +10033,6 @@
    "source_id": "thehill",
    "bias_note": "center",
    "first_seen": "2026-08-30T22:48:20.271919+00:00"
-  },
-  {
-   "id": "b26081b9744f1cce",
-   "title": "Greene condemns Loomer\u2019s rhetoric: \u2018This is Trump\u2019s new MAGA and Republican Party\u2019",
-   "url": "https://thehill.com/homenews/media/6059887-marjorie-taylor-greene-denounces-loomer/",
-   "summary": "Former Rep. Marjorie Taylor Greene (R-Ga.) on Sunday slammed right-wing influencer Laura Loomer's remarks posted on social media, condemning them as President Trump's \"new MAGA and Republican Party.\" Greene reacted to an inflammatory post shared by Loomer on the social platform X directed at Florida state Rep. Angie Nixon (D), who is running for Senate....",
-   "published": "2026-08-30T20:21:53+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-08-30T22:48:20.271925+00:00"
-  },
-  {
-   "id": "55a2a55047dcddee",
-   "title": "Trump: 'I don't want Canadian anything'",
-   "url": "https://thehill.com/homenews/administration/6059848-trump-canada-import-tariffs/",
-   "summary": "President Trump said Sunday he does not want U.S. businesses to import Canadian goods amid continued tariff tensions between the two countries. In a post on Truth Social, Trump said his tariffs \u201crevived, and indeed saved\u201d the American automobile industry, pointing to profits made by Ford, General Motors and other U.S. car companies during his...",
-   "published": "2026-08-30T20:10:36+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-08-30T22:48:20.271930+00:00"
-  },
-  {
-   "id": "a73dfb12201e2b5d",
-   "title": "Ivanka Trump takes surfing lesson in Costa Rica during latest family beach vacation getaway",
-   "url": "https://www.foxnews.com/entertainment/ivanka-trump-takes-surfing-lesson-costa-rica-family-beach-vacation-getaway",
-   "summary": "Ivanka Trump was photographed taking a surfing lesson in Costa Rica during a family vacation, riding waves on a green surfboard in new photos.",
-   "published": "2026-08-30T20:00:04+00:00",
-   "source": "Fox News Latest",
-   "source_id": "foxnews-latest",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-08-30T22:48:18.277079+00:00"
-  },
-  {
-   "id": "88d768bd5b6f3803",
-   "title": "Trump promises to 'fill up' SPR after US-Venezuela oil deal",
-   "url": "https://thehill.com/homenews/administration/6059809-trump-venezuela-spr-deal/",
-   "summary": "President Trump said Sunday the U.S. will \u201cfill up\u201d the Strategic Petroleum Reserve (SPR) as a result of the oil deal his administration reached with the Venezuelan government. \u201cOne of the things I am going to do with the Venezuelan Oil is fill up the Strategic National Reserves,\u201d Trump wrote on Truth Social, adding the...",
-   "published": "2026-08-30T19:11:22+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-08-30T19:20:34.265419+00:00"
-  },
-  {
-   "id": "8ab9224bfbf78fdb",
-   "title": "Trump \u2018border czar\u2019 denies that Milo Yiannopoulos was deported for political reasons",
-   "url": "https://www.theguardian.com/us-news/2026/aug/30/trump-border-czar-tom-homan-milo-yiannopoulos-arrest-deportation",
-   "summary": "Tom Homan says rightwing influencer overstayed visitor visa after receiving final order of removalThe White House \u201cborder czar,\u201d Tom Homan, denied on Sunday that the British far-right commentator Milo Yiannopoulos was deported just a day after being arrested by US Immigration and Customs Enforcement (ICE) for political reasons.Homan said it was his understanding that Yiannopoulos, 41, had overstayed what he believed to be a visitor visa, had not appeared at an immigration hearing and was issued a final order of removal on 22 July. Continue reading...",
-   "published": "2026-08-30T19:04:44+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-08-30T19:20:34.047090+00:00"
-  },
-  {
-   "id": "8ca08234e224147a",
-   "title": "Trump vows to report NBC anchor Kristen Welker to FCC over 'purposeful inaccuracy' on endorsements",
-   "url": "https://www.foxnews.com/media/trump-vows-report-nbc-anchor-kristen-welker-fcc-over-purposeful-inaccuracy-endorsements",
-   "summary": "Trump announced on Truth Social that Kristen Welker will be reported to the FCC after she described his primary endorsement record as mixed results.",
-   "published": "2026-08-30T19:04:13+00:00",
-   "source": "Fox News Latest",
-   "source_id": "foxnews-latest",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-08-30T19:20:33.468393+00:00"
-  },
-  {
-   "id": "bbeb9b05c4a16588",
-   "title": "Trump won the heart of Michigan\u2019s Arab American community. They're moving away from Mike Rogers.",
-   "url": "https://www.politico.com/news/2026/08/30/michigan-arab-muslim-vote-senate-el-sayed-rogers-01055928",
-   "summary": "The messy Senate race in Michigan has laid bare Republicans\u2019 floundering support from the Arab American community, which boosted Donald Trump in 2024.",
-   "published": "2026-08-30T18:00:00+00:00",
-   "source": "Politico",
-   "source_id": "politico",
-   "bias_note": "center",
-   "first_seen": "2026-08-30T19:20:34.199441+00:00"
-  },
-  {
-   "id": "fe6d6899032fb26b",
-   "title": "Chicago mayor demands companies reveal whether leaders \u2018reflect diversity\u2019 for city contracts",
-   "url": "https://www.foxnews.com/media/chicago-mayor-demands-companies-reveal-whether-leaders-reflect-diversity-city-contracts",
-   "summary": "DHS accused Brandon Johnson of punishing businesses that help ICE enforce federal immigration law after the Chicago mayor signed a new executive order.",
-   "published": "2026-08-30T17:57:12+00:00",
-   "source": "Fox News Latest",
-   "source_id": "foxnews-latest",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-08-30T19:20:33.468434+00:00"
-  },
-  {
-   "id": "f47768c2a1f1cc8b",
-   "title": "Homan after Milo Yiannopoulos deportation: 'Get them out quick'",
-   "url": "https://thehill.com/homenews/administration/6059702-homan-milo-yiannopoulos-deported/",
-   "summary": "White House border czar Tom Homan on Sunday said federal immigration enforcement authorities \"get them out quick\" after officials detained and swiftly deported far-right provocateur Milo Yiannopoulos last week. The Department of Homeland Security (DHS) previously stated that Immigration and Customs Enforcement (ICE) detained the British national after he overstayed his visa. He was issued...",
-   "published": "2026-08-30T17:52:48+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-08-30T19:20:34.265465+00:00"
-  },
-  {
-   "id": "343d1ba322a50512",
-   "title": "Trump surprises NASA officials with call after Roman Space Telescope launch",
-   "url": "https://www.foxnews.com/media/trump-surprises-nasa-officials-call-after-roman-space-telescope-launch",
-   "summary": "Trump dialed into a NASA press conference after the Nancy Grace Roman Space Telescope launched aboard a SpaceX Falcon Heavy from Florida.",
-   "published": "2026-08-30T17:28:04+00:00",
-   "source": "Fox News Latest",
-   "source_id": "foxnews-latest",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-08-30T19:20:33.468451+00:00"
-  },
-  {
-   "id": "003114e9efdac3cc",
-   "title": "Trump says NBC\u2019s Kristen \u200cWelker should face \u2018punishment\u2019 from FCC",
-   "url": "https://www.theguardian.com/us-news/2026/aug/30/trump-nbc-kristen-welker-fcc",
-   "summary": "Trump\u2019s threat comes after host described success record of candidates whom president had endorsed as \u2018mixed\u2019Donald Trump \u2060on Sunday said NBC\u2019s Kristen \u200cWelker \u2013 host of Meet the Press \u2013 should face \u201crebuke or punishment\u201d from the Federal Communications Commission (FCC).Preceding Trump\u2019s comments was a live shot by Welker in which she described the success record of political candidates whom president had endorsed as \u201cmixed\u201d on Washington DC\u2019s NBC affiliate prior to the airing of Sunday\u2019s edition of Meet the Press. Continue reading...",
-   "published": "2026-08-30T17:16:52+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-08-30T19:20:34.047107+00:00"
-  },
-  {
-   "id": "e63375ee24e43fe3",
-   "title": "Trump indicates support for Christian-backed plan to help Canadian Jews escape antisemitism",
-   "url": "https://www.foxnews.com/politics/trump-indicates-support-christian-backed-plan-help-canadian-jews-escape-antisemitism",
-   "summary": "Trump amplified a plan for expedited legal pathways for Jewish Canadians fleeing antisemitic persecution as Christian lawmakers press his administration.",
-   "published": "2026-08-30T16:45:00+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-08-30T19:20:33.424586+00:00"
   }
  ]
 }
