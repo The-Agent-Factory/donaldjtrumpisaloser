@@ -1,7 +1,73 @@
 {
- "updated": "2026-09-13T20:53:40.181243+00:00",
- "count": 912,
+ "updated": "2026-09-14T00:15:01.681668+00:00",
+ "count": 914,
  "articles": [
+  {
+   "id": "65d5a44bfedeeb44",
+   "title": "Poll: Democratic voters driven by Trump opposition more than party platform",
+   "url": "https://thehill.com/homenews/campaign/6087181-democrats-voter-motivation-trump-opposition/",
+   "summary": "A new poll shows that Democratic voters are more driven to cast their ballots in the November midterms elections out of their opposition to President Trump more so than the party's platform. The CBS News/YouGov poll released Sunday found that 54 percent of Democratic voters said they will vote for their Democratic candidate to Congress...",
+   "published": "2026-09-13T22:41:58+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-14T00:15:00.364504+00:00"
+  },
+  {
+   "id": "80fa1a031c680b49",
+   "title": "Trump downplays calls for AI slowdown",
+   "url": "https://www.npr.org/2026/09/13/nx-s1-5968078/trump-mike-johnson-ai-slowdown",
+   "summary": "President Trump said there were \"negative forces\" predicting things that he says won't happen.",
+   "published": "2026-09-13T22:32:39+00:00",
+   "source": "NPR Politics",
+   "source_id": "npr-politics",
+   "bias_note": "center",
+   "first_seen": "2026-09-14T00:14:59.637890+00:00"
+  },
+  {
+   "id": "9c9f4dad519e8052",
+   "title": "Trump downplays the need to check AI development and says he doesn't want to cede edge to China",
+   "url": "https://www.pbs.org/newshour/politics/trump-downplays-the-need-to-check-ai-development-and-says-he-doesnt-want-to-cede-edge-to-china",
+   "summary": "While acknowledging the need for some regulation, Trump provided no specifics about potential rules and attributed warnings about the technology moving too quickly and with little oversight to \"negative forces\" he did not identify.",
+   "published": "2026-09-13T22:08:25+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-09-14T00:15:00.619873+00:00"
+  },
+  {
+   "id": "bf0045bf119f920f",
+   "title": "Trump unloads on AOC, Mamdani for laughing during sacred 9/11 ceremony at Ground Zero",
+   "url": "https://www.foxnews.com/politics/trump-unloads-aoc-mamdani-laughing-during-sacred-9-11-ceremony-ground-zero",
+   "summary": "President Donald Trump called the moment &quot;terrible&quot; after video showed AOC and Zohran Mamdani appearing to laugh during the Ground Zero ceremony.",
+   "published": "2026-09-13T21:54:35+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-14T00:14:58.808685+00:00"
+  },
+  {
+   "id": "e8451f0a8ded001f",
+   "title": "Presidential Message on the Anniversary of the Battle of Fort McHenry",
+   "url": "https://www.whitehouse.gov/briefings-statements/2026/09/presidential-message-on-the-anniversary-of-the-battle-of-fort-mchenry/",
+   "summary": "In September of 1814, 1,000 American patriots heroically defended our young Nation\u2019s sovereignty at the Battle of Fort McHenry, where they halted the British invasion of Baltimore in a critical turning point in the War of 1812.&#160; Despite relentless cannon bombardment from the most powerful navy of its age, American forces stood strong.&#160; When dawn [&#8230;]\nThe post Presidential Message on the Anniversary of the Battle of Fort McHenry appeared first on The White House.",
+   "published": "2026-09-13T21:37:19+00:00",
+   "source": "WhiteHouse.gov News",
+   "source_id": "whitehouse",
+   "bias_note": "official/primary-source",
+   "first_seen": "2026-09-14T00:14:59.144420+00:00"
+  },
+  {
+   "id": "e37a5101bf11b73c",
+   "title": "Trump says he plans to lift tariffs on Irish whiskey",
+   "url": "https://thehill.com/business/6087112-trump-to-lift-irish-whiskey-tariffs/",
+   "summary": "President Trump said Sunday that he plans to lift tariffs on Irish whiskey, an announcement he made while visiting the Emerald Isle. \u201cIreland itself has been so incredible, so inviting, and we're very honored by presenting you with a great course. It's been great,\u201d the president said while speaking at a ceremony for the Amgen...",
+   "published": "2026-09-13T21:05:47+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-14T00:15:00.364546+00:00"
+  },
   {
    "id": "20a8df60aae1700f",
    "title": "House Speaker Mike Johnson says Trump's $5,000 'dividend' needs congressional approval",
@@ -9989,50 +10055,6 @@
    "source_id": "thehill",
    "bias_note": "center",
    "first_seen": "2026-08-31T05:42:43.557076+00:00"
-  },
-  {
-   "id": "ef93aa46ce0e6574",
-   "title": "Lake Ontario now called Lake America on Google Maps for U.S. users after Trump ordered name change",
-   "url": "https://www.pbs.org/newshour/nation/lake-ontario-now-called-lake-america-on-google-maps-for-u-s-users-after-trump-ordered-name-change",
-   "summary": "Google said in a blog post that the decision was based on its practice of using names assigned by the U.S. Geographic Names Information System, also known as GNIS.",
-   "published": "2026-08-30T22:38:24+00:00",
-   "source": "PBS NewsHour Politics",
-   "source_id": "pbs-politics",
-   "bias_note": "center",
-   "first_seen": "2026-08-31T05:42:43.765286+00:00"
-  },
-  {
-   "id": "49987f0481979d1a",
-   "title": "Freedom Fuel gas stations sold stolen fuel, lawsuit claims",
-   "url": "https://thehill.com/policy/energy-environment/6059912-freedom-fuel-lawsuit-unpaid-gas/",
-   "summary": "Freedom Fuel gas stations, which the Trump administration promoted last month, sold fuel that its supplier never paid for, according to a lawsuit filed earlier this month. The suit, which attorneys for Mansfield Oil Company filed in U.S. District Court in Eastern Pennsylvania on Aug. 19, alleges that KRSM, a foreign corporation, obtained in excess...",
-   "published": "2026-08-30T21:20:01+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-08-30T22:48:20.271901+00:00"
-  },
-  {
-   "id": "11e9b9add88c33ed",
-   "title": "USDA reportedly shelves cyclospora research amid relocations and fund cuts",
-   "url": "https://www.theguardian.com/us-news/2026/aug/30/usda-cyclospora-research-projects-shelved",
-   "summary": "Trump officials shuttering three projects on foodborne parasite, two defunded by Congress, Politico reportsThe Trump administration is shuttering \u2060two of the three US Department of Agriculture research projects studying cyclospora after the foodborne parasite has \u2060sickened tens of thousands of Americans during the summer, Politico reported on Sunday.The two projects were defunded by Congress earlier in the year, while the third is \u2060due to be moved in coming months from Maryland to Iowa as part of a broader USDA reorganization, according to the \u2060report. Continue reading...",
-   "published": "2026-08-30T21:10:56+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-08-30T22:48:18.987443+00:00"
-  },
-  {
-   "id": "2c142bafcb697851",
-   "title": "Republicans ready for 'very hasty' 'Trump-a-palooza' convention in Texas",
-   "url": "https://thehill.com/homenews/campaign/6058289-rnc-midterm-convention-dallas/",
-   "summary": "The Republican National Committee\u2019s (RNC) first-of-its-kind midterm convention has been cloaked in mystery until a few weeks ago. Details are finally emerging about what\u2019s expected to be a two-day pep rally to bolster hype and encourage Republicans to get out the vote in November amid President Trump\u2019s shrinking approval rate. But some Republicans are quietly...",
-   "published": "2026-08-30T21:00:00+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-08-30T22:48:20.271919+00:00"
   }
  ]
 }
