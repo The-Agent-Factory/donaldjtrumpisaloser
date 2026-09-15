@@ -1,7 +1,139 @@
 {
- "updated": "2026-09-15T15:28:41.134222+00:00",
- "count": 935,
+ "updated": "2026-09-15T17:04:13.169688+00:00",
+ "count": 939,
  "articles": [
+  {
+   "id": "1160238c6c3640b7",
+   "title": "Massie launches effort to impeach Hegseth",
+   "url": "https://thehill.com/homenews/house/6090661-thomas-massie-pete-hegseth-impeachment-iran/",
+   "summary": "Rep. Thomas Massie (R-Ky.) on Tuesday launched an effort to impeach Secretary of Defense Pete Hegseth, citing the Pentagon\u2019s military actions against Iran.  Massie, a frequent critic of President Trump, accused Hegseth of launching an illegal war that was not approved by Congress. He introduced articles of impeachment on the House floor against Hegseth for...",
+   "published": "2026-09-15T16:51:04+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-15T17:04:12.403429+00:00"
+  },
+  {
+   "id": "61cc8100644490ab",
+   "title": "Judge blocks new Trump inscription on Kennedy Center",
+   "url": "https://thehill.com/regulation/court-battles/6090649-trump-kennedy-center-inscription-judge/",
+   "summary": "A federal judge on Tuesday blocked the Kennedy Center\u2019s latest attempt to inscribe President Trump's name back on building \u2014 and to rename the campus after him.  U.S. District Judge Christopher Cooper ruled that the Kennedy Center board cannot move forward with the plans without \u201cCongress\u2019s blessing,\u201d finding that an August vote on the renaming...",
+   "published": "2026-09-15T16:45:28+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-15T17:04:12.403438+00:00"
+  },
+  {
+   "id": "0c8c558bb27697c1",
+   "title": "Patel grilled on ICE shootings, Trump Jr.'s wedding\u2026and bestiality?",
+   "url": "https://thehill.com/newsletters/1230-report/6090564-patel-grilled-on-ice-shootings-trump-jr-s-weddingand-bestiality/",
+   "summary": "Presented by SourceAmerica {beacon} &#8202;  PRESENTED BY It\u2019s Tuesday, and it's Sen. Mitch McConnell's first full day back in 92 days.  &#8202; In today's issue: Patel questioned Supreme Court angers Trump Texas students respond to Republican Macklemore dropped from tour Programming note: We're Joshua Feldstein and Claire Leibowitz, filling in for Cate today. Please send us your...",
+   "published": "2026-09-15T16:36:28+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-15T17:04:12.403459+00:00"
+  },
+  {
+   "id": "f5e3a313e814a473",
+   "title": "US lawmakers spar over bill giving Trump more power to sanction Russia",
+   "url": "https://www.theguardian.com/us-news/2026/sep/15/congress-tariff-legislation-trump-russia-ukraine",
+   "summary": "Proponents say sanctions would help Ukraine, but some Democrats say Trump shouldn\u2019t have more tariff authorityUS politics live \u2013 latest updatesA bill co-authored by Lindsey Graham, the South Carolina senator who died earlier this year, that would give Donald Trump broad authority to tariff Russia and its trading partners will be put forward for a vote this week in a high-stakes legislative battle that could provide new sanctioning authority to the US president at a crucial moment in Russia\u2019s war against Ukraine.The bill is facing considerable pushback not only from Ukraine-sceptic Republicans,",
+   "published": "2026-09-15T16:34:08+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-09-15T17:04:12.140804+00:00"
+  },
+  {
+   "id": "615f60925d0467df",
+   "title": "Durbin: Trump moves on voting 'most serious challenge' since Civil War",
+   "url": "https://thehill.com/homenews/senate/6090437-durbin-trump-voting-challenge/",
+   "summary": "Sen. Dick Durbin (D-Ill.) on Tuesday said President Trump's policy proposals and executive orders on voting have created the \"most serious challenge\" to the U.S. government since the Civil War. CNN's Sara Sidner asked Durbin, the ranking member of the Senate Judiciary Committee, if Democrats have a \"plan to secure voter rights.\" Durbin replied that...",
+   "published": "2026-09-15T16:33:01+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-15T17:04:12.403477+00:00"
+  },
+  {
+   "id": "efe3c1b81c4d2c78",
+   "title": "Republicans kept their promise: America's border is secure again",
+   "url": "https://thehill.com/opinion/criminal-justice/6089387-boebert-claims-secure-border-success/",
+   "summary": "Rep. Lauren Boebert highlighted the impacts of Republican border security policies implemented during President Trump's second term, noting significant decreases in illegal crossings and increased funding for enforcement.",
+   "published": "2026-09-15T16:30:00+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-15T17:04:12.403480+00:00"
+  },
+  {
+   "id": "f9aae117156661ac",
+   "title": "Joe Manchin calls on Trump to freeze AI IPOs, claims president has 'power to save humanity'",
+   "url": "https://www.foxnews.com/media/joe-manchin-calls-trump-freeze-ai-ipos-claims-president-power-save-humanity",
+   "summary": "Joe Manchin urged Trump to freeze AI IPOs until Congress passes safeguards, but critics say blocking capital markets won&apos;t address the real risks.",
+   "published": "2026-09-15T16:08:08+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-15T17:04:10.866038+00:00"
+  },
+  {
+   "id": "245b1cf86df46c1b",
+   "title": "Live updates: Patel faces surprising questions in Senate; Bessent pressed on tariffs, $5K dividend",
+   "url": "https://thehill.com/homenews/state-watch/6089511-live-updates-trump-blanche-kash-patel-senate/",
+   "summary": "FBI Director Kash Patel is testifying before the Senate Judiciary Committee for an oversight hearing on Tuesday morning. Ahead of the meeting, Patel released a letter sent to panel chair Sen. Chuck Grassley (R-Iowa) to explain expenditures that have drawn scrutiny. But questioning during the hearing turned to an unexpected topic: Sen. John Kennedy (R-La.)...",
+   "published": "2026-09-15T15:58:58+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-15T17:04:12.403522+00:00"
+  },
+  {
+   "id": "cc3ff3451ee8423c",
+   "title": "AI can wipe us out \u2013 so why can\u2019t it do Guardian cryptic crosswords? | Brief letters",
+   "url": "https://www.theguardian.com/technology/2026/sep/15/ai-can-wipe-us-out-so-why-cant-it-do-guardian-cryptic-crosswords",
+   "summary": "AI capabilities | Trump\u2019s judgment | Gardening attire | Death in English literature | Tautologies | Nominative determinismAI may be capable of \u201ctaking over the entire internet\u201d (OpenAI boss and Elon Musk back calls to put brakes on \u2018reckless\u2019 AI development, 13 September), but it is&nbsp;rubbish&nbsp;at tackling the Guardian&nbsp;cryptic crossword.John HoughamReading, Berkshire\u2022 Donald Trump is downplaying the dangers of AI (Trump facing AI backlash in Congress as push for guardrails intensifies, 15 September). But didn\u2019t he say much the same thing about Covid?Garry WynneNorley, Cheshire Conti",
+   "published": "2026-09-15T15:48:35+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-09-15T17:04:12.140819+00:00"
+  },
+  {
+   "id": "f5dcb56091d43e18",
+   "title": "\u2018Still waiting on the DOGE check\u2019: Battleground state voters cast doubt on Trump\u2019s new $5K promise",
+   "url": "https://www.foxnews.com/politics/still-waiting-doge-check-battleground-state-voters-cast-doubt-trumps-new-5k-promise",
+   "summary": "Detroit, Michigan, residents call gas prices, car insurance and rent &quot;ridiculous&quot; while dismissing Trump&apos;s $5,000 dividend as political &quot;bribery.&quot;",
+   "published": "2026-09-15T15:46:02+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-15T17:04:10.815234+00:00"
+  },
+  {
+   "id": "1c21d0634b220a5f",
+   "title": "Trump blasts Supreme Court 'disaster' after justices rule against him on mail-in voting",
+   "url": "https://www.foxnews.com/politics/trump-blasts-supreme-court-disaster-justices-rule-against-mail-voting",
+   "summary": "Trump called Justices Samuel Alito and Clarence Thomas &quot;legends&quot; for dissenting and listed Supreme Court rulings that have gone against him.",
+   "published": "2026-09-15T15:25:45+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-15T17:04:10.815242+00:00"
+  },
+  {
+   "id": "80e9fe609c1a9d5b",
+   "title": "President Trump Promised to Make Memphis Safe Again. One Year Later, the Numbers Prove It.",
+   "url": "https://www.whitehouse.gov/releases/2026/09/president-trump-promised-to-make-memphis-safe-again-one-year-later-the-numbers-prove-it/",
+   "summary": "One year ago, President Donald J. Trump created the Memphis Safe Task Force and ordered a full-scale federal surge into one of America\u2019s most violent cities. President Trump directed coordination of more than 30 federal, state, and local agencies in making arrests, clearing warrants, seizing illegal firearms, and saturating neighborhoods that Democrats had long surrendered [&#8230;]\nThe post President Trump Promised to Make Memphis Safe Again. One Year Later, the Numbers Prove It. appeared first on The White House.",
+   "published": "2026-09-15T15:22:37+00:00",
+   "source": "WhiteHouse.gov News",
+   "source_id": "whitehouse",
+   "bias_note": "official/primary-source",
+   "first_seen": "2026-09-15T17:04:11.570748+00:00"
+  },
   {
    "id": "6edc5c173fc23820",
    "title": "Trump slams the Supreme Court for rejecting his push to restrict mail ballots",
@@ -10198,94 +10330,6 @@
    "source_id": "foxnews-politics",
    "bias_note": "right-leaning",
    "first_seen": "2026-09-01T21:05:57.627773+00:00"
-  },
-  {
-   "id": "1ab3ac3bd7e1486b",
-   "title": "US lawmakers demand investigation into Trump administration\u2019s secret surveillance of Americans",
-   "url": "https://www.theguardian.com/us-news/2026/sep/01/lawmakers-trump-obscure-law-investigation",
-   "summary": "Exclusive: Two congressmembers respond to revelations of government snooping on journalists, non-profits and unionsTwo congressional Democrats asked a government watchdog Tuesday to investigate the Trump administration\u2019s use of an obscure law to secretly collect records on journalists, non-profits and unions without judicial oversight.The request from the senator Ron Wyden of Oregon and the representative Pramila Jayapal of Washington seen by the Guardian comes amid mounting scrutiny over the way the Department of Homeland Security (DHS) recently used its power to issue administrative summonse",
-   "published": "2026-09-01T16:11:20+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-09-01T16:43:05.416233+00:00"
-  },
-  {
-   "id": "7c8303ca811afa46",
-   "title": "White House brings receipts after media claims noncriminal ICE arrests \u2018soaring\u2019: \u2018False narratives\u2019",
-   "url": "https://www.foxnews.com/politics/white-house-brings-receipts-media-claims-noncriminal-ice-arrests-soaring-false-narratives",
-   "summary": "The White House says many ICE arrests labeled &quot;noncriminal&quot; by the Washington Post and New York Times involve MS-13 members and foreign fugitives.",
-   "published": "2026-09-01T15:51:40+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-09-01T16:43:04.989517+00:00"
-  },
-  {
-   "id": "b08b297270e798d5",
-   "title": "Mark Carney tells US to \u2018start being serious\u2019 amid escalating trade war",
-   "url": "https://www.theguardian.com/us-news/2026/sep/01/trump-mark-carney-trade-war-canada",
-   "summary": "Canadian PM is set to retaliate against tariffs levied by Donald Trump and criticized US officials over insultsUS politics live \u2013 latest updatesMark Carney has rebuked Donald Trump\u2019s administration and urged officials in Washington to \u201cstart being serious\u201d amid escalating trade tensions between the US and Canada.Days before Canada is due to retaliate against Trump\u2019s sweeping tariffs with its own duties on US goods, the Canadian prime minister criticized US officials for insulting his country. \u201cIt is beneath their office,\u201d he said. Continue reading...",
-   "published": "2026-09-01T15:48:27+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-09-01T16:43:05.416250+00:00"
-  },
-  {
-   "id": "47e751de6d93391b",
-   "title": "Live updates: House faction aims to freeze Johnson's agenda; Trump set to huddle with energy executives",
-   "url": "https://thehill.com/homenews/administration/6062462-live-updates-trump-energy-iran-house/",
-   "summary": "As House Speaker Mike Johnson tries to get through a legislative agenda this week, a group of hard-line conservatives may block his progress. Reps. Chip Roy (R-Texas) and Andy Harris (R-Md.) are among those threatening to oppose a rule vote to protest a Senate-passed government funding bill the lower chamber is set to take up...",
-   "published": "2026-09-01T15:47:56+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-01T16:43:06.610255+00:00"
-  },
-  {
-   "id": "cded071da1c1ea49",
-   "title": "Netflix documentary on Trump's 'decoy plane' coming Friday",
-   "url": "https://thehill.com/blogs/in-the-know/6063459-netflix-instadocs-trump-decoy-plane-air-force-one/",
-   "summary": "President Trump's secret departure on an alternate military aircraft over the summer in Turkey is getting the Netflix documentary treatment. \"Instadocs: The Decoy Plane,\" premiering Friday on the streamer, will explore how the president was\u00a0secretly shuttled\u00a0inside a catering truck to a smaller Air Force C-32A plane in July amid security concerns involving Iran. The documentary...",
-   "published": "2026-09-01T15:45:42+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-01T16:43:06.610264+00:00"
-  },
-  {
-   "id": "cfd54e2aa0db5d49",
-   "title": "Bessent: Iran economy could collapse 'within weeks or months'",
-   "url": "https://thehill.com/homenews/administration/6063299-bessent-iranian-economy-collapse/",
-   "summary": "Treasury Secretary Scott Bessent on Monday said Iran's economy could collapse \"within weeks or months,\" as the Trump administration seeks to debilitate the Middle Eastern country's economy. \"I think it could be within weeks or months \u2013\u2013 and the economy doesn't have to collapse, we just have to have the regime come to their senses,\"...",
-   "published": "2026-09-01T15:38:26+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-01T16:43:06.610290+00:00"
-  },
-  {
-   "id": "c8136dfda7b5e087",
-   "title": "Fairness for growers is food security for America",
-   "url": "https://thehill.com/opinion/international/6062379-protecting-seasonal-growers-trade/",
-   "summary": "Rep. Vern Buchanan is calling on the Trump administration to implement seasonal tariff-rate quotas on Mexican produce during the ongoing USMCA review to protect Florida's agricultural sector.",
-   "published": "2026-09-01T15:30:00+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-01T16:43:06.610293+00:00"
-  },
-  {
-   "id": "a1db83f36061de94",
-   "title": "Majority of Americans reject Trump\u2019s renaming of Lake Ontario to Lake America, poll finds",
-   "url": "https://www.foxnews.com/politics/majority-americans-reject-trumps-renaming-lake-ontario-lake-america-poll-finds",
-   "summary": "A Reuters/Ipsos poll shows 63% of Americans oppose Trump&apos;s executive order renaming Lake Ontario to Lake America amid the U.S.-Canada trade war.",
-   "published": "2026-09-01T15:29:41+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-09-01T16:43:04.989531+00:00"
   }
  ]
 }
