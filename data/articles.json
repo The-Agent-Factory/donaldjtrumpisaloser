@@ -1,7 +1,117 @@
 {
- "updated": "2026-09-14T23:10:33.502180+00:00",
- "count": 929,
+ "updated": "2026-09-15T04:59:18.087457+00:00",
+ "count": 935,
  "articles": [
+  {
+   "id": "cda717b088ce0e2f",
+   "title": "Russia sanctions bill passes House Rules Committee",
+   "url": "https://thehill.com/homenews/house/6089480-house-approves-russia-sanctions-bill/",
+   "summary": "The House Rules Committee on Monday approved bipartisan legislation aimed at increasing sanctions on Russia amid its war in Ukraine. The bill, which the late Sen. Lindsey Graham (R-S.C.) championed, would allow President Trump to impose penalties on individuals working on behalf of the Russian government to stall peace negotiations with Ukraine, violate a negotiated...",
+   "published": "2026-09-15T02:31:30+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-15T04:59:16.962056+00:00"
+  },
+  {
+   "id": "d6294b924bc59d06",
+   "title": "Supreme court rejects Trump\u2019s mail ballot restrictions for midterm elections",
+   "url": "https://www.theguardian.com/us-news/2026/sep/14/supreme-court-rejects-mail-ballot-restrictions",
+   "summary": "Decision allows states to send ballots under process followed for years even as president tried to limit systemThe supreme court on Monday rejected Donald Trump\u2019s mail ballot restrictions for now, capping a flurry of last-minute legal action with voting in the midterm elections already underway.The decision allows states to continue sending out mail ballots under the same processes they have used for years. Continue reading...",
+   "published": "2026-09-15T01:51:49+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-09-15T04:59:16.635410+00:00"
+  },
+  {
+   "id": "1c0ff38bbf4ab3e0",
+   "title": "Supreme Court rejects Trump mail ballot restrictions ahead of midterms",
+   "url": "https://www.pbs.org/newshour/politics/supreme-court-rejects-trump-mail-ballot-restrictions-ahead-of-midterms",
+   "summary": "The decision allows states to continue sending ballots under existing processes used by nearly one-third of voters.",
+   "published": "2026-09-15T01:02:29+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-09-15T04:59:17.159843+00:00"
+  },
+  {
+   "id": "753c0c2f6aef2c84",
+   "title": "UK breakup push escalates amid historic pact after Trump backs reunification of Ireland",
+   "url": "https://www.foxnews.com/world/uk-breakup-push-escalates-historic-pact-trump-backs-reunification-ireland",
+   "summary": "Scotland, Wales and Northern Ireland leaders signed a historic joint declaration in Cardiff, warning that Westminster&apos;s time is coming to an end.",
+   "published": "2026-09-15T00:41:19+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-15T04:59:15.569841+00:00"
+  },
+  {
+   "id": "3a1fa148d8fe0674",
+   "title": "Blanche to hold press briefing in Rose Garden Tuesday",
+   "url": "https://thehill.com/homenews/administration/6089351-todd-blanche-white-house-briefing/",
+   "summary": "Attorney General Todd Blanche will brief reporters in the White House Rose Garden on Tuesday, as he will become the latest administration official to fill the shoes of former White House press secretary Karoline Leavitt. A White House official confirmed to NewsNation, The Hill\u2019s sister network, that Blanche will speak to members of the press. ...",
+   "published": "2026-09-15T00:39:44+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-15T04:59:16.962065+00:00"
+  },
+  {
+   "id": "3baf57217607a54f",
+   "title": "House Dems face Trump tariff dilemma as major Russia sanctions bill heads to floor",
+   "url": "https://www.foxnews.com/politics/house-democrats-face-trump-tariff-dilemma-major-russia-sanctions-bill-heads-floor",
+   "summary": "The Lindsey Graham sanctions bill forces House Democrats to weigh Ukraine support against expanding Trump tariff authority they&apos;ve long opposed.",
+   "published": "2026-09-15T00:07:28+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-15T04:59:15.514088+00:00"
+  },
+  {
+   "id": "70dd1ae76eb7143d",
+   "title": "Supreme Court rejects Trump bid to revive strict mail-ballot rules before midterms",
+   "url": "https://www.foxnews.com/politics/supreme-court-rejects-trump-bid-revive-strict-mail-ballot-rules-before-midterms",
+   "summary": "A lower court&apos;s nationwide block on U.S. Postal Service mail-in ballot rules remains after the Supreme Court ruled against the Trump administration.",
+   "published": "2026-09-14T23:48:45+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-15T04:59:15.514095+00:00"
+  },
+  {
+   "id": "ec0b7e146dc647e3",
+   "title": "Supreme Court won\u2019t restore Trump\u2019s mail-in voting plan for midterms",
+   "url": "https://thehill.com/regulation/court-battles/6089348-supreme-court-rejects-trump-mail-ballots/",
+   "summary": "The Supreme Court refused to clear the way for President Trump\u2019s mail-in voting plan for the midterms on Monday over the dissents of two conservative justices, keeping intact a judge\u2019s block that declared the plan unlawful. It\u2019s the third time the Trump administration brought the plan to the high court\u2019s emergency docket after groups have blocked the effort.   Previously, the...",
+   "published": "2026-09-14T23:46:42+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-15T04:59:16.962086+00:00"
+  },
+  {
+   "id": "edb36600f307a831",
+   "title": "The Supreme Court rejects Trump's mail voting restrictions for this year's midterms",
+   "url": "https://www.npr.org/2026/09/14/nx-s1-5962190/supreme-court-mail-in-voting-trump",
+   "summary": "The Supreme Court has rejected the Trump administration's request to allow mail-in voting restrictions under a U.S. Postal Service plan for the midterm general election.",
+   "published": "2026-09-14T23:38:40+00:00",
+   "source": "NPR Politics",
+   "source_id": "npr-politics",
+   "bias_note": "center",
+   "first_seen": "2026-09-15T04:59:16.203595+00:00"
+  },
+  {
+   "id": "5c4c67336ae7c414",
+   "title": "White House denies Trump influenced by 'pardon brokers' after '60 Minutes' investigation",
+   "url": "https://www.foxnews.com/media/white-house-denies-trump-influenced-pardon-brokers-after-60-minutes-investigation",
+   "summary": "White House spokesperson Lauren Bis said President Donald Trump doesn&apos;t know alleged pardon brokers after a recent &quot;60 Minutes&quot; report aired on Sunday.",
+   "published": "2026-09-14T23:34:08+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-15T04:59:15.569879+00:00"
+  },
   {
    "id": "8cecba612d3a9bf9",
    "title": "Trump guts power plant climate rules",
@@ -12,6 +122,17 @@
    "source_id": "thehill",
    "bias_note": "center",
    "first_seen": "2026-09-14T23:10:32.302741+00:00"
+  },
+  {
+   "id": "890c61ed9d542a08",
+   "title": "Democracy indicators in US at lowest levels for 50 years, data shows",
+   "url": "https://www.theguardian.com/us-news/2026/sep/15/us-democracy-indicators-lowest-for-50-years",
+   "summary": "Trump administration undermining rule of law at home and worldwide, according to intergovernmental reportKey indicators of democracy in the US have fallen to their lowest levels in 50 years, with the global rule of law significantly undermined by the Trump administration\u2019s \u201cthreats and actions\u201d, data from a leading thinktank shows.Around the world, judicial independence, credible elections and freedom of expression, press freedom and access to justice are all at their lowest levels for at least 30 years, according to the Stockholm-based International Institute for Democracy and Electoral Assis",
+   "published": "2026-09-14T23:01:19+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-09-15T04:59:16.635440+00:00"
   },
   {
    "id": "be0281ea03729851",
@@ -10165,61 +10286,6 @@
    "source_id": "propublica",
    "bias_note": "investigative",
    "first_seen": "2026-09-01T11:43:57.635337+00:00"
-  },
-  {
-   "id": "fefa9c61552d8b1c",
-   "title": "Teen girl indicted on murder charges for allegedly helping spread livestream of deadly mosque shooting",
-   "url": "https://www.foxnews.com/us/teen-girl-indicted-murder-charges-allegedly-helping-spread-livestream-deadly-mosque-shooting",
-   "summary": "A North Carolina teen has been indicted for allegedly recording and spreading a deadly San Diego mosque attack livestream and manifesto.",
-   "published": "2026-09-01T00:45:07+00:00",
-   "source": "Fox News Latest",
-   "source_id": "foxnews-latest",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-09-01T05:16:14.076977+00:00"
-  },
-  {
-   "id": "b4cc9585b052b8bd",
-   "title": "Caine tells Slotkin there are no plans to send military to polls in November",
-   "url": "https://thehill.com/policy/defense/6062392-caine-denies-military-election-intervention/",
-   "summary": "Joint Chiefs of Staff Chair Gen. Dan Caine told Sen. Elissa Slotkin (D-Mich.) in a letter that there are no plans to send the military to the polls in November\u2019s midterm elections. \u201cElection administration and security remain the fundamental responsibility of state and local officials. The Joint Force has no plans to send Federal military...",
-   "published": "2026-09-01T00:44:48+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-01T05:16:15.222818+00:00"
-  },
-  {
-   "id": "6a2ac2d6c237b9f1",
-   "title": "Trump calls Hollywood a 'total disaster,' pushes federal tax incentive for film after meeting with Jon Voight",
-   "url": "https://www.foxnews.com/entertainment/trump-calls-hollywood-total-disaster-pushes-federal-tax-incentive-film-meeting-jon-voight",
-   "summary": "Jon Voight previously met with Trump at Mar-a-Lago to push a federal tax incentive aimed at reviving domestic film production and saving Hollywood jobs.",
-   "published": "2026-08-31T23:58:54+00:00",
-   "source": "Fox News Latest",
-   "source_id": "foxnews-latest",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-09-01T05:16:14.077007+00:00"
-  },
-  {
-   "id": "36c165910ff098ab",
-   "title": "Fact Sheet: President Donald J. Trump Announces Historic Oil Agreement to Secure American Energy Dominance and Drive Venezuela\u2019s Economic Recovery",
-   "url": "https://www.whitehouse.gov/fact-sheets/2026/08/fact-sheet-president-donald-j-trump-announces-historic-oil-agreement-to-secure-american-energy-dominance-and-drive-venezuelas-economic-recovery/",
-   "summary": "SECURING STABLE &#38; LOW-COST OIL SUPPLY IN OUR HEMISPHERE: In the biggest oil deal in world history, President Donald J. Trump has secured U.S. majority control of more than 65 billion barrels of proven oil reserves in Venezuela \u2013 vastly expanding our current U.S. territorial proven reserves of roughly 46 billion barrels. This deal secures [&#8230;]\nThe post Fact Sheet: President Donald J. Trump Announces Historic Oil Agreement to Secure American Energy Dominance and Drive Venezuela\u2019s Economic Recovery appeared first on The White House.",
-   "published": "2026-08-31T23:55:33+00:00",
-   "source": "WhiteHouse.gov News",
-   "source_id": "whitehouse",
-   "bias_note": "official/primary-source",
-   "first_seen": "2026-09-01T05:16:14.243541+00:00"
-  },
-  {
-   "id": "f1c389007faea81c",
-   "title": "CNN admits error after suggesting US troops abroad would be impacted by Trump's mail-in ballot crackdown",
-   "url": "https://www.foxnews.com/media/cnn-admits-error-suggesting-us-troops-abroad-impacted-trumps-mail-in-ballot-crackdown",
-   "summary": "CNN&apos;s Wolf Blitzer walked back a comment falsely suggesting U.S. troops overseas would be impacted by President Donald Trump&apos;s mail-in ballot crackdown.",
-   "published": "2026-08-31T23:10:35+00:00",
-   "source": "Fox News Latest",
-   "source_id": "foxnews-latest",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-08-31T23:53:29.856058+00:00"
   }
  ]
 }
