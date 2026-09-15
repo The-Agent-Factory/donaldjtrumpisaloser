@@ -1,7 +1,194 @@
 {
- "updated": "2026-09-15T17:04:13.169688+00:00",
- "count": 939,
+ "updated": "2026-09-15T21:25:43.142222+00:00",
+ "count": 944,
  "articles": [
+  {
+   "id": "16bbefe3344d82e4",
+   "title": "WATCH: Steve Bannon says 'we have to rise' above partisanship to address AI 'hinge in history'",
+   "url": "https://www.pbs.org/newshour/politics/watch-steve-bannon-says-we-have-to-rise-above-partisanship-to-address-ai-hinge-in-history",
+   "summary": "Longtime Trump ally Steve Bannon doesn't always align himself with Sen. Bernie Sanders, the democratic socialist from Vermont. But on Tuesday he said threats posed by artificial intelligence span political ideology.",
+   "published": "2026-09-15T21:15:58+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-09-15T21:25:42.327416+00:00"
+  },
+  {
+   "id": "62054d1ea07ef755",
+   "title": "House sinks Al Green bid to impeach Trump",
+   "url": "https://thehill.com/homenews/house/6091357-trump-impeachment-al-green/",
+   "summary": "House lawmakers voted Tuesday to sink a Democratic effort to impeach President Trump over the administration\u2019s aggressive deportation agenda.  Sponsored by Rep. Al Green (D-Texas), the resolution accused Trump of abusing his powers by launching an immigration crackdown that led to the killing of several civilians earlier in the year. The vote was 232-147 to...",
+   "published": "2026-09-15T20:51:20+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-15T21:25:42.092412+00:00"
+  },
+  {
+   "id": "66548cf2d7b7a4ac",
+   "title": "64 House Democrats help Republicans kill Trump impeachment effort",
+   "url": "https://www.foxnews.com/politics/house-democrats-help-republicans-kill-trump-impeachment-effort",
+   "summary": "Al Green forced a Trump impeachment vote that fractured House Democrats, with Hakeem Jeffries and top leaders voting &quot;present&quot; to avoid taking a stand.",
+   "published": "2026-09-15T20:50:18+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-15T21:25:40.791273+00:00"
+  },
+  {
+   "id": "948e8a511f5dac30",
+   "title": "Democrats want to investigate Russian influence in Donald Trump Jr.\u2019s wedding",
+   "url": "https://thehill.com/homenews/senate/6091443-blumenthal-presses-trump-son-wedding/",
+   "summary": "A Democratic senator is pressing the Trump administration to look into reports that a Russian oligarch paid for wedding celebrations for Donald Trump Jr., the son of President Donald Trump.  Sen. Richard Blumenthal (D-Conn.), who has traveled frequently to Ukraine amid its war with Russia, brought up the issue during a hearing Tuesday while questioning...",
+   "published": "2026-09-15T20:48:04+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-15T21:25:42.092432+00:00"
+  },
+  {
+   "id": "0ce0b0c9a7ca20ad",
+   "title": "Ohio city council decides to rename Lake Erie to 'Gulf of Cleveland'",
+   "url": "https://thehill.com/homenews/state-watch/6091305-cleveland-council-renames-lake-erie/",
+   "summary": "The Cleveland, Ohio, City Council on Monday voted to rename a portion of Lake Erie as the \"Gulf of Cleveland,\" taking a jab at President Trump's executive order declaring that Lake Ontario be called the \"Gulf of America.\" The emergency resolution led by Councilmember Kris Harsh passed in a 13-1 vote and was intended to...",
+   "published": "2026-09-15T20:37:59+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-15T21:25:42.092453+00:00"
+  },
+  {
+   "id": "0e05494817bea44a",
+   "title": "First Lady Melania Trump\u2019s Special Visit to Ashe County, North Carolina Bearing Witness to a Community\u2019s Resilience",
+   "url": "https://www.whitehouse.gov/briefings-statements/2026/09/first-lady-melania-trumps-special-visit-to-ashe-county-north-carolina-bearing-witness-to-a-communitys-resilience/",
+   "summary": "First Lady Melania Trump returned to North Carolina to visit Mountain View Elementary School in Ashe County, nearly two years after her initial visit to a community devastated by Hurricane Helene. \u201cTrue resilience means having the courage to look ahead and move society forward, creating a better future,\u201d the First Lady said. This visit shared [&#8230;]\nThe post First Lady Melania Trump\u2019s Special Visit to Ashe County, North Carolina Bearing Witness to a Community\u2019s Resilience appeared first on The White House.",
+   "published": "2026-09-15T20:36:07+00:00",
+   "source": "WhiteHouse.gov News",
+   "source_id": "whitehouse",
+   "bias_note": "official/primary-source",
+   "first_seen": "2026-09-15T21:25:41.112227+00:00"
+  },
+  {
+   "id": "49c7f5e5ad2891c8",
+   "title": "AG Blanche unveils federal charges against 160 defendants in pandemic relief sweep",
+   "url": "https://www.foxnews.com/us/ag-blanche-unveils-federal-charges-160-defendants-pandemic-relief-sweep",
+   "summary": "The Justice Department announced 160 arrests tied to over $245 million in COVID fraud losses, plus a $10 million childcare scheme in California.",
+   "published": "2026-09-15T20:14:57+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-15T21:25:40.837338+00:00"
+  },
+  {
+   "id": "09e4d765ad02c525",
+   "title": "Seven noncitizens charged in North Texas election-integrity investigation",
+   "url": "https://www.foxnews.com/us/seven-noncitizens-charged-in-north-texas-election-integrity-investigation",
+   "summary": "The charges come as the Trump administration expands its election-integrity efforts.",
+   "published": "2026-09-15T20:14:47+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-15T21:25:40.837347+00:00"
+  },
+  {
+   "id": "fd26c8aca3d6228d",
+   "title": "WATCH: Blanche justifies Trump bashing Supreme Court over mail ballots: 'He is very frustrated'",
+   "url": "https://www.pbs.org/newshour/politics/watch-blanche-justifies-trump-bashing-supreme-court-over-mail-ballots-he-is-very-frustrated",
+   "summary": "Attorney General Todd Blanche said Tuesday it was proper for President Donald Trump to vent about the Supreme Court decision to decline the changes that the president wanted for mail-in voting.",
+   "published": "2026-09-15T20:10:11+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-09-15T21:25:42.327436+00:00"
+  },
+  {
+   "id": "c5370c9eb08244d4",
+   "title": "Tech CEOs call for AI regulation. Trump and Congress are not rushing to act",
+   "url": "https://www.pbs.org/newshour/politics/tech-ceos-call-for-ai-regulation-trump-and-congress-are-not-rushing-to-act",
+   "summary": "The technology industry's increasingly urgent warnings about the potential harm of artificial intelligence are slamming into political intransigence in Washington, offering a fresh test of the federal government's willingness and ability to confront what may become a defining issue of the era.",
+   "published": "2026-09-15T19:21:53+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-09-15T21:25:42.327444+00:00"
+  },
+  {
+   "id": "080e2973d5d59fc6",
+   "title": "Trump-backed crypto bill fails to launch as Dems, Republicans unite to block it",
+   "url": "https://www.foxnews.com/politics/trump-backed-crypto-bill-fails-launch-dems-republicans-unite-block",
+   "summary": "Sen. Cynthia Lummis declared the Clarity Act dead after Democrats and some Republicans blocked the massive crypto regulation bill in a key Senate vote.",
+   "published": "2026-09-15T19:01:10+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-15T21:25:40.791301+00:00"
+  },
+  {
+   "id": "c195821d96d04c5b",
+   "title": "Jon Ossoff mentions Natalie Harp while condemning Trump's administration \u2013 video",
+   "url": "https://www.theguardian.com/us-news/video/2026/sep/15/jon-ossoff-natalie-harp-trump-administration-iran-war",
+   "summary": "During his 16 August campaign event in Atlanta, Georgia, Senator Jon Ossoff mentioned White House aide Natalie Harp when condemning the Trump administration's handling of the Iran war and USS Lincoln sailors Continue reading...",
+   "published": "2026-09-15T18:58:08+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-09-15T21:25:41.837041+00:00"
+  },
+  {
+   "id": "9bcc7bec5ffd8f23",
+   "title": "Republican Thomas Massie proposes impeaching Pete Hegseth over Iran war",
+   "url": "https://www.theguardian.com/us-news/2026/sep/15/thomas-massie-pete-hegseth-iran-war",
+   "summary": "Congressman says defense secretary repeatedly violated constitution through his handling of Iran warRepublican congressman Thomas Massie on Tuesday proposed impeaching Pete Hegseth, saying the defense secretary had repeatedly violated the constitution through his handling of war with Iran and the deaths of civilians in conflicts worldwide.The proposal by Massie, an iconoclastic lawmaker who lost his primary earlier this year after Donald Trump and Hegseth urged voters to oppose him, may put House Republicans in a bind just weeks before the 3 November midterm elections, where they are defending",
+   "published": "2026-09-15T18:20:31+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-09-15T21:25:41.836877+00:00"
+  },
+  {
+   "id": "9da73b4a710cf36e",
+   "title": "GOP Rep Thomas Massie introduces 8 articles of impeachment against War Secretary Pete Hegseth",
+   "url": "https://www.foxnews.com/politics/gop-rep-thomas-massie-introduces-8-articles-impeachment-against-war-secretary-pete-hegseth",
+   "summary": "Rep. Thomas Massie read eight articles of impeachment against Pete Hegseth on the House floor, citing War Powers Resolution violations in Iran.",
+   "published": "2026-09-15T18:20:23+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-15T21:25:40.791314+00:00"
+  },
+  {
+   "id": "33e8fe56d5fdc153",
+   "title": "Kennedy Center board votes to close it, as judge again keeps Trump's name off",
+   "url": "https://www.npr.org/2026/09/15/nx-s1-5969905/kennedy-center-closing-trump-name",
+   "summary": "The board's vote to shutter the historic arts center came amid concerns about financial, structural problems.",
+   "published": "2026-09-15T17:49:07+00:00",
+   "source": "NPR Politics",
+   "source_id": "npr-politics",
+   "bias_note": "center",
+   "first_seen": "2026-09-15T21:25:41.643779+00:00"
+  },
+  {
+   "id": "1a58c450df852519",
+   "title": "Republican Rep. Massie moves to impeach Defense Secretary Hegseth over Iran war",
+   "url": "https://www.npr.org/2026/09/15/g-s1-143407/massie-impeach-hegseth-iran",
+   "summary": "Kentucky Republican Thomas Massie introduced articles of impeachment against Secretary of Defense Pete Hegseth on Tuesday over the war in Iran.",
+   "published": "2026-09-15T17:35:14+00:00",
+   "source": "NPR Politics",
+   "source_id": "npr-politics",
+   "bias_note": "center",
+   "first_seen": "2026-09-15T21:25:41.643787+00:00"
+  },
+  {
+   "id": "425c94950f475d24",
+   "title": "Trump attacks Supreme Court justices he picked for rejecting his push to restrict mail ballots",
+   "url": "https://www.pbs.org/newshour/politics/trump-attacks-supreme-court-justices-he-picked-for-rejecting-his-push-to-restrict-mail-ballots",
+   "summary": "President Donald Trump on Tuesday went after the Supreme Court after it rejected his push to restrict mail-in voting in this year's midterms, saying justices who opposed him were \"not the people I interviewed.\"",
+   "published": "2026-09-15T17:06:26+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-09-15T21:25:42.327455+00:00"
+  },
   {
    "id": "1160238c6c3640b7",
    "title": "Massie launches effort to impeach Hegseth",
@@ -496,6 +683,28 @@
    "source_id": "propublica",
    "bias_note": "investigative",
    "first_seen": "2026-09-15T11:50:44.400337+00:00"
+  },
+  {
+   "id": "279c5c818e4ed468",
+   "title": "Bernie Sanders and Steve Bannon call for curbs on AI",
+   "url": "https://www.npr.org/2026/09/15/nx-s1-5968678/bernie-sanders-and-steve-bannon-to-share-a-stage-to-promote-curbs-on-ai",
+   "summary": "The rare pairing of a progressive leader and a MAGA voice is a sign of how worries over rapidly advancing AI are upending political alliances. But their policy proposals are far apart.",
+   "published": "2026-09-15T09:00:00+00:00",
+   "source": "NPR Politics",
+   "source_id": "npr-politics",
+   "bias_note": "center",
+   "first_seen": "2026-09-15T21:25:41.643799+00:00"
+  },
+  {
+   "id": "9e83f371b2cfe893",
+   "title": "A Trump-backed crypto bill just suffered a bruising defeat in the Senate. Here's why",
+   "url": "https://www.npr.org/2026/09/15/nx-s1-5968711/clarity-act-crypto-senate-vote",
+   "summary": "The legislation was intended to establish rules of the road for the crypto sector for the first time. But it suffered a stinging defeat in the Senate on Tuesday.",
+   "published": "2026-09-15T09:00:00+00:00",
+   "source": "NPR Politics",
+   "source_id": "npr-politics",
+   "bias_note": "center",
+   "first_seen": "2026-09-15T21:25:41.643803+00:00"
   },
   {
    "id": "9ac6e12093b52a93",
@@ -10176,160 +10385,6 @@
    "source_id": "pbs-politics",
    "bias_note": "center",
    "first_seen": "2026-09-02T00:17:56.374790+00:00"
-  },
-  {
-   "id": "d1e9f705dd8bc6e9",
-   "title": "Haitian-born student in Ohio appears to take his own life after losing immigration status",
-   "url": "https://thehill.com/homenews/state-watch/6064510-haitian-student-ohio-suicide/",
-   "summary": "A Haitian-born student in Ohio reportedly took his own life following the loss of his immigration status as part of the Trump administration\u2019s termination of temporary protected status for immigrants around the country. The Ohio State Highway Patrol stated in a Monday press release that 20-year-old Pierre Damas Bel died Monday when he walked into...",
-   "published": "2026-09-01T21:19:18+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-02T00:17:56.186923+00:00"
-  },
-  {
-   "id": "8cde73f7a5c833af",
-   "title": "Deported Milo Yiannopoulos says he is \u2018ashamed\u2019 of support for Trump",
-   "url": "https://www.theguardian.com/us-news/2026/sep/01/milo-yiannopoulos-deported-trump-support",
-   "summary": "British far-right pundit breaks silence on ICE arrest and deportation and says he was \u2018really, really terrified\u2019Milo Yiannopoulos, the British far-right commentator who was arrested last week by Immigration and Customs Enforcement (ICE) officers in Louisiana and deported to the United Kingdom, has broken his silence about the experience, saying that \u201cfor the first time I know what it feels like to be really, really terrified\u201d.Yiannopoulos on Tuesday appeared on Piers Morgan Uncensored, a YouTube show presented by Piers Morgan, the British broadcaster and media personality. Yiannopoulos, 41, de",
-   "published": "2026-09-01T20:49:02+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-09-01T21:05:57.919870+00:00"
-  },
-  {
-   "id": "5fd22ddc59aaacb0",
-   "title": "Spanberger fact-checked after Trump mail-voting warning raises military ballot fears",
-   "url": "https://www.foxnews.com/politics/spanberger-fact-checked-after-trump-mail-voting-warning-raises-military-ballot-fears",
-   "summary": "CNN issued a correction after Virginia Gov. Abigail Spanberger and Wolf Blitzer suggested Trump&apos;s mail-voting rules could impact military voters abroad.",
-   "published": "2026-09-01T20:30:09+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-09-01T21:05:57.627711+00:00"
-  },
-  {
-   "id": "938ac2290ae9c129",
-   "title": "Trump's pro-data center stance is putting pressure on Republicans ahead of midterms",
-   "url": "https://www.npr.org/2026/09/01/nx-s1-5950441/trumps-pro-data-center-stance-is-putting-pressure-on-republicans-ahead-of-midterms",
-   "summary": "Trump's pro-data center stance is out of step with voters. Republicans are trying to navigate the issue but it's putting them at odds with the president's AI agenda.",
-   "published": "2026-09-01T20:22:34+00:00",
-   "source": "NPR Politics",
-   "source_id": "npr-politics",
-   "bias_note": "center",
-   "first_seen": "2026-09-01T21:05:57.841065+00:00"
-  },
-  {
-   "id": "cd09753997ee2619",
-   "title": "Allies of disgraced ex-House Dem poised for criminal charges for refusing Congress' probe",
-   "url": "https://www.foxnews.com/politics/allies-disgraced-ex-house-dem-poised-criminal-charges-refusing-congress-probe",
-   "summary": "Allies of a former House Democrat face DOJ criminal charges after the House unanimously held them in contempt of Congress over defied subpoenas.",
-   "published": "2026-09-01T20:03:02+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-09-01T21:05:57.627720+00:00"
-  },
-  {
-   "id": "a446c31d6f1d9ccd",
-   "title": "Trump names pastor as tobacco health adviser at CDC",
-   "url": "https://thehill.com/policy/healthcare/6063936-trump-cdc-tobacco-health-adviser-hhs-fda/",
-   "summary": "President Trump on Tuesday announced the selection of Darrell Scott, a pastor and longtime Trump supporter, to be the tobacco health adviser for the Centers for Disease Control and Prevention (CDC). Trump announced Scott's new role in a Truth Social post, citing his longtime advocacy for \"America\u2019s Underserved Communities.\" \"For far too long, tobacco-related disease...",
-   "published": "2026-09-01T19:34:07+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-01T21:05:58.135093+00:00"
-  },
-  {
-   "id": "8a6426c3f4304f59",
-   "title": "El-Sayed says Trump is making him 'main character of the midterms'",
-   "url": "https://thehill.com/homenews/campaign/6063937-el-sayed-trump-main-character-midterms/",
-   "summary": "Michigan Senate candidate Abdul El-Sayed (D) commented Tuesday on President Trump making him the \u201cmain character\u201d of this year's midterms, saying the move may give the Democrat a \"gigantic platform\" should he win in November. \u201cTrump is messing around and making me the \u2026 front page or the main character of the midterms,\u201d El-Sayed told...",
-   "published": "2026-09-01T19:20:13+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-01T21:05:58.135110+00:00"
-  },
-  {
-   "id": "056b4c620521a14c",
-   "title": "Tim Cook hands over reins of Apple, but remains Trump whisperer",
-   "url": "https://thehill.com/policy/technology/6063963-cook-hands-over-apple-ceo-role/",
-   "summary": "Apple\u2019s Tim Cook handed over the reins as CEO to John Ternus on Tuesday, but the technology giant won\u2019t be losing his political clout and connections to Washington.  In his new role as executive chair of Apple\u2019s board, Cook will focus on policy, leveraging the political muscle he\u2019s built over the past 15 years to...",
-   "published": "2026-09-01T19:16:48+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-01T21:05:58.135120+00:00"
-  },
-  {
-   "id": "48908e25966ca008",
-   "title": "Republican calls Leon Black and David Copperfield co-conspirators of Epstein",
-   "url": "https://www.theguardian.com/us-news/2026/sep/01/epstein-leon-black-david-copperfield",
-   "summary": "Outgoing congressman Thomas Massie urges justice department to launch immediate investigationAn outgoing Republican congressman accused billionaire Leon Black and David Copperfield, the illusionist, of being co-conspirators of the accused late sex trafficker Jeffrey Epstein, and repeated a call for the Department of Justice to launch an immediate investigation into the men, among others.Thomas Massie, a Kentucky Republican who recently lost his primary to a challenger backed by Donald Trump, named several friends and associates of Epstein on the floor of the House in his bid to \u201cshame\u201d the Dep",
-   "published": "2026-09-01T19:14:57+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-09-01T21:05:57.919923+00:00"
-  },
-  {
-   "id": "e5396d7c596d7db4",
-   "title": "Lancaster coroner investigating child measles death amid Trump admin scrutiny",
-   "url": "https://thehill.com/homenews/state-watch/6064071-lancaster-measles-death-investigation/",
-   "summary": "The Lancaster coroner\u2019s office is investigating the second case of a child who reportedly died after testing positive for measles as the state faces scrutiny from the Trump administration about the death.\u00a0 Lancaster County Coroner Stephen Diamantoni confirmed the second diagnosis Tuesday and said his office was \u201cin the process of doing an investigation.\u201d The...",
-   "published": "2026-09-01T19:13:25+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-01T21:05:58.135129+00:00"
-  },
-  {
-   "id": "02df7fa6f0a59f06",
-   "title": "The Guardian view on the global bond shock: Andy Burnham should take note | Editorial",
-   "url": "https://www.theguardian.com/commentisfree/2026/sep/01/the-guardian-view-on-the-global-bond-shock-andy-burnham-should-take-note",
-   "summary": "Japan\u2019s collision with Donald Trump reveals the dilemma facing Britain: economic independence is becoming more necessary \u2013 and more tricky to achieve\u201cIn the midst of every crisis lies great opportunity\u201d is an aphorism attributed to Albert Einstein. It seems to be taken to heart by this White House. A global bond sell-off sparked by an inflationary shock emanating from the Gulf sees Donald Trump seeking to restrict plans by Japan \u2013 a longtime ally \u2013 to reduce dependence on an international system America dominates.Japan, a successful exporter, has long done things its own way. For years Tokyo s",
-   "published": "2026-09-01T18:15:24+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-09-01T21:05:57.919930+00:00"
-  },
-  {
-   "id": "e41c79c6966ebfd0",
-   "title": "Democrats blink in shutdown fight, hand Trump and GOP win before midterms",
-   "url": "https://www.foxnews.com/politics/democrats-blink-shutdown-fight-hand-trump-gop-win-before-midterms",
-   "summary": "House Democrats caved on their government shutdown push, but conservatives raged over a hemp ban delay and federal grants provision in the CR.",
-   "published": "2026-09-01T18:05:30+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-09-01T21:05:57.627770+00:00"
-  },
-  {
-   "id": "f1b9ce66cf587ef4",
-   "title": "ICE says it has enough body cameras now, after series of deadly shootings",
-   "url": "https://www.npr.org/2026/09/01/g-s1-141408/ice-body-cameras-immigration",
-   "summary": "Cameras could help alleviate some concerns about ICE transparency and accountability after immigration officers were involved in over two dozen shootings under the Trump administration.",
-   "published": "2026-09-01T17:52:37+00:00",
-   "source": "NPR Politics",
-   "source_id": "npr-politics",
-   "bias_note": "center",
-   "first_seen": "2026-09-01T21:05:57.841082+00:00"
-  },
-  {
-   "id": "181c2e916f19115b",
-   "title": "NY Gov Kathy Hochul accuses Trump of 'defunding the police,' says DHS is 'withholding' counterterror funds",
-   "url": "https://www.foxnews.com/politics/ny-gov-kathy-hochul-accuses-trump-defunding-police-dhs-withholding-counterterror-funds",
-   "summary": "New York Gov. Kathy Hochul accused President Donald Trump of &quot;defunding the police,&quot; saying that DHS is &quot;withholding&quot; millions of dollars in funding.",
-   "published": "2026-09-01T17:49:42+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-09-01T21:05:57.627773+00:00"
   }
  ]
 }
