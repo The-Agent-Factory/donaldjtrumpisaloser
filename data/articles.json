@@ -1,7 +1,128 @@
 {
- "updated": "2026-09-16T13:32:50.713201+00:00",
- "count": 942,
+ "updated": "2026-09-16T15:21:24.814499+00:00",
+ "count": 945,
  "articles": [
+  {
+   "id": "5e50034d28ce797c",
+   "title": "\u2018Worse than Watergate\u2019 New FBI files detail agent\u2019s push to join Trump probe, investigate Elon Musk",
+   "url": "https://www.foxnews.com/politics/worse-than-watergate-new-fbi-files-detail-agent-push-join-trump-probe-investigate-elon-musk",
+   "summary": "Chuck Grassley released FBI emails from Crossfire Hurricane, calling Obama and Biden administration operations against Trump worse than Watergate.",
+   "published": "2026-09-16T15:09:59+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-16T15:21:23.871191+00:00"
+  },
+  {
+   "id": "f7d92652139abd94",
+   "title": "5 states could be the biggest losers in Trump's trade war with Canada, expert warns",
+   "url": "https://www.foxnews.com/politics/5-states-biggest-losers-trumps-trade-war-canada-expert-warns",
+   "summary": "President Donald Trump&apos;s trade war with Canada exposes $2.3 billion in Ohio exports to retaliatory tariffs ahead of the critical midterm elections.",
+   "published": "2026-09-16T15:04:22+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-16T15:21:23.871201+00:00"
+  },
+  {
+   "id": "f57d09842395373c",
+   "title": "Dem fundraising giant ActBlue accused of fraudulent donation 'cover-up' in explosive report",
+   "url": "https://www.foxnews.com/politics/dem-fundraising-giant-actblue-accused-fraudulent-donation-cover-up-explosive-report",
+   "summary": "ActBlue allegedly weakened fraud prevention twice in 2024, with internal memos showing supervisors green-lighting donations despite red flags.",
+   "published": "2026-09-16T15:00:30+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-16T15:21:23.871208+00:00"
+  },
+  {
+   "id": "b32093afbc93f4b2",
+   "title": "Senate Republican on Trump claim AI threat is 'hoax': 'Come on'",
+   "url": "https://thehill.com/homenews/senate/6092827-gop-thom-tillis-donald-trump-ai-anxieties/",
+   "summary": "Sen. Thom Tillis (R-N.C.) on Tuesday criticized President Trump\u2019s dismissal of rising concerns about the dangers of artificial intelligence technology. \u201cCome on, it\u2019s not a hoax. It\u2019s a real thing,\u201d Tillis, who is not running for reelection, told reporters at the Capitol. \u201cThis is something that I\u2019ve spent a lot of my professional career in,...",
+   "published": "2026-09-16T14:44:58+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-16T15:21:24.400677+00:00"
+  },
+  {
+   "id": "38002b7e76f7f927",
+   "title": "Federal employees were paid nearly $7B not to work under DOGE effort: GAO",
+   "url": "https://thehill.com/homenews/administration/6092643-gao-report-trump-administration-federal-employees-doge-pay/",
+   "summary": "The Trump administration paid outgoing employees an estimated nearly $7 billion to not work as it encouraged them to leave the federal service, a government watchdog found in a Tuesday report. Federal workers' use of paid leave increased 435 percent under the first two years of the Trump administration, a dynamic the Government Accountability Office...",
+   "published": "2026-09-16T14:17:02+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-16T15:21:24.400701+00:00"
+  },
+  {
+   "id": "eefa4f4096bbcdd3",
+   "title": "WATCH LIVE: Dr. Nicole Saphier testifies in confirmation hearing for U.S. surgeon general",
+   "url": "https://www.pbs.org/newshour/politics/watch-live-dr-nicole-saphier-testifies-in-confirmation-hearing-for-u-s-surgeon-general",
+   "summary": "Saphier, President Donald Trump's third nominee to serve as surgeon general, will face lawmakers at her confirmation hearing Wednesday in the latest attempt to fill the post known as the nation's doctor.",
+   "published": "2026-09-16T14:06:45+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-09-16T15:21:24.455301+00:00"
+  },
+  {
+   "id": "2f52545848952eab",
+   "title": "Trump DHS hits 16 straight months with 0 releases at the border",
+   "url": "https://www.foxnews.com/politics/trump-dhs-hits-16-straight-months-0-releases-border",
+   "summary": "President Donald Trump&apos;s border policies hit 16 consecutive months of zero releases as apprehensions dropped 94% from Biden-era averages.",
+   "published": "2026-09-16T14:00:39+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-16T15:21:23.871218+00:00"
+  },
+  {
+   "id": "5a7e6588387700b8",
+   "title": "Watch: Jeffries gives remarks amid Iran war, midterm pressure",
+   "url": "https://thehill.com/video-clips/6092488-watch-live-jeffries-press-conference-iran-war-foreign-policy-defections-midterms/",
+   "summary": "House Minority Leader Hakeem Jeffries (D-N.Y.) gave remarks Wednesday morning as Democrats hope to retake control of Congress after November's midterms, now less than two months away, and capitalize on backlash to President Trump's agenda. The House passed its third Iran war powers resolution on Tuesday evening, seeking to bring an end to the more...",
+   "published": "2026-09-16T14:00:00+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-16T15:21:24.400714+00:00"
+  },
+  {
+   "id": "a0d0bf2c8a33e4d6",
+   "title": "Trump leaves Saudis in the lurch with hands-off response to Houthi advances",
+   "url": "https://thehill.com/policy/defense/6092199-trump-saudis-houthis-fight-red-sea/",
+   "summary": "President Trump is taking a notably hands-off approach as Iran-backed Houthi rebels in Yemen rapidly gain ground in their bid to secure a Red Sea choke point that could further roil global energy markets and box in Saudi Arabia.  Trump has reportedly rebuffed a request from Saudi Arabia to launch strikes on the Houthis, though...",
+   "published": "2026-09-16T14:00:00+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-16T15:21:24.400728+00:00"
+  },
+  {
+   "id": "f41493a56bfa1b43",
+   "title": "Sanders: 'Embarrassing' how 'ignorant' Trump is on AI",
+   "url": "https://thehill.com/policy/technology/6092611-sanders-criticizes-trump-ai-knowledge/",
+   "summary": "Sen. Bernie Sanders (I-Vt.) went after President Trump on the issue of AI, saying he has a lack of knowledge around its risks. \u201cLook, it is embarrassing, really, I think, going beyond politics, how ignorant this president is about the dangers of AI,\u201d Sanders told MS NOW\u2019s Akayla Gardner in a clip posted Tuesday on...",
+   "published": "2026-09-16T13:58:45+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-16T15:21:24.400733+00:00"
+  },
+  {
+   "id": "a8eedfc031e06e1a",
+   "title": "Watch live: Trump's pick for surgeon general faces Senate confirmation hearing",
+   "url": "https://thehill.com/video-clips/6092356-watch-live-nicole-saphier-donald-trump-surgeon-general-senate-confirmation-hearing/",
+   "summary": "Dr. Nicole Saphier, whom President Trump tapped to serve as U.S. surgeon general, will testify before the Senate Health, Education, Labor and Pensions Committee on Wednesday morning. Saphier, a media personality, was the third person Trump picked for the role, after his two previous nominees failed to receive Senate support. Her nomination, however, did not come...",
+   "published": "2026-09-16T13:55:00+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-16T15:21:24.400739+00:00"
+  },
   {
    "id": "d210d9b719b9063d",
    "title": "RFK Jr.'s sister knocks Trump on Kennedy Center shutdown",
@@ -10275,94 +10396,6 @@
    "source_id": "foxnews-politics",
    "bias_note": "right-leaning",
    "first_seen": "2026-09-02T17:55:23.860003+00:00"
-  },
-  {
-   "id": "0645ae1d836380af",
-   "title": "US medical groups urge people to get flu and Covid shots in counter to Trump guidance",
-   "url": "https://www.theguardian.com/us-news/2026/sep/02/flu-covid-vaccines-guidance",
-   "summary": "Top medical groups band together to ease confusion from Trump administration\u2019s changing immunization adviceLeading US medical groups are urging people to get updated flu and Covid-19 vaccinations this fall, banding together on Wednesday to issue shot guidelines \u2013 and highlight the science behind them \u2013 saying they hope to ease confusion caused by the Trump administration\u2019s changing advice.Flu vaccinations are beginning and the latest coronavirus shots are starting to arrive after the Food and Drug Administration (FDA) approved this year\u2019s updated versions last week. Winter also brings another ",
-   "published": "2026-09-02T15:14:50+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-09-02T17:55:24.665986+00:00"
-  },
-  {
-   "id": "4e10e8bbd658a40a",
-   "title": "Ten Times Extreme Liberal Democrats in Congress Put Their Dangerous Agenda Ahead of the American People",
-   "url": "https://www.whitehouse.gov/fact-sheets/2026/09/ten-times-extreme-liberal-democrats-in-congress-put-their-dangerous-agenda-ahead-of-the-american-people/",
-   "summary": "President Trump and Republicans have passed legislation that has put more money in hardworking American\u2019s pockets and made communities safer nationwide. At every turn, Extreme Liberal Democrats continue to attempt to obstruct commonsense policies in pursuit of their dangerous radical agenda\u2014 and their voting record proves it. In fact, last night 192 Democrats voted AGAINST [&#8230;]\nThe post Ten Times Extreme Liberal Democrats in Congress Put Their Dangerous Agenda Ahead of the American People appeared first on The White House.",
-   "published": "2026-09-02T14:45:55+00:00",
-   "source": "WhiteHouse.gov News",
-   "source_id": "whitehouse",
-   "bias_note": "official/primary-source",
-   "first_seen": "2026-09-02T15:00:41.348012+00:00"
-  },
-  {
-   "id": "08b04c253a63460b",
-   "title": "Ten Times Extreme Liberal Democrats in Congress Put Their Dangerous Agenda Ahead of the American People",
-   "url": "https://www.whitehouse.gov/releases/2026/09/ten-times-extreme-liberal-democrats-in-congress-put-their-dangerous-agenda-ahead-of-the-american-people/",
-   "summary": "President Trump and Republicans have passed legislation that has put more money in hardworking American\u2019s pockets and made communities safer nationwide. At every turn, Extreme Liberal Democrats continue to attempt to obstruct commonsense policies in pursuit of their dangerous radical agenda\u2014 and their voting record proves it. In fact, last night 192 Democrats voted AGAINST [&#8230;]\nThe post Ten Times Extreme Liberal Democrats in Congress Put Their Dangerous Agenda Ahead of the American People appeared first on The White House.",
-   "published": "2026-09-02T14:45:55+00:00",
-   "source": "WhiteHouse.gov News",
-   "source_id": "whitehouse",
-   "bias_note": "official/primary-source",
-   "first_seen": "2026-09-03T14:54:45.264523+00:00"
-  },
-  {
-   "id": "d7ce8cd3133e01ad",
-   "title": "8 questions GOP lawmakers face as the House returns",
-   "url": "https://www.pbs.org/newshour/politics/8-questions-gop-lawmakers-face-as-the-house-returns",
-   "summary": "Republicans face a torrent of questions about the words and actions President Donald Trump has unleashed while they've been gone.",
-   "published": "2026-09-02T14:32:56+00:00",
-   "source": "PBS NewsHour Politics",
-   "source_id": "pbs-politics",
-   "bias_note": "center",
-   "first_seen": "2026-09-02T15:00:43.110190+00:00"
-  },
-  {
-   "id": "c5241f89450118f0",
-   "title": "What\u2019s really behind Trump\u2019s deference to Putin?",
-   "url": "https://www.theguardian.com/world/2026/sep/02/whats-really-behind-trumps-deference-to-putin",
-   "summary": "Whether or not US president fits the definition of a Russian asset, his actions align closely with the Kremlin\u2019s interests\u2022 Don\u2019t get This Is Europe delivered to your inbox? Sign up hereCould Donald Trump be a Russian asset? The headline on a review in the Guardian of my new book Betrayal has provoked heated international debate. Written by the historian Lawrence Freedman, the piece generated thousands of comments from across Europe and beyond on social media. Many people responded with a single word: \u201cDuh!\u201dTrump\u2019s relationship with Vladimir Putin is the biggest mystery in international politi",
-   "published": "2026-09-02T14:30:26+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-09-02T15:00:41.561366+00:00"
-  },
-  {
-   "id": "73a5ef24f8f65bb3",
-   "title": "Kennedy Center removing landmark sculpture from grounds",
-   "url": "https://thehill.com/blogs/in-the-know/6066023-kennedy-center-blue-sculpture-removal-trump-renovations/",
-   "summary": "The Kennedy Center is set to take down a towering sculpture from the center\u2019s grounds on Wednesday. The artwork\u2019s removal comes amid a wave of changes at the renowned Washington performing arts center during President Trump\u2019s second term.\u00a0 The 24-foot aluminum sculpture, named \u201cBlue,\u201d was gifted to the center in 2019. The art, which was...",
-   "published": "2026-09-02T14:28:01+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-02T15:00:42.964051+00:00"
-  },
-  {
-   "id": "2bf914260b1e3aaa",
-   "title": "White House highlights 'steepest' ever decline in US casualties from cartels amid boat strikes",
-   "url": "https://www.foxnews.com/politics/white-house-highlights-steepest-decline-us-casualties-cartels-amid-boat-strikes",
-   "summary": "Senior administration officials discuss the American military&apos;s actions under President Donald Trump against cartels in the Western Hemisphere.",
-   "published": "2026-09-02T13:41:08+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-09-02T15:00:41.227813+00:00"
-  },
-  {
-   "id": "653b177c7a4d54de",
-   "title": "Apple Maps changes Lake Ontario name\u00a0after Trump request",
-   "url": "https://thehill.com/policy/transportation/6065507-apple-maps-lake-ontario-donald-trump-rename-request/",
-   "summary": "Apple on Tuesday changed the name of Lake Ontario on the web version of its Maps app to \"Lake America,\" after President Trump directly contacted the tech giant for an update in accordance with his recent executive order. The company said U.S. users will now find \"Lake America\" on their maps, following the change in...",
-   "published": "2026-09-02T13:38:56+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-02T15:00:42.964115+00:00"
   }
  ]
 }
