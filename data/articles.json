@@ -1,7 +1,194 @@
 {
- "updated": "2026-09-16T15:21:24.814499+00:00",
- "count": 945,
+ "updated": "2026-09-16T18:13:17.789765+00:00",
+ "count": 947,
  "articles": [
+  {
+   "id": "1f8878ffbbf45db1",
+   "title": "Fencing added to Kennedy Center after Trump-appointed board votes to close",
+   "url": "https://thehill.com/homenews/state-watch/6093325-trump-kennedy-center-fencing-board/",
+   "summary": "Fencing surrounds the front entrance of the Kennedy Center on Wednesday, a day after President Trump\u2019s hand-picked board voted to close the facility for renovations amid ongoing fights over adding his name to the facility. The fencing blocked off the main entrance to the performing arts center, based on a photo taken by an Associated...",
+   "published": "2026-09-16T18:11:54+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-16T18:13:16.457294+00:00"
+  },
+  {
+   "id": "2f79d6309e7e4dcd",
+   "title": "Massie says House GOP leaving to avoid Hegseth impeachment vote",
+   "url": "https://thehill.com/homenews/house/6093389-massie-accuses-gop-avoid-hegseth/",
+   "summary": "GOP Rep. Thomas Massie (Ky.) accused House Republican leadership on Wednesday of sending lawmakers home early to avoid a vote on his resolution to impeach Defense Secretary Pete Hegseth.  The announcement, shared by the office of GOP Whip Tom Emmer (R-Minn.), cuts the final legislative week before the midterm elections short by one day.  \u201cAnd...",
+   "published": "2026-09-16T18:05:26+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-16T18:13:16.457330+00:00"
+  },
+  {
+   "id": "7547b5c6ea3be7e3",
+   "title": "Safer, Stronger, Built in America: President Trump\u2019s Record in North Carolina",
+   "url": "https://www.whitehouse.gov/releases/2026/09/safer-stronger-built-in-america-president-trumps-record-in-north-carolina/",
+   "summary": "President Donald J. Trump returns to North Carolina today with a simple message: North Carolinians are better off with Republican leadership. Since taking office, the Trump Administration has driven crime down, put money back in workers\u2019 pockets, and unleashed a wave of advanced manufacturing, pharmaceutical, aerospace, and AI investment across the Tar Heel State. Making [&#8230;]\nThe post Safer, Stronger, Built in America: President Trump\u2019s Record in North Carolina appeared first on The White House.",
+   "published": "2026-09-16T17:53:07+00:00",
+   "source": "WhiteHouse.gov News",
+   "source_id": "whitehouse",
+   "bias_note": "official/primary-source",
+   "first_seen": "2026-09-16T18:13:15.362139+00:00"
+  },
+  {
+   "id": "5fa55df6dde25593",
+   "title": "GOP lawmakers blindsided by new revelations about Trump Butler shooter: 'Awfully strange'",
+   "url": "https://www.foxnews.com/politics/gop-lawmakers-blindsided-new-revelations-about-trump-butler-shooter-awfully-strange",
+   "summary": "Thomas Matthew Crooks&apos; father searched for ways to block his son&apos;s gun access months before the Butler, Pennsylvania, assassination attempt on Trump.",
+   "published": "2026-09-16T17:34:11+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-16T18:13:14.998974+00:00"
+  },
+  {
+   "id": "c20df1811d182a8f",
+   "title": "\u2018An antidote to Trumpism\u2019: Our politics team answered your questions on Democrats\u2019 midterms hopes",
+   "url": "https://www.theguardian.com/community/live/2026/sep/15/reader-qa-how-united-are-the-democrats-ahead-of-the-midterms-post-your-questions-now",
+   "summary": "Our US political reporters discussed the state of the Democrats, the party\u2019s moderate and leftwing candidates and key races to watchSign up to The Stakes newsletter: your weekly guide to the US midtermsCitizen_Squared writes: After the disaster of the Trump years, the Democrats still do not have a clear message/vision/plan for ending the destruction Maga has done. Talking endlessly about affordability is not a governing vision. The polls may have the Democrats ahead for the House and Senate but thanks to extreme gerrymandering, voter restrictions and a big assist from the corrupt Supreme Court",
+   "published": "2026-09-16T17:25:09+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-09-16T18:13:16.112235+00:00"
+  },
+  {
+   "id": "2995e1cd8495ea3c",
+   "title": "DOJ charges Russian agents with plotting attacks, including in US",
+   "url": "https://www.npr.org/2026/09/16/g-s1-143590/us-justice-department-russian-operatives-attacks",
+   "summary": "The indictment says the defendants belong to a network that \"is one arm of the Russian Federation's apparatus used to carry out external attacks\" worldwide.",
+   "published": "2026-09-16T17:19:49+00:00",
+   "source": "NPR Politics",
+   "source_id": "npr-politics",
+   "bias_note": "center",
+   "first_seen": "2026-09-16T18:13:15.875981+00:00"
+  },
+  {
+   "id": "e24d04d55430c08f",
+   "title": "More Republicans are turning on Iran war as midterms come into view",
+   "url": "https://www.theguardian.com/us-news/2026/sep/16/republicans-iran-war-midterm-elections",
+   "summary": "Three more GOP members voted for war powers resolution to force withdrawal from the conflict as election loomsUS politics live \u2013 latest updatesAs the US war with Iran drags on, the ranks of Republicans signaling the conflict is a liability for their party continues to grow.When the House of Representatives on Tuesday evening considered its sixth war powers resolution intended to force Donald Trump to withdraw troops from the conflict, three Republicans who had not supported the previous efforts broke with their party to vote this one to passage. Earlier that day, a Republican who had lost his ",
+   "published": "2026-09-16T17:18:14+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-09-16T18:13:16.112249+00:00"
+  },
+  {
+   "id": "c87d0bdefa579a52",
+   "title": "What to Know About Mail-In Voting for the 2026 Midterms",
+   "url": "https://www.propublica.org/article/mail-in-voting-rules-midterm-elections",
+   "summary": "The post What to Know About Mail-In Voting for the 2026 Midterms appeared first on ProPublica.",
+   "published": "2026-09-16T17:15:00+00:00",
+   "source": "ProPublica",
+   "source_id": "propublica",
+   "bias_note": "investigative",
+   "first_seen": "2026-09-16T18:13:17.015296+00:00"
+  },
+  {
+   "id": "d0b2af626564f0c7",
+   "title": "House speaker calls early recess before midterms amid AI regulation frenzy",
+   "url": "https://www.theguardian.com/us-news/2026/sep/16/mike-johnson-cancels-house-vote-hegseth",
+   "summary": "Mike Johnson cancels votes on Thursday, meaning House members will avoid voting on impeaching Pete HegsethUS politics live \u2013 latest updatesThe Republican speaker of the House, Mike Johnson, announced on Wednesday that he would again cancel votes scheduled for Thursday, sending lawmakers home one day early ahead of the midterm election recess.The latest change to the legislative schedule means House members will avoid voting on Republican Thomas Massie\u2019s resolution to impeach the defense secretary, Pete Hegseth, and comes amid a frenzied attempt to propose legislation on artificial intelligence",
+   "published": "2026-09-16T17:10:42+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-09-16T18:13:16.112263+00:00"
+  },
+  {
+   "id": "7d60e2dfde23e6d8",
+   "title": "Iowa Republicans in battleground House races join vote to halt the Iran war",
+   "url": "https://www.pbs.org/newshour/politics/iowa-republicans-in-battleground-house-races-join-vote-to-halt-the-iran-war",
+   "summary": "Two House Republicans in battleground Iowa districts changed their position on an Iran war powers resolution, joining with Democrats and a few other dissident members of their party in an attempt to halt President Donald Trump's ability to continue military action without congressional approval.",
+   "published": "2026-09-16T17:00:49+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-09-16T18:13:16.780628+00:00"
+  },
+  {
+   "id": "1ab1b390ac9a634f",
+   "title": "Hawley rules out 2028 White House bid",
+   "url": "https://thehill.com/homenews/campaign/6093133-josh-hawley-potential-2028-presidential-bid/",
+   "summary": "Sen. Josh Hawley (R-Mo.) on Tuesday ruled out launching a 2028 presidential bid, with less than 18 months before the Iowa caucuses. \u201cI have no intention of doing so, period,\u201d Hawley told the Washington Examiner. The Missouri Republican, whose term ends in 2031, has occupied a populist lane within the GOP, calling for strict antitrust...",
+   "published": "2026-09-16T16:58:38+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-16T18:13:16.457437+00:00"
+  },
+  {
+   "id": "c335f4d6cbc0596f",
+   "title": "Iowa Republicans in battleground House races vote to halt the Iran war",
+   "url": "https://abcnews.com/Politics/wireStory/iowa-republicans-battleground-house-races-vote-halt-iran-136494575",
+   "summary": "Two House Republicans in battleground Iowa districts switched their votes on an Iran war powers resolution to halt President Donald Trump&rsquo;s ability to continue military action without congressional approval",
+   "published": "2026-09-16T16:52:52+00:00",
+   "source": "ABC News Politics",
+   "source_id": "abc-politics",
+   "bias_note": "center",
+   "first_seen": "2026-09-16T18:13:17.373065+00:00"
+  },
+  {
+   "id": "a311977defa08a4f",
+   "title": "House heading home\u00a0early",
+   "url": "https://thehill.com/newsletters/1230-report/6093183-interest-rates-spending-cuts-patel-fbi-kennedy-center/",
+   "summary": "Presented by SourceAmerica \u2014 Plus: \ud83d\uddf3\ufe0fTrump campaigns with Whatley in North Carolina {beacon} It\u2019s Wednesday, or Hump Day since the Geico camel commercials have returned \ud83d\udc2a (\u201cUh oh...Guess what day it is?\u201d).  &#8202; In today's issue: Federal Reserve expected to raise rates Senate Republicans plan spending cuts Trump to campaign with Whatley Kash Patel strikes back...",
+   "published": "2026-09-16T16:50:42+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-16T18:13:16.457446+00:00"
+  },
+  {
+   "id": "3817881056edb595",
+   "title": "War crimes court turns 'blind eye' to top world threats while targeting Americans, Trump admin accuses",
+   "url": "https://www.foxnews.com/politics/war-crimes-court-turns-blind-eye-top-world-threats-targeting-americans-trump-admin-accuses",
+   "summary": "The State Department accused the International Criminal Court of targeting Americans while ignoring atrocities by Iran, North Korea and Syria.",
+   "published": "2026-09-16T16:37:34+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-16T18:13:14.999006+00:00"
+  },
+  {
+   "id": "8bf199d05d5caeb3",
+   "title": "Viral video shows Trump pi\u00f1ata getting hit at California college as students erupt in cheers",
+   "url": "https://www.foxnews.com/media/viral-video-shows-trump-pinata-getting-hit-california-college-students-erupt-cheers",
+   "summary": "Viral video shows a blindfolded person beheading a President Donald Trump pi\u00f1ata at Contra Costa College as a counselor allegedly celebrates.",
+   "published": "2026-09-16T16:27:55+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-16T18:13:15.127452+00:00"
+  },
+  {
+   "id": "6310c146fe7002e3",
+   "title": "How Jared Kushner is mixing U.S. diplomacy with his billion-dollar business",
+   "url": "https://www.npr.org/2026/09/16/nx-s1-5971125/how-jared-kushner-is-mixing-u-s-diplomacy-with-his-billion-dollar-business",
+   "summary": "The New Yorker's Dexter Filkins says while Trump's son-in-law is a U.S. special envoy negotiating peace, he's also working on private business deals, raising billions in some of the same countries.",
+   "published": "2026-09-16T16:14:19+00:00",
+   "source": "NPR Politics",
+   "source_id": "npr-politics",
+   "bias_note": "center",
+   "first_seen": "2026-09-16T18:13:15.875999+00:00"
+  },
+  {
+   "id": "829d46256730cc86",
+   "title": "WATCH LIVE: Trump campaigns for GOP Senate candidate Michael Whatley in North Carolina",
+   "url": "https://www.pbs.org/newshour/politics/watch-live-trump-campaigns-for-gop-senate-candidate-michael-whatley-in-north-carolina",
+   "summary": "The trip marks Trump's first campaign rally since his unusual midterm convention in Dallas. The president, despite voter frustrations over the Iran war and his economic leadership, has promised dozens more trips ahead of Election Day.",
+   "published": "2026-09-16T15:35:02+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-09-16T18:13:16.780649+00:00"
+  },
   {
    "id": "5e50034d28ce797c",
    "title": "\u2018Worse than Watergate\u2019 New FBI files detail agent\u2019s push to join Trump probe, investigate Elon Musk",
@@ -10231,171 +10418,6 @@
    "source_id": "foxnews-latest",
    "bias_note": "right-leaning",
    "first_seen": "2026-09-02T21:06:38.404663+00:00"
-  },
-  {
-   "id": "336ae7cf1eace69e",
-   "title": "Deleted email details alleged Trump-targeting push inside Letitia James\u2019 office: \u2018Find and pursue crimes\u2019",
-   "url": "https://www.foxnews.com/politics/deleted-email-details-alleged-trump-targeting-push-inside-letitia-james-office-find-pursue-crimes",
-   "summary": "A prosecutor alleges Letitia James&apos; bureau chief directed staff to target Donald Trump, Truth Social and other entities without credible reason.",
-   "published": "2026-09-02T18:13:10+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-09-02T21:06:38.355564+00:00"
-  },
-  {
-   "id": "590e7f0f4d8a7572",
-   "title": "Watch live: Trump meets with travel executives",
-   "url": "https://thehill.com/video-clips/6066903-watch-live-donald-trump-travel-executives-white-house-meeting/",
-   "summary": "President Trump on Wednesday afternoon welcomed a group of U.S. travel executives to the White House. Transportation Secretary Sean Duffy is also expected to attend. Watch live above.",
-   "published": "2026-09-02T17:49:30+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-02T17:55:24.778120+00:00"
-  },
-  {
-   "id": "dd5f61a3b12aeefb",
-   "title": "Tillis urges Trump to fire Hegseth over 'inept management' of military",
-   "url": "https://thehill.com/homenews/senate/6066871-tillis-trump-fire-hegseth/",
-   "summary": "Sen. Thom Tillis (R-N.C.), a former member of the Senate Armed Services Committee, is calling on President Trump to fire Secretary of Defense Pete Hegseth over what he called Hegseth\u2019s \u201cinept management\u201d of the military. Tillis stepped up his criticism of Hegseth\u2019s leadership after Army Secretary Dan Driscoll announced his resignation after repeatedly clashing with...",
-   "published": "2026-09-02T17:43:47+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-02T17:55:24.778134+00:00"
-  },
-  {
-   "id": "67efcc1cd8ecee69",
-   "title": "Bessent partly blames Ukraine for 'energy shock' pushing up prices",
-   "url": "https://thehill.com/policy/energy-environment/6066550-bessent-blames-ukraine-energy-shock/",
-   "summary": "Treasury Secretary Scott Bessent on Wednesday partially blamed Ukraine for the \"energy shock\" caused by the Iran war and Russia's four-and-a-half-year-long war with the Eastern European country. Bessent appeared on \"Fox &#38; Friends\" with co-host Brian Kilmeade and said the Trump administration's trade war with Canada will have \"virtually no impact on American prices.\" \"We...",
-   "published": "2026-09-02T17:43:00+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-02T17:55:24.778140+00:00"
-  },
-  {
-   "id": "d34f2aa1ec644c27",
-   "title": "Pro-Trump group releases first general election midterm ad",
-   "url": "https://thehill.com/homenews/campaign/6066844-pro-trump-group-releases-first-general-election-midterm-ad/",
-   "summary": "Securing American Greatness, the nonprofit arm of President Trump\u2019s super PAC MAGA Inc., rolled out its first general election ads on Wednesday, featuring Trump front and center.  The ads are a part of a national ad buy. According to the political intelligence firm AdImpact, the group booked $995,000 starting on Wednesday.  While one of the...",
-   "published": "2026-09-02T17:34:36+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-02T17:55:24.778149+00:00"
-  },
-  {
-   "id": "d677aa5a300c12b2",
-   "title": "Hakeem Jeffries vows \u2018serious response\u2019 after two House Democrats vote with Republicans \u2013 US politics live",
-   "url": "https://www.theguardian.com/us-news/live/2026/sep/02/us-politics-latest-news-updates-donald-trump-iran",
-   "summary": "House minority leader says decision by two Democrats to advance resolution condemning socialism \u2018represents significant breach of trust\u2019Sign up for the US Breaking News emailAs tensions flare in the mideast with American military forces resuming strikes on Iran, Donald Trump has taken to social media to discuss his ballroom project.\u201cWe have hundreds of happy construction workers in D.C. busily doing their job building the finest Ballroom/Military complex anywhere in the World,\u201d Trump said in a truth social post Wednesday morning. \u201cThere is nothing like it, and never will be! It was a long, har",
-   "published": "2026-09-02T17:31:20+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-09-02T17:55:24.665969+00:00"
-  },
-  {
-   "id": "0f2ad2e9c57c5755",
-   "title": "Alabama AG Marshall fires back at USPS mail-ballot order critics: \u2018This is about securing elections\u2019",
-   "url": "https://www.foxnews.com/politics/alabama-ag-marshall-fires-back-usps-mail-ballot-order-critics-securing-elections",
-   "summary": "Steve Marshall says Democratic AGs are blocking voter roll audits to obstruct Trump&apos;s election integrity executive order ahead of the midterms.",
-   "published": "2026-09-02T17:26:26+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-09-02T17:55:23.859990+00:00"
-  },
-  {
-   "id": "677ba9fee0e04f26",
-   "title": "Heads or tails? $1 coin with Trump's face and gold finish go on sale",
-   "url": "https://www.pbs.org/newshour/politics/heads-or-tails-1-coin-with-trumps-face-and-gold-finish-go-on-sale",
-   "summary": "The coin's design \u2014 Trump's visage as \"heads\" and the Great Seal of the United States as \"tails\" \u2014 was given the stamp of approval this year by the U.S. Commission of Fine Arts, whose members Trump appointed.",
-   "published": "2026-09-02T17:10:25+00:00",
-   "source": "PBS NewsHour Politics",
-   "source_id": "pbs-politics",
-   "bias_note": "center",
-   "first_seen": "2026-09-02T17:55:24.984763+00:00"
-  },
-  {
-   "id": "90eca25f59d736e3",
-   "title": "Trump to host group of vulnerable GOP lawmakers at White House",
-   "url": "https://thehill.com/homenews/administration/6066484-trump-republican-lawmakers-rose-garden-dinner/",
-   "summary": "President Trump will host a group of Republican lawmakers facing rough reelection bids for a Rose Garden dinner on Wednesday, the White House confirmed to The Hill.  The development comes as lawmakers and candidates approach the post-Labor Day sprint ahead of November\u2019s midterm elections, with many Republicans calling on the president to use his resources...",
-   "published": "2026-09-02T16:54:33+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-02T17:55:24.778258+00:00"
-  },
-  {
-   "id": "0685d977cb037475",
-   "title": "Trump revives Iran regime change speculation with cryptic call for people to \u2018rise up'",
-   "url": "https://www.foxnews.com/world/trump-revives-iran-regime-change-speculation-cryptic-call-people-rise-up",
-   "summary": "Trump asking when Iranians will \u201crise up and fight&quot; revives questions over whether the administration\u2019s Iran strategy is shifting beyond economic pressure and negotiations",
-   "published": "2026-09-02T16:53:24+00:00",
-   "source": "Fox News Latest",
-   "source_id": "foxnews-latest",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-09-02T17:55:23.876019+00:00"
-  },
-  {
-   "id": "3bdcec4418ad1bcf",
-   "title": "The $1 Trump coin: legal tender, depending on what you mean by legal",
-   "url": "https://www.theguardian.com/us-news/2026/sep/02/trump-one-dollar-coin",
-   "summary": "Various laws and 250 years of tradition prevent the likeness of living people from appearing on currency. Donald Trump and Scott Bessent don\u2019t want you to worry about thatThis was originally published in This Week in Trumpland. Sign up to receive it in your inbox every WednesdayTwo hallmarks of Donald Trump\u2019s second-term: the president\u2019s enthusiasm for putting his name and face on things, and his cavalier approach to established law.Today the president is once again combining both those interests, as the government releases a $1 coin bearing his image, an item of currency which scholars say sh",
-   "published": "2026-09-02T16:50:56+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-09-02T17:55:24.665978+00:00"
-  },
-  {
-   "id": "e30b0f67d14885e3",
-   "title": "Vanessa Trump joins Tiger Woods at Florida courthouse as he strikes plea agreement in rollover crash case",
-   "url": "https://www.foxnews.com/outkick-sports/vanessa-trump-joins-tiger-woods-florida-courthouse-strikes-plea-agreement-rollover-crash-case",
-   "summary": "Vanessa Trump walked into the Florida courthouse with Tiger Woods as he finalized a plea deal in his rollover crash case and faced license suspension.",
-   "published": "2026-09-02T16:19:12+00:00",
-   "source": "Fox News Latest",
-   "source_id": "foxnews-latest",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-09-02T17:55:23.876042+00:00"
-  },
-  {
-   "id": "41fdbff5947d74da",
-   "title": "Presidential Message on National Childhood Cancer Awareness Month",
-   "url": "https://www.whitehouse.gov/briefings-statements/2026/09/presidential-message-on-national-childhood-cancer-awareness-month/",
-   "summary": "This National Childhood Cancer Awareness Month, my Administration stands with the countless children facing the devastating effects of cancer.&#160; We recognize the love, strength, and care of the families who walk beside them through every step of their journeys. &#160;Above all, we commit to advancing lifesaving innovation and accelerating cures, giving every child the chance [&#8230;]\nThe post Presidential Message on National Childhood Cancer Awareness Month appeared first on The White House.",
-   "published": "2026-09-02T15:59:31+00:00",
-   "source": "WhiteHouse.gov News",
-   "source_id": "whitehouse",
-   "bias_note": "official/primary-source",
-   "first_seen": "2026-09-02T17:55:24.247798+00:00"
-  },
-  {
-   "id": "f61d280c456df428",
-   "title": "Presidential Message on National Recovery Month",
-   "url": "https://www.whitehouse.gov/briefings-statements/2026/09/presidential-message-on-national-recovery-month/",
-   "summary": "During National Recovery Month, we celebrate the more than 23 million Americans who have found a pathway from addiction to recovery, we recognize those who have helped them reclaim their lives, and we renew our commitment to supporting those still struggling to find hope and healing.&#160; Throughout every community in America, the effects of drug [&#8230;]\nThe post Presidential Message on National Recovery Month appeared first on The White House.",
-   "published": "2026-09-02T15:58:33+00:00",
-   "source": "WhiteHouse.gov News",
-   "source_id": "whitehouse",
-   "bias_note": "official/primary-source",
-   "first_seen": "2026-09-02T17:55:24.247803+00:00"
-  },
-  {
-   "id": "b5d9750368913b42",
-   "title": "Should Trump build a White House ballroom? Americans weigh in",
-   "url": "https://www.foxnews.com/politics/should-trump-build-white-house-ballroom-americans-weigh",
-   "summary": "President Donald Trump&apos;s White House East Wing ballroom project divides Americans as the Supreme Court allows construction amid ongoing litigation.",
-   "published": "2026-09-02T15:55:48+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-09-02T17:55:23.860003+00:00"
   }
  ]
 }
