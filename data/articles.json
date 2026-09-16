@@ -1,7 +1,62 @@
 {
- "updated": "2026-09-16T00:25:49.253179+00:00",
- "count": 947,
+ "updated": "2026-09-16T07:44:13.016605+00:00",
+ "count": 948,
  "articles": [
+  {
+   "id": "ec604294ab0df9dc",
+   "title": "Trump to campaign in North Carolina rally with his handpicked Senate nominee Michael Whatley",
+   "url": "https://abcnews.com/Politics/wireStory/trump-campaign-north-carolina-rally-handpicked-senate-nominee-136483581",
+   "summary": "President Donald Trump plans to travel to North Carolina on Wednesday to campaign with Republican Senate nominee Michael Whatley",
+   "published": "2026-09-16T07:06:33+00:00",
+   "source": "ABC News Politics",
+   "source_id": "abc-politics",
+   "bias_note": "center",
+   "first_seen": "2026-09-16T07:44:12.790158+00:00"
+  },
+  {
+   "id": "83d76c3c4cdc49bc",
+   "title": "7 Republicans rebel against Trump, vote with Dems to rein in Iran war powers",
+   "url": "https://www.foxnews.com/politics/republicans-rebel-against-trump-vote-dems-rein-iran-war-powers",
+   "summary": "House Republicans joined Democrats to pass a war powers resolution reining in Trump&apos;s military engagement in Iran beyond the 60-day threshold.",
+   "published": "2026-09-16T04:19:51+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-16T07:44:11.972335+00:00"
+  },
+  {
+   "id": "5ed3fd51e108d176",
+   "title": "House passes Iran war powers resolution",
+   "url": "https://thehill.com/homenews/house/6091940-house-iran-war-powers-resolution/",
+   "summary": "The House on Tuesday passed a Democratic-backed war powers resolution that would limit President Trump\u2019s military actions in Iran. The lower chamber voted\u00a0220-204\u00a0to pass the resolution, sponsored by Rep. Seth Moulton (D-Mass.). Seven Republicans voted in favor of the measure: Reps. Thomas Massie (Ky.), Brian Fitzpatrick (Pa.), Warren Davidson (Ohio), Tom Barrett (Mich.), Mariannette Miller-Meeks...",
+   "published": "2026-09-16T02:37:09+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-16T07:44:12.409778+00:00"
+  },
+  {
+   "id": "8d8b48034a234997",
+   "title": "Beatty reveals heated discussion with Trump over Kennedy Center",
+   "url": "https://thehill.com/homenews/administration/6091934-beatty-trump-kennedy-center-clash/",
+   "summary": "Rep. Joyce Beatty (D-Ohio), an ex-officio Kennedy Center board member, said Tuesday she got into a heated discussion with President Trump over the center. In an interview with NewsNation\u2019s Joe Khalil, Beatty said that due to her opposition to closing the Kennedy Center during a board meeting, the president \u201cfound it necessary to go into...",
+   "published": "2026-09-16T01:16:45+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-16T07:44:12.409800+00:00"
+  },
+  {
+   "id": "7cfcc6b6779d2107",
+   "title": "Federal judge refers Philadelphia DA Larry Krasner to DOJ for possible criminal investigation",
+   "url": "https://www.foxnews.com/politics/federal-judge-refers-philadelphia-da-larry-krasner-doj-possible-criminal-investigation",
+   "summary": "A federal judge referred Philadelphia DA Larry Krasner and a top deputy Tuesday to the DOJ over possible perjury and false statements.",
+   "published": "2026-09-16T00:42:40+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-16T07:44:11.972362+00:00"
+  },
   {
    "id": "8bbe3b7d0a9ba824",
    "title": "Dem senator defeats challenger named 'No-Trump' in Delaware primary",
@@ -10374,50 +10429,6 @@
    "source_id": "npr-politics",
    "bias_note": "center",
    "first_seen": "2026-09-02T12:48:17.477608+00:00"
-  },
-  {
-   "id": "e694744b003a300c",
-   "title": "US launches new strikes against Iran as Trump says he's \"not trying to force Iran to the negotiating table\"",
-   "url": "https://thehill.com/policy/defense/6065153-us-military-strikes-iran-targets/",
-   "summary": "The U.S. military completed a new wave of strikes Tuesday on targets in Iran as the conflict in the region stretches into its seventh month. \u201cU.S. forces struck Islamic Revolutionary Guard Corps (IRGC) targets including air defense sites, radar systems, maritime assets and facilities, mine laying capabilities, and communications sites,\u201d U.S. Central Command (Centcom) wrote...",
-   "published": "2026-09-02T02:45:16+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-02T07:08:35.159801+00:00"
-  },
-  {
-   "id": "5ef1f91a11e9f119",
-   "title": "President Trump nominates Hung Cao as Navy Secretary",
-   "url": "https://thehill.com/policy/defense/6065087-trump-nominates-hung-cao-navy/",
-   "summary": "President Trump said on Tuesday he would be nominating Hung Cao for Navy Secretary after the predecessor to the role stepped down in April.  The president announced his pick on Truth Social Tuesday night, saying \u201cWe need Patriots like Hung leading our Navy and Marine Corps, and I can think of no one better than...",
-   "published": "2026-09-02T01:40:13+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-02T07:08:35.159856+00:00"
-  },
-  {
-   "id": "57cf399417b10c20",
-   "title": "Trump taps \u2018true warrior\u2019 Hung Cao as Navy secretary after 4 months as acting leader",
-   "url": "https://www.foxnews.com/politics/trump-taps-true-warrior-hung-cao-navy-secretary-after-4-months-acting-leader",
-   "summary": "Hung Cao, a retired Navy captain and special operations veteran, has led the Department of the Navy for four months as President Trump now seeks Senate confirmation.",
-   "published": "2026-09-02T01:24:20+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-09-02T07:08:34.360203+00:00"
-  },
-  {
-   "id": "3ab929f15a9c96b5",
-   "title": "Trump nominates loyalist Hung Cao to be permanent navy secretary",
-   "url": "https://www.theguardian.com/us-news/2026/sep/01/trump-navy-secretary-hung-cao-nomination",
-   "summary": "Acting secretary picked for top role as critics accuse president of overworking sailors during war with IranDonald Trump said Tuesday that he is nominating acting navy secretary Hung Cao for the permanent job, giving the navy combat veteran the nod as concerns have emerged that some sailors have been stretched to the limit during the Iran war.Cao has been serving as acting navy secretary since John Phelan departed the job unexpectedly and without explanation in late April. Continue reading...",
-   "published": "2026-09-02T00:31:03+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-09-02T07:08:34.940024+00:00"
   }
  ]
 }
