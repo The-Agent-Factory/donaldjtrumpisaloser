@@ -1,7 +1,194 @@
 {
- "updated": "2026-09-17T15:27:48.399630+00:00",
- "count": 962,
+ "updated": "2026-09-17T18:18:05.247421+00:00",
+ "count": 965,
  "articles": [
+  {
+   "id": "f1aed43df5c5d168",
+   "title": "Trump says he has a \u2018big decision coming up\u2019 on Iran",
+   "url": "https://thehill.com/homenews/administration/6096198-trump-iran-annihilate-decision/",
+   "summary": "President Trump said on Thursday that he is facing a major looming decision in Iran as the U.S. war in the country shows no signs of subsiding.\u00a0 \"I have a big decision coming up. Do I want to go in and annihilate them [the Iranian regime] or do I not? It's a big decision. Anything...",
+   "published": "2026-09-17T18:11:31+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-17T18:18:03.992202+00:00"
+  },
+  {
+   "id": "373f5fe9dc91611e",
+   "title": "A global AI safety strategy depends on U.S.-China cooperation. They each see the other as the problem",
+   "url": "https://www.pbs.org/newshour/world/a-global-ai-safety-strategy-depends-on-u-s-china-cooperation-they-each-see-the-other-as-the-problem",
+   "summary": "AI governance is expected to be on the agenda in a meeting planned for next week in Washington between President Donald Trump and Chinese leader Xi Jinping.",
+   "published": "2026-09-17T18:10:32+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-09-17T18:18:04.310230+00:00"
+  },
+  {
+   "id": "586145642cfbfd17",
+   "title": "Trump administration denies visas for Palestinian delegation to attend UN General Assembly for second year",
+   "url": "https://thehill.com/homenews/administration/6096022-trump-denies-plo-pa-visas/",
+   "summary": "The Trump administration on Wednesday denied visas to the Palestinian Liberation Organization (PLO) and the Palestinian Authority's (PA) delegation to the United Nations General Assembly in New York for the second time in more than a year. The State Department accused the PLO and the PA of failing their commitments as established in the PLO...",
+   "published": "2026-09-17T18:07:56+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-17T18:18:03.992209+00:00"
+  },
+  {
+   "id": "98b70f19193d9683",
+   "title": "Minnesota's anti-ICE aid fund becomes latest casualty of state's embarrassing fraud problem",
+   "url": "https://www.foxnews.com/politics/minnesotas-anti-ice-aid-fund-becomes-latest-casualty-states-embarrassing-fraud-problem",
+   "summary": "Hennepin County paid out $500,000 in grants before shutting down a $2 million program tied to Operation Metro Surge due to overwhelming fraud.",
+   "published": "2026-09-17T18:01:05+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-17T18:18:02.771615+00:00"
+  },
+  {
+   "id": "f88c41044d20df05",
+   "title": "White House withdraws nomination of ex-state trooper Lance Schroyer to head ICE",
+   "url": "https://www.theguardian.com/us-news/2026/sep/17/lance-schroyer-ice-director-nomination-withdrawn",
+   "summary": "Critics had criticized administration for nominating Schroyer, who has no formal experience working in ICEThe White House has withdrawn the nomination of Lance Schroyer, a former Oklahoma state trooper, to head Immigration and Customs Enforcement, less than three months after announcing his role.Critics had initially criticized administration officials for nominating Schroyer, who has no formal experience working in ICE, to lead Donald Trump\u2019s aggressive immigration enforcement agenda. Continue reading...",
+   "published": "2026-09-17T17:53:55+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-09-17T18:18:03.689045+00:00"
+  },
+  {
+   "id": "9946617c029bb45e",
+   "title": "Trump administration reduces protections for endangered species again",
+   "url": "https://thehill.com/policy/energy-environment/6096057-trump-endangered-species-esa/",
+   "summary": "The Trump administration has further reduced protections for endangered species under the Endangered Species Act (ESA). That law prohibits any \u201ctake\u201d of endangered species, which it defines as to \u201charass, harm, pursue, hunt, shoot, wound, kill, trap, capture, or collect, or to attempt to engage in any such conduct.\u201d The administration\u00a0recently repealed\u00a0a previous definition of...",
+   "published": "2026-09-17T17:35:25+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-17T18:18:03.992247+00:00"
+  },
+  {
+   "id": "6c85f61efe7c7d45",
+   "title": "Florida congresswoman running for reelection breaks with Trump on immigration",
+   "url": "https://www.pbs.org/newshour/politics/florida-congresswoman-running-for-reelection-breaks-with-trump-on-immigration",
+   "summary": "Rep. Maria Elvira Salazar is out with a new ad criticizing President Donald Trump's deportation campaign.",
+   "published": "2026-09-17T17:21:00+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-09-17T18:18:04.310237+00:00"
+  },
+  {
+   "id": "486a10498a0842a4",
+   "title": "Warsh wins credibility with Fed rate hike: 5 takeaways",
+   "url": "https://thehill.com/business/6095976-fed-hike-warsh-trump-reaction/",
+   "summary": "While President Trump has not publicly criticized Federal Reserve Chair Kevin Warsh for the central bank hiking interest rates on Wednesday, the move was still the opposite of what the president wanted. \u201cI\u2019m relying on Kevin. But he\u2019s got \u2026 a very tough board,\u201d Trump told reporters in North Carolina on Wednesday, adding interest rates are \u201ctoo high.\u201d...",
+   "published": "2026-09-17T17:20:12+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-17T18:18:03.992261+00:00"
+  },
+  {
+   "id": "65b01899f56c508f",
+   "title": "Appeals court weighs Missouri congressional map despite Supreme Court block",
+   "url": "https://abcnews.com/Politics/wireStory/appeals-court-weighs-trump-backed-missouri-congressional-map-136534521",
+   "summary": "A federal appeals court panel is considering an attempt to revive Missouri congressional districts backed by Donald Trump",
+   "published": "2026-09-17T17:16:51+00:00",
+   "source": "ABC News Politics",
+   "source_id": "abc-politics",
+   "bias_note": "center",
+   "first_seen": "2026-09-17T18:18:04.757360+00:00"
+  },
+  {
+   "id": "d55a7ea899352ac3",
+   "title": "Watch live: RFK Jr. speaks at children\u2019s health forum amid vaccine scrutiny",
+   "url": "https://thehill.com/video-clips/6095784-watch-live-rfk-jr-childrens-health-defense-anti-vaccine-conference-2026/",
+   "summary": "Health and Human Services Secretary Robert F. Kennedy Jr. will give the keynote address Thursday at a conference hosted by the Children's Health Defense, an anti-vaccine advocacy organization that he helped found. The speech comes as Kennedy faces scrutiny over changes the Trump administration made to the childhood vaccine schedule and new dietary guidance under...",
+   "published": "2026-09-17T17:00:42+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-17T18:18:03.992266+00:00"
+  },
+  {
+   "id": "c0219e399196f2f0",
+   "title": "Florida Republican breaks with Trump on immigration in campaign ad: Latino voters 'feel betrayed'",
+   "url": "https://thehill.com/homenews/campaign/6095767-maria-salazar-trump-immigration-ad/",
+   "summary": "Rep. Maria Elvira Salazar (R-Fla.) accused President Trump of going \u201ctoo far\u201d with federal immigration enforcement operations in a campaign advertisement released Thursday. \u201cThe same Hispanics who helped you get to the White House in 2024 feel betrayed today,\u201d\u00a0said Salazar, who's running for reelection in November, in the new clip. \u201cYou can be for immigration...",
+   "published": "2026-09-17T16:39:30+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-17T18:18:03.992305+00:00"
+  },
+  {
+   "id": "d25be405131f3362",
+   "title": "Fox News AI Newsletter: Trump shreds AI doomer 'hoax'",
+   "url": "https://www.foxnews.com/tech/ai-newsletter-trump-shreds-ai-doomer-hoax",
+   "summary": "The Fox News AI Newsletter covers the latest artificial intelligence technology advancements, including the challenges and opportunities AI presents now and for the future.",
+   "published": "2026-09-17T16:39:15+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-17T18:18:02.856145+00:00"
+  },
+  {
+   "id": "ea207a1fdd3db303",
+   "title": "Environment, health groups sue over Trump move to wipe out climate rules for power plants",
+   "url": "https://thehill.com/policy/energy-environment/6095884-environment-health-trump-power-plants-carbon/",
+   "summary": "Environmental and public health-focused organizations are suing the Trump administration over its move to wipe out most climate regulations on coal and gas power plants. The Natural Resources Defense Council (NRDC), American Lung Association, American Public Health Association, Clean Air Council, Clean Wisconsin and the Environmental Defense Fund filed the suit on Thursday. The move comes...",
+   "published": "2026-09-17T16:33:58+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-17T18:18:03.992307+00:00"
+  },
+  {
+   "id": "18834f85b76dffde",
+   "title": "'American Scoundrel' traces Roy Cohn's playbook from McCarthyism to Trump",
+   "url": "https://www.npr.org/2026/09/17/nx-s1-5965831/american-scoundrel-traces-roy-cohns-playbook-from-mccarthyism-to-trump",
+   "summary": "In Kai Bird's biography of Cohn, he looks at how the lawyer taught Trump how to deny, delay, attack, sue and countersue, never admit defeat, side-step paying bills and avoid a paper trail.",
+   "published": "2026-09-17T16:14:06+00:00",
+   "source": "NPR Politics",
+   "source_id": "npr-politics",
+   "bias_note": "center",
+   "first_seen": "2026-09-17T18:18:03.451597+00:00"
+  },
+  {
+   "id": "6c73a0a6e7d17fa9",
+   "title": "Fraud mastermind behind multimillion-dollar Ponzi scheme that victimized Travis Kelce is illegal immigrant",
+   "url": "https://www.foxnews.com/politics/fraud-mastermind-multi-million-dollar-ponzi-scheme-victimized-travis-kelce-illegal-immigrant",
+   "summary": "Siddharth Jawahar, an illegal immigrant from India, was sentenced to 11 years for a $35 million Ponzi scheme that victimized Travis Kelce and NBA stars.",
+   "published": "2026-09-17T15:51:59+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-17T18:18:02.771669+00:00"
+  },
+  {
+   "id": "4311baa19e3284a3",
+   "title": "Withdrawals Sent to the Senate",
+   "url": "https://www.whitehouse.gov/presidential-actions/2026/09/withdrawals-sent-to-the-senate/",
+   "summary": "WITHDRAWALS SENT TO THE SENATE: Jeffrey Anderson, of Georgia, to be Representative of the United States of America on the Council of the International Civil Aviation Organization, with the rank of Ambassador, which was sent to the Senate on January 13, 2026. John Grunewald II, of Oklahoma, to be a Member of the Farm Credit [&#8230;]\nThe post Withdrawals Sent to the Senate appeared first on The White House.",
+   "published": "2026-09-17T15:48:13+00:00",
+   "source": "WhiteHouse.gov News",
+   "source_id": "whitehouse",
+   "bias_note": "official/primary-source",
+   "first_seen": "2026-09-17T18:18:03.017454+00:00"
+  },
+  {
+   "id": "23941e9ae6cf13d5",
+   "title": "House Republican releases campaign ad critical of Trump\u2019s immigration policies",
+   "url": "https://www.theguardian.com/us-news/2026/sep/17/republican-maria-elvira-salazar-campaign-ad-trump-immigration",
+   "summary": "Mar\u00eda Elvira Salazar says some enforcement has \u2018gone too far\u2019 as GOP seeks distance from Trump before midtermsA Republican congresswoman has released a campaign ad criticizing Donald Trump\u2019s approach to immigration enforcement, in the latest sign that a key plank of the president\u2019s 2024 re-election campaign has become a liability for his congressional allies ahead of November\u2019s midterm elections.\u201cMr President, some of your immigration enforcement efforts have gone too far,\u201d Florida\u2019s Mar\u00eda Elvira Salazar says in a 30-second ad. \u201cIn July, 50% of the 50,000 people that were detained had no crimi",
+   "published": "2026-09-17T15:37:53+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-09-17T18:18:03.689094+00:00"
+  },
   {
    "id": "276daa7068a1ec9e",
    "title": "Kennedy Center director says closure will last 1 week 'unless extended'",
@@ -10429,160 +10616,6 @@
    "source_id": "abc-politics",
    "bias_note": "center",
    "first_seen": "2026-09-03T21:05:45.051531+00:00"
-  },
-  {
-   "id": "2710243b9beea959",
-   "title": "ICE officer faces federal charges for lying over shooting of Venezuelan immigrant",
-   "url": "https://www.npr.org/2026/09/03/nx-s1-5955654/justice-department-charges-castro-ice-officer",
-   "summary": "The charges represent a rare moment of the Justice Department seeking to hold immigration officers accountable.",
-   "published": "2026-09-03T18:14:53+00:00",
-   "source": "NPR Politics",
-   "source_id": "npr-politics",
-   "bias_note": "center",
-   "first_seen": "2026-09-03T21:05:43.705987+00:00"
-  },
-  {
-   "id": "adaa1a58bbfabdbf",
-   "title": "Feds bust LGBT podcaster, former Christian reality TV star for alleged threats to kill Trump",
-   "url": "https://www.foxnews.com/politics/feds-bust-lgbt-podcaster-former-christian-reality-tv-star-alleged-threats-kill-trump",
-   "summary": "Benjamin Azariah Southworth allegedly posted videos calling for President Donald Trump&apos;s assassination and targeted the family of his attorney.",
-   "published": "2026-09-03T18:02:00+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-09-03T21:05:43.076660+00:00"
-  },
-  {
-   "id": "625c067743e2f0af",
-   "title": "ICE whistleblower: Agency cut corners to fill ranks",
-   "url": "https://thehill.com/homenews/administration/6069572-ice-hiring-whistleblower-dhs-oig/",
-   "summary": "A U.S. Immigration and Customs Enforcement (ICE) official warned the agency about cutting corners in vetting officer candidates as the agency surged its hiring under the Trump administration. The whistleblower report filed last August cited significant issues in how the department was reviewing its new hires, including making offers to candidates who had not yet...",
-   "published": "2026-09-03T17:29:12+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-03T17:53:06.377238+00:00"
-  },
-  {
-   "id": "730657e06f0faf80",
-   "title": "Tucker Carlson: El-Sayed campaign 'literally Trumpian'",
-   "url": "https://thehill.com/homenews/media/6069453-tucker-carlson-el-sayed-campaign-trumpian/",
-   "summary": "Right-wing media personality Tucker Carlson described Michigan Democratic Senate candidate Abdul El-Sayed\u2019s campaign as \"literally Trumpian\u201d in his podcast episode released Wednesday. During an interview with conservative commentator Saagar Enjeti's, the pair discussed the Michigan senate race between El-Sayed and his GOP opponent, former Rep. Mike Rogers (R-Mich.). \u201cI watch his campaign now, America First,\u201d...",
-   "published": "2026-09-03T17:29:07+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-03T17:53:06.377249+00:00"
-  },
-  {
-   "id": "57ef127599f21d73",
-   "title": "GOP Sen Thom Tillis urges Trump to replace Pete Hegseth, blasts Pentagon leadership",
-   "url": "https://www.foxnews.com/politics/gop-sen-thom-tillis-urges-trump-replace-pete-hegseth-blasts-pentagon-leadership",
-   "summary": "Sen. Tillis called for President Trump to replace War Secretary Pete Hegseth, accusing the Pentagon chief of &quot;creating a leadership void at the top of our military ranks.&quot;",
-   "published": "2026-09-03T17:26:30+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-09-03T17:53:04.776812+00:00"
-  },
-  {
-   "id": "6641c03302486389",
-   "title": "FAA proposes permanent flight restrictions over Mar-a-Lago",
-   "url": "https://thehill.com/policy/transportation/6069490-faa-proposed-mar-a-lago-restrictions/",
-   "summary": "The Federal Aviation Administration (FAA) proposed a new rule Wednesday that would place permanent restrictions on what flights are permitted within a one-mile radius of Mar-a-Lago.\u00a0 The proposed rule would \u201cestablish a flight restriction from the surface to 2,000 feet\u201d above mean sea level \u201cwithin a one NM radius of Mar-a-Lago Club.\u201d These were temporary...",
-   "published": "2026-09-03T17:24:12+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-03T17:53:06.377257+00:00"
-  },
-  {
-   "id": "1b0e90570cbaccfc",
-   "title": "Donald Trump\u2019s shallow renaming of the Great Lakes | Letters",
-   "url": "https://www.theguardian.com/us-news/2026/sep/03/donald-trumps-shallow-renaming-of-the-great-lakes",
-   "summary": "Readers respond to the Trump administration\u2019s decision to change Lake Ontario to \u2018Lake America\u2019I think too much is being made of this (Apple Maps renames Lake Ontario as \u2018Lake America\u2019 for US users after Trump order, 2 August). It is common for geographical features straddling borders to receive different names in different&nbsp;jurisdictions.Consider, for example, Lac L\u00e9man and the Bodensee, La Manche and Les \u00celes Malouines. Wales has only recently reclaimed Yr Wyddfa and Bannau Brycheiniog, and for a reminder and dramatisation of how renaming played out in Ireland, look no further than Brian",
-   "published": "2026-09-03T16:52:07+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-09-03T17:53:05.111056+00:00"
-  },
-  {
-   "id": "0b4d329653ab2225",
-   "title": "Jennings: Trump should release 'formal declaration of victory' for Iran war",
-   "url": "https://thehill.com/homenews/administration/6069225-scott-jennings-donald-trump-iran-war-victory-declaration/",
-   "summary": "Conservative commentator Scott Jennings said Wednesday that President Trump should issue a \"formal declaration of victory\" against Iran, as the Trump administration seeks to financially hamper the regime and its allies amid tit-for-tat strikes in the Middle East. Jennings responded to remarks made by fellow CNN political commentator Xochitl Hinojosa on \"The Arena with Kasie...",
-   "published": "2026-09-03T16:51:54+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-03T17:53:06.377303+00:00"
-  },
-  {
-   "id": "160bb489c2e7701c",
-   "title": "Vance gives briefing room another whirl",
-   "url": "https://thehill.com/newsletters/1230-report/6069360-vance-gives-briefing-room-another-whirl/",
-   "summary": "\u2640\ufe0f Plus: Rest in peace, Gloria Steinem {beacon} &#8202; It\u2019s Thursday. The deadlocked Lindsay Clancy jury is set to deliberate for the sixth day after it was unable to come to a unanimous decision on Wednesday. &#8202; In today's issue: Vance to hold White House press briefing  The government is funded through the midterms  Hegseth faces backlash  Women weigh in on Gloria Steinem  Programming note: We\u2019re Abigail...",
-   "published": "2026-09-03T16:32:00+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-03T17:53:06.377321+00:00"
-  },
-  {
-   "id": "0b921d1a8d3202ad",
-   "title": "Trump defends handling of US munitions amid Iran conflict",
-   "url": "https://thehill.com/homenews/administration/6069276-trump-claims-unlimited-ammunition/",
-   "summary": "President Trump on Thursday said the U.S. has \u201cvirtually unlimited\u201d amounts of mid- to high-grade munitions, pushing back on reports of the Pentagon depleting its stockpiles in the Iran war. In a post on Truth Social, Trump called journalists who report on U.S. munitions shortages \u201ctreasonous SCUM,\u201d saying the country has \u201cvirtually unlimited amounts of...",
-   "published": "2026-09-03T16:31:17+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-03T17:53:06.377338+00:00"
-  },
-  {
-   "id": "ebed85eccbd99779",
-   "title": "North Korea's threat to moral norms",
-   "url": "https://thehill.com/opinion/international/6068141-trump-north-korea-human-rights/",
-   "summary": "Author Aaron Rhodes argues that President Trump's diplomatic overtures toward North Korea and the proposed Peace on the Korean Peninsula Act risk legitimizing the regime's systemic human rights violations and corruption of international moral standards.",
-   "published": "2026-09-03T16:30:00+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-03T17:53:06.377341+00:00"
-  },
-  {
-   "id": "26b992fd0f6c3c58",
-   "title": "WATCH LIVE: Vance holds White House briefing after Leavitt's departure",
-   "url": "https://www.pbs.org/newshour/politics/watch-live-vance-holds-white-house-briefing-after-leavitts-departure",
-   "summary": "President Donald Trump urged Republican lawmakers facing tough reelection campaigns to run on his record in the White House despite his sagging popularity, and he pledged to campaign in all of the roughly three dozen contests that are likely to determine control of Congress.",
-   "published": "2026-09-03T15:52:56+00:00",
-   "source": "PBS NewsHour Politics",
-   "source_id": "pbs-politics",
-   "bias_note": "center",
-   "first_seen": "2026-09-03T17:53:06.527517+00:00"
-  },
-  {
-   "id": "ce06e8745f0de7b1",
-   "title": "Federal judge considers whether to extend ban against U.S. Postal Service mail voting changes",
-   "url": "https://www.pbs.org/newshour/politics/federal-judge-considers-whether-to-extend-ban-against-u-s-postal-service-mail-voting-changes",
-   "summary": "U.S. District Court Judge Indira Talwani is deciding whether to extend her prohibition on the proposed regulation of mail ballots, an effort undertaken as part of an executive order by President Donald Trump.",
-   "published": "2026-09-03T15:41:17+00:00",
-   "source": "PBS NewsHour Politics",
-   "source_id": "pbs-politics",
-   "bias_note": "center",
-   "first_seen": "2026-09-03T17:53:06.527524+00:00"
-  },
-  {
-   "id": "a5ec37baa2ccdef6",
-   "title": "Trump promises to campaign for Republicans and says they have a winning midterm message",
-   "url": "https://www.pbs.org/newshour/politics/trump-promises-to-campaign-for-republicans-and-says-they-have-a-winning-midterm-message",
-   "summary": "Voters' dim views of the economy and the war in Iran have put Republicans in a tough spot as the midterm election season enters its final stretch.",
-   "published": "2026-09-03T15:36:58+00:00",
-   "source": "PBS NewsHour Politics",
-   "source_id": "pbs-politics",
-   "bias_note": "center",
-   "first_seen": "2026-09-03T17:53:06.527528+00:00"
   }
  ]
 }
