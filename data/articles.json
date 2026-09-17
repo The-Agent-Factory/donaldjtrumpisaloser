@@ -1,7 +1,139 @@
 {
- "updated": "2026-09-17T13:32:26.271311+00:00",
- "count": 956,
+ "updated": "2026-09-17T15:27:48.399630+00:00",
+ "count": 962,
  "articles": [
+  {
+   "id": "276daa7068a1ec9e",
+   "title": "Kennedy Center director says closure will last 1 week 'unless extended'",
+   "url": "https://thehill.com/regulation/court-battles/6095544-kennedy-center-emergency-repairs-closure-justice-department/",
+   "summary": "The Kennedy Center\u2019s main building will be closed for at least a week for emergency repairs, its executive director said in court filings on Thursday, as the Department of Justice (DOJ) insists the move is unrelated to the Trump-aligned board\u2019s decision to pursue long-term renovations. Executive Director Matt Floca wrote in a court declaration that...",
+   "published": "2026-09-17T15:14:56+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-17T15:27:47.792156+00:00"
+  },
+  {
+   "id": "32327f7cd76b0c42",
+   "title": "Trump\u2019s $5K checks could join stack of past unfulfilled promises, former Congress budget chief warns",
+   "url": "https://www.foxnews.com/politics/trumps-5k-checks-could-join-stack-past-unfulfilled-promises-former-congress-budget-chief-warns",
+   "summary": "President Donald Trump&apos;s $5,000 tariff checks and DOGE savings promises are unlikely to arrive, says former CBO Director Douglas Holz-Eakin.",
+   "published": "2026-09-17T15:14:18+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-17T15:27:47.050556+00:00"
+  },
+  {
+   "id": "cc9dee7601628764",
+   "title": "Trump: Surging gas costs are 'very inexpensive price to pay' for Iran war",
+   "url": "https://thehill.com/homenews/state-watch/6095554-trump-gasoline-prices-iran-war/",
+   "summary": "President Trump referred to surging gas prices as a small \u201cprice to pay\u201d for the U.S. war in Iran while speaking to a crowd of supporters Wednesday in North Carolina.\u00a0 \u201cIt\u2019s a very inexpensive price to pay for what we've done. Remember that. It's a little more. Frankly, even if it was a lot more,\u201d...",
+   "published": "2026-09-17T15:04:17+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-17T15:27:47.792179+00:00"
+  },
+  {
+   "id": "c1189f558ebc511e",
+   "title": "Jimmy Kimmel on Trump\u2019s second term: \u2018Has anyone ever done a worse job?\u2019",
+   "url": "https://www.theguardian.com/culture/2026/sep/17/jimmy-kimmel-trump-hegseth-don-jr-wedding",
+   "summary": "Late-night hosts discussed Trump\u2019s midterm bribes, Pete Hegseth\u2019s \u2018grooming standards\u2019 and Don Jr\u2019s wedding bankrolled by a Russian oligarchLate-night hosts dug into Donald Trump\u2019s attempts to sway the upcoming midterms and the Russian oligarch who bankrolled his son Donald Trump Jr\u2019s second wedding. Continue reading...",
+   "published": "2026-09-17T14:55:30+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-09-17T15:27:47.565759+00:00"
+  },
+  {
+   "id": "8d8d3c24b143b7b0",
+   "title": "Trump arch could have \u2018adverse effects\u2019 on nearby DC monuments, US park service says",
+   "url": "https://www.theguardian.com/us-news/2026/sep/17/trump-arch-dc-monuments",
+   "summary": "National Park Service lays out concerns that planned 250ft arch could interfere with historic sites in US capital Donald Trump\u2019s desired triumphal arch in downtown Washington DC will likely contribute \u201cto adverse effects to historic properties\u201d, according to the National Park Service\u2019s planning document, but the construction is still planned to go forward.The president\u2019s 250ft arch could interfere with some of the most well-known views in the nation\u2019s capital, including the symbolic relationship between Arlington House, the Arlington National Cemetery, the Arlington Memorial Bridge and the Lin",
+   "published": "2026-09-17T14:46:53+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-09-17T15:27:47.565769+00:00"
+  },
+  {
+   "id": "7adf9f71d5619b98",
+   "title": "Kaepernick: Van Jones tried to broker a meeting between Trump, former QB",
+   "url": "https://thehill.com/policy/sports-gaming/6095274-kaepernick-rejects-van-jones-trump-meeting-attempt/",
+   "summary": "Former NFL quarterback Colin Kaepernick revealed Wednesday that CNN analyst and former Obama administration adviser Van Jones attempted to broker a meeting between the football player and President Trump. Appearing on a MediasTouch podcast, host Ben Meiselas asked Kaepernick about a \u201cBlack Summit\u201d the former San Francisco 49ers quarterback was invited to during Trump\u2019s first...",
+   "published": "2026-09-17T14:40:24+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-17T15:27:47.792241+00:00"
+  },
+  {
+   "id": "73c52449072f1ab7",
+   "title": "Watch live: House Democrats make their case as midterms draw closer",
+   "url": "https://thehill.com/video-clips/6095054-watch-live-house-democrats-midterms-messaging-affordability/",
+   "summary": "House Minority Leader Hakeem Jeffries (D-N.Y.) and Democratic leaders will speak with reporters Thursday morning as the midterm cycle enters the final stretch. The press conference comes as Democrats wrestle with the GOP for control of Congress next year. The left has leaned heavily on messaging that counters President Trump\u2019s agenda, from pushing back against...",
+   "published": "2026-09-17T14:36:32+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-17T15:27:47.792246+00:00"
+  },
+  {
+   "id": "88b315441c20218d",
+   "title": "Trump administration allows truck drivers hauling gas, diesel to work longer hours",
+   "url": "https://thehill.com/policy/energy-environment/6095013-trump-administration-gas-diesel-truck-drivers-hours/",
+   "summary": "Transportation Secretary Sean Duffy announced Wednesday the Trump administration will temporarily increase how long gas and diesel truck drivers can drive, as fuel costs remain elevated amid the Iran war. Under the 90-day waiver from the Federal Motor Carrier Safety Administration (FMCSA), truck drivers hauling gasoline and diesel can drive for up to 16 hours...",
+   "published": "2026-09-17T14:32:12+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-17T15:27:47.792249+00:00"
+  },
+  {
+   "id": "cff720cb6c03169f",
+   "title": "Presidential Message on National Hispanic Heritage Month",
+   "url": "https://www.whitehouse.gov/briefings-statements/2026/09/presidential-message-on-national-hispanic-heritage-month/",
+   "summary": "During National Hispanic Heritage Month, we honor the innumerable achievements and vast contributions of Hispanic Americans, whose strength, character, and devotion to our country continue to make America the greatest and most prosperous Nation in the world.&#160; For centuries, Hispanic Americans have shaped the fabric of our culture, strengthened our most cherished institutions, and advanced [&#8230;]\nThe post Presidential Message on National Hispanic Heritage Month appeared first on The White House.",
+   "published": "2026-09-17T14:19:32+00:00",
+   "source": "WhiteHouse.gov News",
+   "source_id": "whitehouse",
+   "bias_note": "official/primary-source",
+   "first_seen": "2026-09-17T15:27:47.168900+00:00"
+  },
+  {
+   "id": "8c46e3eff8701faf",
+   "title": "Leaked Trump plan sparks GOP showdown over how far Republicans should go to support families",
+   "url": "https://www.foxnews.com/politics/leaked-trump-plan-sparks-gop-showdown-over-how-far-republicans-should-go-support-families",
+   "summary": "The Trump admin&apos;s $9,000 stay-at-home parent proposal sparks a fierce conservative divide, with some critics calling it socialism and a slippery slope.",
+   "published": "2026-09-17T14:04:09+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-17T15:27:47.050581+00:00"
+  },
+  {
+   "id": "b3673a3f307e0aa7",
+   "title": "Trump's mass deportations led to a big drop in fentanyl investigations, report finds. Here's what to know",
+   "url": "https://www.pbs.org/newshour/nation/trumps-mass-deportations-led-to-a-big-drop-in-fentanyl-investigations-report-finds-heres-what-to-know",
+   "summary": "The Department of Homeland Security's focus on mass deportations resulted in a dramatic drop in investigations into illicit fentanyl, according to a federal watchdog report.",
+   "published": "2026-09-17T14:03:38+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-09-17T15:27:47.835554+00:00"
+  },
+  {
+   "id": "5b2e116383af87e4",
+   "title": "Democrats reluctantly hand Trump major victory on fraud program targeting Tim Walz",
+   "url": "https://www.foxnews.com/politics/democrats-reluctantly-hand-trump-major-victory-key-program-targeting-tim-walz",
+   "summary": "Hakeem Jeffries and over 140 House Democrats joined Republicans to make Trump&apos;s National Fraud Enforcement Division permanent in a 352-72 vote.",
+   "published": "2026-09-17T13:29:59+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-17T15:27:47.050585+00:00"
+  },
   {
    "id": "1f36c98f0e7dd558",
    "title": "\u2018So many loopholes\u2019: Democratic House leader Jeffries flags concerns over Russia sanctions bill \u2013 US politics live",
@@ -10451,72 +10583,6 @@
    "source_id": "pbs-politics",
    "bias_note": "center",
    "first_seen": "2026-09-03T17:53:06.527528+00:00"
-  },
-  {
-   "id": "a0ba6041082fa188",
-   "title": "Federal judge considers whether to extend ban on USPS mail ballot changes",
-   "url": "https://www.theguardian.com/us-news/2026/sep/03/federal-judge-usps-mail-ballot-changes",
-   "summary": "Judge says US Postal Service has told her nothing about how it plans to regulate mail ballots for midterm electionsA federal judge in Boston said on Thursday the US Postal Service had told her nothing about how it would implement a plan to regulate mail ballots for the midterms as she considers whether to let the plan proceed in the weeks before election day.US district court judge Indira Talwani is deciding whether to extend her prohibition on the proposed regulation of mail ballots, an effort undertaken as part of an executive order by Donald Trump. The hearing in the closely watched case ca",
-   "published": "2026-09-03T14:50:58+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-09-03T17:53:05.111078+00:00"
-  },
-  {
-   "id": "9aede525663082e3",
-   "title": "Court halts Trump effort to help Congress overturn California clean car rules",
-   "url": "https://thehill.com/policy/transportation/6068923-california-clean-car-rules-epa-cra/",
-   "summary": "A federal judge late Wednesday temporarily blocked a Trump administration effort to overturn California\u2019s clean car rules through Congress. Judge Beryl Howell, an Obama appointee, blocked an Environmental Protection Agency (EPA) move that would have allowed Congress and President Trump to overturn California rules related to vehicle and lawn equipment emissions.  In years past, the...",
-   "published": "2026-09-03T14:45:19+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-03T14:54:47.026266+00:00"
-  },
-  {
-   "id": "4261658719f911c3",
-   "title": "US commerce secretary erroneously said no Americans have died in Iran war, Trump claims",
-   "url": "https://www.theguardian.com/world/2026/sep/03/howard-lutnick-iran-war-deaths-trump",
-   "summary": "President said Howard Lutnick had Venezuela operation on his mind when he was discussing Iran war on CNBCDonald Trump has claimed his commerce secretary, Howard Lutnick, erroneously stated that no Americans had been killed in the war with Iran because he was thinking about a previous US operation, in Venezuela.The claim, at odds with the Pentagon\u2019s count of 18 US service members dead in the US-Israel war on Iran, sparked a swift backlash as Trump struggles to end the conflict after six months. Continue reading...",
-   "published": "2026-09-03T14:38:40+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-09-03T14:54:45.536489+00:00"
-  },
-  {
-   "id": "2e86a49613c1ffbb",
-   "title": "House Republican 'pretty sure' Lake Ontario name change 'a troll'",
-   "url": "https://thehill.com/homenews/house/6068874-tenney-calls-lake-america-troll/",
-   "summary": "Rep. Claudia Tenney (R-N.Y.) said President Trump\u2019s decision to change the name of Lake Ontario to \"Lake America\" is likely a \u201ctroll,\u201d casting doubt on whether the new name will stick even as the federal government and major mapping services move to adopt it. \u201cI\u2019m pretty sure this is a troll,\u201d Tenney, whose district covers...",
-   "published": "2026-09-03T14:35:00+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-03T14:54:47.026289+00:00"
-  },
-  {
-   "id": "eebd6dfb3221088f",
-   "title": "Trump: 'I don't wear a wig'",
-   "url": "https://thehill.com/homenews/administration/6068447-trump-denies-wig-allegations/",
-   "summary": "President Trump denied allegations Wednesday that he wore a wig, citing an incident in 2024 where he faced windy weather. During a speech at the White House Rose Garden dinner, Trump recalled when he spoke at a campaign rally in 2024 for Sen. Bernie Moreno (R-Ohio), where he faced \"the worst weather I think I've...",
-   "published": "2026-09-03T14:09:13+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-03T14:54:47.026374+00:00"
-  },
-  {
-   "id": "a41a25c6a7315bee",
-   "title": "Trump's campaign funding colossus is the midterms' biggest unknown",
-   "url": "https://thehill.com/opinion/white-house/6067311-trump-midterm-spending-power/",
-   "summary": "The Republicans\u2019 cash advantage is staggering.",
-   "published": "2026-09-03T14:00:00+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-03T14:54:47.026396+00:00"
   }
  ]
 }
