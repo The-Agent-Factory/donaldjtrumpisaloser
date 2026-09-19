@@ -1,7 +1,139 @@
 {
- "updated": "2026-09-19T07:22:55.757725+00:00",
- "count": 980,
+ "updated": "2026-09-19T12:32:27.890700+00:00",
+ "count": 983,
  "articles": [
+  {
+   "id": "55f4cd7289684b56",
+   "title": "This swing state Republican keeps distancing himself from Trump. It may not save him in the midterms",
+   "url": "https://abcnews.com/Politics/wireStory/swing-state-republican-distancing-trump-save-midterms-136583480",
+   "summary": "It&rsquo;s hard to imagine a Republican who&rsquo;s done more to draw a sharp contrast with the president than Brian Fitzpatrick",
+   "published": "2026-09-19T12:26:44+00:00",
+   "source": "ABC News Politics",
+   "source_id": "abc-politics",
+   "bias_note": "center",
+   "first_seen": "2026-09-19T12:32:27.686342+00:00"
+  },
+  {
+   "id": "4396ad028d75768a",
+   "title": "Missouri woman federally indicted over chilling death threats sent to Austin Metcalf's family",
+   "url": "https://www.foxnews.com/us/missouri-woman-federally-indicted-chilling-death-threats-austin-metcalf-family",
+   "summary": "Sharifa Nicole Henderson faces federal indictment after allegedly sending death threats to Austin Metcalf&apos;s family following Karmelo Anthony&apos;s conviction.",
+   "published": "2026-09-19T12:14:57+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-19T12:32:26.439013+00:00"
+  },
+  {
+   "id": "daffa7153371fa78",
+   "title": "Hispanic voters\u2019 support for Trump wanes over economy and immigration",
+   "url": "https://www.theguardian.com/us-news/2026/sep/19/hispanic-voters-support-trump-immigration-economy",
+   "summary": "Polls show voters who helped elect president unhappy \u2013 and may be willing to vote Democrat in midtermsHispanic voters who helped re-elect Donald Trump in 2024 are discontent with his second-term economic and immigration policies, according to recent polling \u2013 indicating they may not be willing to support the president\u2019s party in the midterm elections.Despite a record number of Hispanic voters casting their ballots for the Republican president, more than 65% said they are displeased with Trump\u2019s handling of his job and 78% said they would prefer to see the Democratic party in control of Congres",
+   "published": "2026-09-19T12:00:48+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-09-19T12:32:26.986403+00:00"
+  },
+  {
+   "id": "0bc359d82914cbec",
+   "title": "BROADCAST BIAS: Networks embrace their latest form of panic \u2013 the AI apocalypse",
+   "url": "https://www.foxnews.com/opinion/broadcast-bias-networks-embrace-latest-form-panic-ai-apocalypse",
+   "summary": "Savannah Guthrie, David Muir and Tom Llamas led doomsday AI warnings on broadcast news as Trump dismissed extinction fears as a &quot;hoax,&quot; deepening the debate.",
+   "published": "2026-09-19T12:00:23+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-19T12:32:26.439066+00:00"
+  },
+  {
+   "id": "8439d79bf9f19125",
+   "title": "Week in Politics: Trump bans news outlets; Iran War; mail-in voting; interest rates",
+   "url": "https://www.npr.org/2026/09/19/nx-s1-5973250/week-in-politics-trump-bans-news-outlets-iran-war-mail-in-voting-interest-rates",
+   "summary": "The Trump administration was frustrated both home and abroad this week.",
+   "published": "2026-09-19T11:46:46+00:00",
+   "source": "NPR Politics",
+   "source_id": "npr-politics",
+   "bias_note": "center",
+   "first_seen": "2026-09-19T12:32:26.942885+00:00"
+  },
+  {
+   "id": "838fa98a1ae2e496",
+   "title": "Kevin Warsh may be the adult in the room. But can he calm the US economy?",
+   "url": "https://www.theguardian.com/business/2026/sep/19/kevin-warsh-interest-rate-hike",
+   "summary": "Fed chair presided over unanimous decision to raise interest rates despite intense campaign from White HouseIn the end, Kevin Warsh\u2019s Federal Reserve acquitted itself well. For all the uncertainty he had sparked at the previous meeting of the Federal Open Market Committee, when he refused to provide any indication of what he was prepared to do to tame stubborn inflation, the chair on Wednesday presided over a unanimous decision to raise interest rates for the first time in three years.\u201cToday\u2019s action starts to show that we\u2019re serious about this,\u201d he said at the press conference after the meeti",
+   "published": "2026-09-19T11:00:45+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-09-19T12:32:26.986425+00:00"
+  },
+  {
+   "id": "499a1df6c84632f1",
+   "title": "China bogeyman looms large over American firms\u2019 AI doomsday scenario",
+   "url": "https://www.theguardian.com/technology/ng-interactive/2026/sep/19/china-ai-foreign-policy-dario-amodei",
+   "summary": "Silicon Valley China hawks, Anthropic CEO Dario Amodei among them, fear the country surpassing US\u2019s AI lead as much as superintelligence destroying humanityWhen reporters asked Donald Trump this week if he supported calls to slow down the development of artificial intelligence out of growing fears for cybersecurity, public safety and the fate of humanity, he said no. His argument: China.\u201cWe\u2019re leading China in AI,\u201d Trump said. \u201cWe\u2019re the most sophisticated country in the world, and frankly, I want to \u2060keep it that way, because whoever wins AI, wins.\u201d Continue reading...",
+   "published": "2026-09-19T10:00:45+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-09-19T12:32:26.986433+00:00"
+  },
+  {
+   "id": "0dcb9a79cb172f9b",
+   "title": "Trump ally Stephen Miller leads sweeping push to accelerate removal of migrant children",
+   "url": "https://www.theguardian.com/us-news/2026/sep/19/stephen-miller-trump-migrant-children",
+   "summary": "Exclusive: key White House loyalist orchestrating multi-agency effort condemned by critics as cruel and racistStephen Miller is leading an unprecedented and intense White House drive across a host of government departments to accelerate the removal of undocumented immigrant children from the US, using tactics that critics say are cruel and racist and, in some cases, flout federal law, the Guardian has learned.As deputy chief of staff at the White House, focused on immigration policy, Miller is seen as the mastermind and enforcer behind Donald Trump\u2019s hardline anti-immigration agenda. Continue ",
+   "published": "2026-09-19T10:00:45+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-09-19T12:32:26.986439+00:00"
+  },
+  {
+   "id": "db10c3225c6632bd",
+   "title": "Clancy holdout juror taps former Trump lawyer to fight back as he\u2019s \u2018dragged through the mud\u2019: attorney",
+   "url": "https://www.foxnews.com/us/clancy-holdout-juror-taps-former-trump-lawyer-fight-back-hes-dragged-through-mud-attorney",
+   "summary": "Michael P. Desronvil, the lone holdout juror in the Lindsay Clancy mistrial, has retained Edward Paltzik, a lawyer known for representing Trump.",
+   "published": "2026-09-19T10:00:42+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-19T12:32:26.439117+00:00"
+  },
+  {
+   "id": "43b2e0fd2d715a6b",
+   "title": "Iowa has become tricky territory for GOP in midterm election homestretch",
+   "url": "https://thehill.com/homenews/campaign/6099069-iowa-gop-trump-midterm-strategy/",
+   "summary": "Iowa Republicans are being presented with the difficult choice of embracing President Trump in the final stretch of the midterms as Democrats seek to tie them to the administration. The dynamic was on full display in Council Bluffs on Friday, when Iowa gubernatorial candidate Zach Lahn joined Vice President Vance on the campaign trail, but...",
+   "published": "2026-09-19T10:00:00+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-19T12:32:27.236601+00:00"
+  },
+  {
+   "id": "40e3b2630352b141",
+   "title": "Carney\u2019s Euro trip inflames Trump tensions",
+   "url": "https://thehill.com/policy/international/6098760-trump-carney-eu-trade-tension/",
+   "summary": "The tension between President Trump and Canadian Prime Minister Mark Carney has only intensified amid the latter\u2019s cozying up with the European Union (EU) on a high-profile trip this week.\u00a0 The relationship between the U.S. and Canada has been increasingly strained due to tit-for-tat tariffs on American and Canadian goods and Trump\u2019s renaming of Lake...",
+   "published": "2026-09-19T10:00:00+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-19T12:32:27.236610+00:00"
+  },
+  {
+   "id": "8e3f1da1aeca1f87",
+   "title": "\u201cOur Dear Friend Umar\u201d: How We Uncovered That a Russian Oligarch Bankrolled Donald Trump Jr.\u2019s Wedding",
+   "url": "https://www.propublica.org/article/donald-trump-jr-wedding-umar-kremlev-reporting",
+   "summary": "The post \u201cOur Dear Friend Umar\u201d: How We Uncovered That a Russian Oligarch Bankrolled Donald Trump Jr.\u2019s Wedding appeared first on ProPublica.",
+   "published": "2026-09-19T09:00:00+00:00",
+   "source": "ProPublica",
+   "source_id": "propublica",
+   "bias_note": "investigative",
+   "first_seen": "2026-09-19T12:32:27.417541+00:00"
+  },
   {
    "id": "0bad27711456057c",
    "title": "NAACP sues to block Trump administration from sending armed agents to polls",
@@ -10682,105 +10814,6 @@
    "source_id": "thehill",
    "bias_note": "center",
    "first_seen": "2026-09-05T13:44:27.538418+00:00"
-  },
-  {
-   "id": "ac2830415254ce6b",
-   "title": "Trump's signs order allowing ranchers to kill wolves to protect herds",
-   "url": "https://thehill.com/homenews/administration/6072956-gray-wolf-endangered-protections-beef-prices/",
-   "summary": "President Trump signed an executive order Friday directing the Interior Department to assess whether gray wolves should lose their endangered-species protections as part of his administration\u2019s efforts to address livestock depletion and bring down domestic beef prices.\u00a0 The president also ordered the Interior and Agriculture departments to allow ranchers to kill these animals, if necessary,...",
-   "published": "2026-09-05T12:14:01+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-05T13:44:27.538438+00:00"
-  },
-  {
-   "id": "7487b842cbb9eee0",
-   "title": "Missouri asks Supreme Court to restore GOP-friendly congressional map",
-   "url": "https://thehill.com/regulation/court-battles/6072940-missouri-redistricting-gop-map-supreme-court/",
-   "summary": "Missouri launched an effort at the Supreme Court late Friday to restore its Republican-friendly congressional map, warning that a lower ruling invalidating it has unleashed \u201cunprecedented chaos\u201d on the midterms.  \u201cA federal-election-administration disaster is unfolding in Missouri,\u201d Missouri Attorney General Catherine Hanaway\u2019s (R) office wrote in its emergency application. Missouri\u2019s new congressional map created a...",
-   "published": "2026-09-05T11:45:47+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-05T13:44:27.538449+00:00"
-  },
-  {
-   "id": "38b829b5207201da",
-   "title": "Trump administration to dig at triumphal arch site despite no final federal approvals",
-   "url": "https://www.npr.org/2026/09/05/nx-s1-5957875/trump-administration-to-dig-at-triumphal-arch-site-despite-no-final-federal-approvals",
-   "summary": "The Trump administration says it will break ground on a 250-foot triumphal arch in Washington, D.C., without final federal approval and despite an ongoing lawsuit.",
-   "published": "2026-09-05T11:43:24+00:00",
-   "source": "NPR Politics",
-   "source_id": "npr-politics",
-   "bias_note": "center",
-   "first_seen": "2026-09-05T13:44:26.184759+00:00"
-  },
-  {
-   "id": "d8aadd7cb3aa8c86",
-   "title": "Week in Politics: Trump's face on the coin; reshaping the capital; the midterms",
-   "url": "https://www.npr.org/2026/09/05/nx-s1-5957499/week-in-politics-trumps-face-on-the-coin-reshaping-the-capital-the-midterms",
-   "summary": "President Trump is the first living president to have his face on a coin. He's also reshaping Washington in his image, and working to influence midterm elections.",
-   "published": "2026-09-05T11:43:22+00:00",
-   "source": "NPR Politics",
-   "source_id": "npr-politics",
-   "bias_note": "center",
-   "first_seen": "2026-09-05T13:44:26.184767+00:00"
-  },
-  {
-   "id": "da642109cdf254d4",
-   "title": "Even in safe-haven Massachusetts, trans care is at risk. Young people are fighting to protect it",
-   "url": "https://www.theguardian.com/us-news/2026/sep/05/massachusetts-trans-care-protections",
-   "summary": "Activists are calling on the state attorney general to take action against hospitals that have ended gender-affirming care programs after Trump retook officeA group of trans activists from across Massachusetts brought their needles, hormone gels, pills and sharps containers to Boston on Wednesday to send a message to state attorney general Andrea Campbell.Organizers with the youth-led group Protect Trans Futures (PTF) took their hormone replacement therapy (HRT) in the lobby of her office building, then occupied the space, refusing to leave without a commitment to protect civil rights for tran",
-   "published": "2026-09-05T11:30:34+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-09-05T13:44:26.377833+00:00"
-  },
-  {
-   "id": "83aae21b15fed5f2",
-   "title": "Trump\u2019s Pentagon shake-up revives a presidential power play with a long history",
-   "url": "https://www.foxnews.com/politics/trumps-pentagon-shake-up-revives-presidential-power-play-long-history",
-   "summary": "Dan Driscoll&apos;s exit as Army secretary intensifies debate over whether Trump&apos;s Pentagon overhaul strengthens or destabilizes military leadership.",
-   "published": "2026-09-05T11:00:48+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-09-05T13:44:25.220037+00:00"
-  },
-  {
-   "id": "452451f157b6d8bf",
-   "title": "Democrats see midterm gift in Trump embrace of data centers",
-   "url": "https://thehill.com/homenews/house/6072613-trump-data-center-midterms-democrats/",
-   "summary": "House Democrats see President Trump's embrace of data centers as a political gift, hoping the radioactive issue will help the party flip control of the chamber in November's midterms. The topic has emerged as a late campaign juggernaut given the sheer proliferation of data centers in a great many communities around the country, which has...",
-   "published": "2026-09-05T10:00:00+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-05T10:40:54.903979+00:00"
-  },
-  {
-   "id": "2b8906f5bb3a40d1",
-   "title": "Democrats seek to counter RNC's 'Trump-a-palooza' convention in Dallas",
-   "url": "https://thehill.com/homenews/campaign/6072532-democrats-counterprogramming-rnc-dallas/",
-   "summary": "Democrats are seeking to seize on the Republican National Committee's first-of-its-kind midterm convention with plans for counterprogramming around the two-day Dallas bash as the party eyes a Senate flip in the red state.  Republicans are hopeful the\u00a0so-called\u00a0\"Trump-a-palooza\" next week excites the base about turning out amid\u00a0a bleak midterm outlook for the GOP\u00a0and concerns about\u00a0low attendance,\u00a0timing\u00a0and...",
-   "published": "2026-09-05T10:00:00+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-05T10:40:54.904011+00:00"
-  },
-  {
-   "id": "27280acfa40979ff",
-   "title": "Missouri AG files petition asking Supreme Court to revive Trump-backed redistricting map",
-   "url": "https://www.foxnews.com/politics/missouri-ag-files-petition-asking-supreme-court-revive-trump-backed-redistricting-map",
-   "summary": "Missouri Attorney General Catherine Hanaway filed an emergency U.S. Supreme Court appeal to restore the Trump-backed congressional redistricting map.",
-   "published": "2026-09-05T09:17:17+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-09-05T10:40:53.414216+00:00"
   }
  ]
 }
