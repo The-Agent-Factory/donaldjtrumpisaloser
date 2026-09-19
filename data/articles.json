@@ -1,7 +1,51 @@
 {
- "updated": "2026-09-19T00:24:03.638043+00:00",
- "count": 981,
+ "updated": "2026-09-19T07:22:55.757725+00:00",
+ "count": 980,
  "articles": [
+  {
+   "id": "0bad27711456057c",
+   "title": "NAACP sues to block Trump administration from sending armed agents to polls",
+   "url": "https://thehill.com/regulation/court-battles/6099454-naacp-lawsuit-trump-armed-agents-polls/",
+   "summary": "The NAACP filed a lawsuit Friday alongside other civil rights groups to block the Trump administration from sending armed agents to U.S. polling places ahead of November's midterm elections. The lawsuit names the Department of Homeland Security (DHS), Immigration and Customs Enforcement (ICE), the Department of Justice (DOJ), the FBI and several Trump officials, seeking...",
+   "published": "2026-09-19T03:39:45+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-19T07:22:54.647984+00:00"
+  },
+  {
+   "id": "d1300eaed3886663",
+   "title": "Thousands protest closure of the Kennedy Center amid fears Trump is set to demolish the institution",
+   "url": "https://www.theguardian.com/us-news/2026/sep/19/thousands-protest-closure-of-the-kennedy-center-amid-fears-trump-is-set-to-demolish-the-institution",
+   "summary": "Demonstrators gathered outside the building in Washington, after the president was spotted holding a placard that read: \u2018Kennedy Center DEMOLIS ...\u2019On Friday evening thousands of protesters gathered outside the Kennedy Center in view of the marble facade that remained concealed by scaffolding and tarpaulins, to protest Donald Trump\u2019s plans for the facility and express alarm that he might make good on his threat to tear down the institution.Crowding streets in the Foggy Bottom area of Washington and locking down traffic as they walked, many carried signs, as they joined in the \u201cHands Around the",
+   "published": "2026-09-19T03:33:16+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-09-19T07:22:54.394404+00:00"
+  },
+  {
+   "id": "55830fdc00280aaa",
+   "title": "Shapiro fires back at RFK Jr., Trump on measles: 'Incompetence'",
+   "url": "https://thehill.com/homenews/state-watch/6099441-shapiro-trump-kennedy-measles-clash/",
+   "summary": "Pennsylvania Gov. Josh Shapiro (D) fired back against at President Trump's Friday Oval Office comments calling him a \"bad governor\" that's \"close to incompetent\" following four measles-related deaths in the state. \u201cIncompetence is letting measles, a disease that was declared eliminated in 2000, reemerge,\u201d Shapiro wrote on social media Friday. \u201cIncompetence is spending your time...",
+   "published": "2026-09-19T02:48:16+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-19T07:22:54.647997+00:00"
+  },
+  {
+   "id": "0a200cf2faa49401",
+   "title": "Hegseth backs Trump on banning media outlets",
+   "url": "https://thehill.com/newsletters/defense-national-security/6099382-hegseth-backs-trump-on-banning-media-outlets/",
+   "summary": "Welcome to The Hill's Defense &#038; NatSec newsletter {beacon} Defense &#038;National Security Defense &#038;National Security &#8202; The Big Story  Hegseth backs Trump on banning media outlets Defense Secretary Pete Hegseth said on Friday that he \"fully supports\" President Trump's decision to ban CNN, MS Now and Politico from the White House, claiming those outlets \"endangered\"...",
+   "published": "2026-09-19T00:37:32+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-19T07:22:54.648001+00:00"
+  },
   {
    "id": "9069e9ddf2050f87",
    "title": "Trump administration begins building border wall in Big Bend region of Texas",
@@ -10737,61 +10781,6 @@
    "source_id": "foxnews-politics",
    "bias_note": "right-leaning",
    "first_seen": "2026-09-05T10:40:53.414216+00:00"
-  },
-  {
-   "id": "bfc699334645aaea",
-   "title": "Watchdog issues scathing report on Trump's former labor secretary",
-   "url": "https://thehill.com/homenews/administration/6072826-labor-secretary-chavez-deremer-workplace-misconduct-report/",
-   "summary": "Former Labor Secretary Lori Chavez-DeRemer allegedly fostered a \u201ctoxic, intimidating and humiliating\u201d workplace when she led the department, a scathing watchdog report released Thursday found. An investigation by the Labor Department\u2019s Office of Inspector General said Chavez-DeRemer, who resigned in April, regularly drank alcohol during the workday, failed to properly report expensive gifts she had...",
-   "published": "2026-09-05T03:26:39+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-05T04:35:43.348147+00:00"
-  },
-  {
-   "id": "4cfd5d3eb335a55d",
-   "title": "Vietnam veterans suing over Trump's arch seek court block ahead of groundbreaking",
-   "url": "https://thehill.com/homenews/administration/6072808-veterans-trump-arch-excavation-restraining-order/",
-   "summary": "The Vietnam War veterans suing over President Trump\u2019s proposed triumphal arch are seeking an emergency court order to block the administration from pursuing its imminent plans to break ground in the Washington D.C. area. Veterans Michael Lemmon, Shaun Byrnes, Jon Gundersen \u2014 along with architectural historian Calder Loth \u2014 filed their temporary restraining order request...",
-   "published": "2026-09-05T02:29:57+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-05T04:35:43.348157+00:00"
-  },
-  {
-   "id": "a3172c730a140e82",
-   "title": "Tetris suggests White House 'Build the Wall' game infringes copyright",
-   "url": "https://thehill.com/homenews/administration/6072786-tetris-white-house-game-copyright-infringement/",
-   "summary": "The Tetris Company appeared to warn the White House Friday that its new online arcade based on President Trump's policies may constitute copyright infringement. The site, launched Thursday, features games emulating the style of arcade classics. One of these video games, \"Build the Wall,\" uses mechanics that closely resemble those of Tetris. But in the...",
-   "published": "2026-09-05T01:24:24+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-05T04:35:43.348161+00:00"
-  },
-  {
-   "id": "a303d118d6b376ad",
-   "title": "DOJ ordered to freeze antitrust work with Canada as trade tensions intensify",
-   "url": "https://www.foxnews.com/politics/doj-ordered-freeze-antitrust-work-canada-trade-tensions-intensify",
-   "summary": "The Justice Department&apos;s antitrust division was directed to pause all cooperation with Canada amid the escalating U.S.-Canada trade war, according to a report.",
-   "published": "2026-09-05T01:09:14+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-09-05T04:35:42.669481+00:00"
-  },
-  {
-   "id": "2a15c97fa9c895d4",
-   "title": "Trump order directs officials to consider stripping protections for gray wolves",
-   "url": "https://www.theguardian.com/us-news/2026/sep/04/trump-order-gray-wolves",
-   "summary": "Interior department given three months to decide whether wolves can be removed from endangered species listDonald Trump signed an executive order on Friday directing the interior department to consider de-listing gray wolves from the Endangered Species Act and to contemplate whether the agency could make it easier to authorize killing them.The order gives interior secretary Doug Burgum three months to determine whether gray wolves and Mexican gray wolves have recovered enough for the federal government to de-list them. Continue reading...",
-   "published": "2026-09-05T00:50:41+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-09-05T04:35:43.129528+00:00"
   }
  ]
 }
