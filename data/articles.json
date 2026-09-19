@@ -1,7 +1,95 @@
 {
- "updated": "2026-09-19T14:12:47.737075+00:00",
- "count": 987,
+ "updated": "2026-09-19T17:18:27.074121+00:00",
+ "count": 988,
  "articles": [
+  {
+   "id": "eafd6a0389024a29",
+   "title": "Trump announces all 50 states joining Medicaid drug pricing model",
+   "url": "https://www.pbs.org/newshour/politics/trump-announces-all-50-states-joining-medicaid-drug-pricing-model",
+   "summary": "The Trump administration claims that Medicaid will save billions on prescription drug costs as a result of the plan, dubbed the Medicaid \"GENEROUS\" model. Experts say the savings are unclear since the content of the deals isn't public.",
+   "published": "2026-09-19T16:37:05+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-09-19T17:18:26.515137+00:00"
+  },
+  {
+   "id": "d70f85b7c203ba55",
+   "title": "MS NOW, CNN and Politico say their journalists were denied access to White House after Trump ban",
+   "url": "https://www.pbs.org/newshour/politics/ms-now-cnn-and-politico-say-their-journalists-were-denied-access-to-white-house-after-trump-ban",
+   "summary": "Trump had said Friday he would ban all three outlets because of coverage he disliked.",
+   "published": "2026-09-19T16:24:28+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-09-19T17:18:26.515142+00:00"
+  },
+  {
+   "id": "cd77a34a69d44edd",
+   "title": "Farm-state Republicans are having a cow over Trump's beef imports as Election Day approaches",
+   "url": "https://www.politico.com/news/2026/09/19/trumps-beef-plan-problem-nebraska-iowa-kansas-texas-01084910",
+   "summary": "The move to import foreign beef infuriated Republicans in farm states facing tough reelections \u2014 and gave Democrats and independents a rare opening with rural voters.",
+   "published": "2026-09-19T16:00:00+00:00",
+   "source": "Politico",
+   "source_id": "politico",
+   "bias_note": "center",
+   "first_seen": "2026-09-19T17:18:26.442657+00:00"
+  },
+  {
+   "id": "fb3de567ac3399a8",
+   "title": "The Memo: Trump doubles down on demand for \u2018recognition\u2019 in Kennedy Center fight",
+   "url": "https://thehill.com/homenews/analysis/6099274-trump-recognition-kenneedy-center-renovation/",
+   "summary": "President Trump is doubling down on his insistence that he needs \u201crecognition\u201d from the Kennedy Center in return for planned renovations. Trump\u2019s assertion Friday afternoon seems to mean he is holding fast to his demand that his name should be added to the center in some shape or form \u2014 even though a court ruled...",
+   "published": "2026-09-19T16:00:00+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-19T17:18:26.485517+00:00"
+  },
+  {
+   "id": "98a73405a71c234b",
+   "title": "Thousands join protest outside Kennedy Center, expressing concern that Trump might tear it down",
+   "url": "https://www.pbs.org/newshour/politics/thousands-join-protest-outside-kennedy-center-expressing-concern-that-trump-might-tear-it-down",
+   "summary": "Friday's event followed a tumultuous week in federal courts in Washington where filings and counter-filings flooded the courts as the administration continues pushing for the president's vanity projects.",
+   "published": "2026-09-19T15:41:29+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-09-19T17:18:26.515145+00:00"
+  },
+  {
+   "id": "53ddb503dad0110b",
+   "title": "CNN, MS NOW, Politico reporters denied access to White House following Trump ban",
+   "url": "https://www.npr.org/2026/09/19/nx-s1-5974854/trump-cnn-msnow-politico-ban",
+   "summary": "Three reporters were blocked from the White House grounds Saturday morning, a day after President Trump said CNN, Politico, and MS NOW would be banned for reporting \"FICTION and LIES.\"",
+   "published": "2026-09-19T15:26:31+00:00",
+   "source": "NPR Politics",
+   "source_id": "npr-politics",
+   "bias_note": "center",
+   "first_seen": "2026-09-19T17:18:26.235112+00:00"
+  },
+  {
+   "id": "3ccb8c33c6c67e4f",
+   "title": "FAA says proposed Trump arch will require 'eternal flame' on top to alert pilots",
+   "url": "https://thehill.com/homenews/administration/6099725-faa-trump-triumphal-arch-eternal-flame/",
+   "summary": "The Federal Aviation Administration (FAA) said Saturday that President Trump\u2019s proposed Triumphal Arch in Washington, D.C., would require an \u201ceternal flame\u201d on top to alert nearby pilots. \u201cThe FAA\u2019s determination includes conditions for the Arch to be appropriately marked with a non-standard eternal flame on top of the structure and floodlight projectors pointed towards the...",
+   "published": "2026-09-19T15:12:00+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-19T17:18:26.485526+00:00"
+  },
+  {
+   "id": "6b039599f0b4ac02",
+   "title": "Denmark and Greenland say US military agreement will not compromise Arctic territory\u2019s sovereignty",
+   "url": "https://www.theguardian.com/world/2026/sep/19/denmark-greenland-us-military-agreement-territorial-sovereignty",
+   "summary": "Statement sought to clarify Trump\u2019s announcement that US will have \u2018permanent control\u2019 over Greenland\u2019s securityDenmark and Greenland have said any agreement with the US to develop a significant military presence in the strategic Arctic territory will not compromise Greenland\u2019s sovereignty.In a statement on Saturday clarifying an announcement by Donald Trump that an agreement had been reached to give Washington \u201cpermanent control\u201d \u2060over Greenland\u2019s security, Denmark and the semiautonomous territory \u2060expressed hope that a deal would end friction with the US over the issue. Continue reading...",
+   "published": "2026-09-19T14:43:07+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-09-19T17:18:26.331129+00:00"
+  },
   {
    "id": "b951ad88a1cfcf55",
    "title": "Beware of politicians claiming to protect us from the press",
@@ -10781,83 +10869,6 @@
    "source_id": "pbs-politics",
    "bias_note": "center",
    "first_seen": "2026-09-05T18:21:11.025531+00:00"
-  },
-  {
-   "id": "134568698b6a4b1a",
-   "title": "Trump weighs in on Lindsay Clancy murder trial dubbed 'kangaroo court' by GOP leaders",
-   "url": "https://www.foxnews.com/politics/trump-weighs-lindsay-clancy-murder-trial-dubbed-kangaroo-court-gop-leaders",
-   "summary": "Trump says Lindsay Clancy will pay &quot;the price&quot; after a mistrial was declared when the jury deadlocked 11-1 in the Massachusetts murder case.",
-   "published": "2026-09-05T16:55:02+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-09-05T18:21:10.207499+00:00"
-  },
-  {
-   "id": "978f53d7fd368045",
-   "title": "Ranking the Democratic 2028 presidential contenders",
-   "url": "https://thehill.com/homenews/analysis/6071507-democrats-rank-2028-presidential-contenders/",
-   "summary": "Democrats are already looking beyond November\u2019s midterms to the 2028 presidential contest \u2014 and they like what they see. For now, Republicans are weighed down by President Trump\u2019s low approval ratings and broader voter concerns about the economy. Democrats guess whoever becomes the GOP nominee in 2028 will suffer from the president\u2019s liabilities without being...",
-   "published": "2026-09-05T16:00:00+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-05T18:21:10.923224+00:00"
-  },
-  {
-   "id": "b7310ce3b0513887",
-   "title": "U.S. envoys arrive in Moscow to revive peace talks with Ukraine",
-   "url": "https://thehill.com/homenews/administration/6073112-envoys-kushner-witkoff-moscow-kyiv-arrival/",
-   "summary": "Two U.S. envoys, Steve Witkoff and Jared Kushner, arrived in Moscow on Saturday as part of an effort to restart negotiations between Russia and Ukraine after a monthslong stall. Russian leader Vladimir Putin authorized a 72-hour pause on strikes against Kyiv to facilitate the U.S. delegation\u2019s visit to the country, according to Kremlin spokesperson Dmitry...",
-   "published": "2026-09-05T15:57:43+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-05T18:21:10.923236+00:00"
-  },
-  {
-   "id": "1993a8befc37370c",
-   "title": "Trump pardons Jay-Z associate Emory Jones after federal drug conviction",
-   "url": "https://www.foxnews.com/entertainment/trump-pardons-jay-z-associate-emory-jones-after-federal-drug-conviction",
-   "summary": "Alice Marie Johnson revealed Trump granted clemency to 30 individuals, including Emory Jones, a Roc Nation executive and Jay-Z&apos;s longtime associate.",
-   "published": "2026-09-05T15:39:52+00:00",
-   "source": "Fox News Latest",
-   "source_id": "foxnews-latest",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-09-05T18:21:10.227365+00:00"
-  },
-  {
-   "id": "04a6b39bbd7287c3",
-   "title": "Judge orders Trump administration to reveal who set up $1.8bn \u2018anti-weaponization fund\u2019",
-   "url": "https://www.theguardian.com/us-news/2026/sep/05/judge-trump-administration-anti-weaponization-fund",
-   "summary": "Judge issued order as part of discovery process in lawsuit brought by non-profit into now defunct compensation fundA federal judge has ordered the Trump administration to reveal who set up the structure of a controversial $1.8bn \u201canti-weaponization fund\u201d to recompense victims of political lawfare that was reportedly dropped by the justice department last month.The US magistrate judge Ivan Davis for eastern district of Virginia issued the order compelling discovery materials from the government as part of a lawsuit brought by the Democracy Forward non-profit on behalf of plaintiffs including a ",
-   "published": "2026-09-05T15:14:37+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-09-05T18:21:10.682365+00:00"
-  },
-  {
-   "id": "64cd0a8489320867",
-   "title": "Trump negotiators Witkoff, Kushner arrive in Moscow as US pushes for end to Russia-Ukraine war",
-   "url": "https://www.foxnews.com/world/trump-negotiators-witkoff-kushner-arrive-moscow-us-pushes-end-russia-ukraine-war",
-   "summary": "Steve Witkoff and Jared Kushner have landed in Moscow for peace talks before heading to Kyiv, as Trump says there may be a good chance for a deal.",
-   "published": "2026-09-05T14:52:30+00:00",
-   "source": "Fox News Latest",
-   "source_id": "foxnews-latest",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-09-05T15:18:13.745364+00:00"
-  },
-  {
-   "id": "75f05deba92c765a",
-   "title": "MIKE DAVIS: The Trump DOJ should withdraw its statement of interest in the OpenAI lawsuit",
-   "url": "https://www.foxnews.com/opinion/mike-davis-trump-doj-withdraw-statement-interest-openai-lawsuit",
-   "summary": "Trump&apos;s Justice Department backed OpenAI&apos;s fair use argument for AI training on copyrighted works, a move critics say lets Big Tech steal from creators.",
-   "published": "2026-09-05T14:19:18+00:00",
-   "source": "Fox News Latest",
-   "source_id": "foxnews-latest",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-09-05T15:18:13.745405+00:00"
   }
  ]
 }
