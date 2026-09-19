@@ -1,7 +1,84 @@
 {
- "updated": "2026-09-19T17:18:27.074121+00:00",
- "count": 988,
+ "updated": "2026-09-19T20:45:59.621696+00:00",
+ "count": 990,
  "articles": [
+  {
+   "id": "b071d75d17b87921",
+   "title": "Trump plans to form 'AI Force,' appoint 'AI Czar'",
+   "url": "https://thehill.com/homenews/administration/6099970-trump-proposes-ai-force-czar/",
+   "summary": "President Trump announced plans Saturday to create an \u201cAI Force\u201d as well as appoint a \"czar\" to oversee the emerging technology's development. In a lengthy Truth Social post, Trump called the concerns surrounding a lack of federal AI guardrails a \"hoax,\" adding he would not allow for the technology's \"decimation\" as its U.S.-based industry leaders...",
+   "published": "2026-09-19T20:32:15+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-19T20:45:58.612397+00:00"
+  },
+  {
+   "id": "c3047741d5bbe126",
+   "title": "Trump announces new 'AI Force,' vows to protect industry as AI czar announcement nears",
+   "url": "https://www.foxnews.com/politics/trump-announces-new-ai-force-vows-protect-industry-ai-czar-announcement-nears",
+   "summary": "Trump&apos;s new AI Force mirrors his first-term Space Force creation, with a high-IQ &quot;czar&quot; appointment coming soon to oversee the booming industry.",
+   "published": "2026-09-19T20:08:52+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-19T20:45:58.054011+00:00"
+  },
+  {
+   "id": "76b6b88ea3061fc2",
+   "title": "Trump to create \u2018AI Force\u2019 to monitor technology as fears over out-of-control agents grow",
+   "url": "https://www.theguardian.com/us-news/2026/sep/19/donald-trump-ai-force",
+   "summary": "President had brushed away suggestions to slow down AI technology, even as his own party counseled cautionDonald Trump on Saturday said he would appoint an artificial intelligence czar and create an \u201cAI Force\u201d to help monitor the technology, though he gave almost no details about either plan.As global fears over AI have grown, especially in the past week in the face of multiple industry figures sounding the alarm about its dangers, the president has been critical of calls to slow down development of the fast-moving industry. Continue reading...",
+   "published": "2026-09-19T19:57:17+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-09-19T20:45:58.383891+00:00"
+  },
+  {
+   "id": "b0f7aee9be5c06f4",
+   "title": "Denmark's leaders are cautiously optimistic about Trump's announcement of a Greenland deal",
+   "url": "https://www.pbs.org/newshour/world/denmarks-leaders-are-cautiously-optimistic-about-trumps-announcement-of-a-greenland-deal",
+   "summary": "U.S., Greenlandic and Danish officials had quietly negotiated for months behind the scenes, searching for solutions to address some of Trump's security concerns about the territory.",
+   "published": "2026-09-19T18:20:13+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-09-19T20:45:58.909189+00:00"
+  },
+  {
+   "id": "17661363ad920cf7",
+   "title": "Trump posts poll to rename 'AI,' says current name is 'inaccurate, and very ineloquent'",
+   "url": "https://thehill.com/homenews/administration/6099834-trump-proposes-new-a-i-names/",
+   "summary": "President Trump posted a poll on Truth Social, pitching potential new names for artificial intelligence \u2014 calling the emerging technology\u2019s name \u201cinaccurate.\u201d In a Saturday Truth Social post, the president floated alternative names for AI \u2014 pitching \"Superior Intelligence,\" \"Extreme Intelligence\" and \"Supreme Intelligence.\" He then asked his followers to vote on \"which is the...",
+   "published": "2026-09-19T17:35:03+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-19T20:45:58.612438+00:00"
+  },
+  {
+   "id": "bcdfb49e18ed04b3",
+   "title": "LA homelessness fraud cases expose deeper problem than stolen millions, oversight hawk warns",
+   "url": "https://www.foxnews.com/politics/la-homelessness-fraud-cases-expose-deeper-problem-stolen-millions-oversight-hawk-warns",
+   "summary": "Rep. Michael Cloud says Los Angeles homelessness fraud cases expose a funding system that rewards program managers while keeping people in dependency.",
+   "published": "2026-09-19T17:34:51+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-19T20:45:58.054022+00:00"
+  },
+  {
+   "id": "b221d046a559dc6b",
+   "title": "Security expert hails Trump's Greenland pact as a 'big deal' on par with Alaska purchase",
+   "url": "https://www.foxnews.com/media/security-expert-hails-trumps-greenland-pact-big-deal-par-alaska-purchase",
+   "summary": "Col. Grant Newsham says President Donald Trump&apos;s Greenland deal effectively neutralizes Russian and Chinese ambitions across North American geography.",
+   "published": "2026-09-19T17:32:25+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-19T20:45:58.081714+00:00"
+  },
   {
    "id": "eafd6a0389024a29",
    "title": "Trump announces all 50 states joining Medicaid drug pricing model",
@@ -815,6 +892,17 @@
    "source_id": "whitehouse",
    "bias_note": "official/primary-source",
    "first_seen": "2026-09-18T20:57:26.187716+00:00"
+  },
+  {
+   "id": "5079cb78ca85848d",
+   "title": "Presidential Message on the 79th Birthday of the United States Air Force",
+   "url": "https://www.whitehouse.gov/briefings-statements/2026/09/presidential-message-on-the-79th-birthday-of-the-united-states-air-force/",
+   "summary": "Today, on the 79th birthday of the United States Air Force, I join a grateful Nation in honoring America\u2019s airmen\u2014past and present\u2014for defending our liberty, safeguarding our way of life, and ruling the sky and space with exceptional professionalism and valor. On September 18, 1947, the Air Force was born as an independent branch of [&#8230;]\nThe post Presidential Message on the 79th Birthday of the United States Air Force appeared first on The White House.",
+   "published": "2026-09-18T19:00:00+00:00",
+   "source": "WhiteHouse.gov News",
+   "source_id": "whitehouse",
+   "bias_note": "official/primary-source",
+   "first_seen": "2026-09-19T20:45:58.116043+00:00"
   },
   {
    "id": "5c507c02799ba08d",
@@ -10803,72 +10891,6 @@
    "source_id": "thehill",
    "bias_note": "center",
    "first_seen": "2026-09-05T22:04:26.785295+00:00"
-  },
-  {
-   "id": "36320fb319d5d675",
-   "title": "Trump's first major midterm money move: A $10 million Texas Senate ad blitz",
-   "url": "https://www.pbs.org/newshour/politics/trumps-first-major-midterm-money-move-a-10-million-texas-senate-ad-blitz",
-   "summary": "This is the first significant spending in a premier general election contest by MAGA, Inc., and reflects how a once-safe Republican seat in Texas may be viable for Democrats with the candidacy of James Talarico.",
-   "published": "2026-09-05T20:44:35+00:00",
-   "source": "PBS NewsHour Politics",
-   "source_id": "pbs-politics",
-   "bias_note": "center",
-   "first_seen": "2026-09-05T22:04:26.950698+00:00"
-  },
-  {
-   "id": "a9536e3fbdcefea5",
-   "title": "Sunday shows preview: Trump travels to Texas for RNC midterm convention; Administration downplays Iran war consequences",
-   "url": "https://thehill.com/homenews/sunday-talk-shows/6073362-sunday-shows-trump-rnc-convention-iran-war/",
-   "summary": "President Trump will head to the GOP\u2019s convention in Dallas next week \u2014 an event aimed at galvanizing Republican voters to get out the vote ahead of the midterm elections this November.  The president will headline the two-day convention, and Vice President JD Vance is also expected to address attendees. Ahead of the inaugural event,...",
-   "published": "2026-09-05T20:44:16+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-05T22:04:26.785303+00:00"
-  },
-  {
-   "id": "bc62e1cd7876455a",
-   "title": "Trump shakes up RNC midterm convention schedule, says he'll speak on night one",
-   "url": "https://thehill.com/homenews/campaign/6073371-trump-to-speak-night-one/",
-   "summary": "President Trump is set to speak on Night 1 of the Republican National Committee\u2019s (RNC) Midterm Convention in Dallas on Sept. 9. \u201cThe Greatest RALLY of them all,\u201d Trump wrote in a Friday Truth Social post. \u201cI\u2019ll be speaking on night one, and hanging around for an earlier closing, and lots of music, on night...",
-   "published": "2026-09-05T20:42:37+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-05T22:04:26.785310+00:00"
-  },
-  {
-   "id": "674645beeeaf50c9",
-   "title": "Trump\u2019s first major midterm money move: A $10M Texas Senate ad blitz",
-   "url": "https://abcnews.com/Politics/wireStory/trumps-major-midterm-money-move-10m-texas-senate-136230356",
-   "summary": "President Donald Trump's political group is spending $10 million on ads in the Texas Senate race",
-   "published": "2026-09-05T19:20:06+00:00",
-   "source": "ABC News Politics",
-   "source_id": "abc-politics",
-   "bias_note": "center",
-   "first_seen": "2026-09-05T22:04:27.504248+00:00"
-  },
-  {
-   "id": "bbe2aa8ce6537d27",
-   "title": "Kennedy Center closes after ceiling piece falls: 'President Trump has been right'",
-   "url": "https://thehill.com/homenews/administration/6073213-kennedy-center-ceiling-collapse-grand-foyer/",
-   "summary": "A portion of the ceiling inside the Kennedy Center\u2019s Grand Foyer collapsed Friday evening as heavy rain swept through the Washington, D.C. area, prompting officials to temporarily close the main building. No one was injured in the collapse, according to the Kennedy Center, which released photos from the scene showing chunks of the ceiling and...",
-   "published": "2026-09-05T17:35:17+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-05T18:21:10.923211+00:00"
-  },
-  {
-   "id": "b05e22f2e9abd4e3",
-   "title": "Kennedy Center renews call for Trump-backed shutdown after part of a ceiling collapses",
-   "url": "https://www.pbs.org/newshour/politics/kennedy-center-renews-call-for-trump-backed-shutdown-after-part-of-a-ceiling-collapses",
-   "summary": "No one was injured when a piece of the ceiling inside the Kennedy Center's grand foyer collapsed Friday evening, said Roma Daravi, the center's vice president for public relations.",
-   "published": "2026-09-05T17:33:29+00:00",
-   "source": "PBS NewsHour Politics",
-   "source_id": "pbs-politics",
-   "bias_note": "center",
-   "first_seen": "2026-09-05T18:21:11.025531+00:00"
   }
  ]
 }
