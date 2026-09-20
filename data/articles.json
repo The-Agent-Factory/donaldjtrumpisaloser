@@ -1,7 +1,106 @@
 {
- "updated": "2026-09-20T14:35:50.748987+00:00",
- "count": 998,
+ "updated": "2026-09-20T16:12:01.054914+00:00",
+ "count": 1003,
  "articles": [
+  {
+   "id": "d60d6adf9c4d4d1d",
+   "title": "Soaring diesel prices pose latest economic headache for GOP",
+   "url": "https://thehill.com/policy/transportation/6096876-diesel-price-of-gas-oil-midterms/",
+   "summary": "Rising diesel prices are proving to be a particular problem for Republicans as surging energy costs sour the economic mood just 45 days out from the midterms.  The national average for diesel jumped 42 cents over the last week, largely as a result of the ongoing U.S. war in Iran, though President Trump has sought...",
+   "published": "2026-09-20T16:00:00+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-20T16:12:00.226879+00:00"
+  },
+  {
+   "id": "042f4c74e87f4494",
+   "title": "Moore says Trump uses Constitution like a 'suggestion box' in banning CNN, Politico, MS NOW reporters from White House",
+   "url": "https://thehill.com/homenews/media/6100320-wes-moore-trump-press-ban/",
+   "summary": "Maryland Gov. Wes Moore (D) on Sunday accused President Trump of using the Constitution as a \"suggestion box\" with his ban on CNN, Politico and MS NOW reporters covering the White House. Moore said in an interview on \"State of the Union\" with CNN's Dana Bash that Trump \"seems to have a real problem\" with...",
+   "published": "2026-09-20T15:21:26+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-20T16:12:00.226887+00:00"
+  },
+  {
+   "id": "5d024d146fa45c2c",
+   "title": "Trump says his planned arch would become a 'military complex' able to host drones and snipers",
+   "url": "https://www.pbs.org/newshour/politics/trump-says-his-planned-arch-would-become-a-military-complex-able-to-host-drones-and-snipers",
+   "summary": "Trump has also been calling the new White House ballroom a \"military complex\" and arguing it is necessary for national security purposes.",
+   "published": "2026-09-20T15:08:03+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-09-20T16:12:00.372391+00:00"
+  },
+  {
+   "id": "2605d99b057201ab",
+   "title": "Trump on Iran: 'My question is, if and when do I blow the entire nation up?'",
+   "url": "https://thehill.com/homenews/administration/6100347-trump-speculates-iran-war/",
+   "summary": "President Trump on Sunday speculated on the future of the Iran war, asking \"if and when do I blow the entire nation up?\" Fox News's Trey Yingst reported that Trump is in a \"deciding mode\" and \"that very big things are going to be happening in the not so distant future.\" \"The president described the...",
+   "published": "2026-09-20T15:07:56+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-20T16:12:00.226890+00:00"
+  },
+  {
+   "id": "b6faf00db977b1ee",
+   "title": "Trump says his D.C. arch will serve as 'military complex' with snipers and drones",
+   "url": "https://www.npr.org/2026/09/20/nx-s1-5975449/trump-washington-dc-arch-military-complex-snipers-drones",
+   "summary": "President Trump has claimed that military operations are needed at his proposed triumphal arch in Washington D.C., in order to protect national security. A federal court is weighing the arch's legality.",
+   "published": "2026-09-20T15:05:47+00:00",
+   "source": "NPR Politics",
+   "source_id": "npr-politics",
+   "bias_note": "center",
+   "first_seen": "2026-09-20T16:11:58.570834+00:00"
+  },
+  {
+   "id": "10e955de86fc1074",
+   "title": "Trump says new arch will also deploy drones, position snipers and store ammo",
+   "url": "https://www.foxnews.com/politics/trump-says-new-arch-will-also-deploy-drones-position-snipers-store-ammo",
+   "summary": "Trump says his 250-foot triumphal arch near Arlington Memorial Bridge will house drones, snipers and large quantities of ammunition storage.",
+   "published": "2026-09-20T15:03:39+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-20T16:11:58.250283+00:00"
+  },
+  {
+   "id": "4d54599e8ee4b415",
+   "title": "Waltz delivers blunt warning to nations defying Iran sanctions, touts Greenland deal",
+   "url": "https://www.foxnews.com/world/waltz-delivers-blunt-warning-nations-defying-iran-sanctions-touts-greenland-deal",
+   "summary": "USUN Ambassador Mike Waltz says President Trump will push Gulf leaders and allies to enforce Iran sanctions at the United Nations, warning of consequences for noncompliance.",
+   "published": "2026-09-20T15:01:49+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-20T16:11:58.267094+00:00"
+  },
+  {
+   "id": "8dc74ddb86933fdf",
+   "title": "A commitment to the First Amendment should not be controversial",
+   "url": "https://thehill.com/homenews/6098461-protecting-freedom-speech-government-power/",
+   "summary": "Across the country, I work with people and organizations that disagree profoundly about politics and public policy but share a basic principle: Americans must remain free to speak, associate, support causes and challenge those in power. That principle is being tested in uncomfortable ways. President Trump has\u00a0threatened the Center for American Progress\u00a0with a $5 billion...",
+   "published": "2026-09-20T15:00:00+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-20T16:12:00.226896+00:00"
+  },
+  {
+   "id": "f8594587c9e430c1",
+   "title": "Waltz says Trump 'absolutely within his rights' to bar reporters 'not behaving' in good faith",
+   "url": "https://thehill.com/homenews/administration/6100318-waltz-defends-white-house-media-ban/",
+   "summary": "U.S. Ambassador to the United Nations Mike Waltz on Sunday said President Trump is \"absolutely within his rights\" to ban CNN, Politico and MS NOW reporters from the White House, claiming the ban prevents reporters who are \"not behaving\" in good faith. \"Dana, the president is absolutely within his rights to limit journalists to government...",
+   "published": "2026-09-20T14:36:08+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-20T16:12:00.226906+00:00"
+  },
   {
    "id": "3f27e5300a47accd",
    "title": "Trump's questionable social media posts on space deserve context",
@@ -10935,50 +11034,6 @@
    "source_id": "guardian-uspolitics",
    "bias_note": "left-leaning",
    "first_seen": "2026-09-06T18:22:07.291025+00:00"
-  },
-  {
-   "id": "eb44aae2c7e37b76",
-   "title": "White House faces mifepristone test",
-   "url": "https://thehill.com/policy/healthcare/6072639-trump-louisiana-mifepristone-test/",
-   "summary": "The Trump administration is set to face another key test on abortion, with two months to go until the midterm elections. A three-judge panel on the 5th U.S. Circuit Court of Appeals in New Orleans is poised to hear oral arguments next week in a case that could eventually restrict the nationwide distribution of the...",
-   "published": "2026-09-06T16:00:00+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-06T18:22:07.530381+00:00"
-  },
-  {
-   "id": "c218546666b52bda",
-   "title": "Former Air Force secretary questions 'advice' Trump received before starting Iran war",
-   "url": "https://thehill.com/policy/defense/6073796-kendall-questions-trump-iran-war/",
-   "summary": "Former Air Force Secretary Frank Kendall III on Sunday questioned the \u201cadvice\u201d President Trump received in the lead-up to the Iran war. \u201cWhat I don't understand, frankly, about the Iran war is what advice was given to the president that led him to start this conflict?\u201d Kendall told host Martha Raddatz on ABC\u2019s \u201cThis Week.\u201d...",
-   "published": "2026-09-06T15:29:19+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-06T15:31:17.423265+00:00"
-  },
-  {
-   "id": "ccbdd37f838a4792",
-   "title": "Trump administration makes another appeal to Supreme Court to allow mail ballot restrictions",
-   "url": "https://www.pbs.org/newshour/politics/trump-administration-makes-another-appeal-to-supreme-court-to-allow-mail-ballot-restrictions",
-   "summary": "The filing came after U.S. District Court Judge Indira Talwani extended an order against the Postal Service enforcing President Donald Trump's executive order for the November elections.",
-   "published": "2026-09-06T15:15:28+00:00",
-   "source": "PBS NewsHour Politics",
-   "source_id": "pbs-politics",
-   "bias_note": "center",
-   "first_seen": "2026-09-06T15:31:17.764657+00:00"
-  },
-  {
-   "id": "32c4d8773c1ea874",
-   "title": "Former Air Force secretary says he 'couldn't serve' in Trump administration",
-   "url": "https://thehill.com/policy/defense/6073772-kendall-blasts-hegseth-leadership/",
-   "summary": "Former Air Force Secretary Frank Kendall III said Sunday he \u201ccouldn\u2019t serve\u201d in the Trump administration, blasting Defense Secretary Pete Hegseth\u2019s leadership of the Pentagon. \u201cI\u2019ve never seen an attempt to politicize our military like the one being conducted by Pete Hegseth,\u201d Kendall told Martha Raddatz on ABC\u2019s \u201cThis Week.\u201d Earlier this week, Army Secretary...",
-   "published": "2026-09-06T14:43:48+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-06T15:31:17.423305+00:00"
   }
  ]
 }
