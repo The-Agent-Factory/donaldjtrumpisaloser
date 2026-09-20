@@ -1,7 +1,84 @@
 {
- "updated": "2026-09-20T04:58:46.628470+00:00",
- "count": 991,
+ "updated": "2026-09-20T11:31:07.695199+00:00",
+ "count": 992,
  "articles": [
+  {
+   "id": "c22a5279e7c43fb9",
+   "title": "WATCH: AI safety scare sparks Cap Hill fight over guardrails: 'China's going to eat our lunch'",
+   "url": "https://www.foxnews.com/politics/watch-ai-safety-scare-sparks-cap-hill-fight-over-guardrails-chinas-going-eat-our-lunch",
+   "summary": "Trump&apos;s dismissal of AI fears as a &quot;hoax&quot; sparks a Capitol Hill clash over guardrails, with lawmakers split on slowing development vs. China.",
+   "published": "2026-09-20T11:00:33+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-20T11:31:06.111958+00:00"
+  },
+  {
+   "id": "a202aa2a5a0ba21e",
+   "title": "\u2018Not a slam dunk\u2019: Trump\u2019s 2028 mail-vote push hinges on one big legal question",
+   "url": "https://www.foxnews.com/politics/not-slam-dunk-trumps-2028-mail-vote-push-hinges-one-big-legal-question",
+   "summary": "President Donald Trump&apos;s mail voting executive order faces a critical Supreme Court test over Postal Service authority on tamper-resistant envelopes.",
+   "published": "2026-09-20T11:00:25+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-20T11:31:06.111969+00:00"
+  },
+  {
+   "id": "e2fcc6ed6c0fc13b",
+   "title": "\u2018Do you have to be dead?\u2019: US coalminers plead for benefits as black-lung disease cases surge",
+   "url": "https://www.theguardian.com/us-news/2026/sep/20/us-coalminers-black-lung-disease",
+   "summary": "Trump says he digs coal \u2013 but pneumoconiosis cases are at a 50-year high, and sick miners are mired in benefit delaysFor 38 years, Josh Armes worked as a coal miner in West Virginia and Virginia.After retirement, Armes, 74, of Grundy, Virginia, was diagnosed with black lung disease, medically known as coal workers\u2019 pneumoconiosis (CWP), caused by breathing in coal dust over long periods, which irreversibly damages the lungs. Continue reading...",
+   "published": "2026-09-20T11:00:16+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-09-20T11:31:06.581759+00:00"
+  },
+  {
+   "id": "6ff7c0636a567144",
+   "title": "\u2018Fur Lives Matter\u2019 case turns heads as DOJ\u2019s \u2018Fraud Week\u2019 targets taxpayer swindlers",
+   "url": "https://www.foxnews.com/politics/fur-lives-matter-case-turns-heads-dojs-fraud-week-targets-taxpayer-swindlers",
+   "summary": "A Missouri man allegedly stole a real company&apos;s identity to seek $56 million in PPP and SBA funds during Colin McDonald&apos;s &quot;Fraud Week&quot; crackdown.",
+   "published": "2026-09-20T10:00:15+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-20T11:31:06.112003+00:00"
+  },
+  {
+   "id": "8657c0d247d862b9",
+   "title": "\u2018People are pissed off\u2019: anger at the elite and the establishment is fueling this year\u2019s midterms",
+   "url": "https://www.theguardian.com/us-news/ng-interactive/2026/sep/20/anger-midterm-elections",
+   "summary": "Coming midterm elections are starting to be framed not as right versus left but instead the \u2018well-fed versus the fed-up\u2019Brian Leeland, a 79-year-old Democratic voter in Detroit, had enough. Frustrated by the way the US media covers this febrile political era, from Donald Trump\u2019s Washington to political campaigns across the country, he contacted the Guardian.\u201cYour decision to frame the race here as a simple progressive versus establishment choice is overly simplistic verging on lazy,\u201d he wrote to this reporter, after our coverage of progressive Abdul El-Sayed\u2019s campaign in the Democratic US Sen",
+   "published": "2026-09-20T10:00:14+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-09-20T11:31:06.581789+00:00"
+  },
+  {
+   "id": "068866d959304a96",
+   "title": "Leftists make waves and Trump flexes muscles: US primary season takeaways",
+   "url": "https://www.theguardian.com/us-news/2026/sep/20/us-primary-season-takeaways",
+   "summary": "Candidates have been selected for November\u2019s midterms \u2013 have Republicans and Democrats made the right choices?Primary season has official concluded in the United States, with Democrats leading the polls among voters amid widespread economic anxieties, a war with Iran and Donald Trump\u2019s mass deportation agenda continuing into the end of the year.Democratic and Republican voters have selected contenders for key races in the 3 November midterms that will decide the balance of power in Congress, and the future of both parties. Democrats have been rocked by the primary victories of leftwing candida",
+   "published": "2026-09-20T10:00:13+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-09-20T11:31:06.581796+00:00"
+  },
+  {
+   "id": "df40a7c3c97b4eaf",
+   "title": "Gavin Newsom faces challenge of moving from Trump troller to national winner",
+   "url": "https://thehill.com/homenews/campaign/6098911-newsom-2028-presidential-outlook/",
+   "summary": "As Gavin Newsom prepares to leave his job as governor of California after eight years, the question he faces isn\u2019t whether he wants to run for president, but how competitive he can be in what is expected to be a crowded field.  Newsom, who began the 2028 conversation as one of the party's most prominent...",
+   "published": "2026-09-20T10:00:00+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-20T11:31:06.792285+00:00"
+  },
   {
    "id": "aa44cdc46fbc814f",
    "title": "Justice Department charges 16 across multiple states with alleged illegal voting, election crimes",
@@ -10836,72 +10913,6 @@
    "source_id": "foxnews-politics",
    "bias_note": "right-leaning",
    "first_seen": "2026-09-06T14:00:55.224990+00:00"
-  },
-  {
-   "id": "4928f2b4b4f9e7cd",
-   "title": "MIKE DAVIS: Trump's ballroom win highlights need for serious judicial nominees",
-   "url": "https://www.foxnews.com/opinion/mike-davis-trumps-ballroom-win-highlights-need-serious-judicial-nominees",
-   "summary": "The Supreme Court&apos;s 5-4 ruling on the White House ballroom lawsuit exposes deep rifts, with Chief Justice John Roberts penning a sharp dissent.",
-   "published": "2026-09-06T10:38:29+00:00",
-   "source": "Fox News Latest",
-   "source_id": "foxnews-latest",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-09-06T11:02:52.089631+00:00"
-  },
-  {
-   "id": "2ce0ff6a27eb2ce6",
-   "title": "House Dems plot Trump investigation blitz if they seize majority",
-   "url": "https://www.foxnews.com/politics/house-dems-plot-trump-investigation-blitz-seize-majority",
-   "summary": "Rep. Robert Garcia outlined key targets, including the Trump family, Jeffrey Epstein and ICE, as House Democrats prepare oversight investigations.",
-   "published": "2026-09-06T10:00:43+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-09-06T11:02:51.964453+00:00"
-  },
-  {
-   "id": "1074ecd3540daa65",
-   "title": "Game on: November elections kick into high gear with control of Congress in the balance",
-   "url": "https://www.theguardian.com/us-news/2026/sep/06/midterm-elections-control-of-congress",
-   "summary": "Trump is unpopular and inflation is still high \u2013 and Democrats are looking to use that to their advantageWhen voters went to the polls in the 2022 midterm elections, all the ingredients were there for Joe Biden\u2019s allies to suffer a wipeout. The president was unpopular, inflation was high and historical trends predicted voters would take out their frustrations by ending the Democratic party\u2019s control of Congress.But when the ballots were tallied, the gains Republicans expected to make did not quite materialize. They had won the House of Representatives, but only by a slim margin, while Democrat",
-   "published": "2026-09-06T10:00:02+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-09-06T11:02:53.012265+00:00"
-  },
-  {
-   "id": "b1c52e224eca0206",
-   "title": "Controversy swirls around Trump's Venezuela business partner",
-   "url": "https://thehill.com/policy/energy-environment/6072632-trump-venezuelan-oil-deal/",
-   "summary": "The Trump administration\u2019s Venezuela oil deal puts the federal government in business with a controversial figure from the South American nation. Recent reporting links North American Blue Energy Partners\u2019s Alejandro Betancourt to multiple investigations. But administration officials have defended their partnership, saying that Betancourt is a proven operator in Venezuela\u2019s energy sector. Late last month, the...",
-   "published": "2026-09-06T10:00:00+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-06T11:02:53.366206+00:00"
-  },
-  {
-   "id": "b227b8a08b876bdd",
-   "title": "Ranking the Republican 2028 contenders",
-   "url": "https://thehill.com/homenews/analysis/6072609-republican-candidates-2028-rankings/",
-   "summary": "President Trump dominates the political landscape, holding off lame-duck status for now. But some signs are emerging that prominent members of his party are readying 2028 presidential bids. Those moves are only likely to accelerate after November\u2019s midterms. A post-Trump landscape will be tricky to navigate. The president has transformed his party during his decade...",
-   "published": "2026-09-06T10:00:00+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-06T11:02:53.366214+00:00"
-  },
-  {
-   "id": "1223307291241dc9",
-   "title": "U.S. envoys Witkoff and Kushner set for talks in Kyiv after meeting Putin in Moscow",
-   "url": "https://www.npr.org/2026/09/06/nx-s1-5959657/us-envoys-witkoff-kushner-talks-in-kyiv-putin-moscow",
-   "summary": "U.S. envoys Steve Witkoff and Jared Kushner are set to arrive in Kyiv on Sunday in their first visit to the Ukrainian capital as part of a renewed push for peace in Russia's full-scale invasion of Ukraine.",
-   "published": "2026-09-06T09:51:04+00:00",
-   "source": "NPR Politics",
-   "source_id": "npr-politics",
-   "bias_note": "center",
-   "first_seen": "2026-09-06T11:02:52.795714+00:00"
   }
  ]
 }
