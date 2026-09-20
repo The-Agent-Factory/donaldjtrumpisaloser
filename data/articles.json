@@ -1,7 +1,84 @@
 {
- "updated": "2026-09-20T16:12:01.054914+00:00",
- "count": 1003,
+ "updated": "2026-09-20T18:51:24.210808+00:00",
+ "count": 1004,
  "articles": [
+  {
+   "id": "9cb4b1703c8209e9",
+   "title": "Nicki Minaj offers career advice to young Americans, delivers blunt response to Trump critics",
+   "url": "https://www.foxnews.com/media/nicki-minaj-offers-career-advice-young-americans-delivers-blunt-response-trump-critics",
+   "summary": "Rapper Nicki Minaj revealed her path from Red Lobster to global stardom and fiercely defended her support of President Donald Trump in an exclusive interview.",
+   "published": "2026-09-20T17:34:28+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-20T18:51:23.045584+00:00"
+  },
+  {
+   "id": "60e0055b84f3ba08",
+   "title": "Florida Republican says Trump 'has his own style' in handling reporters covering the White House",
+   "url": "https://thehill.com/homenews/house/6100450-salazar-defends-trump-media-ban/",
+   "summary": "Rep. Maria Elvira Salazar (R-Fla.) on Sunday said President Trump \"has his own style\" in handling reporters who cover him, defending his move to ban CNN, Politico and MS NOW's reporters from the White House. \"I think that he has his own style and that he will determine who he wants to talk to, but...",
+   "published": "2026-09-20T17:18:06+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-20T18:51:23.590179+00:00"
+  },
+  {
+   "id": "92c39b911de9bbd2",
+   "title": "House Republican doubles down on jab at Trump\u2019s immigration enforcement",
+   "url": "https://www.theguardian.com/us-news/2026/sep/20/maria-elvira-salazar-republican-trump-immigration",
+   "summary": "Florida\u2019s Mar\u00eda Elvira Salazar warns Trump that advisers are \u2018compromising his legacy\u2019 and not showing \u2018whole picture\u2019Mar\u00eda Elvira Salazar, the Republican congresswoman who has accused the president of going too far on immigration enforcement, doubled down on her criticism of the administration on Sunday, warning Donald Trump that some of his advisers were \u201ccompromising his legacy\u201d.In an interview with CBS News\u2019s Face the Nation, the Florida representative who is locked in a tight race for re-election pleaded with the US president not to \u201csquander\u201d his relationship with Hispanic voters. Though",
+   "published": "2026-09-20T17:04:19+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-09-20T18:51:23.414216+00:00"
+  },
+  {
+   "id": "163d6ddbc337660f",
+   "title": "Presidential Message on Yom Kippur",
+   "url": "https://www.whitehouse.gov/briefings-statements/2026/09/presidential-message-on-yom-kippur-a68b/",
+   "summary": "On the holiest day of the Jewish calendar, I send my best wishes to the entire Jewish community for a blessed Yom Kippur. As it is referred to in the Torah as the \u201cSabbath of Sabbaths,\u201d Yom Kippur empowers those of the Jewish faith to renew their unwavering relationship with the Creator through fasting, prayer, [&#8230;]\nThe post Presidential Message on Yom Kippur appeared first on The White House.",
+   "published": "2026-09-20T17:02:49+00:00",
+   "source": "WhiteHouse.gov News",
+   "source_id": "whitehouse",
+   "bias_note": "official/primary-source",
+   "first_seen": "2026-09-20T18:51:23.077042+00:00"
+  },
+  {
+   "id": "4a27f47b03e74542",
+   "title": "Why Trump zeroed in on Greenland, the world\u2019s largest island, mostly covered in ice \u2014 in 3 charts",
+   "url": "https://www.foxnews.com/politics/why-trump-zeroed-greenland-worlds-largest-island-mostly-covered-ice-3-charts",
+   "summary": "President Donald Trump says his Greenland deal gives the U.S. permanent control over the island&apos;s security while barring China and Russia from Arctic footholds.",
+   "published": "2026-09-20T16:58:19+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-20T18:51:23.026316+00:00"
+  },
+  {
+   "id": "73f281c46cf3bee6",
+   "title": "Khanna calls for a government agency to oversee AI 'like the FDA'",
+   "url": "https://thehill.com/policy/technology/6100322-khanna-proposes-ai-regulatory-agency/",
+   "summary": "Rep. Ro Khanna (D-Calif.) on Sunday said that the federal government should create a regulatory agency to oversee the development of artificial intelligence, similar to the Food and Drug Administration (FDA). \"Well, we need to set up an AI agency like the FDA,\" Khanna told host Margaret Brennan on CBS News's \"Face the Nation.\" \"I...",
+   "published": "2026-09-20T16:26:31+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-20T18:51:23.590203+00:00"
+  },
+  {
+   "id": "42fb11f7853702e3",
+   "title": "Obama criticizes Trump on approach to AI, escalates warning for stronger regulation",
+   "url": "https://www.foxnews.com/media/obama-criticizes-trump-approach-ai-escalates-warning-stronger-regulation",
+   "summary": "Barack Obama slammed Trump&apos;s AI stance at Colgate University, warning the administration is neither capable nor willing to build a regulatory framework.",
+   "published": "2026-09-20T16:23:02+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-20T18:51:23.045624+00:00"
+  },
   {
    "id": "d60d6adf9c4d4d1d",
    "title": "Soaring diesel prices pose latest economic headache for GOP",
@@ -10968,72 +11045,6 @@
    "source_id": "thehill",
    "bias_note": "center",
    "first_seen": "2026-09-06T22:08:52.036160+00:00"
-  },
-  {
-   "id": "152ffb291db2a5fa",
-   "title": "Army combat veteran challenging Mike Lawler calls Hegseth national security 'hazard,' backs impeachment",
-   "url": "https://www.foxnews.com/media/army-combat-veteran-challenging-mike-lawler-calls-hegseth-national-security-hazard-backs-impeachment",
-   "summary": "Cait Conley, a 16-year Army veteran challenging Rep. Mike Lawler, says she would vote for articles of impeachment against Pete Hegseth at the Pentagon.",
-   "published": "2026-09-06T18:34:28+00:00",
-   "source": "Fox News Latest",
-   "source_id": "foxnews-latest",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-09-06T22:08:51.166157+00:00"
-  },
-  {
-   "id": "a63c66dc9214d601",
-   "title": "Trump admin\u2019s mail-in ballot fight lands back at Supreme Court",
-   "url": "https://www.foxnews.com/politics/trump-admin-mail-ballot-fight-lands-back-supreme-court",
-   "summary": "The Trump administration asks the Supreme Court to enforce postal service ballot mail restrictions as North Carolina ballots already enter the mail.",
-   "published": "2026-09-06T18:19:58+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-09-06T22:08:51.140662+00:00"
-  },
-  {
-   "id": "098a34a4f882e3b6",
-   "title": "Lawler disagrees with Trump on Iran war: 'It is certainly not small potatoes'",
-   "url": "https://thehill.com/homenews/house/6073941-lawler-disagrees-trump-iran-war-small-potatoes/",
-   "summary": "Rep. Mike Lawler (R-N.Y.) on Sunday broke with President Trump regarding the commander in chief's recent statement about the Iran war where he downplayed the conflict. \u201cAny time you are at war or in a military escalation, it is certainly not small potatoes. It is serious. I think we all recognize that,\u201d Lawler told CNN\u2019s...",
-   "published": "2026-09-06T17:39:53+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-06T18:22:07.530345+00:00"
-  },
-  {
-   "id": "34dcb9cc0422e26a",
-   "title": "Wright says Iran war worth it to 'reset' Middle East",
-   "url": "https://thehill.com/homenews/administration/6073908-wright-says-iran-war-necessary/",
-   "summary": "Energy Secretary Chris Wright said Sunday the Iran war is necessary, arguing the U.S. needs to \u201creset\u201d the Middle East. During an interview on ABC News\u2019s \u201cThis Week,\u201d Wright reiterated the longstanding talking point from administration officials that the goal of the conflict is to prevent Iran from obtaining a nuclear weapon. \u201cA nuclear-armed Iran...",
-   "published": "2026-09-06T16:53:37+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-06T18:22:07.530362+00:00"
-  },
-  {
-   "id": "c493eab29b7c0d8a",
-   "title": "DOJ makes new appeal for Supreme Court to allow mail voting changes",
-   "url": "https://thehill.com/regulation/court-battles/6073865-trump-administration-asks-scotus-mailballot-restriction/",
-   "summary": "The Trump administration on Sunday again asked the Supreme Court to allow it to restrict mail-in voting this election cycle. In a 40-page emergency application, Solicitor General D. John Sauer asked the justices to immediately permit the administration to bar the U.S. Postal Service from sending mail-in ballots to residents of states that have not...",
-   "published": "2026-09-06T16:33:27+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-06T18:22:07.530366+00:00"
-  },
-  {
-   "id": "241283732c8305da",
-   "title": "Trump again asks supreme court to restrict mail-in voting as midterms loom",
-   "url": "https://www.theguardian.com/us-news/2026/sep/06/trump-administration-supreme-court-mail-in-voting",
-   "summary": "Legal fight continues as states begin sending out ballots for voters to vote by mail in November\u2019s midterm electionsThe Trump administration renewed its appeal to the US supreme court on Sunday to allow restrictions on mail-in voting, after a federal judge had blocked new limits on such ballots, just ahead of November\u2019s midterm elections.The latest filing follows a decision by US district court judge Indira Talwani on Friday to extend a court order preventing the US Postal Service (USPS) from enforcing Donald Trump\u2019s executive order.The Associated Press contributed reporting Continue reading..",
-   "published": "2026-09-06T16:23:02+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-09-06T18:22:07.291025+00:00"
   }
  ]
 }
