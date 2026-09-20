@@ -1,7 +1,139 @@
 {
- "updated": "2026-09-20T11:31:07.695199+00:00",
- "count": 992,
+ "updated": "2026-09-20T14:35:50.748987+00:00",
+ "count": 998,
  "articles": [
+  {
+   "id": "3f27e5300a47accd",
+   "title": "Trump's questionable social media posts on space deserve context",
+   "url": "https://thehill.com/opinion/technology/6098557-trump-space-force-uniforms/",
+   "summary": "Two recent social media posts by the president are causing eyebrows to rise.",
+   "published": "2026-09-20T14:00:00+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-20T14:35:49.915182+00:00"
+  },
+  {
+   "id": "2ae6fdb662f826f0",
+   "title": "Hamas allegedly built weapons depots across Europe, planned terror attacks as Oct 7 anniversary neared",
+   "url": "https://www.foxnews.com/world/hamas-allegedly-built-weapons-depots-across-europe-planned-terror-attacks-oct-7-anniversary-neared",
+   "summary": "Federal German prosecutors indicted seven suspects who allegedly stockpiled weapons for Hamas to target Jewish communities and Israeli diplomats.",
+   "published": "2026-09-20T13:56:44+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-20T14:35:49.303763+00:00"
+  },
+  {
+   "id": "b7c2873a77382e43",
+   "title": "Trump says his planned arch would become a 'military complex' able to host drones and snipers",
+   "url": "https://abcnews.com/Politics/wireStory/trump-planned-arch-become-military-complex-host-drones-136597701",
+   "summary": "President Donald Trump says the massive arch he wants to build between the Lincoln Memorial and Arlington National Cemetery would become a &ldquo;top grade military complex&rdquo; able to host drones and snipers while storing ammunition",
+   "published": "2026-09-20T13:01:01+00:00",
+   "source": "ABC News Politics",
+   "source_id": "abc-politics",
+   "bias_note": "center",
+   "first_seen": "2026-09-20T14:35:50.498976+00:00"
+  },
+  {
+   "id": "977531e1f754f4a1",
+   "title": "Trump\u2019s \u2018biggest miscalculation\u2019? How one adviser steered the great AI freakout",
+   "url": "https://www.theguardian.com/us-news/2026/sep/20/david-sacks-trump-ai-czar",
+   "summary": "David Sacks convinced Trump against any restrictions on AI \u2013 putting the White House out of step with its own partyAs lawmakers from both sides of the aisle in the US have joined together calling for the regulation of powerful artificial intelligence models, one of the few vocal naysayers has been Donald Trump. He\u2019s called the perceived dangers of the technology a \u201choax\u201d and a \u201cscam\u201d, arguing that the government already has \u201ctremendous CRIMINAL and REGULATORY power over these companies\u201d.It\u2019s a starkly different stance from those of his former adviser Steve Bannon, the Republican Texas senator ",
+   "published": "2026-09-20T13:00:17+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-09-20T14:35:49.831150+00:00"
+  },
+  {
+   "id": "de9cbcd9a771d118",
+   "title": "Live updates: Trump tweaks DC arch plans; tensions run high in Middle East",
+   "url": "https://thehill.com/homenews/administration/6100134-live-updates-trump-arch-military-complex-middle-east/",
+   "summary": "President Trump, who is in Washington after returning from Camp David a day earlier than previously scheduled, said early Sunday that the planned triumphal arch near the nation's capital will now incorporate a \"top grade military complex.\" Noting the changes were being made for national security purposes, Trump said the arch will have the ability...",
+   "published": "2026-09-20T12:50:50+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-20T14:35:49.915209+00:00"
+  },
+  {
+   "id": "0a0ee8db40aa44ee",
+   "title": "Trump says triumphal arch to be used for snipers, drones",
+   "url": "https://thehill.com/homenews/administration/6100264-trump-triumphal-arch-military-complex/",
+   "summary": "President Trump on Sunday said that the plans for the massive triumphal arch bridging Washington, D.C., and Virginia will incorporate a \"top grade military complex.\" Trump said in a Truth Social post that this change to the arch was at the request of the U.S. military \"for National Security purposes.\" \"I have agreed to convert...",
+   "published": "2026-09-20T12:35:42+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-20T14:35:49.915212+00:00"
+  },
+  {
+   "id": "fdba91227dc373ab",
+   "title": "Republican Mike Rogers courts Michigan Democrats and Trump voters as GOP hopes to hold the Senate",
+   "url": "https://abcnews.com/Politics/wireStory/republican-mike-rogers-courts-michigan-democrats-trump-voters-136597414",
+   "summary": "Republicans are trying to win an open Senate seat race in Michigan, and nominee Mike Rogers is stepping up his appeals to some Democrats",
+   "published": "2026-09-20T12:34:20+00:00",
+   "source": "ABC News Politics",
+   "source_id": "abc-politics",
+   "bias_note": "center",
+   "first_seen": "2026-09-20T14:35:50.498982+00:00"
+  },
+  {
+   "id": "185686d3476ed3ea",
+   "title": "In Colorado, a GOP candidate says his differences with Trump show he's with the voters",
+   "url": "https://www.npr.org/2026/09/20/nx-s1-5973077/in-colorado-a-gop-candidate-says-his-differences-with-trump-show-hes-with-the-voters",
+   "summary": "We look at Republican Congressman Jeff Hurd's campaign in Colorado, where he is using his breaks with President Trump as an asset in his bid for reelection.",
+   "published": "2026-09-20T12:05:41+00:00",
+   "source": "NPR Politics",
+   "source_id": "npr-politics",
+   "bias_note": "center",
+   "first_seen": "2026-09-20T14:35:49.695638+00:00"
+  },
+  {
+   "id": "cdeb7e89678a5b38",
+   "title": "Politics chat: Trump announces a Greenland deal, bans more media from the White House",
+   "url": "https://www.npr.org/2026/09/20/nx-s1-5971253/politics-chat-trump-announces-a-greenland-deal-bans-more-media-from-the-white-house",
+   "summary": "We look at President Trump's announced ban of some media outlets covering the White House, as well as what a big cash windfall might mean for Republicans in the coming midterm elections.",
+   "published": "2026-09-20T12:05:38+00:00",
+   "source": "NPR Politics",
+   "source_id": "npr-politics",
+   "bias_note": "center",
+   "first_seen": "2026-09-20T14:35:49.695644+00:00"
+  },
+  {
+   "id": "b115bc03cbf0e5ba",
+   "title": "Will Trump's new divide-and-conquer plan work against universities?",
+   "url": "https://thehill.com/opinion/education/6097990-trump-education-call-to-action/",
+   "summary": "Every college and university should agree on one issue MacMahon did not explicitly address: the United States government should never condition research funding or other benefits on adherence to the political agenda of this or any other administration.",
+   "published": "2026-09-20T12:00:00+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-20T14:35:49.915215+00:00"
+  },
+  {
+   "id": "bb80b10f0dfb83ff",
+   "title": "Obama rips Trump over AI policy amid 'doomsday' warnings",
+   "url": "https://thehill.com/policy/technology/6100229-obama-slams-trump-ai-regulation/",
+   "summary": "Former President Obama on Friday slammed President Trump over his handling of how to approach artificial intelligence (AI) amid \"doomsday\" warnings coming from some in the tech industry about the technology's potential existential threat to humanity. Obama said during an interview at Colgate University in New York that the federal government must regulate AI, before...",
+   "published": "2026-09-20T11:52:36+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-20T14:35:49.915218+00:00"
+  },
+  {
+   "id": "b57477c3a826bdb5",
+   "title": "Ex-Roanoke swimmer speaks out against Virginia Governor Abigail Spanberger for axing women's sports protection",
+   "url": "https://www.foxnews.com/outkick-sports/ex-roanoke-swimmer-speaks-out-against-virginia-governor-abigail-spanberger-axing-womens-sports-protection",
+   "summary": "Lily Mullens speaks out after Abigail Spanberger&apos;s administration quietly withdrew a Virginia regulation to protect female-only sports and spaces.",
+   "published": "2026-09-20T11:37:08+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-20T14:35:49.303883+00:00"
+  },
   {
    "id": "c22a5279e7c43fb9",
    "title": "WATCH: AI safety scare sparks Cap Hill fight over guardrails: 'China's going to eat our lunch'",
@@ -10847,72 +10979,6 @@
    "source_id": "thehill",
    "bias_note": "center",
    "first_seen": "2026-09-06T15:31:17.423305+00:00"
-  },
-  {
-   "id": "7dbeddbf9dd12aef",
-   "title": "8 everyday things that would quit working without data centers",
-   "url": "https://www.foxnews.com/politics/8-everyday-things-would-quit-working-without-data-centers",
-   "summary": "Data centers power everything from streaming and gaming to AI chatbots and fraud detection. Here&apos;s how they quietly run the apps you use daily.",
-   "published": "2026-09-06T14:17:07+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-09-06T15:31:15.105183+00:00"
-  },
-  {
-   "id": "0512b6e61e44f5d3",
-   "title": "Wright: US 'may not' reach nuclear agreement with Iran",
-   "url": "https://thehill.com/homenews/administration/6073768-wright-iran-nuclear-deal/",
-   "summary": "Energy Secretary Chris Wright said Sunday the Trump administration \u201cmay not\u201d reach a nuclear agreement with the Iranian regime. \u201cThere may not be a nuclear agreement. It may be simply destroying their capabilities to do it,\u201d Wright told host Martha Raddatz on ABC\u2019s \u201cThis Week.\u201d The Energy secretary added a nuclear agreement with the Islamic...",
-   "published": "2026-09-06T14:12:42+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-06T15:31:17.423311+00:00"
-  },
-  {
-   "id": "8aa5eeca1abb6c2f",
-   "title": "Trump envoys set for Zelensky meeting after Russia-Ukraine peace talks with Putin",
-   "url": "https://thehill.com/policy/international/6073737-trump-envoy-kyiv-peace-talks-zelensky-putin/",
-   "summary": "President Trump\u2019s son-in-law Jared Kushner and special envoy Steve Witkoff on Sunday made their way to Kyiv to discuss the Ukraine war with the country\u2019s president, Volodymyr Zelensky. The New York Times reported that Witkoff and Kushner made it to the Ukrainian capital by train and later traveled via motorcade to meet Zelensky. Both CNN...",
-   "published": "2026-09-06T13:46:17+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-06T14:00:55.944016+00:00"
-  },
-  {
-   "id": "2dd3e8092dc7a4c0",
-   "title": "Politics chat: First-ever Republican midterm convention or Trump rally?",
-   "url": "https://www.npr.org/2026/09/06/nx-s1-5954027/politics-chat-first-ever-republican-midterm-convention-or-trump-rally",
-   "summary": "A first-ever Republican midterm convention is taking place this week in Dallas, but are candidates interested in attending? Plus, Michigan's Democratic senate candidate apologizes to Jewish voters.",
-   "published": "2026-09-06T12:02:42+00:00",
-   "source": "NPR Politics",
-   "source_id": "npr-politics",
-   "bias_note": "center",
-   "first_seen": "2026-09-06T14:00:55.729300+00:00"
-  },
-  {
-   "id": "ff52fb116c5eebd7",
-   "title": "Trump is waging a war on America's children \u2014 and\u00a0he's\u00a0winning",
-   "url": "https://thehill.com/opinion/white-house/6071813-trump-administration-child-impact/",
-   "summary": "\u201cChildren are the world\u2019s most valuable resource,\u201d John F. Kennedy proclaimed, \u201cand its best hope for the future.\u201d Apparently, the\u00a0Trump administration\u00a0does not agree.",
-   "published": "2026-09-06T12:00:00+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-06T14:00:55.944046+00:00"
-  },
-  {
-   "id": "ae132835ffd55ce2",
-   "title": "Kushner, Witkoff set for Kyiv talks after Putin meeting in US push for peace",
-   "url": "https://www.foxnews.com/politics/kushner-witkoff-set-kyiv-talks-after-putin-meeting-us-push-peace",
-   "summary": "Steve Witkoff and Jared Kushner met with Vladimir Putin for over three hours in Moscow before heading to Kyiv to meet Volodymyr Zelenskyy.",
-   "published": "2026-09-06T11:35:03+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-09-06T14:00:55.224990+00:00"
   }
  ]
 }
