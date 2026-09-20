@@ -1,7 +1,73 @@
 {
- "updated": "2026-09-19T20:45:59.621696+00:00",
- "count": 990,
+ "updated": "2026-09-20T00:10:09.559256+00:00",
+ "count": 991,
  "articles": [
+  {
+   "id": "f83adc17a91b86b2",
+   "title": "Trump's MAGA Inc. funnels another $5 million into Texas Senate race",
+   "url": "https://thehill.com/homenews/campaign/6100079-trumps-maga-inc-funnels-another-5-million-into-texas-senate-race/",
+   "summary": "President Trump\u2019s super PAC, MAGA Inc., poured an additional $5 million into the Texas Senate race, according to a new Federal Election Commission (FEC) filing published Saturday.  The funds were earmarked for Del Ray Media LLC, a Virginia-based political media company, for TV and digital advertising against the Democratic nominee in this race, state Rep....",
+   "published": "2026-09-19T23:53:16+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-20T00:10:07.998295+00:00"
+  },
+  {
+   "id": "5fe9f391c0959702",
+   "title": "Newsom signs laws aimed at preventing election interference",
+   "url": "https://thehill.com/homenews/state-watch/6100050-newsom-signs-election-protection-bills/",
+   "summary": "California Gov. Gavin Newsom (D) on Saturday signed a legislation package aimed at safeguarding the state\u2019s election process against potential interference in the upcoming midterm elections. The Democratic governor, who has repeatedly warned President Trump\u2019s administration would attempt to meddle in these upcoming elections, signed 13 bills in Los Angeles.  \u201cDonald Trump won\u2019t stop until...",
+   "published": "2026-09-19T22:29:57+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-20T00:10:07.998305+00:00"
+  },
+  {
+   "id": "1c078aa6a3bd6aac",
+   "title": "Trump administration begins construction on Texas's Big Bend border wall",
+   "url": "https://thehill.com/homenews/administration/6100003-trump-border-wall-big-bend-construction/",
+   "summary": "The Trump administration began construction on a portion of the U.S.-Mexico border wall cutting through southwest Texas\u2019s Big Bend region despite local leaders' pushback against the project. Customs and Border Protection (CBP) told the Associated Press Friday that installation of 30-foot panels was already underway along this portion southern border. The construction started earlier this...",
+   "published": "2026-09-19T21:22:32+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-20T00:10:07.998325+00:00"
+  },
+  {
+   "id": "42bb5d07a94bcf32",
+   "title": "Sunday Shows Preview: Trump bans 3 media outlets from White House; Parties make final cases as midterms approach",
+   "url": "https://thehill.com/homenews/sunday-talk-shows/6100005-sunday-shows-trump-press-ban/",
+   "summary": "After President Trump announced this week he was banning Politico, CNN and MS NOW from accessing the White House, the three media outlets reported Saturday their journalists were denied access to the executive premises. White House Correspondents\u2019 Association (WHCA) President Jacqui Heinrich called on the White House to \u201cimmediately\u201d restore access to these journalists and...",
+   "published": "2026-09-19T21:20:13+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-20T00:10:07.998332+00:00"
+  },
+  {
+   "id": "c35ccafca585cfcc",
+   "title": "NORAD F-16 intercepts aircraft that violated restricted airspace over Camp David with Trump present: officials",
+   "url": "https://www.foxnews.com/politics/norad-f-16-intercepts-aircraft-violated-restricted-airspace-over-camp-david-trump-present-officials",
+   "summary": "A NORAD F-16 reportedly intercepted an aircraft violating restricted airspace over Camp David Saturday while President Donald Trump stayed there.",
+   "published": "2026-09-19T21:01:16+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-20T00:10:06.525178+00:00"
+  },
+  {
+   "id": "58dc59a3653efa66",
+   "title": "Lawmakers see waste in DOGE\u2019s \u2018stupid\u2019 $7B buyout costs",
+   "url": "https://thehill.com/homenews/administration/6098644-trump-doge-buyout-costs/",
+   "summary": "A new government report showing that the administration spent $7 billion paying staff not to work as it pushed its buyouts is sparking the latest round of scrutiny of President Trump\u2019s DOGE era. A report from the Government Accountability Office (GAO) estimated the administration spent $6.7 billion on administrative leave after Department of Government Efficiency...",
+   "published": "2026-09-19T21:00:00+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-20T00:10:07.998337+00:00"
+  },
   {
    "id": "b071d75d17b87921",
    "title": "Trump plans to form 'AI Force,' appoint 'AI Czar'",
@@ -10836,61 +10902,6 @@
    "source_id": "foxnews-politics",
    "bias_note": "right-leaning",
    "first_seen": "2026-09-06T04:45:29.857502+00:00"
-  },
-  {
-   "id": "a63e3bafcb7aae35",
-   "title": "Here's a look at 'reach' election races where Democrats hope to pull off House upsets",
-   "url": "https://www.pbs.org/newshour/politics/heres-a-look-at-reach-election-races-where-democrats-hope-to-pull-off-house-upsets",
-   "summary": "The party in power traditionally suffers losses during midterm elections. Democrats managed to avoid a predicted 2022 \"red wave,\" but they saw Republicans flip both chambers when President Donald Trump was reelected last cycle.",
-   "published": "2026-09-05T22:36:33+00:00",
-   "source": "PBS NewsHour Politics",
-   "source_id": "pbs-politics",
-   "bias_note": "center",
-   "first_seen": "2026-09-05T23:56:33.756403+00:00"
-  },
-  {
-   "id": "b6a92f7a4509f3ea",
-   "title": "Trump admin ends $45M support for Namibia HIV program",
-   "url": "https://thehill.com/policy/international/6073469-us-ends-namibia-hiv-funding/",
-   "summary": "The Trump administration announced it will be ending $45 million in support for Namibia\u2019s HIV response program following two decades of annual payments. The U.S. will provide its final $45 million payment in the 2027 fiscal year as \u201cthis support will transition into a technical cooperation model,\u201d according to a Friday joint statement from Namibia\u2019s...",
-   "published": "2026-09-05T22:24:04+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-05T23:56:33.591787+00:00"
-  },
-  {
-   "id": "403dd5af954a222a",
-   "title": "Trump's MAGA Inc. super-PAC funnels $10 million into Ken Paxton's Senate campaign",
-   "url": "https://thehill.com/homenews/campaign/6073421-trump-maga-inc-paxton-donation-10-million/",
-   "summary": "President Trump\u2019s super-PAC MAGA Inc. gave $10 million to Texas Attorney General Ken Paxton's (R) Senate campaign ahead of the 2026 midterm elections, according to Federal Election Commission (FEC) filings published Saturday. The $10 million payment, given to political media company, Del Ray Media, funded two attack ads against his Democratic opponent James Talarico \u2014...",
-   "published": "2026-09-05T21:43:31+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-05T22:04:26.785289+00:00"
-  },
-  {
-   "id": "669f43d54a95fe85",
-   "title": "EXCLUSIVE: FBI's fifth 'Most Wanted Fraudster' captured after alleged SNAP scam suspect arrested in India",
-   "url": "https://www.foxnews.com/us/exclusive-fbis-fifth-most-wanted-fraudster-captured-alleged-snap-scam-suspect-arrested-india",
-   "summary": "Manjit Singh Bedi was arrested in India after allegedly fleeing the U.S. to escape SNAP benefits fraud charges tied to a $600,000 EBT scheme.",
-   "published": "2026-09-05T21:31:35+00:00",
-   "source": "Fox News Latest",
-   "source_id": "foxnews-latest",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-09-05T22:04:25.383812+00:00"
-  },
-  {
-   "id": "8a6aa0f5154f5a46",
-   "title": "Trump faces down beef backlash. Will import plan pay off?",
-   "url": "https://thehill.com/homenews/administration/6072701-trump-imports-foreign-beef/",
-   "summary": "President Trump is pushing ahead with his plan to import foreign beef as a way to reduce prices for Americans, despite the backlash from cattle farmers and Republicans whose states would be most be most affected. In an apparent effort to soften the blow, Trump signed executive orders Friday, including one that allows ranchers and...",
-   "published": "2026-09-05T21:00:00+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-05T22:04:26.785295+00:00"
   }
  ]
 }
