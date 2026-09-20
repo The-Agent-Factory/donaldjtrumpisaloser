@@ -1,7 +1,150 @@
 {
- "updated": "2026-09-20T18:51:24.210808+00:00",
- "count": 1004,
+ "updated": "2026-09-20T22:29:55.535948+00:00",
+ "count": 1010,
  "articles": [
+  {
+   "id": "55fb09b51fbc93fa",
+   "title": "Grassley urges Trump to place embargo on diesel exports amid high prices",
+   "url": "https://thehill.com/policy/transportation/6100820-grassley-urges-trump-diesel-embargo/",
+   "summary": "Iowa Sen. Chuck Grassley (R) on Saturday pressed President Trump for an embargo on diesel exports amid high prices for the fuel. \u201c[W]hy doesn\u2019t Pres Trump put an embargo on diesel exports like presidents in the 70s put embargoes on ag[riculture] products [because] food prices were inflated,\u201d Grassley said in a Saturday night post on...",
+   "published": "2026-09-20T22:02:18+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-20T22:29:54.364217+00:00"
+  },
+  {
+   "id": "ca042d2ba41c8967",
+   "title": "Trump reportedly to form health funding board that could veto \u2018woke\u2019 initiatives",
+   "url": "https://www.theguardian.com/us-news/2026/sep/20/trump-order-nih-health-research-funding-board",
+   "summary": "President\u2019s latest order expected to bring NIH funding under control of Trump administration to align with agendaDonald Trump\u2019s latest executive order is expected to establish a board responsible for approving National Institutes of Health grant funding, marking another attempt by the Trump administration to censor topics that do not align with the president\u2019s agenda.The executive order, reported by outlets including the Washington Post and Politico, was discussed in a meeting on Friday where senior administration officials accused the NIH of funding \u201cwoke\u201d initiatives that went against Trump\u2019",
+   "published": "2026-09-20T21:53:00+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-09-20T22:29:54.191435+00:00"
+  },
+  {
+   "id": "e32526a710929656",
+   "title": "President Trump navigates tough political waters with UNGA, Xi visit and AI",
+   "url": "https://www.npr.org/2026/09/20/nx-s1-5975459/president-trump-navigates-tough-political-waters-with-unga-xi-visit-and-ai",
+   "summary": "President Trump has a big week on the international stage, from the United Nations General Assembly to hosting the Chinese president at the White House.",
+   "published": "2026-09-20T21:14:01+00:00",
+   "source": "NPR Politics",
+   "source_id": "npr-politics",
+   "bias_note": "center",
+   "first_seen": "2026-09-20T22:29:54.044701+00:00"
+  },
+  {
+   "id": "88c5531233108a16",
+   "title": "AI fears burst onto Trump-Xi agenda, but challenges abound",
+   "url": "https://thehill.com/policy/international/6099099-trump-xi-ai-talks-us-china/",
+   "summary": "Apocalyptic warnings about the danger of uncontrolled artificial intelligence are adding new urgency to talks between President Trump and Chinese President Xi Jinping set for next week.  Trump has dismissed AI\u2019s existential threats as a \u201choax\u201d \u2014 a view that analysts say aligns with China\u2019s general perspective. Intense competition for primacy and mutual distrust have...",
+   "published": "2026-09-20T21:00:00+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-20T22:29:54.364244+00:00"
+  },
+  {
+   "id": "35e919bba6369349",
+   "title": "Zelensky to meet with Trump in New York this week",
+   "url": "https://thehill.com/policy/international/6100733-trump-zelensky-nyc-meeting/",
+   "summary": "President Trump and Ukrainian President Volodymyr Zelensky are meeting in New York City this week, the Ukrainian leader said Sunday. \u201cI just spoke with President Trump @POTUS. An important conversation, and we got through a lot. We agreed to meet in New York, and this meeting could change a lot. There is diplomatic momentum,\u201d Zelensky...",
+   "published": "2026-09-20T20:48:30+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-20T22:29:54.364250+00:00"
+  },
+  {
+   "id": "bf9894bffee9ff9b",
+   "title": "Trump, Iranian president converge on NYC for \u2018dramatic\u2019 UN showdown as Tehran faces tight restrictions",
+   "url": "https://www.foxnews.com/world/trump-iranian-president-converge-nyc-dramatic-un-showdown-tehran-faces-tight-restrictions",
+   "summary": "President Donald Trump and Masoud Pezeshkian converge on New York City for the U.N. General Assembly amid strict U.S. restrictions on Iran&apos;s delegation movements.",
+   "published": "2026-09-20T20:30:57+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-20T22:29:53.366971+00:00"
+  },
+  {
+   "id": "4eaa72591a8149a9",
+   "title": "Xi prepares China \u2018for battle\u2019 as expert warns of grave danger facing US ahead of DC summit",
+   "url": "https://www.foxnews.com/media/xi-prepares-china-battle-expert-warns-grave-danger-facing-us-ahead-dc-summit",
+   "summary": "China expert Gordon Chang claims Xi Jinping is preparing China for war against the U.S. as President Donald Trump hosts a high-stakes summit Thursday.",
+   "published": "2026-09-20T19:57:13+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-20T22:29:53.366999+00:00"
+  },
+  {
+   "id": "a088b3c28673dbb0",
+   "title": "Florida Republican calls interim Venezuelan president 'necessary evil'",
+   "url": "https://thehill.com/homenews/house/6100642-salazar-delcy-rodriguez-necessary-evil/",
+   "summary": "Rep. Maria Elvira Salazar (R-Fla.) on Sunday called Venezuela's interim president Delcy Rodr\u00edguez a \"necessary evil\" until the Latin American country can have free and fair elections. Salazar defended President Trump's decision to meet with Rodr\u00edguez in New York City, while Trump is present for the annual United Nations General Assembly. She told CBS News's...",
+   "published": "2026-09-20T19:44:21+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-20T22:29:54.364271+00:00"
+  },
+  {
+   "id": "68e49a3f2f4c0b43",
+   "title": "Hassett on Iran war: 'The president had to act'",
+   "url": "https://thehill.com/homenews/administration/6100592-hassett-defends-trump-iran-war/",
+   "summary": "National Economic Council Director Kevin Hassett on Sunday defended President Trump's handling of the Iran war and said the president \"had to act,\" suggesting that otherwise the outcome could have been dire. \"The whole thing started because the Iranians told us we don't have to talk to you anymore, because we're two weeks from having...",
+   "published": "2026-09-20T19:20:49+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-20T22:29:54.364274+00:00"
+  },
+  {
+   "id": "7b158ad2fb5db1a4",
+   "title": "Trump, Mamdani to meet in New York on Monday",
+   "url": "https://thehill.com/homenews/administration/6100625-trump-mamdani-gracie-mansion-meeting/",
+   "summary": "President Trump and New York City Mayor Zohran Mamdani (D) are set to meet Monday at the mayor\u2019s house, Gracie Mansion, in the Big Apple, a White House official and the mayor\u2019s press office said Sunday. In an emailed statement, Mamdani\u2019s press office said that \u201cthe meeting will focus on issues affecting New York City...",
+   "published": "2026-09-20T19:18:54+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-20T22:29:54.364279+00:00"
+  },
+  {
+   "id": "4b1041ee3fab622f",
+   "title": "America and China are fighting for the future of AI \u2014 chips are the battlefield",
+   "url": "https://www.foxnews.com/opinion/america-china-fighting-future-ai-chips-battlefield",
+   "summary": "President Donald Trump and Xi Jinping meet in Washington as Huawei races to build a rival AI chip ecosystem that could displace American semiconductor dominance.",
+   "published": "2026-09-20T18:48:22+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-20T22:29:53.367037+00:00"
+  },
+  {
+   "id": "10298c22451dd935",
+   "title": "Trump to meet with Mamdani in New York amid high-stakes midterm push",
+   "url": "https://www.foxnews.com/politics/trump-meet-mamdani-new-york-amid-high-stakes-midterm-push",
+   "summary": "Zohran Mamdani will host Donald Trump at Gracie Mansion on Monday for their third face-to-face meeting to discuss issues affecting NYC residents.",
+   "published": "2026-09-20T18:45:41+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-20T22:29:53.347783+00:00"
+  },
+  {
+   "id": "39b556af69947c80",
+   "title": "Andy Burnham faces a weakened Trump \u2013 but the president remains unpredictable",
+   "url": "https://www.theguardian.com/us-news/2026/sep/20/andy-burnham-faces-a-weakened-trump-but-the-president-remains-unpredictable",
+   "summary": "PM hopes to be firmer with US leader than his predecessor without provoking diplomatic warfare, as the Iran war weighs on the UK economyNo international relationship has more power to determine the success of Andy Burnham\u2019s premiership. So you might imagine the stakes for the prime minister\u2019s first face-to-face meeting with Donald Trump on Tuesday would be high.Yet Burnham may prove to be a lucky general. The balance of risk has shifted. Trump is unpopular at home, where inflation remains high, and is mired in an intractable conflict in Iran that has the potential to sink his midterm dreams. C",
+   "published": "2026-09-20T18:45:23+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-09-20T22:29:54.191445+00:00"
+  },
   {
    "id": "9cb4b1703c8209e9",
    "title": "Nicki Minaj offers career advice to young Americans, delivers blunt response to Trump critics",
@@ -10968,83 +11111,6 @@
    "source_id": "thehill",
    "bias_note": "center",
    "first_seen": "2026-09-06T23:58:47.810455+00:00"
-  },
-  {
-   "id": "a2575a7c7a5694e4",
-   "title": "Trump says White House helipad work is done after August project restart",
-   "url": "https://thehill.com/homenews/administration/6074141-trump-completes-white-house-helipad/",
-   "summary": "President Trump on Sunday announced that the White House helipad, which was redone at his request last month, has been completed. Trump posted a photo of former President Dwight D. Eisenhower on the White House lawn before departing in an Air Force H-13J helicopter in July 1957, becoming the first U.S. president to fly in...",
-   "published": "2026-09-06T21:15:02+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-06T22:08:52.036083+00:00"
-  },
-  {
-   "id": "3583d10b1d24f628",
-   "title": "Trump administration expands mass deportations with noncriminals",
-   "url": "https://thehill.com/homenews/administration/6072318-ice-arrests-surge-non-criminals/",
-   "summary": "A surge in immigration arrests is sweeping up immigrants with no criminal record whatsoever, including many who were already known by the government, as officers push to meet quotas set by the Trump administration. U.S. Immigration and Customs Enforcement (ICE) officers broke records for the second Trump administration with back-to-back months of arrests topping 50,000...",
-   "published": "2026-09-06T21:00:00+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-06T22:08:52.036111+00:00"
-  },
-  {
-   "id": "cd5a9883f3fbcc29",
-   "title": "Trump: Canada's currency imbalance with US will be 'no longer'",
-   "url": "https://thehill.com/homenews/administration/6074097-trump-calls-canada-dollar-imbalance-unacceptable/",
-   "summary": "President Trump said Sunday the U.S. dollar to Canadian dollar \u201cimbalance\u201d is \u201cunacceptable,\u201d two days before Canadian tariffs will go into effect on a slew of American goods. \u201cCanada\u2019s (currency) Dollar imbalance with the U.S. is unacceptable,\u201d Trump wrote on Truth Social. \u201cIt has been that way for years \u2014 but no longer!\u201d One Canadian...",
-   "published": "2026-09-06T20:17:45+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-06T22:08:52.036145+00:00"
-  },
-  {
-   "id": "4055955d2ad61a21",
-   "title": "Wright: US has 'a lot of leverage' in Venezuela after oil deal reached",
-   "url": "https://thehill.com/policy/energy-environment/6074075-us-leverage-venezuela-oil-deal/",
-   "summary": "Energy Secretary Chris Wright said on Sunday that the U.S. has \u201ca lot of leverage\u201d over Venezuela after the Trump administration reached a deal with the latter government to grant it control of more than 65 billion barrels of oil.\u00a0 \u201cWe have a lot of leverage over Venezuela. We control the sale of oil outside...",
-   "published": "2026-09-06T19:58:55+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-06T22:08:52.036150+00:00"
-  },
-  {
-   "id": "a9abbc860d8b724c",
-   "title": "At least 5 dead after Amazon cargo plane barreled off runway at Miami airport",
-   "url": "https://thehill.com/policy/transportation/aviation/6074113-amazon-cargo-plane-sends-up-billowing-cloud-of-smoke-after-overrunning-runway-at-miami-airport/",
-   "summary": "The Federal Aviation Administration said the aircraft overran the runway at around 2 p.m. after heading into Florida from San Juan, Puerto Rico.",
-   "published": "2026-09-06T19:56:17+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-06T22:08:52.036154+00:00"
-  },
-  {
-   "id": "8abd07a1aff321c5",
-   "title": "After 'Lake America,' Trump suggests a new name for the state of New Mexico",
-   "url": "https://www.foxnews.com/politics/lake-america-trump-suggests-new-name-state-new-mexico",
-   "summary": "The White House reposted Trump&apos;s Truth Social image showing New Mexico crossed out and rebranded as &quot;America&quot; days after the Lake America order.",
-   "published": "2026-09-06T19:44:41+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-09-06T22:08:51.140650+00:00"
-  },
-  {
-   "id": "2da7724ab60861d9",
-   "title": "Hinojosa on Trump $10 million Paxton race investment: 'I welcome the attention on Texas'",
-   "url": "https://thehill.com/homenews/campaign/6074013-hinojosa-texas-elections-democrats-tossup-attention/",
-   "summary": "Texas gubernatorial candidate Gina Hinojosa (D) embraced the new spotlight on her state brought on by the unexpectedly close Senate race between Democrat James Talarico and Republican Ken Paxton. \u201cYou are running in a state President Trump won by nearly 14 percentage points. He just announced, as I mentioned, that $10 million investment to boost...",
-   "published": "2026-09-06T19:20:18+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-06T22:08:52.036160+00:00"
   }
  ]
 }
