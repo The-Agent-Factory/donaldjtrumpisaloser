@@ -1,7 +1,216 @@
 {
- "updated": "2026-09-21T12:55:52.757242+00:00",
- "count": 1015,
+ "updated": "2026-09-21T16:51:09.662512+00:00",
+ "count": 1029,
  "articles": [
+  {
+   "id": "bdffdf917a5418e8",
+   "title": "Battle lines drawn over Trump\u2019s White House media ban",
+   "url": "https://thehill.com/newsletters/1230-report/6102062-donald-trump-media-battle-lines-white-house-ban-un-general-assembly-iran-war-midterms/",
+   "summary": "Presented by American Policy Ventures \u2014 \ud83c\udf4e Plus: UN General Assembly kicks off in New York {beacon} &#8202; It\u2019s Monday. We\u2019re already drinking from a firehose of news so far today, so let\u2019s dive in.  &#8202; In today's issue: Press pushes back on White House ban  UN General Assembly kicks off in New York  Trump...",
+   "published": "2026-09-21T16:41:39+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-21T16:51:08.337354+00:00"
+  },
+  {
+   "id": "6187f684c0cc6341",
+   "title": "Watch live: Vance rallies GOP voters in North Carolina ahead of midterms",
+   "url": "https://thehill.com/video-clips/6102011-watch-live-jd-vance-north-carolina-rally-midterms/",
+   "summary": "Vice President Vance will rally Republican voters Monday in North Carolina as the party fights to hold a key Senate seat in November. Vance is set to appear in Greensboro, less than a week after President Trump traveled to the Tar Heel State, to campaign alongside GOP Senate nominee Michael Whatley. The ex-Republican National Committee...",
+   "published": "2026-09-21T16:33:58+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-21T16:51:08.337368+00:00"
+  },
+  {
+   "id": "a2dbdc8529a4e01c",
+   "title": "Lawsuit over White House media ban assigned to Trump nominee",
+   "url": "https://thehill.com/regulation/court-battles/6101969-trump-appointee-judge-media-lawsuit/",
+   "summary": "The judge who will decide whether President Trump constitutionally banned a trio of media outlets from the White House is one of the president\u2019s nominees \u2014 and he\u2019s no stranger to Trump\u2019s clashes with the press.\u00a0 U.S. District Judge Timothy Kelly, whom Trump nominated to the federal bench in the nation\u2019s capital during his first...",
+   "published": "2026-09-21T16:27:33+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-21T16:51:08.337383+00:00"
+  },
+  {
+   "id": "9f2cb9c3f965c7b9",
+   "title": "Spanberger sparks outrage after sneakily ending Youngkin-era women's sports protections",
+   "url": "https://www.foxnews.com/politics/spanberger-sparks-outrage-sneakily-ending-youngkin-era-womens-sports-protections",
+   "summary": "Abigail Spanberger&apos;s administration quietly ended Glenn Youngkin&apos;s rulemaking process to protect girls sports along sex-based lines in Virginia.",
+   "published": "2026-09-21T16:26:47+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-21T16:51:05.217252+00:00"
+  },
+  {
+   "id": "66e5d5f2fe852572",
+   "title": "Dem lawmakers scoff at Trump's $5K 'fantasy land' promise: 'Ain't happening'",
+   "url": "https://www.foxnews.com/politics/dem-lawmakers-scoff-trumps-5k-fantasy-land-promise-aint-happening",
+   "summary": "President Donald Trump&apos;s $5,000 dividend pledge faces bipartisan pushback, with Democrats calling it a &quot;bribe&quot; and Republicans questioning its feasibility.",
+   "published": "2026-09-21T16:19:29+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-21T16:51:05.217261+00:00"
+  },
+  {
+   "id": "4588dcc4fdcba4d2",
+   "title": "Key ally urges Trump to back US farmers amid anger over rising prices",
+   "url": "https://www.theguardian.com/us-news/2026/sep/21/trump-farmers-chuck-grassley",
+   "summary": "Iowa senator Chuck Grassley calls for embargo on diesel exports as tariffs and Iran war drive up costs for sectorDonald Trump is facing growing calls, including from within his own party, to boost support for US farmers as his administration faces mounting anger over its treatment of the agricultural sector.Republican senator Chuck Grassley of Iowa called on the US president to place an embargo on diesel exports this weekend and help farmers grapple with high prices. Continue reading...",
+   "published": "2026-09-21T16:18:56+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-09-21T16:51:06.311602+00:00"
+  },
+  {
+   "id": "ed7e6337e53f5cfc",
+   "title": "Watch live: Duffy gives remarks as FAA rolls out AI tool for air traffic control",
+   "url": "https://thehill.com/video-clips/6101918-watch-live-sean-duffy-ai-tool-air-traffic-control-faa/",
+   "summary": "Transportation Secretary Sean Duffy will give remarks Monday as the Federal Aviation Administration (FAA) rolls out a new artificial intelligence tool aimed at helping air traffic controllers manage congestion and reduce flight delays. The Strategic Management of Airspace, Routes, and Trajectories (SMART) program will use AI to analyze air travel, airport capacity and weather. The...",
+   "published": "2026-09-21T16:15:59+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-21T16:51:08.337403+00:00"
+  },
+  {
+   "id": "a5ea5da16bb33ef9",
+   "title": "Conservative 'Squawk Box' host presses Bessent on media ban: 'We don\u2019t do this'",
+   "url": "https://thehill.com/homenews/6101941-bessent-defends-white-house-media-ban/",
+   "summary": "Treasury Secretary Scott Bessent defended the White House\u2019s ban of CNN, MS NOW and Politico reporters from the White House grounds Monday on CNBC\u2019s \u201cSquawk Box.\" Bessent joined the financial news show just days after President Trump banned members of three news agencies from the White House in response to what he deemed \u201cfake news.\u201d...",
+   "published": "2026-09-21T16:13:52+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-21T16:51:08.337410+00:00"
+  },
+  {
+   "id": "fc69ed76c2a4d2bd",
+   "title": "Suspects in Haitian president's assassination transferred to Miami, accused of funding plot with COVID fraud",
+   "url": "https://www.foxnews.com/us/suspects-haitian-presidents-assassination-transferred-miami-accused-funding-plot-covid-fraud",
+   "summary": "Exclusive video shows 18 shackled suspects arriving in Miami after transfer in the assassination of Haitian President Jovenel Mo\u00efse case.",
+   "published": "2026-09-21T16:05:54+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-21T16:51:05.326055+00:00"
+  },
+  {
+   "id": "d25a1821395a5b74",
+   "title": "Trump, Mamdani set to meet again on mayor\u2019s home turf after months of political whiplash",
+   "url": "https://www.foxnews.com/politics/trump-mamdani-set-meet-again-mayors-home-turf-after-months-political-whiplash",
+   "summary": "President Donald Trump and Mayor Zohran Mamdani meet at Gracie Mansion amid fierce clashes over immigration enforcement and the public charge rule.",
+   "published": "2026-09-21T16:02:52+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-21T16:51:05.217269+00:00"
+  },
+  {
+   "id": "3af839a9fdb3ae58",
+   "title": "MN Dem Senate candidate's viral hijab video takes new turn as woman beside her faces major state investigation",
+   "url": "https://www.foxnews.com/politics/mn-dem-senate-candidate-viral-hijab-video-takes-new-turn-woman-beside-her-faces-major-state-investigation",
+   "summary": "Peggy Flanagan faces new scrutiny after a longtime friend&apos;s autism center, Milestone Development Centers, is investigated for Medicaid fraud.",
+   "published": "2026-09-21T16:00:38+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-21T16:51:05.217276+00:00"
+  },
+  {
+   "id": "519e4c8ca726f564",
+   "title": "Trump's Achilles heel is the stock market",
+   "url": "https://thehill.com/opinion/white-house/6100755-trump-ai-bubble-economic-risk/",
+   "summary": "While artificial intelligence leaders call for regulation to prevent existential risks, President Donald Trump continues to dismiss AI fears as a hoax to protect a stock market heavily reliant on AI speculation.",
+   "published": "2026-09-21T16:00:00+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-21T16:51:08.337414+00:00"
+  },
+  {
+   "id": "d66934ac8d835dc3",
+   "title": "Trump's 'grand conspiracy' probe presses on with subpoenas after the lead prosecutor's exit",
+   "url": "https://www.pbs.org/newshour/politics/trumps-grand-conspiracy-probe-presses-on-with-subpoenas-after-the-lead-prosecutors-exit",
+   "summary": "Investigators face not only legal hurdles and personnel upheaval but an impatient White House after more than a year of fits and starts.",
+   "published": "2026-09-21T15:49:15+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-09-21T16:51:08.684303+00:00"
+  },
+  {
+   "id": "f75fa07515671b2b",
+   "title": "Vance defends Trump's media ban as 'totally appropriate'",
+   "url": "https://thehill.com/homenews/administration/6101796-vance-defends-trump-media-ban/",
+   "summary": "Vice President Vance, who has long cast himself as a champion of free speech, defended President Trump\u2019s ban on three outlets from the White House, calling the move \u201ctotally appropriate\" on Monday. \u201cHe\u2019s not banning media outlets. What he\u2019s doing is saying \u2018we\u2019re not going to give you special access to the White House if...",
+   "published": "2026-09-21T15:31:17+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-21T16:51:08.337443+00:00"
+  },
+  {
+   "id": "3f48f30dd1d3ea86",
+   "title": "The Washington press corps needs to boycott White House events   | Margaret Sullivan",
+   "url": "https://www.theguardian.com/commentisfree/2026/sep/21/white-house-press-corps-boycott",
+   "summary": "CNN, MS Now and Politico accurately call last week\u2019s sudden lockout \u2018a direct assault on the first amendment\u2019. That\u2019s rightOn Monday, the three news organizations that had been kicked out of the White House because of Donald Trump\u2019s latest fit of pique sued the president and three top advisers.An accompanying statement by CNN, MS Now and Politico accurately calls last week\u2019s sudden lockout \u201ca direct assault on the first amendment\u201d. Continue reading...",
+   "published": "2026-09-21T15:21:19+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-09-21T16:51:06.311661+00:00"
+  },
+  {
+   "id": "c41018da5c1106bb",
+   "title": "White House TV pool to suspend coverage of Trump events",
+   "url": "https://www.foxnews.com/media/white-house-tv-pool-to-suspend-coverage-of-trump-events",
+   "summary": "FOX News Media, ABC News, CBS News, CNN and NBC News agreed to suspend pooled White House coverage after Trump&apos;s attempted ban on CNN reporting.",
+   "published": "2026-09-21T14:50:05+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-21T16:51:05.326096+00:00"
+  },
+  {
+   "id": "a2be833ad825fc01",
+   "title": "G20 Energy Abundance Ministerial Concludes with Four Consensus Outcomes",
+   "url": "https://www.whitehouse.gov/releases/2026/09/g20-energy-abundance-ministerial-concludes-with-four-consensus-outcomes/",
+   "summary": "On Wednesday, September 16th, 2026, G20 Energy Ministers concluded the Energy Abundance Ministerial in Houston, Texas. The Ministerial was hosted by the White House National Energy Dominance Council (NEDC), the Department of the Interior, the Department of Energy, and the Environmental Protection Agency. At the conclusion of the Ministerial, G20 Ministers reached consensus on four [&#8230;]\nThe post G20 Energy Abundance Ministerial Concludes with Four Consensus Outcomes appeared first on The White House.",
+   "published": "2026-09-21T14:41:07+00:00",
+   "source": "WhiteHouse.gov News",
+   "source_id": "whitehouse",
+   "bias_note": "official/primary-source",
+   "first_seen": "2026-09-21T16:51:05.540850+00:00"
+  },
+  {
+   "id": "5590a52e2a128ca6",
+   "title": "First Lady Melania Trump Releases Details Ahead of His Excellency Xi Jinping, President of The People\u2019s Republic of China, and Madame Peng Liyuan\u2019s Visit to The White House",
+   "url": "https://www.whitehouse.gov/briefings-statements/2026/09/first-lady-melania-trump-releases-details-ahead-of-his-excellency-xi-jinping-president-of-the-peoples-republic-of-china-and-madame-peng-liyuans-visit-to-the-white-house/",
+   "summary": "President Donald J. Trump and First Lady Melania Trump will welcome His Excellency Xi Jinping, President of the People\u2019s Republic of China and Madame Peng Liyuan to the White House on Thursday, September 24, 2026, for an official state visit. This visit comes more than a decade since President Xi and Madame Peng\u2019s last visit [&#8230;]\nThe post First Lady Melania Trump Releases Details Ahead of His Excellency Xi Jinping, President of The People\u2019s Republic of China, and Madame Peng Liyuan\u2019s Visit to The White House appeared first on The White House.",
+   "published": "2026-09-21T13:17:18+00:00",
+   "source": "WhiteHouse.gov News",
+   "source_id": "whitehouse",
+   "bias_note": "official/primary-source",
+   "first_seen": "2026-09-21T16:51:05.540857+00:00"
+  },
+  {
+   "id": "2c42f3ee4e2a5d31",
+   "title": "GOP fiscal hawk sounds alarm on 'out of control' federal spending, saying 'both parties have failed us'",
+   "url": "https://www.foxnews.com/politics/gop-fiscal-hawk-sounds-alarm-out-control-federal-spending-saying-both-parties-have-failed-us",
+   "summary": "Sen. Paul, who said &quot;both parties have failed us,&quot; does not support President Trump&apos;s proposal to dole out $5,000 to American adults if the GOP wins both chambers in the midterms.",
+   "published": "2026-09-21T13:15:51+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-21T16:51:05.217304+00:00"
+  },
   {
    "id": "b13ed69e0482a4e8",
    "title": "Live updates: Outlets to sue White House over ban; Trump meets Mamdani as UN General Assembly kicks off",
@@ -11111,61 +11320,6 @@
    "source_id": "thehill",
    "bias_note": "center",
    "first_seen": "2026-09-07T18:45:22.435985+00:00"
-  },
-  {
-   "id": "b9691f3bacbe7b1a",
-   "title": "Labor Day, 2026",
-   "url": "https://www.whitehouse.gov/presidential-actions/2026/09/labor-day-2026/",
-   "summary": "By the President of the United States of America A Proclamation This Labor Day, we recognize the hard work, dedication, and unwavering commitment of the American worker.&#160; Their inspiring skill and unbreakable spirit have propelled our country forward for generations.&#160; Their strength built our cities, their genius launched and sustained our most advanced industries, and [&#8230;]\nThe post Labor Day, 2026 appeared first on The White House.",
-   "published": "2026-09-07T16:05:01+00:00",
-   "source": "WhiteHouse.gov Presidential Actions",
-   "source_id": "whitehouse-actions",
-   "bias_note": "official/primary-source",
-   "first_seen": "2026-09-07T16:19:01.529173+00:00"
-  },
-  {
-   "id": "d177e6e630ad02df",
-   "title": "Trump\u2019s DC makeover: What to know",
-   "url": "https://thehill.com/homenews/administration/6072139-trump-dc-beautification-projects/",
-   "summary": "The Supreme Court last week cleared the way for President Trump to continue construction of a massive ballroom replacing the White House\u2019s East Wing, removing a major legal hurdle for one of his several beautification projects around Washington, D.C. Since returning to office for a second term, Trump has launched a sweeping campaign to transform...",
-   "published": "2026-09-07T16:00:00+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-07T16:19:02.519571+00:00"
-  },
-  {
-   "id": "28d3c18f1d249ed6",
-   "title": "Where is 'King of Debt' Trump when we need him on the national debt?",
-   "url": "https://thehill.com/opinion/white-house/6072093-trump-king-debt-40-trillion/",
-   "summary": "The United States is now well beyond responsible management of the debt, and my party has lost its willingness to recommend the hard choices needed to control it.",
-   "published": "2026-09-07T16:00:00+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-07T16:19:02.519615+00:00"
-  },
-  {
-   "id": "1e8f4b8fa91b8a55",
-   "title": "It's\u00a0a tough time\u00a0for unions in the age of Trump \u2014 cities and states can help",
-   "url": "https://thehill.com/opinion/white-house/6071536-protecting-labor-rights/",
-   "summary": "Say\u00a0yes\u00a0to Labor Day picnics and barbeques and parades. But also\u00a0say\u00a0yes\u00a0to\u00a0building more and stronger unions.",
-   "published": "2026-09-07T15:00:00+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-07T16:19:02.519649+00:00"
-  },
-  {
-   "id": "ae33586251a5cf2d",
-   "title": "New Mexico governor rips Trump's 'New America' post, says name 'isn't up for debate'",
-   "url": "https://thehill.com/homenews/state-watch/6074788-lujan-grisham-slams-trump-new-america/",
-   "summary": "New Mexico Gov. Michelle Lujan Grisham (D) slammed President Trump\u2019s recent post where he shared a map showing her state renamed as \"New America.\" \u201cNew Mexico\u2019s name isn\u2019t up for debate \u2014 it\u2019s been ours since before the United States existed. What is up for debate? Who\u2019s showing up for working families,\u201d Lujan Grisham said...",
-   "published": "2026-09-07T13:30:51+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-07T16:19:02.519679+00:00"
   }
  ]
 }
