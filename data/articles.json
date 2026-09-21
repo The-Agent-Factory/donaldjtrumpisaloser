@@ -1,7 +1,194 @@
 {
- "updated": "2026-09-21T05:03:16.777213+00:00",
- "count": 1008,
+ "updated": "2026-09-21T12:55:52.757242+00:00",
+ "count": 1015,
  "articles": [
+  {
+   "id": "b13ed69e0482a4e8",
+   "title": "Live updates: Outlets to sue White House over ban; Trump meets Mamdani as UN General Assembly kicks off",
+   "url": "https://thehill.com/homenews/6100754-live-updates-trump-white-house-media-ban-united-nations-general-assembly/",
+   "summary": "President Trump on Monday defended his decision to bar journalists from CNN, Politico and MS Now from the White House after the news outlets announced plans to sue his administration. Trump announced the ban on Friday and reporters from the organizations were denied entry to the complex and had their credentials confiscated over the weekend....",
+   "published": "2026-09-21T12:54:22+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-21T12:55:51.722465+00:00"
+  },
+  {
+   "id": "f6588729c9dc415b",
+   "title": "CNN, MS Now and Politico to sue Trump after being blocked from White House",
+   "url": "https://www.theguardian.com/us-news/2026/sep/21/white-house-news-organization-ban-lawsuit",
+   "summary": "Three news outlets will file lawsuit in attempt to regain access to the White House after having badges disabledIn what will be one of the largest battles yet between the press and Donald Trump\u2019s administration, three news organizations \u2013 CNN, MS Now (formerly MSNBC) and Politico \u2013 that have been denied access to the White House are suing him on Monday to attempt to regain their ability to enter the building, accusing the president of violating the US constitution.The suit will be filed Monday morning in the US district court for Washington DC. Continue reading...",
+   "published": "2026-09-21T12:38:58+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-09-21T12:55:50.270345+00:00"
+  },
+  {
+   "id": "658745d930d45f79",
+   "title": "Trump denies \u2018instituting an assault on the free press\u2019",
+   "url": "https://thehill.com/homenews/administration/6101202-donald-trump-cnn-politico-msnow-white-house-ban-defense/",
+   "summary": "President Trump on Monday denied he is \"instituting an assault\" on the press after three outlets he recently banned from covering the White House announced plans to sue the administration over the move. \u201cThe White House is not instituting an assault on the Free Press, something which I cherish,\u201d Trump wrote on Truth Social, arguing...",
+   "published": "2026-09-21T12:36:06+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-21T12:55:51.722476+00:00"
+  },
+  {
+   "id": "82dcbbb9ae0c1fdd",
+   "title": "Trump denies \u2018assault\u2019 on free press as three outlets plan to sue over White House ban \u2013 live",
+   "url": "https://www.theguardian.com/us-news/live/2026/sep/21/donald-trump-arch-media-white-house-press-ban-mamdani-ai-unga-latest-news-updates",
+   "summary": "Three news outlets to sue to protect First Amendment rights; Trump claims to \u2018cherish\u2019 free press but also attacks \u2018fake news\u2019 media Sign up for US Breaking News emailsHours after the three news outlets he summarily barred from the White House announced their intentions to file a lawsuit, Trump took to social media to defend himself.\u201cThe White House is not instituting an assault on the Free Press, something which I cherish,\u201d Trump wrote on Truth Social, in response to the pending challenge from CNN, MS NOW, and Politico, the three outlets he banned. Continue reading...",
+   "published": "2026-09-21T12:23:41+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-09-21T12:55:50.270354+00:00"
+  },
+  {
+   "id": "1d0f4bab7855251b",
+   "title": "Trump's 'grand conspiracy' probe presses on with subpoenas after the lead prosecutor\u2019s exit",
+   "url": "https://abcnews.com/Politics/wireStory/trumps-grand-conspiracy-probe-presses-subpoenas-after-lead-136613902",
+   "summary": "Justice Department officials are pressing forward with an investigation of President Donald Trump's foes despite the departure of prosecutor Joe diGenova, who had been leading it for months",
+   "published": "2026-09-21T12:10:24+00:00",
+   "source": "ABC News Politics",
+   "source_id": "abc-politics",
+   "bias_note": "center",
+   "first_seen": "2026-09-21T12:55:52.546036+00:00"
+  },
+  {
+   "id": "bb9216a526a9cf88",
+   "title": "CNN, MS NOW, Politico say they've notified Trump they're suing over denied White House access",
+   "url": "https://www.pbs.org/newshour/politics/cnn-ms-now-politico-say-theyve-notified-trump-theyre-suing-over-denied-white-house-access",
+   "summary": "The actions were a clear escalation of President Donald Trump's long-running efforts \u2014 in the courts and through administrative action \u2014 to restrict news coverage by journalists he finds objectionable, and were the latest test of First Amendment protections in the United States.",
+   "published": "2026-09-21T11:39:54+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-09-21T12:55:51.961429+00:00"
+  },
+  {
+   "id": "e96de3b7865db06f",
+   "title": "News outlets banned from White House to sue Trump administration",
+   "url": "https://thehill.com/homenews/media/6101137-cnn-msnow-politico-sue-trump-administration-white-house-ban/",
+   "summary": "Officials from CNN, MS NOW and Politico said Monday the media organizations will file a lawsuit against the Trump administration, after their reporters were banned from the White House. \u201cThis morning, we notified the government that we are filing a lawsuit today to protect our First Amendment rights and defend the principle that the government...",
+   "published": "2026-09-21T11:33:02+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-21T12:55:51.722495+00:00"
+  },
+  {
+   "id": "32d92dc4f604d65e",
+   "title": "Trump plans 'AI force' as pressure for action rises",
+   "url": "https://thehill.com/newsletters/morning-report/6101131-donald-trump-ai-force-pressure-white-house-outlet-bans/",
+   "summary": "In today's issue: \u25aa New AI czar to be named \u25aa Outlets sue over White House ban \u25aa Trump adds security angle to arch \u25aa Russia holds wartime elections President Trump is responding to the rising demands to impose guardrails on AI with the creation of an \"AI Force,\" even as he argues the broader concerns...",
+   "published": "2026-09-21T11:20:34+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-21T12:55:51.722499+00:00"
+  },
+  {
+   "id": "760b945f78476411",
+   "title": "If Trump wants to lower drug prices, his obvious free-riding targets are outside the US",
+   "url": "https://www.foxnews.com/opinion/trump-lower-drug-prices-free-riding-targets-outside-us",
+   "summary": "President Donald Trump secured nine drug pricing deals, but lasting relief requires pressuring foreign countries to pay their fair share for medicine.",
+   "published": "2026-09-21T11:00:56+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-21T12:55:49.488549+00:00"
+  },
+  {
+   "id": "198e553e3c1f2dce",
+   "title": "Trump\u2019s massive Greenland deal makes clear who controls the Arctic\u2019s strategic future",
+   "url": "https://www.foxnews.com/opinion/trumps-massive-greenland-deal-makes-clear-who-controls-arctics-strategic-future",
+   "summary": "President Donald Trump&apos;s Greenland deal blocks China from military bases and sensitive investments on the strategic Arctic island near the U.S.",
+   "published": "2026-09-21T10:00:15+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-21T12:55:49.488611+00:00"
+  },
+  {
+   "id": "e72adb33c01aa142",
+   "title": "ICE agent shoots and wounds Venezuelan man at traffic stop in Austin, Texas",
+   "url": "https://www.theguardian.com/us-news/2026/sep/20/man-shot-ice-agent-austin-texas",
+   "summary": "Anti-ICE protesters gather and demand transparency at site where 28-year-old was shot in torsoA US Immigration and Customs Enforcement (ICE) officer shot and wounded a Venezuelan man on Sunday afternoon in Texas\u2019s capital city, Austin, prompting demonstrations at the scene against the Trump administration\u2019s hardline anti-immigration campaign.The man, identified by relatives and his lawyer as 28-year-old Wilber Rafael Garc\u00e9s P\u00e9rez, was taken to a hospital in Austin in a serious but stable condition, officials said, before being taken into custody. He was shot once in the torso on the city\u2019s nor",
+   "published": "2026-09-21T09:38:48+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-09-21T12:55:50.270361+00:00"
+  },
+  {
+   "id": "3036915f0583847b",
+   "title": "Trump should press Xi on China\u2019s persecution of believers at home and abroad",
+   "url": "https://www.foxnews.com/opinion/trump-press-xi-chinas-persecution-believers-home-abroad",
+   "summary": "Pastor Ezra Jin&apos;s release from a Chinese prison spotlights the CCP&apos;s vast apparatus of religious persecution ahead of Xi Jinping&apos;s Washington visit.",
+   "published": "2026-09-21T09:00:39+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-21T12:55:49.488637+00:00"
+  },
+  {
+   "id": "d04d96ee69ea2ba9",
+   "title": "Many GOP candidates still echo Trump's 2020 claims. Lots of voters want to move on",
+   "url": "https://www.npr.org/2026/09/21/nx-s1-5974313/election-denial-trump-2026",
+   "summary": "While many Republican candidates, even in some critical tossup races, still back President Trump's baseless claims about election integrity, some GOP voters say they are ready to move on.",
+   "published": "2026-09-21T09:00:00+00:00",
+   "source": "NPR Politics",
+   "source_id": "npr-politics",
+   "bias_note": "center",
+   "first_seen": "2026-09-21T12:55:50.001342+00:00"
+  },
+  {
+   "id": "378484e30fa4a4d5",
+   "title": "Watch: The New Supreme Court",
+   "url": "https://www.propublica.org/article/supreme-court-shadow-docket-explainer",
+   "summary": "The post Watch: The New Supreme Court appeared first on ProPublica.",
+   "published": "2026-09-21T09:00:00+00:00",
+   "source": "ProPublica",
+   "source_id": "propublica",
+   "bias_note": "investigative",
+   "first_seen": "2026-09-21T12:55:52.327337+00:00"
+  },
+  {
+   "id": "82ce19b4dad8734a",
+   "title": "CNN, MS NOW and Politico will sue Trump after being barred from White House",
+   "url": "https://www.npr.org/2026/09/21/nx-s1-5975451/reporters-say-they-were-blocked-from-entering-white-house-after-trump-banned-outlets",
+   "summary": "Reporters from CNN, MS NOW and Politico say they were prevented from entering the White House grounds after President Trump announced plans to ban all three outlets.",
+   "published": "2026-09-21T08:39:38+00:00",
+   "source": "NPR Politics",
+   "source_id": "npr-politics",
+   "bias_note": "center",
+   "first_seen": "2026-09-21T12:55:50.001350+00:00"
+  },
+  {
+   "id": "cdfc03741b1fc15d",
+   "title": "Freedom oppressed: the journalists caught up in Trump\u2019s ICE crackdown",
+   "url": "https://www.theguardian.com/us-news/2026/sep/21/journalists-caught-up-in-trump-ice-crackdown-press-freedom",
+   "summary": "Media workers are grappling with increasingly volatile press climate in US, with some detained and even deportedBanished: Trump\u2019s secret deportation dealsWhat is Trump\u2019s third-country deportation policy?As hundreds of masked and armed US federal agents besieged the streets of Minneapolis, turning the midwestern city into the frontline of the Trump administration\u2019s unprecedented crackdown on immigration, the independent photographer John Abernathy was documenting one of the protests that had become a daily occurrence when Immigration and Customs Enforcement tackled him.A photograph of him on th",
+   "published": "2026-09-21T05:00:39+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-09-21T12:55:50.270366+00:00"
+  },
+  {
+   "id": "606a48e7ef0fea0b",
+   "title": "What is Trump\u2019s third-country deportation policy and who does it target?",
+   "url": "https://www.theguardian.com/us-news/2026/sep/21/what-is-trump-third-country-deportation-policy",
+   "summary": "Key questions answered about scheme that has sent more than 25,000 people to countries that are not their ownBanished: Trump\u2019s secret deportation dealsFreedom oppressed: journalists caught up in Trump crackdownSince returning to office in 2025, Donald Trump\u2019s administration has deported more than 25,000 migrants, refugees and asylum seekers to countries that are not their own.Human rights lawyers describe these so-called third-country national arrangements as a \u201cshow of force\u201d, intended to make people fear the consequences of entering the US without permission. Continue reading...",
+   "published": "2026-09-21T05:00:37+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-09-21T12:55:50.270371+00:00"
+  },
   {
    "id": "d1f50771e69f9ac3",
    "title": "Whiplashed middle powers seek new alliances as Trump rages on world stage",
@@ -10979,116 +11166,6 @@
    "source_id": "thehill",
    "bias_note": "center",
    "first_seen": "2026-09-07T16:19:02.519679+00:00"
-  },
-  {
-   "id": "35d74a1b28693396",
-   "title": "UN agency accused of Hamas ties sees another European nation cut funding",
-   "url": "https://www.foxnews.com/world/un-agency-accused-hamas-ties-sees-another-european-nation-cut-funding",
-   "summary": "Finland will discontinue UNRWA funding by end of 2026, following the Trump administration and Sweden in cutting ties with the Hamas-linked U.N. agency.",
-   "published": "2026-09-07T12:46:51+00:00",
-   "source": "Fox News Latest",
-   "source_id": "foxnews-latest",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-09-07T16:19:01.061623+00:00"
-  },
-  {
-   "id": "b506adb41828c367",
-   "title": "Live updates: Canadian retaliatory tariffs loom; Big Tech opposition grows as midterms approach",
-   "url": "https://thehill.com/homenews/administration/6074261-live-canadian-tariffs-loom-us-iran-strikes/",
-   "summary": "Monday is the last day before Canada's \"dollar for dollar\" retaliatory tariffs are set to go into effect, two weeks after President Trump put 50 percent levies on $27.6 billion worth of Canadian products. There have not been reports of renewed negotiations between the two countries. \u201cCanada\u2019s Dollar imbalance with the U.S. is unacceptable,\u201d Trump...",
-   "published": "2026-09-07T12:29:27+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-07T16:19:02.519717+00:00"
-  },
-  {
-   "id": "61f246e99846ca91",
-   "title": "Legal veterans lead fightback against Trump\u2019s \u2018full-out assault on democracy\u2019",
-   "url": "https://www.theguardian.com/us-news/2026/sep/07/trump-midterm-elections-rule-of-law-democracy",
-   "summary": "Advocacy groups expand legal challenges and condemn president\u2019s \u2018self-serving attempts to take over midterms\u2019A cluster of advocacy groups that boast veteran lawyers, voting experts and ex-judges have expanded legal challenges to Donald Trump\u2019s authoritarian executive orders on voting and other presidential actions they see as a \u201cwar\u201d on the rule of law in the US.Heavy legal opposition to Trump\u2019s two executive orders on elections to curb voting rights and supplant the authority of states on election matters has come from the Democracy Defenders Fund, the Campaign Legal Center, the American Civi",
-   "published": "2026-09-07T12:00:50+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-09-07T12:41:41.600172+00:00"
-  },
-  {
-   "id": "c60433e8889bfdaf",
-   "title": "\u2018The most anti-union president\u2019: how Trump turned his back on US workers",
-   "url": "https://www.theguardian.com/us-news/2026/sep/07/trump-workers-labor-union",
-   "summary": "Labor experts stunned at how anti-worker Trump has been with actions since last Labor Day that have hurt unionsDonald Trump has repeatedly vowed to champion US workers. Shortly before Labor Day last year, he said: \u201cEvery policy of the Trump administration is designed to lift up the American worker and \u201cpromote great-paying blue-collar jobs\u201d. But in the year since last Labor Day, Trump has taken many actions that have hurt US workers and unions, with some labor experts saying they\u2019ve been stunned at how anti-worker Trump has been.In the months after Trump returned to office, the Occupational Sa",
-   "published": "2026-09-07T11:00:49+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-09-07T12:41:41.600181+00:00"
-  },
-  {
-   "id": "3b008a773a27dceb",
-   "title": "\u2018Nakedly political\u2019: US attempts to link trans support to authoritarianism in new health department report",
-   "url": "https://www.theguardian.com/us-news/2026/sep/07/hhs-report-trans-support-authoritarianism",
-   "summary": "HHS releases report linking \u2018gender ideology\u2019 to political violence \u2013 a study scientists say was poorly conductedThe US Department of Health and Human Services (HHS) recently released a report linking \u201cgender ideology\u201d to leftwing authoritarianism and political violence \u2013 a study scientists say was poorly conducted and \u201cnakedly political\u201d, likely leading to greater politicization of science and health.It follows attempts by the administration to limit access to gender-affirming care \u2013 including, on Friday, an agreement reached between the Department of Justice and a New York hospital to no lon",
-   "published": "2026-09-07T11:00:49+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-09-07T12:41:41.600189+00:00"
-  },
-  {
-   "id": "0614c8b41577fb60",
-   "title": "I'm the acting secretary of Labor and I'm here to say thank you to the American worker",
-   "url": "https://www.foxnews.com/opinion/acting-secretary-labor-thank-american-worker",
-   "summary": "Trump&apos;s acting secretary of Labor highlights manufacturing growth, apprenticeships and AI job training in a Labor Day tribute to American workers.",
-   "published": "2026-09-07T11:00:12+00:00",
-   "source": "Fox News Latest",
-   "source_id": "foxnews-latest",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-09-07T12:41:40.136271+00:00"
-  },
-  {
-   "id": "8c09e115d980c46a",
-   "title": "Former A\u2019s bat boy fooled women into thinking he was Eric Byrnes, ex-MLB star reveals",
-   "url": "https://www.foxnews.com/outkick-sports/former-as-bat-boy-fooled-women-thinking-he-was-eric-byrnes-ex-mlb-star-reveals",
-   "summary": "Eric Byrnes revealed on a podcast how an Oakland A&apos;s bat boy once impersonated him to hook up, a far cry from Daejon Love&apos;s alleged 49ers fraud.",
-   "published": "2026-09-07T10:44:31+00:00",
-   "source": "Fox News Latest",
-   "source_id": "foxnews-latest",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-09-07T12:41:40.136294+00:00"
-  },
-  {
-   "id": "aba2d1265c9086ca",
-   "title": "Republican midterm convention will be \u2018Trumpist pageantry\u2019 - at the party\u2019s own risk",
-   "url": "https://www.theguardian.com/us-news/2026/sep/07/republican-midterm-convention-trump",
-   "summary": "A historically unpopular president will take centre stage as the party seeks to sway voters with an unprecedented eventIt seemed like a good idea at the time. In December 1978, Jimmy Carter, a US president besieged by inflation and energy crises, watched as thousands of Democrats descended on Memphis, Tennessee, for a rare midterm convention.\u201cIt was wild,\u201d recalls Elaine Kamarck, who attended as a 28-year-old working for the Democratic National Committee. \u201cIt became a forum for Ted Kennedy to informally announce his opposition to president Carter. There was a lot of hostility to the president ",
-   "published": "2026-09-07T10:00:48+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-09-07T12:41:41.600195+00:00"
-  },
-  {
-   "id": "7d81c6c8b43ed0a4",
-   "title": "Prediction markets' regulation draws closer to Supreme Court",
-   "url": "https://thehill.com/regulation/court-battles/6072306-prediction-markets-supreme-court-regulation/",
-   "summary": "Prediction markets have arrived at the Supreme Court\u2019s doorstep.   New Jersey this past week urged the justices to settle how prediction markets should be regulated, and a split among the nation\u2019s appeals courts is increasing expectations that they may be inclined to get involved.  The Trump administration is trying to push states out, hoping to keep prediction markets under...",
-   "published": "2026-09-07T10:00:00+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-07T12:41:41.874366+00:00"
-  },
-  {
-   "id": "50e5162785336c9d",
-   "title": "With the midterms fast approaching, campaign season begins",
-   "url": "https://www.npr.org/2026/09/07/nx-s1-5955739/with-the-midterms-fast-approaching-campaign-season-begins",
-   "summary": "Labor Day marks the unofficial kickoff of the general election season as Republicans work to maintain control of the House and the Senate amid President Trump's unpopular second term.",
-   "published": "2026-09-07T08:43:05+00:00",
-   "source": "NPR Politics",
-   "source_id": "npr-politics",
-   "bias_note": "center",
-   "first_seen": "2026-09-07T12:41:41.340724+00:00"
   }
  ]
 }
