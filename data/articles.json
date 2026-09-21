@@ -1,7 +1,227 @@
 {
- "updated": "2026-09-21T19:31:59.891693+00:00",
- "count": 1043,
+ "updated": "2026-09-21T23:20:10.204198+00:00",
+ "count": 1054,
  "articles": [
+  {
+   "id": "e2d8864f18b83737",
+   "title": "Trump admin reportedly considers NIH grant approval takeover",
+   "url": "https://thehill.com/newsletters/healthcare/6102928-trump-admin-reportedly-considers-nih-grant-approval-takeover/",
+   "summary": "Click in for more news from The Hill {beacon} Healthcare Healthcare &#8202; The Big Story  Trump reportedly looking to take over NIH grantmaking  Dissatisfied with how grants from the National Institutes of Health (NIH) are being awarded, the Trump administration reportedly began discussions over the weekend to add more political influence over how the funds...",
+   "published": "2026-09-21T22:58:13+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-21T23:20:09.162157+00:00"
+  },
+  {
+   "id": "4411a18cf687b81e",
+   "title": "Press pool declines to cover Trump in protest of his ban on news outlets",
+   "url": "https://www.pbs.org/newshour/show/press-pool-declines-to-cover-trump-in-protest-of-his-ban-on-news-outlets",
+   "summary": "CNN, MS NOW and Politico are suing the Trump administration for stripping access to the White House, calling it a \"direct assault on the First Amendment.\" Monday, CNN was removed from its duties for the rotating pool of TV journalists covering the White House. The TV pool announced there would be no replacement to cover Trump's trip to New York for the UN General Assembly. Liz Landers reports.",
+   "published": "2026-09-21T22:55:26+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-09-21T23:20:09.343421+00:00"
+  },
+  {
+   "id": "37f85d7e34e67f47",
+   "title": "Trumpeter Dr Jesse McGuire belts national anthem after instrument malfunctions in unforgettable MLB moment",
+   "url": "https://www.foxnews.com/outkick-sports/trumpeter-dr-jesse-mcguire-belts-national-anthem-instrument-malfunctions-unforgettable-mlb-moment",
+   "summary": "The Arizona Diamondbacks&apos; 2001 World Series anniversary featured a trumpet malfunction that turned into an unforgettable national anthem moment.",
+   "published": "2026-09-21T22:52:39+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-21T23:20:08.116484+00:00"
+  },
+  {
+   "id": "3d73d0980c65f862",
+   "title": "Trump's attacks on free press echo rhetoric used by autocrats, Jodie Ginsberg says",
+   "url": "https://www.pbs.org/newshour/show/trumps-attacks-on-free-press-echo-rhetoric-used-by-autocrats-jodie-ginsberg-says",
+   "summary": "To discuss President Trump's decision to ban CNN, MS NOW and Politico from the White House, Amna Nawaz spoke with Jodie Ginsberg, CEO of the Committee to Protect Journalists.",
+   "published": "2026-09-21T22:50:37+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-09-21T23:20:09.343428+00:00"
+  },
+  {
+   "id": "5b3a48b51c8332e6",
+   "title": "The Memo: Trump\u2019s latest war on the media met with lawsuit, TV boycott",
+   "url": "https://thehill.com/homenews/analysis/6102924-trump-media-courtroom-battle/",
+   "summary": "An all-out confrontation between President Trump and the media escalated Monday, as three banned outlets launched a legal fight, Trump compared some reporting to \u201ccancer,\u201d and five major TV networks came together to announce a de facto boycott of White House pool coverage. It\u2019s a remarkable sequence of events that began with Trump\u2019s Friday announcement...",
+   "published": "2026-09-21T22:45:54+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-21T23:20:09.162170+00:00"
+  },
+  {
+   "id": "b2ca83b183e2901b",
+   "title": "Appeals court rules in favor of Trump-backed Missouri congressional maps",
+   "url": "https://www.theguardian.com/us-news/2026/sep/21/missouri-congressional-map-trump-appeals-court",
+   "summary": "Supreme court, which has twice blocked maps from being used in November, likely to have final say in legal fightA long-running legal fight over Missouri\u2019s congressional map took another turn Monday when a federal appeals panel ruled in favor of new districts backed by Donald Trump, even though the US supreme court has blocked those districts from being used in the November election.A three-judge panel of the 8th US circuit court of appeals said Missouri should use the new Republican-drawn US House districts in the November election, just as the state did in its August primary. To revert to its",
+   "published": "2026-09-21T22:44:42+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-09-21T23:20:08.922003+00:00"
+  },
+  {
+   "id": "15f871c0ca67eac8",
+   "title": "Former WHCA president on Trump's press ban: 'An attack on one outlet is an attack on everyone'",
+   "url": "https://thehill.com/media/6102786-trump-whca-media-ban/",
+   "summary": "Former White House Correspondents' Association (WHCA) president Weijia Jiang on Sunday said President Trump's ban on CNN, Politico and MS NOW reporters from covering the White House was an \"attack\" on all other news outlets. \"This is not a tantrum by three media outlets who are upset because they can't get into the White House...",
+   "published": "2026-09-21T22:40:07+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-21T23:20:09.162173+00:00"
+  },
+  {
+   "id": "a9888c602d03c5b7",
+   "title": "Appeals court favors Trump-backed Missouri congressional map, but Supreme Court will have final say",
+   "url": "https://www.pbs.org/newshour/politics/appeals-court-favors-trump-backed-missouri-congressional-map-but-supreme-court-will-have-final-say",
+   "summary": "A federal appeals panel has ruled in favor of new Missouri congressional districts backed by President Donald Trump. But there is no immediate impact from Monday's ruling.",
+   "published": "2026-09-21T22:38:12+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-09-21T23:20:09.343456+00:00"
+  },
+  {
+   "id": "18b9e36a3d621b29",
+   "title": "Tamara Keith and Amy Walter on Trump's media attacks",
+   "url": "https://www.pbs.org/newshour/show/tamara-keith-and-amy-walter-on-trumps-media-attacks",
+   "summary": "NPR's Tamara Keith and Amy Walter of the Cook Political Report with Amy Walter join Amna Nawaz to discuss the latest political news, including President Trump banning some news outlets from the White House, Republicans publicly breaking with Trump and where parties are spending money for the midterm elections.",
+   "published": "2026-09-21T22:35:30+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-09-21T23:20:09.343460+00:00"
+  },
+  {
+   "id": "f531de488b6a7412",
+   "title": "War correspondent Scott Anderson on the shifting landscape in the Middle East",
+   "url": "https://www.pbs.org/newshour/show/war-correspondent-scott-anderson-on-the-shifting-landscape-in-the-middle-east",
+   "summary": "Ten years ago, Scott Anderson's New York Times Magazine project, Fractured Lands, traced the lives of six people across the Middle East as war, dictatorship and the Arab Spring transformed the region. His latest book, \"King of Kings,\" examines the fall of Iran's last Shah in 1978 and the Islamic Revolution that followed and still shapes Iran today. Anderson joined Geoff Bennett to discuss more.",
+   "published": "2026-09-21T22:30:32+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-09-21T23:20:09.343465+00:00"
+  },
+  {
+   "id": "83fe8bac1568dedc",
+   "title": "Britain's Burnham to meet Trump and make UN debut after offering UK military support for Saudis",
+   "url": "https://www.pbs.org/newshour/politics/britains-burnham-to-meet-trump-and-make-un-debut-after-offering-uk-military-support-for-saudis",
+   "summary": "Britain's Prime Minister Andy Burnham is set to meet U.S. President Donald Trump for the first time.",
+   "published": "2026-09-21T22:22:23+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-09-21T23:20:09.343477+00:00"
+  },
+  {
+   "id": "ec0e670bb3c4574e",
+   "title": "Trump says Mamdani has \u2018great potential\u2019 after Gracie Mansion visit",
+   "url": "https://thehill.com/homenews/administration/6102816-trump-mamdani-gracie-mansion-visit/",
+   "summary": "NEW YORK \u2014 President Trump offered rare praise of New York City Mayor Zohran Mamdani (D) Monday, saying he has \u201cgreat potential.\u201d The two leaders chatted inside Gracie Mansion before holding a press conference ahead of Tuesday's United Nations General Assembly in the city. \u201cNo, I certainly hope he will be a great mayor,\u201d Trump...",
+   "published": "2026-09-21T22:02:49+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-21T23:20:09.162203+00:00"
+  },
+  {
+   "id": "9d00408f9607933a",
+   "title": "US TV networks suspend White House pool coverage over Trump media ban",
+   "url": "https://www.theguardian.com/us-news/2026/sep/21/trump-tv-networks-white-house-pool-coverage",
+   "summary": "ABC, CBS, Fox News and NBC decline to participate after presidential ban that prompted widespread condemnationMajor US TV news networks agreed to refuse to air coverage of Donald Trump\u2019s White House after the administration banned certain media outlets including CNN from the grounds.The ban left CNN unable to fulfill its duties as Monday\u2019s White House designated pool broadcaster. Continue reading...",
+   "published": "2026-09-21T22:01:00+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-09-21T23:20:08.922012+00:00"
+  },
+  {
+   "id": "4811279335d2a34c",
+   "title": "Trump's big weekend: The arch, Greenland, and media outlets banned from White House",
+   "url": "https://www.npr.org/2026/09/21/nx-s1-5976738/trumps-big-weekend-the-arch-greenland-and-media-outlets-banned-from-white-house",
+   "summary": "President Trump's exertion of power over the press, Greenland and even the D.C. landscape are teeing up questions over the president's limits.",
+   "published": "2026-09-21T21:52:34+00:00",
+   "source": "NPR Politics",
+   "source_id": "npr-politics",
+   "bias_note": "center",
+   "first_seen": "2026-09-21T23:20:08.678860+00:00"
+  },
+  {
+   "id": "ae0e65709b17e7b3",
+   "title": "Democrats\u2019 Gaza reckoning: how failing to give Palestinians a voice came back to bite the party",
+   "url": "https://www.theguardian.com/us-news/2026/sep/21/democrats-joe-biden-kamala-harris-book-gaza",
+   "summary": "Voters rejected many establishment choices this year in favor of candidates pushing accountability for Gaza, writes Akbar Shahid AhmedThe last time she gathered with fellow Democrats for a pre-election national convention, Georgia state representative Ruwa Romman got an unspoken message from the party establishment: on their biggest stage, she said, \u201cThere\u2019s room for an anti-choice Republican but not for Palestinians\u201d. Democratic officials gave speaking slots to an architect of Georgia\u2019s strict abortion ban and other conservatives critical of Donald Trump, but they denied a speech from Romman ",
+   "published": "2026-09-21T21:48:04+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-09-21T23:20:08.922021+00:00"
+  },
+  {
+   "id": "623ce1e6f8b3d528",
+   "title": "Trump expecting district court loss over lawsuit from CNN, MS NOW, Politico",
+   "url": "https://thehill.com/homenews/media/6102743-trump-white-house-press-ban-lawsuit/",
+   "summary": "President Trump railed against the judge who has been assigned to a case seeking to challenge his ban on three media outlets from covering the White House and telegraphed he might be forced to let the journalists working for the trio back in the building. \"They have drawn a great Judge, for them,\" Trump said...",
+   "published": "2026-09-21T21:46:21+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-21T23:20:09.162216+00:00"
+  },
+  {
+   "id": "99115784fa2c990a",
+   "title": "AI fears hit Trump-Xi agenda",
+   "url": "https://thehill.com/newsletters/technology/6102756-ai-fears-hit-trump-xi-agenda/",
+   "summary": "{beacon} Technology Technology &#8202; The Big Story  AI fears hit Trump-Xi agenda, but challenges abound Apocalyptic warnings about the danger of uncontrolled artificial intelligence are adding new urgency to talks between President Trump and Chinese President Xi Jinping set for later this week.  \u00a9 Brendan Smialowski/Pool Photo via AP, File Trump has dismissed AI\u2019s existential...",
+   "published": "2026-09-21T21:33:46+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-21T23:20:09.162221+00:00"
+  },
+  {
+   "id": "660c077af0e70f80",
+   "title": "Trump approval falls to all-time low in Reuters/Ipsos poll \u2060",
+   "url": "https://thehill.com/homenews/administration/6102632-trump-approval-rating-historic-low/",
+   "summary": "President Trump\u2019s approval rating has dipped to a historic low with the midterms only about six weeks away, according to a new poll. In the Reuters/Ipsos poll, Trump\u2019s approval rating was sitting at 32 percent, the lowest of his second term and, according to Reuters, a record low for his entire political life. The fresh...",
+   "published": "2026-09-21T20:49:50+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-21T23:20:09.162261+00:00"
+  },
+  {
+   "id": "80b7cd1673a05b1f",
+   "title": "Trump shows off new White House helipad, but networks skip coverage during First Amendment fight",
+   "url": "https://www.pbs.org/newshour/politics/trump-shows-off-new-white-house-helipad-but-networks-skip-coverage-during-first-amendment-fight",
+   "summary": "President Trump has unveiled a new White House helicopter landing pad while trying to downplay a First Amendment firestorm.",
+   "published": "2026-09-21T20:26:50+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-09-21T23:20:09.343487+00:00"
+  },
+  {
+   "id": "2654159b80b73b59",
+   "title": "Gov Pritzker dodges questions on Hasan Piker, says focus should be on stopping Trump",
+   "url": "https://www.foxnews.com/media/gov-pritzker-dodges-questions-hasan-piker-says-focus-stopping-trump",
+   "summary": "Gov. JB Pritzker dodged questions about Hasan Piker&apos;s controversial stances and influence in the party, insisting Democrats should focus on stopping Trump.",
+   "published": "2026-09-21T19:57:04+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-21T23:20:08.116634+00:00"
+  },
   {
    "id": "869792c0f272d162",
    "title": "FAA halts flights in northeast after fiber cable cut in New Jersey",
@@ -11375,105 +11595,6 @@
    "source_id": "thehill",
    "bias_note": "center",
    "first_seen": "2026-09-08T04:44:37.114529+00:00"
-  },
-  {
-   "id": "dc2cfd96a611a689",
-   "title": "Rudy Giuliani urges Mamdani to not attend 9/11 anniversary",
-   "url": "https://thehill.com/homenews/state-watch/6075377-giuliani-criticizes-mamdani-911/",
-   "summary": "Rudy Giuliani, the former mayor of New York City who later worked as President Trump\u2019s personal lawyer, publicly criticized current Mayor Zohran Mamdani for planning to attend a 9/11 commemoration ceremony at Ground Zero on Friday. \u201cFrankly, whatever he\u2019d like to say, he doesn\u2019t agree that September 11th was an Islamic terrorist attack on the...",
-   "published": "2026-09-07T23:14:13+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-08T04:44:37.114535+00:00"
-  },
-  {
-   "id": "0639f433212458d2",
-   "title": "Gavin Newsom on how to beat the GOP: 'Democrats need to grow a backbone'",
-   "url": "https://www.pbs.org/newshour/show/gavin-newsom-on-how-to-beat-the-gop-democrats-need-to-grow-a-backbone",
-   "summary": "As California's governor, Gavin Newsom has become one of the Democratic Party's most vocal critics of President Trump. As speculation swirls around Newsom's own potential presidential bid, he's on the road and raising money to get more Democrats elected at the state level, where he says his party took its eye off the ball. Amna Nawaz caught up with  Newsom in North and South Carolina.",
-   "published": "2026-09-07T22:40:33+00:00",
-   "source": "PBS NewsHour Politics",
-   "source_id": "pbs-politics",
-   "bias_note": "center",
-   "first_seen": "2026-09-08T04:44:37.492928+00:00"
-  },
-  {
-   "id": "c6067092b61cfeed",
-   "title": "Tamara Keith and Amy Walter on GOP's midterm challenges",
-   "url": "https://www.pbs.org/newshour/show/tamara-keith-and-amy-walter-on-gops-midterm-challenges",
-   "summary": "NPR's Tamara Keith and Amy Walter of the Cook Political Report with Amy Walter join Geoff Bennett to discuss the latest political news, including Gov. Gavin Newsom's apparent efforts to get a jump on the 2028 presidential race, the Republicans holding a midterm convention and how President Trump's low approval rating is impacting GOP campaigns.",
-   "published": "2026-09-07T22:35:03+00:00",
-   "source": "PBS NewsHour Politics",
-   "source_id": "pbs-politics",
-   "bias_note": "center",
-   "first_seen": "2026-09-08T04:44:37.492934+00:00"
-  },
-  {
-   "id": "d975439ec8dcd1e0",
-   "title": "Trump posts updates about his DC \u2018beautification\u2019 projects",
-   "url": "https://thehill.com/homenews/administration/6075345-trump-dc-beautification-projects/",
-   "summary": "President Donald Trump made several posts on social media on Monday morning with pictures of statues and landmarks around Washington, D.C., that the National Park Service has been updating. Trump has been emphasizing his efforts to \u201cbeautify\u201d D.C., including constructing an arch in his honor, fixing fountains and gold-plating statues, among other projects.\u00a0 Each post...",
-   "published": "2026-09-07T21:53:46+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-07T22:52:19.227128+00:00"
-  },
-  {
-   "id": "4a4bbc17fe635716",
-   "title": "EU seeks to reassure a Trump-rattled Greenland with promise of a new partnership and investment",
-   "url": "https://www.pbs.org/newshour/world/eu-seeks-to-reassure-a-trump-rattled-greenland-with-promise-of-a-new-partnership-and-investment",
-   "summary": "The European Union is promising Greenland a stronger partnership and hundreds of millions of euros in investment, wanting to reassure Greenland after U.S. President Donald Trump's threats to take control of the island.",
-   "published": "2026-09-07T21:29:13+00:00",
-   "source": "PBS NewsHour Politics",
-   "source_id": "pbs-politics",
-   "bias_note": "center",
-   "first_seen": "2026-09-07T22:52:19.429515+00:00"
-  },
-  {
-   "id": "9319adca137c501d",
-   "title": "Trump takes narrow Supreme Court rulings as big wins",
-   "url": "https://thehill.com/regulation/court-battles/6072461-trump-white-house-ballroom-supreme-court/",
-   "summary": "The construction of a massive White House ballroom is moving full steam ahead after the Supreme Court found a historic preservation group likely had no right to stop it.   \"We have a lot of very happy construction workers,\" President Trump told reporters in the Oval Office on Wednesday. The $400 million project on the site of the former...",
-   "published": "2026-09-07T21:00:00+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-07T22:52:19.227134+00:00"
-  },
-  {
-   "id": "ecb89961d8931af0",
-   "title": "This week on the Hill: Political spotlight turns to GOP midterm convention in Dallas",
-   "url": "https://thehill.com/newsletters/this-week-on-the-hill/6072342-trump-pentagon-911-anniversary/",
-   "summary": "The political world\u2019s eyes are focused this week on Dallas, where Republicans are turning up the volume at a two-day convention meant to bolster the GOP\u2019s chances in this year\u2019s midterms. The event is being billed as a unifying and electrifying celebration of President Trump\u2019s second term in office that is being put on by...",
-   "published": "2026-09-07T21:00:00+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-07T22:52:19.227141+00:00"
-  },
-  {
-   "id": "0c2f1ca089d64ad6",
-   "title": "Trump's construction projects are transforming the capital",
-   "url": "https://www.npr.org/2026/09/07/nx-s1-5958600/trumps-construction-projects-are-transforming-the-capital",
-   "summary": "President Trump is transforming Washington. New York Magazine's Ben Terris says the ballroom, the planned arch and other changes are an attempt to achieve \"architectural immortality.\"",
-   "published": "2026-09-07T20:32:13+00:00",
-   "source": "NPR Politics",
-   "source_id": "npr-politics",
-   "bias_note": "center",
-   "first_seen": "2026-09-07T22:52:18.903763+00:00"
-  },
-  {
-   "id": "b3cdfa0e83be2daf",
-   "title": "Trump posts map with American flag emblazoned over Canada, Greenland, Mexico",
-   "url": "https://thehill.com/homenews/administration/6075255-trump-map-territorial-ambitions/",
-   "summary": "President Trump posted a map with an American flag covering most of North America, as well as Iceland and islands in the Caribbean, on Monday morning, a post that follows his previous pushes to take over territory outside of U.S. borders. The president\u2019s post featured a map with the pattern of the American flag superimposed...",
-   "published": "2026-09-07T20:00:47+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-07T22:52:19.227147+00:00"
   }
  ]
 }
