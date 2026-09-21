@@ -1,7 +1,205 @@
 {
- "updated": "2026-09-21T16:51:09.662512+00:00",
- "count": 1029,
+ "updated": "2026-09-21T19:31:59.891693+00:00",
+ "count": 1043,
  "articles": [
+  {
+   "id": "869792c0f272d162",
+   "title": "FAA halts flights in northeast after fiber cable cut in New Jersey",
+   "url": "https://thehill.com/policy/transportation/6102284-faa-halts-northeast-flights/",
+   "summary": "The Federal Aviation Administration (FAA) halted flights at multiple airports in the northeast on Monday, citing the accidental cutting of a fiber cable at a construction site in New Jersey. Ground stops are in effect at John F. Kennedy International Airport (JFK) in Queens, New York, Newark Liberty International Airport (EWR), Philadelphia International Airport (PHL)...",
+   "published": "2026-09-21T19:28:00+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-21T19:31:59.252648+00:00"
+  },
+  {
+   "id": "637da3737a30c90b",
+   "title": "White House won't back down as attorney predicts how Trump's latest press tussle will play out in court",
+   "url": "https://www.foxnews.com/politics/white-house-wont-back-down-attorney-predicts-trump-latest-press-tussle-play-court",
+   "summary": "A First Amendment attorney predicts Trump&apos;s White House ban on CNN, Politico and MS NOW will fail in court, calling the action blatantly unconstitutional.",
+   "published": "2026-09-21T19:25:39+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-21T19:31:48.833430+00:00"
+  },
+  {
+   "id": "978d79d3a9fb2c50",
+   "title": "The art of dealing with Trump",
+   "url": "https://www.politico.com/newsletters/new-york-playbook-pm/2026/09/21/the-art-of-dealing-with-trump-01086271",
+   "summary": "",
+   "published": "2026-09-21T19:23:36+00:00",
+   "source": "Politico",
+   "source_id": "politico",
+   "bias_note": "center",
+   "first_seen": "2026-09-21T19:31:49.209818+00:00"
+  },
+  {
+   "id": "4475b48c18f0bbd6",
+   "title": "FAA rolls out air traffic AI tool in Washington region",
+   "url": "https://thehill.com/policy/transportation/6102156-smart-air-traffic-management-dc/",
+   "summary": "The Federal Aviation Administration (FAA) and the Department of Transportation launched a new artificial intelligence tool in the Washington, D.C., area Monday intended to predict flight delays and advise air traffic controllers.  Transportation Secretary Sean Duffy said at a press conference that the Strategic Management of Airspace, Routing and Trajectories (SMART) tool is the most...",
+   "published": "2026-09-21T19:07:10+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-21T19:31:59.252671+00:00"
+  },
+  {
+   "id": "c8f7187e81407179",
+   "title": "Republicans target Las Vegas congressional seat touting Trump's 'no tax on tips'",
+   "url": "https://www.pbs.org/newshour/politics/republicans-target-las-vegas-congressional-seat-touting-trumps-no-tax-on-tips",
+   "summary": "Nevada has the highest concentration of tipped workers thanks to its hospitality and tourism industries.",
+   "published": "2026-09-21T18:54:01+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-09-21T19:31:59.406107+00:00"
+  },
+  {
+   "id": "1e27a89bcc2c01bf",
+   "title": "White House drafting executive order to take over NIH grant approvals: Reports",
+   "url": "https://thehill.com/policy/healthcare/6102144-executive-order-nih-grantmaking/",
+   "summary": "The Trump administration is reportedly putting together an executive order to move the National Institutes of Health's (NIH) grant approval process away from the agency and giving political appointees more control. Reports emerged over the weekend that the Oval Office was considering enforcing more political oversight into NIH's grantmaking process. The Washington Post was first...",
+   "published": "2026-09-21T18:45:56+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-21T19:31:59.252684+00:00"
+  },
+  {
+   "id": "c139afee4d3ab1d1",
+   "title": "This swing state Republican is distancing himself from Trump, but it may not save him in the midterms",
+   "url": "https://www.pbs.org/newshour/politics/this-swing-state-republican-is-distancing-himself-from-trump-but-it-may-not-save-him-in-the-midterms",
+   "summary": "Democrats are hopeful that Trump's low approval ratings and rising gas prices will make it impossible for Fitzpatrick to win reelection this year.",
+   "published": "2026-09-21T18:29:27+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-09-21T19:31:59.406115+00:00"
+  },
+  {
+   "id": "62e0c6f6f99f25a3",
+   "title": "Key senators reject White House proposal on NIH grants",
+   "url": "https://www.pbs.org/newshour/politics/key-senators-reject-white-house-proposal-on-nih-grants",
+   "summary": "Sens. Susan Collins and Patty Murray are rejecting efforts by the Trump administration to give the White House control of National Institutes of Health grant funding.",
+   "published": "2026-09-21T18:22:30+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-09-21T19:31:59.406119+00:00"
+  },
+  {
+   "id": "2445420116233a02",
+   "title": "Bessent says US, Chinese officials considering lowering tariffs on 'noncritical' items",
+   "url": "https://thehill.com/homenews/administration/6102128-us-china-lowering-tariffs/",
+   "summary": "Treasury Secretary Scott Bessent said Monday officials from the U.S. and China are considering lowering tariffs on \u201cnoncritical\u201d products, as President Trump prepares to host Chinese President Xi Jinping this week in Washington, D.C. During an interview on CNBC\u2019s \u201cSquawk Box,\u201d Bessent said the two sides \u201cfloated\u201d a deal to reduce tariffs on $30 billion...",
+   "published": "2026-09-21T18:15:57+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-21T19:31:59.252722+00:00"
+  },
+  {
+   "id": "ec0551e97b7793ec",
+   "title": "Flights halted at three US airports as watchdog warns over hacking threat",
+   "url": "https://www.theguardian.com/us-news/2026/sep/21/airports-flight-ground-stop-hacking-threat",
+   "summary": "Senator Ron Wyden calls for swift action after GAO report finds systems guiding US aircraft vulnerable to interferenceA congressional watchdog has warned the systems guiding US aircraft are open to interference and deception as flights into three busy airports in the country\u2019s north east US were halted by a radio equipment problem.The Federal Aviation Administration (FAA) ordered a ground stop at about 10am on Monday for Newark Liberty international, Philadelphia international and Teterboro airports, saying some radio frequencies at the Philadelphia terminal radar approach control (Tracon) wer",
+   "published": "2026-09-21T18:06:51+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-09-21T19:31:49.142239+00:00"
+  },
+  {
+   "id": "d1a352f8bb13ec8e",
+   "title": "Trump getting sued after banning MS NOW, Politico, CNN from White House",
+   "url": "https://thehill.com/opinion/lindseys-lens/6102232-cnn-msnow-politico-banned/",
+   "summary": "But government access to the president should not become a reward for favorable coverage.\u00a0The job of the White House press corps isn't to make the president look good.\u00a0It is to report what the president says and does.",
+   "published": "2026-09-21T18:02:24+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-21T19:31:59.252756+00:00"
+  },
+  {
+   "id": "0b46be7ee907e4ad",
+   "title": "White House Access Is a Privilege \u2014 Not a Right",
+   "url": "https://www.whitehouse.gov/releases/2026/09/white-house-access-is-a-privilege-not-a-right/",
+   "summary": "Last week, President Donald J. Trump removed CNN, MS NOW, and Politico from the White House grounds after years of false reporting. The First Amendment protects their right to publish; it does not entitle them to a hard pass, briefing room seat, or place in the press pool. Access changes are nothing new. What is [&#8230;]\nThe post White House Access Is a Privilege \u2014 Not a Right appeared first on The White House.",
+   "published": "2026-09-21T18:01:52+00:00",
+   "source": "WhiteHouse.gov News",
+   "source_id": "whitehouse",
+   "bias_note": "official/primary-source",
+   "first_seen": "2026-09-21T19:31:48.945557+00:00"
+  },
+  {
+   "id": "386a9362db83f7d9",
+   "title": "Trump's Greenland fixation revealed as wars expose why the Arctic island matters now more than ever",
+   "url": "https://www.foxnews.com/politics/trumps-greenland-fixation-revealed-wars-expose-why-arctic-island-matters-now-more-than-ever",
+   "summary": "President Donald Trump&apos;s Greenland interest spotlights critical minerals and oil as Strait of Hormuz disruptions threaten global energy supplies.",
+   "published": "2026-09-21T17:43:13+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-21T19:31:48.833474+00:00"
+  },
+  {
+   "id": "dae7c1faa16e1bc7",
+   "title": "Protesters gather in Austin after ICE agent shoots and wounds man \u2013 video",
+   "url": "https://www.theguardian.com/us-news/video/2026/sep/21/austin-texas-ice-shooting-protests",
+   "summary": "Protesters in Austin, Texas, demonstrated against the Trump administration\u2019s hardline anti-immigration campaign after an ICE agent shot and wounded a man on Sunday afternoon. Eyewitness footage filmed moments after the shooting shows the ICE officer standing next to an open car door, in which there is a visible dent. The man, identified by relatives and his lawyer as 28-year-old Wilber Rafael Garc\u00e9s P\u00e9rez, was taken to a hospital in Austin in a serious but stable condition, officials said, before being taken into custody.The Department of Homeland Security, which oversees ICE, said it was lead",
+   "published": "2026-09-21T17:37:08+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-09-21T19:31:49.142356+00:00"
+  },
+  {
+   "id": "be27308eccbbb395",
+   "title": "WATCH: Vance speaks at GOP midterm election rally in North Carolina",
+   "url": "https://www.pbs.org/newshour/politics/watch-live-vance-speaks-at-gop-midterm-election-rally-in-north-carolina",
+   "summary": "Vice President JD Vance said Monday that CNN, MSNOW and Politico lost their \"special access\" to the White House but are not banned.",
+   "published": "2026-09-21T17:16:21+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-09-21T19:31:59.406130+00:00"
+  },
+  {
+   "id": "b0f12833f589fd35",
+   "title": "AOC joins Macklemore frenzy in bizarre fundraising memo targeting pro-Trump billionaire",
+   "url": "https://www.foxnews.com/politics/aoc-joins-macklemore-frenzy-bizarre-fundraising-memo-targeting-pro-trump-billionaire",
+   "summary": "Rapper Macklemore gained a new ally in Alexandria Ocasio-Cortez, who blasted Robert Kraft for allegedly forcing Ed Sheeran to drop him from tour.",
+   "published": "2026-09-21T17:00:02+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-21T19:31:48.833478+00:00"
+  },
+  {
+   "id": "9a7440c5b7b063e2",
+   "title": "Rising gas prices frustrate voters. Trump says it's an 'inexpensive price to pay' for the Iran war",
+   "url": "https://www.pbs.org/newshour/politics/rising-gas-prices-frustrate-voters-trump-says-its-an-inexpensive-price-to-pay-for-the-iran-war",
+   "summary": "Interviews with voters in several states, along with a fresh round of national polling, reveal an overwhelming sense of frustration that skyrocketing gas prices \u2014 a direct result of President Donald Trump's war \u2014 are creating serious and sustained financial hardships for America's working class.",
+   "published": "2026-09-21T16:57:33+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-09-21T19:31:59.406139+00:00"
+  },
+  {
+   "id": "f7896fdfbe769c81",
+   "title": "Trump set to press Zelenskyy at UN to agree energy ceasefire with Russia",
+   "url": "https://www.theguardian.com/us-news/2026/sep/21/trump-zelenskyy-russia-united-nations",
+   "summary": "President to meet Ukrainian counterpart in New York as Ukraine steps up attacks on Russian energy sectorDonald Trump is expected to press Ukrainian leader Volodymyr Zelenskyy on an energy ceasefire during a face-to-face meeting this week during United Nations high-level week, as world diesel prices have soared due to the war in Iran, as well as Russia\u2019s war in Ukraine.Ukraine stepped up its attacks on Russia\u2019s energy sector over the weekend, launching its largest reported strike yet on the Moscow region in a barrage that struck a major Moscow oil refinery and killed three people. Continue read",
+   "published": "2026-09-21T16:54:14+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-09-21T19:31:49.142271+00:00"
+  },
   {
    "id": "bdffdf917a5418e8",
    "title": "Battle lines drawn over Trump\u2019s White House media ban",
@@ -11276,50 +11474,6 @@
    "source_id": "thehill",
    "bias_note": "center",
    "first_seen": "2026-09-07T22:52:19.227147+00:00"
-  },
-  {
-   "id": "f69e630c8da67c8b",
-   "title": "A whiplash election year enters its final stretch as Trump holds wild cards",
-   "url": "https://www.pbs.org/newshour/politics/a-whiplash-election-year-enters-its-final-stretch-as-trump-holds-wild-cards",
-   "summary": "As the final midterm of Donald Trump's presidency rapidly approaches, the landscape is proving especially volatile, with Trump often stirring the tumult.",
-   "published": "2026-09-07T19:30:39+00:00",
-   "source": "PBS NewsHour Politics",
-   "source_id": "pbs-politics",
-   "bias_note": "center",
-   "first_seen": "2026-09-07T22:52:19.429525+00:00"
-  },
-  {
-   "id": "09c4ad879f5d7ffc",
-   "title": "Fake Republican midterm convention site still redirects to Epstein files",
-   "url": "https://thehill.com/homenews/campaign/6075245-fake-gop-convention-site-epstein-files/",
-   "summary": "A fake website claiming to be associated with the Republican National Committee\u2019s (RNC) midterm convention, taking place Sept. 9-10 in Dallas, redirects to the Justice Department\u2019s homepage for the Epstein files. The online bait and switch demonstrates a push from a mysterious source to remind Republicans, or anyone seeking convention details, about the Epstein files. ...",
-   "published": "2026-09-07T19:25:28+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-07T22:52:19.227156+00:00"
-  },
-  {
-   "id": "7a2c0deb7eff8949",
-   "title": "Trump keeps heralding an economic boom, but even a solid jobs report is causing problems for him",
-   "url": "https://www.pbs.org/newshour/politics/trump-keeps-heralding-an-economic-boom-but-even-a-solid-jobs-report-is-causing-problems-for-him",
-   "summary": "President Donald Trump has spent 20 months promising that America was on the cusp of an economic boom. But Friday's surprisingly positive jobs report ultimately provoked frustration from Trump.",
-   "published": "2026-09-07T18:46:50+00:00",
-   "source": "PBS NewsHour Politics",
-   "source_id": "pbs-politics",
-   "bias_note": "center",
-   "first_seen": "2026-09-07T22:52:19.429529+00:00"
-  },
-  {
-   "id": "399248de62dd3af1",
-   "title": "Trump promises midterm victory, slams Democrats in Labor Day message",
-   "url": "https://thehill.com/homenews/administration/6075049-trump-attacks-democrats-labor-day/",
-   "summary": "President Trump on Monday promised victory in the upcoming midterm elections for the GOP and went after Democrats in a Labor Day message posted to social media. \u201cHappy Labor Day to all, including the Radical Left Lunatics, Communists, and Dumocrats who will do anything possible to destroy our Country. These Deranged People, after fighting for...",
-   "published": "2026-09-07T17:15:50+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-07T18:45:22.435985+00:00"
   }
  ]
 }
