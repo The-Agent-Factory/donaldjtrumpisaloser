@@ -1,7 +1,172 @@
 {
- "updated": "2026-09-22T15:27:06.538777+00:00",
- "count": 1071,
+ "updated": "2026-09-22T17:00:50.962659+00:00",
+ "count": 1078,
  "articles": [
+  {
+   "id": "2f6374a80f7d3a4e",
+   "title": "It's three strikes and you're out for China. Trump should make this Xi's last chance",
+   "url": "https://www.foxnews.com/opinion/three-strikes-youre-out-china-trump-should-make-xi-last-chance",
+   "summary": "Xi Jinping arrives in Washington as a diminished leader facing military purges, Huawei turmoil, and a stumbling economy ahead of Trump talks.",
+   "published": "2026-09-22T16:56:55+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-22T17:00:49.506582+00:00"
+  },
+  {
+   "id": "9c81a4c2a61393a3",
+   "title": "Trump tells UN that AI needs a rebrand",
+   "url": "https://thehill.com/newsletters/1230-report/6104340-trump-tells-un-that-ai-needs-a-rebrand/",
+   "summary": "{beacon} It\u2019s Tuesday, and officially the first day of fall! D.C. weather finally seems to be getting the memo. Go celebrate and get the pumpkin spice latte (that has been available for weeks already).  &#8202; In today's issue: Trump's UNGA address Greenland deal John Curtis's letter Jeffries bashes Golden, Lawler Harris campaigns with El-Sayed Programming note:...",
+   "published": "2026-09-22T16:43:46+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-22T17:00:50.310607+00:00"
+  },
+  {
+   "id": "2018591eac90b609",
+   "title": "Trump-backed Senate candidate says 'Groceries cost too much,' calls for Iran war to 'end quickly'",
+   "url": "https://www.foxnews.com/politics/trump-backed-senate-candidate-groceries-cost-too-much-calls-iran-war-end-quickly",
+   "summary": "Trump-backed Michigan Republican U.S. Senate candidate Mike Rogers declared in a video that &quot;Groceries cost too much&quot; and the Iran war &quot;needs to end, and end quickly.&quot;",
+   "published": "2026-09-22T16:31:50+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-22T17:00:49.459850+00:00"
+  },
+  {
+   "id": "b4ef38057d7aadec",
+   "title": "South Korean president says Trump should ease sanctions on North Korea",
+   "url": "https://thehill.com/policy/international/6104154-south-korea-proposes-nuclear-freeze/",
+   "summary": "South Korean President Lee Jae Myung broke from precedent by urging President Trump to ease sanctions on North Korea in an exchange that would put a halt on its weapons programs. Lee told The New York Times in a Friday interview that he sees \"significant value\" in trading between sanctions and freezing North Korea's development...",
+   "published": "2026-09-22T16:29:10+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-22T17:00:50.310623+00:00"
+  },
+  {
+   "id": "bf0f959941ea8c0c",
+   "title": "Trump says 2 new US bases coming to Greenland as deal signed",
+   "url": "https://thehill.com/policy/defense/6104277-us-greenland-military-base-deal/",
+   "summary": "President Trump said on Tuesday that Greenland will host two new \u201cmajor\u201d U.S. military bases, expanding Washington\u2019s footprint on the arctic island after months of tensions with Denmark.  \u201cWe will immediately begin the process of developing a large military presence in the appropriate locations. We'll be building two very major military bases,\u201d the president said...",
+   "published": "2026-09-22T16:22:50+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-22T17:00:50.310628+00:00"
+  },
+  {
+   "id": "bbd1305dc6c37aed",
+   "title": "Read: US strikes security deal with Greenland, Denmark",
+   "url": "https://thehill.com/policy/international/6104217-read-us-greenland-denmark-security-deal-trump-admin/",
+   "summary": "President Trump on Tuesday signed a trilateral security agreement with Greenland and Denmark on the sidelines of the U.N. General Assembly in New York City. \u201cWe\u2019re going to have a tremendous relationship, a secure relationship, and we look forward to it,\u201d Trump said during the signing ceremony. \u201cWe\u2019ll be working very hard and very much...",
+   "published": "2026-09-22T16:21:04+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-22T17:00:50.310633+00:00"
+  },
+  {
+   "id": "28486eee507ba180",
+   "title": "Trump Jr under scrutiny from own party over Putin-linked oligarch's lavish gift",
+   "url": "https://www.foxnews.com/politics/trump-jr-under-scrutiny-from-own-party-over-putin-linked-oligarchs-lavish-gift",
+   "summary": "Republican Sen. John Curtis wants the Senate Judiciary Committee to subpoena both Donald Trump Jr. and Hunter Biden over alleged corruption tied to their fathers.",
+   "published": "2026-09-22T16:16:21+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-22T17:00:49.459859+00:00"
+  },
+  {
+   "id": "ad706172dd783404",
+   "title": "Senate Democrats press Trump administration on consumer refunds after tariff ruling",
+   "url": "https://thehill.com/homenews/senate/6104230-democrats-demand-tariff-refunds/",
+   "summary": "A group of Senate Democrats, joined by independent Sen. Bernie Sanders (Vt.), are pressing U.S. Trade Representative Jamieson Greer over tariffs refunds following a Supreme Court decision earlier this year that ruled certain Trump administration tariffs were illegal. The letter, signed by Sens. Elizabeth Warren (D-Mass.), Martin Heinrich (D-N.M.), Sheldon Whitehouse (D-R.I.), Richard Blumenthal (D-Conn.),...",
+   "published": "2026-09-22T16:16:11+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-22T17:00:50.310637+00:00"
+  },
+  {
+   "id": "f39eb548061de252",
+   "title": "Trump flexes American power at UN with warnings to rivals around the globe",
+   "url": "https://www.foxnews.com/politics/trump-flexes-american-power-un-warnings-rivals-around-globe",
+   "summary": "Trump told the United Nations the U.S. will rename artificial intelligence to &quot;superintelligence&quot; and reject any globalist scheme to control the tech.",
+   "published": "2026-09-22T16:08:58+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-22T17:00:49.459863+00:00"
+  },
+  {
+   "id": "6a122d6e831ac0da",
+   "title": "Pasta sold at Walmart locations nationwide recalled over listeria concerns",
+   "url": "https://thehill.com/homenews/state-watch/6104240-walmart-gias-foods-pasta-recall-listeria-fda/",
+   "summary": "Pasta sold at Walmart locations nationwide is being recalled over possible listeria contamination, according to a notice posted by the Food and Drug Administration.",
+   "published": "2026-09-22T16:08:41+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-22T17:00:50.310640+00:00"
+  },
+  {
+   "id": "2a4036872f382489",
+   "title": "Trump promised to free Jimmy Lai. Xi's visit is the time to do it.",
+   "url": "https://thehill.com/opinion/white-house/6102157-jimmy-lai-hong-kong-prison/",
+   "summary": "I\u2019ve spent many hours over the last few years thinking about a man I\u2019ve never met, Jimmy Lai. A newspaperman, media mogul and democracy advocate, Lai, 78, has been languishing in a Hong Kong prison since 2020. As the chief executive of Index on Censorship, I have spent my working life documenting how authoritarian regimes silence...",
+   "published": "2026-09-22T16:00:00+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-22T17:00:50.310650+00:00"
+  },
+  {
+   "id": "954841d14c5dc0ac",
+   "title": "Jon Stewart on Trump\u2019s White House media ban: \u2018authoritarian crackdown\u2019",
+   "url": "https://www.theguardian.com/culture/2026/sep/22/jon-stewart-trump-white-house-media-ban",
+   "summary": "Late-night hosts respond to Trump\u2019s removal of outlets such as CNN and Politico from the White House press pool over \u2018negative stories\u2019Late-night hosts reacted to Donald Trump\u2019s dramatic White House media ban and casual disregard of the first amendment. Continue reading...",
+   "published": "2026-09-22T15:49:49+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-09-22T17:00:50.025367+00:00"
+  },
+  {
+   "id": "9cd9dee315368564",
+   "title": "AGREEMENT BETWEEN THE GOVERNMENT OF THE UNITED STATES OF AMERICA AND THE GOVERNMENT OF THE KINGDOM OF DENMARK TOGETHER WITH THE GOVERNMENT OF GREENLAND",
+   "url": "https://www.whitehouse.gov/briefings-statements/2026/09/agreement-between-the-government-of-the-united-states-of-america-and-the-government-of-the-kingdom-of-denmark-together-with-the-government-of-greenland-to-amend-and-supplement-the-agreement-of-27-apri/",
+   "summary": "&#160;AGREEMENT BETWEEN THE GOVERNMENT OF THE UNITED STATES OF AMERICA AND THE GOVERNMENT OF THE KINGDOM OF DENMARK TOGETHER WITH THE GOVERNMENT OF GREENLAND TO AMEND AND SUPPLEMENT THE AGREEMENT OF 27 APRIL 1951 PURSUANT TO THE NORTH ATLANTIC TREATY BETWEEN THE GOVERNMENT OF THE UNITED STATES OF AMERICA AND THE GOVERNMENT OF THE KINGDOM [&#8230;]\nThe post AGREEMENT BETWEEN THE GOVERNMENT OF THE UNITED STATES OF AMERICA AND THE GOVERNMENT OF THE KINGDOM OF DENMARK TOGETHER WITH THE GOVERNMENT OF GREENLAND appeared first on The White House.",
+   "published": "2026-09-22T15:48:16+00:00",
+   "source": "WhiteHouse.gov News",
+   "source_id": "whitehouse",
+   "bias_note": "official/primary-source",
+   "first_seen": "2026-09-22T17:00:49.574044+00:00"
+  },
+  {
+   "id": "dfc674efcfdfbed5",
+   "title": "Trump return to combat operations in Iran 'inevitable': Keane",
+   "url": "https://thehill.com/policy/defense/6103943-donald-trump-jack-keane-us-military-strikes-iran-war/",
+   "summary": "Retired U.S. Army Gen. Jack Keane on Monday said it was \"inevitable\" that President Trump could resume combat operations against Iran as the conflict inches closer to the seven-month mark. Fox Business host Larry Kudlow asked Keane if Trump could resume fresh strikes on Tehran and whether the president should \"deliver a stern warning\" to...",
+   "published": "2026-09-22T15:47:50+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-22T17:00:50.310670+00:00"
+  },
+  {
+   "id": "505fd7878dfe924c",
+   "title": "The Pentagon has unveiled its secret weapon: two idiotic influencers | Arwa Mahdawi",
+   "url": "https://www.theguardian.com/commentisfree/2026/sep/22/pentagon-unveiled-secret-weapon-idiotic-influencers-jake-logan-paul",
+   "summary": "Jake and Logan Paul were invited to give a motivational speech. Just don\u2019t let them get involved with military policyWe\u2019re now approaching month seven of a war against Iran that Donald Trump repeatedly assured us would be over in a matter of weeks. Prices are rising, troop morale is plummeting, and there is little evidence things will improve.The situation is so desperate that the decision makers at the Pentagon have decided to bring out the big guns. I\u2019m not talking about nuclear weapons, although Trump recently threatened to \u201cblow the entire nation [of Iran] up\u201d. No, I\u2019m talking about influe",
+   "published": "2026-09-22T15:28:48+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-09-22T17:00:50.025411+00:00"
+  },
   {
    "id": "2341b9eeb546c534",
    "title": "Ocasio-Cortez on possible White House bid: 'Pretty candidly, I think about my identity'",
@@ -11694,94 +11859,6 @@
    "source_id": "pbs-politics",
    "bias_note": "center",
    "first_seen": "2026-09-08T21:13:22.543035+00:00"
-  },
-  {
-   "id": "a124101f394e7d6c",
-   "title": "Live updates: Canadian tariffs take effect as Trump threatens Bombardier in growing trade war",
-   "url": "https://thehill.com/homenews/administration/6075462-live-updates-trump-canada-tariffs-rnc-midterm-convention/",
-   "summary": "Canada's retaliatory tariffs against the U.S. went into effect at midnight Tuesday, affecting hundreds of goods, including steel and aluminum, appliances and electronics and wood, pulp and paper products. There are no reports of negotiations between the two countries. The Trump administration levied 50 percent tariffs on $27.6 billion worth of Canadian goods two weeks...",
-   "published": "2026-09-08T16:32:16+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-08T16:42:00.302558+00:00"
-  },
-  {
-   "id": "4b14813923e747d4",
-   "title": "Gavin Newsom on Democrats, Trump and 2028",
-   "url": "https://www.pbs.org/newshour/podcasts/settle-in-with-pbs-news/gavin-newsom-on-democrats-trump-and-2028",
-   "summary": "California Gov. Gavin Newsom thinks Democrats took their eyes off the ball on state-level races. Now, he's campaigning across the South to drive turnout in states where Republicans have tried to redraw congressional maps. In this episode of \"Settle In,\" recorded during a recent visit to South Carolina, Newsom talks to Amna Nawaz about what Democrats need to compete in rural America and what he's considering as he weighs a presidential campaign in 2028.",
-   "published": "2026-09-08T16:16:00+00:00",
-   "source": "PBS NewsHour Politics",
-   "source_id": "pbs-politics",
-   "bias_note": "center",
-   "first_seen": "2026-09-08T16:42:00.604240+00:00"
-  },
-  {
-   "id": "76d7da4ab6174ccb",
-   "title": "DHS asks Supreme Court to reinstate overhauled immigration tool for midterms",
-   "url": "https://thehill.com/regulation/court-battles/6076539-administration-seeks-election-verification-restore/",
-   "summary": "The Trump administration urged the Supreme Court on Tuesday to restore\u00a0the Department of Homeland Security\u2019s (DHS) overhauled\u00a0immigration verification system in time for the midterm elections.\u00a0 \u201cThe district court has issued an indefensible order that threatens the integrity of upcoming elections,\u201d Solicitor General D. John Sauer wrote.\u00a0 DHS\u2019s Systematic Alien Verification for Entitlements (SAVE) is used...",
-   "published": "2026-09-08T16:11:48+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-08T16:42:00.302594+00:00"
-  },
-  {
-   "id": "4cf8d512fe0bc7c6",
-   "title": "Republican strategist knocks Trump for not spending more on GOP candidates",
-   "url": "https://thehill.com/homenews/campaign/6076508-gop-strategist-doug-heye-donald-trump-republican-campaign-spending/",
-   "summary": "Republican strategist Doug Heye slammed President Trump on Monday for not directing more funding from his super PAC to a variety of GOP campaigns as the Republican Party fights to maintain its control of Congress this fall.\u00a0 Heye, a former communications director for the Republican National Committee (RNC), told CNN\u2019s Kaitlan Collins that the GOP\u2019s...",
-   "published": "2026-09-08T16:09:09+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-08T16:42:00.302598+00:00"
-  },
-  {
-   "id": "f8be22edc9779ce2",
-   "title": "Trump economists say the most unbelievable things",
-   "url": "https://thehill.com/opinion/finance/6075091-trump-debt-growth-plan/",
-   "summary": "Author Merrill Matthews argues that the Trump administration's claim that economic growth can offset the $40 trillion federal debt is dishonest, citing a GAO report that projects debt will grow more than twice as fast as the economy over the next decade.",
-   "published": "2026-09-08T16:00:00+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-08T16:42:00.302601+00:00"
-  },
-  {
-   "id": "c2cbe4aae57a4cef",
-   "title": "Live Results: New Hampshire midterm primaries",
-   "url": "https://www.pbs.org/newshour/politics/live-results-new-hampshire-midterm-primaries",
-   "summary": "The race to replace retiring three-term Democratic Sen. Jeanne Shaheen is one of a handful across the country that could determine control of the U.S. Senate for the second half of President Donald Trump's final term.",
-   "published": "2026-09-08T15:50:59+00:00",
-   "source": "PBS NewsHour Politics",
-   "source_id": "pbs-politics",
-   "bias_note": "center",
-   "first_seen": "2026-09-08T16:42:00.604251+00:00"
-  },
-  {
-   "id": "8b652f0265db1240",
-   "title": "Former GOP rep: Trump's 'bizarre' New Mexico post is 'hurting his own team'",
-   "url": "https://thehill.com/homenews/administration/6076169-charles-dent-donald-trump-ai-posts-new-mexico-maps/",
-   "summary": "Former Republican Rep. Charlie Dent (Pa.) on Monday called President Trump's social media posts referring to New Mexico as \"New America\" \"bizarre\" and accused him of \"hurting his own team\" ahead of the midterms. MS NOW's Peter Alexander asked Dent on \"State of Play\" about the president's latest posts, including an AI-generated map with the...",
-   "published": "2026-09-08T15:50:32+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-08T16:42:00.302603+00:00"
-  },
-  {
-   "id": "9e179ae31256130c",
-   "title": "Trump posthumously awards Medal of Freedom to 9/11's 'man in red bandana'",
-   "url": "https://www.foxnews.com/politics/trump-posthumously-awards-medal-freedom-9-11s-man-red-bandana",
-   "summary": "President Donald Trump awards the Presidential Medal of Freedom posthumously to Welles Crowther, the heroic &quot;man in the red bandana&quot; who saved up to 18 lives during the September 11 attacks.",
-   "published": "2026-09-08T15:37:05+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-09-08T16:41:59.096853+00:00"
   }
  ]
 }
