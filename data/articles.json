@@ -1,7 +1,205 @@
 {
- "updated": "2026-09-22T05:04:43.221362+00:00",
- "count": 1057,
+ "updated": "2026-09-22T11:45:25.427289+00:00",
+ "count": 1062,
  "articles": [
+  {
+   "id": "7be3f6cc66316ea8",
+   "title": "Trump\u2019s address kicks off jam-packed day at UNGA",
+   "url": "https://thehill.com/homenews/6103251-donald-trump-un-general-assembly-address-new-york-city/",
+   "summary": "In today's issue: \u25aa Trump at UN General Assembly \u25aa White House press ban rages on \u25aa Hung Cao\u2019s bid for Navy Secretary \u25aa Trump\u2019s deal with Greenland and Denmark President Trump\u2019s address to the United Nations General Assembly (UNGA) on Tuesday marks the beginning of a high-intensity day of meetings touching on major conflicts...",
+   "published": "2026-09-22T11:35:00+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-22T11:45:24.501696+00:00"
+  },
+  {
+   "id": "c9376f0864f64159",
+   "title": "The Kennedy Center: Fix it, don\u2019t tear it down",
+   "url": "https://thehill.com/opinion/white-house/6103009-the-kennedy-center-fix-it-dont-tear-it-down/",
+   "summary": "President Trump closed the Kennedy Center after a dispute over whether his name should be added to the building's facade following court orders to remove it.",
+   "published": "2026-09-22T11:30:00+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-22T11:45:24.501705+00:00"
+  },
+  {
+   "id": "d25543559c510efe",
+   "title": "Beyer calls on FAA to suspend AI system for DC-area airports: \u2018Guinea pigs\u2019",
+   "url": "https://thehill.com/policy/transportation/6103213-don-beyer-faa-ai-tool-air-traffic-control-criticism/",
+   "summary": "A top Democrat is calling on the Trump administration to halt the implementation of a new artificial intelligence (AI) system designed to streamline air travel. Rep. Don Beyer (D-Va.) warned that the Federal Aviation Administration\u2019s (FAA) new AI tool, which aims to eliminate flight delays and cancellations, is being launched without assurances of public safety....",
+   "published": "2026-09-22T11:02:55+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-22T11:45:24.501711+00:00"
+  },
+  {
+   "id": "5b052dab98dfd8d6",
+   "title": "Trump to address the United Nations General Assembly and more top headlines",
+   "url": "https://www.foxnews.com/us/trump-address-united-nations-general-assembly-more-top-headlines",
+   "summary": "Get all the stories you need-to-know from the most powerful name in news delivered first thing every morning to your inbox.",
+   "published": "2026-09-22T11:01:38+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-22T11:45:23.347702+00:00"
+  },
+  {
+   "id": "e67972b31eb6443b",
+   "title": "Trump warns he'll be 'last Republican president' if Senate GOP doesn't make major change",
+   "url": "https://www.foxnews.com/politics/trump-warns-hell-last-republican-president-senate-gop-doesnt-make-major-change",
+   "summary": "Donald Trump warns he could be the last Republican president if the Senate filibuster survives, citing D.C. and Puerto Rico statehood threats.",
+   "published": "2026-09-22T11:00:19+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-22T11:45:23.261889+00:00"
+  },
+  {
+   "id": "9e8ccf6a5ece4850",
+   "title": "Brendan Carr was a member of a rogue Alcoholics Anonymous group some labeled a \u2018cult\u2019",
+   "url": "https://www.theguardian.com/us-news/ng-interactive/2026/sep/22/fcc-chair-brendan-carr-midtown-aa-group",
+   "summary": "Carr was a member of the group in his teens and 20s. There is no evidence Trump\u2019s powerful FCC chair participated in any inappropriate conductBrendan Carr, the chair of the Federal Communications Commission (FCC), was for about a decade a member of a rogue Alcoholics Anonymous (AA) group when he was in his late teens and 20s that some former members compared to a \u201ccult\u201d, according to a Guardian investigation.The Midtown group, which was based in the Washington DC area, attracted young people who were seeking help with addiction, sometimes at the urging of their parents. Continue reading...",
+   "published": "2026-09-22T10:00:54+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-09-22T11:45:24.277130+00:00"
+  },
+  {
+   "id": "619229a444e93cbe",
+   "title": "Trump\u2019s Greenland deal set for signing after monthslong fight over US control",
+   "url": "https://www.foxnews.com/politics/trumps-greenland-deal-set-signing-months-long-fight-us-control",
+   "summary": "Trump, Denmark and Greenland will sign a historic Arctic security agreement at the U.N., granting the U.S. permanent military rights on the island.",
+   "published": "2026-09-22T10:00:25+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-22T11:45:23.261928+00:00"
+  },
+  {
+   "id": "77f1eec072ba4dc1",
+   "title": "Trump floods the zone with press ban, triumphal arch, Kennedy Center",
+   "url": "https://thehill.com/homenews/administration/6102803-trump-economy-midterm-concerns/",
+   "summary": "President Trump in the last four days has discussed putting snipers and drones in the triumphal arch he plans as a gateway to the Capitol. He\u2019s also banned three media organizations from the White House over their coverage and has been photographed looking at printouts on Air Force One that appeared to suggest the demolishing...",
+   "published": "2026-09-22T10:00:00+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-22T11:45:24.501756+00:00"
+  },
+  {
+   "id": "e11d0128daee9fc0",
+   "title": "Republicans walk a Trump tightrope heading into midterms",
+   "url": "https://thehill.com/homenews/house/6102813-gop-lawmakers-distance-trump-midterms/",
+   "summary": "Republicans are increasingly putting daylight between themselves and President Trump as November\u2019s elections draw closer, highlighting the political tightrope facing members in competitive races. In recent weeks, some GOP lawmakers have broken with Trump on beef imports, the military conflict with Iran, the administration\u2019s immigration crackdown and his executive order requiring federal agencies to rename...",
+   "published": "2026-09-22T10:00:00+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-22T11:45:24.501773+00:00"
+  },
+  {
+   "id": "b30316fdcddc4f82",
+   "title": "Hung Cao's bid for Navy secretary faces choppy waters post-USS Abraham Lincoln",
+   "url": "https://thehill.com/policy/defense/6102669-trump-hung-cao-waiver-jeopardy/",
+   "summary": "President Trump\u2019s official nomination of Hung Cao to be Navy secretary is already in jeopardy after Democratic senators indicated they won\u2019t vote in favor of giving him the waiver needed to serve. Cao, a Trump loyalist who has served as the acting head of the Navy since April and was officially nominated on Sept. 1,...",
+   "published": "2026-09-22T10:00:00+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-22T11:45:24.501779+00:00"
+  },
+  {
+   "id": "6ed6492743ff5f1c",
+   "title": "Trump\u2019s Greenland quest leaves scars, even as deal brings relief",
+   "url": "https://thehill.com/policy/international/6102741-trump-greenland-military-deal-nato-impact/",
+   "summary": "President Trump\u2019s announcement that he secured a deal with Denmark and Greenland over security for the Arctic territory gave both the president\u2019s supporters and critics something to cheer over \u2014 the removal of a key irritant in the NATO relationship.\u00a0 The exact details of the deal are not yet public, but officials have highlighted that...",
+   "published": "2026-09-22T10:00:00+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-22T11:45:24.501811+00:00"
+  },
+  {
+   "id": "37a1f293ba49dbc7",
+   "title": "Trump to zero-in on Iran nuclear threat, Gaza plan and UN overhaul in world stage speech",
+   "url": "https://www.foxnews.com/politics/trump-zero-in-iran-nuclear-threat-gaza-plan-un-overhaul-world-stage-speech",
+   "summary": "President Donald Trump addresses the United Nations General Assembly amid Iran tensions before pivoting to White House talks with China&apos;s Xi Jinping.",
+   "published": "2026-09-22T09:00:51+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-22T11:45:23.261949+00:00"
+  },
+  {
+   "id": "4f83c95a663a7789",
+   "title": "LIZ PEEK: Can Trump Make the UN Great Again despite its globalist agenda?",
+   "url": "https://www.foxnews.com/opinion/liz-peek-can-trump-make-un-great-again-despite-globalist-agenda",
+   "summary": "A new Gallup poll shows 73% of Americans say the U.N. fails at maintaining peace and security as Trump prepares to address the General Assembly.",
+   "published": "2026-09-22T09:00:45+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-22T11:45:23.347784+00:00"
+  },
+  {
+   "id": "613e4922b89c5c9e",
+   "title": "The House Freedom Caucus has to transform \u2014 it could preview the GOP's post-Trump era",
+   "url": "https://www.npr.org/2026/09/22/g-s1-144369/freedom-caucus-trump-republicans",
+   "summary": "The conservative House Freedom caucus grew in prominence along side President Trump, now they are considering what the future of their movement looks like.",
+   "published": "2026-09-22T09:00:00+00:00",
+   "source": "NPR Politics",
+   "source_id": "npr-politics",
+   "bias_note": "center",
+   "first_seen": "2026-09-22T11:45:24.045802+00:00"
+  },
+  {
+   "id": "e98e51fff89a6c8f",
+   "title": "Trump heads to U.N. looking for wins after a rough week",
+   "url": "https://www.npr.org/2026/09/22/nx-s1-5976843/trump-heads-to-u-n-looking-for-wins-after-a-rough-week",
+   "summary": "The past couple of weeks have been particularly challenging for Trump with a series of legal and political setbacks.",
+   "published": "2026-09-22T09:00:00+00:00",
+   "source": "NPR Politics",
+   "source_id": "npr-politics",
+   "bias_note": "center",
+   "first_seen": "2026-09-22T11:45:24.045808+00:00"
+  },
+  {
+   "id": "c9299ded90d41e65",
+   "title": "Republicans were bullish about the Senate. Now they\u2019re playing defense in red states.",
+   "url": "https://www.politico.com/news/2026/09/22/republicans-senate-house-map-midterm-fears-01086866",
+   "summary": "President Donald Trump\u2019s economic agenda is becoming a particular problem in the Midwest.",
+   "published": "2026-09-22T09:00:00+00:00",
+   "source": "Politico",
+   "source_id": "politico",
+   "bias_note": "center",
+   "first_seen": "2026-09-22T11:45:24.404092+00:00"
+  },
+  {
+   "id": "50f2a9fcdaffe25c",
+   "title": "The FBI Anti-Corruption Squad Was Circling Susan Collins \u2014 Until Trump Got in the Way",
+   "url": "https://www.propublica.org/article/fbi-susan-collins-navatek-campaign-donations-investigation",
+   "summary": "The post The FBI Anti-Corruption Squad Was Circling Susan Collins \u2014 Until Trump Got in the Way appeared first on ProPublica.",
+   "published": "2026-09-22T09:00:00+00:00",
+   "source": "ProPublica",
+   "source_id": "propublica",
+   "bias_note": "investigative",
+   "first_seen": "2026-09-22T11:45:24.819452+00:00"
+  },
+  {
+   "id": "285efe9e143e8be3",
+   "title": "Trump\u2019s bizarre social media blitz leaves world guessing ahead of UN address",
+   "url": "https://www.theguardian.com/world/2026/sep/22/trump-united-nations-address",
+   "summary": "President has been posting on Washington arch, AI and his \u201825 top achievements\u2019 \u2013 the chances of an uplifting speech appear slimThe annual gathering of the United Nations general assembly has historically been a platform for US presidents to display their most serious face and a positive vision to the world.From Harry Truman and Dwight Eisenhower to John F Kennedy and Barack Obama, over eight decades US leaders have used the setting to expound on grand themes before a global audience at pivotal moments in international affairs. Continue reading...",
+   "published": "2026-09-22T06:00:36+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-09-22T11:45:24.277176+00:00"
+  },
   {
    "id": "ae54a5a38045cd94",
    "title": "Trump seeks \u2018massive\u2019 Belarus fertiliser deal amid Canada trade war",
@@ -11485,149 +11683,6 @@
    "source_id": "guardian-uspolitics",
    "bias_note": "left-leaning",
    "first_seen": "2026-09-08T14:58:47.284288+00:00"
-  },
-  {
-   "id": "457eff15c340a550",
-   "title": "Students are suffering from US colleges\u2019 shaky finances. Trump policies are making everything worse",
-   "url": "https://www.theguardian.com/education/2026/sep/08/us-colleges-financial-trouble-trump-policies",
-   "summary": "Many four-year colleges will resort to laying off faculty, cutting services and increasing prices amid financial stressNalia Mutz started her freshman year at the University of Lynchburg in 2022 knowing exactly where she wanted to be four years later: right on track toward her dream of becoming a doctor.When the university eliminated a dozen majors in 2024, the resulting layoffs left fewer professors to teach the science courses she needed to graduate. She began to fear earning her biomedicine degree the way she had planned could take two extra years.Roughly 1,100 out of the 1,900 colleges in ",
-   "published": "2026-09-08T11:37:56+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-09-08T14:58:47.284241+00:00"
-  },
-  {
-   "id": "5298e450b6bbc165",
-   "title": "President Trump's move just before the midterms looks to defy historic trend and more top headlines",
-   "url": "https://www.foxnews.com/us/president-trumps-move-just-before-midterms-looks-defy-historic-trend-more-top-headlines",
-   "summary": "Get all the stories you need-to-know from the most powerful name in news delivered first thing every morning to your inbox.",
-   "published": "2026-09-08T11:34:55+00:00",
-   "source": "Fox News Latest",
-   "source_id": "foxnews-latest",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-09-08T14:58:46.470624+00:00"
-  },
-  {
-   "id": "83a9f98468e497ce",
-   "title": "Economic headwinds stiffen as campaign season hits full swing",
-   "url": "https://thehill.com/newsletters/morning-report/6075620-economic-headwinds-donald-trump-republicans-midterms-2026/",
-   "summary": "In today's issue: \u25aa Midterm season enters home stretch \u25aa Investigation launched into Amazon plane crash \u25aa New Mexico naming controversy \u25aa Dan Driscoll\u2019s possible replacements President Trump predicted in a Labor Day message on Truth Social that Republicans would win \u201cbig\u201d on Election Day. But Republicans are facing stiffening economic headwinds as election season kicks into high...",
-   "published": "2026-09-08T11:09:57+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-08T11:25:00.770027+00:00"
-  },
-  {
-   "id": "29fd12534f49b185",
-   "title": "Donald Trump\u2019s midterm strategy? Make it all about him | Robert Reich",
-   "url": "https://www.theguardian.com/commentisfree/2026/sep/08/trump-midterm-strategy",
-   "summary": "The president apparently plans to focus on the person he most admires \u2013 himself \u2013 even if Republicans would rather he didn\u2019tWith the midterm races officially beginning this week, a big question hanging over the Republican party is how Trump will allocate his giant stash of Super Pac money. As of 31 July, Maga Inc had more than $400m on hand, larger than the cash reserves of any of the major party committees.But he\u2019s barely spent any of it yet. Why not? Continue reading...",
-   "published": "2026-09-08T11:00:02+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-09-08T11:24:59.247873+00:00"
-  },
-  {
-   "id": "d319a120ccdaa84e",
-   "title": "Vulnerable Republicans divided over wisdom of Trump\u2019s midterm convention",
-   "url": "https://thehill.com/homenews/senate/6072571-senators-split-trump-election-strategy/",
-   "summary": "Republican senators and candidates have mixed feelings about President Trump\u2019s midterm election convention, with many hoping that Trump can rev up millions of MAGA voters but worried of being tied to a president with a slumping approval rating. Party officials are promising a big turnout of Senate Republican incumbents at this week\u2019s convention, which Trump...",
-   "published": "2026-09-08T10:00:00+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-08T11:25:00.770059+00:00"
-  },
-  {
-   "id": "02f180638610fa33",
-   "title": "GOP faces brutal midterm headwinds as Republicans paint election as \u2018competition with communism\u2019",
-   "url": "https://www.foxnews.com/politics/gop-faces-brutal-midterm-headwinds-republicans-paint-election-competition-communism",
-   "summary": "President Donald Trump headlines the first-ever GOP midterm convention in Dallas as Republicans fight to hold slim congressional majorities amid inflation.",
-   "published": "2026-09-08T09:00:36+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-09-08T11:24:58.869221+00:00"
-  },
-  {
-   "id": "03c9442540d9a895",
-   "title": "The 2026 midterm general election season is upon us. Here's what to watch",
-   "url": "https://www.npr.org/2026/09/08/nx-s1-5960533/2026-midterm-campaign-kickoff-house-senate-trump",
-   "summary": "The week of Labor Day marks the unofficial kickoff of the general election season. President Trump's unpopularity and Democratic enthusiasm means control of Congress is on the ballot.",
-   "published": "2026-09-08T09:00:00+00:00",
-   "source": "NPR Politics",
-   "source_id": "npr-politics",
-   "bias_note": "center",
-   "first_seen": "2026-09-08T11:24:59.188444+00:00"
-  },
-  {
-   "id": "17978351110b6f3a",
-   "title": "This State Is Spending More on Lethal Injections. A Law Tries to Keep the Details Secret.",
-   "url": "https://www.propublica.org/article/georgia-lethal-injections-costs-secrecy",
-   "summary": "The post This State Is Spending More on Lethal Injections. A Law Tries to Keep the Details Secret. appeared first on ProPublica.",
-   "published": "2026-09-08T09:00:00+00:00",
-   "source": "ProPublica",
-   "source_id": "propublica",
-   "bias_note": "investigative",
-   "first_seen": "2026-09-08T11:25:01.197214+00:00"
-  },
-  {
-   "id": "f31494aabac0a4f0",
-   "title": "Republicans are hoping \u2018Trump-a-palooza\u2019 isn\u2019t only about Trump",
-   "url": "https://www.politico.com/news/2026/09/08/gop-midterm-convention-trump-message-01066258",
-   "summary": "GOP lawmakers said they are counting on the president to draw a contrast with Democrats in Dallas, not prosecute personal grievances.",
-   "published": "2026-09-08T08:45:00+00:00",
-   "source": "Politico",
-   "source_id": "politico",
-   "bias_note": "center",
-   "first_seen": "2026-09-09T00:18:49.031558+00:00"
-  },
-  {
-   "id": "72fe0212efd79067",
-   "title": "Republicans hope unconventional convention will rally voters ahead of midterms",
-   "url": "https://www.npr.org/2026/09/08/nx-s1-5950566/republicans-hope-unconventional-convention-will-rally-voters-ahead-of-midterms",
-   "summary": "The Republican party is calling it a \"Trumpapalooza.\" The party is throwing an unconventional convention in Dallas this week to try to boost Republican voter enthusiasm.",
-   "published": "2026-09-08T08:42:13+00:00",
-   "source": "NPR Politics",
-   "source_id": "npr-politics",
-   "bias_note": "center",
-   "first_seen": "2026-09-08T11:24:59.188451+00:00"
-  },
-  {
-   "id": "899d0d92a61de80a",
-   "title": "Political commentator on what we might expect from Trump's midterm convention",
-   "url": "https://www.npr.org/2026/09/08/nx-s1-5960438/political-commentator-on-what-we-might-expect-from-trumps-midterm-convention",
-   "summary": "NPR's Steve Inskeep speaks with commentator Jonah Goldberg about this week's unusual Republican midterm gathering.",
-   "published": "2026-09-08T08:42:05+00:00",
-   "source": "NPR Politics",
-   "source_id": "npr-politics",
-   "bias_note": "center",
-   "first_seen": "2026-09-08T11:24:59.188454+00:00"
-  },
-  {
-   "id": "97c2e0664d28e103",
-   "title": "What to watch as Republicans gather in Dallas for Trump's unusual midterm convention",
-   "url": "https://abcnews.com/Politics/wireStory/watch-republicans-gather-dallas-trumps-unusual-midterm-convention-136263972",
-   "summary": "Republicans will descend on Dallas this week for a two-day convention dreamed up by President Donald Trump to rally his party ahead of this year&rsquo;s midterm elections",
-   "published": "2026-09-08T07:13:11+00:00",
-   "source": "ABC News Politics",
-   "source_id": "abc-politics",
-   "bias_note": "center",
-   "first_seen": "2026-09-08T11:25:01.435263+00:00"
-  },
-  {
-   "id": "abd80504bc5c2760",
-   "title": "What to know about Canada's escalating trade war with the U.S.",
-   "url": "https://www.npr.org/2026/09/08/nx-s1-5960990/canada-escalating-trade-war-us",
-   "summary": "Canada struck back at U.S. President Donald Trump on Tuesday with tariffs on about $20 billion worth of U.S. goods. The outcome could resonate far beyond Canada.",
-   "published": "2026-09-08T06:04:43+00:00",
-   "source": "NPR Politics",
-   "source_id": "npr-politics",
-   "bias_note": "center",
-   "first_seen": "2026-09-08T11:24:59.188457+00:00"
   }
  ]
 }
