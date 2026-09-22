@@ -1,7 +1,227 @@
 {
- "updated": "2026-09-22T11:45:25.427289+00:00",
- "count": 1062,
+ "updated": "2026-09-22T15:27:06.538777+00:00",
+ "count": 1071,
  "articles": [
+  {
+   "id": "2341b9eeb546c534",
+   "title": "Ocasio-Cortez on possible White House bid: 'Pretty candidly, I think about my identity'",
+   "url": "https://thehill.com/homenews/campaign/6103994-ocasio-cortez-discusses-presidential-bid/",
+   "summary": "Rep. Alexandria Ocasio-Cortez (D-N.Y.), one of the most prominent Democrats of the last decade, discussed a 2028 presidential run and reflected on how her identity may impact her potential campaign. \u201cI think about it personally,\u201d Ocasio-Cortez told The New York Times in an interview published Tuesday, talking about a bid for the presidency. \u201cI am...",
+   "published": "2026-09-22T15:18:58+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-22T15:27:05.589045+00:00"
+  },
+  {
+   "id": "d8e8764232d64dd0",
+   "title": "Live updates: Trump dubs AI 'super intelligence' in UN General Assembly address",
+   "url": "https://thehill.com/homenews/administration/6103063-live-updates-trump-un-general-assembly-iran-russia-ukraine-conflicts-media-ban/",
+   "summary": "President Trump took the world stage Tuesday to address the United Nations General Assembly in New York City, calling for artificial intelligence to be dubbed \"super intelligence.\" \"From this point forward, all of United States documents and hopefully the world's will be changed to use the much more accurate term 'super' as opposed to 'artificial,'\"...",
+   "published": "2026-09-22T15:16:52+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-22T15:27:05.589050+00:00"
+  },
+  {
+   "id": "57f01dc964fa8fa4",
+   "title": "Republican calls for Senate investigation of Trump Jr wedding paid for by Russian oligarch",
+   "url": "https://www.theguardian.com/us-news/2026/sep/22/republican-senate-investigation-trump-jr-wedding",
+   "summary": "Putin ally helped cover cost of renting private island in the Bahamas for wedding of Trump Jr and Bettina AndersonUS politics live \u2013 latest updatesA Republican senator has accused Donald Trump Jr of corruption and demanded a Senate investigation into revelations that a Russian oligarch bankrolled part of his recent wedding in the Bahamas.John Curtis, of Utah, wrote to the leaders of the US Senate judiciary committee on Tuesday, urging them to subpoena Trump Jr over his business dealings, his relationships with foreign individuals, gifts he has received \u2013 and any occasions where his connection ",
+   "published": "2026-09-22T15:15:23+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-09-22T15:27:05.282981+00:00"
+  },
+  {
+   "id": "3d618af86adc57a7",
+   "title": "Leavitt pulls back the curtain on Trump's 'tense,' unfiltered private talks with Putin, Xi, Starmer",
+   "url": "https://www.foxnews.com/media/leavitt-pulls-back-curtain-trumps-tense-unfiltered-private-talks-putin-xi-starmer",
+   "summary": "Karoline Leavitt revealed President Donald Trump&apos;s private talks with foreign leaders mirror his public stance, detailing tense calls with Putin, Xi and a blunt lunch with Starmer.",
+   "published": "2026-09-22T15:15:20+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-22T15:27:04.521748+00:00"
+  },
+  {
+   "id": "8d2f95d30f320496",
+   "title": "Trump floats 'big decision' at UN on whether he'll 'annihilate' Iran or make deal",
+   "url": "https://thehill.com/homenews/administration/6103989-trump-un-iran-decision/",
+   "summary": "President Trump told the United Nations General Assembly on Tuesday that he has a major decision coming on the U.S. war in Iran and predicted a deal could be reached between the two countries after November\u2019s midterm elections.\u00a0 \u201cI have a big decision to make,\u201d Trump told the international body, including Iranian representatives. \u201dWill a...",
+   "published": "2026-09-22T15:09:57+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-22T15:27:05.589056+00:00"
+  },
+  {
+   "id": "4d48e5f66082acd7",
+   "title": "Trump finds rampant noncitizen voting in \u2026 Ken Paxton\u2019s Texas",
+   "url": "https://thehill.com/opinion/white-house/6103023-trump-voter-data-accuracy/",
+   "summary": "A report from the U.S. Census Bureau alleging thousands of noncitizen voters in the 2020 election has prompted questions regarding whether Texas Attorney General Ken Paxton and the federal government are failing to prosecute such individuals or are presenting inaccurate data.",
+   "published": "2026-09-22T15:00:00+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-22T15:27:05.589060+00:00"
+  },
+  {
+   "id": "8b580cf29ab9e5da",
+   "title": "California senators call for probe into Trump administration election operation",
+   "url": "https://thehill.com/homenews/senate/6103744-california-senators-probe-trump-voter-data/",
+   "summary": "Sens. Alex Padilla (D-Calif.) and Adam Schiff (D-Calif.) on Sunday called on California Attorney General Rob Bonta (D) to launch a probe into a whistleblower's allegations that the Trump administration attempted to search through the state's voting records. The senators wrote in a letter to Bonta that on Sept. 8, a whistleblower disclosed that the...",
+   "published": "2026-09-22T14:56:25+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-22T15:27:05.589062+00:00"
+  },
+  {
+   "id": "59bd97e04c193184",
+   "title": "Trump tells CNN's Collins 'you shouldn't be here' on way into UN",
+   "url": "https://thehill.com/homenews/administration/6103823-trump-collins-white-house-un-assembly/",
+   "summary": "President Trump on Tuesday brushed aside questions from CNN Chief White House correspondent Kaitlan Collins amid his push to block the network and two other outlets from covering the White House.  During the president\u2019s arrival at the UN General Assembly meeting in New York City Tuesday morning, Trump said he was \u201csurprised\u201d to see the...",
+   "published": "2026-09-22T14:54:45+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-22T15:27:05.589066+00:00"
+  },
+  {
+   "id": "cc59b0276e92943f",
+   "title": "Trump defends US interventions abroad ahead of 'big decision' on Iran: 'Settling years of unfinished business'",
+   "url": "https://www.foxnews.com/politics/trump-defends-us-interventions-abroad-ahead-big-decision-iran-settling-years-unfinished-business",
+   "summary": "President Donald Trump told the United Nations General Assembly he faces a stark choice: Let Iran make a deal or &quot;annihilate&quot; the regime over its nuclear weapons pursuit.",
+   "published": "2026-09-22T14:51:58+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-22T15:27:04.460039+00:00"
+  },
+  {
+   "id": "5bdd54fee4d26fc7",
+   "title": "El-Sayed on Carlson praise: MAGA 'eating itself'",
+   "url": "https://thehill.com/homenews/campaign/6103775-abdul-el-sayed-tucker-carlson-trump-maga-movement-2026-midterms/",
+   "summary": "Michigan Senate candidate Abdul El-Sayed (D) said President Trump\u2019s MAGA movement is \u201ceating itself\u201d after conservative commentator Tucker Carlson praised the progressive while tearing into his GOP opponent, former Rep. Mike Rogers. El-Sayed was asked Monday about Carlson\u2019s comments on the race earlier this month, when the former Fox News host said he \u201cwouldn\u2019t vote...",
+   "published": "2026-09-22T14:39:08+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-22T15:27:05.589071+00:00"
+  },
+  {
+   "id": "fc13dec7d19cf4a9",
+   "title": "Watch live: Vance, Oz to announce crackdown on alleged Obamacare fraud",
+   "url": "https://thehill.com/video-clips/6103679-watch-live-jd-vance-mehmet-oz-obamacare-alleged-fraud-trump-admin/",
+   "summary": "Vice President Vance and Dr. Mehmet Oz, who leads the Centers for Medicare and Medicaid Services (CMS), are expected to announce a new crackdown Tuesday on alleged fraud in Affordable Care Act insurance exchanges. The administration plans to cancel subsidy payments tied to 760,000 accounts it says are fraudulent, unauthorized or otherwise ineligible, according to...",
+   "published": "2026-09-22T14:38:29+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-22T15:27:05.589075+00:00"
+  },
+  {
+   "id": "33ff29c4804989e3",
+   "title": "Never mind Trump \u2013 if Europe wants to save Nato, it must win over the American people | Leslie Vinjamuri",
+   "url": "https://www.theguardian.com/commentisfree/2026/sep/22/trump-us-nato-europe-american-people-mark-rutte",
+   "summary": "Mark Rutte has the right idea \u2013 go beyond Washington and make the case for the transatlantic alliance to the public. They may well have a willing earAt a moment when Europe is focused on persuading Donald Trump to remain committed to Nato, it needs to convince Americans, too. So the presence this evening of the Nato secretary general, Mark Rutte, in front of a public audience in Des Moines, Iowa, is significant. This is the home town of Trump\u2019s ambassador to Nato, Matthew Whitaker, and the visit brings the debate over Nato\u2019s future directly to a midwestern audience in a red state that operates",
+   "published": "2026-09-22T14:30:02+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-09-22T15:27:05.283023+00:00"
+  },
+  {
+   "id": "fd70dd5c008622ef",
+   "title": "\u2018Literally state-run TV\u2019: Trump launches YouTube channel amid boycott by US networks",
+   "url": "https://www.theguardian.com/us-news/2026/sep/22/trump-launches-youtube-channel-amid-boycott-by-us-networks",
+   "summary": "White House press coverage row continues while anchor-less channel of the administration\u2019s \u2018latest and greatest\u2019 streams propaganda for the Maga faithfulDonald Trump\u2019s previous television career centred on his role on The Apprentice, but the US president\u2019s latest media venture is a rather lower-budget affair: the launch of Trump TV in the wake of his ban on several outlets from covering the White House.With major US networks agreeing to not cover the president while the dispute continues, on Monday the White House announced the new 24/7 YouTube live stream, which it promised would feature \u201ctop",
+   "published": "2026-09-22T14:25:53+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-09-22T15:27:05.282991+00:00"
+  },
+  {
+   "id": "a1961e9b7a834cd5",
+   "title": "Trump 'definitely backed into a corner': Former press secretary",
+   "url": "https://thehill.com/homenews/media/6103739-grisham-trumpet-doubling-down/",
+   "summary": "Former White House press secretary Stephanie Grisham said Monday that President Trump is in a tight spot with his restrictions on media outlets. \u201cWell, he's definitely backed into a corner, but he's not going to admit that. So, to answer your question, yes, he's going to continue to double down, which I think he already...",
+   "published": "2026-09-22T14:19:53+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-22T15:27:05.589085+00:00"
+  },
+  {
+   "id": "07f8440a66fd23cc",
+   "title": "Jon Stewart rips Trump's media ban: 'Have you tried presidenting better?'",
+   "url": "https://thehill.com/blogs/in-the-know/6103689-jon-stewart-trump-media-ban-daily-show/",
+   "summary": "Jon Stewart is railing against President Trump's White House ban on three media organizations, saying the \"authoritarian crackdown\" won't bring down fuel prices or improve the job he's doing as commander in chief. Trump said\u00a0on Friday in a Truth Social post that he was banning MS NOW, CNN and Politico from the White House \"as...",
+   "published": "2026-09-22T14:07:48+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-22T15:27:05.589103+00:00"
+  },
+  {
+   "id": "0a58c4504352949b",
+   "title": "Trump needs to be bold, direct with Xi over Taiwan dispute",
+   "url": "https://thehill.com/opinion/international/6102603-trump-xi-summit-taiwan-strategy/",
+   "summary": "As Trump\u2019s prospects for electoral redemption seemingly sink into oblivion, his negotiating position confronting Xi on trade and Taiwan are at the vanishing point.",
+   "published": "2026-09-22T14:00:00+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-22T15:27:05.589116+00:00"
+  },
+  {
+   "id": "5acf4e28be071b2f",
+   "title": "WATCH LIVE: Trump addresses 2026 United Nations General Assembly",
+   "url": "https://www.pbs.org/newshour/world/watch-live-trump-addresses-2026-united-nations-general-assembly",
+   "summary": "President Donald Trump returns to the General Assembly nearing the seven-month mark of a new war against Iran that he insists is necessary to address a nuclear threat posed by Iran.",
+   "published": "2026-09-22T13:26:55+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-09-22T15:27:05.737426+00:00"
+  },
+  {
+   "id": "b7538cb6a4bfde34",
+   "title": "Fox News Power Rankings: For the Democrats, where could it possibly go wrong?",
+   "url": "https://www.foxnews.com/politics/fox-news-power-rankings-democrats-where-could-go-wrong",
+   "summary": "Democrats hold an 11-point generic ballot lead as Trump&apos;s Iran war drives gas prices up 50%, dragging down Republican midterm prospects nationwide.",
+   "published": "2026-09-22T13:00:03+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-22T15:27:04.460071+00:00"
+  },
+  {
+   "id": "6ce102f2e01ebfd0",
+   "title": "The world freaked out about AI doomsday. Now what?",
+   "url": "https://www.theguardian.com/technology/2026/sep/22/ai-doomsday-trump-xi",
+   "summary": "Donald Trump and Xi Jinping will meet each other next week, but it\u2019s unlikely they\u2019ll agree to AI regulationHello, and welcome to TechScape. I\u2019m your host, Blake Montgomery, US tech editor at the Guardian, writing to you while reading and disagreeing with Jenny Odell\u2019s 2019 book How to Do Nothing. I\u2019m pro-screen time. Today in tech, we\u2019re discussing the upcoming meeting between Donald Trump and Xi Jinping, in which AI will likely feature prominently. Continue reading...",
+   "published": "2026-09-22T13:00:03+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-09-22T15:27:05.282996+00:00"
+  },
+  {
+   "id": "53fe05ed52514c6b",
+   "title": "Mississippi grand jury declines to indict anyone in death of 18-year-old who vanished in coastal waters",
+   "url": "https://www.foxnews.com/us/mississippi-grand-jury-declines-indict-anyone-death-18-year-old-vanished-coastal-waters",
+   "summary": "A 23-member Jackson County grand jury heard from 43 witnesses and found Nolan Wells&apos; death on Horn Island was consistent with drowning, not foul play.",
+   "published": "2026-09-22T11:37:49+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-22T15:27:04.521880+00:00"
+  },
   {
    "id": "7be3f6cc66316ea8",
    "title": "Trump\u2019s address kicks off jam-packed day at UNGA",
@@ -11562,127 +11782,6 @@
    "source_id": "foxnews-politics",
    "bias_note": "right-leaning",
    "first_seen": "2026-09-08T16:41:59.096853+00:00"
-  },
-  {
-   "id": "b3eaeb51799d120b",
-   "title": "GOP senator defends Bombardier after Trump threat",
-   "url": "https://thehill.com/homenews/senate/6076339-moran-defends-bombardier-trump-canada-tariffs/",
-   "summary": "Sen. Jerry Moran (R-Kan.) is defending private jet maker Bombardier from growing pressure from President Trump, who on Monday declared the Canadian aerospace company would no longer be able to sell planes in the United States. Moran, the senior Republican senator from Kansas, pointed out that Bombardier is a major employer in his home state,...",
-   "published": "2026-09-08T15:00:36+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-08T16:42:00.302624+00:00"
-  },
-  {
-   "id": "c586a35e1e279e61",
-   "title": "Trump\u2019s call to rename New Mexico \u2018New America\u2019 is a distraction tactic, Democrats say",
-   "url": "https://www.theguardian.com/us-news/2026/sep/08/trump-new-mexico-rename-democrats",
-   "summary": "Amid unpopular Iran war and persistent inflation, governor says state has had its name since before US existedDemocrats have hit back against Donald Trump\u2019s suggestion that the state of New Mexico should be renamed \u201cNew America\u201d, accusing the US president of trying to distract from his war on Iran and rising prices.The administration moved to rename the Gulf of Mexico as the \u201cGulf of America\u201d hours after Trump\u2019s return to office in January 2025. In August, as trade tensions escalated between the US and Canada, it moved to do the same with Lake Ontario, moving to rename it as \u201cLake America\u201d. Co",
-   "published": "2026-09-08T14:59:21+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-09-08T16:42:00.032353+00:00"
-  },
-  {
-   "id": "57748b28eeb4dc44",
-   "title": "Trump-Carney AI hockey video stirs anger while racking up views",
-   "url": "https://thehill.com/policy/international/6076340-trump-carney-hockey-video/",
-   "summary": "A video shared by a popular X account supportive of President Trump that depicts the U.S. president repeatedly beating Canadian Prime Minister Mark Carney with a hockey stick has gained traction this week amid an escalating trade fight between the U.S. and Canada. The clip, which had garnered hundreds of thousands of views from retweets on...",
-   "published": "2026-09-08T14:56:33+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-08T14:58:47.581886+00:00"
-  },
-  {
-   "id": "4e9418f5d110b8c4",
-   "title": "Former Kennedy Center chair buys dismantled Blue statue",
-   "url": "https://thehill.com/homenews/administration/6076281-rubenstein-buys-shapiro-blue-sculpture/",
-   "summary": "The former Kennedy Center chairman who was ousted by President Trump last year has purchased the \u201cBlue\u201d sculpture that was removed from the center\u2019s grounds last week. David Rubenstein, the former long term board chair who was fired by Trump and alongside many of his colleagues replaced with the president\u2019s own allies, bought the 24-foot...",
-   "published": "2026-09-08T14:53:34+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-08T14:58:47.581897+00:00"
-  },
-  {
-   "id": "f49b9999f444bef0",
-   "title": "Democrats hit back at Trump after president floats changing name of New Mexico to \u2018New America\u2019 - US politics live",
-   "url": "https://www.theguardian.com/us-news/live/2026/sep/08/new-hampshire-rhode-island-vote-state-primaries-trump-canada-us-politics-latest-news-updates",
-   "summary": "State senator among politicians hitting back at president\u2019s social media post saying New Mexico should be change to \u2018New America\u2019Sign up for US Breaking News emailsFurther down the ballot in New Hampshire, the Democratic primary for Chris Pappas\u2019s House seat has drawn eight candidates, with Stefany Shaheen \u2013 daughter of the outgoing senator \u2013 and Maura Sullivan, a former Obama administration official, leading the field.The district, long purple, has been reliably blue since 2017. Republicans now see it as flippable, and Donald Trump has endorsed Anthony DiLorenzo, a businessman who owns severa",
-   "published": "2026-09-08T14:49:22+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-09-08T14:58:47.284210+00:00"
-  },
-  {
-   "id": "292cffe3d0a24ced",
-   "title": "Trump administration announces $1.9B loan to support Iowa nuclear plant restart",
-   "url": "https://thehill.com/policy/energy-environment/6076274-trump-administration-iowa-nuclear-plant-loan/",
-   "summary": "The Trump administration on Tuesday announced it will loan $1.9 billion to NextEra Energy to finance the restart of an Iowa nuclear plant.\u00a0 The project \u2014 which will be the Hawkeye State's only nuclear power plant \u2014 is expected to generate enough power for more than 500,000 homes. Iowa Public Radio\u00a0reported that the plant, called...",
-   "published": "2026-09-08T14:44:41+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-08T14:58:47.581920+00:00"
-  },
-  {
-   "id": "9cfcc449c35f1c4f",
-   "title": "Russia resumes strikes on Kyiv after pause for US envoys' visit",
-   "url": "https://thehill.com/policy/international/6076209-russia-resumes-ukraine-strikes/",
-   "summary": "Russia resumed strikes on Kyiv and across Ukraine early on Tuesday following a pause in attacks that allowed President Trump\u2019s top envoys for peace negotiations to meet Ukrainian President Volodymyr Zelensky in the country\u2019s capital. The Ukrainian military downed 175 aerial targets,\u00a0the Ministry of Defense said, but added that ballistic missiles hit homes in Kyiv,...",
-   "published": "2026-09-08T14:35:12+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-08T14:58:47.581939+00:00"
-  },
-  {
-   "id": "4d8201a449dcda9b",
-   "title": "Lindsay Clancy attorney asks Trump for pardon after mistrial",
-   "url": "https://thehill.com/blogs/in-the-know/6076070-lindsay-clancy-attorney-kevin-reddington-donald-trump-pardon-request/",
-   "summary": "Following the mistrial, prosecutors have the option of retrying the case, making a plea deal or dropping the charges.",
-   "published": "2026-09-08T14:01:16+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-08T14:58:47.582018+00:00"
-  },
-  {
-   "id": "eb365987a01b4e8b",
-   "title": "Nathan Fielder reveals surprise documentary on Elizabeth Holmes",
-   "url": "https://thehill.com/homenews/media/6075992-nathan-fielder-surprise-documentary-elizabeth-holmes/",
-   "summary": "Comedian and satirist Nathan Fielder is preparing to publish a documentary on Elizabeth Holmes, the former business executive convicted of defrauding investors in connection with health technology company Theranos. A trailer for the film, titled \"You Can See Everything,\" shows Holmes and Fielder seated close to one another locked in eye contact as she tells...",
-   "published": "2026-09-08T13:51:28+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-08T14:58:47.582038+00:00"
-  },
-  {
-   "id": "55aa506861ed8f7d",
-   "title": "Fox News Power Rankings: What\u2019s in an economy?",
-   "url": "https://www.foxnews.com/politics/fox-news-power-rankings-whats-economy",
-   "summary": "Trump&apos;s economy approval sits at -33 points, but Democrats&apos; competing visions on cost of living and inflation haven&apos;t won voters over either.",
-   "published": "2026-09-08T13:00:07+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-09-08T14:58:46.441502+00:00"
-  },
-  {
-   "id": "f99361bc59a46921",
-   "title": "Democrats need to win. Here\u2019s the message our research says works",
-   "url": "https://www.theguardian.com/commentisfree/2026/sep/08/democrats-elections-affordability-accountability",
-   "summary": "Candidates must focus on two issues: affordability and accountability. They are not competing prioritiesAs the November election approaches with control of the House and Senate on the line, the stakes are high. With so much riding on the outcome, there is no shortage of debate about the message Democrats need to win.Affordability has emerged as a shared \u2013 if often undefined \u2013 rallying cry. Working families are struggling with rising costs and looking for answers. But too often, we\u2019ve seen affordability positioned as the beginning and end of the plan. Meanwhile, many see holding the Trump admin",
-   "published": "2026-09-08T12:00:03+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-09-08T14:58:47.284288+00:00"
   }
  ]
 }
