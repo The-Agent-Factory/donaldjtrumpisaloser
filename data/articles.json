@@ -1,7 +1,183 @@
 {
- "updated": "2026-09-23T15:21:14.698569+00:00",
- "count": 1096,
+ "updated": "2026-09-23T18:25:26.245630+00:00",
+ "count": 1101,
  "articles": [
+  {
+   "id": "2b43be2f8dd29064",
+   "title": "Watch live: Jeffries talks midterms as battle for House intensifies",
+   "url": "https://thehill.com/video-clips/6106766-watch-live-hakeem-jeffries-midterms-democrats-iran-war-trump-agenda/",
+   "summary": "House Minority Leader Hakeem Jeffries (D-N.Y.) will speak to reporters Wednesday afternoon as Democrats ramp up their efforts to win control of the House in November, including pushback against President Trump's agenda. Democrats have leaned heavily on affordability concerns while also condemning the Trump administration's ongoing war with Iran and raising alarms about rapidly evolving...",
+   "published": "2026-09-23T18:23:07+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-23T18:25:24.770904+00:00"
+  },
+  {
+   "id": "0e8a39d0bbd16902",
+   "title": "Peter Navarro calls on Cabinet secretaries, officials to boycott Fox",
+   "url": "https://thehill.com/homenews/media/6106900-navarro-urges-fox-news-boycott/",
+   "summary": "Top trade adviser Peter Navarro on Wednesday called on cabinet officials and supporters of President Trump to boycott appearing on Fox News over the network's decision to voice support for three news outlets the president banned from the White House last week. In a string of social media posts, Navarro, a frequent critic of the...",
+   "published": "2026-09-23T18:20:36+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-23T18:25:24.770942+00:00"
+  },
+  {
+   "id": "ef78465c1b1f9fa6",
+   "title": "Schumer, Senate Democrats push for stricter rules on AI chip sales ahead of Xi visit",
+   "url": "https://thehill.com/policy/technology/6106883-senate-democrats-ai-chip-bills/",
+   "summary": "Top Senate Democrats are pushing for Congress to pass a trio of bills cracking down on AI chip sales to China as President Trump prepares to meet with Chinese President Xi Jinping. Senate Majority Leader Chuck Schumer (D-N.Y.) and Sens. Elizabeth Warren (D-Mass.), Andy Kim (D-N.J.) and Elissa Slotkin (D-Mich.) argued Wednesday that the U.S....",
+   "published": "2026-09-23T18:18:04+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-23T18:25:24.770946+00:00"
+  },
+  {
+   "id": "c6b79f9b03d204a3",
+   "title": "Trump extends invite to Putin to attend Miami G20",
+   "url": "https://thehill.com/policy/international/6106907-donald-trump-vladimir-putin-g20-miami-invitation/",
+   "summary": "The Trump administration has issued a formal invitation for Russian President Vladimir Putin to attend the Group of 20 summit to be held in Miami in December.\u00a0 \u201cWe\u2019ve invited President Putin to the G20,\u201d Secretary of State Marco Rubio told reporters Wednesday at a press conference on the sidelines of the United Nations General Assembly.\u00a0...",
+   "published": "2026-09-23T18:13:14+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-23T18:25:24.770952+00:00"
+  },
+  {
+   "id": "3375f8a1fdbb7f61",
+   "title": "\u2018We hope he\u2019ll accept\u2019: US invites Putin to G20 summit at Trump golf club",
+   "url": "https://www.theguardian.com/us-news/2026/sep/23/trump-putin-g20-summit-miami",
+   "summary": "Kremlin yet to respond publicly to US invitation that is likely to raise concerns from Ukraine and EU countries The United States has invited Vladimir Putin to take part in the G20 scheduled in Miami in December in what would be the first major summit with the Russian leader present since he launched his invasion of Ukraine in 2022.The invitation, which marks a significant reversal by the Trump administration of Russia\u2019s international isolation, was announced by secretary of state Marco Rubio during a press conference on the sidelines of the United Nations conference in New York. Continue read",
+   "published": "2026-09-23T18:09:10+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-09-23T18:25:23.244878+00:00"
+  },
+  {
+   "id": "d31f7ce87bd4ac01",
+   "title": "Trump to ask Xi to free wrongfully detained US citizen as wife speaks out",
+   "url": "https://www.foxnews.com/politics/trump-ask-xi-free-wrongfully-detained-us-citizen-wife-speaks-out",
+   "summary": "President Trump plans to ask Chinese President Xi Jinping to release Dr. Youlin Chen, a U.S. citizen charged with espionage after two years in China.",
+   "published": "2026-09-23T17:18:10+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-23T18:25:22.680643+00:00"
+  },
+  {
+   "id": "5666b13ecf8f4dec",
+   "title": "DAVID MARCUS: Minnesota GOP candidates keep Trump at arm's length as they eye a post-Trump party future",
+   "url": "https://www.foxnews.com/opinion/david-marcus-minnesota-gop-candidates-keep-trump-arms-length-eye-post-trump-party-future",
+   "summary": "Michele Tafoya and Lisa Demuth navigate a tricky balance on Trump in Minnesota, embracing some policies while keeping the president at arm&apos;s length.",
+   "published": "2026-09-23T17:16:31+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-23T18:25:22.699606+00:00"
+  },
+  {
+   "id": "fce9ada56f0851ac",
+   "title": "Trump threatens to 'annihilate' Iran in UN speech",
+   "url": "https://thehill.com/opinion/lindseys-lens/6106814-trump-iran-war-un-speech/",
+   "summary": "Instead of providing a real solution to end this war, during a speech at the United Nations yesterday, Donald Trump described himself as a \u201cpeacemaker,\u201d but at the same time spoke about annihilating the Islamic Republic.",
+   "published": "2026-09-23T17:13:20+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-23T18:25:24.770971+00:00"
+  },
+  {
+   "id": "49564d9a378b2bb1",
+   "title": "Ted Cruz blasts Joel Webbon for saying MAGA should 'embrace socialism'",
+   "url": "https://thehill.com/opinion/robbys-radar/6106781-gop-rejects-webbons-socialism/",
+   "summary": "When it comes to socialism, I always have at the ready a one-word response: No. No today, no tomorrow, no forever.",
+   "published": "2026-09-23T17:03:03+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-23T18:25:24.770985+00:00"
+  },
+  {
+   "id": "bb3ea9d0a8d7555f",
+   "title": "Iran\u2019s president delivers Trump rebuttal",
+   "url": "https://thehill.com/newsletters/1230-report/6106703-irans-president-delivers-trump-rebuttal/",
+   "summary": "{beacon} It\u2019s Wednesday, and the show goes on at the United Nations General Assembly. &#8202; In today's issue: Pezeshkian addresses UNGA Missouri maps return to Supreme Court Miller's attorney targets Poindexter GOP senators demand Taiwan security assistance Programming note: We're Joshua Feldstein and Abigail Walker, filling in for Cate today. Please send us your tips,...",
+   "published": "2026-09-23T16:37:25+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-23T18:25:24.771017+00:00"
+  },
+  {
+   "id": "780ec78a9d222f34",
+   "title": "Wisconsin's GOP nominee for governor reups calls to end Iran war",
+   "url": "https://thehill.com/homenews/campaign/6106665-tiffany-calls-end-iran-war/",
+   "summary": "Rep. Tom Tiffany (R-Wisc.), the Republican nominee in Wisconsin\u2019s competitive gubernatorial race, reupped his calls Tuesday for President Trump to end U.S. military operations against Iran.  FOX6 News reporter Jason Calvi pushed Tiffany on why he has repeatedly not supported a war powers resolution in the U.S. House despite publicly calling for the war to...",
+   "published": "2026-09-23T16:26:34+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-23T18:25:24.771027+00:00"
+  },
+  {
+   "id": "64663689752fb1db",
+   "title": "Trump-Xi summit should make sure American strength delivers American results",
+   "url": "https://www.foxnews.com/opinion/trump-xi-summit-should-make-sure-american-strength-delivers-american-results",
+   "summary": "President Donald Trump meets Chinese President Xi Jinping in Washington with leverage on critical minerals, semiconductors and sanctions against Russia and Iran.",
+   "published": "2026-09-23T16:19:19+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-23T18:25:22.699634+00:00"
+  },
+  {
+   "id": "9f1560b5f2c18fd3",
+   "title": "From cybersecurity to AI to Taiwan, what's at stake in Trump's summit with Xi",
+   "url": "https://www.npr.org/2026/09/23/nx-s1-5978691/from-cybersecurity-to-ai-what-at-stake-in-trumps-meeting-with-and-president-xiwhy-the-us-and-china-are-at-a-precarious-moment-in-their-relationship",
+   "summary": "As President Trump and China's President Xi prepare to meet, Rush Doshi of the Council on Foreign Relations\u00a0explains the current state of U.S.-China relations and what to expect from this summit.",
+   "published": "2026-09-23T16:13:52+00:00",
+   "source": "NPR Politics",
+   "source_id": "npr-politics",
+   "bias_note": "center",
+   "first_seen": "2026-09-23T18:25:23.019645+00:00"
+  },
+  {
+   "id": "cd4ff3492fd35b9b",
+   "title": "GOP cracks widen over Iran war as vulnerable candidates break with Trump, demand its end",
+   "url": "https://www.foxnews.com/politics/gop-cracks-widen-over-iran-war-vulnerable-candidates-break-trump-demand-its-end",
+   "summary": "Vulnerable Republicans Ashley Hinson, Mike Rogers and Jon Husted break with Trump on the Iran war as gas prices reshape toss-up Senate races.",
+   "published": "2026-09-23T16:08:18+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-23T18:25:22.680659+00:00"
+  },
+  {
+   "id": "b00a0e4974a2065a",
+   "title": "Stanford admits breaking own policy after race-, gender-swapped student photos emerge",
+   "url": "https://www.foxnews.com/politics/stanford-admits-breaking-own-policy-after-race-gender-swapped-student-photos-emerge",
+   "summary": "Stanford University admitted AI was used to alter a dining hall photo, replacing Billy Ramirez with a Black woman amid Trump administration scrutiny.",
+   "published": "2026-09-23T15:42:16+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-23T18:25:22.680661+00:00"
+  },
+  {
+   "id": "9ea2cd9919cbf88e",
+   "title": "Trump\u2019s UN speech was delusional and dangerous | Kenneth Roth",
+   "url": "https://www.theguardian.com/commentisfree/2026/sep/23/trump-un-speech-delusional-dangerous",
+   "summary": "It is sad and dangerous that at such a perilous moment, the United States is saddled with a president like TrumpDonald Trump\u2019s speech on Tuesday to the United Nations general assembly was an object lesson in his lawless rule and remarkable capacity for self-delusion. Disregarding the UN charter\u2019s emphasis on the peaceful resolution of disputes, he doubled down on his violent unilateralism while denigrating the global issues that the UN is designed to address.For many, the headline remark was his musing about whether to \u201cannihilate the Islamic Republic\u201d of Iran. \u201cDo I drive them into hell with ",
+   "published": "2026-09-23T15:30:52+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-09-23T18:25:23.244931+00:00"
+  },
   {
    "id": "1d4b2ea086fd9249",
    "title": "Iran president tells UN \u2018we will never bow our head' as US walks out",
@@ -11936,127 +12112,6 @@
    "source_id": "foxnews-politics",
    "bias_note": "right-leaning",
    "first_seen": "2026-09-09T20:59:08.197355+00:00"
-  },
-  {
-   "id": "d42f40f27fdbba38",
-   "title": "Republicans gather in Dallas for two-day midterm convention billed as 'Trump-a-Palooza'",
-   "url": "https://www.pbs.org/newshour/politics/republicans-gather-in-dallas-for-two-day-midterm-convention-billed-as-trump-a-palooza",
-   "summary": "The highly unusual midterm convention puts President Donald Trump at the center of this fall's midterm elections \u2014 whether the candidates running like it or not.",
-   "published": "2026-09-09T18:07:44+00:00",
-   "source": "PBS NewsHour Politics",
-   "source_id": "pbs-politics",
-   "bias_note": "center",
-   "first_seen": "2026-09-09T20:59:11.681057+00:00"
-  },
-  {
-   "id": "c2f1b6f581cb7818",
-   "title": "Who won't be at RNC's midterm convention in Dallas",
-   "url": "https://thehill.com/homenews/campaign/6079435-midterm-convention-republicans-attendance/",
-   "summary": "Republicans are holding a midterm convention on Wednesday and Thursday in Dallas, two months out from a general election that will have high stakes for President Trump and his party. However, the convention comes at a rough political time for Republicans, with Trump\u2019s approval rating slumping, the unpopular war in Iran recently stretching past the...",
-   "published": "2026-09-09T17:45:43+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-09T17:51:03.234966+00:00"
-  },
-  {
-   "id": "63184506df2a430d",
-   "title": "Republicans kick off \u2018midterm convention\u2019 to overcome Trump unpopularity",
-   "url": "https://www.theguardian.com/us-news/2026/sep/09/republicans-midterm-convention-trump",
-   "summary": "GOP plans to center the president at rare two-day Texas event as party hopes to retain control of House in midtermsRepublicans are gathering in Texas on Wednesday for a rare \u201cmidterm convention\u201d, as they attempt to convince Americans to vote for a party led by a deeply unpopular president who has overseen inflation and led the US into an increasingly unpopular war.Donald Trump will dominate the two-day convention, appearing both nights as the GOP works to cling to control of the House of Representatives in November. Republicans plan to put the president at the center of the event, a bold strat",
-   "published": "2026-09-09T17:23:44+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-09-10T07:21:09.834395+00:00"
-  },
-  {
-   "id": "6b9377608b44152c",
-   "title": "Smithsonian head to resign after Trump admin threats to cut off support",
-   "url": "https://thehill.com/opinion/lindseys-lens/6079443-lonnie-bunch-smithsonian-resignation/",
-   "summary": "The Smithsonian museums\u00a0don't\u00a0have to tell Americans that their country is terrible to tell the truth about the terrible things America has done. And acknowledging slavery, segregation, displacement\u00a0or discrimination does not erase the country's achievements.",
-   "published": "2026-09-09T17:20:10+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-09T17:51:03.234979+00:00"
-  },
-  {
-   "id": "92745d558eabd65a",
-   "title": "Merit-based and colorblind: The Pentagon's cover story for purging Black officers",
-   "url": "https://thehill.com/opinion/6078078-trump-administration-dismantles-military-mobility/",
-   "summary": "A veteran and academic argues that recent military leadership decisions under the Trump administration are dismantling racial equality in the armed forces by dismissing the merits of promoted Black officers.",
-   "published": "2026-09-09T17:00:00+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-09T17:51:03.234998+00:00"
-  },
-  {
-   "id": "0e7d453694b1942d",
-   "title": "Bipartisan coalition pushes Trump administration on AI security framework release",
-   "url": "https://thehill.com/policy/technology/6078653-bipartisan-push-government-ai-testing/",
-   "summary": "A group of organizations from both sides of the aisle called on President Trump to publicly release his administration's framework on government AI testing, arguing the closed-door policy raises concerns around transparency. \"The government has a fundamental responsibility to share the parameters of the process for reviewing frontier AI models prior to wider deployment,\" the...",
-   "published": "2026-09-09T16:47:00+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-09T17:51:03.235010+00:00"
-  },
-  {
-   "id": "6bc813fa78601bf9",
-   "title": "Trump\u2019s top six falsehoods about 9/11 as 25th anniversary nears",
-   "url": "https://www.theguardian.com/us-news/2026/sep/09/trump-911-falsehoods",
-   "summary": "US president often brings up al-Qaida attack that struck his home town New York City almost 25 years agoDonald Trump often brings up September 11, the devastating al-Qaida attack that struck his home town New York City almost 25 years ago.His recollections of that day have repeatedly included exaggerations and falsehoods \u2013 including this week, when he shared an anecdote at a White House event commemorating the attacks that appears to be untrue. Continue reading...",
-   "published": "2026-09-09T16:44:53+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-09-09T17:51:01.264003+00:00"
-  },
-  {
-   "id": "74a5b3768a465151",
-   "title": "Holder blasts Blanche over planned GOP convention speech: 'Disgraceful'",
-   "url": "https://thehill.com/homenews/administration/6079214-eric-holder-todd-blanche-gop-midterm-convention-speech-critique/",
-   "summary": "Former Attorney General Eric Holder on Tuesday slammed the sitting Department of Justice (DOJ) chief over his decision to address attendees at the Republican National Committee\u2019s (RNC) first midterm convention in Dallas, which kicks off Wednesday. Holder, who served in the Obama administration, called Attorney General Todd Blanche's planned speech \u201cunprecedented\u201d and \u201cdisgraceful\u201d in comments...",
-   "published": "2026-09-09T16:42:23+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-09T17:51:03.235016+00:00"
-  },
-  {
-   "id": "3ff955d087095b4e",
-   "title": "'Trump-a-palooza' kicks off in Texas",
-   "url": "https://thehill.com/newsletters/1230-report/6079263-trump-a-palooza-kicks-off-in-texas/",
-   "summary": "Plus: \ud83e\udd14Is Jimmy Kimmel staying with ABC? {beacon} &#8202; It\u2019s Wednesday, and the wait is over for football fans. The NFL regular season kicks off tonight!  &#8202; In today's issue: Day 1 of RNC convention Rhode Island elections Oil, gas prices soar Super Bowl rematch Programming note: We're Joshua Feldstein and Abigail Walker, filling in...",
-   "published": "2026-09-09T16:42:06+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-09T17:51:03.235022+00:00"
-  },
-  {
-   "id": "e96a9047253273c7",
-   "title": "Rory McIlroy not bothered by Trump's expected appearance at Irish Open: 'Who are we to say no?'",
-   "url": "https://www.foxnews.com/outkick-sports/rory-mcilroy-not-bothered-trump-expected-appearance-irish-open-who-are-we-say-no",
-   "summary": "Rory McIlroy downplayed distractions from Trump&apos;s expected visit to Doonbeg, calling the Irish Open host course an &quot;Americanised&quot; links layout.",
-   "published": "2026-09-09T15:47:21+00:00",
-   "source": "Fox News Latest",
-   "source_id": "foxnews-latest",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-09-09T17:51:00.618075+00:00"
-  },
-  {
-   "id": "71d3a56bae447e8f",
-   "title": "Navarro: White House told Fox News Bartiromo ouster was 'totally unacceptable'",
-   "url": "https://thehill.com/homenews/media/6079001-navarro-fox-news-bartiromo-ouster/",
-   "summary": "Top Trump trade adviser Peter Navarro said the White House complained to Fox News leadership about the network's decision to oust host Maria Bartiromo last week. \"But suffice it to say that Suzanne Scott got a call, and basically the White House let her know that that kind of thing is totally unacceptable,\" Navarro said,...",
-   "published": "2026-09-09T15:36:13+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-09T17:51:03.235049+00:00"
   }
  ]
 }
