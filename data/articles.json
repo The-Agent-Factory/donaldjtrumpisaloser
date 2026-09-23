@@ -1,7 +1,73 @@
 {
- "updated": "2026-09-23T00:38:39.158278+00:00",
- "count": 1083,
+ "updated": "2026-09-23T07:48:14.895498+00:00",
+ "count": 1084,
  "articles": [
+  {
+   "id": "c45a04b9d03b064e",
+   "title": "Trump-backed Missouri congressional map returns to the Supreme Court again",
+   "url": "https://abcnews.com/Politics/wireStory/trump-backed-missouri-congressional-map-returns-supreme-court-136673303",
+   "summary": "The fight over Missouri's congressional map has returned to the U.S. Supreme Court for the third time",
+   "published": "2026-09-23T07:06:23+00:00",
+   "source": "ABC News Politics",
+   "source_id": "abc-politics",
+   "bias_note": "center",
+   "first_seen": "2026-09-23T07:48:14.667474+00:00"
+  },
+  {
+   "id": "e0f01ff5c962a9ab",
+   "title": "Republicans dump cash into red states as they try to hold the line against Democrats in the midterms",
+   "url": "https://abcnews.com/Politics/wireStory/republicans-dump-cash-red-states-hold-line-democrats-136673763",
+   "summary": "Republicans are growing increasingly grim about their chances in November, with aligned groups pumping money into reliably red states and candidates scrambling to distance themselves from unpopular White House policies",
+   "published": "2026-09-23T06:42:28+00:00",
+   "source": "ABC News Politics",
+   "source_id": "abc-politics",
+   "bias_note": "center",
+   "first_seen": "2026-09-23T07:48:14.667468+00:00"
+  },
+  {
+   "id": "6b98ebf62ad78a3a",
+   "title": "Wednesday briefing: \u200bCan Burnham \u200bseek a \u200bdifferent \u200bpath\u200b to Trump\u2019s world order?",
+   "url": "https://www.theguardian.com/world/2026/sep/23/wednesday-briefing-can-burnham-seek-a-different-path-to-trumps-world-order",
+   "summary": "In today\u2019s newsletter: The PM\u2019s first face\u2011to\u2011face with\u200b the US president marks a fragile resetGood morning. In the early hours of Tuesday a plane carrying Andy Burnham, a handful of UK ministers, an excited group of British political journalists, and Burnham\u2019s wife, Marie France, landed at a New York airport for one of Burnham\u2019s first major outings as prime minister: a face-to-face meeting with Donald Trump.Considering the president once described Burnham as the mayor of \u201ca town,\u201d and the prime minister once said Trump wouldn\u2019t be welcome in said town (Manchester), the meeting yesterday after",
+   "published": "2026-09-23T05:45:26+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-09-23T07:48:13.932023+00:00"
+  },
+  {
+   "id": "b255658f94430aa4",
+   "title": "Administration's focus on noncitizen voting has led to 160 arrests. Experts say that shows it's rare",
+   "url": "https://abcnews.com/Politics/wireStory/administrations-focus-noncitizen-voting-led-160-arrests-experts-136667964",
+   "summary": "A Homeland Security official says the Trump administration&rsquo;s whole-of-government effort to find and prosecute noncitizens illegally on state voter rolls has resulted in about 1,600 voter fraud cases",
+   "published": "2026-09-23T05:44:31+00:00",
+   "source": "ABC News Politics",
+   "source_id": "abc-politics",
+   "bias_note": "center",
+   "first_seen": "2026-09-23T07:48:14.667478+00:00"
+  },
+  {
+   "id": "a17c87eab1069421",
+   "title": "Wicker blasts Xi ahead of summit with Trump in DC",
+   "url": "https://thehill.com/homenews/senate/6105609-wicker-slams-trump-xi-summit/",
+   "summary": "GOP Sen. Roger Wicker (Miss.) slammed Chinese President Xi Jinping on Tuesday, ahead of the Asian leader\u2019s summit with President Trump in Washington, D.C.  During remarks on the Senate floor, Wicker said that had the White House asked him for \u201cadvice,\u201d he would have suggested President Trump \u201cnot invite Xi Jinping to Washington for such...",
+   "published": "2026-09-23T03:00:14+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-23T07:48:14.088880+00:00"
+  },
+  {
+   "id": "b45e5686516ffa5f",
+   "title": "AI looms large over Trump-Xi meeting amid deep distrust between US and China",
+   "url": "https://www.theguardian.com/us-news/2026/sep/23/trump-xi-ai-trade-geopolitics",
+   "summary": "Fears persist about Trump \u2018sucking up\u2019 to Xi on Taiwan, but few concrete outcomes anticipated from US meetingWhen Xi Jinping, China\u2019s leader, touches down in Maryland on Wednesday, he will step out into the arms \u2013 perhaps a hug, if Donald Trump\u2019s wishes come true \u2013 of a US president who has shown China more bonhomie than any of his recent predecessors.The meeting between Xi and Trump this week will be the second time that the leaders of the world\u2019s two biggest economies have talked face to face this year. At the previous summit, held in Beijing in May, there was much talk of building a \u201cstrate",
+   "published": "2026-09-23T02:35:59+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-09-23T07:48:13.932042+00:00"
+  },
   {
    "id": "8e5eb640184ce24f",
    "title": "From Austin to New York, pro-China network fuels week of anti-US protests as Xi meets Trump",
@@ -11859,61 +11925,6 @@
    "source_id": "propublica",
    "bias_note": "investigative",
    "first_seen": "2026-09-09T12:59:42.620287+00:00"
-  },
-  {
-   "id": "e144db039999bd3e",
-   "title": "With AI memes, Trump promotes mythical version of himself as challenges stack up ahead of midterms",
-   "url": "https://abcnews.com/Politics/wireStory/ai-memes-trump-promotes-mythical-version-challenges-stack-136293014",
-   "summary": "President Donald Trump is using memes to portray himself as powerful amid struggles with inflation and international issues",
-   "published": "2026-09-09T06:42:31+00:00",
-   "source": "ABC News Politics",
-   "source_id": "abc-politics",
-   "bias_note": "center",
-   "first_seen": "2026-09-09T07:25:38.507631+00:00"
-  },
-  {
-   "id": "21251e682bc859c3",
-   "title": "Trump gave $45,000 to Natalie Harp and other White House aides as holiday gifts",
-   "url": "https://www.theguardian.com/us-news/2026/sep/09/trump-gift-45000-natalie-harp-white-house-aides",
-   "summary": "The president\u2019s substantial holiday gifts to four White House aides were made public via financial disclosures released by the administration Donald Trump gave sizable holiday gifts to four White House aides, according to new financial disclosures released by the administration, including $45,000 to executive assistant Natalie Harp.Communications adviser Margo Martin and deputy director of Oval Office operations Chamberlain Harris also received $45,000, while director of Oval Office operations Walt Nauta received a $20,000 gift. Continue reading...",
-   "published": "2026-09-09T04:20:59+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-09-09T07:25:37.627472+00:00"
-  },
-  {
-   "id": "c85d57c47662fc5d",
-   "title": "Trump banning Canada's dairy products, motorcycles and many alcoholic beverages",
-   "url": "https://thehill.com/business/6077886-trump-bans-canadian-dairy-vehicles/",
-   "summary": "President Trump on Tuesday signed executive orders to ban the sale of Canadian dairy products, motor vehicles and many alcoholic beverages in the U.S., as the trade war between the two countries continues. The bans take effect on Sept. 29, with Trump signing the orders on the day retaliatory Canadian tariffs on $27.6 billion worth...",
-   "published": "2026-09-09T02:25:52+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-09T07:25:37.936006+00:00"
-  },
-  {
-   "id": "cac9c324245686c9",
-   "title": "Fact Sheet: President Donald J. Trump Responds to Canada\u2019s Retaliation",
-   "url": "https://www.whitehouse.gov/fact-sheets/2026/09/fact-sheet-president-donald-j-trump-responds-to-canadas-retaliation/",
-   "summary": "COUNTERING CANADA\u2019S LATEST RETALIATION AGAINST AMERICAN EXPORTS:\u00a0Today, to address Canada\u2019s increased discrimination against U.S. commerce,\u00a0President Trump signed five Proclamations pursuant to Section 338 of the Tariff Act of 1930 to ban certain products from Canada and modify the scope of the tariffs on certain Canadian products previously\u00a0announced\u00a0on July 20, 2026. President Trump is taking decisive [&#8230;]\nThe post Fact Sheet: President Donald J. Trump Responds to Canada\u2019s Retaliation appeared first on The White House.",
-   "published": "2026-09-09T01:38:43+00:00",
-   "source": "WhiteHouse.gov News",
-   "source_id": "whitehouse",
-   "bias_note": "official/primary-source",
-   "first_seen": "2026-09-09T07:25:36.946305+00:00"
-  },
-  {
-   "id": "b876909b346f1809",
-   "title": "Trump\u2019s foreign policy saves taxpayers $320 billion over 4 years: Report",
-   "url": "https://thehill.com/newsletters/defense-national-security/6077894-trump-foreign-policy-saves-taxpayers/",
-   "summary": "Welcome to The Hill's Defense &#038; NatSec newsletter {beacon} Defense &#038;National Security Defense &#038;National Security &#8202; The Big Story  Trump\u2019s foreign policy saves taxpayers $320 billion over 4 years: Report President Trump\u2019s foreign policy approach in the second term - hard border security, shifting weapons support to allied-financed purchases, hawkish actions in the Middle East...",
-   "published": "2026-09-09T01:32:18+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-09T07:25:37.936045+00:00"
   }
  ]
 }
