@@ -1,7 +1,161 @@
 {
- "updated": "2026-09-23T13:41:04.006266+00:00",
- "count": 1092,
+ "updated": "2026-09-23T15:21:14.698569+00:00",
+ "count": 1096,
  "articles": [
+  {
+   "id": "1d4b2ea086fd9249",
+   "title": "Iran president tells UN \u2018we will never bow our head' as US walks out",
+   "url": "https://thehill.com/policy/international/6106439-iran-president-tells-un-we-will-never-bow-our-head-as-us-walks-out/",
+   "summary": "Iranian President Masoud Pezeshkian projected defiance in his speech at the United Nations General Assembly on Wednesday, saying the Islamic Republic would not surrender or give up its nuclear program in the face of President Trump\u2019s military and economic pressure.\u00a0 \u201cHe must know that the resistance of the Iranian people will only increase in the...",
+   "published": "2026-09-23T15:11:53+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-23T15:21:13.915137+00:00"
+  },
+  {
+   "id": "eda6fe89f5fd37a4",
+   "title": "Trans activists inject themselves with hormones in viral stunt protesting Trump's DOJ deal with NYU",
+   "url": "https://www.foxnews.com/politics/trans-activists-inject-hormones-viral-stunt-protesting-trumps-doj-deal-nyu",
+   "summary": "Video shows transgender activists injecting cross-sex hormones outside NYU Langone Health after the DOJ settlement ended sex change treatments for minors.",
+   "published": "2026-09-23T15:10:54+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-23T15:21:11.893564+00:00"
+  },
+  {
+   "id": "e425e856b94fc7e6",
+   "title": "Trump's Board of Peace proposes $2.45 billion blueprint to begin Gaza reconstruction",
+   "url": "https://www.pbs.org/newshour/world/trumps-board-of-peace-proposes-2-45-billion-blueprint-to-begin-gaza-reconstruction",
+   "summary": "At a meeting of the group's board, the governors unveiled a 66-project blueprint to get things started while acknowledging enormous hurdles that must still be overcome.",
+   "published": "2026-09-23T15:03:08+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-09-23T15:21:14.091712+00:00"
+  },
+  {
+   "id": "a38aeb529c309fa6",
+   "title": "Mother of Renee Good says she backed Trump, calls for ICE accountability",
+   "url": "https://thehill.com/homenews/administration/6106322-trump-voter-blames-immigration-agents/",
+   "summary": "Donna Ganger, the mother of Renee Good, who was fatally shot by a federal immigration officer in Minneapolis earlier this year, said Tuesday she voted for President Trump and thought that federal immigration officers would \u201cprotect\u201d Americans. Ganger said it is \u201ctorture\u201d that \u201cas a mom and as a family, we could not protect\u201d Good,...",
+   "published": "2026-09-23T15:02:36+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-23T15:21:13.915145+00:00"
+  },
+  {
+   "id": "584c1a96f72ac7ef",
+   "title": "Zelensky defends attacks on Russian refineries: 'Our lives are more important than the price of energy'",
+   "url": "https://thehill.com/policy/international/6106285-zelensky-defends-russian-refinery-strikes/",
+   "summary": "Ukrainian President Volodymyr Zelensky declared \u201cour lives are more important than the price of energy\" in an interview while defending his strikes against Russian oil refineries. Speaking with the Wall Street Journal's editor-in-chief Emma Tucker on the sidelines of the United Nations General Assembly, Zelensky responded when asked if President Trump pressed the Ukrainian President...",
+   "published": "2026-09-23T14:45:53+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-23T15:21:13.915155+00:00"
+  },
+  {
+   "id": "dc482c2888e52695",
+   "title": "Explosive new report puts Jack Smith back in hot seat as Jim Jordan alleges he tried to 'sway' 2024 election",
+   "url": "https://www.foxnews.com/politics/explosive-new-report-puts-jack-smith-back-hot-seat-jim-jordan-alleges-he-tried-sway-2024-election",
+   "summary": "Chairman Jim Jordan accuses Jack Smith and the DOJ of seizing 44 lawmakers&apos; phone records while skirting Speech or Debate Clause protections.",
+   "published": "2026-09-23T14:30:11+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-23T15:21:11.893590+00:00"
+  },
+  {
+   "id": "b0797c58e588a334",
+   "title": "McConnell leads 4 GOP senators in calling for Trump to release Taiwan arms funding",
+   "url": "https://thehill.com/homenews/senate/6106280-gop-senators-demand-taiwan-aid/",
+   "summary": "Sen. Mitch McConnell (R-Ky.) and three other Republican senators are calling on Secretary of Defense Pete Hegseth and Secretary of State Marco Rubio to release billions of dollars in stalled national security assistance for Taiwan, reminding the senior Cabinet officials of their past statements in support of defending Taiwan\u2019s sovereignty. The senators in a letter...",
+   "published": "2026-09-23T14:24:16+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-23T15:21:13.915172+00:00"
+  },
+  {
+   "id": "6857e10be6441fcf",
+   "title": "Melania Trump teases new docuseries with promise to answer 'private questions'",
+   "url": "https://thehill.com/blogs/in-the-know/6106177-melania-trump-docuseries-amazon-unga/",
+   "summary": "Melania Trump is teasing a forthcoming docuseries that she says will be \"very different\" from her eponymous documentary, and in which she'll open up and answer \"private\" questions. \"It's more conversation, one-on-one with me,\" Trump said of the project during a\u00a0Wednesday interview\u00a0on Fox News's \"Fox and Friends.\" \"When I was traveling and doing all of...",
+   "published": "2026-09-23T14:15:08+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-23T15:21:13.915177+00:00"
+  },
+  {
+   "id": "371a266f607e5844",
+   "title": "Majority of Americans, Canadians agree Trump's tariffs were wrong: Poll",
+   "url": "https://thehill.com/homenews/administration/6106060-majority-americans-canadians-against-donald-trump-tariffs-survey/",
+   "summary": "A majority of U.S. and Canadian adults in a new survey released Wednesday said they disagreed with President Trump\u2019s decision to hike tariffs on goods imported by Canada. The Politico/Public First poll found that 83 percent of Canadians and 56 percent of Americans believe the increased import taxes on the U.S.'s northern neighbor were \u201cwrong.\u201d...",
+   "published": "2026-09-23T14:13:49+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-23T15:21:13.915181+00:00"
+  },
+  {
+   "id": "4e0cbbd4a56123d3",
+   "title": "President Trump Delivers Powerful America First Message to the United Nations",
+   "url": "https://www.whitehouse.gov/releases/2026/09/president-trump-delivers-powerful-america-first-message-to-the-united-nations/",
+   "summary": "In his address to the United Nations, President Donald J. Trump&#160;touted&#160;his record of historic results that have reshaped world order for America\u2019s benefit and made our nation safer and more prosperous. President Donald J. Trump is ensuring America is respected on the world stage again and holding the U.N. accountable after years of weak and [&#8230;]\nThe post President Trump Delivers Powerful America First Message to the United Nations appeared first on The White House.",
+   "published": "2026-09-23T14:02:11+00:00",
+   "source": "WhiteHouse.gov News",
+   "source_id": "whitehouse",
+   "bias_note": "official/primary-source",
+   "first_seen": "2026-09-23T15:21:12.069719+00:00"
+  },
+  {
+   "id": "4b6772fa14230e26",
+   "title": "Live updates: US delegation walks out during Iranian president's UN speech",
+   "url": "https://thehill.com/homenews/administration/6105507-live-updates-trump-media-ban-unga-xi-visit/",
+   "summary": "The American delegation walked out during Iranian President Masoud Pezeshkian's address to the U.N. General Assembly (UNGA). The move comes after the Iranian and Cuban delegations walked out of President Trump's speech yesterday and the president threatened renewed action in Iran as the war nears the seven-month mark. President Trump's decision to bar three news...",
+   "published": "2026-09-23T14:01:25+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-23T15:21:13.915192+00:00"
+  },
+  {
+   "id": "93c02ed7cc53262e",
+   "title": "DoJ backs Trump ban on CNN, Politico and MS Now, citing security concerns",
+   "url": "https://www.theguardian.com/us-news/2026/sep/23/doj-trump-media-ban",
+   "summary": "The news organizations, which sued the US president, are claiming the ban violates the first amendmentUS politics live \u2013 latest updatesThe US Department of Justicehas defended Donald Trump\u2019s decision to ban three new organizations from the White House in a court filing, arguing that access to the grounds was a \u201cprivilege\u201d and citing national security concerns.Lawyers for the US president doubled down on Trump\u2019s claims about CNN, Politico and MS Now reporting \u201cFake News\u201d and insisted the ban did not violate the first amendment because \u201caccess to the White House is a privilege, not a right\u201d. Con",
+   "published": "2026-09-23T14:00:59+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-09-23T15:21:12.619712+00:00"
+  },
+  {
+   "id": "8b5232a8513bdb82",
+   "title": "Bipartisan senators raised US journalist jailed in Iran ahead of Trump team meeting with Iranian delegation at UN",
+   "url": "https://thehill.com/policy/international/6106050-reza-valizadeh-iran-unga-rubio-witkoff/",
+   "summary": "A bipartisan group of senators sent a letter to Secretary of State Marco Rubio urging action to secure the release of an American journalist unjustly imprisoned in Iran. The letter was sent one day before U.S. officials indirectly talked with Iranian officials in New York.  Reza Valizadeh, 49, is a dual Iranian-American citizen and former...",
+   "published": "2026-09-23T13:52:01+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-23T15:21:13.915197+00:00"
+  },
+  {
+   "id": "262741474e6269c9",
+   "title": "Trump rails against CNN's Collins and media 'sleazebags' over UN presence",
+   "url": "https://thehill.com/homenews/media/6105932-donald-trump-kaitlan-collins-un-general-assembly-coverage-media-ban/",
+   "summary": "President Trump ripped CNN anchor Kaitlan Collins on Tuesday for covering him despite banning the network along with MS NOW and Politico from the White House. \u201cYou should not be here covering me,\u201d Trump told the chief White House correspondent before his speech at the United Nations General Assembly after she asked when the war...",
+   "published": "2026-09-23T13:47:37+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-23T15:21:13.915201+00:00"
+  },
   {
    "id": "2baa6de8883261c4",
    "title": "Watch live: Iran's Pezeshkian, Zelensky, Rodriguez to address UNGA",
@@ -11903,116 +12057,6 @@
    "source_id": "thehill",
    "bias_note": "center",
    "first_seen": "2026-09-09T17:51:03.235049+00:00"
-  },
-  {
-   "id": "c933682392479bba",
-   "title": "Fmr Biden ambassador blames Trump for Canada playing 'footsie' with China",
-   "url": "https://www.foxnews.com/politics/fmr-biden-ambassador-blames-trump-canada-playing-footsie-china",
-   "summary": "Former U.S. Ambassador David L. Cohen says Canada is playing &quot;footsie&quot; with China on trade as Trump&apos;s hardline policies push allies toward new deals.",
-   "published": "2026-09-09T15:10:08+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-09-09T17:51:00.470571+00:00"
-  },
-  {
-   "id": "f33ac967bee3e63d",
-   "title": "Australia is on a collision course with US big tech. Could it cause Trump to turn on his \u2018mate\u2019? | Mark Kenny",
-   "url": "https://www.theguardian.com/commentisfree/2026/sep/10/australia-big-tech-fight-social-media-trump",
-   "summary": "Anthony Albanese wants social media algorithms to be optional \u2013 and it\u2019s not the first Musk-Zuckerberg irritant emanating from AustraliaNew risks to a deftly managed personal relationship with Donald Trump have not slowed the Australian prime minister\u2019s plans for a showdown with America\u2019s all-conquering social media companies.Anthony Albanese, who will rub shoulders with the US president and other world leaders in New York later this month at the UN general assembly, is pushing ahead with changes that would impose fines on big tech firms under a newly created \u201cdigital duty of care\u201d. Continue r",
-   "published": "2026-09-09T15:00:01+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-09-09T17:51:01.264051+00:00"
-  },
-  {
-   "id": "a1d6c141a51c9313",
-   "title": "New Mexicans meet Trump\u2019s threat to change state\u2019s name with ridicule and outrage",
-   "url": "https://www.theguardian.com/us-news/2026/sep/09/new-mexico-response-name-change",
-   "summary": "Residents denounce suggestion to rename state \u2018New America\u2019, save some Republicans who insist it was \u2018satire\u2019US politics live \u2013 latest updatesWhen scrolling through social media over the Labor Day weekend, actor, comedian and native New Mexican Steven Michael Quezada was stopped cold by a post about Donald Trump\u2019s recent call to rename New Mexico as New America.\u201cAt first I thought, nah, that\u2019s got to be a joke,\u201d said Quezada, who played drug enforcement agent Steven Gomez in the legendary TV series Breaking Bad. Continue reading...",
-   "published": "2026-09-09T14:55:39+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-09-09T17:51:01.264045+00:00"
-  },
-  {
-   "id": "baf96ff16eeb7609",
-   "title": "Trump gave $45,000 holiday gifts to Natalie Harp and two other White House aides",
-   "url": "https://www.pbs.org/newshour/politics/trump-gave-45000-holiday-gifts-to-natalie-harp-and-two-other-white-house-aides",
-   "summary": "President Donald Trump gave sizable holiday gifts to four White House aides, according to new financial disclosures released by the administration.",
-   "published": "2026-09-09T14:51:58+00:00",
-   "source": "PBS NewsHour Politics",
-   "source_id": "pbs-politics",
-   "bias_note": "center",
-   "first_seen": "2026-09-09T15:02:34.414958+00:00"
-  },
-  {
-   "id": "a850538fce2e9b11",
-   "title": "Trump gave Natalie Harp, other aides $45K gifts: Disclosures",
-   "url": "https://thehill.com/homenews/administration/6078705-donald-trump-natalie-harp-white-house-aides-gifts-disclosures/",
-   "summary": "President Trump gifted several White House aides \u2014 including longtime assistant Natalie Harp \u2014 $45,000 cash gifts, according to financial disclosures released by the Trump administration last week.  The payments, which totaled $135,000, were marked as \u201cCash Gift for Holidays\u201d and attributed to the president on the disclosure forms.  Three of Trump\u2019s closest aides \u2014...",
-   "published": "2026-09-09T14:33:26+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-09T15:02:34.218583+00:00"
-  },
-  {
-   "id": "07818d19f4520543",
-   "title": "Newsom accuses Trump of lying during his 9/11 attack response anecdote",
-   "url": "https://thehill.com/homenews/administration/6078397-gavin-newsom-donald-trump-911-comments/",
-   "summary": "California Gov. Gavin Newsom (D) on Tuesday accused President Trump of lying after he told an anecdote about his actions in the days surrounding the Sept. 11, 2001, terrorist attacks in New York City. Trump, during an event honoring 9/11 first responders at the White House, said he was carried away from One Liberty Plaza,...",
-   "published": "2026-09-09T14:24:09+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-09T15:02:34.218597+00:00"
-  },
-  {
-   "id": "cef294e6241137c8",
-   "title": "Trump\u2019s pressure campaign has Iran reeling. America can\u2019t hesitate now",
-   "url": "https://www.foxnews.com/opinion/trumps-pressure-campaign-iran-reeling-america-cant-hesitate-now",
-   "summary": "Operation Epic Fury has degraded entire categories of Iran&apos;s military, but the United States faces concerns over Russian and Chinese IRGC support.",
-   "published": "2026-09-09T14:00:20+00:00",
-   "source": "Fox News Latest",
-   "source_id": "foxnews-latest",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-09-09T15:02:32.143601+00:00"
-  },
-  {
-   "id": "ebe109c3c1776d86",
-   "title": "Obama judge's peculiar Trump rebuke ignites fury over 'unprofessional' language: 'Embarrassment'",
-   "url": "https://www.foxnews.com/politics/obama-judges-peculiar-trump-rebuke-ignites-fury-over-unprofessional-language-embarrassment",
-   "summary": "Three Obama-appointed judges blocked the IRS from sharing taxpayer addresses with ICE on Tuesday, with one calling the argument &quot;weak sauce.&quot;",
-   "published": "2026-09-09T14:00:11+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-09-09T15:02:32.058613+00:00"
-  },
-  {
-   "id": "343e8ba6181b1f17",
-   "title": "\u2018You\u2019re Fired\u2019: Nearly 40 pro-life groups urge Trump admin to cut off Planned Parenthood funds",
-   "url": "https://www.foxnews.com/media/youre-fired-nearly-40-pro-life-groups-urge-trump-admin-cut-off-planned-parenthood-funds",
-   "summary": "Nearly 40 pro-life groups urged the Trump administration to debar Planned Parenthood from all federal funding over alleged taxpayer fraud claims.",
-   "published": "2026-09-09T14:00:03+00:00",
-   "source": "Fox News Latest",
-   "source_id": "foxnews-latest",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-09-09T15:02:32.143607+00:00"
-  },
-  {
-   "id": "9f2d12c97895cb14",
-   "title": "Canada's trade war with the US won't end with tariffs",
-   "url": "https://thehill.com/opinion/international/6076794-us-canada-trade-war-nickel/",
-   "summary": "The recent escalation of the trade war with Canada identifies structural challenges in Washington\u2019s supply chain resilience.",
-   "published": "2026-09-09T14:00:00+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-09T15:02:34.218627+00:00"
   }
  ]
 }
