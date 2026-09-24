@@ -1,7 +1,84 @@
 {
- "updated": "2026-09-23T22:58:36.250733+00:00",
- "count": 1094,
+ "updated": "2026-09-24T04:58:23.129921+00:00",
+ "count": 1087,
  "articles": [
+  {
+   "id": "0d89b8d5e0c5debe",
+   "title": "Judge tosses Trump\u2019s suit against Iowa pollster",
+   "url": "https://thehill.com/regulation/court-battles/6107914-trump-selzer-polling-lawsuit-dismissed/",
+   "summary": "An Iowa judge has tossed President Trump\u2019s lawsuit against pollster J. Ann Selzer and The Des Moines Register over polling numbers they published days before the 2024 general elections. In a Wednesday ruling, Iowa District Court Judge Scott J. Beattie went against Trump's claims that the poll, which showed former Vice President Kamala Harris leading...",
+   "published": "2026-09-24T03:24:24+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-24T04:58:22.222764+00:00"
+  },
+  {
+   "id": "2efa1082e0a2bdbf",
+   "title": "Illegal alien allegedly grabs school police officer's gun, shoots him in femoral artery: DOJ",
+   "url": "https://www.foxnews.com/politics/illegal-alien-allegedly-grabs-school-police-officer-gun-shoots-femoral-artery-doj",
+   "summary": "Jose Santiago Pantoja-Morales allegedly grabbed a Dallas ISD officer&apos;s gun during a struggle and shot him in the femoral artery near LBJ Freeway.",
+   "published": "2026-09-24T02:07:42+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-24T04:58:20.939402+00:00"
+  },
+  {
+   "id": "678e33e26813a77d",
+   "title": "NYC kitten rescue defends \u2018NO F---ING MAGA\u2019 adoption policy as PETA calls for it to be abolished",
+   "url": "https://www.foxnews.com/politics/nyc-kitten-rescue-defends-no-f-ing-maga-adoption-policy-peta-calls-abolished",
+   "summary": "PETA calls on Itty Bitty City Kitties to abolish its adoption policy after the NYC kitten rescue declared &quot;NO F---ING MAGA&quot; on social media.",
+   "published": "2026-09-24T00:33:44+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-24T04:58:20.939420+00:00"
+  },
+  {
+   "id": "f3dc4b7df9a57928",
+   "title": "Trump likely \u2018smirked\u2019 as 'crass' Iranian president lashed out at US in UN speech: expert",
+   "url": "https://www.foxnews.com/world/trump-smirked-iranian-president-lashed-us-fiery-un-speech-expert",
+   "summary": "Masoud Pezeshkian accused the U.S. and Israel of attacking Iran at the United Nations, and an expert says Trump likely responded with a smirk.",
+   "published": "2026-09-24T00:10:52+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-24T04:58:21.031227+00:00"
+  },
+  {
+   "id": "d75a6077506f50b7",
+   "title": "5 crucial issues lawmakers want Trump to address with China",
+   "url": "https://thehill.com/homenews/administration/6107744-trump-xi-summit-washington/",
+   "summary": "President Trump and Chinese President Xi Jinping will hold a series of high-stakes meetings in Washington, marking the first official state visit by China\u2019s leader in more than a decade.\u00a0 The meetings come at a fragile moment in relations between the U.S. and Beijing, which have spent the better part of the last two years...",
+   "published": "2026-09-23T23:31:50+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-24T04:58:22.222781+00:00"
+  },
+  {
+   "id": "a391e821e1afbaa4",
+   "title": "House has lame-duck impeachment dilemma with Hegseth",
+   "url": "https://thehill.com/newsletters/defense-national-security/6107715-house-lame-duck-impeachment-dilemma-hegseth/",
+   "summary": "Welcome to The Hill's Defense &#038; NatSec newsletter {beacon} Defense &#038;National Security Defense &#038;National Security &#8202; The Big Story  House has lame-duck impeachment dilemma with Hegseth The impeachment effort against Defense Secretary Pete Hegseth posed a dilemma for Republican leaders ahead of the midterms, but it could be Democrats in the bind afterward.  \u00a9 Mark...",
+   "published": "2026-09-23T22:58:55+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-24T04:58:22.222799+00:00"
+  },
+  {
+   "id": "696e1d6a5988b663",
+   "title": "At UN General Assembly, Iran's president responds to Trump's 'annihilation' threat",
+   "url": "https://www.pbs.org/newshour/show/at-un-general-assembly-irans-president-responds-to-trumps-annihilation",
+   "summary": "The president of Iran told the United Nations General Assembly his country won't bend to U.S. intimidation. Masoud Pezeshkian spoke one day after President Trump threatened to escalate the war from the same stage. On the sidelines, U.S. and Iranian officials signaled no breakthroughs in mediated talks. Nick Schifrin reports.",
+   "published": "2026-09-23T22:55:53+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-09-24T04:58:22.341368+00:00"
+  },
   {
    "id": "8f68ab2f6d50ffb5",
    "title": "Would a diesel export ban actually bring down prices?",
@@ -11881,160 +11958,6 @@
    "source_id": "guardian-uspolitics",
    "bias_note": "left-leaning",
    "first_seen": "2026-09-10T07:21:09.834335+00:00"
-  },
-  {
-   "id": "a94d5c8ef41f6eeb",
-   "title": "GOP midterm convention lives up to its 'Trump-a-Palooza' hype",
-   "url": "https://thehill.com/homenews/campaign/6080104-trump-gop-midterm-convention-dallas/",
-   "summary": "DALLAS \u2014 The Republican National Committee\u2019s first-ever midterm convention lived up to its \u201cTrump-a-palooza\u201d nickname as the two-day Dallas bash kicked off Wednesday.\u00a0\u00a0 Posters of the president \u2014 from Oval Office meetings to his triumphant stance in Butler, Pa., \u2014 dotted the American Airlines Center\u2019s walls. Red, white and blue baseball caps emblazoned with Trump\u2019s...",
-   "published": "2026-09-10T04:47:29+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-10T07:21:10.041328+00:00"
-  },
-  {
-   "id": "6aca414abf8cec64",
-   "title": "Trump implores GOP to 'pretend' he's on November ballot at first night of midterm convention",
-   "url": "https://thehill.com/homenews/administration/6080107-trump-midterm-convention-dallas-dividends/",
-   "summary": "President Trump renewed his calls on Wednesday for Republicans to pretend that he's on the ballot in November, promising $5,000 for every U.S. adult if the GOP holds onto the House and Senate. \u201cI'm asking you to pretend that I'm on the ballot,\u201d he said in the keynote address at the RNC midterm convention in...",
-   "published": "2026-09-10T04:14:42+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-10T07:21:10.041337+00:00"
-  },
-  {
-   "id": "48ecab6f7ce88163",
-   "title": "WATCH: Trump promises $5,000 'dividend' for Americans if GOP wins midterms",
-   "url": "https://www.pbs.org/newshour/politics/watch-trump-promises-5000-dividend-for-americans-if-gop-wins-midterms",
-   "summary": "President Donald Trump promised on Wednesday to send every adult American citizen a $5,000 \"dividend\" if Republicans keep control of both the Senate and House of Representatives in the midterms.",
-   "published": "2026-09-10T03:41:34+00:00",
-   "source": "PBS NewsHour Politics",
-   "source_id": "pbs-politics",
-   "bias_note": "center",
-   "first_seen": "2026-09-10T07:21:10.236469+00:00"
-  },
-  {
-   "id": "d92d3ff02de5a2bf",
-   "title": "Trump makes stunning first-of-its-kind cash promise in bid to rally GOP voters at Dallas midterm convention",
-   "url": "https://www.foxnews.com/politics/trump-makes-stunning-first-of-its-kind-cash-promise-bid-rally-gop-voters-dallas-midterm-convention",
-   "summary": "President Donald Trump promised a $5,000 &quot;Trump dividend&quot; to every adult citizen if Republicans keep Congress at the GOP midterm convention.",
-   "published": "2026-09-10T03:20:25+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-09-10T07:21:09.510654+00:00"
-  },
-  {
-   "id": "44327fd11cee5642",
-   "title": "Trump pledges $5K 'Trump dividend' if Republicans hold onto Congress",
-   "url": "https://thehill.com/homenews/administration/6080741-trump-dividend-november-pledge/",
-   "summary": "President Trump pledged a $5,000 payout to U.S. adults on Wednesday, but only if Republicans hold onto their majority in Congress come November. \"Here is my promise: if the Republicans win the House of Representatives and the United States Senate, both of them \u2026 because of our tremendous strength and success economically, I will issue...",
-   "published": "2026-09-10T02:48:47+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-10T07:21:10.041355+00:00"
-  },
-  {
-   "id": "64d1b34597f79ed4",
-   "title": "EXCLUSIVE: 25 years after 9/11, ICE says more than 2K known or suspected terrorists have been deported",
-   "url": "https://www.foxnews.com/politics/exclusive-25-years-after-911-ice-says-more-than-2k-known-suspected-terrorists-deported",
-   "summary": "ICE arrested over 2,150 known or suspected terrorists and deported more than 2,000 since Trump took office, DHS says ahead of the 9/11 anniversary.",
-   "published": "2026-09-10T02:33:51+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-09-10T07:21:09.510668+00:00"
-  },
-  {
-   "id": "70e6e5e8b2324c11",
-   "title": "Fetterman, already at odds with his party, makes surprise video for GOP convention",
-   "url": "https://www.npr.org/2026/09/09/nx-s1-5963916/john-fetterman-gop-midterm-convention-trump",
-   "summary": "The Pennsylvania Democrat has already had a strained relationship with many inside his party. In the video, he spoke about working with Trump but did not outright praise him.",
-   "published": "2026-09-10T01:17:28+00:00",
-   "source": "NPR Politics",
-   "source_id": "npr-politics",
-   "bias_note": "center",
-   "first_seen": "2026-09-10T07:21:09.763261+00:00"
-  },
-  {
-   "id": "0242cafaf5020d9b",
-   "title": "Dem senator delivers surprise video at Republican convention backing McCormick",
-   "url": "https://www.foxnews.com/politics/democratic-sen-fetterman-delivers-surprise-video-republican-convention-backing-mccormick",
-   "summary": "John Fetterman&apos;s surprise video at the GOP convention praised Trump and Dave McCormick while rejecting what he called Democratic &quot;extremes and socialism.&quot;",
-   "published": "2026-09-10T01:08:54+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-09-10T07:21:09.510681+00:00"
-  },
-  {
-   "id": "4476d21fb467a7d8",
-   "title": "HSI agent who investigated child exploitation cases indicted on rape and child abuse charges",
-   "url": "https://www.foxnews.com/us/hsi-agent-who-investigated-child-exploitation-cases-indicted-rape-child-abuse-charges",
-   "summary": "A Homeland Security Investigations agent who worked child exploitation cases faces rape, incest and sodomy charges involving a juvenile in Alabama.",
-   "published": "2026-09-10T00:47:04+00:00",
-   "source": "Fox News Latest",
-   "source_id": "foxnews-latest",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-09-10T07:21:09.529446+00:00"
-  },
-  {
-   "id": "d8ea251e4b0952f0",
-   "title": "U.S. Postal Service Failed to Properly Handle Some Ballots During This Year\u2019s Primary Elections, Audit Finds",
-   "url": "https://www.propublica.org/article/postal-service-audit-primary-election-ballots",
-   "summary": "The post U.S. Postal Service Failed to Properly Handle Some Ballots During This Year\u2019s Primary Elections, Audit Finds appeared first on ProPublica.",
-   "published": "2026-09-10T00:35:00+00:00",
-   "source": "ProPublica",
-   "source_id": "propublica",
-   "bias_note": "investigative",
-   "first_seen": "2026-09-10T07:21:10.489750+00:00"
-  },
-  {
-   "id": "c45e465db3bf3b53",
-   "title": "\u2018We are going in the wrong direction\u2019: Republican convention dogged by the cost of living",
-   "url": "https://www.politico.com/news/2026/09/09/republicans-economy-trump-dallas-midterm-convention-01069724",
-   "summary": "The GOP is gathering in Dallas to tout the administration\u2019s wins. Many Republicans worry there are few on affordability.",
-   "published": "2026-09-09T23:25:24+00:00",
-   "source": "Politico",
-   "source_id": "politico",
-   "bias_note": "center",
-   "first_seen": "2026-09-10T00:17:31.490029+00:00"
-  },
-  {
-   "id": "6f8352c03a90d76b",
-   "title": "Chris Rock says President Trump is correct on one key issue, and it almost redeems his \u2018other sins\u2019",
-   "url": "https://www.foxnews.com/media/chris-rock-says-president-trump-correct-one-key-issue-almost-redeems-his-other-sins",
-   "summary": "Chris Rock says Trump got it right about fake news, calling media bias the one thing that &quot;almost&quot; clears Trump of all his &quot;other sins&quot; in a new interview.",
-   "published": "2026-09-09T23:24:13+00:00",
-   "source": "Fox News Latest",
-   "source_id": "foxnews-latest",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-09-10T00:17:30.346880+00:00"
-  },
-  {
-   "id": "466275a9684f5cc1",
-   "title": "Patriot Day 2026, The 25th Anniversary of the September 11 Terrorist Attacks",
-   "url": "https://www.whitehouse.gov/presidential-actions/2026/09/patriot-day-2026-the-25th-anniversary-of-the-september-11-terrorist-attacks/",
-   "summary": "BY THE PRESIDENT OF THE UNITED STATES OF AMERICA A PROCLAMATION A quarter of a century has passed since the terrible day of September 11,&#160;2001,&#160;and an entire generation of Americans has now come of age with no living memory of that fateful day. &#160;The passage of time must never dim what&#160;will forever&#160;burn bright in the [&#8230;]\nThe post Patriot Day 2026, The 25th Anniversary of the September 11 Terrorist Attacks appeared first on The White House.",
-   "published": "2026-09-09T23:23:01+00:00",
-   "source": "WhiteHouse.gov News",
-   "source_id": "whitehouse",
-   "bias_note": "official/primary-source",
-   "first_seen": "2026-09-10T00:17:30.515880+00:00"
-  },
-  {
-   "id": "9291cd62c3bd48f4",
-   "title": "First Lady Melania Trump\u2019s Personal Vision to Preserve America\u2019s Story Through Superior Design",
-   "url": "https://www.whitehouse.gov/briefings-statements/2026/09/first-lady-melania-trumps-personal-vision-to-preserve-americas-story-through/",
-   "summary": "First Lady Melania Trump shared her forward-looking vision on the generational significance of institutional design, declaring that, \u201cThe White House stands as an architectural autobiography of America, embodying the enduring values of ambition, democracy, and civic life through its design, craftmanship, and the objects within.\u201d First Lady Melania Trump\u2019s elevated creative vision has played a [&#8230;]\nThe post First Lady Melania Trump\u2019s Personal Vision to Preserve America\u2019s Story Through Superior Design appeared first on The White House.",
-   "published": "2026-09-09T22:59:40+00:00",
-   "source": "WhiteHouse.gov News",
-   "source_id": "whitehouse",
-   "bias_note": "official/primary-source",
-   "first_seen": "2026-09-10T00:17:30.515885+00:00"
   }
  ]
 }
