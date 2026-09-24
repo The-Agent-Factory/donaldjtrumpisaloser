@@ -1,7 +1,238 @@
 {
- "updated": "2026-09-24T11:53:42.975576+00:00",
- "count": 1093,
+ "updated": "2026-09-24T15:44:45.214534+00:00",
+ "count": 1098,
  "articles": [
+  {
+   "id": "639cef9820732fa3",
+   "title": "Democrats sue Trump administration over threats to deploy federal agents to polls",
+   "url": "https://thehill.com/regulation/court-battles/6109105-democrats-sue-trump-polling-agents/",
+   "summary": "Democratic Party leadership and campaign organizations sued the Trump administration on Wednesday over alleged threats to unlawfully deploy armed federal agents to polling sites during the midterm elections.  The lawsuit, which was filed in the U.S. District Court for the District of Columbia, accuses Trump law enforcement and immigration officials of demonstrating \u201cby word and...",
+   "published": "2026-09-24T15:34:06+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-24T15:44:44.403221+00:00"
+  },
+  {
+   "id": "3e66b6a569139327",
+   "title": "Democrats hit Republicans with do-nothing charges after abrupt House adjournment",
+   "url": "https://thehill.com/opinion/congress-blog/6106886-house-early-exit-gop/",
+   "summary": "Speaker Mike Johnson abruptly ended the House of Representatives' legislative session early to allow members to campaign for the upcoming midterm elections following several contentious votes on sanctions, impeachment resolutions, and a war powers measure.",
+   "published": "2026-09-24T15:30:00+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-24T15:44:44.403230+00:00"
+  },
+  {
+   "id": "a6c7c8fbf350c2ba",
+   "title": "Xi says China and US must ensure AI \u2018is always under human control\u2019 as Trump touts \u2018great friendship\u2019 before White House talks \u2013 live",
+   "url": "https://www.theguardian.com/us-news/live/2026/sep/24/trump-xi-jinping-china-ai-trade-summit-latest-news-updates",
+   "summary": "Xi arrived at the White House on Thursday morning ahead of major talks, which are expected to cover trade, AI, Taiwan and moreIn the first row in front of the leaders sit US vice-president JD Vance and his wife Usha Vance, Trump\u2019s daughter Ivanka Trump and her daughter Arabella, US secretary of state Marco Rubio, treasury secretary Scott Bessent, defence secretary Pete Hegseth and commerce secretary Howard Lutnick.Donald Trump is speaking now. He notes that Xi is the first Chinese leader to make a second formal visit to the White House, and says the two have \u201cforged a truly great friendship\u201d s",
+   "published": "2026-09-24T15:29:49+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-09-24T15:44:44.159133+00:00"
+  },
+  {
+   "id": "719cd7c75775df6c",
+   "title": "Donalds calls Trump agenda 'common sense' after some mentions removed from campaign website",
+   "url": "https://thehill.com/homenews/campaign/6109083-donalds-trump-agenda-website/",
+   "summary": "Republican Rep. Byron Donalds (Fla.), who is running for governor in his state, said President Trump\u2019s agenda is \u201ccommon sense\u201d following the removal of some mentions of the president\u2019s name from Donalds\u2019s campaign website. CBS News reported that Donalds, in an interview at a local summit Wednesday, was pressed on the edits.\u00a0 The Florida Republican...",
+   "published": "2026-09-24T15:28:17+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-24T15:44:44.403236+00:00"
+  },
+  {
+   "id": "ac26d5aa1aae8c39",
+   "title": "News outlets banned from White House seek emergency hearing after being denied entry despite judge\u2019s order \u2013 live",
+   "url": "https://www.theguardian.com/us-news/live/2026/sep/24/white-house-press-xi-jinping-netanyahu-trump-latest-news-updates",
+   "summary": "A federal judge had ruled Trump administration must immediately return the outlets\u2019 press passes and said ban likely unconstitutionalSign up for US Breaking News emailsLawyers for the news outlets President Trump banned from the White House have requested an emergency hearing after several journalists were turned away from the building Thursday morning, in apparent defiance of a federal judge\u2019s order to restore their access.\u201cThis morning journalists from each of CNN, MS NOW, and POLITICO attempted to enter the White House and were turned away, and Secret Service agents confiscated the hard pas",
+   "published": "2026-09-24T15:25:17+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-09-24T15:44:44.159143+00:00"
+  },
+  {
+   "id": "c8172e1eeebcf0ef",
+   "title": "Bolton: 'Trump just wants to announce deals' during Xi visit",
+   "url": "https://thehill.com/homenews/administration/6108998-bolton-trump-xi-ai-deals/",
+   "summary": "John Bolton, President Trump\u2019s former national security adviser, said Wednesday Trump \u201cjust wants to announce deals\u201d during Chinese President Xi Jinping's visit to the White House. In an interview on NewsNation, host Leland Vittert asked Bolton if Americans should believe the outcomes or announcements from meetings between Chinese and U.S. leaders. \u201cNot really until you...",
+   "published": "2026-09-24T15:10:56+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-24T15:44:44.403241+00:00"
+  },
+  {
+   "id": "cd1f39b7f31722df",
+   "title": "Min Zin\u2019s freedom must be first on the Trump-Xi summit agenda",
+   "url": "https://thehill.com/opinion/international/6108004-free-american-expert-min-zin/",
+   "summary": "Former Senate staffer Ellen Bork urged President Trump to demand the release of wrongfully detained Americans Min Zin and Youlin Chen during his summit with Chinese leader Xi Jinping.",
+   "published": "2026-09-24T15:00:00+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-24T15:44:44.403264+00:00"
+  },
+  {
+   "id": "502efc0f5e2450cf",
+   "title": "Trump administration to ask supreme court to allow third-country deportation policy",
+   "url": "https://www.theguardian.com/us-news/2026/sep/24/trump-supreme-court-third-country-deportation",
+   "summary": "US attorney general Todd Blanche says justice department will ask high court for help after lower court rejected policyThe Trump administration will ask the US supreme court to allow it to deport immigrants to countries other than their own, the latest effort to seek approval for a controversial policy that fulfils Donald Trump\u2019s mass deportation agenda.Todd Blanche, the US attorney general, said on Thursday that the Department of Justice would ask the conservative-majority supreme court for help, nearly a week after a lower court judge rejected the policy. Continue reading...",
+   "published": "2026-09-24T14:59:42+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-09-24T15:44:44.159149+00:00"
+  },
+  {
+   "id": "5e9efe7ca55a7a86",
+   "title": "Biden-appointed judge hands Letitia James setback in latest Trump legal clash",
+   "url": "https://www.foxnews.com/politics/biden-appointed-judge-hands-letitia-james-setback-latest-trump-legal-clash",
+   "summary": "New York Attorney General Letitia James and 18 states lost their legal challenge after a federal judge dismissed the DOGE Treasury lawsuit as moot.",
+   "published": "2026-09-24T14:41:18+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-24T15:44:43.449064+00:00"
+  },
+  {
+   "id": "bbb4f7157fd865ac",
+   "title": "Trump and Xi Jinping will hold talks in Washington on trade, AI and more",
+   "url": "https://www.pbs.org/newshour/politics/trump-and-xi-jinping-will-hold-talks-in-washington-on-trade-ai-and-more",
+   "summary": "Presidents Donald Trump and Xi Jinping have no shortage of difficult issues to cover when they sit down for talks on Thursday at the White House.",
+   "published": "2026-09-24T14:29:46+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-09-24T15:44:44.548705+00:00"
+  },
+  {
+   "id": "e81256e553b2fb6b",
+   "title": "Top public university\u2019s \u2018LGBTQ+ lab\u2019 hit with race-bias complaint amid $700K in Trump-era federal funding",
+   "url": "https://www.foxnews.com/politics/top-public-university-lgbtq-lab-hit-race-bias-complaint-amid-700k-trump-era-federal-funding",
+   "summary": "The University of Maryland&apos;s Lavender Lab faces a Title VI complaint alleging its advisory board and hiring practices discriminate based on race.",
+   "published": "2026-09-24T14:18:44+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-24T15:44:43.449089+00:00"
+  },
+  {
+   "id": "56e6ae44facc4bab",
+   "title": "Warren: Trump loves power Xi represents",
+   "url": "https://thehill.com/homenews/senate/6108643-elizabeth-warren-donald-trump-xi-jinping-us-china-summit-artificial-intelligence/",
+   "summary": "Sen. Elizabeth Warren (D-Mass.) on Wednesday criticized President Trump\u2019s decision to greet Chinese President Xi Jinping with fanfare during the leader's arrival at Joint Base Andrews.\u00a0 \u201cThis is actually pretty consistent for Trump,\u201d the senator told CNN\u2019s Kaitlan Collins. \u201cHe loves dictators, and he loves the power that Xi Jinping represents, and I think this...",
+   "published": "2026-09-24T14:14:47+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-24T15:44:44.403277+00:00"
+  },
+  {
+   "id": "af8c2356afbaed71",
+   "title": "House Democrat 'far less worried' about democratic socialists than Republicans 'complicit' with Trump",
+   "url": "https://thehill.com/homenews/campaign/6108695-dean-targets-gop-trump-complicity/",
+   "summary": "Rep. Madeleine Dean (D-Pa.) said Wednesday she is not as concerned over democratic socialists potentially entering the House than she is with Republican lawmakers she deemed \u201ccomplicit\u201d with President Trump. \u201cI am far less worried about some person who espouses some DSA [Democratic Socialists of America] title winning and coming into our caucus than I\u2019m...",
+   "published": "2026-09-24T14:10:37+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-24T15:44:44.403282+00:00"
+  },
+  {
+   "id": "af0cee9cf00804ee",
+   "title": "Trump on AI talks with Xi: 'I want to leave it exactly where it is'",
+   "url": "https://thehill.com/policy/technology/6108574-trump-xi-ai-talks/",
+   "summary": "President Trump said Thursday that he wants to leave AI \u201cexactly where it is\u201d ahead of talks with Chinese President Xi Jinping. \u201cA big day with President Xi of China,\u201d he wrote on Truth Social. \u201cSuper Intelligence (SI) will be a big topic of discussion, but I want to leave it exactly where it is....",
+   "published": "2026-09-24T14:01:41+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-24T15:44:44.403296+00:00"
+  },
+  {
+   "id": "cc93818549af5422",
+   "title": "Presidential Message on the Beatification of Archbishop Fulton J. Sheen",
+   "url": "https://www.whitehouse.gov/briefings-statements/2026/09/presidential-message-on-the-beatification-of-archbishop-fulton-j-sheen/",
+   "summary": "Melania and I join all those celebrating the life and legacy of Archbishop Fulton J. Sheen\u2014the Catholic priest who pioneered the use of media to speak the truth, preach the Gospel, and bring many souls closer to Christ.&#160; Today, Archbishop Sheen will become the first-ever American-born bishop to be beatified by the Catholic Church. Born [&#8230;]\nThe post Presidential Message on the Beatification of Archbishop Fulton J. Sheen appeared first on The White House.",
+   "published": "2026-09-24T14:00:00+00:00",
+   "source": "WhiteHouse.gov News",
+   "source_id": "whitehouse",
+   "bias_note": "official/primary-source",
+   "first_seen": "2026-09-24T15:44:43.620865+00:00"
+  },
+  {
+   "id": "26ae328cd366cf81",
+   "title": "Senate Republican: Iranian leaders 'part of a colony of reptiles' that also includes China, Russia, North Korea",
+   "url": "https://thehill.com/homenews/senate/6108312-kennedy-trump-xi-visit-iran-china-north-korea-russia/",
+   "summary": "Sen. John Kennedy (R-La.) on Wednesday accused Iran's leaders of being \"part of a colony of reptiles,\" grouping them with other U.S. adversaries. Kennedy was responding to Fox News's Will Cain on his eponymous show when asked about President Trump attending the United Nations General Assembly in New York City. Trump was part of a...",
+   "published": "2026-09-24T13:59:02+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-24T15:44:44.403313+00:00"
+  },
+  {
+   "id": "4e8a1a390f401344",
+   "title": "Judge orders White House to restore access to CNN, MS NOW and Politico. Reporters say they're still blocked",
+   "url": "https://www.pbs.org/newshour/politics/judge-orders-white-house-to-restore-access-to-cnn-ms-now-and-politico-reporters-say-theyre-still-blocked",
+   "summary": "The back-and-forth is the latest in an extraordinary showdown between Trump and media outlets whose coverage he dislikes.",
+   "published": "2026-09-24T13:24:25+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-09-24T15:44:44.548717+00:00"
+  },
+  {
+   "id": "5efa7ca5bb08cad1",
+   "title": "Trump administration uncovers $1.2B in suspected COVID contract fraud tied to Biden-era spending",
+   "url": "https://www.foxnews.com/politics/trump-administration-uncovers-1-2b-suspected-covid-contract-fraud-tied-biden-era-spending",
+   "summary": "The General Services Administration uncovered $1.22 billion in suspected fraud across five HHS COVID-era contracts that outlasted the pandemic.",
+   "published": "2026-09-24T13:00:06+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-24T15:44:43.449100+00:00"
+  },
+  {
+   "id": "f6c66e1ef0a97888",
+   "title": "Americans lost over $20 billion to one type of crime. Here\u2019s how we can fight it",
+   "url": "https://www.foxnews.com/opinion/americans-lost-20-billion-one-type-crime-heres-how-we-can-fight-it",
+   "summary": "Americans lost a record $20.9 billion to internet scams in 2025, with social media fraud costs eight times higher than 2020, FBI data reveals.",
+   "published": "2026-09-24T13:00:00+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-24T15:44:43.504929+00:00"
+  },
+  {
+   "id": "9dcdc3e9be60045f",
+   "title": "First Lady Melania Trump Releases Details on the State Dinner with His Excellency Xi Jinping, President of The People\u2019s Republic of China, and Madame Peng Liyuan",
+   "url": "https://www.whitehouse.gov/briefings-statements/2026/09/first-lady-melania-trump-releases-details-on-the-state-dinner-with-his-excellency-xi-jinping-president-of-the-peoples-republic-of-china-and-madame-peng-liyuan/",
+   "summary": "President Donald J. Trump and First Lady Melania Trump will welcome His Excellency Xi Jinping, President of The People\u2019s Republic of China, and Madame Peng Liyuan for a State Dinner in the East Room of the White House this evening. The First Lady led the preparations for the dinner, which will be attended by the [&#8230;]\nThe post First Lady Melania Trump Releases Details on the State Dinner with His Excellency Xi Jinping, President of The People\u2019s Republic of China, and Madame Peng Liyuan appeared first on The White House.",
+   "published": "2026-09-24T12:21:19+00:00",
+   "source": "WhiteHouse.gov News",
+   "source_id": "whitehouse",
+   "bias_note": "official/primary-source",
+   "first_seen": "2026-09-24T15:44:43.620870+00:00"
+  },
+  {
+   "id": "245c7d69b5a8d583",
+   "title": "Trump-Xi summit could hold key to lower gas prices, GOP chairman says",
+   "url": "https://www.foxnews.com/politics/trump-xi-summit-could-hold-key-lower-gas-prices-gop-chairman-says",
+   "summary": "Rep. Brian Mast says President Donald Trump can press Xi Jinping to stop arming Iran, potentially easing gas prices tied to Strait of Hormuz chaos.",
+   "published": "2026-09-24T12:00:38+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-24T15:44:43.449103+00:00"
+  },
   {
    "id": "c545ad0eaf0fe84b",
    "title": "Federal appeals court deals blow to Trump deportation agenda",
@@ -276,6 +507,17 @@
    "source_id": "npr-politics",
    "bias_note": "center",
    "first_seen": "2026-09-24T11:53:41.446590+00:00"
+  },
+  {
+   "id": "7f355fb2d390ddb5",
+   "title": "Could the White House try its press ban again? A press freedom expert explains",
+   "url": "https://www.npr.org/2026/09/24/nx-s1-5978805/whats-next-white-house-press-access-fight",
+   "summary": "A federal judge's ruling restored CNN, MS Now and Politico's access to the White House. Gabe Rottman says better procedure alone may not resolve the broader First Amendment fight.",
+   "published": "2026-09-24T08:44:54+00:00",
+   "source": "NPR Politics",
+   "source_id": "npr-politics",
+   "bias_note": "center",
+   "first_seen": "2026-09-24T15:44:43.931741+00:00"
   },
   {
    "id": "11cf993dce9699df",
@@ -11837,193 +12079,6 @@
    "source_id": "foxnews-politics",
    "bias_note": "right-leaning",
    "first_seen": "2026-09-10T17:43:17.063755+00:00"
-  },
-  {
-   "id": "766857098b688b33",
-   "title": "Supreme Court again blocks Missouri from using Trump-backed congressional maps",
-   "url": "https://www.foxnews.com/politics/supreme-court-again-blocks-missouri-from-using-trump-backed-congressional-maps",
-   "summary": "The Supreme Court blocked Missouri&apos;s Republican-backed congressional map for a second time as a contempt hearing looms for Denny Hoskins this week.",
-   "published": "2026-09-10T15:00:50+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-09-10T17:43:17.063772+00:00"
-  },
-  {
-   "id": "f8a9cae287a6916a",
-   "title": "Fox News\u2019s Baier presses Vance on Trump\u2019s $5K dividend promise",
-   "url": "https://thehill.com/homenews/administration/6081616-bret-baier-jd-vance-donald-trump-midterms-5k-dividends-gop-convention/",
-   "summary": "Fox News anchor Bret Baier pressed Vice President Vance over President Trump\u2019s pledge to give Americans $5,000 if Republicans keep control of Congress come November, saying critics would respond to the roughly $1.3 trillion payout as \u201cbribing voters.\u201d \u201cI can hear the critics\u2019 heads exploding,\u201d Braier told Vance late Wednesday, hours after Trump made the...",
-   "published": "2026-09-10T14:44:13+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-10T14:54:56.492201+00:00"
-  },
-  {
-   "id": "d096f9866d4892c1",
-   "title": "Buffalo Bills' plan to feature Canadian anthem at stadium opener met with mixed reactions",
-   "url": "https://www.foxnews.com/outkick-sports/buffalo-bills-plan-feature-canadian-anthem-stadium-opener-mixed-reactions",
-   "summary": "Buffalo Bills will play &quot;O Canada&quot; at the Highmark Stadium opener, sparking heated debate among fans amid ongoing U.S.-Canada tariff tensions.",
-   "published": "2026-09-10T14:42:28+00:00",
-   "source": "Fox News Latest",
-   "source_id": "foxnews-latest",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-09-10T14:54:54.421871+00:00"
-  },
-  {
-   "id": "033fa067811423c9",
-   "title": "Trump\u2019s promise of $5,000 \u2018dividend\u2019 for US citizens after midterms met with incredulity",
-   "url": "https://www.theguardian.com/us-news/2026/sep/10/trump-5000-midterm-cash-dividend-response",
-   "summary": "Critics call bid for Republican votes \u2018bribery\u2019 and point to potential $1.2tn cost added to existing national debtDonald Trump\u2019s promise of a $5,000 \u201cTrump dividend\u201d for every US citizen if Republicans retain control of the US Congress in November\u2019s midterm elections has sparked incredulity and accusations of bribery.\u201cIf the Republicans win, you win with us and you get $5,000,\u201d Trump said during the unprecedented Republican midterm convention in Dallas. \u201cIt will be called the Trump dividend.\u201d Continue reading...",
-   "published": "2026-09-10T14:34:31+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-09-10T14:54:55.286705+00:00"
-  },
-  {
-   "id": "d3c17114504ce976",
-   "title": "Trump should remove the Iran War\u2019s most dangerous tripwire",
-   "url": "https://thehill.com/opinion/national-security/6079253-trump-iran-blockade-risks/",
-   "summary": "The blockade hurts Iran, but it no longer justifies the risks.",
-   "published": "2026-09-10T14:30:00+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-10T14:54:56.492208+00:00"
-  },
-  {
-   "id": "d4293226105e9cab",
-   "title": "Fact Sheet: President Donald J. Trump Announces the Working Families Obamacare Refunds",
-   "url": "https://www.whitehouse.gov/fact-sheets/2026/09/fact-sheet-president-donald-j-trump-announces-the-working-families-obamacare-refunds/",
-   "summary": "RETURNING BIDEN OVERCHARGES TO WORKING FAMILIES:&#160;Today, President Donald J. Trump announced that the federal government will return to the American people hundreds of millions in Obamacare overcharges, collected by the Biden Administration, by issuing refunds of $500 per person to nearly 1 million Americans in 30 states. Today\u2019s actions directly refund the Americans most exposed [&#8230;]\nThe post Fact Sheet: President Donald J. Trump Announces the Working Families Obamacare Refunds appeared first on The White House.",
-   "published": "2026-09-10T14:06:53+00:00",
-   "source": "WhiteHouse.gov News",
-   "source_id": "whitehouse",
-   "bias_note": "official/primary-source",
-   "first_seen": "2026-09-10T14:54:54.714942+00:00"
-  },
-  {
-   "id": "80f5b830e5ef04d4",
-   "title": "Trump dangles $5,000 checks as debt surges \u2014 but only if GOP can clear major midterm hurdle",
-   "url": "https://www.foxnews.com/politics/trump-dangles-5000-checks-us-debt-surges-gop-clear-major-midterm-hurdle",
-   "summary": "President Donald Trump&apos;s $5,000 dividend pledge could cost roughly $1.2 trillion, with JD Vance suggesting wealthy Americans may be excluded.",
-   "published": "2026-09-10T13:44:34+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-09-10T14:54:54.369206+00:00"
-  },
-  {
-   "id": "b8f8773dfe7cbe3c",
-   "title": "Foulkes defeats Rhode Island's McKee, 1st governor in 8 years to lose a primary",
-   "url": "https://www.pbs.org/newshour/politics/foulkes-defeats-rhode-islands-mckee-1st-governor-in-8-years-to-lose-a-primary",
-   "summary": "Rhode Island Gov. Dan McKee was dogged by questions about his administration's work to replace a critical bridge in the state capital that was abruptly closed due to safety problems in 2023.",
-   "published": "2026-09-10T13:21:04+00:00",
-   "source": "PBS NewsHour Politics",
-   "source_id": "pbs-politics",
-   "bias_note": "center",
-   "first_seen": "2026-09-10T14:54:56.689152+00:00"
-  },
-  {
-   "id": "cfd0029e8bc38e7f",
-   "title": "Kimmel pulls Talarico interview after FCC threat",
-   "url": "https://thehill.com/homenews/media/6081125-abc-jimmy-kimmel-james-talarico-interview-pulled-fcc-threat-midterms/",
-   "summary": "ABC late-night comedian Jimmy Kimmel said an interview he conducted with Texas Democratic Senate nominee James Talarico will not air on broadcast because of what he called threats issued to his network by President Trump's Federal Communications Commission (FCC). Kimmel told his audience he has interviewed candidates for office in election years for decades, including...",
-   "published": "2026-09-10T13:06:40+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-10T14:54:56.492274+00:00"
-  },
-  {
-   "id": "ec2111717f9db867",
-   "title": "Canada saved the bald eagle from near extinction in the US \u2013 does the White House know?",
-   "url": "https://www.theguardian.com/us-news/2026/sep/10/bald-eagle-us-canada-trade-war",
-   "summary": "The White House posted a photo of bald eagle attacking a Canada goose to send a message \u2013 but it was Canada that played a critical role in the recovery of the bird in the USIn late August, the White House posted a real photograph on social media of a bald eagle standing atop the limp neck of a Canada goose.The raptor presses the goose\u2019s face into the grey winter slush. With its stark white head and brilliant yellow talons, the eagle looks victorious and defiant. Continue reading...",
-   "published": "2026-09-10T13:00:36+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-09-10T14:54:55.286729+00:00"
-  },
-  {
-   "id": "ed10471c3c578d80",
-   "title": "Live updates: Trump, Vance to close out RNC midterm convention; Democrats counter with protests",
-   "url": "https://thehill.com/homenews/administration/6080688-live-trump-vance-rnc-midterm-convention-charlie-kirk-missouri/",
-   "summary": "Vice President Vance will take his turn at the Republican National Committee midterm convention podium Thursday night, followed by President Trump, as GOP members close out their two-day push to energize voters ahead of November's midterms. Trump spoke for over 90 minutes on Wednesday night, urging voters to cast a ballot as though he were...",
-   "published": "2026-09-10T12:43:02+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-10T12:56:54.145055+00:00"
-  },
-  {
-   "id": "f124d31039d7c7f7",
-   "title": "Vance appears to walk back Trump\u2019s offer of $5,000 \u2018dividend\u2019 if Republicans win midterms \u2013 US politics live",
-   "url": "https://www.theguardian.com/us-news/live/2026/sep/10/donald-trump-republican-midterm-convention-dividend-offer-5000-vance-latest-news-updates",
-   "summary": "Vice-president suggests payment would not go to all and would be paid for by tariff revenues despite supreme court rulings against much of Trump\u2019s programUS citizens will receive $5,000 if Republicans win midterms, Trump claims Sign up for the US Breaking News emailBefore departing for Republicans\u2019 midterm convention yesterday, President Trump predicted to reporters that the war in Iran he helped launch would end immediately after the midterms (assuming that his party held onto its majority in Congress).But a new report from the Wall Street Journal, published Wednesday evening, indicates that,",
-   "published": "2026-09-10T12:42:01+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-09-10T12:56:53.213565+00:00"
-  },
-  {
-   "id": "32d5686b0de399e6",
-   "title": "Trump on convention crowd booing Thune: 'No, no. John is working hard'",
-   "url": "https://thehill.com/homenews/senate/6081006-donald-trump-john-thune-gop-midterm-convention-criticism/",
-   "summary": "President Trump on Wednesday told the crowd at the Republican National Committee's (RNC) first midterm convention in Dallas not to boo the absent Senate Majority Leader John Thune (R-S.D.), telling them that \"John is working hard.\" Trump mentioned Thune's name after he said Speaker Mike Johnson (R-La.) \"will go down as the greatest Speaker of...",
-   "published": "2026-09-10T12:32:01+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-10T12:56:54.145061+00:00"
-  },
-  {
-   "id": "c7df17204aa3272b",
-   "title": "Bet on it: The Trumps' ties to prediction markets will become the IRS's problem",
-   "url": "https://thehill.com/opinion/finance/6078912-irs-silence-polymarket-kalshi/",
-   "summary": "The IRS has remained uncharacteristically reticent on the associated tax implications of such transactions.",
-   "published": "2026-09-10T12:30:00+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-10T12:56:54.145065+00:00"
-  },
-  {
-   "id": "aa1d9059af020b97",
-   "title": "Presidential flip? GOP insider predicts Trump change of mind on key AI policy ahead of midterms",
-   "url": "https://www.foxnews.com/politics/presidential-flip-gop-insider-predicts-trump-change-mind-key-ai-policy-ahead-midterms",
-   "summary": "Trump ally Amy Kremer predicts President Donald Trump will shift on AI data centers after hearing from Americans on the midterm campaign trail.",
-   "published": "2026-09-10T12:00:53+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-09-10T12:56:52.768918+00:00"
-  },
-  {
-   "id": "56e4427efcfe1919",
-   "title": "American democracy depends on the census. Trump is undermining it | danah boyd",
-   "url": "https://www.theguardian.com/commentisfree/2026/sep/10/census-trump-congress",
-   "summary": "The very mechanisms that allow the census bureau to resist partisan interference are coming undone. And Congress is silentWhen the constitutional architects of the United States got together, they came up with a crazy plan: \u201cWhat if we count everyone in the country and allocate political representation that way?\u201dIt was a radical act. Until then, censuses had been used by kings to levy taxes and conscript men into war. With the penning of article 1, section 2 of the US constitution, being counted ensured that states would get financial resources and political representatives. Congress was taske",
-   "published": "2026-09-10T12:00:35+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-09-10T12:56:53.213641+00:00"
-  },
-  {
-   "id": "d647cda41aeec0dc",
-   "title": "Too easy to fake: US needs stricter screening for marriage visas",
-   "url": "https://thehill.com/opinion/immigration/6079166-uscis-marriage-fraud-crackdown/",
-   "summary": "The Department of Justice has unsealed\u00a0an indictment describing\u00a0a\u00a0large-scale marriage fraud network that has operated\u00a0for more than a decade, conspiring\u00a0\u201cto orchestrate more than\u00a01,000 sham marriages\u202fto fraudulently obtain immigration status for foreign nationals.\"",
-   "published": "2026-09-10T12:00:00+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-10T12:56:54.145108+00:00"
   }
  ]
 }
