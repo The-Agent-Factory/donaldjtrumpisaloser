@@ -1,7 +1,172 @@
 {
- "updated": "2026-09-24T21:34:21.384830+00:00",
- "count": 1095,
+ "updated": "2026-09-25T00:34:47.303208+00:00",
+ "count": 1096,
  "articles": [
+  {
+   "id": "f8450e1d682e3732",
+   "title": "Xi can\u2019t escape protesters\u2019 cries at deafening dinner demonstration",
+   "url": "https://www.foxnews.com/politics/xi-escape-protesters-cries-deafening-dinner-demonstration",
+   "summary": "Protesters chanting &quot;Free Hong Kong&quot; and demanding freedom for political prisoners were heard over Trump&apos;s State Dinner welcoming Xi Jinping.",
+   "published": "2026-09-25T00:27:21+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-25T00:34:45.723220+00:00"
+  },
+  {
+   "id": "1846d1bb8cbc0e42",
+   "title": "At Trump meeting, Xi Jinping lays out terms to avoid US-China military conflict",
+   "url": "https://www.theguardian.com/us-news/2026/sep/24/xi-jinping-trump-china-cooperation-thucydides-trap",
+   "summary": "Chinese president\u2019s proposals for lessening tensions come amid period of intense competition between the two countries over AI and tradeTrump-Xi summit \u2013 latest updatesXi Jinping has called for extensive cooperation with Washington to avoid the \u201cThucydides trap\u201d that could put the US and China on a military collision course amid rising tensions over artificial intelligence, trade and Taiwan.At the start of his summit meeting with Donald Trump in the White House, the Chinese president laid out terms for a mutual understanding that he said could steer the two competing superpowers away from futu",
+   "published": "2026-09-24T23:58:11+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-09-25T00:34:46.381014+00:00"
+  },
+  {
+   "id": "d203b665dc7e23c6",
+   "title": "Homan says ICE isn\u2019t \u2018going anywhere\u2019 amid immigration enforcement scrutiny",
+   "url": "https://thehill.com/policy/national-security/6110700-homan-defends-ice-operations-doj-event/",
+   "summary": "White House border czar Tom Homan stood behind Immigration and Customs Enforcement (ICE) Thursday, saying the agency is \"not going anywhere\u201d despite recent scrutiny surrounding its escalated enforcement operations. \u201cYou can hate us all you want. We're not going anywhere,\u201d Homan said during an introductory speech at Department of Justice (DOJ) Victims of Violent Crime...",
+   "published": "2026-09-24T23:44:52+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-25T00:34:46.611071+00:00"
+  },
+  {
+   "id": "b66da2b793ee62e1",
+   "title": "Man shot and wounded during Trump assassination attempt in Butler dies",
+   "url": "https://www.theguardian.com/us-news/2026/sep/24/trump-assassination-attempt-man-dies-injured",
+   "summary": "James Copenhaver, 76, left with lingering injuries after gunman opened fire from rooftop at 2024 Pennsylvania rallyJames Copenhaver, one of three campaign rally attendees shot in 2024 during an assassination attempt on then candidate Donald Trump, has died in Pittsburgh, his lawyer said Thursday. He was 76.Copenhaver was in the bleachers during the event in Butler, Pennsylvania, when a 20-year-old gunman opened fire from a nearby rooftop, grazing Trump\u2019s right ear with one bullet. Copenhaver was struck in the arm and in the abdomen, wounds that left him with lingering injuries and walking with",
+   "published": "2026-09-24T23:32:40+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-09-25T00:34:46.381023+00:00"
+  },
+  {
+   "id": "1319794292cc53e9",
+   "title": "AI, trade, Iran and Taiwan top agenda at Trump-Xi summit",
+   "url": "https://www.pbs.org/newshour/show/ai-trade-iran-and-taiwan-top-agenda-at-trump-xi-summit",
+   "summary": "President Trump hosted Xi Jinping at the White House on the Chinese leader's first trip to Washington in more than 10 years. The pair held two meetings, and while the status of the press pool was still in doubt, they delivered remarks. Trump and the First Lady will host a State Dinner on Thursday. Nick Schifrin reports.",
+   "published": "2026-09-24T22:55:06+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-09-25T00:34:46.678168+00:00"
+  },
+  {
+   "id": "6d2994589487dd31",
+   "title": "Experts analyze what's at stake in the Trump-Xi summit",
+   "url": "https://www.pbs.org/newshour/show/experts-analyze-whats-at-stake-in-the-trump-xi-summit",
+   "summary": "To discuss Chinese President Xi Jinping's visit to Washington, Amna Nawaz spoke with Nicholas Burns and Samm Sacks. Burns is a former U.S. ambassador to China and is now at Harvard University. Sacks is a senior fellow at the Institute for America, China and the Future of Global Affairs at Johns Hopkins University.",
+   "published": "2026-09-24T22:50:44+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-09-25T00:34:46.678172+00:00"
+  },
+  {
+   "id": "390b398a88c3fb59",
+   "title": "How the diesel price spike is rippling through nearly every part of the economy",
+   "url": "https://www.pbs.org/newshour/show/how-the-diesel-price-spike-is-rippling-through-nearly-every-part-of-the-economy",
+   "summary": "A rapid surge in the price of diesel fuel is straining businesses and threatening to raise costs across the economy. It's also putting pressure on President Trump to bring relief at the pump, including through a diesel export ban that's been pushed by some Republican lawmakers ahead of November's midterm elections. William Brangham reports.",
+   "published": "2026-09-24T22:40:03+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-09-25T00:34:46.678188+00:00"
+  },
+  {
+   "id": "4146615a3e6febe2",
+   "title": "Trump eyes an October campaign rally \u2014 in Alabama",
+   "url": "https://www.politico.com/news/2026/09/24/trump-eyes-an-october-campaign-rally-in-alabama-01092853",
+   "summary": "The event is scheduled for Oct. 2nd in Mobile, but the plans are still subject to change, according to two people with direct knowledge of the matter.",
+   "published": "2026-09-24T22:38:10+00:00",
+   "source": "Politico",
+   "source_id": "politico",
+   "bias_note": "center",
+   "first_seen": "2026-09-25T00:34:46.551330+00:00"
+  },
+  {
+   "id": "bf5b377bbece126e",
+   "title": "Whitehouse vs. White House on permitting timeline",
+   "url": "https://thehill.com/newsletters/energy-environment/6110633-whitehouse-vs-white-house-on-permitting-timeline/",
+   "summary": "{beacon} Energy &#038; Environment Energy &#038; Environment &#8202; The Big Story  WH pushes for permitting deal before the midterms As a key Democratic negotiator says a deal to speed up infrastructure projects could be months away, the Trump administration is saying it may not be willing to wait that long. \u00a9 Natasha Kaiser Sen. Sheldon...",
+   "published": "2026-09-24T22:28:03+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-25T00:34:46.611119+00:00"
+  },
+  {
+   "id": "e8db80c24ee55b93",
+   "title": "Long agenda, short meeting: Trump and Xi meet",
+   "url": "https://www.npr.org/2026/09/24/nx-s1-5973112/long-agenda-short-meeting-trump-and-xi-meet",
+   "summary": "All Things Considered host Mary Louise Kelly talks with White House correspondent Emily Feng about the Trump/Xi summit.",
+   "published": "2026-09-24T22:10:00+00:00",
+   "source": "NPR Politics",
+   "source_id": "npr-politics",
+   "bias_note": "center",
+   "first_seen": "2026-09-25T00:34:46.254186+00:00"
+  },
+  {
+   "id": "b23b6dde575498a4",
+   "title": "Jennings on $5K dividend: 'I don\u2018t know that that is the right idea'",
+   "url": "https://thehill.com/homenews/media/6110573-scott-jennings-trump-dividend-ambivalence/",
+   "summary": "Right-wing commentator Scott Jennings expressed ambivalence Wednesday about President Trump\u2019s offer to give $5,000 to American adults if Republicans win this year\u2019s midterms. \u201cI don't know that that is the right idea here,\u201d Jennings told CNN\u2019s Kaitlan Collins on \"The Source,\" talking about the proposal.\u00a0 \u201cWhat the right idea is, is growth, which we have,...",
+   "published": "2026-09-24T21:59:17+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-25T00:34:46.611126+00:00"
+  },
+  {
+   "id": "1d6e9f2eddf404ae",
+   "title": "White House TV pool in limbo amid high stakes Xi visit",
+   "url": "https://thehill.com/homenews/administration/6110575-white-house-press-pool-limbo/",
+   "summary": "The White House television pool was in limbo Thursday as the status of the major networks\u2019 place in the press pool remained unclear following the reinstatement of CNN\u2019s access to White House grounds. Journalists from ABC, CBS, NBC and Fox News were on hand at the White House Thursday ready to cover Chinese President Xi...",
+   "published": "2026-09-24T21:56:55+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-25T00:34:46.611132+00:00"
+  },
+  {
+   "id": "31ca531491d8b169",
+   "title": "FDA pick sidesteps tough questions",
+   "url": "https://thehill.com/newsletters/healthcare/6110563-fda-pick-sidesteps-tough-questions/",
+   "summary": "Click in for more news from The Hill {beacon} Healthcare Healthcare &#8202; The Big Story  FDA pick sidesteps tough questions  Dr. Heidi Overton, President Donald Trump\u2019s pick to lead the Food and Drug Administration (FDA), walked a fine line Thursday on vaccines and abortion, largely dodging difficult questions from senators.  \u00a9 Greg Nash During the...",
+   "published": "2026-09-24T21:55:38+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-25T00:34:46.611138+00:00"
+  },
+  {
+   "id": "8d0d0ba928d9ce58",
+   "title": "Trump complains CNN, MS NOW didn't cover 'made for Television' Xi visit",
+   "url": "https://thehill.com/homenews/media/6110466-trump-blasts-cnn-msnow-xi-visit/",
+   "summary": "President Trump blasted CNN and MS NOW on Thursday over their coverage of his meeting with Chinese leader Xi Jinping, which did not include live video coverage and came as a federal judge reinstated the outlets' White House access. \"CNN and MSDNC, to show you how fake they are, today refused to cover one of...",
+   "published": "2026-09-24T21:41:02+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-25T00:34:46.611140+00:00"
+  },
+  {
+   "id": "db61698a30ce3f9f",
+   "title": "What's on the menu for Trump's state dinner with China's Xi? One American staple is notably missing",
+   "url": "https://www.foxnews.com/politics/whats-menu-trumps-state-dinner-chinas-xi-american-staple-notably-missing",
+   "summary": "President Donald Trump&apos;s state dinner with Xi Jinping features a pescatarian menu with sesame-crusted sea bass and White House honey dessert.",
+   "published": "2026-09-24T21:34:26+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-25T00:34:45.670990+00:00"
+  },
   {
    "id": "d7089ea646e8464c",
    "title": "Xi addresses AI as summit with Trump kicks off",
@@ -166,6 +331,17 @@
    "source_id": "foxnews-politics",
    "bias_note": "right-leaning",
    "first_seen": "2026-09-24T21:34:20.118745+00:00"
+  },
+  {
+   "id": "e7f030b4caf16d78",
+   "title": "Trump swoons over strongman soulmate Xi \u2013 are you feeling jealous, Vladimir?",
+   "url": "https://www.theguardian.com/us-news/2026/sep/24/trump-xi-jinping-meeting-white-house",
+   "summary": "Deference was deafening as US president rolled out red carpet for world\u2019s biggest jailer of journalists \u2013 perhaps he was seeking tipsOne is an authoritarian who represses the media with a strong allergy to democratic elections. The other is head of the Chinese Communist party.Donald Trump welcomed the Chinese president, Xi Jinping, to the White House on Thursday, setting the stage for a scene quite unlike anything the august old building has seen over more than two centuries. Continue reading...",
+   "published": "2026-09-24T18:30:54+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-09-25T00:34:46.381057+00:00"
   },
   {
    "id": "a25e0b00d6301c50",
@@ -11881,171 +12057,6 @@
    "source_id": "foxnews-politics",
    "bias_note": "right-leaning",
    "first_seen": "2026-09-11T04:48:39.427153+00:00"
-  },
-  {
-   "id": "f07e2c6928f0e999",
-   "title": "WATCH: Socialist protester blames 'provocateurs' after assaults at 'closest entry point' to Trump convention",
-   "url": "https://www.foxnews.com/politics/two-arrested-socialist-anti-trump-protest-assault-closest-entry-point-gop-convention-police",
-   "summary": "A socialist protester blamed right-wing provocateurs after Dallas police in riot gear arrested two near the Republican National Committee convention.",
-   "published": "2026-09-11T00:22:16+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-09-11T04:48:39.427162+00:00"
-  },
-  {
-   "id": "efdac25f9f83af19",
-   "title": "WATCH LIVE: Trump delivers remarks at Pentagon's Sept. 11 observance ceremony",
-   "url": "https://www.pbs.org/newshour/politics/watch-live-trump-delivers-remarks-at-pentagons-sept-11-observance-ceremony",
-   "summary": "The Pentagon's observance ceremony Friday morning will include a reading of victims' names and remarks by Trump.",
-   "published": "2026-09-11T00:21:12+00:00",
-   "source": "PBS NewsHour Politics",
-   "source_id": "pbs-politics",
-   "bias_note": "center",
-   "first_seen": "2026-09-11T04:48:40.097096+00:00"
-  },
-  {
-   "id": "87b7b7ad82945698",
-   "title": "Trump says he would \u2018probably\u2019 be able to make deals with Democrats",
-   "url": "https://thehill.com/homenews/administration/6083451-trump-potential-democratic-majority-probably-deals/",
-   "summary": "President Trump said he would \u201cprobably\u201d be able to make deals with Democrats should they take back majorities in Congress \u2014 but warned he would also work to block their agenda. \u201cI\u2019ll be a block. I\u2019ll end up being a blocker. I\u2019ll block all of their bad stuff for two years,\u201d Trump said in an...",
-   "published": "2026-09-11T00:12:03+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-11T00:13:21.590523+00:00"
-  },
-  {
-   "id": "2f7fb7c3df3032ce",
-   "title": "Federal appeals court compares Trump migrant detention policy to Japanese American internment",
-   "url": "https://www.foxnews.com/politics/federal-appeals-court-compares-trump-migrant-detention-policy-japanese-american-internment",
-   "summary": "The 4th Circuit rejected Trump&apos;s mass detention policy, comparing it to Japanese Americans&apos; World War II internment, setting the stage for a Supreme Court showdown.",
-   "published": "2026-09-10T23:40:01+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-09-11T00:13:19.455283+00:00"
-  },
-  {
-   "id": "91b6dccdc7d2af14",
-   "title": "UK bans trade with Israeli settlements in West Bank",
-   "url": "https://thehill.com/homenews/6082956-uk-bans-trade-with-israeli-settlements-in-west-bank-yt/",
-   "summary": "Israel\u2019s international isolation is growing this week after the United Kingdom, Canada and France all announced they would move to restrict trade with settlements in the occupied West Bank. Tellingly, it\u2019s not yet clear how hard the Trump administration will fight back on Israel\u2019s behalf.",
-   "published": "2026-09-10T23:30:00+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-11T00:13:21.590542+00:00"
-  },
-  {
-   "id": "8a1f5ec01a2d4eee",
-   "title": "Missouri is poised to revert to former districts after Supreme Court rejects Trump-backed map",
-   "url": "https://www.pbs.org/newshour/politics/missouri-is-poised-to-revert-to-former-districts-after-supreme-court-rejects-trump-backed-map",
-   "summary": "The decision means Missouri could run the November general election with different U.S. House districts than were used in the August primary \u2014 an extremely rare situation that could switch the candidate choices for more than a million potential voters.",
-   "published": "2026-09-10T23:25:15+00:00",
-   "source": "PBS NewsHour Politics",
-   "source_id": "pbs-politics",
-   "bias_note": "center",
-   "first_seen": "2026-09-11T00:13:21.694879+00:00"
-  },
-  {
-   "id": "b909cb5aa47abf0d",
-   "title": "Trump surgeon general nominee discloses tobacco, pharma investments",
-   "url": "https://thehill.com/policy/healthcare/6083278-trump-surgeon-general-nominee-tobacco-drug-investments/",
-   "summary": "President Trump\u2019s surgeon general nominee reported investments in the tobacco company Philip Morris International as well as beverage companies Monster Beverage Corp, Coca Cola Co. and Pepsi Co., according to financial disclosures released Thursday. Nicole Saphier disclosed these investments in an ethics agreement, where she pledged to completely or partially divest from those companies, as...",
-   "published": "2026-09-10T23:15:19+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-11T00:13:21.590549+00:00"
-  },
-  {
-   "id": "9a6eee917aa46080",
-   "title": "Bond yields rise modestly after Trump's dividend pledge",
-   "url": "https://thehill.com/business/6083360-gop-midterm-dividend-bond-yields-high/",
-   "summary": "Bond yields ticked up slightly on Thursday, after President Trump pledged to send a $5,000 dividend to every American adult if Republicans win the midterms. The yield on the 10-year U.S. Treasury bond closed at roughly 4.96 percent, roughly 1.3 basis points above where it opened. The note closed at its highest point since April...",
-   "published": "2026-09-10T22:58:02+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-11T00:13:21.590552+00:00"
-  },
-  {
-   "id": "ed00e552a5bd5445",
-   "title": "Trump's vow of $5,000 payments to Americans faces bipartisan criticism",
-   "url": "https://www.pbs.org/newshour/show/trumps-vow-of-5000-payments-to-americans-faces-bipartisan-criticism",
-   "summary": "Republicans are back in Dallas Thursday night as they wrap up their unprecedented midterm convention. Night one brought a claim from President Trump of $5,000 payments to Americans if Republicans keep control of Congress. Democratic Sen. John Fetterman also made a surprise video appearance. White House correspondent Liz Landers reports.",
-   "published": "2026-09-10T22:55:04+00:00",
-   "source": "PBS NewsHour Politics",
-   "source_id": "pbs-politics",
-   "bias_note": "center",
-   "first_seen": "2026-09-11T00:13:21.694887+00:00"
-  },
-  {
-   "id": "883286bf97713f29",
-   "title": "A look at the young conservative movement a year after Charlie Kirk's killing",
-   "url": "https://www.pbs.org/newshour/show/a-look-at-the-young-conservative-movement-a-year-after-charlie-kirks-killing",
-   "summary": "Charlie Kirk's influence is still deeply felt at the Republicans' midterm convention. His killing a year ago reshaped the young conservative movement he built and left his friends and political allies with the task of carrying it forward. To discuss the future of Turning Point USA, Geoff Bennett spoke with Robert Draper, a New York Times Magazine reporter who profiled Kirk before his death.",
-   "published": "2026-09-10T22:50:23+00:00",
-   "source": "PBS NewsHour Politics",
-   "source_id": "pbs-politics",
-   "bias_note": "center",
-   "first_seen": "2026-09-11T00:13:21.694892+00:00"
-  },
-  {
-   "id": "2e6e557998391234",
-   "title": "Prosecutor Joseph diGenova resigns from DOJ role investigating Trump-Russia probes",
-   "url": "https://www.foxnews.com/politics/prosecutor-joseph-digenova-resigns-from-doj-role-investigating-trump-russia-probes",
-   "summary": "Joseph diGenova resigned from his Justice Department role investigating the alleged &quot;Grand Conspiracy&quot; surrounding the Trump-Russia investigations.",
-   "published": "2026-09-10T22:46:19+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-09-11T00:13:19.455306+00:00"
-  },
-  {
-   "id": "b56eb4d2e1982d89",
-   "title": "Top Republicans didn\u2019t expect Trump\u2019s dividends. Now they\u2019re scrambling.",
-   "url": "https://www.politico.com/news/2026/09/10/republicans-split-trump-payouts-midterms-01071816",
-   "summary": "As they gathered in Dallas, GOP lawmakers wavered from full-on embrace to full-on avoidance of the president\u2019s promise of $5,000 checks to Americans.",
-   "published": "2026-09-10T22:33:38+00:00",
-   "source": "Politico",
-   "source_id": "politico",
-   "bias_note": "center",
-   "first_seen": "2026-09-11T00:13:20.185399+00:00"
-  },
-  {
-   "id": "52c804b946dee212",
-   "title": "Trump promises Obamacare rebates to people in swing states",
-   "url": "https://thehill.com/newsletters/healthcare/6083316-trump-promises-obamacare-rebates-to-people-in-swing-states/",
-   "summary": "Click in for more news from The Hill {beacon} Healthcare Healthcare &#8202; The Big Story  Trump promises Obamacare rebates to people in swing states, right before midterms  President Trump said he\u2019s planning to send $500 checks to about 1 million people who he claims were \u201cmassively\u201d overcharged for Affordable Care Act (ACA) coverage.  Jacquelyn Martin, Associated...",
-   "published": "2026-09-10T22:27:08+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-11T00:13:21.590567+00:00"
-  },
-  {
-   "id": "97fb5627d71a7eda",
-   "title": "Trump ally resigns from post leading inquiry into alleged conspiracy against president",
-   "url": "https://www.theguardian.com/us-news/2026/sep/10/trump-ally-resigns-president-conspiracy-inquiry",
-   "summary": "Joe diGenova led investigation focused on intelligence assessment that Russia interfered in 2016 electionAn ally of Donald Trump said on Thursday that he had resigned from his post leading a Department of Justice investigation into whether former law enforcement and intelligence officials conspired against the Republican president.The departure injects instant tumult into an investigation targeting former government officials who have investigated Trump over the last decade, including in connection with Russian interference in the 2016 presidential election and his retention of classified docu",
-   "published": "2026-09-10T22:19:57+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-09-11T00:13:20.095294+00:00"
-  },
-  {
-   "id": "b995440b1f8c6674",
-   "title": "Trump sees backlash over $5K dividend pledge",
-   "url": "https://thehill.com/newsletters/business-economy/6083240-trump-sees-backlash-over-5k-dividend-pledge/",
-   "summary": "Welcome to The Hill's Business &#038; Economy newsletter {beacon} Business &#038; Economy Business &#038; Economy &#8202; The Big Story  Trump sees backlash over $5K dividend pledge President Trump\u2019s promise to distribute $5,000 to every U.S. adult if the GOP wins the midterms is drawing backlash from Republicans and Democrats as the president\u2019s allies are forced...",
-   "published": "2026-09-10T21:45:27+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-11T00:13:21.590586+00:00"
   }
  ]
 }
