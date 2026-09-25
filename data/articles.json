@@ -1,7 +1,128 @@
 {
- "updated": "2026-09-25T00:34:47.303208+00:00",
- "count": 1096,
+ "updated": "2026-09-25T07:54:39.980623+00:00",
+ "count": 1094,
  "articles": [
+  {
+   "id": "b0a4a27a3199463c",
+   "title": "Trump administration moves to limit fixes for systemic racism in schools",
+   "url": "https://abcnews.com/Politics/wireStory/trump-administration-moves-limit-fixes-systemic-racism-schools-136743667",
+   "summary": "The Trump administration has shifted the approach to civil rights enforcement in American schools",
+   "published": "2026-09-25T06:52:54+00:00",
+   "source": "ABC News Politics",
+   "source_id": "abc-politics",
+   "bias_note": "center",
+   "first_seen": "2026-09-25T07:54:39.777965+00:00"
+  },
+  {
+   "id": "8dc4297e306d5fd5",
+   "title": "Trump relishes showing Xi his Marine One chopper and new White House helipad",
+   "url": "https://abcnews.com/Politics/wireStory/trump-relishes-showing-xi-marine-chopper-new-white-136734173",
+   "summary": "President Donald Trump showed off some of his favorite things at the White House to China's leader, Xi Jinping, on Thursday",
+   "published": "2026-09-25T06:42:08+00:00",
+   "source": "ABC News Politics",
+   "source_id": "abc-politics",
+   "bias_note": "center",
+   "first_seen": "2026-09-25T07:54:39.777978+00:00"
+  },
+  {
+   "id": "ea705eb3be032e32",
+   "title": "FBI employees in Trump Mar-a-Lago case seek clarity on subpoenas in Florida 'grand conspiracy' probe",
+   "url": "https://abcnews.com/Politics/wireStory/fbi-employees-trump-mar-lago-case-seek-clarity-136735755",
+   "summary": "Former FBI employees involved in the investigation into President Donald Trump&rsquo;s retention of classified documents have been subpoenaed to appear before a grand jury in a broad Florida-based conspiracy probe",
+   "published": "2026-09-25T06:41:31+00:00",
+   "source": "ABC News Politics",
+   "source_id": "abc-politics",
+   "bias_note": "center",
+   "first_seen": "2026-09-25T07:54:39.777975+00:00"
+  },
+  {
+   "id": "e192754dcd9beb7f",
+   "title": "Man who was shot during 2024 Trump campaign rally in Butler, Pennsylvania, has died",
+   "url": "https://abcnews.com/Politics/wireStory/man-shot-2024-trump-campaign-rally-butler-pennsylvania-136737523",
+   "summary": "James Copenhaver, one of three campaign rally attendees shot in 2024 during an assassination attempt on then-candidate Donald Trump, has died",
+   "published": "2026-09-25T06:40:21+00:00",
+   "source": "ABC News Politics",
+   "source_id": "abc-politics",
+   "bias_note": "center",
+   "first_seen": "2026-09-25T07:54:39.777972+00:00"
+  },
+  {
+   "id": "45b82b532aee1557",
+   "title": "Trump's state dinner for Xi features sea bass and a long list of tech titans",
+   "url": "https://www.npr.org/2026/09/25/g-s1-144973/trump-state-dinner-xi",
+   "summary": "A tech-heavy guest list, the fashion choices of those on it, who sat where and what was on the menu marked the softer \u2014 often and glitzier \u2014 details of diplomacy as Donald Trump threw a Thursday night state dinner honoring China's leader Xi Jinping.",
+   "published": "2026-09-25T06:18:59+00:00",
+   "source": "NPR Politics",
+   "source_id": "npr-politics",
+   "bias_note": "center",
+   "first_seen": "2026-09-25T07:54:38.276193+00:00"
+  },
+  {
+   "id": "75d4c2f2a1ef939e",
+   "title": "Trump loses the fear factor \u2013 podcast",
+   "url": "https://www.theguardian.com/politics/audio/2026/sep/25/trump-loses-the-fear-factor-podcast",
+   "summary": "This week, the US press corps stood up to Donald Trump after he banned three organisations he doesn\u2019t like from the White House. But when it came to the leader of one of America\u2019s oldest adversaries \u2013 China \u2013 well, Trump literally rolled out a very long red carpet.Jonathan Freedland speaks to the Guardian\u2019s Shrai Popat about why Trump seems weaker these days, and why it might be dangerous to underestimate himWatch Jonathan Freedland on our new Politics Weekly YouTube channelSend your questions and feedback to politicsweeklyamerica@theguardian.comWatch Stateside\u2019s episode on Benjamin Netanyahu\u2019",
+   "published": "2026-09-25T04:00:40+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-09-25T07:54:38.441160+00:00"
+  },
+  {
+   "id": "17a74496fe82d554",
+   "title": "UMass Dartmouth football murder suspect overstayed tourist visa, received deferred action: federal sources",
+   "url": "https://www.foxnews.com/politics/umass-dartmouth-football-murder-suspect-overstayed-tourist-visa-received-deferred-action-federal-sources",
+   "summary": "Chukwunonso Eze entered the U.S. on a tourist visa in 2015 and received deferred action under both Biden and Trump before he allegedly killed a UMass Dartmouth football player.",
+   "published": "2026-09-25T03:59:39+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-25T07:54:37.849895+00:00"
+  },
+  {
+   "id": "cd1a4cfbc6ddc911",
+   "title": "Lula says Trump wants to \u2018colonise\u2019 and capture Brazil\u2019s resources by meddling in election",
+   "url": "https://www.theguardian.com/world/2026/sep/25/lula-says-trump-wants-to-colonise-and-capture-brazils-resources-by-meddling-in-election",
+   "summary": "A TV spot claims the US president is trying to sway October\u2019s presidential vote in favour of Lula\u2019s far-right opponentsLuiz In\u00e1cio Lula da Silva\u2019s presidential campaign has accused Donald Trump of wanting to \u201ccolonise\u201d Brazil in order to capture its natural resources by meddling in next month\u2019s presidential election.The accusation came in a televised campaign advert that was broadcast on Thursday by Lula\u2019s team amid growing fears over the impact alleged US interference could have on the vote. Continue reading...",
+   "published": "2026-09-25T03:33:48+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-09-25T07:54:38.441170+00:00"
+  },
+  {
+   "id": "5fa844ac34d61aaa",
+   "title": "Marina Hyde on Trump, tech bros and Taylor Swift - podcast",
+   "url": "https://www.theguardian.com/news/audio/2026/sep/25/marina-hyde-trump-tech-bros-taylor-swift-time-alive-podcast",
+   "summary": "Guardian columnist Marina Hyde on the release of her new book What a Time to be Alive!\u201cI think increasingly the way to survive the news is to say things like: \u2018I find it fascinating from a human behaviour point of view,\u2019\u201d says Marina Hyde. \u201cIt\u2019s like a firewall against actually thinking: \u2018My God, I mean, what are we living through?\u2019\u201dOn the publication of her new book, What a Time to Be Alive!, The Guardian\u2019s award-winning columnist talks to Nosheen Iqbal about Donald Trump, AI, Taylor Swift\u2019s wedding \u2026 and her chance, tragic encounter with Keir Starmer. Continue reading...",
+   "published": "2026-09-25T02:00:36+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-09-25T07:54:38.441176+00:00"
+  },
+  {
+   "id": "fea66d495cd5a380",
+   "title": "Zuckerberg, Altman, other Big Tech moguls among attendees at Trump-Xi dinner",
+   "url": "https://thehill.com/homenews/administration/6110866-trump-xi-white-house-dinner/",
+   "summary": "President Trump hosted Chinese President Xi Jinping at the White House for a state dinner Thursday, whose guest list is full of tech billionaires and some of the world\u2019s most powerful business leaders. Dressed in black tuxedoes, Meta CEO Mark Zuckerberg, OpenAI co-founder Sam Altman, Tesla and SpaceX CEO Elon Musk and Amazon founder Jeff...",
+   "published": "2026-09-25T01:34:29+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-25T07:54:38.596560+00:00"
+  },
+  {
+   "id": "45967f501e160d54",
+   "title": "Trump administration appeals to Supreme Court as 3rd-country deportations are thrown into question",
+   "url": "https://www.pbs.org/newshour/politics/trump-administration-appeals-to-supreme-court-as-3rd-country-deportations-are-thrown-into-question",
+   "summary": "A ruling to halt deportations of people to countries other than their own threw a core immigration policy of the Trump administration into question, at least temporarily, and prompted a desperate appeal to the Supreme Court on Thursday.",
+   "published": "2026-09-25T00:58:15+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-09-25T07:54:38.706004+00:00"
+  },
   {
    "id": "f8450e1d682e3732",
    "title": "Xi can\u2019t escape protesters\u2019 cries at deafening dinner demonstration",
@@ -11914,149 +12035,6 @@
    "source_id": "npr-politics",
    "bias_note": "center",
    "first_seen": "2026-09-11T11:28:24.887695+00:00"
-  },
-  {
-   "id": "cfcb9e9f3bd2de03",
-   "title": "Trump admin's list of US-designated 'foreign terrorist' groups in Latin America expands to 21",
-   "url": "https://www.foxnews.com/politics/trumps-list-us-designated-foreign-terrorist-groups-latin-america-expands-21",
-   "summary": "Secretary of State Marco Rubio announced the foreign terrorist designation of Los Tiguerones during his diplomatic tour through Latin America.",
-   "published": "2026-09-11T07:48:00+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-09-11T11:28:24.642661+00:00"
-  },
-  {
-   "id": "a85084c5e7def640",
-   "title": "Republican convention pays tribute to Charlie Kirk one year after his killing",
-   "url": "https://abcnews.com/Politics/wireStory/republican-convention-pays-tribute-charlie-kirk-year-after-136352196",
-   "summary": "Chants of &quot;Charlie, Charlie&quot; filled the air during President Donald Trump's midterm convention as Republicans honored Charlie Kirk, the Turning Point USA leader who was assassinated one year ago",
-   "published": "2026-09-11T06:55:03+00:00",
-   "source": "ABC News Politics",
-   "source_id": "abc-politics",
-   "bias_note": "center",
-   "first_seen": "2026-09-11T11:28:26.681154+00:00"
-  },
-  {
-   "id": "cf7e425520f07eaf",
-   "title": "Under Trump, census eyes sweeping plan to omit immigrants, race data",
-   "url": "https://abcnews.com/Politics/wireStory/trump-census-eyes-sweeping-plan-omit-immigrants-race-136353634",
-   "summary": "The Trump administration is proposing a dramatic overhaul around the once-a-decade U.S. Census head count that could leave out millions of immigrants based on status and key racial and ethnic data, jeopardizing the allocation of resources and the count...",
-   "published": "2026-09-11T06:52:23+00:00",
-   "source": "ABC News Politics",
-   "source_id": "abc-politics",
-   "bias_note": "center",
-   "first_seen": "2026-09-11T11:28:26.681159+00:00"
-  },
-  {
-   "id": "c2f66733d96684e7",
-   "title": "Republicans at Dallas convention ponder options for post-Trump leader",
-   "url": "https://abcnews.com/Politics/wireStory/vance-rubio-desantis-cruz-republicans-dallas-convention-ponder-136354801",
-   "summary": "While Vice President JD Vance is seen as a potential successor to President Donald Trump, attendees at the Republican midterm convention in Dallas are divided on their 2028 candidate preferences",
-   "published": "2026-09-11T06:51:29+00:00",
-   "source": "ABC News Politics",
-   "source_id": "abc-politics",
-   "bias_note": "center",
-   "first_seen": "2026-09-11T11:28:26.681130+00:00"
-  },
-  {
-   "id": "0ba1e54b7594889f",
-   "title": "Justice Department directs states to hold on to 2024 election records as it seeks their voter data",
-   "url": "https://abcnews.com/Politics/wireStory/justice-department-directs-states-hold-2024-election-records-136350319",
-   "summary": "The Trump administration is ordering officials in more than two dozen states to preserve records from the 2024 election",
-   "published": "2026-09-11T06:37:56+00:00",
-   "source": "ABC News Politics",
-   "source_id": "abc-politics",
-   "bias_note": "center",
-   "first_seen": "2026-09-11T11:28:26.681151+00:00"
-  },
-  {
-   "id": "556bead8e3574f17",
-   "title": "Appeals court cites detention of Japanese Americans in ruling blasting Trump immigration policy",
-   "url": "https://abcnews.com/Politics/wireStory/appeals-court-cites-detention-japanese-americans-ruling-blasting-136346283",
-   "summary": "A federal appeals court says the Trump administration&rsquo;s policy of holding immigrants without a chance for release recalls some of the darkest moments in the nation's history",
-   "published": "2026-09-11T06:34:13+00:00",
-   "source": "ABC News Politics",
-   "source_id": "abc-politics",
-   "bias_note": "center",
-   "first_seen": "2026-09-11T11:28:26.681157+00:00"
-  },
-  {
-   "id": "ca57510ca370b258",
-   "title": "\u2018I\u2019m on the ticket\u2019: Trump implores Republicans to vote in November at unusual midterm convention",
-   "url": "https://www.theguardian.com/us-news/2026/sep/11/donald-trump-republican-midterm-convention",
-   "summary": "The president demonised Democrats in an attempt to wangle votes in midterms despite backlash over Iran warWith his approval rating at a historic low, Donald Trump has brought down the curtain on the Republicans\u2019 first ever midterm convention by pleading with supporters to do him \u201cthe biggest favour\u201d and \u201cpretend\u201d they are voting for him in November\u2019s US elections.The president is facing a growing backlash over rising prices and the war in Iran. Sweeping losses for the Republican party could effectively turn Trump into a lame duck for his final two years in the White House. Continue reading...",
-   "published": "2026-09-11T04:24:57+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-09-11T04:48:39.794262+00:00"
-  },
-  {
-   "id": "6e286e3408c64199",
-   "title": "Trump-a-palooza: why are Republicans avoiding the president\u2019s convention? \u2013 podcast",
-   "url": "https://www.theguardian.com/politics/audio/2026/sep/11/trump-a-palooza-why-are-republicans-avoiding-the-presidents-convention-podcast",
-   "summary": "Donald Trump has thrown a convention to amp up the Republican base ahead of the midterm elections, but not everyone is thrilled about it. Dozens of officials running for re-election have stayed away, choosing instead to campaign locally. Are they worried about Trump\u2019s current unpopularity weighing down their ticket?This week Jenna Amatulli is in for Jonathan Freedland and speaks to Guardian US politics correspondent Rachel LeingangWatch Jonathan Freedland on our new Politics Weekly YouTube channelSend your questions and feedback to politicsweeklyamerica@theguardian.comSubscribe to The Guardian",
-   "published": "2026-09-11T04:00:06+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-09-11T04:48:39.794272+00:00"
-  },
-  {
-   "id": "26a30f59b0186443",
-   "title": "JD Vance pitches himself as Trump\u2019s political heir on day two of Republican midterm convention",
-   "url": "https://www.theguardian.com/us-news/2026/sep/10/jd-vance-republican-midterm-convention",
-   "summary": "Vice-president dog-whistled, exaggerated claims of success and echoed Trump talking points to excited audienceJD Vance made a clear pitch that he should be the heir to Donald Trump on Thursday night, closing out the Republicans\u2019 midterm convention with a blistering speech that featured exaggerated claims of success, criticism of Democrats as \u201clunatics\u201d and an aggressive dismissal of a protester waving a Mexican flag.Speaking in Dallas, the vice-president showed he could channel the basest instincts of his boss, filling his remarks with dog whistles and echoing Trump\u2019s false claims that Democra",
-   "published": "2026-09-11T03:52:38+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-09-11T04:48:39.794284+00:00"
-  },
-  {
-   "id": "a1b3a6fdc8260a9a",
-   "title": "Trump leads convention in pledge: 'You go to h---\u2019 if you don\u2019t vote",
-   "url": "https://thehill.com/homenews/administration/6083597-trump-midterm-pledge-vote-convention/",
-   "summary": "President Trump closed out the Republican midterm convention in Dallas on Thursday by urging attendees to pledge to go out and vote in November\u2019s midterm elections.  \u201cPlease raise your right hand,\u201d Trump told a stadium packed with his supporters as he was met with some laughter.  \u201cI pledge to the greatest president in the history...",
-   "published": "2026-09-11T03:17:49+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-11T04:48:40.004821+00:00"
-  },
-  {
-   "id": "bae2867c8ce3336f",
-   "title": "New Mexico Democrats call on Apple, Google to keep state's name on map",
-   "url": "https://thehill.com/policy/technology/6083529-lawmakers-urge-apple-google-new-mexico/",
-   "summary": "A group of Democratic lawmakers who represent New Mexico urged Apple and Google on Thursday not to adopt President Trump\u2019s proposed renaming of the state to \u201cNew America\u201d on their map platforms.  On Sunday, the president shared an image of a map of the state on Truth Social with \u201cMexico\u201d crossed out and replaced by...",
-   "published": "2026-09-11T02:19:20+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-11T04:48:40.004843+00:00"
-  },
-  {
-   "id": "10ee631e299e6981",
-   "title": "Trump tells Dallas crowd the Luka Don\u010di\u0107 trade 'might go down as the worst in sports history'",
-   "url": "https://www.foxnews.com/outkick-sports/trump-tells-dallas-crowd-luka-doncic-trade-might-go-down-worst-sports-history",
-   "summary": "President Donald Trump roasted the Dallas Mavericks for trading Luka Don\u010di\u0107 to the Los Angeles Lakers, joking they should &apos;redo&apos; it if they could",
-   "published": "2026-09-11T01:36:19+00:00",
-   "source": "Fox News Latest",
-   "source_id": "foxnews-latest",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-09-11T04:48:39.509744+00:00"
-  },
-  {
-   "id": "326392e562a4a739",
-   "title": "Top Trump official reveals how 30-minute military op unlocked Venezuela oil windfall for US buyers",
-   "url": "https://www.foxnews.com/politics/top-trump-official-reveals-how-30-minute-military-op-unlocked-venezuela-oil-windfall",
-   "summary": "Energy Secretary Chris Wright says the Trump administration is tapping Venezuela&apos;s 300 billion barrels of oil reserves to expand supply and cut prices.",
-   "published": "2026-09-11T00:54:07+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-09-11T04:48:39.427153+00:00"
   }
  ]
 }
