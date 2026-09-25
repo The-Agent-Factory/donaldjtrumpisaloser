@@ -1,7 +1,95 @@
 {
- "updated": "2026-09-25T13:53:07.047421+00:00",
- "count": 1094,
+ "updated": "2026-09-25T15:45:14.115097+00:00",
+ "count": 1091,
  "articles": [
+  {
+   "id": "7b147436a33680bc",
+   "title": "Supreme Court, overall liberal dissents, lets DHS overhaul immigration database for midterms",
+   "url": "https://thehill.com/regulation/court-battles/6111517-scotus-lifts-block-save-overhaul/",
+   "summary": "The Supreme Court cleared the way on Friday for the Trump administration to implement its overhauled immigration database, which it says is aimed at combatting voter fraud, in time for November\u2019s elections over the dissent of\u00a0the liberal justices.\u00a0 The overhaul faced opposition from Democrats and some voting groups, and a judge had blocked it for...",
+   "published": "2026-09-25T15:42:55+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-25T15:45:13.292214+00:00"
+  },
+  {
+   "id": "d11ca2e68d8da489",
+   "title": "The Supreme Court revives a controversial data system for citizenship checks",
+   "url": "https://www.npr.org/2026/09/25/nx-s1-5976804/supreme-court-trump-save-noncitizen-voting",
+   "summary": "The Supreme Court is allowing use of a data system that Trump officials overhauled. The system has erroneously flagged U.S. citizens and a lower court found it violated federal privacy protections.",
+   "published": "2026-09-25T15:40:57+00:00",
+   "source": "NPR Politics",
+   "source_id": "npr-politics",
+   "bias_note": "center",
+   "first_seen": "2026-09-25T15:45:12.784789+00:00"
+  },
+  {
+   "id": "c2076b59df10edbe",
+   "title": "US math and reading test scores are at a 25-year low. Trump cut the agency that can provide answers",
+   "url": "https://www.theguardian.com/us-news/ng-interactive/2026/sep/25/student-math-reading-test-scores",
+   "summary": "National Center for Education Statistics, which collects critical data to guide policy on learning, was decimated after Doge canceled crucial contractsAs reading and math scores fall to their lowest point in the past quarter-century, the US now has fewer tools to understand and develop interventions for this troubling trend.When the Trump administration took a wrecking ball to the Department of Education last year, firing nearly half of its workers and allowing the so-called \u201cdepartment of government efficiency\u201d (Doge) to cancel nearly $900m in contracts, a little-known agency called the Natio",
+   "published": "2026-09-25T15:00:10+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-09-25T15:45:13.059694+00:00"
+  },
+  {
+   "id": "f257a5d1b40efb64",
+   "title": "Massie: Trump 'comeuppance' will happen on Election Day",
+   "url": "https://thehill.com/homenews/house/6111370-massie-criticizes-trump-retribution-tour/",
+   "summary": "GOP Rep. Thomas Massie (Ky.), who lost his primary to an opponent backed by President Trump, predicted a reckoning for the president and the GOP in the midterm elections. \u201cI think his comeuppance will happen on Election Day, and the day after I think there\u2019s going to be a reckoning,\u201d the Republican lawmaker said during...",
+   "published": "2026-09-25T14:50:06+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-25T15:45:13.292247+00:00"
+  },
+  {
+   "id": "41636e5d10d10a8a",
+   "title": "'Red carpet for a despot': Trump's lavish Xi welcome collides with GOP anti-communism message",
+   "url": "https://www.foxnews.com/politics/red-carpet-despot-trumps-lavish-xi-welcome-collides-gop-anti-communism-message",
+   "summary": "Republican senators criticized President Donald Trump&apos;s lavish Washington summit with Xi Jinping, warning against red carpet treatment for China&apos;s leader.",
+   "published": "2026-09-25T14:25:59+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-25T15:45:12.245103+00:00"
+  },
+  {
+   "id": "fa4f2138903c87d5",
+   "title": "Chinese media scuffle with US journalists, Secret Service during Xi visit",
+   "url": "https://thehill.com/homenews/media/6111219-chinese-press-scuffle-white-house/",
+   "summary": "Members of the Chinese press corps traveling with President Xi Jinping scuffled with U.S. journalists and Secret Service personnel at the White House on Thursday as reporters scrambled to cover the Chinese leader\u2019s state visit. Videos posted online showed several confrontations throughout the day, including Chinese journalists arguing with White House staff and Secret Service...",
+   "published": "2026-09-25T14:25:17+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-25T15:45:13.292257+00:00"
+  },
+  {
+   "id": "33a7f997c0b79a3c",
+   "title": "Trump mourns death of man shot at Butler rally: 'Tremendous loss'",
+   "url": "https://thehill.com/homenews/administration/6111290-butler-shooting-victim-dies/",
+   "summary": "President Trump mourned the loss of Jim Copenhaver, the man who was shot and injured during the attempted assassination of Trump in Butler, Pa., in 2024. Copenhaver died earlier this week. He was 76. He was one of the two attendees who were shot at the rally where a bullet grazed Trump\u2019s ear. Copenhaver was struck...",
+   "published": "2026-09-25T14:20:22+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-25T15:45:13.292262+00:00"
+  },
+  {
+   "id": "a6c66a76561b9f11",
+   "title": "Poll: A crack is emerging in Trump\u2019s coalition over deportations",
+   "url": "https://www.politico.com/news/2026/09/25/poll-trump-immigration-voter-cracks-maga-01091767",
+   "summary": "The president\u2019s most loyal supporters are more inclined than other Trump voters to support a tough immigration posture \u2014 but new POLITICO Poll results show there are limits.",
+   "published": "2026-09-25T14:00:00+00:00",
+   "source": "Politico",
+   "source_id": "politico",
+   "bias_note": "center",
+   "first_seen": "2026-09-25T15:45:13.181462+00:00"
+  },
   {
    "id": "ecece890964a3f60",
    "title": "Trump: Xi 'seemed to like' calling AI 'Super Intelligence'",
@@ -11914,127 +12002,6 @@
    "source_id": "thehill",
    "bias_note": "center",
    "first_seen": "2026-09-11T16:33:01.057250+00:00"
-  },
-  {
-   "id": "39a480a639d0d220",
-   "title": "Bret Baier presses Paxton on Trump $5K dividend payment support",
-   "url": "https://thehill.com/homenews/campaign/6084598-bret-baier-ken-paxton-trump-dividend-texas-senate/",
-   "summary": "Fox News host Bret Baier questioned Texas Attorney General Ken Paxton, the Republican Senate nominee, on Thursday over his support for President Trump\u2019s new controversial \u201cTrump dividend\u201d proposal. At the GOP\u2019s midterm convention in Dallas this week, the president floated the idea of disbursing $5,000 checks to every American adult if Republicans maintain their majority...",
-   "published": "2026-09-11T15:02:25+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-11T16:33:01.057285+00:00"
-  },
-  {
-   "id": "14709fa628f61e6b",
-   "title": "\u2018Trump-level\u2019 smackdown earns Vance roaring praise as 2028 buzz builds at GOP convention",
-   "url": "https://www.foxnews.com/politics/trump-level-smackdown-earns-vance-roaring-praise-2028-buzz-builds-gop-convention",
-   "summary": "JD Vance fired back at a protester waving a Mexican flag during his RNC convention speech in Dallas, offering to buy them a plane ticket to Mexico.",
-   "published": "2026-09-11T14:47:31+00:00",
-   "source": "Fox News Latest",
-   "source_id": "foxnews-latest",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-09-11T14:53:39.143126+00:00"
-  },
-  {
-   "id": "5367a78115a68d83",
-   "title": "Carney: Latest Trump trade moves 'relatively modest'",
-   "url": "https://thehill.com/policy/international/6084500-carney-latest-trump-trade-moves-relatively-modest/",
-   "summary": "Canadian Prime Minister Mark Carney said Thursday President Trump\u2019s latest round of tariffs is \u201crelatively modest\u201d compared to the United States' past moves.  When talking with reporters at a cabinet retreat in Banff, Alberta, Carney was asked if Canada was going to retaliate to added U.S. tariffs. Carney said that this government was analyzing the...",
-   "published": "2026-09-11T14:27:58+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-11T14:53:39.745608+00:00"
-  },
-  {
-   "id": "45af63d4b3ea44db",
-   "title": "Live updates: Trump, Vance, past presidents pause to remember Sept. 11",
-   "url": "https://thehill.com/homenews/administration/6083845-live-updates-trump-vance-sept-11/",
-   "summary": "President Trump and Defense Secretary Pete Hegseth are attending a remembrance at the Pentagon, while Vice President Vance has joined past presidents and New York City Mayor Zohran Mamdani (D) at Ground Zero on Friday morning, as America pauses to honor the victims of the Sept. 11, 2001, terrorist attacks. While the memorial in New...",
-   "published": "2026-09-11T14:24:36+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-11T14:53:39.745614+00:00"
-  },
-  {
-   "id": "7f47d234fd7613c3",
-   "title": "Trump list of U.S.-designated 'foreign terrorist organizations' in Latin America grows to 21",
-   "url": "https://www.pbs.org/newshour/world/trump-list-of-u-s-designated-foreign-terrorist-organizations-in-latin-america-grows-to-21",
-   "summary": "The Trump administration has designated 21 Latin American and Caribbean criminal groups as \"foreign terrorist organizations,\" with the latest an Ecuadorian group added to the list on Wednesday.",
-   "published": "2026-09-11T14:23:19+00:00",
-   "source": "PBS NewsHour Politics",
-   "source_id": "pbs-politics",
-   "bias_note": "center",
-   "first_seen": "2026-09-11T14:53:39.883521+00:00"
-  },
-  {
-   "id": "52028b783048ab5d",
-   "title": "Presidential Message on Rosh Hashanah",
-   "url": "https://www.whitehouse.gov/briefings-statements/2026/09/presidential-message-on-rosh-hashanah-982e/",
-   "summary": "Melania and I send our warmest greetings to the entire Jewish community on Rosh Hashanah\u2014the Jewish New Year and the first of the High Holy Days. The Jewish community around the world marks the anniversary of when the Almighty created Adam and Eve and the story of humanity began.&#160; These two days open a solemn [&#8230;]\nThe post Presidential Message on Rosh Hashanah appeared first on The White House.",
-   "published": "2026-09-11T14:22:25+00:00",
-   "source": "WhiteHouse.gov News",
-   "source_id": "whitehouse",
-   "bias_note": "official/primary-source",
-   "first_seen": "2026-09-11T14:53:39.228143+00:00"
-  },
-  {
-   "id": "4ca33522e74607e9",
-   "title": "Trump admin\u2019s fraud crackdown targets foreigners accused of infiltrating US federal programs",
-   "url": "https://www.foxnews.com/politics/trump-admins-fraud-crackdown-targets-foreigners-accused-infiltrating-u-s-federal-programs",
-   "summary": "The FBI&apos;s Most Wanted list names Onur Simsek, a Turkish national accused of a defense procurement fraud scheme involving fake parts for U.S. military gear.",
-   "published": "2026-09-11T14:21:14+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-09-11T14:53:39.096386+00:00"
-  },
-  {
-   "id": "9ef290227e47b755",
-   "title": "Collins: Trump\u2019s proposed $5K dividend \u2018extraordinarily costly\u2019",
-   "url": "https://thehill.com/homenews/senate/6084345-collins-trump-dividend-midterms/",
-   "summary": "Sen. Susan Collins (R-Maine) said President Trump\u2019s proposal to give $5,000 to every American adult if Republicans win the midterm elections \u201cwould be extraordinarily costly\u201d and questioned providing it to everyone regardless of financial need. \u201cFrom the few details we have, it seems that the proposed $5,000 dividend would not have an income cap and...",
-   "published": "2026-09-11T14:08:58+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-11T14:53:39.745620+00:00"
-  },
-  {
-   "id": "639ac8e1903802c3",
-   "title": "Vance? Rubio? DeSantis? Cruz? Republicans at Dallas convention ponder options for post-Trump leader",
-   "url": "https://www.pbs.org/newshour/politics/vance-rubio-desantis-cruz-republicans-at-dallas-convention-ponder-options-for-post-trump-leader",
-   "summary": "The vice president's speech solidified his status as a potential frontrunner, and President Donald Trump talked him up afterwards as a \"very talented guy\" who \"did a very good job.\"",
-   "published": "2026-09-11T14:03:28+00:00",
-   "source": "PBS NewsHour Politics",
-   "source_id": "pbs-politics",
-   "bias_note": "center",
-   "first_seen": "2026-09-11T14:53:39.883528+00:00"
-  },
-  {
-   "id": "b5187e71ff7e5aa2",
-   "title": "Why Trump is leaning into his role as \u2018builder-in-chief\u2019",
-   "url": "https://thehill.com/opinion/white-house/6083435-trump-builder-chief-war-distraction/",
-   "summary": "Donald Trump is shifting focus from the ongoing conflict with Iran toward several major architectural renovation projects across Washington, D.C.",
-   "published": "2026-09-11T14:00:00+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-11T14:53:39.745638+00:00"
-  },
-  {
-   "id": "6d96109d50940a69",
-   "title": "Joe diGenova resigns from DOJ position investigating Trump foes",
-   "url": "https://thehill.com/homenews/administration/6084344-jodigenova-trump-investigation-resigned/",
-   "summary": "Joe diGenova, a Trump ally tapped to lead a sprawling investigation into many of the president\u2019s perceived enemies, resigned from his post late Thursday, indicating concerns over the strength of the case. The so-called grand conspiracy investigation was led out of a U.S. attorney office in Florida where prosecutors issued dozens of subpoenas in a...",
-   "published": "2026-09-11T13:59:44+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-11T14:53:39.745644+00:00"
   }
  ]
 }
