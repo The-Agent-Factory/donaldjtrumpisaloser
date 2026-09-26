@@ -1,7 +1,95 @@
 {
- "updated": "2026-09-26T05:05:34.721090+00:00",
- "count": 1114,
+ "updated": "2026-09-26T11:30:48.535849+00:00",
+ "count": 1113,
  "articles": [
+  {
+   "id": "d9eb416f9020f439",
+   "title": "Thomas Jefferson letter goes on the market \u2013 containing a prescient warning for Trump today",
+   "url": "https://www.theguardian.com/us-news/2026/sep/26/thomas-jefferson-letter-trump-warning",
+   "summary": "Third US president wrote in 1787 about importance of peace, paying off debt and supporting agricultureA remarkably prescient letter written by Thomas Jefferson, the third US president, advising how the newly created country could prosper, has been put up for sale by a private collector. The handwritten document from 1787 warns specifically against many of the missteps Donald Trump has taken to drag down his own second term of office.Written in Paris, where Jefferson was the fledgling government\u2019s minister to France, the note to David Rittenhouse, a friend and fellow member of the American Phil",
+   "published": "2026-09-26T11:00:34+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-09-26T11:30:47.168314+00:00"
+  },
+  {
+   "id": "1506144567b033e8",
+   "title": "Trump\u2019s Greenland deal shadows Xi visit after years of Beijing eyeing Arctic influence",
+   "url": "https://www.foxnews.com/politics/trumps-greenland-deal-shadows-xi-visit-after-years-beijing-eyeing-arctic-influence",
+   "summary": "Trump&apos;s Greenland security deal blocked China&apos;s Arctic ambitions days before Xi Jinping arrived for a state dinner with America&apos;s top AI executives.",
+   "published": "2026-09-26T10:00:37+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-26T11:30:46.359713+00:00"
+  },
+  {
+   "id": "6b42ee2bd0f47687",
+   "title": "The truth behind Donald Trump\u2019s \u2018biggest oil deal in world history\u2019",
+   "url": "https://www.theguardian.com/us-news/2026/sep/26/donald-trump-oil-deal-with-venezuela",
+   "summary": "The US\u2019s oil deal with Venezuela faces multiple legal and logistical problems, including questions about whether it can be implemented Donald Trump has long coveted the oilfields of other nations and declared an agreement with Venezuela to be \u201cthe biggest oil deal in world history\u201d. But the deal, reached after the US seized Venezuelan president Nicol\u00e1s Maduro, is almost certainly doomed to collapse amid a wide array of legal and logistical issues, a Guardian investigation has found.The US president first mused about taking oil from Iran in 1987, when he told ABC\u2019s Barbara Walters that Iranian ",
+   "published": "2026-09-26T10:00:33+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-09-26T11:30:47.168340+00:00"
+  },
+  {
+   "id": "bec981f217d6dc0a",
+   "title": "Trump faces growing GOP dissent in heartland as policies bite",
+   "url": "https://thehill.com/homenews/administration/6111406-republicans-break-trump-iran-war/",
+   "summary": "A growing number of Republicans in the heartland are breaking with President Trump on policies that are unpopular as the GOP worries about paying the price for them in the upcoming elections.\u00a0 Lawmakers and candidates in Iowa, Michigan and Ohio have called for a quick end to the Iran war amid high gas and diesel...",
+   "published": "2026-09-26T10:00:00+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-26T11:30:47.471786+00:00"
+  },
+  {
+   "id": "2cd6ef3967d5e1aa",
+   "title": "Trump's polls sink further in warning sign for GOP",
+   "url": "https://thehill.com/homenews/administration/6112712-trump-approval-ratings-midterm-elections/",
+   "summary": "President Trump\u2019s approval ratings have sunk to new lows in several recent polls, driven by declining GOP support and souring views on the economy in a possible warning sign for Republicans just weeks out from the midterms. In the latest Reuters/Ipsos poll, Trump\u2019s overall approval fell three points from the previous week to an all-time...",
+   "published": "2026-09-26T10:00:00+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-26T11:30:47.471794+00:00"
+  },
+  {
+   "id": "cb854f1d801f1db8",
+   "title": "I Deliberately Bet Like a Problem Gambler. DraftKings Made Me a VIP.",
+   "url": "https://www.propublica.org/article/draftkings-sports-gambling-problem-vip-fanduel",
+   "summary": "The post I Deliberately Bet Like a Problem Gambler. DraftKings Made Me a VIP. appeared first on ProPublica.",
+   "published": "2026-09-26T09:00:00+00:00",
+   "source": "ProPublica",
+   "source_id": "propublica",
+   "bias_note": "investigative",
+   "first_seen": "2026-09-26T11:30:48.067106+00:00"
+  },
+  {
+   "id": "b8305af197a3af81",
+   "title": "What Does Your Data Reveal About Sports Betting Apps? Help ProPublica Find Out.",
+   "url": "https://projects.propublica.org/sports-betting-uploader",
+   "summary": "The post What Does Your Data Reveal About Sports Betting Apps? Help ProPublica Find Out. appeared first on ProPublica.",
+   "published": "2026-09-26T08:55:00+00:00",
+   "source": "ProPublica",
+   "source_id": "propublica",
+   "bias_note": "investigative",
+   "first_seen": "2026-09-26T11:30:48.067112+00:00"
+  },
+  {
+   "id": "77b10b070de87ddd",
+   "title": "\u2018The weaker he gets, the more dangerous he gets\u2019: Trump lashes out as his power wanes",
+   "url": "https://www.theguardian.com/news/ng-interactive/2026/sep/25/trump-lashes-out-un-fed-supreme-court",
+   "summary": "Trump tries to dominate at the UN as his approval ratings plummet and even some Republicans stray from the scriptDonald Trump stood before the United Nations on Tuesday and threatened to \u201cannihilate\u201d Iran. Yet even as the most powerful man on the planet flexed his military muscles, he was powerless to keep the gravitational pull of domestic politics at bay.Heading into the UN building in New York, the US president was questioned by Kaitlan Collins, an anchor at CNN, which he had banned from the White House before a judge ruled against him. \u201cI\u2019m surprised that CNN is here covering me,\u201d the 80-y",
+   "published": "2026-09-26T06:00:27+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-09-26T11:30:47.168344+00:00"
+  },
   {
    "id": "2fbedf30d8000404",
    "title": "Fact Sheet: President Donald J. Trump Advances a Fair and Reciprocal Relationship with China While Hosting Historic State Visit",
@@ -12156,105 +12244,6 @@
    "source_id": "guardian-uspolitics",
    "bias_note": "left-leaning",
    "first_seen": "2026-09-12T12:12:25.370921+00:00"
-  },
-  {
-   "id": "035b303caf282ab9",
-   "title": "Trump says he would 'love' to see Ireland unified as one nation",
-   "url": "https://www.foxnews.com/politics/trump-says-he-would-love-see-ireland-unified-one-nation",
-   "summary": "Speaking to reporters, President Donald Trump said he hopes to see the island of Ireland become one country in the future, describing reunification as beneficial and predicting it will happen over time.",
-   "published": "2026-09-12T11:13:05+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-09-12T12:12:24.384227+00:00"
-  },
-  {
-   "id": "be8ada3e02b7f1ae",
-   "title": "\u2018The president doesn\u2019t want you here any more\u2019: Anthony Scaramucci on what really happened during the 11 days he worked in the White House",
-   "url": "https://www.theguardian.com/us-news/2026/sep/12/anthony-scaramucci-11-days-white-house-fired-donald-trump-book",
-   "summary": "Sacked after less than two weeks as Donald Trump\u2019s communications director, the financier and podcaster reflects on the mistakes he made in an exclusive extract from his new book\u2022 Plus: What it\u2019s like to be fired by Trump, by four people who know19 July 2017. My phone rings. White House operator: \u201cPlease hold for the president.\u201dI do. Of course. Continue reading...",
-   "published": "2026-09-12T11:00:35+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-09-12T12:12:25.370928+00:00"
-  },
-  {
-   "id": "fcbaec148d4d994f",
-   "title": "\u2018There\u2019s a weird market failure in media\u2019: David Brooks on how his new podcast will tackle the big questions",
-   "url": "https://www.theguardian.com/media/2026/sep/12/david-brooks-podcast-permanent-questions",
-   "summary": "The former New York Times columnist is taking a step away from politics to focus on moral and humanistic concerns the media rarely coverDavid Brooks knows there are plenty of podcasts out there. But as the veteran commentator prepares to launch his own, he believes there is still space for someone to tackle the big moral questions facing us all.Brooks, who left the New York Times in February after 22 years and joined the Atlantic magazine full-time as a staff writer, hopes to fill that market gap with a new video podcast called The Permanent Questions, funded in part by Yale University, that w",
-   "published": "2026-09-12T11:00:33+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-09-12T12:12:25.370938+00:00"
-  },
-  {
-   "id": "8f251fb7fa52df0d",
-   "title": "\u2018I said, if you want to fire me, just fire me. And so he did\u2019: my showdown with Donald Trump",
-   "url": "https://www.theguardian.com/us-news/2026/sep/12/fired-showdown-donald-trump-us-president-interview-stories",
-   "summary": "What\u2019s it like to be shown the door by the US president? A former national security adviser, an Apprentice contestant and more share their stories\u2022 Plus: The truth about my 11 days in the White House, by Anthony ScaramucciGene Folkes, 62, based in Manhattan, was a contestant on season 10 of The Apprentice, which aired in 2010. A&nbsp;former air force recruiter until 1991, he retrained as an investment banker, then launched his own business before appearing on the reality show. He was fired by Trump in episode 5. He now runs the technology consulting firm OshunX and hosts a podcast, Folkes Unfe",
-   "published": "2026-09-12T11:00:32+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-09-12T12:12:25.370946+00:00"
-  },
-  {
-   "id": "2a9d51749c0113bc",
-   "title": "Pennsylvania lawmaker suggests Trump should rename Lake Erie to 'Lake Pennsylvania'",
-   "url": "https://www.foxnews.com/politics/pennsylvania-lawmaker-suggests-trump-should-rename-lake-erie-lake-pennsylvania",
-   "summary": "Pennsylvania state Rep. David Maloney wants President Donald Trump to rename Lake Erie to &quot;Lake Pennsylvania,&quot; following recent name changes to other bodies of water.",
-   "published": "2026-09-12T10:03:49+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-09-12T12:12:24.384231+00:00"
-  },
-  {
-   "id": "5dbd28bc22ab6276",
-   "title": "Trump personality cult alive and well in Dallas \u2013 will it power Republican midterm success?",
-   "url": "https://www.theguardian.com/us-news/2026/sep/12/trump-dallas-midterms-convention-republicans",
-   "summary": "President the star of the show at two-day convention, but party\u2019s plan to treat November elections as referendum on Trump himself poses grave risks\u201cWe\u2019re going to have a good time listening to music,\u201d Donald Trump told thousands of supporters in downtown Dallas before handing the mic to an opera singer, \u201cbecause I\u2019m getting a little bit tired of politics now.\u201dMillions of Americans seem tired of politics after a decade dominated by Trump. So the US president\u2019s decision to close out this week\u2019s first ever Republican midterm convention with a plea \u2013 treat November\u2019s congressional elections as a r",
-   "published": "2026-09-12T10:00:32+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-09-13T11:58:17.451849+00:00"
-  },
-  {
-   "id": "aed67f589b30284e",
-   "title": "Exclusive: Nobel laureate freed by Trump urges hard line in new Belarus talks",
-   "url": "https://thehill.com/policy/international/6084537-bialiatski-urges-more-concessions/",
-   "summary": "Ales Bialiatski, the Belarusian human rights activist and Nobel Peace Prize laureate freed by President Trump, is grateful for the U.S. intervention that saved his life and hundreds of other political prisoners. But he is also urging the administration to demand greater concessions from the country\u2019s dictator Alexander Lukashenko in exchange for U.S. sanctions relief,...",
-   "published": "2026-09-12T10:00:00+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-12T12:12:25.647161+00:00"
-  },
-  {
-   "id": "1eddf785fa87d936",
-   "title": "Trump pledges $5K checks if Republicans do well in the midterms. Can he legally do that?",
-   "url": "https://thehill.com/homenews/administration/6085556-trump-midterm-dividend-legal-questions/",
-   "summary": "President Trump's pledge to\u00a0give $5,000 to every U.S. adult\u00a0if Republicans keep control of both chambers of Congress in the midterm elections has raised questions over whether the plan could cross legal lines. \u00a0 The president announced the so-called \"Trump dividends\" on the first night of the Republican National Committee's (RNC) midterm convention in Dallas this...",
-   "published": "2026-09-12T10:00:00+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-12T12:12:25.647167+00:00"
-  },
-  {
-   "id": "c5adb9614327f28b",
-   "title": "The Memo: Trump\u2019s convention may struggle to turn tide for GOP",
-   "url": "https://thehill.com/homenews/campaign/6085663-trump-republican-midterm-convention-impact/",
-   "summary": "President Trump basked in the approval of the MAGA base during this week\u2019s Republican midterm convention in Dallas. But the bigger question is whether the event made any difference to a political landscape that is seriously challenging for Republicans as Election Day looms less than eight weeks away. The Hill\u2019s data partner Decision Desk HQ...",
-   "published": "2026-09-12T10:00:00+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-12T12:12:25.647174+00:00"
   }
  ]
 }
