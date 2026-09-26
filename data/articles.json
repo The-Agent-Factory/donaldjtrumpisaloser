@@ -1,7 +1,73 @@
 {
- "updated": "2026-09-25T23:19:46.854177+00:00",
- "count": 1109,
+ "updated": "2026-09-26T05:05:34.721090+00:00",
+ "count": 1114,
  "articles": [
+  {
+   "id": "2fbedf30d8000404",
+   "title": "Fact Sheet: President Donald J. Trump Advances a Fair and Reciprocal Relationship with China While Hosting Historic State Visit",
+   "url": "https://www.whitehouse.gov/fact-sheets/2026/09/fact-sheet-president-donald-j-trump-advances-a-fair-and-reciprocal-relationship-with-china-while-hosting-historic-state-visit/",
+   "summary": "DELIVERING FOR AMERICANS:&#160;This week, President Donald J. Trump and First Lady Melania Trump hosted President Xi Jinping and Madame Peng Liyuan of the People\u2019s Republic of China for a reciprocal State Visit. During the visit, President Trump advanced the U.S.-China relationship and put the American people first.&#160; OPERATIONALIZING THE BOARDS OF TRADE AND INVESTMENT:&#160;This week, [&#8230;]\nThe post Fact Sheet: President Donald J. Trump Advances a Fair and Reciprocal Relationship with China While Hosting Historic State Visit appeared first on The White House.",
+   "published": "2026-09-26T03:29:32+00:00",
+   "source": "WhiteHouse.gov News",
+   "source_id": "whitehouse",
+   "bias_note": "official/primary-source",
+   "first_seen": "2026-09-26T05:05:32.401577+00:00"
+  },
+  {
+   "id": "a255f9d98f554207",
+   "title": "CNN says its reporters were barred from joining press pool on Air Force One",
+   "url": "https://thehill.com/media/6112790-trump-cnn-barred-air-force-one/",
+   "summary": "CNN reported its journalists have been barred from joining the press pool traveling with President Trump this weekend. They were set to board Air Force One Saturday to cover his visit to Knoxville for a college football game.\u00a0 The outlet had been scheduled to serve as this weekend's TV press pooler \u2014 a rotating group...",
+   "published": "2026-09-26T02:14:15+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-26T05:05:33.386633+00:00"
+  },
+  {
+   "id": "902d5b72743dbb85",
+   "title": "Trump rescinds nearly $1B in federal funding, bypassing congressional approval",
+   "url": "https://thehill.com/homenews/administration/6112779-trump-cancels-billion-federal-funding/",
+   "summary": "President Trump cancelled almost $1 billion in federal funding Friday using the controversial \u201cpocket rescission\" process, which allows him to sidestep congressional approval. Most of the cancellations targeted Health and Human Services (HHS) programs serving undocumented immigrants and unaccompanied children in court, as well as similar initiatives under the agency's Minority Health office and the...",
+   "published": "2026-09-26T01:50:22+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-26T05:05:33.386642+00:00"
+  },
+  {
+   "id": "a1cf8c32963b7ee1",
+   "title": "White House blocks CNN from Air Force One in latest escalation with news media",
+   "url": "https://www.theguardian.com/us-news/2026/sep/25/white-house-cnn-air-force-one",
+   "summary": "Outlet had been scheduled to fly with Donald Trump to Tennessee for a college football game, network said FridayThe White House has blocked CNN from traveling aboard Air Force One on Saturday, impeding its TV press pool duties in the latest escalation of the administration\u2019s battle with the news media.CNN had been scheduled to fly with Donald Trump to Tennessee for a college football game, the network said on Friday. The White House confirmed CNN\u2019s exclusion when it did not list the network on guidance sent to the press corps regarding Trump\u2019s schedule for Saturday. Continue reading...",
+   "published": "2026-09-26T01:31:05+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-09-26T05:05:32.995201+00:00"
+  },
+  {
+   "id": "ed42b39c553894b8",
+   "title": "Trump cancels nearly $1bn in funding approved by Congress",
+   "url": "https://www.theguardian.com/us-news/2026/sep/25/trump-cancels-congress-funding",
+   "summary": "President using rare power to revoke expenditure with bipartisan approval to aid immigrant servicesDonald Trump is canceling nearly $1bn in spending approved by Congress, the White House announced on Friday, using a rare and contested power to axe funding for immigrant services and diversity-focused initiatives.Trump\u2019s office of management and budget described the funding cut as focused on \u201cthe most harmful government spending\u201d. Continue reading...",
+   "published": "2026-09-26T01:00:34+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-09-26T05:05:32.995213+00:00"
+  },
+  {
+   "id": "410c71f85c60c4ef",
+   "title": "GOP senators not happy with Trump's embrace of Xi after China helped Iran",
+   "url": "https://thehill.com/policy/defense/overnights/6112699-gop-senators-dismay-trump-xi-welcome/",
+   "summary": "Welcome to The Hill's Defense &#038; NatSec newsletter {beacon} Defense &#038;National Security Defense &#038;National Security &#8202; The Big Story  GOP senators not happy with Trump's embrace of Xi after China helped Iran Republican senators are dismayed over President Trump\u2019s lavish welcome of Chinese President Xi Jinping to the U.S. after the discovery that Iran used...",
+   "published": "2026-09-25T23:36:03+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-26T05:05:33.386664+00:00"
+  },
   {
    "id": "763674099d5cc5ba",
    "title": "White House claims pro-Trump ad it paid Fox to air was \u2018public service announcement\u2019",
@@ -12189,17 +12255,6 @@
    "source_id": "thehill",
    "bias_note": "center",
    "first_seen": "2026-09-12T12:12:25.647174+00:00"
-  },
-  {
-   "id": "e431361a22293cc7",
-   "title": "Bacon says he's mulling 2028 White House bid",
-   "url": "https://thehill.com/homenews/campaign/6085724-don-bacon-considers-2028-presidency/",
-   "summary": "Rep. Don Bacon (R-Neb.) said he is considering a run for president in 2028 as he prepares to leave Congress next year. Bacon, who has previously floated a bid for the White House, said in an interview to be released in full Saturday that he would \u201clove\u201d to run. \u201cI won\u2019t lie. Yes, I would...",
-   "published": "2026-09-12T00:50:58+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-12T07:12:08.203118+00:00"
   }
  ]
 }
