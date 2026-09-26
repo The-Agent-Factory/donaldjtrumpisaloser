@@ -1,7 +1,161 @@
 {
- "updated": "2026-09-26T16:28:04.909667+00:00",
- "count": 1110,
+ "updated": "2026-09-26T21:14:50.367231+00:00",
+ "count": 1115,
  "articles": [
+  {
+   "id": "449fcae9f33aa473",
+   "title": "Sunday shows preview: Trump rejects Iran deal after week of high-stakes meetings; GOP clammers to keep Congress",
+   "url": "https://thehill.com/homenews/sunday-talk-shows/6113249-sunday-shows-trump-rejects-iran-proposal/",
+   "summary": "President Trump rejected a new seven-day proposal from Iran Saturday morning to reopen the Strait of Hormuz and halt military operations in the ongoing conflict between Tehran and the U.S. \u201cThey want to make a deal, and I think that\u2019s fine,\u201d the president told reporters at the White House. \u201cI like making a deal, too, but...",
+   "published": "2026-09-26T21:02:36+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-26T21:14:49.524651+00:00"
+  },
+  {
+   "id": "0efa634cfa7dade8",
+   "title": "Trump calls Iranian plan to reopen Strait of Hormuz not 'acceptable'",
+   "url": "https://www.npr.org/2026/09/26/nx-s1-5981990/trump-rejects-iranian-deal-strait-of-hormuz",
+   "summary": "President Trump said he was rejecting an Iranian plan to reopen the Strait of Hormuz. The Iranian proposal is similar to a memorandum of understanding agreed upon by the U.S. and Iran back in June.",
+   "published": "2026-09-26T20:08:28+00:00",
+   "source": "NPR Politics",
+   "source_id": "npr-politics",
+   "bias_note": "center",
+   "first_seen": "2026-09-26T21:14:49.232750+00:00"
+  },
+  {
+   "id": "f40714e92bddf2a7",
+   "title": "No. 1 Texas escapes Tennessee with thrilling SEC victory as President Trump watches on from Neyland Stadium",
+   "url": "https://www.foxnews.com/outkick-sports/texas-defense-rocks-tennessee-freshman-qb-strong-sec-victory-trump-attendance",
+   "summary": "Texas silenced Neyland Stadium, as Colin Simmons recorded five sacks and Raleek Brown scored twice to beat Tennessee with President Donald Trump watching.",
+   "published": "2026-09-26T19:53:25+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-26T21:14:48.848919+00:00"
+  },
+  {
+   "id": "82887a67353d503d",
+   "title": "Donald Trump attends a big college football game with plan in place to protect communications",
+   "url": "https://abcnews.com/Politics/wireStory/donald-trump-attends-big-college-football-game-plan-136778189",
+   "summary": "Encouraging fans to get inside Neyland Stadium earlier than usual with President Donald Trump coming to Tennessee's college football game against Texas sure worked Saturday",
+   "published": "2026-09-26T19:46:24+00:00",
+   "source": "ABC News Politics",
+   "source_id": "abc-politics",
+   "bias_note": "center",
+   "first_seen": "2026-09-26T21:14:50.115025+00:00"
+  },
+  {
+   "id": "c8e779130f76db86",
+   "title": "Lauren S\u00e1nchez Bezos sparks backlash with \u2018inappropriate\u2019 plunging dress at state dinner",
+   "url": "https://www.foxnews.com/entertainment/lauren-sanchez-bezos-sparks-backlash-inappropriate-plunging-dress-state-dinner",
+   "summary": "Lauren S\u00e1nchez Bezos sparked fierce debate over her plunging black dress at the White House state dinner honoring Chinese President Xi Jinping.",
+   "published": "2026-09-26T18:55:51+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-26T21:14:48.848956+00:00"
+  },
+  {
+   "id": "78b8d264b7dc443d",
+   "title": "Trump claims stunning casualty numbers in Russia-Ukraine war",
+   "url": "https://www.foxnews.com/politics/trump-reveals-stunning-casualty-numbers-russia-ukraine-war",
+   "summary": "Trump claims 25,000 people died last month in the Ukraine-Russia war and reveals he pushed Volodomyr Zelenskyy to settle with Vladimir Putin.",
+   "published": "2026-09-26T18:43:30+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-26T21:14:48.829125+00:00"
+  },
+  {
+   "id": "0ee6d03f6666778f",
+   "title": "Former UK Prime Minister Tony Blair warns Europe \u2018we don\u2019t win\u2019 in war without US support",
+   "url": "https://www.foxnews.com/media/former-uk-prime-minister-tony-blair-warns-europe-dont-win-war-without-us-support",
+   "summary": "Former U.K. Prime Minister Tony Blair insisted British leaders should preserve their alliance with Trump, calling the U.S. &quot;indispensable&quot; to security.",
+   "published": "2026-09-26T18:39:22+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-26T21:14:48.848962+00:00"
+  },
+  {
+   "id": "6dffaa4490fee4a9",
+   "title": "Someone could have opened an account in your name. Check now",
+   "url": "https://www.foxnews.com/tech/someone-could-opened-account-your-name-check-now",
+   "summary": "New account fraud victims jumped 31% in 2025, reaching 5.4 million. Criminals open accounts you may never see on your regular bank statements.",
+   "published": "2026-09-26T18:30:20+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-26T21:14:48.848968+00:00"
+  },
+  {
+   "id": "c19b3e7bbcab702b",
+   "title": "Poll: Trump\u2019s MAGA loyalists don\u2019t think he has an affordability problem",
+   "url": "https://www.politico.com/news/2026/09/26/poll-affordability-trump-maga-splits-01086222",
+   "summary": "A recent POLITICO Poll found that cost of living concerns are reinforcing partisanship divides \u2014 and driving a wedge among Republicans.",
+   "published": "2026-09-26T18:00:00+00:00",
+   "source": "Politico",
+   "source_id": "politico",
+   "bias_note": "center",
+   "first_seen": "2026-09-26T21:14:49.458368+00:00"
+  },
+  {
+   "id": "0d6c405525932271",
+   "title": "Trump's home county hits pause on data centers over environment and electric bill concerns",
+   "url": "https://www.foxnews.com/politics/trumps-home-county-hits-pause-data-centers-environment-electric-bill-concerns",
+   "summary": "Palm Beach County passed a one-year moratorium on data centers amid concerns over environmental impact, noise pollution, and rising electric bills.",
+   "published": "2026-09-26T17:58:21+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-26T21:14:48.829135+00:00"
+  },
+  {
+   "id": "ffcd049dda1bf6de",
+   "title": "House Dems plan oversight of Trump administration; impeachment an option",
+   "url": "https://abcnews.com/Politics/wireStory/house-democrats-plan-vast-oversight-trump-administration-impeachment-136778557",
+   "summary": "Democrats are preparing an agenda if the party sweeps control in November.",
+   "published": "2026-09-26T17:38:26+00:00",
+   "source": "ABC News Politics",
+   "source_id": "abc-politics",
+   "bias_note": "center",
+   "first_seen": "2026-09-26T21:14:50.115047+00:00"
+  },
+  {
+   "id": "3dd25706de5081ba",
+   "title": "Trump administration uses rare authority to claw back nearly $1B in spending approved by Congress",
+   "url": "https://www.pbs.org/newshour/politics/trump-administration-uses-rare-authority-to-claw-back-nearly-1b-in-spending-approved-by-congress",
+   "summary": "Most of the cuts are focused on Health and Human Services programs that serve refugees and unaccompanied minors accused of being in the country illegally.",
+   "published": "2026-09-26T17:20:24+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-09-26T21:14:49.867912+00:00"
+  },
+  {
+   "id": "6ced93d77fd4ec79",
+   "title": "CNN says it was left off Air Force One for Trump's Saturday trip to a college football game",
+   "url": "https://www.pbs.org/newshour/politics/cnn-says-it-was-left-off-air-force-one-for-trumps-saturday-trip-to-a-college-football-game",
+   "summary": "CNN, a member of the U.S. network video pool that rotates duties shooting and sharing video coverage of the president, reported it had been scheduled to fly aboard the president's plane Saturday for a scheduled visit to a college football game.",
+   "published": "2026-09-26T16:35:39+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-09-26T21:14:49.867918+00:00"
+  },
+  {
+   "id": "b15b8bb362bc144b",
+   "title": "Presidential Message on National Hunting and Fishing Day",
+   "url": "https://www.whitehouse.gov/briefings-statements/2026/09/presidential-message-on-national-hunting-and-fishing-day/",
+   "summary": "For over 250 years, America\u2019s hunters and anglers have been faithful stewards of our great outdoors\u2014respecting the land, pursuing their sport with honor, and preserving our lands and waters. &#160;On National Hunting and Fishing Day, we pay tribute to the American sportsmen, hunters, and fishermen who protect our abundant resources, cherish our Nation\u2019s natural beauty, [&#8230;]\nThe post Presidential Message on National Hunting and Fishing Day appeared first on The White House.",
+   "published": "2026-09-26T16:26:20+00:00",
+   "source": "WhiteHouse.gov News",
+   "source_id": "whitehouse",
+   "bias_note": "official/primary-source",
+   "first_seen": "2026-09-26T21:14:48.898435+00:00"
+  },
   {
    "id": "57e15ef0c02dfdb8",
    "title": "SEC crowd greets Trump with massive cheers ahead of Tennessee-Texas showdown",
@@ -12112,105 +12266,6 @@
    "source_id": "pbs-politics",
    "bias_note": "center",
    "first_seen": "2026-09-12T22:21:25.274345+00:00"
-  },
-  {
-   "id": "70af65d47477a5d4",
-   "title": "Trump's childhood home sells for nearly $2 million",
-   "url": "https://thehill.com/blogs/in-the-know/6086315-trump-nyc-childhood-home-sale/",
-   "summary": "President Trump\u2019s New York City childhood home sold for $1.93 million following renovations that transformed the previously damaged property.\u00a0 The Tudor-style house was bought by an undisclosed buyer through a contract in July though the home has changed hands multiple times since the president resided there. The seller Tommy Lin bought it last year for...",
-   "published": "2026-09-12T20:41:41+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-12T22:21:25.051766+00:00"
-  },
-  {
-   "id": "7da793b15e3a21c2",
-   "title": "Sunday shows preview: Republicans talk strategy as midterms approach; Iran conflict, Canada trade war leave economy in flux",
-   "url": "https://thehill.com/homenews/sunday-talk-shows/6086297-sunday-shows-republicans-strategy-economy-struggles/",
-   "summary": "Republican leaders traveled to Dallas this week for the GOP\u2019s midterm convention, fueling the party's President Trump-forward midterm strategy, as the party fights to maintain control in both chambers of Congress this November. The two-day event featured keynote speeches from Trump and Vice President Vance, tributes to the late conservative activist Charlie Kirk and warnings...",
-   "published": "2026-09-12T20:35:42+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-12T22:21:25.051776+00:00"
-  },
-  {
-   "id": "a676d8bbe5ed8afb",
-   "title": "Talarico rips Trump's 'corny nicknames' for opponents in Kimmel interview",
-   "url": "https://thehill.com/homenews/media/6086319-talarico-brushed-off-trump-nickname/",
-   "summary": "Texas Democratic Senate nominee James Talarico brushed off President Trump's nickname for him, \"Talafreako,\" in an interview posted online by late-night host Jimmy Kimmel. \u201cI think his nicknames are getting cornier and cornier,\u201d Talarico told Kimmel, who earlier this week said ABC decided\u00a0against airing the interview over what Kimmel called threats from the Federal Communications...",
-   "published": "2026-09-12T20:27:54+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-12T22:21:25.051786+00:00"
-  },
-  {
-   "id": "a133dc53daee74a0",
-   "title": "Art Garfunkel joins growing list of celebrities considering a move abroad over Trump presidency",
-   "url": "https://www.foxnews.com/media/art-garfunkel-joins-growing-list-celebrities-considering-move-abroad-over-trump-presidency",
-   "summary": "Art Garfunkel joins Rosie O&apos;Donnell and Ellen DeGeneres on a growing list of celebrities vowing to move abroad under Trump&apos;s presidency and policies.",
-   "published": "2026-09-12T19:35:28+00:00",
-   "source": "Fox News Latest",
-   "source_id": "foxnews-latest",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-09-12T22:21:24.123397+00:00"
-  },
-  {
-   "id": "af43d2d09e9856a6",
-   "title": "Trump asks Smithsonian to install \u2018Colossus statue\u2019 of George Washington with exhibit",
-   "url": "https://www.theguardian.com/us-news/2026/sep/12/trump-smithsonian-george-washington-statue-exhibit",
-   "summary": "Trump, again trying to curate museum, says exhibit would stay until 2032 for 300th anniversary of Washington\u2019s birthDonald Trump asked the Smithsonian Institution to install a 30ft \u201cColossus statue\u201d of George Washington outside the National Museum of American History, and a special exhibit honoring the nation\u2019s first president, in a social media post late on Friday.The president requested that the exhibit continue through February 2032, the 300th anniversary of Washington\u2019s birth. Continue reading...",
-   "published": "2026-09-12T19:32:32+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-09-12T22:21:24.853776+00:00"
-  },
-  {
-   "id": "cb3e62e051772c4d",
-   "title": "AP analysis: Justice Department went after protesters for felony assault, but juries and judges were unconvinced",
-   "url": "https://www.pbs.org/newshour/politics/ap-analysis-justice-department-went-after-protesters-for-felony-assault-but-juries-and-judges-were-unconvinced",
-   "summary": "The Associated Press' analysis focused on arrests made during protests last summer and fall in LA, Chicago, Portland and Washington, D.C. \u2014 cities with significant protests where President Donald Trump sought to or successfully deployed the National Guard.",
-   "published": "2026-09-12T18:46:38+00:00",
-   "source": "PBS NewsHour Politics",
-   "source_id": "pbs-politics",
-   "bias_note": "center",
-   "first_seen": "2026-09-12T22:21:25.274356+00:00"
-  },
-  {
-   "id": "8c35358506daca92",
-   "title": "Trump political adviser is 'cautiously optimistic' about GOP in upcoming midterms",
-   "url": "https://thehill.com/homenews/administration/6086235-trump-adviser-gop-midterm-optimism/",
-   "summary": "A top political adviser to President Trump said he is \u201ccautiously optimistic\u201d that Republicans can keep control of Congress in November, despite political headwinds for the party and the president\u2019s sinking approval ratings. \"I won\u2019t predict, you know, how many seats are going to be in either chamber come November,\" James Blair told NBC News's...",
-   "published": "2026-09-12T18:15:48+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-12T18:26:55.236103+00:00"
-  },
-  {
-   "id": "cffe69439941fa6b",
-   "title": "Blue state governor's pardon of convicted felon torpedos a major Supreme Court immigration fight",
-   "url": "https://www.foxnews.com/politics/blue-state-governors-pardon-convicted-felon-torpedos-major-supreme-court-immigration-fight",
-   "summary": "Kathy Hochul pardoned a convicted noncitizen, effectively mooting a Supreme Court case on bond hearing rights for detained immigrants facing deportation.",
-   "published": "2026-09-12T17:19:08+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-09-12T18:26:53.989965+00:00"
-  },
-  {
-   "id": "c84172b9ccbd6c52",
-   "title": "Trump touches a nerve while in Ireland by saying reunification would be 'fantastic'",
-   "url": "https://www.pbs.org/newshour/politics/trump-touches-a-nerve-while-in-ireland-by-saying-reunification-would-be-fantastic",
-   "summary": "At a meeting with Irish Prime Minister Miche\u00e1l Martin in Dublin, Trump said he would love to see the reunification of the Republic of Ireland with the United Kingdom's Northern Ireland.",
-   "published": "2026-09-12T17:11:01+00:00",
-   "source": "PBS NewsHour Politics",
-   "source_id": "pbs-politics",
-   "bias_note": "center",
-   "first_seen": "2026-09-12T18:26:55.453058+00:00"
   }
  ]
 }
