@@ -1,7 +1,205 @@
 {
- "updated": "2026-09-27T08:16:49.549257+00:00",
- "count": 1117,
+ "updated": "2026-09-27T14:05:48.133270+00:00",
+ "count": 1121,
  "articles": [
+  {
+   "id": "eb4add817ab86c41",
+   "title": "Saturday Night Live: Jalen Brunson makes for stiff host in underwhelming season premiere",
+   "url": "https://www.theguardian.com/tv-and-radio/2026/sep/27/saturday-night-live-season-premiere-jalen-brunson",
+   "summary": "There are some promising moments from newer cast members, but the show\u2019s return, after a politically tumultuous period, was lacking in biteThe 52nd season of Saturday Night Live opens inside the New York City mayor\u2019s office. Mayor Zohran Mamdani (Ramy Youssef, reprising the role from last season) gets a surprise visit from Donald Trump (James Austin Johnson). The president, who \u201cfor some reason that no one can figure out\u201d loves Mamdani, has braved the big El Ni\u00f1o storm to visit his \u201cday one\u201d.Trump unloads about his busy week \u2013 banning members of the press from the White House pool, delivering ",
+   "published": "2026-09-27T13:50:38+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-09-27T14:05:46.968525+00:00"
+  },
+  {
+   "id": "5fb9047d4f91ab92",
+   "title": "Two giant pandas set off to Atlanta zoo from China after Xi-Trump summit",
+   "url": "https://www.theguardian.com/us-news/2026/sep/27/giant-pandas-atlanta-zoo-china-xi-trump-summit",
+   "summary": "Pandas departed Chengdu for their new homes in Georgia as part of agreement between Chinese and US governmentsTwo giant pandas departed Chengdu in south-western China early on Sunday for their new homes in Atlanta, Georgia, as part of an agreement between the Chinese and US governments.While in Washington DC for a three-day summit with Donald Trump, Chinese president Xi Jinping announced that the pandas would arrive in Atlanta in the coming days. The loan of the pandas to the Atlanta zoo was one of the few concrete outcomes to come out of Xi\u2019s state visit with the US president, which saw expre",
+   "published": "2026-09-27T13:14:42+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-09-27T14:05:46.968537+00:00"
+  },
+  {
+   "id": "70820dc0414c950c",
+   "title": "America needs an ironclad, bipartisan commitment to press freedom",
+   "url": "https://thehill.com/opinion/white-house/6112000-trump-white-house-press-ban/",
+   "summary": "Donald Trump\u2019s long-running conflict with the American news media has reached a point that demands a broader response.",
+   "published": "2026-09-27T13:00:00+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-27T14:05:47.236523+00:00"
+  },
+  {
+   "id": "3a4a94f9d1dc427a",
+   "title": "Trump's Greenland obsession isn\u2019t random. Here\u2019s what\u2019s at stake",
+   "url": "https://www.foxnews.com/politics/trumps-greenland-obsession-isnt-random-heres-whats-stake",
+   "summary": "Greenland&apos;s untapped rare earth minerals, oil and gas reserves could reshape U.S. energy security as Trump&apos;s Denmark deal expands military presence.",
+   "published": "2026-09-27T12:55:32+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-27T14:05:46.297447+00:00"
+  },
+  {
+   "id": "17c0b5e2001fffc7",
+   "title": "Trump reaffirms ICE arrest policy after confusing guidance sparks alarm among agents",
+   "url": "https://www.foxnews.com/politics/trump-reaffirms-ice-arrest-policy-confusing-guidance-sparks-alarm-agents",
+   "summary": "Trump told officials that anyone in the country illegally remains &quot;on the table&quot; for arrest and deportation after internal ICE guidance caused confusion.",
+   "published": "2026-09-27T12:34:41+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-27T14:05:46.297457+00:00"
+  },
+  {
+   "id": "7062c84eddc65cfc",
+   "title": "Live updates: Trump attends Presidents Cup final; top Iranian officials set for US interviews",
+   "url": "https://thehill.com/homenews/administration/6113491-live-updates-trump-presidents-cup-chicago-iran/",
+   "summary": "President Trump is slated to attend the final round of the Presidents Cup golf tournament in Chicago Sunday morning, roughly a month after PGA Tour named him the event's honorary chair. Trump last attended the competition in 2017 during his first term, where he presented the trophy to the winning team. It is unclear whether...",
+   "published": "2026-09-27T12:30:00+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-27T14:05:47.236537+00:00"
+  },
+  {
+   "id": "5c7c30026dd7af16",
+   "title": "Ohio governor's race: Ramaswamy and Acton clash in rare Democratic pickup opportunity",
+   "url": "https://www.npr.org/2026/09/27/nx-s1-5976743/ohio-governors-race-ramaswamy-and-acton-clash-in-rare-democratic-pickup-opportunity",
+   "summary": "The Ohio governor's race pits Vivek Ramaswamy against Democrat Amy Acton. While Ramaswamy downplays his Trump tie and Acton faces pandemic-era scrutiny, Democrats eye a rare win in 40 years",
+   "published": "2026-09-27T12:06:23+00:00",
+   "source": "NPR Politics",
+   "source_id": "npr-politics",
+   "bias_note": "center",
+   "first_seen": "2026-09-27T14:05:46.837143+00:00"
+  },
+  {
+   "id": "5137d9e24b0cb98c",
+   "title": "Politics chat: Trump vs the media; rolling back health and education spending",
+   "url": "https://www.npr.org/2026/09/27/nx-s1-5978751/politics-chat-trump-vs-the-media-rolling-back-health-and-education-spending",
+   "summary": "We look at President Trump's fight with some of the White House press corps, as well as his attempt to claw back $810 million in Congressionally-approved funds for health and education spending.",
+   "published": "2026-09-27T12:06:20+00:00",
+   "source": "NPR Politics",
+   "source_id": "npr-politics",
+   "bias_note": "center",
+   "first_seen": "2026-09-27T14:05:46.837147+00:00"
+  },
+  {
+   "id": "d3cd447963e52ea9",
+   "title": "What Democrats are getting right \u2013 and wrong \u2013 in run-up to midterms: \u2018We can\u2019t just be anti-Trump\u2019",
+   "url": "https://www.theguardian.com/us-news/2026/sep/27/midterm-elections-democrats-yasmin-radjy",
+   "summary": "Grassroots organizer Yasmin Radjy on the Democratic ground game leading into the midterm electionsIn the run-up to the US midterm elections, Swing Left \u2013 a grassroots political group focused on electing Democrats to office \u2013 has spent time canvassing in dozens of districts across the country to hear from hundreds of thousands of voters.Now, with fewer than 40 days until the US midterm elections, the group\u2019s executive director, Yasmin Radjy, sets out what she feels Democrats have been getting right and wrong this election cycle, and why these races are vital for the party\u2019s future control of th",
+   "published": "2026-09-27T12:00:05+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-09-27T14:05:46.968546+00:00"
+  },
+  {
+   "id": "210d683b5ca8719d",
+   "title": "How the Trump administration is trying to defend its firing of Maurene Comey",
+   "url": "https://www.theguardian.com/us-news/2026/sep/27/maurene-comey-trump-administration-james-comey",
+   "summary": "Star federal prosecutor is fighting her no-cause firing, as DoJ dances around Trump\u2019s loathing of her father, James ComeyTwo weeks after Maurene Comey secured a guilty verdict against Sean \u201cDiddy\u201d Combs, the Manhattan federal prosecutor received a three-paragraph letter from top justice department authorities.\u201cYour employment with the Department of Justice is hereby terminated, and you are removed from federal service effective immediately,\u201d the 16 July missive from Francey Hakes, director of the DoJ\u2019s executive office for United States attorneys, said. Continue reading...",
+   "published": "2026-09-27T12:00:04+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-09-27T14:05:46.968553+00:00"
+  },
+  {
+   "id": "90f83a36e1147cbc",
+   "title": "Bad language: profane Trump brings presidential swearing out into open",
+   "url": "https://www.theguardian.com/us-news/2026/sep/27/trump-swearing-president-bad-language",
+   "summary": "President has let rip with swearwords in recent months, redefining norms about acceptable language in public officeWith a lifetime of political memories stretching back to John F Kennedy\u2019s assassination and the Black civil rights struggles of the 1960s, Cheryl Johnson had one complaint above all else about today\u2019s politicians: the swearing.\u201cAll this cursing in politics, we never heard that before,\u201d said Johnson, a retired social worker living in the Pittsburgh area. \u201cWords are very powerful, and the past 45 presidents of this country, have not used such vile language. Continue reading...",
+   "published": "2026-09-27T12:00:04+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-09-27T14:05:46.968561+00:00"
+  },
+  {
+   "id": "5d41494c2b7eb8fd",
+   "title": "Trump once called the national debt a 'time bomb' \u2014 he was right",
+   "url": "https://thehill.com/opinion/finance/6111892-national-debt-impact-economy/",
+   "summary": "The $40 trillion national debt is hitting Americans\u2019 pocketbooks right now.",
+   "published": "2026-09-27T12:00:00+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-27T14:05:47.236541+00:00"
+  },
+  {
+   "id": "6edb152088de548e",
+   "title": "Trump boasts about economy, slams 'fake news' amid media battle",
+   "url": "https://thehill.com/homenews/administration/6113577-trump-accuses-outlets-fake-news/",
+   "summary": "President Trump late Saturday boasted about the U.S. economy while accusing news outlets of \"fake news\" amid his battle over media coverage at the White House and of his administration. \"We have the BEST FINANCIAL NUMBERS EVER, and the FAKE NEWS MEDIA refuses to report them!!!\" Trump wrote on Truth Social. When asked on Saturday...",
+   "published": "2026-09-27T11:51:26+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-27T14:05:47.236543+00:00"
+  },
+  {
+   "id": "cb1641fae9802eff",
+   "title": "Iran \u2018miscalculating\u2019 by betting on midterms after 3-hour talks, Trump officials warn",
+   "url": "https://www.foxnews.com/politics/iran-miscalculating-betting-midterms-after-3-hour-talks-trump-officials-warn",
+   "summary": "President Donald Trump says Iran is waiting on midterm elections to cut a deal, but Marco Rubio warns Tehran misreads U.S. presidential powers.",
+   "published": "2026-09-27T11:00:03+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-27T14:05:46.297464+00:00"
+  },
+  {
+   "id": "00800b78f1b721eb",
+   "title": "I spent a full hour watching Trump TV. It\u2019s a digital pathway to hell | Dave Schilling",
+   "url": "https://www.theguardian.com/commentisfree/2026/sep/27/trump-tv-cable-news",
+   "summary": "The streaming channel was full of the president\u2019s vanity and myopia. It was also deeply, deeply dullAre you currently at an airport? Strapped to a hospital bed, with various tubes protruding from your body? Maybe you\u2019re on a treadmill or visiting an elder care facility? Chained to a radiator in the basement from the Saw movies?If you said yes to any of these questions, you might be watching cable news while reading this column. Or maybe you\u2019re one of the hundreds of people currently watching Donald Trump\u2019s answer to cable news, Trump TV \u2013 a YouTube streaming channel that airs nothing but White",
+   "published": "2026-09-27T11:00:03+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-09-27T14:05:46.968568+00:00"
+  },
+  {
+   "id": "9a67f2a9d151c70c",
+   "title": "Supreme Court\u2019s liberals see dash of progress on emergency appeals, or \u2018shadow docket\u2019",
+   "url": "https://thehill.com/regulation/court-battles/6112423-supreme-court-explaining-emergency-decisions/",
+   "summary": "The Supreme Court\u2019s liberal justices keep dissenting, but they also are seeing some progress on one front as the Trump administration floods the court with emergency appeals.  During recent talks to judges and law students, Justices Elena Kagan and Ketanji Brown Jackson both welcomed their colleagues\u2019 increasing willingness to pen opinions publicly explaining their fast-track...",
+   "published": "2026-09-27T10:00:00+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-27T14:05:47.236566+00:00"
+  },
+  {
+   "id": "2ca26f297b8a6fc1",
+   "title": "The Memo: Trump\u2019s media ban overshadows Xi visit as midterms clock runs down",
+   "url": "https://thehill.com/homenews/administration/6112681-trump-xi-visit-media-clash/",
+   "summary": "The key moment of President Trump\u2019s week did not come at the state dinner with Chinese premier Xi Jinping nor as the two leaders toured the National Archives. It came instead on social media. On Thursday afternoon, Trump proclaimed the arrival of Xi and his wife, Peng Liyuan, as \u201cmagnificent\u201d but bemoaned the sparsity of...",
+   "published": "2026-09-27T10:00:00+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-27T14:05:47.236570+00:00"
+  },
+  {
+   "id": "597705daad8df8f4",
+   "title": "Massive ICE sweep fuels GOP push to lock Trump immigration crackdown into law",
+   "url": "https://www.foxnews.com/politics/massive-ice-sweep-fuels-gop-push-lock-trump-immigration-crackdown-law",
+   "summary": "Hoosier Sen. Jim Banks says a five-day ICE operation netting 426 arrests in Indiana proves why Trump&apos;s mass deportation agenda must become law.",
+   "published": "2026-09-27T09:00:55+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-27T14:05:46.297486+00:00"
+  },
   {
    "id": "9f2bd8484d776f96",
    "title": "Nicki Minaj urges young Americans to 'vote red' in 2026 midterms while doubling down on Trump support",
@@ -12134,160 +12332,6 @@
    "source_id": "guardian-uspolitics",
    "bias_note": "left-leaning",
    "first_seen": "2026-09-13T16:23:46.598029+00:00"
-  },
-  {
-   "id": "092ebfe63bf489ab",
-   "title": "Trump gives Smithsonian days to replace 'strange modernist sculpture' with Founding Father",
-   "url": "https://www.foxnews.com/politics/trump-gives-smithsonian-days-replace-strange-modernist-sculpture-founding-father",
-   "summary": "President Donald Trump demands a 30-foot George Washington statue replace the &quot;Infinity&quot; sculpture outside the National Museum of American History in Washington.",
-   "published": "2026-09-13T14:05:04+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-09-13T14:50:26.349025+00:00"
-  },
-  {
-   "id": "92096ed9e0c23507",
-   "title": "'RedZone' returns for 18th season and, despite 15-second commercials, could still be on in the White House",
-   "url": "https://www.foxnews.com/outkick-sports/redzone-returns-18th-season-despite-15-second-commercials-could-still-be-white-house",
-   "summary": "Scott Hanson confirms &apos;RedZone&apos; will air limited 15-second commercials between plays this season, but promises fewer ads than last year&apos;s count",
-   "published": "2026-09-13T14:00:59+00:00",
-   "source": "Fox News Latest",
-   "source_id": "foxnews-latest",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-09-13T14:50:26.412997+00:00"
-  },
-  {
-   "id": "9833bdefa826f7b5",
-   "title": "Live updates: Lawmakers set to return from recess; Trump attends golf tournament in Ireland",
-   "url": "https://thehill.com/homenews/administration/6086633-live-updates-congress-returns-washington-agenda-trump-ireland/",
-   "summary": "House and Senate lawmakers will return to Washington this week with a packed agenda before much of their focus shifts to the fast-approaching midterm elections. The Senate is expected to continue talks over the budget resolution and hold a procedural vote on the cryptocurrency regulation bill, among other priorities. The House, meanwhile, will reportedly consider...",
-   "published": "2026-09-13T13:02:06+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-13T14:50:27.549161+00:00"
-  },
-  {
-   "id": "0b349e410c0add75",
-   "title": "Surging inflation puts interest rates back in focus as policymakers meet in Japan, US and UK",
-   "url": "https://www.theguardian.com/business/2026/sep/13/interest-rates-predicted-rise-us-uk-inflation-fears",
-   "summary": "Iran war and turbulent global bond markets add to pressure as rate decisions loom this week in major western economiesEconomics viewpoint: perilous UK economic conditions trace back to TrumpCentral bankers in economies including the US, Japan and the UK will face a moment of truth this week, as surging inflation raises the prospect of higher interest rates.Policymakers in all three countries will set rates in the next seven days against the backdrop of turbulent global bond markets. Continue reading...",
-   "published": "2026-09-13T12:33:16+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-09-13T14:50:27.221265+00:00"
-  },
-  {
-   "id": "105aa55ba1996123",
-   "title": "Politics chat: Trump's $5,000 promise to voters, Vance invokes Charlie Kirk",
-   "url": "https://www.npr.org/2026/09/13/nx-s1-5964863/politics-chat-trumps-5-000-promise-to-voters-vance-invokes-charlie-kirk",
-   "summary": "Following the midterm convention in Dallas, President Trump's $5,000 campaign promise has generated attention, but not belief. And, Vice President JD Vance characterizes Democrats as extremists.",
-   "published": "2026-09-13T12:04:27+00:00",
-   "source": "NPR Politics",
-   "source_id": "npr-politics",
-   "bias_note": "center",
-   "first_seen": "2026-09-13T14:50:26.986529+00:00"
-  },
-  {
-   "id": "133efd75c7cfa68b",
-   "title": "State of Texas: Paxton and Talarico in their own words",
-   "url": "https://thehill.com/homenews/campaign/6086429-state-of-texas-paxton-and-talarico-in-their-own-words/",
-   "summary": "At the Republican party\u2019s first-ever midterm convention, President Donald Trump called upon attendees in Dallas to support Ken Paxton in the upcoming Texas senatorial race.",
-   "published": "2026-09-13T11:03:00+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-13T11:58:17.555197+00:00"
-  },
-  {
-   "id": "985006313bc818d3",
-   "title": "Why is the Trump administration calling bike lanes \u2018DEI\u2019? | Dave Schilling",
-   "url": "https://www.theguardian.com/commentisfree/2026/sep/13/trump-administration-bike-lanes-dei",
-   "summary": "The government apparently has an issue with paths for cyclists. Take it from someone who can\u2019t ride a bike: this makes no senseI\u2019m out of gas. Not metaphorically. Literally, my car has the barest minimum amount of fuel in it. This is not because I like to live dangerously, a la the great literary hero Austin Powers, but because gas is more expensive than ever. I have nowhere to be today, so I\u2019m allowing my car to sit idle, empty and alone, lest my bank account disappear into the Phantom Zone of negative balance. If things get sticky, I can take public transit or, God forbid, ride a bike.Except",
-   "published": "2026-09-13T11:00:06+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-09-13T11:58:17.451801+00:00"
-  },
-  {
-   "id": "3990a12b835d9e1f",
-   "title": "\u2018Trump accounts\u2019 promise to mint child millionaires. Experts have their doubts",
-   "url": "https://www.theguardian.com/us-news/2026/sep/13/donald-trump-accounts-child-investment-wealth",
-   "summary": "President has hyped growth of federal investment accounts to help US children \u2013 for his own political gainSince returning to the White House, Donald Trump has scrapped rules that made childcare more affordable and pushed to cut funding for the nation\u2019s public schools. But with midterm elections fast approaching and his approval ratings very low, the US president has repeatedly trumpeted a two-month-old program designed to help the nation\u2019s children. That program, unhumbly named \u201cTrump accounts\u201d, calls for the federal government to give a one-time $1,000 seed deposit to every newborn whose fami",
-   "published": "2026-09-13T11:00:05+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-09-13T11:58:17.451757+00:00"
-  },
-  {
-   "id": "5a309e9f80cce1e0",
-   "title": "Vulnerable House Republicans embrace Trump as GOP bets on defying midterm history",
-   "url": "https://www.foxnews.com/politics/vulnerable-house-republicans-embrace-trump-gop-bets-defying-midterm-history",
-   "summary": "President Donald Trump urged Republicans to &quot;pretend that I&apos;m on the ballot,&quot; as vulnerable GOP incumbents rallied at the first-ever midterm convention.",
-   "published": "2026-09-13T10:00:45+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-09-13T11:58:17.193855+00:00"
-  },
-  {
-   "id": "91fbb3ea42c3ddba",
-   "title": "\u2018It\u2019s just straight bigotry\u2019: Trump leads wave of Islamophobic rhetoric as midterms loom",
-   "url": "https://www.theguardian.com/us-news/2026/sep/13/republicans-islamophobic-rhetoric-democrats",
-   "summary": "As Muslims win historic victories, experts describe rise in anti-Islamic sentiment that rivals post-9/11 climateWithin hours of Abdul El-Sayed\u2019s victory in Michigan\u2019s Democratic US Senate primary, Republican senator Tommy Tuberville of Alabama declared that the party had \u201cjust voted to send a TERRORIST\u201d to Washington.El-Sayed \u2013 or \u201cAbdulrahman Mohamed El-Sayed\u201d, as Tuberville called him on X \u2013 was a \u201cRADICAL ISLAMIST\u201d who would \u201cdo everything he can to destroy America\u201d, he claimed. Continue reading...",
-   "published": "2026-09-13T10:00:06+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-09-13T11:58:17.451765+00:00"
-  },
-  {
-   "id": "84a1280e159b1f07",
-   "title": "Trump\u2019s attempted crackdown on mail-in voting \u2013 here\u2019s what to know",
-   "url": "https://www.theguardian.com/us-news/2026/sep/13/trump-voting-by-mail-explainer",
-   "summary": "President and allies have tried to ram through changes to the US voting system, but his efforts are being challengedVoting by mail is a \u201choax\u201d, according to Donald Trump, despite about 29% of American voters casting their vote this way in 2024. The US president has repeatedly done so himself.But the Trump administration is nevertheless attempting to ram through a sweeping crackdown on the practice, pushing for changes to federal law. Continue reading...",
-   "published": "2026-09-13T10:00:05+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-09-13T11:58:17.451771+00:00"
-  },
-  {
-   "id": "dde39ab60b74ebc8",
-   "title": "Student loan borrowers race for lower payments as changes come to a head",
-   "url": "https://thehill.com/homenews/education/6085081-student-loan-borrowers-trump-plans-debt-relief/",
-   "summary": "Student loan borrowers are in a race against the clock to keep their payments as low as possible as they navigate upcoming deadlines to get out of old repayment plans, choose a new one and potentially receive a temporary reduction in their loans\u2019 interest rate.   The Trump administration's standard repayment plan and Repayment Assistance Plan...",
-   "published": "2026-09-13T10:00:00+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-13T11:58:17.555228+00:00"
-  },
-  {
-   "id": "545984a76957774b",
-   "title": "GOP rising star reveals how Republicans can lock down minority voters without Trump on ballot",
-   "url": "https://www.foxnews.com/politics/gop-rising-star-reveals-how-republicans-lock-down-minority-voters-without-trump-ballot",
-   "summary": "T.W. Shannon says Donald Trump transformed the GOP into a working party, pointing to job creation and lower crime as keys to winning Black voters.",
-   "published": "2026-09-13T09:00:52+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-09-13T11:58:17.193863+00:00"
-  },
-  {
-   "id": "8d07ce0f59aea723",
-   "title": "Religious Vance seeks to avoid Maga schism as he keeps the faith for 2028",
-   "url": "https://www.theguardian.com/us-news/2026/sep/13/jd-vance-religion-catholic-evangelical-maga",
-   "summary": "Vice-president wears religion on his sleeve but winding spiritual path could alienate evangelicals and CatholicsUS vice-president JD Vance has worn his religion on his sleeve since converting to the Catholicism in 2019. He recently published a book, Communion: Finding My Way Back to Faith, and memorably met the late Pope Francis at the Vatican on Easter Sunday in 2025, a day before the pontiff died.But his religious identity could take on new weight as he positions himself for a presidential run in 2028, in which a successful campaign would make him only the third Catholic president in US hist",
-   "published": "2026-09-13T09:00:03+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-09-13T11:58:17.451776+00:00"
   }
  ]
 }
