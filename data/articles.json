@@ -1,7 +1,106 @@
 {
- "updated": "2026-09-27T18:28:42.421464+00:00",
- "count": 1127,
+ "updated": "2026-09-27T23:06:18.937647+00:00",
+ "count": 1124,
  "articles": [
+  {
+   "id": "65f82364f0bfccad",
+   "title": "Susie Wiles reveals brutal toll of fighting cancer while running Trump\u2019s White House",
+   "url": "https://www.foxnews.com/politics/susie-wiles-reveals-brutal-toll-fighting-cancer-while-running-trumps-white-house",
+   "summary": "Susie Wiles reveals what it was like to undergo chemotherapy while leading the White House staff, saying some days just getting out of bed was a test.",
+   "published": "2026-09-27T21:54:55+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-27T23:06:16.626578+00:00"
+  },
+  {
+   "id": "b797a253fd88d7ae",
+   "title": "Blanche defends Trump\u2019s White House media ban: \u2018It is a privilege, not a right\u2019",
+   "url": "https://www.theguardian.com/us-news/2026/sep/27/todd-blanche-trump-white-house-media",
+   "summary": "US attorney general argues that president was \u2018sick and tired\u2019 of inaccurate reporting by CNN, MS Now and PoliticoDonald Trump\u2019s attorney general Todd Blanche argued on Sunday that the administration was permitted to ban three news outlets from the White House because \u201cit is a privilege and not a right to be there\u201d.Appearing on the ABC News program This Week during the second week of the White House\u2019s dispute over press credentialing and access, Blanche also said that the administration took the decision to ban CNN, MS Now and Politico beginning on 19 September because the president was \u201csick ",
+   "published": "2026-09-27T21:42:56+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-09-27T23:06:17.684759+00:00"
+  },
+  {
+   "id": "3e81d810555138dd",
+   "title": "Major League Baseball is eyeing a game at Grand Teton, but federal red tape is slowing down the pitch",
+   "url": "https://www.foxnews.com/outkick-sports/major-league-baseball-eyeing-game-grand-teton-federal-red-tape-slowing-pitch",
+   "summary": "MLB approached the Trump administration about hosting a game in Grand Teton National Park, but the White House says it&apos;s not an administration priority.",
+   "published": "2026-09-27T21:25:00+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-27T23:06:16.689286+00:00"
+  },
+  {
+   "id": "e170e3be6d13d380",
+   "title": "Trump administration begins airing 2024 Trump campaign ad in latest taxpayer-funded messaging",
+   "url": "https://abcnews.com/Politics/wireStory/trump-administration-begins-airing-2024-trump-campaign-ad-136803772",
+   "summary": "The Trump administration is using taxpayer funds to air a television advertisement from Donald Trump&rsquo;s 2024 presidential campaign in the latest in a series of ads promoting the president ahead of the midterms that the White House maintains are &ldquo;public ...",
+   "published": "2026-09-27T21:25:00+00:00",
+   "source": "ABC News Politics",
+   "source_id": "abc-politics",
+   "bias_note": "center",
+   "first_seen": "2026-09-27T23:06:18.664858+00:00"
+  },
+  {
+   "id": "2cb2a30e30db9ed7",
+   "title": "Anthropic CEO Dario Amodei to have private White House dinner with Trump",
+   "url": "https://thehill.com/policy/technology/6114077-trump-anthropic-ceo-meeting/",
+   "summary": "President Trump and Anthropic CEO Dario Amodei will meet on Sunday evening at the White House after the artificial intelligence industry leader raised concerns about the technology's risks. The two will meet for dinner at the president\u2019s residence, two sources familiar with the dinner confirmed to The Hill.  Trump in recent weeks has dismissed concerns...",
+   "published": "2026-09-27T21:16:40+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-27T23:06:17.973201+00:00"
+  },
+  {
+   "id": "b72d3708aa0abb89",
+   "title": "Republican senator criticizes White House for taxpayer-funded Trump ads",
+   "url": "https://www.theguardian.com/us-news/2026/sep/27/john-kennedy-white-house-trump-ad-tax-money",
+   "summary": "John Kennedy pushes back against such spending as pro-Trump \u2018public service announcements\u2019 air before midtermsAs the White House expands a taxpayer-funded advertising campaign to promote Donald Trump\u2019s political agenda before the November midterm elections, US senator John Kennedy told CBS News on Sunday \u201cthere ought to be a rule\u201d against such spending \u2013 before tacitly admitting such spending is \u201cprobably\u201d illegal.Kennedy, the US president\u2019s fellow Republican, was asked by Margaret Brennan, the CBS Face the Nation host, about the White House spending to air multiple ads featuring Trump \u2013 inclu",
+   "published": "2026-09-27T19:54:03+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-09-27T23:06:17.684770+00:00"
+  },
+  {
+   "id": "d3644bd6612d7c8f",
+   "title": "Trump slams Supreme Court for blocking Missouri's GOP-favored map for third time",
+   "url": "https://thehill.com/homenews/administration/6113998-trump-criticizes-supreme-court-missouri-map/",
+   "summary": "President Trump went after the Supreme Court on Sunday for blocking a Missouri congressional map favoring Republicans. \u201cThe Supreme Court of the United States will just not let Missouri have an Election Victory. They continuously, three times now, overrule Judges who came to the correct decisions,\u201d Trump said in a Sunday morning Truth Social post....",
+   "published": "2026-09-27T19:21:53+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-27T23:06:17.973263+00:00"
+  },
+  {
+   "id": "9d0ed96c7d72994c",
+   "title": "Khanna says third Trump impeachment would be about 'setting a standard'",
+   "url": "https://thehill.com/homenews/house/6113743-khanna-trump-third-impeachment/",
+   "summary": "Rep. Ro Khanna (D-Calif.) on Sunday said a third attempt to impeach President Trump if Democrats take control of Congress in November would be about \"setting a standard\" of accountability. Khanna appeared on NBC News's \"Meet the Press\" when he told host Kristen Welker that impeaching Trump, who he said has become \"in my view,...",
+   "published": "2026-09-27T19:05:35+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-27T23:06:17.973268+00:00"
+  },
+  {
+   "id": "746e3f8e130e0bf6",
+   "title": "Iran 'fully prepared' for war to resume if Trump authorizes strikes after midterms",
+   "url": "https://thehill.com/policy/international/6113728-araghchi-warns-trump-aggression/",
+   "summary": "Iranian Foreign Minister Abbas Araghchi on Sunday said that his country is \"fully prepared\" for the conflict with the U.S. to resume if President Trump authorizes new strikes on the regime after the November midterm elections. Araghchi told NBC News's Kristen Welker in an interview on \"Meet the Press\" that the U.S. has \"tested us...",
+   "published": "2026-09-27T18:37:16+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-27T23:06:17.973271+00:00"
+  },
   {
    "id": "90c20609f57e630f",
    "title": "Republican says Trump\u2019s support of Ken Paxton in Texas primary was \u2018colossal mistake\u2019",
@@ -12266,138 +12365,6 @@
    "source_id": "thehill",
    "bias_note": "center",
    "first_seen": "2026-09-14T05:06:42.766379+00:00"
-  },
-  {
-   "id": "65d5a44bfedeeb44",
-   "title": "Poll: Democratic voters driven by Trump opposition more than party platform",
-   "url": "https://thehill.com/homenews/campaign/6087181-democrats-voter-motivation-trump-opposition/",
-   "summary": "A new poll shows that Democratic voters are more driven to cast their ballots in the November midterms elections out of their opposition to President Trump more so than the party's platform. The CBS News/YouGov poll released Sunday found that 54 percent of Democratic voters said they will vote for their Democratic candidate to Congress...",
-   "published": "2026-09-13T22:41:58+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-14T00:15:00.364504+00:00"
-  },
-  {
-   "id": "80fa1a031c680b49",
-   "title": "Trump downplays calls for AI slowdown",
-   "url": "https://www.npr.org/2026/09/13/nx-s1-5968078/trump-mike-johnson-ai-slowdown",
-   "summary": "President Trump said there were \"negative forces\" predicting things that he says won't happen.",
-   "published": "2026-09-13T22:32:39+00:00",
-   "source": "NPR Politics",
-   "source_id": "npr-politics",
-   "bias_note": "center",
-   "first_seen": "2026-09-14T00:14:59.637890+00:00"
-  },
-  {
-   "id": "9c9f4dad519e8052",
-   "title": "Trump downplays the need to check AI development and says he doesn't want to cede edge to China",
-   "url": "https://www.pbs.org/newshour/politics/trump-downplays-the-need-to-check-ai-development-and-says-he-doesnt-want-to-cede-edge-to-china",
-   "summary": "While acknowledging the need for some regulation, Trump provided no specifics about potential rules and attributed warnings about the technology moving too quickly and with little oversight to \"negative forces\" he did not identify.",
-   "published": "2026-09-13T22:08:25+00:00",
-   "source": "PBS NewsHour Politics",
-   "source_id": "pbs-politics",
-   "bias_note": "center",
-   "first_seen": "2026-09-14T00:15:00.619873+00:00"
-  },
-  {
-   "id": "bf0045bf119f920f",
-   "title": "Trump unloads on AOC, Mamdani for laughing during sacred 9/11 ceremony at Ground Zero",
-   "url": "https://www.foxnews.com/politics/trump-unloads-aoc-mamdani-laughing-during-sacred-9-11-ceremony-ground-zero",
-   "summary": "President Donald Trump called the moment &quot;terrible&quot; after video showed AOC and Zohran Mamdani appearing to laugh during the Ground Zero ceremony.",
-   "published": "2026-09-13T21:54:35+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-09-14T00:14:58.808685+00:00"
-  },
-  {
-   "id": "e8451f0a8ded001f",
-   "title": "Presidential Message on the Anniversary of the Battle of Fort McHenry",
-   "url": "https://www.whitehouse.gov/briefings-statements/2026/09/presidential-message-on-the-anniversary-of-the-battle-of-fort-mchenry/",
-   "summary": "In September of 1814, 1,000 American patriots heroically defended our young Nation\u2019s sovereignty at the Battle of Fort McHenry, where they halted the British invasion of Baltimore in a critical turning point in the War of 1812.&#160; Despite relentless cannon bombardment from the most powerful navy of its age, American forces stood strong.&#160; When dawn [&#8230;]\nThe post Presidential Message on the Anniversary of the Battle of Fort McHenry appeared first on The White House.",
-   "published": "2026-09-13T21:37:19+00:00",
-   "source": "WhiteHouse.gov News",
-   "source_id": "whitehouse",
-   "bias_note": "official/primary-source",
-   "first_seen": "2026-09-14T00:14:59.144420+00:00"
-  },
-  {
-   "id": "e37a5101bf11b73c",
-   "title": "Trump says he plans to lift tariffs on Irish whiskey",
-   "url": "https://thehill.com/business/6087112-trump-to-lift-irish-whiskey-tariffs/",
-   "summary": "President Trump said Sunday that he plans to lift tariffs on Irish whiskey, an announcement he made while visiting the Emerald Isle. \u201cIreland itself has been so incredible, so inviting, and we're very honored by presenting you with a great course. It's been great,\u201d the president said while speaking at a ceremony for the Amgen...",
-   "published": "2026-09-13T21:05:47+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-14T00:15:00.364546+00:00"
-  },
-  {
-   "id": "20a8df60aae1700f",
-   "title": "House Speaker Mike Johnson says Trump's $5,000 'dividend' needs congressional approval",
-   "url": "https://abcnews.com/Politics/wireStory/house-speaker-mike-johnson-trumps-5000-dividend-congressional-136408032",
-   "summary": "House Speaker Mike Johnson says Congress would have to approve President Donald Trump's proposal to send $5,000 to each American adult if the Republican Party maintains control of the House and Senate in the November election",
-   "published": "2026-09-13T20:10:50+00:00",
-   "source": "ABC News Politics",
-   "source_id": "abc-politics",
-   "bias_note": "center",
-   "first_seen": "2026-09-13T20:53:39.844287+00:00"
-  },
-  {
-   "id": "8e5ae3c4e5268875",
-   "title": "Trump says Lindsay Clancy case is a \u2018state situation' following attorney's pardon plea",
-   "url": "https://www.foxnews.com/politics/trump-says-lindsay-clancy-case-state-situation-following-attorneys-pardon-plea",
-   "summary": "President Donald Trump expressed sympathy for the family of Lindsay Clancy\u2019s three children while signaling that he would not intervene in the former nurse\u2019s state murder case.",
-   "published": "2026-09-13T19:58:28+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-09-13T20:53:37.948223+00:00"
-  },
-  {
-   "id": "bc803485af6e6c92",
-   "title": "Homan confirms 'criminal' investigation involving Ilhan Omar, says he knows 'things are going on\u2019",
-   "url": "https://www.foxnews.com/media/homan-confirms-criminal-investigation-involving-ilhan-omar-says-knows-things-going",
-   "summary": "Tom Homan confirmed officials are investigating allegations involving Rep. Ilhan Omar but declined to share specifics about possible immigration fraud.",
-   "published": "2026-09-13T19:51:24+00:00",
-   "source": "Fox News Latest",
-   "source_id": "foxnews-latest",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-09-13T20:53:38.040254+00:00"
-  },
-  {
-   "id": "5a49ad25ae575255",
-   "title": "House Speaker Mike Johnson says Trump's $5,000 'dividend' needs congressional approval",
-   "url": "https://www.pbs.org/newshour/politics/house-speaker-mike-johnson-says-trumps-5000-dividend-needs-congressional-approval",
-   "summary": "Trump made the unusual pitch at the party's midterm convention in Dallas last week, promising a \"Trump Dividend\" if voters keep the GOP in power on Capitol Hill.",
-   "published": "2026-09-13T19:36:17+00:00",
-   "source": "PBS NewsHour Politics",
-   "source_id": "pbs-politics",
-   "bias_note": "center",
-   "first_seen": "2026-09-13T20:53:39.310196+00:00"
-  },
-  {
-   "id": "7819325ea296ba5a",
-   "title": "Trump floats idea to 'stay and keep the oil' in Iran, noting Venezuela deal",
-   "url": "https://thehill.com/policy/energy-environment/6086928-trump-compares-iran-venezuela-oil/",
-   "summary": "President Trump on Sunday floated the idea that the U.S. could \"stay and keep the oil\" in Iran, comparing the notion to the U.S.'s major oil deal with Venezuela. Trump told reporters while in Doonbeg, Ireland, that the conflict with Iran will \"end after the midterm\" elections and that the Iranian regime \"wants to make...",
-   "published": "2026-09-13T19:05:43+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-13T20:53:39.144893+00:00"
-  },
-  {
-   "id": "81fdd48557defd6a",
-   "title": "Lawler deflects on supporting Trump's $5K dividend pledge: 'How do you pay for it?'",
-   "url": "https://thehill.com/homenews/house/6086944-lawler-questions-trump-dividend/",
-   "summary": "Rep. Mike Lawler (R-N.Y.) on Sunday joined multiple Republican lawmakers in questioning the fiscal sense of President Trump\u2019s proposal to send $5,000 to every American adult.  During an interview on ABC\u2019s \u201cThis Week,\u201d Lawler initially avoided the question of whether he supported Trump\u2019s proposed dividend. \u201cI support putting money back in the pockets of hard-working...",
-   "published": "2026-09-13T18:50:47+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-13T20:53:39.144900+00:00"
   }
  ]
 }
