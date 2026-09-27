@@ -1,7 +1,150 @@
 {
- "updated": "2026-09-27T15:33:08.811205+00:00",
- "count": 1123,
+ "updated": "2026-09-27T18:28:42.421464+00:00",
+ "count": 1127,
  "articles": [
+  {
+   "id": "90c20609f57e630f",
+   "title": "Republican says Trump\u2019s support of Ken Paxton in Texas primary was \u2018colossal mistake\u2019",
+   "url": "https://www.theguardian.com/us-news/2026/sep/27/republican-tillis-trump-paxton",
+   "summary": "Thom Tillis says Trump\u2019s decision to back Paxton over John Cornyn has put the Senate seat at risk for RepublicansUS senator Thom Tillis on Sunday criticized Donald Trump, his fellow Republican, for the president\u2019s support of Ken Paxton over incumbent John Cornyn in the Texas Senate Republican primary.\u201cHe made a colossal mistake,\u201d Tillis, a frequent Trump critic from North Carolina, said during an interview on CNN\u2019s State of the Union in reference to the president\u2019s support of Paxton who defeated Cornyn in the May primary. Continue reading...",
+   "published": "2026-09-27T18:19:02+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-09-27T18:28:40.286656+00:00"
+  },
+  {
+   "id": "cd121e133a2b86e2",
+   "title": "Trump calls arrests of UK men on suspicion of terror offenses 'fantastic'",
+   "url": "https://thehill.com/homenews/administration/6113865-trump-praises-uk-arrests-raf-plot/",
+   "summary": "President Trump on Sunday praised law enforcement in the U.K. for its work in arresting five men suspected of planning a terror attack on a U.S. air base. \u201cThe arrest in the U.K. was fantastic. Working with Britain, it was an amazing job,\u201d Trump told reporters in Chicago, according to NewsNation\u2019s Libbey Dean. The president...",
+   "published": "2026-09-27T17:54:49+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-27T18:28:41.634914+00:00"
+  },
+  {
+   "id": "107709108cff14ea",
+   "title": "Facing up to the threat that Reform poses to our democracy | Letters",
+   "url": "https://www.theguardian.com/politics/2026/sep/27/facing-up-to-the-threat-that-reform-poses-to-our-democracy",
+   "summary": "Readers respond to an article by John Harris in which he urges Labour to offer hope and change John Harris writes: \u201cReform is apparently in deep trouble, yet also still in with a serious chance. How come?\u201d (Don\u2019t discount Reform because it\u2019s had a bad year. In our angry, fragile democracy, anything can happen, 20 September). Because it is a cult, just as Maga is a cult. It is sustained by faith, not fact. It offers simple solutions to problems of such complexity that most of us are incapable of understanding them.Reform UK would not exist without Nigel Farage. All his other \u201cparties\u201d only exis",
+   "published": "2026-09-27T17:25:35+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-09-27T18:28:40.286670+00:00"
+  },
+  {
+   "id": "3f31150c24d1c500",
+   "title": "DAVID MARCUS: Why JD Vance's reshoring message is a perfect fit for struggling small towns like St. Cloud",
+   "url": "https://www.foxnews.com/opinion/david-marcus-jd-vance-reshoring-message-perfect-fit-struggling-small-towns-st-cloud",
+   "summary": "St. Cloud, Minnesota&apos;s struggling downtown could be revitalized by JD Vance&apos;s reshoring agenda, but Somali immigration and fraud concerns loom large.",
+   "published": "2026-09-27T17:10:52+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-27T18:28:39.516195+00:00"
+  },
+  {
+   "id": "1d286d33e3b5e81a",
+   "title": "Texas clinic owner convicted in $26M military health fraud tied to gold-plated Cybertruck",
+   "url": "https://www.foxnews.com/us/texas-clinic-owner-convicted-26m-military-health-fraud-gold-plated-cybertruck",
+   "summary": "Kevin D. Curry used TRICARE kickbacks to fund a gold-plated Tesla Cybertruck and lavish parties after billing $26 million in fake TMS therapy claims.",
+   "published": "2026-09-27T17:09:40+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-27T18:28:39.516213+00:00"
+  },
+  {
+   "id": "739238c7bf35764e",
+   "title": "If Trump is serious about antisemitism, he should reopen this lifeline for refugees",
+   "url": "https://thehill.com/opinion/immigration/6112891-iranian-minorities-awaiting-visa-relief/",
+   "summary": "As Congress faces a Sept. 30 deadline to reauthorize the Lautenberg Amendment, critics argue the Trump administration has undermined the program by closing the processing centers essential for helping Iranian religious minorities escape persecution.",
+   "published": "2026-09-27T17:00:00+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-27T18:28:41.634940+00:00"
+  },
+  {
+   "id": "6b882b995d126d9d",
+   "title": "Ukraine's attacks on Russia are pushing Putin closer to negotiating table, Trump NATO ambassador says",
+   "url": "https://www.foxnews.com/media/ukraine-attacks-russia-pushing-putin-closer-negotiating-table-trump-nato-ambassador-says",
+   "summary": "Matt Whitaker says Ukrainian attacks inside Russia are pushing both sides closer to peace talks as Trump presses Putin and Zelenskyy to negotiate.",
+   "published": "2026-09-27T16:59:44+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-27T18:28:39.516240+00:00"
+  },
+  {
+   "id": "8ba2a676bcf7644f",
+   "title": "Blanche claims Trump 'hasn't denied access' to White House reporters",
+   "url": "https://thehill.com/homenews/administration/6113681-blanche-defends-trump-media-ban/",
+   "summary": "Attorney General Todd Blanche on Sunday claimed that President Trump did not deny White House reporters access to the executive mansion, after the president banned CNN, Politico and MS NOW reporters from the grounds and had their passes confiscated by Secret Service. \"Well, the president hasn't denied access,\" Blanche told host Martha Raddatz during the...",
+   "published": "2026-09-27T16:52:27+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-27T18:28:41.634944+00:00"
+  },
+  {
+   "id": "11dcef23f7199f5e",
+   "title": "Kennedy suggests 'rule' that no politician should have a building named after them while alive",
+   "url": "https://thehill.com/homenews/senate/6113763-gop-senator-opposes-living-building-names/",
+   "summary": "GOP Sen. John Kennedy (La.) said Sunday that public officials should not have buildings named after them while they are alive, as President Trump fights to rename the Kennedy Center after himself.\u00a0 During an interview on CBS News\u2019s \u201cFace the Nation,\u201d Kennedy said public officials, including Trump, should not \u201cspend public money on private ads...",
+   "published": "2026-09-27T16:39:04+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-27T18:28:41.634950+00:00"
+  },
+  {
+   "id": "f7656d113ba5c195",
+   "title": "UN ambassador Waltz says Iran was not negotiating \u2018in good faith\u2019 to end war",
+   "url": "https://www.theguardian.com/us-news/2026/sep/27/trump-un-ambassador-iran-war",
+   "summary": "Waltz says Trump rejected Iran\u2019s proposal to end war because they \u2018were asking for everything up front\u2019The Trump administration\u2019s ambassador to the United Nations said the US rejected Iran\u2019s proposal to end the ongoing war there because Iranian negotiators \u201cwere asking for everything up front\u201d.Echoing comments by Donald Trump on Saturday, the president\u2019s UN ambassador Mike Waltz told CNN\u2019s State of the Union on Sunday that Iran had asked for relief \u201cfrom billions and billions of sanctions that are going into place\u201d as part of an economic blockade on Iran. The blockade is aimed at putting press",
+   "published": "2026-09-27T16:28:05+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-09-27T18:28:40.286678+00:00"
+  },
+  {
+   "id": "c04f99d347d297c2",
+   "title": "Mark Kelly: Trump 'stuck' with Iran and wants to 'get back to where he was before' war started",
+   "url": "https://thehill.com/homenews/senate/6113679-mark-kelly-criticizes-trump-iran-war/",
+   "summary": "Sen. Mark Kelly (D-Ariz.) on Sunday said President Trump is \"stuck\" with handling the U.S.-Israeli conflict with Iran and is seeking a path to \"get back to where\" the U.S. was before the war began in February. \"The president got into this without a strategic goal, without a plan, without a timeline, without an exit...",
+   "published": "2026-09-27T16:26:42+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-27T18:28:41.634954+00:00"
+  },
+  {
+   "id": "0e6c0e2bc57793b1",
+   "title": "Tillis calls Trump Jr. wedding gift from Russian oligarch 'stupid on stilts'",
+   "url": "https://thehill.com/homenews/senate/6113733-tillis-criticizes-trump-jr-gift/",
+   "summary": "Sen. Thom Tillis (R-N.C.) chastised Donald Trump Jr. on Sunday for accepting a wedding gift from a Russian oligarch. \u201cThis was stupid on stilts \u2026 This is a man who's worth somewhere between $300 million and $400 million,\u201d Tillis said on CNN\u2019s \u201cState of the Union,\u201d referring to Umar Kremlev.\u00a0 ProPublica reported earlier this month...",
+   "published": "2026-09-27T16:09:12+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-27T18:28:41.634959+00:00"
+  },
+  {
+   "id": "6cdaf38cedc23e92",
+   "title": "Trump's golf tour takes him back to the Presidents Cup",
+   "url": "https://abcnews.com/Politics/wireStory/trumps-golf-tour-takes-back-presidents-cup-136797769",
+   "summary": "President Donald Trump is headed back to the Presidents Cup for the second time",
+   "published": "2026-09-27T15:38:47+00:00",
+   "source": "ABC News Politics",
+   "source_id": "abc-politics",
+   "bias_note": "center",
+   "first_seen": "2026-09-27T18:28:42.155015+00:00"
+  },
   {
    "id": "0b00ed73f130d09c",
    "title": "Tillis says Trump endorsing Paxton over Cornyn was 'colossal mistake'",
@@ -12255,105 +12398,6 @@
    "source_id": "thehill",
    "bias_note": "center",
    "first_seen": "2026-09-13T20:53:39.144900+00:00"
-  },
-  {
-   "id": "43311994c5f22c08",
-   "title": "Hassett on Trump trade war interest rates threat: \u2018I don't expect the trade's going to go to zero\u2019",
-   "url": "https://thehill.com/business/6086906-hassett-plays-down-trump-trade-threat/",
-   "summary": "Kevin Hassett, director of the National Economic Council, on Sunday played down President Trump's threat to begin a trade war if the Federal Reserve doesn\u2019t drop interest rates. \u201cI don't expect the trade's going to go to zero, but I do think that the president has a very strong opinion that interest rates could be...",
-   "published": "2026-09-13T18:28:27+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-13T20:53:39.144904+00:00"
-  },
-  {
-   "id": "024d7e27c814b2cd",
-   "title": "Jeffries does not rule out pursuing Trump impeachment if Democrats win House",
-   "url": "https://thehill.com/homenews/house/6086866-jeffries-trump-impeachment-possibility/",
-   "summary": "House Minority Leader Hakeem Jeffries (D-N.Y.) said Sunday he has not ruled out pursuing the impeachment of President Trump if Democrats take back the House in November. \u201cNo, we haven't ruled anything in and we haven't ruled anything out in terms of impeachment,\u201d Jeffries told George Stephanopoulos on ABC\u2019s \u201cThis Week,\u201d when the host asked...",
-   "published": "2026-09-13T18:10:57+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-13T20:53:39.144908+00:00"
-  },
-  {
-   "id": "79e533dee518be95",
-   "title": "GOP rep: Priority 'needs to be the military,' not $5K checks",
-   "url": "https://thehill.com/homenews/house/6086831-flood-prioritizes-pentagon-over-dividend/",
-   "summary": "GOP Rep. Mike Flood (Neb.) said Sunday he supports providing the Pentagon with more funding amid the Iran war over passing legislation to implement President Trump\u2019s $5,000 dividend proposal. \u201cFirst thing, I think we need to see the proposal, but the priority, in my opinion right now, should be funding our troops and replenishing our...",
-   "published": "2026-09-13T17:27:31+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-13T20:53:39.144919+00:00"
-  },
-  {
-   "id": "f89779610151ca53",
-   "title": "Trump tells Zelenskyy to stop doing 'one thing' during attacks on Russia",
-   "url": "https://www.foxnews.com/politics/trump-tells-zelenskyy-stop-doing-one-thing-during-attacks-russia",
-   "summary": "President Donald Trump told reporters he wants Volodymyr Zelensky to stop hitting Russian diesel refineries, saying the strikes are causing a global fuel shortage.",
-   "published": "2026-09-13T17:14:44+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-09-13T20:53:37.948229+00:00"
-  },
-  {
-   "id": "838ba4dc313e053d",
-   "title": "Trump team unloads on liberal journalist over Natalie Harp posts: \u2018Sick, deluded freak\u2019",
-   "url": "https://www.foxnews.com/media/trump-team-unloads-liberal-journalist-natalie-harp-posts-sick-deluded-freak",
-   "summary": "The White House fired back at journalist Aaron Rupar over his #TravelWithNatalie posts about aide Natalie Harp joining Trump on his Ireland trip.",
-   "published": "2026-09-13T17:03:02+00:00",
-   "source": "Fox News Latest",
-   "source_id": "foxnews-latest",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-09-13T20:53:38.040324+00:00"
-  },
-  {
-   "id": "77a416b77d877762",
-   "title": "Trump's\u00a0coastal power grab should alarm all Americans",
-   "url": "https://thehill.com/opinion/energy-environment/6085213-trump-california-coastal-takeover/",
-   "summary": "The right to manage the coast should remain equal under the law for all coastal states.",
-   "published": "2026-09-13T17:00:00+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-13T20:53:39.144922+00:00"
-  },
-  {
-   "id": "e0c09de086143dec",
-   "title": "Trump calls on Ukraine to halt strikes on Russian diesel, saying attacks are causing a shortage",
-   "url": "https://www.pbs.org/newshour/world/trump-calls-on-ukraine-to-halt-strikes-on-russian-diesel-saying-attacks-are-causing-a-shortage",
-   "summary": "Ukraine has for months been targeting Russia's oil and gas industry with long-range strikes, prompting fuel rationing across the country and causing Moscow to ban diesel exports in July, one factor disrupting the global supply of diesel.",
-   "published": "2026-09-13T15:58:37+00:00",
-   "source": "PBS NewsHour Politics",
-   "source_id": "pbs-politics",
-   "bias_note": "center",
-   "first_seen": "2026-09-13T16:23:47.799713+00:00"
-  },
-  {
-   "id": "d0ad328f9c4e7e17",
-   "title": "Trump downplays AI warnings, citing competition with China",
-   "url": "https://thehill.com/policy/technology/6086739-trump-downplays-ai-risks/",
-   "summary": "President Trump on Sunday downplayed the growing concerns over artificial intelligence's rapid development and its implications for the future of humanity, saying guardrails can be placed on the technology but that the U.S. cannot lose the AI race to China in the process. \"Well I say this, we're leading China on AI. We're the most...",
-   "published": "2026-09-13T15:57:05+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-13T16:23:47.650563+00:00"
-  },
-  {
-   "id": "05541ad16abe77ac",
-   "title": "Federal judge rules Homeland Security plan for 50% FEMA staffing cuts was unlawful",
-   "url": "https://www.pbs.org/newshour/politics/federal-judge-rules-homeland-security-plan-for-50-fema-staffing-cuts-was-unlawful",
-   "summary": "The issue of the FEMA staffing was part of a much larger lawsuit filed by the American Federation of Government Employees and other labor groups, pushing back on efforts by the Trump administration to slash the federal workforce.",
-   "published": "2026-09-13T15:44:30+00:00",
-   "source": "PBS NewsHour Politics",
-   "source_id": "pbs-politics",
-   "bias_note": "center",
-   "first_seen": "2026-09-13T16:23:47.799718+00:00"
   }
  ]
 }
