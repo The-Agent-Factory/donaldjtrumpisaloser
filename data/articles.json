@@ -1,7 +1,40 @@
 {
- "updated": "2026-09-27T14:05:48.133270+00:00",
- "count": 1121,
+ "updated": "2026-09-27T15:33:08.811205+00:00",
+ "count": 1123,
  "articles": [
+  {
+   "id": "0b00ed73f130d09c",
+   "title": "Tillis says Trump endorsing Paxton over Cornyn was 'colossal mistake'",
+   "url": "https://thehill.com/homenews/senate/6113713-tillis-blasts-trump-paxton-endorsement/",
+   "summary": "GOP Sen. Thom Tillis (N.C.) on Sunday blasted President Trump for endorsing Ken Paxton (R) over Sen. John Cornyn (R-Texas) in the Texas Senate Republican primary earlier this year.  \u201cIn the case of Cornyn, he made a colossal mistake,\u201d Tillis told host Jake Tapper on CNN\u2019s \u201cState of the Union.\u201d The North Carolina Republican added,...",
+   "published": "2026-09-27T15:14:38+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-27T15:33:07.445641+00:00"
+  },
+  {
+   "id": "ac73855113cb3af1",
+   "title": "Jim Jordan predicts third Trump impeachment if Democrats take control of House",
+   "url": "https://thehill.com/homenews/house/6113638-jim-jordan-trump-impeachment-prediction/",
+   "summary": "Rep. Jim Jordan (R-Ohio) on Sunday predicted that Democrats will impeach President Trump for a third time between his two presidencies if they take control of the House after the November midterm elections. Jordan suggested in an interview on \"Cats Roundtable,\" the WABC 770 AM radio show hosted by John Catsimatidis, that Democrats will take the...",
+   "published": "2026-09-27T14:27:06+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-27T15:33:07.445667+00:00"
+  },
+  {
+   "id": "eaf561139949b5fb",
+   "title": "Waltz says Iranians asked for 'everything up front' before Trump rejected ceasefire",
+   "url": "https://thehill.com/homenews/administration/6113670-trump-rejects-iranian-ceasefire/",
+   "summary": "U.S. Ambassador to the United Nations (U.N.) Mike Waltz said Sunday that President Trump rejected Iranian officials\u2019 ceasefire proposal because they asked for \u201ceverything up front.\u201d \u201cThey were asking for everything up front. They were asking for relief from billions and billions of sanctions that are going into place as Operation Economic Fury, but also...",
+   "published": "2026-09-27T14:26:41+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-27T15:33:07.445671+00:00"
+  },
   {
    "id": "eb4add817ab86c41",
    "title": "Saturday Night Live: Jalen Brunson makes for stiff host in underwhelming season premiere",
@@ -12321,17 +12354,6 @@
    "source_id": "pbs-politics",
    "bias_note": "center",
    "first_seen": "2026-09-13T16:23:47.799718+00:00"
-  },
-  {
-   "id": "9b26424dc03d7082",
-   "title": "Trump reiterates $5,000 \u2018dividend\u2019 pledge if Republicans win midterms",
-   "url": "https://www.theguardian.com/us-news/2026/sep/13/trump-5000-dividend-pledge",
-   "summary": "Plan to give US adults $5,000 has been greeted with incredulity across the political spectrum as well as outrageDonald Trump on Sunday doubled down on his controversial pledge to give US adults a $5,000 \u201cdividend\u201d if his Republican \u2060party keeps control of Congress after November\u2019s midterm elections.The plan has been greeted with expressions of incredulity across the US political spectrum as well as outraged accusations of seeing to bribe voters. The plan \u2013 which would cost more than a trillion dollars \u2013 also comes amid huge concern over the US national debt, which topped $40tn for the first ti",
-   "published": "2026-09-13T15:07:23+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-09-13T16:23:46.598029+00:00"
   }
  ]
 }
