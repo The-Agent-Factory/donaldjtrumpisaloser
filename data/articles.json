@@ -1,7 +1,106 @@
 {
- "updated": "2026-09-28T18:31:36.041068+00:00",
- "count": 1115,
+ "updated": "2026-09-28T20:35:14.755851+00:00",
+ "count": 1117,
  "articles": [
+  {
+   "id": "9bda6f43c844bc3a",
+   "title": "WATCH LIVE: Jack Smith testifies before Senate Judiciary as GOP targets past Trump probes",
+   "url": "https://www.pbs.org/newshour/politics/watch-live-jack-smith-testifies-before-senate-judiciary-as-gop-targets-past-trump-probes",
+   "summary": "This week's Senate Judiciary hearing comes after a key Republican lawmaker said in July he believes that special counsel Jack Smith may have lied to Congress while testifying about his investigation of President Donald Trump and that the Justice Department should consider prosecuting him.",
+   "published": "2026-09-28T20:23:43+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-09-28T20:35:14.334058+00:00"
+  },
+  {
+   "id": "8b354cf2ac7c5aa3",
+   "title": "Vulnerable Iowa Republicans rally around Trump's Iowa steel plant announcement",
+   "url": "https://thehill.com/homenews/campaign/6115986-iowa-steel-plant-republicans-trump/",
+   "summary": "GOP Iowa Reps. Mariannette Miller-Meeks and Ashley Hinson, a nominee for the Senate, joined President Trump in the Oval Office on Monday for his announcement of a new steel plant in their state as they brace for a tough November midterm election. The president announced a massive $15 billion steel plant in the Hawkeye State...",
+   "published": "2026-09-28T20:10:34+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-28T20:35:14.232393+00:00"
+  },
+  {
+   "id": "efd79a199a10b10a",
+   "title": "WATCH: Trump says Perdue 'was probably talking about Taiwan' in saying Trump offered Xi arms sales",
+   "url": "https://www.pbs.org/newshour/politics/watch-trump-says-perdue-was-probably-talking-about-taiwan-in-saying-trump-offered-xi-arms-sales",
+   "summary": "President Donald Trump disputed that he asked Chinese leader Xi Jinping if he wanted to buy weapons from the United States, contradicting an account from the U.S. ambassador to China.",
+   "published": "2026-09-28T20:04:48+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-09-28T20:35:14.334072+00:00"
+  },
+  {
+   "id": "3c253f7ad4817541",
+   "title": "Trump denies discussing arms sales with Xi, adding 'they'd probably like to buy it'",
+   "url": "https://thehill.com/homenews/administration/6115933-trump-denies-china-arms-sales/",
+   "summary": "President Trump on Monday denied talking about selling U.S. weapons with Chinese President Xi Jinping, but added that China would \"probably like to buy it.\" Trump took questions from reporters about his recent meeting with Xi and was asked about U.S. Ambassador to China David Perdue's remark on Sunday that Trump proposed selling weapons to...",
+   "published": "2026-09-28T20:03:02+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-28T20:35:14.232401+00:00"
+  },
+  {
+   "id": "93b8d27d6171c32e",
+   "title": "Nominations Sent to the Senate",
+   "url": "https://www.whitehouse.gov/presidential-actions/2026/09/nominations-sent-to-the-senate-e1fc/",
+   "summary": "NOMINATIONS SENT TO THE SENATE: Carl Bednarski, of Michigan, to be a Member of the Farm Credit Administration Board, Farm Credit Administration, for a term expiring May 21, 2034. John Grunewald II, of Oklahoma, to be a Member of the Farm Credit Administration Board, Farm Credit Administration, for a term expiring May 21, 2032. James [&#8230;]\nThe post Nominations Sent to the Senate appeared first on The White House.",
+   "published": "2026-09-28T19:59:28+00:00",
+   "source": "WhiteHouse.gov News",
+   "source_id": "whitehouse",
+   "bias_note": "official/primary-source",
+   "first_seen": "2026-09-28T20:35:12.991723+00:00"
+  },
+  {
+   "id": "f5aa03542c2a2a81",
+   "title": "Trump 'surprised' 5 men released in UK bomb plotting probe",
+   "url": "https://thehill.com/homenews/administration/6115979-trump-uk-terror-bail-surprise/",
+   "summary": "President Trump said Monday he was \u201csurprised\u201d that British authorities released on bail the five men arrested a day prior in connection with a possible terrorist attack at a U.K. air base operated by the U.S. military. \u201cI would\u2019ve said don\u2019t let them have bail. \u2026 I\u2019m surprised that they released them. I wouldn\u2019t have...",
+   "published": "2026-09-28T19:58:51+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-28T20:35:14.232415+00:00"
+  },
+  {
+   "id": "072c09c2fc8c72ad",
+   "title": "Mined, Melted, and Poured in America: President Trump Reverses Years of Anti-Mining Policy",
+   "url": "https://www.whitehouse.gov/releases/2026/09/mined-melted-and-poured-in-america-president-trump-reverses-years-of-anti-mining-policy/",
+   "summary": "Today, President Donald J. Trump announced one of the largest steel plants in American history: a $15 billion Mesabi Metallics mill in Iowa. The project will create 1,750 permanent Iowa jobs, support up to 6,000 construction jobs, and is projected to add $95 billion to the U.S. economy over the next decade. The mill will [&#8230;]\nThe post Mined, Melted, and Poured in America: President Trump Reverses Years of Anti-Mining Policy appeared first on The White House.",
+   "published": "2026-09-28T19:56:22+00:00",
+   "source": "WhiteHouse.gov News",
+   "source_id": "whitehouse",
+   "bias_note": "official/primary-source",
+   "first_seen": "2026-09-28T20:35:12.991729+00:00"
+  },
+  {
+   "id": "0a3a1c5cb3d0ab97",
+   "title": "9 states have new US House districts for the midterm elections after Trump urged changes",
+   "url": "https://abcnews.com/Politics/wireStory/9-states-new-us-house-districts-midterm-elections-136829816",
+   "summary": "The congressional voting districts for the midterm elections finally are settled &mdash; roughly 440 days after President Donald Trump spurred a rare mid-decade redistricting battle",
+   "published": "2026-09-28T19:16:58+00:00",
+   "source": "ABC News Politics",
+   "source_id": "abc-politics",
+   "bias_note": "center",
+   "first_seen": "2026-09-28T20:35:14.545884+00:00"
+  },
+  {
+   "id": "87957c5b57dbe447",
+   "title": "Protester storms DC party, flips off crowd as \u2018USA!\u2019 chants erupt amid Trump\u2019s AI push",
+   "url": "https://www.foxnews.com/politics/protester-storms-pro-data-center-bash-flips-off-crowd-usa-chants-erupt-amid-trumps-ai-push",
+   "summary": "A protester crashed a Washington, D.C., data center party, shouting about water use as Trump pushes AI dominance and rapid buildout over China.",
+   "published": "2026-09-28T18:41:49+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-28T20:35:12.936915+00:00"
+  },
   {
    "id": "fdfe3dcb9b09488d",
    "title": "DOJ pleads with Supreme Court to save ban on transgender treatments in federal prisons",
@@ -12189,83 +12288,6 @@
    "source_id": "guardian-uspolitics",
    "bias_note": "left-leaning",
    "first_seen": "2026-09-14T23:10:30.398458+00:00"
-  },
-  {
-   "id": "8affc0c505b9e6d9",
-   "title": "Nominations Sent to the Senate",
-   "url": "https://www.whitehouse.gov/presidential-actions/2026/09/nominations-sent-to-the-senate-9fc3/",
-   "summary": "NOMINATIONS SENT TO THE SENATE: Samuel D. Adkisson, of Tennessee, to be United States District Judge for the Eastern District of Tennessee. Philip Axt, of North Dakota, to be United States District Judge for the District of North Dakota. Daniel Lewis Ballou, of Kentucky, to be United States District Judge for the Eastern District of [&#8230;]\nThe post Nominations Sent to the Senate appeared first on The White House.",
-   "published": "2026-09-14T19:25:34+00:00",
-   "source": "WhiteHouse.gov Presidential Actions",
-   "source_id": "whitehouse-actions",
-   "bias_note": "official/primary-source",
-   "first_seen": "2026-09-14T19:25:45.861936+00:00"
-  },
-  {
-   "id": "f5ea14eba6490c42",
-   "title": "Trump weighs in on Flock debate: 'I like them'",
-   "url": "https://thehill.com/policy/technology/6088725-trump-backs-ai-surveillance/",
-   "summary": "President Trump on Sunday backed the use of Flock cameras, a controversial surveillance tool. \u201cSpeaking of [artificial intelligence], Flock cameras. You haven't talked a lot about these Flock cameras. A lot of law enforcement say they really help them. Would you be willing to back that?\u201d a reporter asked Trump on Air Force One. \u201cNo,...",
-   "published": "2026-09-14T19:07:22+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-14T19:25:47.355942+00:00"
-  },
-  {
-   "id": "b5d9792b39a8836f",
-   "title": "Alligator Alcatraz held detainees in cages the size of phone booths, DHS watchdog says",
-   "url": "https://www.theguardian.com/us-news/2026/sep/14/alligator-alcatraz-immigration-jail-cages-report",
-   "summary": "Office of inspector general\u2019s report says practice at Florida immigration jail is not aligned with \u2018humane treatment\u2019Before the facility was shuttered, detainees at Florida\u2019s \u201cAlligator Alcatraz\u201d federal immigration jail were frequently locked in outside metal cages no bigger than a phone booth, according to a damning government watchdog report that said the practice \u201cdoes not align with standards for humane treatment\u201d.The findings from the office of the inspector general of the Department of Homeland Security (DHS) were published on its website \u2013 and offer rare criticism of the Trump administ",
-   "published": "2026-09-14T18:53:14+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-09-14T19:25:46.175151+00:00"
-  },
-  {
-   "id": "1ffad1fb9d461955",
-   "title": "Democrat Al Green to force House-wide vote on impeaching Trump",
-   "url": "https://www.foxnews.com/politics/democrat-al-green-force-house-wide-vote-impeaching-trump",
-   "summary": "House Democratic Rep. Al Green is mounting yet another effort to impeach President Donald Trump, he announced on Monday.",
-   "published": "2026-09-14T18:51:33+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-09-14T19:25:45.665630+00:00"
-  },
-  {
-   "id": "99841fc3dc691088",
-   "title": "Republicans say Trump agreed to new ethics rules to get crypto bill across the line",
-   "url": "https://www.pbs.org/newshour/nation/republicans-say-trump-agreed-to-new-ethics-rules-to-get-crypto-bill-across-the-line",
-   "summary": "Republicans said Trump had agreed to a requirement to either divest or place in a blind trust any \"significant\" financial interest in an entity that issues cryptocurrencies.",
-   "published": "2026-09-14T18:36:19+00:00",
-   "source": "PBS NewsHour Politics",
-   "source_id": "pbs-politics",
-   "bias_note": "center",
-   "first_seen": "2026-09-14T19:25:47.445303+00:00"
-  },
-  {
-   "id": "d12c94974fc78310",
-   "title": "Bill Maher says Californians will 'never vote for a Republican' as long as Trump is associated with the party",
-   "url": "https://www.foxnews.com/media/bill-maher-californians-never-vote-republican-long-trump-associated-party",
-   "summary": "Maher argued California will never vote for a Republican as long as President Donald Trump is involved in the party, even as failures mount.",
-   "published": "2026-09-14T18:36:10+00:00",
-   "source": "Fox News Latest",
-   "source_id": "foxnews-latest",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-09-14T19:25:45.683919+00:00"
-  },
-  {
-   "id": "197871ef661620a0",
-   "title": "Watch live: Jeffries gives remarks as AI safety concerns mount",
-   "url": "https://thehill.com/video-clips/6088601-watch-live-hakeem-jeffries-press-conference-midterms-ai-fears/",
-   "summary": "House Minority Leader Hakeem Jeffries (D-N.Y.) will speak with reporters Monday afternoon as calls for guardrails around artificial intelligence (AI) build after industry experts raised red flags around safety of the emerging technology. Jeffries and Senate Democratic leader Chuck Schumer (N.Y.) have pressed the Trump administration for transparency on how the U.S. will respond to...",
-   "published": "2026-09-14T18:34:57+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-14T19:25:47.355958+00:00"
   }
  ]
 }
