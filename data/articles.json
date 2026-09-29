@@ -1,7 +1,40 @@
 {
- "updated": "2026-09-29T02:01:47.150966+00:00",
- "count": 1103,
+ "updated": "2026-09-29T08:37:42.818911+00:00",
+ "count": 1102,
  "articles": [
+  {
+   "id": "1d477e7a286e8a59",
+   "title": "News organizations ask court to bar White House enforcement of access ban",
+   "url": "https://www.npr.org/2026/09/29/nx-s1-5984349/news-organizations-court-white-house-ban",
+   "summary": "Three news outlets that President Trump banished from White House grounds asked a federal court to block the ban until the case is resolved.",
+   "published": "2026-09-29T08:13:11+00:00",
+   "source": "NPR Politics",
+   "source_id": "npr-politics",
+   "bias_note": "center",
+   "first_seen": "2026-09-29T08:37:41.508775+00:00"
+  },
+  {
+   "id": "2347e0a9fce542b3",
+   "title": "Trump denies Axios report that he offered Iran sanctions relief",
+   "url": "https://thehill.com/homenews/administration/6116636-trump-denies-iran-sanctions-relief/",
+   "summary": "President Trump on Monday denied reporting from Axios that suggested he is willing to provide Iran with sanctions relief and unfreeze Iranian funds so that the regime can re-examine its nuclear program. \"Axios just released a story that 'Trump' offered Sanctions Relief and Frozen Funds to Iran,\" Trump wrote on Truth Social. \"This is untrue....",
+   "published": "2026-09-29T02:46:13+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-29T08:37:41.991972+00:00"
+  },
+  {
+   "id": "4edf5e996359c5d2",
+   "title": "Georgia Gov. Kemp suspends state gas tax for 30 days",
+   "url": "https://thehill.com/homenews/state-watch/6116605-kemp-suspends-georgia-gas-tax/",
+   "summary": "Georgia Gov. Brian Kemp (R) on Monday signed an executive order suspending the state's gas tax for 30 days as the Iran war sends gas prices soaring. The order, which starts at 12:01 a.m. EDT Tuesday, suspends Georgia's motor fuel excise tax of 33.3 cents per gallon for gasoline and 37.3 cents per gallon for...",
+   "published": "2026-09-29T02:22:40+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-29T08:37:41.991994+00:00"
+  },
   {
    "id": "e65492e86162ec12",
    "title": "Trump CMS faces bipartisan pushback over Medicare proposal tied to Biden-era drug pricing law",
@@ -12090,50 +12123,6 @@
    "source_id": "foxnews-politics",
    "bias_note": "right-leaning",
    "first_seen": "2026-09-15T11:50:43.749749+00:00"
-  },
-  {
-   "id": "593032fc1f9d68ad",
-   "title": "Trump facing AI backlash in Congress as push for guardrails intensifies",
-   "url": "https://www.theguardian.com/technology/2026/sep/15/trump-ai-guardrails-democrats-republicans",
-   "summary": "President has dismissed anxieties over AI\u2019s dangerous potential even as Democrats and some Republicans acknowledge risksDonald Trump is facing a rare backlash from the US Congress as Democrats and some Republicans push for guardrails on the world\u2019s most powerful AI companies.Concerns over the dangerous potential of AI reached fever pitch this week after tech leaders sounded the alarm over the rapid advancement of the technology and its potential threat to humanity. Continue reading...",
-   "published": "2026-09-15T06:39:40+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-09-15T11:50:43.930553+00:00"
-  },
-  {
-   "id": "8fa4f999491a6f25",
-   "title": "Supreme Court lifts a cloud over midterms, letting mail ballots flow as normal to voters",
-   "url": "https://abcnews.com/Politics/wireStory/supreme-court-lifts-cloud-midterms-letting-mail-ballots-136450534",
-   "summary": "The U.S. Supreme Court has rejected President Donald Trump's attempt to limit mail voting by imposing new Postal Service regulations for the midterm elections",
-   "published": "2026-09-15T06:08:52+00:00",
-   "source": "ABC News Politics",
-   "source_id": "abc-politics",
-   "bias_note": "center",
-   "first_seen": "2026-09-15T11:50:44.552704+00:00"
-  },
-  {
-   "id": "b2f2a01271bc6b32",
-   "title": "Federal Reserve is expected to raise its benchmark rate, defying Trump's demands",
-   "url": "https://abcnews.com/Politics/wireStory/federal-reserve-expected-raise-benchmark-rate-defying-trumps-136452241",
-   "summary": "The Federal Reserve is widely expected to lift its short-term interest rate Wednesday for the first time in three years to fight stubbornly high inflation, a move that would put the central bank at odds with President Donald Trump&rsquo;s demands",
-   "published": "2026-09-15T05:14:01+00:00",
-   "source": "ABC News Politics",
-   "source_id": "abc-politics",
-   "bias_note": "center",
-   "first_seen": "2026-09-15T11:50:44.552698+00:00"
-  },
-  {
-   "id": "cda717b088ce0e2f",
-   "title": "Russia sanctions bill passes House Rules Committee",
-   "url": "https://thehill.com/homenews/house/6089480-house-approves-russia-sanctions-bill/",
-   "summary": "The House Rules Committee on Monday approved bipartisan legislation aimed at increasing sanctions on Russia amid its war in Ukraine. The bill, which the late Sen. Lindsey Graham (R-S.C.) championed, would allow President Trump to impose penalties on individuals working on behalf of the Russian government to stall peace negotiations with Ukraine, violate a negotiated...",
-   "published": "2026-09-15T02:31:30+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-15T04:59:16.962056+00:00"
   }
  ]
 }
