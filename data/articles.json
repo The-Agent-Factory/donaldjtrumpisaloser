@@ -1,7 +1,62 @@
 {
- "updated": "2026-09-29T16:32:15.979220+00:00",
- "count": 1083,
+ "updated": "2026-09-29T16:49:26.321987+00:00",
+ "count": 1084,
  "articles": [
+  {
+   "id": "47c82773b7f63ac2",
+   "title": "Watters: Trump should just say 'half-off beer if you vote Republican'",
+   "url": "https://thehill.com/homenews/media/6118100-watters-trump-midterm-beer-joke/",
+   "summary": "Fox News host Jesse Watters on Monday joked that President Trump should just say that he will cut the price of beer in half if Americans vote for Republicans in the upcoming midterms. During a discussion on Fox News between Watters and conservative commentator Benny Johnson about how politicians can draw larger crowds at public...",
+   "published": "2026-09-29T16:41:02+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-29T16:49:25.740549+00:00"
+  },
+  {
+   "id": "66d874c42b128190",
+   "title": "Live updates: Jack Smith faces Senate scrutiny; Trump unveils federal AI tool",
+   "url": "https://thehill.com/homenews/administration/6116612-live-updates-trump-ai-jack-smith-senate-healthcare-affordability/",
+   "summary": "Former special counsel Jack Smith will testify before the Senate Judiciary Committee on Tuesday, his second appearance before Congress as the panel probes his investigation into President Trump. Smith led a team of Justice Department investigators and ultimately determined he would bring charges against Trump in the Mar-a-Lago documents case and another related to the...",
+   "published": "2026-09-29T16:32:40+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-29T16:49:25.740562+00:00"
+  },
+  {
+   "id": "ad325cb49698c901",
+   "title": "The \u2018swamp\u2019s\u2019 biggest growth industry is lobbying",
+   "url": "https://thehill.com/opinion/white-house/6116729-industry-response-tariffs/",
+   "summary": "Lobbying spending reached record levels during President Trump's second term due to his administration's expansive tariffs, industrial policies, and regulatory changes.",
+   "published": "2026-09-29T16:30:00+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-29T16:49:25.740591+00:00"
+  },
+  {
+   "id": "fd063dfc8a110b58",
+   "title": "Drug cartel kingpin among targets in sweeping Trump crackdown on alleged Mexican corruption network",
+   "url": "https://www.foxnews.com/politics/drug-cartel-kingpin-targets-sweeping-trump-crackdown-alleged-mexican-corruption-network",
+   "summary": "The Sinaloa cartel&apos;s Los Mayos faction faces sweeping Treasury sanctions targeting Mayito Flaco, a fugitive born in Anaheim accused of ordering hits.",
+   "published": "2026-09-29T16:29:34+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-29T16:49:25.234157+00:00"
+  },
+  {
+   "id": "40f2194f04fe2046",
+   "title": "EPA union sues Trump administration to restore collective bargaining contract",
+   "url": "https://www.theguardian.com/environment/2026/sep/29/epa-union-sues-trump-administration",
+   "summary": "Federal workers\u2019 union alleges EPA illegally terminated agreement with the goal of repressing political dissentThe union representing more than 8,000 workers at the Environmental Protection Agency (EPA) filed a lawsuit against the agency and administrator Lee Zeldin on Tuesday alleging the agency illegally terminated the union\u2019s collective bargaining agreement.The lawsuit, filed by two local unions of the American Federation of Government Employees (AFGE), claims the agency failed to justify the contract\u2019s termination and was motivated by a desire to repress political dissent, a violation of t",
+   "published": "2026-09-29T16:28:31+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-09-29T16:49:25.565010+00:00"
+  },
   {
    "id": "87d9dd51cdf9e088",
    "title": "Trump touts new AI tool he claims will streamline government information access \u2013 US politics live",
@@ -11870,50 +11925,6 @@
    "source_id": "thehill",
    "bias_note": "center",
    "first_seen": "2026-09-15T17:04:12.403429+00:00"
-  },
-  {
-   "id": "61cc8100644490ab",
-   "title": "Judge blocks new Trump inscription on Kennedy Center",
-   "url": "https://thehill.com/regulation/court-battles/6090649-trump-kennedy-center-inscription-judge/",
-   "summary": "A federal judge on Tuesday blocked the Kennedy Center\u2019s latest attempt to inscribe President Trump's name back on building \u2014 and to rename the campus after him.  U.S. District Judge Christopher Cooper ruled that the Kennedy Center board cannot move forward with the plans without \u201cCongress\u2019s blessing,\u201d finding that an August vote on the renaming...",
-   "published": "2026-09-15T16:45:28+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-15T17:04:12.403438+00:00"
-  },
-  {
-   "id": "0c8c558bb27697c1",
-   "title": "Patel grilled on ICE shootings, Trump Jr.'s wedding\u2026and bestiality?",
-   "url": "https://thehill.com/newsletters/1230-report/6090564-patel-grilled-on-ice-shootings-trump-jr-s-weddingand-bestiality/",
-   "summary": "Presented by SourceAmerica {beacon} &#8202;  PRESENTED BY It\u2019s Tuesday, and it's Sen. Mitch McConnell's first full day back in 92 days.  &#8202; In today's issue: Patel questioned Supreme Court angers Trump Texas students respond to Republican Macklemore dropped from tour Programming note: We're Joshua Feldstein and Claire Leibowitz, filling in for Cate today. Please send us your...",
-   "published": "2026-09-15T16:36:28+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-15T17:04:12.403459+00:00"
-  },
-  {
-   "id": "f5e3a313e814a473",
-   "title": "US lawmakers spar over bill giving Trump more power to sanction Russia",
-   "url": "https://www.theguardian.com/us-news/2026/sep/15/congress-tariff-legislation-trump-russia-ukraine",
-   "summary": "Proponents say sanctions would help Ukraine, but some Democrats say Trump shouldn\u2019t have more tariff authorityUS politics live \u2013 latest updatesA bill co-authored by Lindsey Graham, the South Carolina senator who died earlier this year, that would give Donald Trump broad authority to tariff Russia and its trading partners will be put forward for a vote this week in a high-stakes legislative battle that could provide new sanctioning authority to the US president at a crucial moment in Russia\u2019s war against Ukraine.The bill is facing considerable pushback not only from Ukraine-sceptic Republicans,",
-   "published": "2026-09-15T16:34:08+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-09-15T17:04:12.140804+00:00"
-  },
-  {
-   "id": "615f60925d0467df",
-   "title": "Durbin: Trump moves on voting 'most serious challenge' since Civil War",
-   "url": "https://thehill.com/homenews/senate/6090437-durbin-trump-voting-challenge/",
-   "summary": "Sen. Dick Durbin (D-Ill.) on Tuesday said President Trump's policy proposals and executive orders on voting have created the \"most serious challenge\" to the U.S. government since the Civil War. CNN's Sara Sidner asked Durbin, the ranking member of the Senate Judiciary Committee, if Democrats have a \"plan to secure voter rights.\" Durbin replied that...",
-   "published": "2026-09-15T16:33:01+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-15T17:04:12.403477+00:00"
   }
  ]
 }
