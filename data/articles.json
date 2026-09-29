@@ -1,7 +1,128 @@
 {
- "updated": "2026-09-28T20:35:14.755851+00:00",
- "count": 1117,
+ "updated": "2026-09-29T02:01:47.150966+00:00",
+ "count": 1103,
  "articles": [
+  {
+   "id": "e65492e86162ec12",
+   "title": "Trump CMS faces bipartisan pushback over Medicare proposal tied to Biden-era drug pricing law",
+   "url": "https://www.foxnews.com/politics/trump-cms-faces-bipartisan-pushback-over-medicare-proposal-tied-biden-era-drug-pricing-law",
+   "summary": "Lawmakers say the proposed Medicare policy could make it harder for patients to access newer cancer treatments by discouraging medical innovation.",
+   "published": "2026-09-28T23:46:05+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-29T02:01:45.357397+00:00"
+  },
+  {
+   "id": "5c949366aef113d7",
+   "title": "NFL to DHS: Take down video featuring Eagles star Brian Dawkins",
+   "url": "https://thehill.com/policy/sports-gaming/6116370-brian-dawkins-immigration-video/",
+   "summary": "The Department of Homeland Security (DHS) is refusing a request from the NFL and former Philadelphia Eagles player Brian Dawkins to take down a video it posted using the Hall of Fame safety to promote President Trump's immigration agenda. The video, which was posted Sunday on a DHS social media account, responded to a headline...",
+   "published": "2026-09-28T22:49:28+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-29T02:01:46.047135+00:00"
+  },
+  {
+   "id": "de426450974560df",
+   "title": "Thune: Ads promoting Trump political message 'shouldn\u2019t be paid for by taxpayer dollars'",
+   "url": "https://thehill.com/homenews/senate/6116369-thune-criticizes-trump-ads/",
+   "summary": "Senate Majority Leader John Thune (R-S.D.) told reporters Monday that while he likes President Trump\u2019s new ads pledging to \u201ccast out the communists, Marxists and fascists,\u201d they \u201cshouldn\u2019t be paid for by taxpayer dollars.\u201d Thune warned Trump about using taxpayer money for ads that resemble the political ads he ran online during the 2024 presidential...",
+   "published": "2026-09-28T22:35:14+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-29T02:01:46.047155+00:00"
+  },
+  {
+   "id": "5760d8d1a8444de9",
+   "title": "How Blanche is shattering DOJ's standard of political independence",
+   "url": "https://www.pbs.org/newshour/show/how-blanche-is-shattering-dojs-standard-of-political-independence",
+   "summary": "The nation's top federal law official is drawing scrutiny for his recent political appearances. With just five weeks left until the midterms, some experts say Attorney General Todd Blanche is blurring lines meant to keep the Justice Department free of partisan bias.  Justice correspondent Ali Rogin reports.",
+   "published": "2026-09-28T22:35:07+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-09-29T02:01:46.377974+00:00"
+  },
+  {
+   "id": "b6561da51a42d47b",
+   "title": "Tamara Keith and Amy Walter on taxpayer funds used for TV ads promoting Trump",
+   "url": "https://www.pbs.org/newshour/show/tamara-keith-and-amy-walter-on-taxpayer-funds-used-for-tv-ads-promoting-trump",
+   "summary": "NPR's Tamara Keith and Amy Walter of the Cook Political Report with Amy Walter join Geoff Bennett to discuss the latest political news, including the U.S. government paying for TV advertisements promoting President Trump, what voters think about Trump's handling of the economy and tight races in typically GOP-safe districts.",
+   "published": "2026-09-28T22:30:20+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-09-29T02:01:46.377980+00:00"
+  },
+  {
+   "id": "3e24c1f71e0f1d6c",
+   "title": "WFP official on addressing global hunger in face of wars and climate disasters",
+   "url": "https://www.pbs.org/newshour/show/wfp-official-on-addressing-global-hunger-in-face-of-wars-and-climate-disasters",
+   "summary": "The United Nations recently announced a new executive director for the World Food Programme. Luke Lindberg was a Trump administration Agriculture Department official and inherits one of the UN's toughest jobs. Hundreds of millions around the world go hungry every day, and reaching as many as possible is a monumental task. Nick Schifrin discussed more with Carl Skau, the acting director of the WFP.",
+   "published": "2026-09-28T22:25:11+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-09-29T02:01:46.377983+00:00"
+  },
+  {
+   "id": "3167c1c3fce0a8e5",
+   "title": "Trump loosens vehicle mileage standards",
+   "url": "https://thehill.com/newsletters/energy-environment/6116281-trump-loosens-vehicle-mileage-standards/",
+   "summary": "{beacon} Energy &#038; Environment Energy &#038; Environment The Big Story  Trump rolls back car fuel efficiency rules The Trump administration has rolled back car fuel efficiency standards requiring automakers to ensure their cars and light trucks were using less fuel. \u00a9 AP Photo/Rick Bowmer While the Biden-era standards would have been expected to get the...",
+   "published": "2026-09-28T22:09:00+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-29T02:01:46.047170+00:00"
+  },
+  {
+   "id": "41628002b7372029",
+   "title": "Mick Mulvaney: Trump ad 'flat out' wrong",
+   "url": "https://thehill.com/homenews/administration/6116228-mulvaney-criticizes-white-house-ad/",
+   "summary": "Former White House chief of staff Mick Mulvaney on Monday said that a new taxpayer-funded TV advertisement from the White House promoting President Trump is \"flat out\" wrong. The 30-second ad features Trump saying in a voiceover that the U.S. will \"cast out the communists, Marxists and fascists\" and \"rout the fake news media, and...",
+   "published": "2026-09-28T22:04:19+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-29T02:01:46.047185+00:00"
+  },
+  {
+   "id": "1339d3cf6eb7a6f2",
+   "title": "News outlets ask court to give \u2018little weight\u2019 to DOJ support for OpenAI in copyright dispute",
+   "url": "https://thehill.com/policy/technology/6116254-news-outlets-doj-openai-copyright/",
+   "summary": "A group of news outlets suing OpenAI for copyright infringement argued Monday that the court should give \u201clittle weight\u201d to the views of the Department of Justice (DOJ), which signaled support for the AI firm earlier this month. The New York Times, Chicago Tribune and other outlets in the case suggested the administration \u201cmay have...",
+   "published": "2026-09-28T21:57:02+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-29T02:01:46.047193+00:00"
+  },
+  {
+   "id": "b5937aea1d0d2f36",
+   "title": "'Insulting': Ex-Trump official's 'dishonest' campaign ad triggers conservative revolt",
+   "url": "https://www.foxnews.com/politics/insulting-ex-trump-officials-dishonest-campaign-ad-triggers-conservative-revolt",
+   "summary": "GOP Arkansas Gov. Sarah Huckabee Sanders&apos; reelection ad depicting a white-male welfare recipient named &quot;Brad&quot; drew conservative backlash online.",
+   "published": "2026-09-28T21:46:18+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-29T02:01:45.357413+00:00"
+  },
+  {
+   "id": "d2ee9b830d8ee528",
+   "title": "President Trump Calls on Congress to Save College Sports",
+   "url": "https://www.whitehouse.gov/releases/2026/09/president-trump-calls-on-congress-to-save-college-sports/",
+   "summary": "President Donald J. Trump is calling on Congress to pass the Protect College Sports Act and bring clarity, stability, and accountability back to college athletics. Just this weekend, President Trump was at Neyland Stadium for the blockbuster Texas\u2013Tennessee college football game where the crowd erupted in celebration of his attendance. President Trump has tremendous respect [&#8230;]\nThe post President Trump Calls on Congress to Save College Sports appeared first on The White House.",
+   "published": "2026-09-28T21:41:45+00:00",
+   "source": "WhiteHouse.gov News",
+   "source_id": "whitehouse",
+   "bias_note": "official/primary-source",
+   "first_seen": "2026-09-29T02:01:45.482009+00:00"
+  },
   {
    "id": "9bda6f43c844bc3a",
    "title": "WATCH LIVE: Jack Smith testifies before Senate Judiciary as GOP targets past Trump probes",
@@ -78,6 +199,17 @@
    "source_id": "whitehouse",
    "bias_note": "official/primary-source",
    "first_seen": "2026-09-28T20:35:12.991729+00:00"
+  },
+  {
+   "id": "3fba492f51d6b579",
+   "title": "Trump announces $15bn Iowa steel plant as he bids to boost flagging midterm hopes",
+   "url": "https://www.theguardian.com/us-news/2026/sep/28/trump-steel-plant-iowa",
+   "summary": "President says plant will be built by Indian-owned company and calls it largest such facility in American historyDonald Trump on Monday announced what he called the largest steel plant in American history to be built in Iowa, giving Republicans a jobs message to take to voters in a state that could help decide control of the Senate in November.\u201cUsing advanced steelmaking technology, the plant will produce some of the highest quality, most affordable steel anywhere in the world,\u201d Trump said in the Oval Office, flanked by Iowa\u2019s top Republicans. Continue reading...",
+   "published": "2026-09-28T19:39:39+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-09-29T02:01:45.829549+00:00"
   },
   {
    "id": "0a3a1c5cb3d0ab97",
@@ -562,6 +694,17 @@
    "source_id": "guardian-uspolitics",
    "bias_note": "left-leaning",
    "first_seen": "2026-09-28T14:04:35.248805+00:00"
+  },
+  {
+   "id": "523f98c8332067e5",
+   "title": "Gone in 90 seconds: an \u2018invisibilized\u2019 ICE is arresting more people than ever",
+   "url": "https://www.theguardian.com/us-news/ng-interactive/2026/sep/28/ice-us-immigration-new-tactics",
+   "summary": "After public backlash, the Trump administration changed its tactics from \u2018siege\u2019 to \u2018soft feet\u2019. Now, ICE is everywhere Continue reading...",
+   "published": "2026-09-28T10:00:31+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-09-29T02:01:45.829621+00:00"
   },
   {
    "id": "7db3431e1a6fd055",
@@ -11991,303 +12134,6 @@
    "source_id": "thehill",
    "bias_note": "center",
    "first_seen": "2026-09-15T04:59:16.962056+00:00"
-  },
-  {
-   "id": "d6294b924bc59d06",
-   "title": "Supreme court rejects Trump\u2019s mail ballot restrictions for midterm elections",
-   "url": "https://www.theguardian.com/us-news/2026/sep/14/supreme-court-rejects-mail-ballot-restrictions",
-   "summary": "Decision allows states to send ballots under process followed for years even as president tried to limit systemThe supreme court on Monday rejected Donald Trump\u2019s mail ballot restrictions for now, capping a flurry of last-minute legal action with voting in the midterm elections already underway.The decision allows states to continue sending out mail ballots under the same processes they have used for years. Continue reading...",
-   "published": "2026-09-15T01:51:49+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-09-15T04:59:16.635410+00:00"
-  },
-  {
-   "id": "1c0ff38bbf4ab3e0",
-   "title": "Supreme Court rejects Trump mail ballot restrictions ahead of midterms",
-   "url": "https://www.pbs.org/newshour/politics/supreme-court-rejects-trump-mail-ballot-restrictions-ahead-of-midterms",
-   "summary": "The decision allows states to continue sending ballots under existing processes used by nearly one-third of voters.",
-   "published": "2026-09-15T01:02:29+00:00",
-   "source": "PBS NewsHour Politics",
-   "source_id": "pbs-politics",
-   "bias_note": "center",
-   "first_seen": "2026-09-15T04:59:17.159843+00:00"
-  },
-  {
-   "id": "753c0c2f6aef2c84",
-   "title": "UK breakup push escalates amid historic pact after Trump backs reunification of Ireland",
-   "url": "https://www.foxnews.com/world/uk-breakup-push-escalates-historic-pact-trump-backs-reunification-ireland",
-   "summary": "Scotland, Wales and Northern Ireland leaders signed a historic joint declaration in Cardiff, warning that Westminster&apos;s time is coming to an end.",
-   "published": "2026-09-15T00:41:19+00:00",
-   "source": "Fox News Latest",
-   "source_id": "foxnews-latest",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-09-15T04:59:15.569841+00:00"
-  },
-  {
-   "id": "3a1fa148d8fe0674",
-   "title": "Blanche to hold press briefing in Rose Garden Tuesday",
-   "url": "https://thehill.com/homenews/administration/6089351-todd-blanche-white-house-briefing/",
-   "summary": "Attorney General Todd Blanche will brief reporters in the White House Rose Garden on Tuesday, as he will become the latest administration official to fill the shoes of former White House press secretary Karoline Leavitt. A White House official confirmed to NewsNation, The Hill\u2019s sister network, that Blanche will speak to members of the press. ...",
-   "published": "2026-09-15T00:39:44+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-15T04:59:16.962065+00:00"
-  },
-  {
-   "id": "3baf57217607a54f",
-   "title": "House Dems face Trump tariff dilemma as major Russia sanctions bill heads to floor",
-   "url": "https://www.foxnews.com/politics/house-democrats-face-trump-tariff-dilemma-major-russia-sanctions-bill-heads-floor",
-   "summary": "The Lindsey Graham sanctions bill forces House Democrats to weigh Ukraine support against expanding Trump tariff authority they&apos;ve long opposed.",
-   "published": "2026-09-15T00:07:28+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-09-15T04:59:15.514088+00:00"
-  },
-  {
-   "id": "70dd1ae76eb7143d",
-   "title": "Supreme Court rejects Trump bid to revive strict mail-ballot rules before midterms",
-   "url": "https://www.foxnews.com/politics/supreme-court-rejects-trump-bid-revive-strict-mail-ballot-rules-before-midterms",
-   "summary": "A lower court&apos;s nationwide block on U.S. Postal Service mail-in ballot rules remains after the Supreme Court ruled against the Trump administration.",
-   "published": "2026-09-14T23:48:45+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-09-15T04:59:15.514095+00:00"
-  },
-  {
-   "id": "ec0b7e146dc647e3",
-   "title": "Supreme Court won\u2019t restore Trump\u2019s mail-in voting plan for midterms",
-   "url": "https://thehill.com/regulation/court-battles/6089348-supreme-court-rejects-trump-mail-ballots/",
-   "summary": "The Supreme Court refused to clear the way for President Trump\u2019s mail-in voting plan for the midterms on Monday over the dissents of two conservative justices, keeping intact a judge\u2019s block that declared the plan unlawful. It\u2019s the third time the Trump administration brought the plan to the high court\u2019s emergency docket after groups have blocked the effort.   Previously, the...",
-   "published": "2026-09-14T23:46:42+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-15T04:59:16.962086+00:00"
-  },
-  {
-   "id": "edb36600f307a831",
-   "title": "The Supreme Court rejects Trump's mail voting restrictions for this year's midterms",
-   "url": "https://www.npr.org/2026/09/14/nx-s1-5962190/supreme-court-mail-in-voting-trump",
-   "summary": "The Supreme Court has rejected the Trump administration's request to allow mail-in voting restrictions under a U.S. Postal Service plan for the midterm general election.",
-   "published": "2026-09-14T23:38:40+00:00",
-   "source": "NPR Politics",
-   "source_id": "npr-politics",
-   "bias_note": "center",
-   "first_seen": "2026-09-15T04:59:16.203595+00:00"
-  },
-  {
-   "id": "5c4c67336ae7c414",
-   "title": "White House denies Trump influenced by 'pardon brokers' after '60 Minutes' investigation",
-   "url": "https://www.foxnews.com/media/white-house-denies-trump-influenced-pardon-brokers-after-60-minutes-investigation",
-   "summary": "White House spokesperson Lauren Bis said President Donald Trump doesn&apos;t know alleged pardon brokers after a recent &quot;60 Minutes&quot; report aired on Sunday.",
-   "published": "2026-09-14T23:34:08+00:00",
-   "source": "Fox News Latest",
-   "source_id": "foxnews-latest",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-09-15T04:59:15.569879+00:00"
-  },
-  {
-   "id": "8cecba612d3a9bf9",
-   "title": "Trump guts power plant climate rules",
-   "url": "https://thehill.com/newsletters/energy-environment/6089296-trump-guts-power-plant-climate-rules/",
-   "summary": "{beacon} Energy &#038; Environment Energy &#038; Environment The Big Story  Trump slashes climate rules for coal and gas plants The Trump administration on Monday gutted regulations that limited planet-warming emissions from coal- and gas-fired power plants.  \u00a9 AP Photo/Charlie Riedel, file The move allows a sector that makes up a large share of the U.S.\u2019s...",
-   "published": "2026-09-14T23:05:10+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-14T23:10:32.302741+00:00"
-  },
-  {
-   "id": "890c61ed9d542a08",
-   "title": "Democracy indicators in US at lowest levels for 50 years, data shows",
-   "url": "https://www.theguardian.com/us-news/2026/sep/15/us-democracy-indicators-lowest-for-50-years",
-   "summary": "Trump administration undermining rule of law at home and worldwide, according to intergovernmental reportKey indicators of democracy in the US have fallen to their lowest levels in 50 years, with the global rule of law significantly undermined by the Trump administration\u2019s \u201cthreats and actions\u201d, data from a leading thinktank shows.Around the world, judicial independence, credible elections and freedom of expression, press freedom and access to justice are all at their lowest levels for at least 30 years, according to the Stockholm-based International Institute for Democracy and Electoral Assis",
-   "published": "2026-09-14T23:01:19+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-09-15T04:59:16.635440+00:00"
-  },
-  {
-   "id": "be0281ea03729851",
-   "title": "6 takeaways as Trump takes sledgehammer to power plant climate regs",
-   "url": "https://thehill.com/homenews/state-watch/6089280-epa-power-plant-regs-coal-gas/",
-   "summary": "The Trump administration on Monday gutted the rules governing the nation\u2019s climate regulations for power plants.  Here\u2019s what you should know about the final rule from the Environmental Protection Agency (EPA): It axes most, but not all, power plant climate rules The rules, which have been announced but whose underlying text did not appear to...",
-   "published": "2026-09-14T22:56:24+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-14T23:10:32.302749+00:00"
-  },
-  {
-   "id": "183ef5a0119ca813",
-   "title": "Trump pushes back as AI leaders fuel calls to rein in rapidly advancing technology",
-   "url": "https://www.pbs.org/newshour/show/trump-pushes-back-as-ai-leaders-fuel-calls-to-rein-in-rapidly-advancing-technology",
-   "summary": "President Trump rejected calls for greater oversight of artificial intelligence despite the dire warnings of some in the industry. The president's pushback comes after Anthropic CEO Dario Amodei published an essay arguing for a slowdown across leading AI companies, warning rapid advances in the technology now pose an existential threat to society. Amna Nawaz discussed more with Stephen Witt.",
-   "published": "2026-09-14T22:55:54+00:00",
-   "source": "PBS NewsHour Politics",
-   "source_id": "pbs-politics",
-   "bias_note": "center",
-   "first_seen": "2026-09-14T23:10:32.729630+00:00"
-  },
-  {
-   "id": "2e8a18c3917e54e3",
-   "title": "News Wrap: Kennedy Center warns of 'fiscal collapse' without Trump's name on building",
-   "url": "https://www.pbs.org/newshour/show/news-wrap-kennedy-center-warns-of-fiscal-collapse-without-trumps-name-on-building",
-   "summary": "In our news wrap Monday, officials at the Kennedy Center are warning of \"certain fiscal collapse\" unless President Trump's name is added to the exterior of the building, several state election officials tell the News Hour they are bracing for uncertainty over mail-in ballots ahead of the midterms and NATO Secretary-General Mark Rutte condemned Russia's attacks near Ukraine's border with Poland.",
-   "published": "2026-09-14T22:45:46+00:00",
-   "source": "PBS NewsHour Politics",
-   "source_id": "pbs-politics",
-   "bias_note": "center",
-   "first_seen": "2026-09-14T23:10:32.729636+00:00"
-  },
-  {
-   "id": "38c2cd3f6dd8ce20",
-   "title": "Houthi gains in Yemen, attack on Saudi pipeline compound pressure on oil markets",
-   "url": "https://www.pbs.org/newshour/show/houthi-gains-in-yemen-attack-on-saudi-pipeline-compound-pressure-on-oil-markets",
-   "summary": "Yemen's Houthi rebels seized more islands in the strategically crucial Bab al-Mandab Strait and now control the west coast of the country. This comes as a crucial pipeline in Saudi Arabia will be out of commission for weeks. Ali Rogin discussed the latest with Michael Ratney, the U.S. ambassador to Saudi Arabia during the Biden administration.",
-   "published": "2026-09-14T22:40:45+00:00",
-   "source": "PBS NewsHour Politics",
-   "source_id": "pbs-politics",
-   "bias_note": "center",
-   "first_seen": "2026-09-14T23:10:32.729650+00:00"
-  },
-  {
-   "id": "7735d4372c5831d1",
-   "title": "Kaepernick tells 'The View' that NFL owners kept him out over politics and power, claims they donate to Trump",
-   "url": "https://www.foxnews.com/media/kaepernick-tells-view-nfl-owners-kept-him-out-over-politics-power-claims-they-donate-trump",
-   "summary": "Former 49ers player Colin Kaepernick claimed the NFL donated millions to President Donald Trump and his administration, detailing his kneeling protest fallout.",
-   "published": "2026-09-14T22:32:42+00:00",
-   "source": "Fox News Latest",
-   "source_id": "foxnews-latest",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-09-14T23:10:29.410297+00:00"
-  },
-  {
-   "id": "b5863127b835087b",
-   "title": "Putin-tied Russian oligarch paid for Trump Jr.'s wedding celebrations",
-   "url": "https://www.pbs.org/newshour/show/putin-tied-russian-oligarch-paid-for-trump-jr-s-wedding-celebrations",
-   "summary": "A ProPublica report says a Russian oligarch with ties to Vladimir Putin helped fund Donald Trump Jr.'s wedding celebration in the Bahamas. According to the report, Umar Kremlev, a Russian businessman and president of the International Boxing Association, paid hundreds of thousands in wedding expenses. Liz Landers spoke with Justin Elliot, a ProPublica journalist investigating the story.",
-   "published": "2026-09-14T22:30:29+00:00",
-   "source": "PBS NewsHour Politics",
-   "source_id": "pbs-politics",
-   "bias_note": "center",
-   "first_seen": "2026-09-14T23:10:32.729663+00:00"
-  },
-  {
-   "id": "68bb2ebc21eaab44",
-   "title": "Steamy Sydney Sweeney ad draws backlash from female athletes",
-   "url": "https://www.foxnews.com/outkick-sports/steamy-sydney-sweeney-ad-draws-backlash-female-athletes",
-   "summary": "Sydney Sweeney fired back at critics of her Novig sports trading app ad by posting ESPN magazine covers featuring nude athletes like Serena Williams.",
-   "published": "2026-09-14T22:10:18+00:00",
-   "source": "Fox News Latest",
-   "source_id": "foxnews-latest",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-09-14T23:10:29.410313+00:00"
-  },
-  {
-   "id": "2b439b8078cf30bb",
-   "title": "Federal agents may have broken state laws in voter fraud hunt, whistleblower claims",
-   "url": "https://www.npr.org/2026/09/14/nx-s1-5968892/dhs-whistleblower-voter-fraud",
-   "summary": "Federal agents may have broken state laws after the Department of Homeland Security began surging personnel for what it called the Unlawful Voter Initiative, a federal whistleblower alleges.",
-   "published": "2026-09-14T22:05:06+00:00",
-   "source": "NPR Politics",
-   "source_id": "npr-politics",
-   "bias_note": "center",
-   "first_seen": "2026-09-14T23:10:30.126572+00:00"
-  },
-  {
-   "id": "cb2900ff6aa76e59",
-   "title": "Cruz: Trump should sign college sports bill live on ESPN's 'College GameDay' once passed",
-   "url": "https://thehill.com/policy/sports-gaming/6089095-ted-cruz-protect-college-sports-act-trump-espn-gameday/",
-   "summary": "Sen. Ted Cruz (R-Texas) told reporters he would like to see the Protect College Sports Act, the proposed landmark legislation regulating the big business of college sports, signed by President Trump live on ESPN's \"College GameDay.\" \"Our goal from the beginning was not just to squeak by with 60 votes but to get a big...",
-   "published": "2026-09-14T22:01:27+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-14T23:10:32.302793+00:00"
-  },
-  {
-   "id": "d9cc0be7593b8c30",
-   "title": "Obama, Biden judges draw fresh fire as Trump\u2019s immigration court clashes heat up: \u2018Almost impossible\u2019",
-   "url": "https://www.foxnews.com/politics/obama-biden-judges-draw-fresh-fire-trumps-immigration-court-clashes-heat-up-almost-impossible",
-   "summary": "DHS Secretary Markwayne Mullin says Biden-appointed judges are &quot;almost impossible&quot; to work with as immigration enforcement battles intensify.",
-   "published": "2026-09-14T22:00:02+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-09-14T23:10:29.346271+00:00"
-  },
-  {
-   "id": "a128b7fb6a72af7b",
-   "title": "Zelenskyy says Ukraine will pause strikes on Russia if Kremlin spares critical infrastructure",
-   "url": "https://www.pbs.org/newshour/world/zelenskyy-says-ukraine-will-pause-strikes-on-russia-if-kremlin-spares-critical-infrastructure",
-   "summary": "His comments Monday follow President Donald Trump's claim that Russia and Ukraine agreed not to target each other's energy infrastructure.",
-   "published": "2026-09-14T21:57:49+00:00",
-   "source": "PBS NewsHour Politics",
-   "source_id": "pbs-politics",
-   "bias_note": "center",
-   "first_seen": "2026-09-14T23:10:32.729682+00:00"
-  },
-  {
-   "id": "1182c028900981ea",
-   "title": "As AI fears spike, Trump bats down calls for regulation",
-   "url": "https://thehill.com/homenews/administration/6089123-trump-resists-ai-regulation-warnings/",
-   "summary": "President Trump is downplaying the mounting concerns about artificial intelligence and resisting calls for regulation, putting him out of step with a growing chorus of worries coming from within the tech industry and both sides of the political aisle. Trump, speaking with reporters over the weekend and in social media posts on Monday, said warnings...",
-   "published": "2026-09-14T21:45:52+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-14T23:10:32.302797+00:00"
-  },
-  {
-   "id": "8f7a168e353d65f5",
-   "title": "Trump doubles down on AI approach",
-   "url": "https://thehill.com/newsletters/technology/6089059-trump-doubles-down-on-ai-approach/",
-   "summary": "{beacon} Technology Technology &#8202; The Big Story  Trump defends AI approach amid mounting scrutiny  President Trump defended his approach to AI on Monday, saying the only protections needed are a \u201cSTRONG AND SMART (High IQ!) PRESIDENT\u201d amid calls for AI guardrails. \u00a9 AP Photo/Alex Brandon \u201cThe only control or \u2018guardrails\u2019 that AI needs is a...",
-   "published": "2026-09-14T21:17:58+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-14T23:10:32.302812+00:00"
-  },
-  {
-   "id": "f4f0d9e862f0f75b",
-   "title": "Trump nominates Wesley Hunt to Saudi Arabia ambassador post",
-   "url": "https://thehill.com/homenews/administration/6088993-trump-nominates-wesley-hunt-ambassador/",
-   "summary": "President Trump on Monday nominated Rep. Wesley Hunt (R-Texas) to serve as U.S. ambassador to Saudi Arabia. Trump sent the nominations of Hunt and a slew of other individuals to the Senate, which has to confirm his appointments. The U.S. has not had a full-time ambassador to Saudi Arabia since Michael Ratney left office at...",
-   "published": "2026-09-14T21:05:13+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-14T23:10:32.302821+00:00"
-  },
-  {
-   "id": "7f482f7604269adf",
-   "title": "Trump guts climate rules for coal and gas power plants",
-   "url": "https://thehill.com/policy/energy-environment/6088870-trump-epa-climate-change-coal-gas-power-plants/",
-   "summary": "The Trump administration on Monday gutted regulations that limited planet-warming emissions from coal- and gas-fired power plants.  The move allows a sector that makes up a large share of the U.S.\u2019s climate change contributions to release greenhouse gases unchecked by the government. It\u2019s expected to be a win for the fossil fuel industry, while allowing...",
-   "published": "2026-09-14T20:45:00+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-14T23:10:32.302837+00:00"
-  },
-  {
-   "id": "91b9bc02a5cbf404",
-   "title": "Trump administration changes how it counts measles deaths amid Pennsylvania outbreak",
-   "url": "https://www.theguardian.com/society/2026/sep/14/trump-administration-cdc-measles-deaths-pennsylvania",
-   "summary": "CDC announces changes to how it reports measles deaths as Pennsylvania continues to confirm more casesThe Trump administration has changed the way it counts measles deaths amid an outbreak in Pennsylvania, which on Sunday saw the third apparent measles-related death in the state reported by a local coroner.The US Centers for Disease Control and Prevention (CDC) is now using data from the National Center for Health Statistics (NCHS), which is a way to track mortality trends over time, according to a note published to the agency\u2019s website on 4 September. Continue reading...",
-   "published": "2026-09-14T20:35:25+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-09-14T23:10:30.398458+00:00"
   }
  ]
 }
