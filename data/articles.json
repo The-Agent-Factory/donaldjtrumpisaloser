@@ -1,7 +1,139 @@
 {
- "updated": "2026-09-29T22:20:14.548980+00:00",
- "count": 1087,
+ "updated": "2026-09-30T05:38:57.120039+00:00",
+ "count": 1086,
  "articles": [
+  {
+   "id": "1024f0bea83693fa",
+   "title": "Venezuelan national shot by ICE officer in Austin charged with assaulting federal officer",
+   "url": "https://www.foxnews.com/us/venezuelan-national-shot-ice-officer-austin-charged-assaulting-federal-officer",
+   "summary": "The Justice Department charged Wilber Rafael Garces-Perez with assaulting a federal officer after an Austin vehicle pursuit ended in an ICE shooting.",
+   "published": "2026-09-30T03:47:05+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-30T05:38:55.019842+00:00"
+  },
+  {
+   "id": "8b0429f0e2b94743",
+   "title": "Repeat offender with lengthy rap sheet accused of gunning down Kentucky trooper during traffic stop",
+   "url": "https://www.foxnews.com/us/repeat-offender-lengthy-rap-sheet-accused-gunning-down-kentucky-trooper-during-traffic-stop",
+   "summary": "Emonnie Branch was on probation for securities fraud and wanted for a violation before the traffic stop that left Trooper Hayden Phillips dead.",
+   "published": "2026-09-30T02:04:36+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-09-30T05:38:55.019888+00:00"
+  },
+  {
+   "id": "b582f35db4bad337",
+   "title": "What products are part of US-China $60 billion tariff cuts deal",
+   "url": "https://thehill.com/business/6119380-us-china-tariff-cuts/",
+   "summary": "The U.S. and Chinese governments unveiled tariff cuts on Monday, affecting $60 billion worth of goods in varying markets. The list released by the White House spans the U.S. import of 77 categories of Chinese goods \u2013 including Christmas decorations, fireworks and children\u2019s toys. The Chinese imports of U.S. goods, meanwhile, cover 1,619 categories of...",
+   "published": "2026-09-30T01:24:18+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-30T05:38:56.182963+00:00"
+  },
+  {
+   "id": "ee5255a9816e84a2",
+   "title": "Senate blocks Democratic effort to force report on West Bank violence",
+   "url": "https://thehill.com/homenews/senate/6119354-senate-blocks-west-bank-resolution/",
+   "summary": "Republican senators blocked a Democratic attempt to bring up a resolution that would force the Trump administration to report on violence and human rights violations occurring in the West Bank.  The measure would have required the State Department to report on violence against US citizens by Israel in the West Bank, or stop aid to...",
+   "published": "2026-09-30T00:37:21+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-30T05:38:56.182982+00:00"
+  },
+  {
+   "id": "f500dfe3e0920367",
+   "title": "4 takeaways from the MAHA Summit",
+   "url": "https://thehill.com/policy/healthcare/6119302-maha-summit-corporate-takeaways/",
+   "summary": "Trump administration officials mingled with insurers, corporate executives and wellness influencers at the second Make America Healthy Again (MAHA) summit. They discussed issues ranging from affordability, the U.S. food supply and the food pyramid, as well as the use of artificial intelligence in healthcare.\u00a0 Along with many other mainstream outlets, The Hill was not granted...",
+   "published": "2026-09-29T23:40:05+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-30T05:38:56.182987+00:00"
+  },
+  {
+   "id": "0af2825be369a3f5",
+   "title": "Trump announces vague \u2018morally binding\u2019 AI deal among tech CEOs for \u2018tremendous self-policing\u2019",
+   "url": "https://www.theguardian.com/us-news/2026/sep/29/trump-ai-deal-tech-ceos-superintelligence",
+   "summary": "US president also issues executive order officially rebranding \u2018artificial intelligence\u2019 as \u2018superintelligence\u2019Donald Trump announced on Tuesday that the heads of the largest US tech and AI companies had signed on to a \u201cmorally binding\u201d agreement to put controls on artificial intelligence. He announced the deal, called the Joint Commitment On Frontier Responsibilities, following a White House luncheon with top tech executives.\u201cIt\u2019s almost like a constitution in a way, and the biggest \u200bpeople in the world signed that, and \u200bI signed it as president, and it really \u2060is a form of protection,\u201d Trump",
+   "published": "2026-09-29T23:21:25+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-09-30T05:38:55.831819+00:00"
+  },
+  {
+   "id": "b704127dde19adf8",
+   "title": "EPA to \u2018reconsider\u2019 air quality rules as Texas faces diesel price 'disaster'",
+   "url": "https://thehill.com/policy/energy-environment/6119251-epa-reconsiders-texas-air-regulations/",
+   "summary": "The Environmental Protection Agency (EPA) announced Tuesday it would \u201creconsider\u201d air-quality regulations amid Texas\u2019s diesel price \u201cdisaster.\u201d The letter sent by EPA Administrator Lee Zeldin to Texas Gov. Greg Abbott (R) responded to concern from officials in the Lone Star State that rules from the Biden and Obama administrations are causing \u201csignificant economic harm.\u201d \u201cTexas...",
+   "published": "2026-09-29T23:08:45+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-30T05:38:56.182994+00:00"
+  },
+  {
+   "id": "96ebc0e4af876a6a",
+   "title": "Self-regulation 'not enough' for AI safety, Gary Marcus says",
+   "url": "https://www.pbs.org/newshour/show/self-regulation-not-enough-for-ai-safety-gary-marcus-says",
+   "summary": "Top tech executives met with President Trump on Tuesday to discuss the future of artificial intelligence amid growing concerns over AI models losing control. Researchers and lawmakers are calling for stronger safeguards, but Trump said the technology is transforming the economy and that the U.S. cannot afford to lose its lead over China. Geoff Bennett discussed more with Gary Marcus.",
+   "published": "2026-09-29T22:55:34+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-09-30T05:38:56.445656+00:00"
+  },
+  {
+   "id": "8495cdf6d13e1e37",
+   "title": "Treasury confirms plan to auto-enroll millions of children in Trump accounts",
+   "url": "https://thehill.com/homenews/administration/6119209-treasury-auto-enrolls-trump-accounts/",
+   "summary": "The Treasury Department will automatically enroll millions of children in Trump Accounts under new rules released Tuesday, eliminating the need for parents to sign up for the investment program. The auto enrollment will create accounts for more than 60 million additional children under the age of 18, according to department guidance. The move is intended...",
+   "published": "2026-09-29T22:52:19+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-09-30T05:38:56.182996+00:00"
+  },
+  {
+   "id": "98012942a7c80ef4",
+   "title": "During Senate hearing, Jack Smith defends criminal investigations of Trump",
+   "url": "https://www.pbs.org/newshour/show/during-senate-hearing-jack-smith-defends-criminal-investigations-of-trump",
+   "summary": "The prosecutor who led criminal investigations of President Trump for the Department of Justice faced questions from Senate Republicans on Tuesday. Former special counsel Jack Smith handled two probes. One focused on the president's efforts to overturn the 2020 election and the other on Trump's alleged mishandling of classified documents. Justice correspondent Ali Rogin reports.",
+   "published": "2026-09-29T22:50:28+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-09-30T05:38:56.445662+00:00"
+  },
+  {
+   "id": "9b7a4b575b9b2021",
+   "title": "News Wrap: Supreme Court allows Trump's deportations to third countries, for now",
+   "url": "https://www.pbs.org/newshour/show/news-wrap-supreme-court-allows-trumps-deportations-to-third-countries-for-now",
+   "summary": "In our news wrap Tuesday, the Supreme Court is allowing the Trump administration to continue deporting migrants to countries other than their own for now, federal prosecutors charged a Venezuelan delivery driver who was shot by an ICE officer with assaulting a federal officer and Dutch police arrested a suspected member of the ShinyHunters group that claims it hacked the FBI's jobs database.",
+   "published": "2026-09-29T22:45:07+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-09-30T05:38:56.445665+00:00"
+  },
+  {
+   "id": "33e7dd504fb4e8a0",
+   "title": "Affordability and accountability top priorities if Democrats take House, Jeffries says",
+   "url": "https://www.pbs.org/newshour/show/affordability-and-accountability-top-priorities-if-democrats-take-house-jeffries-says",
+   "summary": "The latest polling shows Democrats with a solid shot of regaining control of the House of Representatives in the midterm elections. If they do, House Minority Leader Hakeem Jeffries could become Speaker of the House, with debates over the economy, government spending, and President Trump's agenda all unfolding. Jeffries joined Geoff Bennett to discuss those issues.",
+   "published": "2026-09-29T22:35:55+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-09-30T05:38:56.445667+00:00"
+  },
   {
    "id": "36ce7bf546ff0a84",
    "title": "Trump, GOP leaders look to reclaim control over AI narrative",
@@ -11815,149 +11947,6 @@
    "source_id": "abc-politics",
    "bias_note": "center",
    "first_seen": "2026-09-16T07:44:12.790158+00:00"
-  },
-  {
-   "id": "83d76c3c4cdc49bc",
-   "title": "7 Republicans rebel against Trump, vote with Dems to rein in Iran war powers",
-   "url": "https://www.foxnews.com/politics/republicans-rebel-against-trump-vote-dems-rein-iran-war-powers",
-   "summary": "House Republicans joined Democrats to pass a war powers resolution reining in Trump&apos;s military engagement in Iran beyond the 60-day threshold.",
-   "published": "2026-09-16T04:19:51+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-09-16T07:44:11.972335+00:00"
-  },
-  {
-   "id": "5ed3fd51e108d176",
-   "title": "House passes Iran war powers resolution",
-   "url": "https://thehill.com/homenews/house/6091940-house-iran-war-powers-resolution/",
-   "summary": "The House on Tuesday passed a Democratic-backed war powers resolution that would limit President Trump\u2019s military actions in Iran. The lower chamber voted\u00a0220-204\u00a0to pass the resolution, sponsored by Rep. Seth Moulton (D-Mass.). Seven Republicans voted in favor of the measure: Reps. Thomas Massie (Ky.), Brian Fitzpatrick (Pa.), Warren Davidson (Ohio), Tom Barrett (Mich.), Mariannette Miller-Meeks...",
-   "published": "2026-09-16T02:37:09+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-16T07:44:12.409778+00:00"
-  },
-  {
-   "id": "8d8b48034a234997",
-   "title": "Beatty reveals heated discussion with Trump over Kennedy Center",
-   "url": "https://thehill.com/homenews/administration/6091934-beatty-trump-kennedy-center-clash/",
-   "summary": "Rep. Joyce Beatty (D-Ohio), an ex-officio Kennedy Center board member, said Tuesday she got into a heated discussion with President Trump over the center. In an interview with NewsNation\u2019s Joe Khalil, Beatty said that due to her opposition to closing the Kennedy Center during a board meeting, the president \u201cfound it necessary to go into...",
-   "published": "2026-09-16T01:16:45+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-16T07:44:12.409800+00:00"
-  },
-  {
-   "id": "7cfcc6b6779d2107",
-   "title": "Federal judge refers Philadelphia DA Larry Krasner to DOJ for possible criminal investigation",
-   "url": "https://www.foxnews.com/politics/federal-judge-refers-philadelphia-da-larry-krasner-doj-possible-criminal-investigation",
-   "summary": "A federal judge referred Philadelphia DA Larry Krasner and a top deputy Tuesday to the DOJ over possible perjury and false statements.",
-   "published": "2026-09-16T00:42:40+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-09-16T07:44:11.972362+00:00"
-  },
-  {
-   "id": "8bbe3b7d0a9ba824",
-   "title": "Dem senator defeats challenger named 'No-Trump' in Delaware primary",
-   "url": "https://www.foxnews.com/politics/dem-senator-defeats-challenger-named-no-trump-delaware-primary",
-   "summary": "Chris Coons cruised past a challenger who legally changed his name to E. No-Trump Hansen, a candidate focused on curbing presidential power.",
-   "published": "2026-09-16T00:19:06+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-09-16T00:25:47.687961+00:00"
-  },
-  {
-   "id": "9b2aa26188090422",
-   "title": "Trump admin imposes new visa restrictions over alleged racial discrimination, land seizures in South Africa",
-   "url": "https://www.foxnews.com/politics/trump-admin-imposes-visa-restrictions-alleged-racial-discrimination-land-seizures-south-africa",
-   "summary": "Secretary of State Marco Rubio announced visa restrictions targeting those responsible for land seizures and racial discrimination against Afrikaners in South Africa.",
-   "published": "2026-09-16T00:11:07+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-09-16T00:25:47.687971+00:00"
-  },
-  {
-   "id": "f624b95507e11245",
-   "title": "Trump administration plans to resume deliveries of 2,000-lb bombs to Israel",
-   "url": "https://www.theguardian.com/us-news/2026/sep/15/trump-administration-bomb-supply-israel-gaza",
-   "summary": "Delivery of the weapons had been halted two years ago over mass casualty concerns amid Israel\u2019s bombing of GazaThe Trump administration is planning to deliver powerful 2,000-lb bombs to Israel as part of an upcoming arms deal, weapons that prompted such concerns about the possibility of mass casualties in Gaza that the Biden administration paused their delivery two years ago.The $2.8bn package includes 40,000 bombs, made up of 20,000 MK-84s and 20,000 BLU-117s, according to two US officials and a person familiar with the plan who spoke on Tuesday on condition of anonymity to discuss the packag",
-   "published": "2026-09-16T00:05:06+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-09-16T00:25:48.289206+00:00"
-  },
-  {
-   "id": "d340dc27d17a8388",
-   "title": "Election officials get mail-in voting clarity after Supreme Court decision",
-   "url": "https://www.pbs.org/newshour/show/elections-officials-get-mail-in-voting-clarity-after-supreme-court-decision",
-   "summary": "Voters and election officials have more clarity around mail-in voting ahead of the November midterms. That came after the Supreme Court blocked the Trump administration from imposing new restrictions on mail ballots. Amna Nawaz discussed more with Tammy Patrick of the National Association of Election Administrators.",
-   "published": "2026-09-15T22:55:38+00:00",
-   "source": "PBS NewsHour Politics",
-   "source_id": "pbs-politics",
-   "bias_note": "center",
-   "first_seen": "2026-09-16T00:25:48.577104+00:00"
-  },
-  {
-   "id": "37c0806cabcc1a7e",
-   "title": "Analyzing the Supreme Court's mail-in voting decision and Trump's reaction",
-   "url": "https://www.pbs.org/newshour/show/analyzing-the-supreme-courts-mail-in-voting-decision-and-trumps-reaction",
-   "summary": "President Trump attacked the Supreme Court's decision blocking his effort to restrict mail-in voting with less than two months before Election Day. Amna Nawaz discussed the decision with News Hour Supreme Court analyst and SCOTUSblog co-founder Amy Howe.",
-   "published": "2026-09-15T22:50:01+00:00",
-   "source": "PBS NewsHour Politics",
-   "source_id": "pbs-politics",
-   "bias_note": "center",
-   "first_seen": "2026-09-16T00:25:48.577112+00:00"
-  },
-  {
-   "id": "82041d69a446ff0c",
-   "title": "News Wrap: Democrats block crypto bill, demand limits on Trump's investments",
-   "url": "https://www.pbs.org/newshour/show/news-wrap-democrats-block-crypto-bill-demand-limits-on-trumps-investments",
-   "summary": "In our news wrap Tuesday, Senate Democrats blocked a bill that would have introduced sweeping regulations for cryptocurrencies saying it needs stronger safeguards to prevent the president and other officials from profiting while in office, Kash Patel defended his handling of the FBI during a nearly five-hour Senate hearing and the U.S. military has confirmed it has weapons in space.",
-   "published": "2026-09-15T22:45:59+00:00",
-   "source": "PBS NewsHour Politics",
-   "source_id": "pbs-politics",
-   "bias_note": "center",
-   "first_seen": "2026-09-16T00:25:48.577116+00:00"
-  },
-  {
-   "id": "10a8adb26e9b2f56",
-   "title": "NATO jets shoot down drone in Lithuania as Russia continues to provoke Europe",
-   "url": "https://www.pbs.org/newshour/show/nato-jets-shoot-down-drone-in-lithuania-as-russia-continues-to-provoke-europe",
-   "summary": "A drone was shot down in Lithuania by a NATO jet. It is unknown from where the drone was launched, but it's the latest in a series of incursions and sabotage attacks across Europe. As Russia presses its war in Ukraine, it is also now confronting NATO. Stephanie Sy discussed more with Doug Lute, a retired Army lieutenant general who was U.S. ambassador to NATO during the Obama administration.",
-   "published": "2026-09-15T22:40:02+00:00",
-   "source": "PBS NewsHour Politics",
-   "source_id": "pbs-politics",
-   "bias_note": "center",
-   "first_seen": "2026-09-16T00:25:48.577121+00:00"
-  },
-  {
-   "id": "834a827229df1589",
-   "title": "WATCH: Rep. Massie introduces articles of impeachment against Hegseth on House floor",
-   "url": "https://www.pbs.org/newshour/politics/watch-rep-massie-introduces-articles-of-impeachment-against-hegseth-on-house-floor",
-   "summary": "Massie said Hegseth abused his powers by deploying the U.S. military in the war against Iran without seeking congressional approval under the War Powers Act. He said these are \"unlawful orders\" and \"high crimes and misdemeanors.\"",
-   "published": "2026-09-15T22:36:05+00:00",
-   "source": "PBS NewsHour Politics",
-   "source_id": "pbs-politics",
-   "bias_note": "center",
-   "first_seen": "2026-09-16T00:25:48.577127+00:00"
-  },
-  {
-   "id": "c17b57bb3fe85cd1",
-   "title": "Kennedy Center board votes to close after judge blocks Trump's name from building",
-   "url": "https://www.pbs.org/newshour/show/kennedy-center-board-votes-to-close-after-judge-blocks-trumps-name-from-building",
-   "summary": "The board of the Kennedy Center in Washington voted to temporarily close the iconic performing arts center, citing financial issues and a need for structural repairs. That came shortly after a federal judge blocked the board from adding President Trump's name to the center's building or grounds. White House correspondent Liz Landers reports.",
-   "published": "2026-09-15T22:35:28+00:00",
-   "source": "PBS NewsHour Politics",
-   "source_id": "pbs-politics",
-   "bias_note": "center",
-   "first_seen": "2026-09-16T00:25:48.577130+00:00"
   }
  ]
 }
