@@ -1,7 +1,84 @@
 {
- "updated": "2026-09-30T23:54:51.750796+00:00",
- "count": 1051,
+ "updated": "2026-10-01T06:03:25.103104+00:00",
+ "count": 1052,
  "articles": [
+  {
+   "id": "bba7bc03dad63fc4",
+   "title": "Becerra, Hilton tangle over \u2018Trump, Trump, Trump\u2019 in California governor debate",
+   "url": "https://thehill.com/homenews/6122170-becerra-hilton-california-governor-debate/",
+   "summary": "Former Health Secretary Xavier Becerra (D) and Republican Steve Hilton, a former Fox News host, clashed on the debate stage Wednesday as they jostle in a contentious race to replace California Gov. Gavin Newsom (D). The rivals sparred over the economy, immigration and healthcare in an hourlong CNN debate, the first and only scheduled just...",
+   "published": "2026-10-01T04:13:57+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-01T06:03:21.833908+00:00"
+  },
+  {
+   "id": "3f0ff7023c006d4e",
+   "title": "Steve Hilton, Xavier Becerra clash in testy California governor\u2019s race debate",
+   "url": "https://www.theguardian.com/us-news/2026/oct/01/steve-hilton-xavier-becerra-clash-california-governor-race-debate",
+   "summary": "The candidates running to replace Gavin Newsom sparred over taxes, immigration and regulating AIXavier Becerra and Steve Hilton, the candidates running to be California\u2019s next governor, clashed Wednesday over taxes, immigration and regulating artificial intelligence in a testy debate held days before voters begin receiving their ballots in the heavily Democratic state.Hilton, the former Fox News host endorsed by Donald Trump, used the hourlong matchup, hosted by CNN, to argue that Becerra, a former congressman who served as health and human services secretary during the Biden administration, w",
+   "published": "2026-10-01T04:02:58+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-10-01T06:03:21.648922+00:00"
+  },
+  {
+   "id": "99deeded4e5c01b2",
+   "title": "Senate confirms insider Keith Sonderling to lead Department of Labor",
+   "url": "https://thehill.com/homenews/6122151-senate-confirms-keith-sonderling-labor-secretary/",
+   "summary": "The Senate voted 47-41 Wednesday night to confirm Keith Sonderling, acting Secretary of Labor, to the post permanently \u2014 filling a seat in President Trump\u2019s cabinet that has been officially empty since April.\u00a0 All Republicans present voted for Sonderling\u2019s nomination, and all Democrats voted against it, but the nomination only needed a majority to succeed....",
+   "published": "2026-10-01T03:28:57+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-01T06:03:21.833917+00:00"
+  },
+  {
+   "id": "b961a1723a66aaf2",
+   "title": "Rivals for California governor clash over homelessness, Trump in only debate as ballots go to voters",
+   "url": "https://abcnews.com/Politics/wireStory/rivals-california-governor-clash-homelessness-trump-debate-ballots-136904053",
+   "summary": "The candidates for California governor &mdash; Democrat Xavier Becerra and Republican Steve Hilton &mdash; clashed virtually nonstop in the sole televised debate in their contest for California governor",
+   "published": "2026-10-01T03:16:05+00:00",
+   "source": "ABC News Politics",
+   "source_id": "abc-politics",
+   "bias_note": "center",
+   "first_seen": "2026-10-01T06:03:24.800384+00:00"
+  },
+  {
+   "id": "214ce72cab240dbd",
+   "title": "Trump plugs $54 billion natural gas project in Alaska, flanked by a senator in a tight race",
+   "url": "https://abcnews.com/Politics/wireStory/trump-plugs-54-billion-natural-gas-project-alaska-136887916",
+   "summary": "President Donald Trump said South Korea plans to invest about $54 billion in a natural gas project in Alaska",
+   "published": "2026-10-01T03:15:31+00:00",
+   "source": "ABC News Politics",
+   "source_id": "abc-politics",
+   "bias_note": "center",
+   "first_seen": "2026-10-01T06:03:24.800373+00:00"
+  },
+  {
+   "id": "1e1020cdac739f16",
+   "title": "White House blocks CNN from pool duty despite judge\u2019s order",
+   "url": "https://thehill.com/homenews/6122096-white-house-blocks-cnn-pool-trump/",
+   "summary": "The White House plans to keep CNN journalists from carrying out the network\u2019s previously scheduled duty providing television pool coverage of President Trump on Thursday, a source familiar with the situation confirmed to The Hill. The administration will prevent CNN from providing its scheduled pool coverage, the source said Wednesday, despite a ruling from a...",
+   "published": "2026-10-01T02:19:23+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-01T06:03:21.833944+00:00"
+  },
+  {
+   "id": "7dbc30d1f6e521f3",
+   "title": "Kristi Noem, former Trump homeland security chief, files for divorce",
+   "url": "https://www.theguardian.com/us-news/2026/sep/30/kristi-noem-divorce",
+   "summary": "Noem cites irreconcilable differences in filing that comes after husband Bryon Noem involved in tabloid scandalKristi Noem, who was fired by Donald Trump after a rumbustious stint as homeland security secretary, is divorcing her husband, Bryon Noem, after 34 years of marriage, citing \u201cirreconcilable differences\u201d.The divorce claim \u201cfor settlement purposes only\u201d was disclosed in court records filed in Hamlin county, South Dakota, the state of which Noem was previously governor. Continue reading...",
+   "published": "2026-09-30T23:58:01+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-10-01T06:03:21.649040+00:00"
+  },
   {
    "id": "0219331675c27195",
    "title": "Trump says 'only a Hispanic could survive' fall from White House ballroom",
@@ -11496,72 +11573,6 @@
    "source_id": "propublica",
    "bias_note": "investigative",
    "first_seen": "2026-09-17T13:32:25.903953+00:00"
-  },
-  {
-   "id": "1aa02cb7c90c9bf7",
-   "title": "20 states sue to block Trump admin rule that would make it harder for immigrants to obtain visas, green cards",
-   "url": "https://www.foxnews.com/politics/20-states-sue-block-trump-admin-rule-harder-immigrants-obtain-visas-green-cards",
-   "summary": "More than 20 states sued the Department of Homeland Security over a public charge rule that could increase green card denials based on Medicaid and SNAP use.",
-   "published": "2026-09-17T05:33:43+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-09-17T07:44:57.967485+00:00"
-  },
-  {
-   "id": "8accf0da80828ec1",
-   "title": "Trump credits Whatley for GOP's past 'record setting' election wins in NC rally",
-   "url": "https://thehill.com/homenews/6094443-trump-whatley-rally-gop-battleground-credit/",
-   "summary": "President Trump made his first campaign stop in North Carolina Wednesday since last week's Republican National Committee (RNC) Midterm Convention, rallying for Senate candidate Michael Whatley as Republicans hope to keep the Tar Heel State's seat red this November. Trump claimed the battleground state during his three presidential runs. He told the Gastonia, North Carolina,...",
-   "published": "2026-09-17T02:05:22+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-17T07:44:59.047635+00:00"
-  },
-  {
-   "id": "075b057f49d27735",
-   "title": "\u2018Pretend I\u2019m on the ticket\u2019: Trump hits campaign trail in bid to boost Republican hopes",
-   "url": "https://www.theguardian.com/us-news/2026/sep/16/trump-north-carolina-campaign-rally-republicans",
-   "summary": "President stumps for Senate nominee Michael Whatley in North Carolina and urges voters to \u2018crush the communists\u2019Donald Trump returned to the campaign trail on Wednesday, imploring North Carolina voters to \u201cpretend I\u2019m on the ticket\u201d and \u201ccrush the communists\u201d in the November elections at a rally in support of the Republican Senate nominee Michael Whatley.Despite Trump\u2019s deep unpopularity, Republicans hope to once again turn the president\u2019s loyal following into a political force as the party confronts an unforgiving midterm landscape. Continue reading...",
-   "published": "2026-09-17T01:51:54+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-09-17T07:44:58.760370+00:00"
-  },
-  {
-   "id": "538817f7181784a4",
-   "title": "Peter Navarro says Fed's rate raise is 'a bad decision'",
-   "url": "https://thehill.com/business/6094397-navarro-blasts-fed-rate-hike/",
-   "summary": "White House adviser Peter Navarro on Wednesday blasted the Federal Reserve's move to raise interest rates in several years, calling it \"a bad decision.\" The central bank\u2019s Federal Open Market Committee (FOMC), led by Fed Chair Kevin Warsh, voted unanimously to increase the central bank\u2019s benchmark interest rate to a range of 3.75 percent to 4 percent. Warsh...",
-   "published": "2026-09-17T00:55:41+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-17T07:44:59.047641+00:00"
-  },
-  {
-   "id": "2c0530c61cc06461",
-   "title": "Travis Kelce among pro athletes defrauded by Ponzi scheme that funneled funds into one stock",
-   "url": "https://www.foxnews.com/outkick-sports/travis-kelce-pro-athletes-defrauded-ponzi-scheme-funneled-funds-one-stock",
-   "summary": "Travis Kelce was named as a victim in a $35 million Ponzi scheme run by Texas fund manager Siddharth Jawahar, who was sentenced to 11 years in prison.",
-   "published": "2026-09-17T00:38:05+00:00",
-   "source": "Fox News Latest",
-   "source_id": "foxnews-latest",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-09-17T07:44:58.025285+00:00"
-  },
-  {
-   "id": "b24679bc83792ceb",
-   "title": "Speaker Johnson recesses House early, blocking Massie's push to impeach Hegseth",
-   "url": "https://www.pbs.org/newshour/politics/speaker-johnson-recesses-house-early-blocking-massies-push-to-impeach-hegseth",
-   "summary": "Massie's\u00a0resolution to impeach\u00a0Defense Secretary\u00a0Pete Hegseth\u00a0over the war in Iran and his bipartisan effort to force the release of more files in the\u00a0Jeffrey Epstein\u00a0investigation are all being left behind, blocked from votes.",
-   "published": "2026-09-17T00:01:45+00:00",
-   "source": "PBS NewsHour Politics",
-   "source_id": "pbs-politics",
-   "bias_note": "center",
-   "first_seen": "2026-09-17T00:35:41.221668+00:00"
   }
  ]
 }
