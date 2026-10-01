@@ -1,7 +1,161 @@
 {
- "updated": "2026-10-01T17:18:06.777650+00:00",
- "count": 1059,
+ "updated": "2026-10-01T19:35:19.422946+00:00",
+ "count": 1061,
  "articles": [
+  {
+   "id": "34669ad8baea3aa9",
+   "title": "Most Americans blame Trump for high prices as his economic approval hits new low, AP-NORC poll shows",
+   "url": "https://www.pbs.org/newshour/politics/most-americans-blame-trump-for-high-prices-as-his-economic-approval-hits-new-low-ap-norc-poll-shows",
+   "summary": "A majority, 65%, of U.S. adults now blame Trump's policies for persistently high costs more than factors outside of his control, signaling growing weariness over his aggressive use of tariffs and continued unhappiness with the war with Iran.",
+   "published": "2026-10-01T19:30:12+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-10-01T19:35:18.877121+00:00"
+  },
+  {
+   "id": "3157b2e1ce82928b",
+   "title": "GOP senators call for DOJ to investigate Chinese role in hemp, cannabis markets",
+   "url": "https://thehill.com/policy/healthcare/6124215-gop-senators-probe-chinese-cannabis-markets/",
+   "summary": "Four GOP senators who opposed the delay of a ban on intoxicating hemp products are calling on the Justice Department to investigate the role of Chinese criminal networks in America\u2019s cannabis and intoxicating hemp markets.  In a Wednesday letter to Attorney General Todd Blanche, the senators said Chinese criminal networks \u201care exploiting vulnerabilities in federal...",
+   "published": "2026-10-01T19:23:13+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-01T19:35:18.701643+00:00"
+  },
+  {
+   "id": "9e5bfbe3d11f394c",
+   "title": "Watch live: Trump kicks off red-state campaign swing at Texas truck plant",
+   "url": "https://thehill.com/video-clips/6123945-watch-live-donald-trump-texas-manufacturing-economy-ken-paxton-senate-race/",
+   "summary": "President Trump will kick off his red-state campaign swing on Thursday afternoon with a visit to a manufacturing plant in Denton, Texas. Trump is likely to use the stop to highlight his trade and tariff agenda, as well as the Trump administration's efforts to boost domestic production. The visit comes as the president faces persistent...",
+   "published": "2026-10-01T19:00:00+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-01T19:35:18.701682+00:00"
+  },
+  {
+   "id": "56a544374ebb7ce4",
+   "title": "Treasury targets Iranian auto, rail sectors in latest round of sanctions",
+   "url": "https://thehill.com/policy/international/6124127-treasury-targets-iranian-transportation-industry-sanctions/",
+   "summary": "The Treasury Department sanctioned Iranian auto and rail industries on Thursday, the latest salvo in its economic campaign against the Islamic Republic. The Treasury\u2019s Office of Foreign Assets Control (OFAC) sanctioned the entirety of those industries \u2014 going after automobile, train and manufacturing companies \u2014 which the administration views as critical sources of funding for...",
+   "published": "2026-10-01T18:59:33+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-01T19:35:18.701689+00:00"
+  },
+  {
+   "id": "b8ff79e92fb80a65",
+   "title": "Trump: Iran will 'either sign a very fair deal' or cease to exist",
+   "url": "https://thehill.com/homenews/administration/6124187-trump-threatens-iran-peace-deal/",
+   "summary": "President Trump threatened Thursday that Iran will cease to exist if its leaders do not sign a peace deal with the U.S.\u00a0 \u201cNow I have to make a decision. They\u2019ll either sign a very fair deal, or they won\u2019t exist any longer,\u201d Trump told reporters on the South Lawn en route to Oklahoma.\u00a0\u00a0 The president...",
+   "published": "2026-10-01T18:58:45+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-01T19:35:18.701694+00:00"
+  },
+  {
+   "id": "4aaf2a207fc76ab0",
+   "title": "Brazil attorney general says meddling \u2018cannot be tolerated\u2019 after Trump funding plans revealed",
+   "url": "https://www.theguardian.com/world/2026/oct/01/brazil-attorney-general-election-meddling-trump-funding-plans",
+   "summary": "Jorge Messias calls Guardian report \u2018an important alert for Brazilian sovereignty\u2019 as nation prepares to go to pollsBrazil\u2019s attorney general has said foreign meddling in his country\u2019s institutions and democracy \u201ccannot be tolerated\u201d after a Guardian report revealed how the Trump administration was pushing to direct funds to a campaign against the Brazilian supreme court.Writing on X, Jorge Messias called the report \u201can important alert for Brazilian sovereignty\u201d. \u201cThe information is especially serious in light of Brazil\u2019s electoral process and the recent episodes of external pressure on our in",
+   "published": "2026-10-01T18:34:10+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-10-01T19:35:18.462806+00:00"
+  },
+  {
+   "id": "3af3dc284483b21e",
+   "title": "A judge permanently dismisses former Olympian's Reflecting Pool charges",
+   "url": "https://www.npr.org/2026/10/01/nx-s1-5987947/reflecting-pool-vandalism-hearn-charges-dismissed",
+   "summary": "Citing \"exceptional circumstances,\" a D.C. judge has ruled that the federal government cannot refile its Reflecting Pool charges against David Hearn, despite pressure from President Trump to do so.",
+   "published": "2026-10-01T18:22:59+00:00",
+   "source": "NPR Politics",
+   "source_id": "npr-politics",
+   "bias_note": "center",
+   "first_seen": "2026-10-01T19:35:18.372425+00:00"
+  },
+  {
+   "id": "4783f32823791eae",
+   "title": "Trump slams Time staff during interview for not asking 'one f\u2011\u2011\u2011ing positive question'",
+   "url": "https://thehill.com/homenews/administration/6123793-trump-criticizes-time-interview/",
+   "summary": "President Trump slammed Time's staff during a lengthy interview published Thursday, where he ripped into them for not asking him \"one f\u2011\u2011\u2011ing positive question.\" He was asked about Sen. Mitch McConnell (R-Ky.) returning to the Senate after months away while recuperating from a fall he suffered at home in June, and whether the lawmaker should...",
+   "published": "2026-10-01T18:13:29+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-01T19:35:18.701700+00:00"
+  },
+  {
+   "id": "e27c2aad429a42c1",
+   "title": "Ken Paxton reveals GOP polling 'dropped' after midterm convention: NYT",
+   "url": "https://thehill.com/opinion/lindseys-lens/6123990-trump-poll-numbers-drop-republicans/",
+   "summary": "So, just to recap: Trump brings Republicans to Texas for a convention designed to help Republican candidates, like Ken Paxton. Then Paxton privately says his poll numbers dropped after said convention.\u00a0And at the convention, the president is essentially doing a roast of his own Senate candidate\u2019s wardrobe, speaking style and appearance before ultimately telling voters they should still elect him.",
+   "published": "2026-10-01T17:53:29+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-01T19:35:18.701729+00:00"
+  },
+  {
+   "id": "b9f07d945a702178",
+   "title": "Nearly Two Years In, President Trump Is Still Stacking Historic Wins at Record Speed",
+   "url": "https://www.whitehouse.gov/releases/2026/10/nearly-two-years-in-president-trump-is-still-stacking-historic-wins-at-record-speed/",
+   "summary": "On Day One, President Donald J. Trump promised to \u201cmove with purpose and speed to bring back hope, prosperity, safety, and peace.\u201d Nearly two years into his second term, he has done exactly that \u2014 delivering results at a pace Washington has never seen. Here are 32 landmark policy wins from the past few weeks [&#8230;]\nThe post Nearly Two Years In, President Trump Is Still Stacking Historic Wins at Record Speed appeared first on The White House.",
+   "published": "2026-10-01T17:43:08+00:00",
+   "source": "WhiteHouse.gov News",
+   "source_id": "whitehouse",
+   "bias_note": "official/primary-source",
+   "first_seen": "2026-10-01T19:35:18.097246+00:00"
+  },
+  {
+   "id": "cc1651fd10e75e22",
+   "title": "Judge permanently dismisses Trump administration's case charging ex-Olympian with Reflecting Pool vandalism",
+   "url": "https://www.pbs.org/newshour/politics/judge-permanently-dismisses-trump-administrations-case-charging-ex-olympian-with-reflecting-pool-vandalism",
+   "summary": "A judge in the nation's capital agreed on Thursday to permanently dismiss a criminal case charging a former Olympian with vandalizing the Lincoln Memorial Reflecting Pool, a move that could prevent federal prosecutors from reviving the case under political pressure from President Donald Trump.",
+   "published": "2026-10-01T17:43:04+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-10-01T19:35:18.877130+00:00"
+  },
+  {
+   "id": "a3d0ab68f9de5d9d",
+   "title": "DNC sues Trump administration over last-minute changes to overseas voting form",
+   "url": "https://www.theguardian.com/us-news/2026/oct/01/dnc-lawsuit-trump-changes-overseas-voter-citizens",
+   "summary": "DNC accuses Pentagon of pushing through changes to how voters abroad request absentee ballots ahead of midtermsThe Trump administration broke the law when it pushed through a last-minute change to the form overseas citizens use to register and request absentee ballots, the Democratic National Committee (DNC) said in a lawsuit filed on Thursday.Until recently, the form, the Federal Post Card Application (FPCA), gave overseas voters four options to choose from when describing their geographic location. Voters could say they needed an overseas ballot because they were on active military service, ",
+   "published": "2026-10-01T17:41:19+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-10-01T19:35:18.462814+00:00"
+  },
+  {
+   "id": "45a52fbb3195cec5",
+   "title": "Trump says he rejected Secret Service plan to tear down Oval Office",
+   "url": "https://thehill.com/homenews/administration/6123889-trump-rejects-oval-office-demolition-plan/",
+   "summary": "President Trump said he told the Secret Service that he wouldn\u2019t allow for the Oval Office to be demolished. Trump was asked what he would miss the most about the White House when he leaves office at the end of his second term, and the president spoke about the historic West Wing office. \u201cThis beautiful...",
+   "published": "2026-10-01T17:33:24+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-01T19:35:18.701742+00:00"
+  },
+  {
+   "id": "a0231581a681d130",
+   "title": "Hegseth puts the future of warfare in the hands of major Maga donors",
+   "url": "https://www.theguardian.com/us-news/2026/oct/01/hegseth-musk-warfare-taskforce",
+   "summary": "Installing tech billionaires Elon Musk and Palmer Luckey to Pentagon defense board raises conflict of interest concernsBy installing the tech billionaires Elon Musk and Palmer Luckey to advisory roles in a Pentagon project about the future of warfare, the defense secretary, Pete Hegseth, bestowed extraordinary influence on two of Maga\u2019s most significant campaign donors \u2013 and both men own companies that benefit from federal defense contracting.The new project, which Hegseth dubbed \u201cProject Meridian\u201d in an event in Quantico, Virginia, on Wednesday, will be led by Pentagon official Emil Michael, ",
+   "published": "2026-10-01T17:27:38+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-10-01T19:35:18.462824+00:00"
+  },
   {
    "id": "4645123bd5fb833b",
    "title": "Netflix chief admits Trump is helping showbiz industry as federal tax credit bill aims to fuel Hollywood jobs",
@@ -11518,138 +11672,6 @@
    "source_id": "pbs-politics",
    "bias_note": "center",
    "first_seen": "2026-09-17T22:52:13.883253+00:00"
-  },
-  {
-   "id": "04fbb11670df7fe2",
-   "title": "GOP lawmakers pump brakes on Trump's $5K check promise: 'Where are you getting the money?'",
-   "url": "https://www.foxnews.com/politics/gop-lawmakers-pump-brakes-trumps-5k-check-promise-where-you-getting-money",
-   "summary": "President Donald Trump&apos;s $5,000 dividend check promise faces skepticism on Capitol Hill as key Republicans question its cost and inflation risks.",
-   "published": "2026-09-17T19:01:06+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-09-17T22:52:10.766211+00:00"
-  },
-  {
-   "id": "ba70e01ea12d878f",
-   "title": "About 35 million people have been put into new House districts in the fight over congressional maps, report says",
-   "url": "https://www.pbs.org/newshour/politics/about-35-million-people-have-been-put-into-new-house-districts-in-the-fight-over-congressional-maps-report-says",
-   "summary": "The findings display the stark overhaul that partisan redistricting fights kicked off by President Donald Trump last year have caused for Americans across the country.",
-   "published": "2026-09-17T18:59:33+00:00",
-   "source": "PBS NewsHour Politics",
-   "source_id": "pbs-politics",
-   "bias_note": "center",
-   "first_seen": "2026-09-17T22:52:13.883256+00:00"
-  },
-  {
-   "id": "8334086621fc3aef",
-   "title": "America\u2019s hunters get an exclusive seat at Trump\u2019s White House table as he takes aim at Biden-era rules",
-   "url": "https://www.foxnews.com/politics/americas-hunters-get-exclusive-seat-trumps-white-house-table-he-takes-aim-biden-era-rules",
-   "summary": "Trump will sign two executive orders at the White House expanding hunting on public lands and offshore recreational fishing before a Rose Garden dinner.",
-   "published": "2026-09-17T18:58:16+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-09-17T22:52:10.766215+00:00"
-  },
-  {
-   "id": "1cc6a683c5f10722",
-   "title": "Judge orders Trump administration to give 30 days\u2019 notice before moving to demolish Kennedy Center",
-   "url": "https://www.theguardian.com/us-news/2026/sep/17/kennedy-center-changes-30-day-notice",
-   "summary": "Ruling comes amid demolition threats by Donald Trump after being stymied from adding his name to centreA federal judge has ordered the Trump administration to give at least 30 days\u2019 notice before moving to demolish the John F Kennedy Center for the Performing Arts after the US president warned that it could be \u201cripped down\u201d.The US district judge Christopher Cooper issued the order on Thursday after lawyers for the Democratic congresswoman Joyce Beatty submitted evidence of Trump\u2019s comments and sought clarification over whether the building could be closed or bulldozed. Continue reading...",
-   "published": "2026-09-17T18:28:37+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-09-17T22:52:11.224784+00:00"
-  },
-  {
-   "id": "f1aed43df5c5d168",
-   "title": "Trump says he has a \u2018big decision coming up\u2019 on Iran",
-   "url": "https://thehill.com/homenews/administration/6096198-trump-iran-annihilate-decision/",
-   "summary": "President Trump said on Thursday that he is facing a major looming decision in Iran as the U.S. war in the country shows no signs of subsiding.\u00a0 \"I have a big decision coming up. Do I want to go in and annihilate them [the Iranian regime] or do I not? It's a big decision. Anything...",
-   "published": "2026-09-17T18:11:31+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-17T18:18:03.992202+00:00"
-  },
-  {
-   "id": "373f5fe9dc91611e",
-   "title": "A global AI safety strategy depends on U.S.-China cooperation. They each see the other as the problem",
-   "url": "https://www.pbs.org/newshour/world/a-global-ai-safety-strategy-depends-on-u-s-china-cooperation-they-each-see-the-other-as-the-problem",
-   "summary": "AI governance is expected to be on the agenda in a meeting planned for next week in Washington between President Donald Trump and Chinese leader Xi Jinping.",
-   "published": "2026-09-17T18:10:32+00:00",
-   "source": "PBS NewsHour Politics",
-   "source_id": "pbs-politics",
-   "bias_note": "center",
-   "first_seen": "2026-09-17T18:18:04.310230+00:00"
-  },
-  {
-   "id": "586145642cfbfd17",
-   "title": "Trump administration denies visas for Palestinian delegation to attend UN General Assembly for second year",
-   "url": "https://thehill.com/homenews/administration/6096022-trump-denies-plo-pa-visas/",
-   "summary": "The Trump administration on Wednesday denied visas to the Palestinian Liberation Organization (PLO) and the Palestinian Authority's (PA) delegation to the United Nations General Assembly in New York for the second time in more than a year. The State Department accused the PLO and the PA of failing their commitments as established in the PLO...",
-   "published": "2026-09-17T18:07:56+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-17T18:18:03.992209+00:00"
-  },
-  {
-   "id": "98b70f19193d9683",
-   "title": "Minnesota's anti-ICE aid fund becomes latest casualty of state's embarrassing fraud problem",
-   "url": "https://www.foxnews.com/politics/minnesotas-anti-ice-aid-fund-becomes-latest-casualty-states-embarrassing-fraud-problem",
-   "summary": "Hennepin County paid out $500,000 in grants before shutting down a $2 million program tied to Operation Metro Surge due to overwhelming fraud.",
-   "published": "2026-09-17T18:01:05+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-09-17T18:18:02.771615+00:00"
-  },
-  {
-   "id": "f88c41044d20df05",
-   "title": "White House withdraws nomination of ex-state trooper Lance Schroyer to head ICE",
-   "url": "https://www.theguardian.com/us-news/2026/sep/17/lance-schroyer-ice-director-nomination-withdrawn",
-   "summary": "Critics had criticized administration for nominating Schroyer, who has no formal experience working in ICEThe White House has withdrawn the nomination of Lance Schroyer, a former Oklahoma state trooper, to head Immigration and Customs Enforcement, less than three months after announcing his role.Critics had initially criticized administration officials for nominating Schroyer, who has no formal experience working in ICE, to lead Donald Trump\u2019s aggressive immigration enforcement agenda. Continue reading...",
-   "published": "2026-09-17T17:53:55+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-09-17T18:18:03.689045+00:00"
-  },
-  {
-   "id": "9946617c029bb45e",
-   "title": "Trump administration reduces protections for endangered species again",
-   "url": "https://thehill.com/policy/energy-environment/6096057-trump-endangered-species-esa/",
-   "summary": "The Trump administration has further reduced protections for endangered species under the Endangered Species Act (ESA). That law prohibits any \u201ctake\u201d of endangered species, which it defines as to \u201charass, harm, pursue, hunt, shoot, wound, kill, trap, capture, or collect, or to attempt to engage in any such conduct.\u201d The administration\u00a0recently repealed\u00a0a previous definition of...",
-   "published": "2026-09-17T17:35:25+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-17T18:18:03.992247+00:00"
-  },
-  {
-   "id": "6c85f61efe7c7d45",
-   "title": "Florida congresswoman running for reelection breaks with Trump on immigration",
-   "url": "https://www.pbs.org/newshour/politics/florida-congresswoman-running-for-reelection-breaks-with-trump-on-immigration",
-   "summary": "Rep. Maria Elvira Salazar is out with a new ad criticizing President Donald Trump's deportation campaign.",
-   "published": "2026-09-17T17:21:00+00:00",
-   "source": "PBS NewsHour Politics",
-   "source_id": "pbs-politics",
-   "bias_note": "center",
-   "first_seen": "2026-09-17T18:18:04.310237+00:00"
-  },
-  {
-   "id": "486a10498a0842a4",
-   "title": "Warsh wins credibility with Fed rate hike: 5 takeaways",
-   "url": "https://thehill.com/business/6095976-fed-hike-warsh-trump-reaction/",
-   "summary": "While President Trump has not publicly criticized Federal Reserve Chair Kevin Warsh for the central bank hiking interest rates on Wednesday, the move was still the opposite of what the president wanted. \u201cI\u2019m relying on Kevin. But he\u2019s got \u2026 a very tough board,\u201d Trump told reporters in North Carolina on Wednesday, adding interest rates are \u201ctoo high.\u201d...",
-   "published": "2026-09-17T17:20:12+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-17T18:18:03.992261+00:00"
   }
  ]
 }
