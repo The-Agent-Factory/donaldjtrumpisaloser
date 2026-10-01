@@ -1,7 +1,205 @@
 {
- "updated": "2026-10-01T13:25:43.688258+00:00",
+ "updated": "2026-10-01T17:18:06.777650+00:00",
  "count": 1059,
  "articles": [
+  {
+   "id": "4645123bd5fb833b",
+   "title": "Netflix chief admits Trump is helping showbiz industry as federal tax credit bill aims to fuel Hollywood jobs",
+   "url": "https://www.foxnews.com/media/netflix-chief-admits-trump-helping-showbiz-industry-federal-tax-credit-bill-aims-fuel-hollywood-jobs",
+   "summary": "Ted Sarandos praised Donald Trump&apos;s push for a federal film tax credit, saying the president &quot;really cares&quot; about creating entertainment industry jobs in America.",
+   "published": "2026-10-01T16:49:01+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-10-01T17:18:03.326816+00:00"
+  },
+  {
+   "id": "03b99bfe771b90ea",
+   "title": "10 Democrat-held House seats Republicans could flip to save their majority",
+   "url": "https://www.foxnews.com/politics/10-democrat-held-house-seats-republicans-could-flip-save-majority",
+   "summary": "President Donald Trump&apos;s margins in redrawn districts fuel Republican hopes of flipping 10 Democratic House seats in the battle for Congress.",
+   "published": "2026-10-01T16:45:07+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-10-01T17:18:03.257143+00:00"
+  },
+  {
+   "id": "93e6c4bd870c56d9",
+   "title": "Trump\u2019s new high-tech government hub holds some bizarre surprises: \u2018Enjoy finding them\u2019",
+   "url": "https://www.foxnews.com/politics/trumps-new-high-tech-government-hub-holds-some-bizarre-surprises-enjoy-finding-them",
+   "summary": "America.gov developers planted Easter eggs across Trump&apos;s new AI-powered site, including a Minecraft &quot;End Poem&quot; parody and a hot dog search bar.",
+   "published": "2026-10-01T16:44:56+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-10-01T17:18:03.257157+00:00"
+  },
+  {
+   "id": "de6e5cb67a363fd3",
+   "title": "Capitol Hill is a ghost town until November",
+   "url": "https://thehill.com/newsletters/1230-report/6123740-senate-recess-republicans-donald-trump-supreme-court-brendan-carr-fcc/",
+   "summary": "Plus: \ud83d\udc89The failed execution of Christa Pike {beacon} &#8202; It\u2019s Thursday, and National Pumpkin Spice Day. This is maybe the fifth time we\u2019ve written about pumpkin spice, but we thought you should know.  &#8202; In today's issue: Senate goes on midterm recess  Trump\u2019s Supreme Court regrets  FCC OKs taxpayer-funded ads  Christa Pike\u2019s execution snafu Programming...",
+   "published": "2026-10-01T16:36:42+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-01T17:18:05.969737+00:00"
+  },
+  {
+   "id": "aa777049e69382ac",
+   "title": "EXCLUSIVE: Trump\u2019s new security alliance faces first real-world test deep in South America as troops deploy",
+   "url": "https://www.foxnews.com/world/exclusive-trumps-new-security-alliance-faces-first-real-world-test-deep-south-america-troops-deploy",
+   "summary": "Donald Trump&apos;s Shield of the Americas faces its first real test as Bolivia deploys forces to strategic routes amid renewed blockade and unrest fears.",
+   "published": "2026-10-01T16:16:43+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-10-01T17:18:03.326845+00:00"
+  },
+  {
+   "id": "8434f5304eb03575",
+   "title": "Renee Good's family, partner sue for damages",
+   "url": "https://thehill.com/regulation/court-battles/6123694-lawsuits-renee-good-ice-shooting/",
+   "summary": "The family and partner of Renee Good, the 37-year-old mother killed by an Immigration and Customs Enforcement (ICE) officer in Minneapolis, filed lawsuits Wednesday against the federal government and President Trump for damages following the shooting. Good was fatally shot on Jan. 7 during the Department of Homeland Security\u2019s (DHS) immigration crackdown in Minnesota called...",
+   "published": "2026-10-01T16:12:50+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-01T17:18:05.969758+00:00"
+  },
+  {
+   "id": "e476e5d73a257cdf",
+   "title": "Trump handing 1 million Americans Obamacare refund checks in 30 states",
+   "url": "https://www.foxnews.com/politics/trump-handing-1-million-americans-obamacare-refund-checks-30-states",
+   "summary": "The White House is sending $500 refund checks with a personal Trump letter to 950,000 Americans across 30 states over Obamacare overcharges.",
+   "published": "2026-10-01T16:06:31+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-10-01T17:18:03.257161+00:00"
+  },
+  {
+   "id": "ff06cf20d36bfa72",
+   "title": "Wisconsin mosque leader\u2019s deportation fight takes dramatic turn as Trump admin scores major win",
+   "url": "https://www.foxnews.com/politics/wisconsin-mosque-leader-deportation-fight-takes-dramatic-turn-trump-admin-scores-major-win",
+   "summary": "Marco Rubio ordered the deportation of Milwaukee&apos;s largest mosque leader on national security grounds, citing Israeli convictions and alleged terror ties.",
+   "published": "2026-10-01T16:01:33+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-10-01T17:18:03.257167+00:00"
+  },
+  {
+   "id": "37b4f662f3d276fc",
+   "title": "Trump dismisses low poll ratings as \u2018fake numbers\u2019 in Time interview",
+   "url": "https://www.theguardian.com/us-news/2026/oct/01/trump-iran-war-poll-ratings-time-interview",
+   "summary": "President also doesn\u2019t rule out declaring state of emergency before midterms and deflects responsibility for Iran warUS politics live \u2013 latest updatesDonald Trump deflected responsibility for misleading Americans about the length of the Iran war, dismissed low poll ratings as \u201cfake numbers\u201d and refused to rule out the possibility of declaring a state of emergency before the midterms, in a wide-ranging interview with Time magazine.When confronted with questions about the length of the Iran war, the US president blamed the media for reporting his remarks in which he said the conflict was project",
+   "published": "2026-10-01T15:56:47+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-10-01T17:18:04.364818+00:00"
+  },
+  {
+   "id": "0c6635b15e9cb700",
+   "title": "Supreme Court grants review of Trump administration's mandatory detention policy for immigrants",
+   "url": "https://www.pbs.org/newshour/politics/supreme-court-grants-review-of-trump-administrations-mandatory-detention-policy-for-immigrants",
+   "summary": "The case will test a key pillar of the Trump administration's hard-line immigration agenda.",
+   "published": "2026-10-01T15:45:07+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-10-01T17:18:06.086351+00:00"
+  },
+  {
+   "id": "7bbe8ca576ae05d5",
+   "title": "Judge bars future Reflecting Pool charges against former Olympian",
+   "url": "https://thehill.com/regulation/court-battles/6123554-federal-judge-david-hearn-donald-trump-reflecting-pool-case-dismissed/",
+   "summary": "The federal case against a former Olympian accused by the Trump administration of damaging the Lincoln Memorial Reflecting Pool is officially dead after a Washington, D.C., judge ruled Thursday that the Department of Justice (DOJ) cannot try to charge him again in the future. Superior Court Judge Todd Edelman dismissed the case against David Hearn...",
+   "published": "2026-10-01T15:44:18+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-01T17:18:05.969784+00:00"
+  },
+  {
+   "id": "47f43554ccefb6c8",
+   "title": "Trump administration accused of pushing \u2018plainly illegal\u2019 taxpayer-funded ads to promote president",
+   "url": "https://www.theguardian.com/us-news/2026/oct/01/house-democrats-letter-trump-ads",
+   "summary": "House Democrats say officials may have illegally misused public funds to pay for Trump\u2019s \u2018narcissistic ego trips\u2019The Trump administration is facing growing questions over whether it illegally used taxpayer money to air television ads promoting Donald Trump five weeks before the US midterm elections.Two congressional Democrats, Jamie Raskin of Maryland and George Whitesides of California, have asked federal watchdogs to investigate the ads. Continue reading...",
+   "published": "2026-10-01T15:39:43+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-10-01T17:18:04.364829+00:00"
+  },
+  {
+   "id": "deed4fd8577b03c9",
+   "title": "Trump refuses to rule out demolishing Kennedy Center",
+   "url": "https://thehill.com/homenews/administration/6123520-the-trump-kennedy-center-time-magazine-interview/",
+   "summary": "President Trump is refusing to commit to not demolishing the Kennedy Center amid the legal battle over the performing arts center's name and renovation. Trump, in a new interview with Time magazine, was asked if he would commit to not bringing in wrecking balls to take down the center without congressional consent. \u201cI'm not committing...",
+   "published": "2026-10-01T15:26:25+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-01T17:18:05.969820+00:00"
+  },
+  {
+   "id": "bae91bc1844274b6",
+   "title": "Appeals court rules Trump's name can't be carved into Institute of Peace building",
+   "url": "https://thehill.com/regulation/court-battles/6123393-trump-usip-name-blocked/",
+   "summary": "A federal appeals court\u00a0on Wednesday night ruled that President Trump\u2019s name can\u2019t be carved\u00a0into the U.S. Institute of Peace building, for now.\u00a0 The judges are\u00a0considering a lawsuit brought by removed board members, who challenge the administration\u2019s takeover of the institute. The appeals court has allowed the takeover\u00a0to\u00a0proceed until it resolves the\u00a0case.\u00a0 Trump\u2019s name now\u00a0appears on...",
+   "published": "2026-10-01T15:14:03+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-01T17:18:05.969840+00:00"
+  },
+  {
+   "id": "234f1a20b9959176",
+   "title": "Iranian negotiators kicked out of US as talks stall, Trump lays out 'possible' timeline for more strikes",
+   "url": "https://www.foxnews.com/politics/iranian-negotiators-kicked-out-us-talks-stall-trump-lays-possible-timeline-more-strikes",
+   "summary": "Marco Rubio ordered Iran&apos;s delegation to leave New York after talks stalled, as President Donald Trump warned ramped-up bombing is &quot;possible.&quot;",
+   "published": "2026-10-01T14:50:22+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-10-01T17:18:03.257170+00:00"
+  },
+  {
+   "id": "18bcd09bcbbec16d",
+   "title": "Trump will hold a rally in Choctaw Nation, a rare presidential visit to Indian Country",
+   "url": "https://www.pbs.org/newshour/politics/trump-will-hold-a-rally-in-choctaw-nation-a-rare-presidential-visit-to-indian-country",
+   "summary": "The rally is part of President Donald Trump's recent campaign push through deep red states, where he has been stumping for Republican candidates and promoting his agenda ahead of November's midterm elections.",
+   "published": "2026-10-01T14:10:57+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-10-01T17:18:06.086358+00:00"
+  },
+  {
+   "id": "033efa691caedf23",
+   "title": "White House removes CNN from press pool for second time in a week",
+   "url": "https://www.theguardian.com/media/2026/oct/01/nn-white-house-second-removal-media-ban",
+   "summary": "Network was listed as primary TV pool covering Thursday\u2019s presidential activities but then was abruptly removedFor a second time in a week, the White House has unilaterally removed CNN from its assignment as the primary television pool representative covering Donald Trump.CNN was excluded on Saturday from pool duty onboard Air Force One, despite a district judge\u2019s ruling \u2013 two days earlier \u2013&nbsp;overturning the White House\u2019s ban on the network and two other media organizations. Continue reading...",
+   "published": "2026-10-01T14:07:20+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-10-01T17:18:04.364836+00:00"
+  },
+  {
+   "id": "828171111f78e56a",
+   "title": "Supreme Court to scrutinize key pillar of Trump deportation machine in blockbuster case",
+   "url": "https://www.foxnews.com/politics/supreme-court-hear-challenge-trumps-mass-detention-policy",
+   "summary": "The Supreme Court will hear a major case over whether certain immigrants held in ICE detention must receive bond hearings while awaiting deportation.",
+   "published": "2026-10-01T14:07:04+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-10-01T17:18:03.257180+00:00"
+  },
   {
    "id": "210de89c86685a1b",
    "title": "Latest taxpayer-funded ad promotes Trump war with Iran",
@@ -146,6 +344,17 @@
    "first_seen": "2026-10-01T13:25:43.478629+00:00"
   },
   {
+   "id": "3b6863985b650cf3",
+   "title": "Trump the environmentalist? How his Iran war exposed the fragility of dirty energy",
+   "url": "https://www.theguardian.com/us-news/2026/oct/01/trump-iran-war-oil-gas-energy",
+   "summary": "Gavin Newsom says Trump is a \u2018gift\u2019 to the climate cause for dispelling notions of fossil fuel energy securityOf all the epithets hurled at Donald Trump since he became US president, perhaps the most unusual was delivered last week \u2013 that he is, in fact, some sort of environmentalist.Trump is the \u201cgreatest gift\u201d to the environmental movement, argued Gavin Newsom, California\u2019s governor, due to the fallout from the US-Israel war on Iran. Continue reading...",
+   "published": "2026-10-01T11:30:49+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-10-01T17:18:04.364878+00:00"
+  },
+  {
    "id": "33e06cd4c02f1c88",
    "title": "Americans are paying millions for a batch of pro-Trump ads | Margaret Sullivan",
    "url": "https://www.theguardian.com/commentisfree/2026/oct/01/taxpayer-funded-pro-trump-ads",
@@ -188,6 +397,17 @@
    "source_id": "foxnews-politics",
    "bias_note": "right-leaning",
    "first_seen": "2026-10-01T13:25:40.419540+00:00"
+  },
+  {
+   "id": "eed1b62d56888ae0",
+   "title": "ICE got \u2018quieter\u2019 \u2013 then killed a father in Maine. Now watch groups are shifting their tactics too",
+   "url": "https://www.theguardian.com/us-news/2026/oct/01/ice-watch-maine-tactics",
+   "summary": "ICE-watchers get creative after the killing of Johan Sebasti\u00e1n Dur\u00e1n Guerrero, as Trump\u2019s immigration crackdown takes a more secretive approachMost of the time, the scene outside the Immigration and Customs Enforcement (ICE) facility in the small, coastal town of Scarborough, Maine, could be confused for a nature watch in \u201cVacationland\u201d, the slogan on state license plates.People sitting in lawn chairs under a tent. Birds chirping. The sound of the breeze moving through the trees. Continue reading...",
+   "published": "2026-10-01T10:00:35+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-10-01T17:18:04.364885+00:00"
   },
   {
    "id": "a14033c96aff1df1",
@@ -342,6 +562,17 @@
    "source_id": "abc-politics",
    "bias_note": "center",
    "first_seen": "2026-10-01T06:03:24.800373+00:00"
+  },
+  {
+   "id": "c2be1156aae3b6c4",
+   "title": "Democrats UNANIMOUSLY Vote AGAINST the Stop Insider Trading Act",
+   "url": "https://www.whitehouse.gov/releases/2026/09/democrats-unanimously-vote-against-the-stop-insider-trading-act/",
+   "summary": "President Trump stands with the American people\u2014 no lawmaker, regardless of party or seniority, should utilize insider information for personal profit. In his State of the Union Address to Congress earlier this year, President Trump called for the passage of the Stop Insider Trading Act without delay to ensure that Members of Congress cannot profit [&#8230;]\nThe post Democrats UNANIMOUSLY Vote AGAINST the Stop Insider Trading Act appeared first on The White House.",
+   "published": "2026-10-01T03:00:00+00:00",
+   "source": "WhiteHouse.gov News",
+   "source_id": "whitehouse",
+   "bias_note": "official/primary-source",
+   "first_seen": "2026-10-01T17:18:03.811877+00:00"
   },
   {
    "id": "1e1020cdac739f16",
@@ -11419,237 +11650,6 @@
    "source_id": "thehill",
    "bias_note": "center",
    "first_seen": "2026-09-17T18:18:03.992261+00:00"
-  },
-  {
-   "id": "65b01899f56c508f",
-   "title": "Appeals court weighs Missouri congressional map despite Supreme Court block",
-   "url": "https://abcnews.com/Politics/wireStory/appeals-court-weighs-trump-backed-missouri-congressional-map-136534521",
-   "summary": "A federal appeals court panel is considering an attempt to revive Missouri congressional districts backed by Donald Trump",
-   "published": "2026-09-17T17:16:51+00:00",
-   "source": "ABC News Politics",
-   "source_id": "abc-politics",
-   "bias_note": "center",
-   "first_seen": "2026-09-17T18:18:04.757360+00:00"
-  },
-  {
-   "id": "d55a7ea899352ac3",
-   "title": "Watch live: RFK Jr. speaks at children\u2019s health forum amid vaccine scrutiny",
-   "url": "https://thehill.com/video-clips/6095784-watch-live-rfk-jr-childrens-health-defense-anti-vaccine-conference-2026/",
-   "summary": "Health and Human Services Secretary Robert F. Kennedy Jr. will give the keynote address Thursday at a conference hosted by the Children's Health Defense, an anti-vaccine advocacy organization that he helped found. The speech comes as Kennedy faces scrutiny over changes the Trump administration made to the childhood vaccine schedule and new dietary guidance under...",
-   "published": "2026-09-17T17:00:42+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-17T18:18:03.992266+00:00"
-  },
-  {
-   "id": "c0219e399196f2f0",
-   "title": "Florida Republican breaks with Trump on immigration in campaign ad: Latino voters 'feel betrayed'",
-   "url": "https://thehill.com/homenews/campaign/6095767-maria-salazar-trump-immigration-ad/",
-   "summary": "Rep. Maria Elvira Salazar (R-Fla.) accused President Trump of going \u201ctoo far\u201d with federal immigration enforcement operations in a campaign advertisement released Thursday. \u201cThe same Hispanics who helped you get to the White House in 2024 feel betrayed today,\u201d\u00a0said Salazar, who's running for reelection in November, in the new clip. \u201cYou can be for immigration...",
-   "published": "2026-09-17T16:39:30+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-17T18:18:03.992305+00:00"
-  },
-  {
-   "id": "d25be405131f3362",
-   "title": "Fox News AI Newsletter: Trump shreds AI doomer 'hoax'",
-   "url": "https://www.foxnews.com/tech/ai-newsletter-trump-shreds-ai-doomer-hoax",
-   "summary": "The Fox News AI Newsletter covers the latest artificial intelligence technology advancements, including the challenges and opportunities AI presents now and for the future.",
-   "published": "2026-09-17T16:39:15+00:00",
-   "source": "Fox News Latest",
-   "source_id": "foxnews-latest",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-09-17T18:18:02.856145+00:00"
-  },
-  {
-   "id": "ea207a1fdd3db303",
-   "title": "Environment, health groups sue over Trump move to wipe out climate rules for power plants",
-   "url": "https://thehill.com/policy/energy-environment/6095884-environment-health-trump-power-plants-carbon/",
-   "summary": "Environmental and public health-focused organizations are suing the Trump administration over its move to wipe out most climate regulations on coal and gas power plants. The Natural Resources Defense Council (NRDC), American Lung Association, American Public Health Association, Clean Air Council, Clean Wisconsin and the Environmental Defense Fund filed the suit on Thursday. The move comes...",
-   "published": "2026-09-17T16:33:58+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-17T18:18:03.992307+00:00"
-  },
-  {
-   "id": "18834f85b76dffde",
-   "title": "'American Scoundrel' traces Roy Cohn's playbook from McCarthyism to Trump",
-   "url": "https://www.npr.org/2026/09/17/nx-s1-5965831/american-scoundrel-traces-roy-cohns-playbook-from-mccarthyism-to-trump",
-   "summary": "In Kai Bird's biography of Cohn, he looks at how the lawyer taught Trump how to deny, delay, attack, sue and countersue, never admit defeat, side-step paying bills and avoid a paper trail.",
-   "published": "2026-09-17T16:14:06+00:00",
-   "source": "NPR Politics",
-   "source_id": "npr-politics",
-   "bias_note": "center",
-   "first_seen": "2026-09-17T18:18:03.451597+00:00"
-  },
-  {
-   "id": "6c73a0a6e7d17fa9",
-   "title": "Fraud mastermind behind multimillion-dollar Ponzi scheme that victimized Travis Kelce is illegal immigrant",
-   "url": "https://www.foxnews.com/politics/fraud-mastermind-multi-million-dollar-ponzi-scheme-victimized-travis-kelce-illegal-immigrant",
-   "summary": "Siddharth Jawahar, an illegal immigrant from India, was sentenced to 11 years for a $35 million Ponzi scheme that victimized Travis Kelce and NBA stars.",
-   "published": "2026-09-17T15:51:59+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-09-17T18:18:02.771669+00:00"
-  },
-  {
-   "id": "4311baa19e3284a3",
-   "title": "Withdrawals Sent to the Senate",
-   "url": "https://www.whitehouse.gov/presidential-actions/2026/09/withdrawals-sent-to-the-senate/",
-   "summary": "WITHDRAWALS SENT TO THE SENATE: Jeffrey Anderson, of Georgia, to be Representative of the United States of America on the Council of the International Civil Aviation Organization, with the rank of Ambassador, which was sent to the Senate on January 13, 2026. John Grunewald II, of Oklahoma, to be a Member of the Farm Credit [&#8230;]\nThe post Withdrawals Sent to the Senate appeared first on The White House.",
-   "published": "2026-09-17T15:48:13+00:00",
-   "source": "WhiteHouse.gov News",
-   "source_id": "whitehouse",
-   "bias_note": "official/primary-source",
-   "first_seen": "2026-09-17T18:18:03.017454+00:00"
-  },
-  {
-   "id": "23941e9ae6cf13d5",
-   "title": "House Republican releases campaign ad critical of Trump\u2019s immigration policies",
-   "url": "https://www.theguardian.com/us-news/2026/sep/17/republican-maria-elvira-salazar-campaign-ad-trump-immigration",
-   "summary": "Mar\u00eda Elvira Salazar says some enforcement has \u2018gone too far\u2019 as GOP seeks distance from Trump before midtermsA Republican congresswoman has released a campaign ad criticizing Donald Trump\u2019s approach to immigration enforcement, in the latest sign that a key plank of the president\u2019s 2024 re-election campaign has become a liability for his congressional allies ahead of November\u2019s midterm elections.\u201cMr President, some of your immigration enforcement efforts have gone too far,\u201d Florida\u2019s Mar\u00eda Elvira Salazar says in a 30-second ad. \u201cIn July, 50% of the 50,000 people that were detained had no crimi",
-   "published": "2026-09-17T15:37:53+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-09-17T18:18:03.689094+00:00"
-  },
-  {
-   "id": "276daa7068a1ec9e",
-   "title": "Kennedy Center director says closure will last 1 week 'unless extended'",
-   "url": "https://thehill.com/regulation/court-battles/6095544-kennedy-center-emergency-repairs-closure-justice-department/",
-   "summary": "The Kennedy Center\u2019s main building will be closed for at least a week for emergency repairs, its executive director said in court filings on Thursday, as the Department of Justice (DOJ) insists the move is unrelated to the Trump-aligned board\u2019s decision to pursue long-term renovations. Executive Director Matt Floca wrote in a court declaration that...",
-   "published": "2026-09-17T15:14:56+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-17T15:27:47.792156+00:00"
-  },
-  {
-   "id": "32327f7cd76b0c42",
-   "title": "Trump\u2019s $5K checks could join stack of past unfulfilled promises, former Congress budget chief warns",
-   "url": "https://www.foxnews.com/politics/trumps-5k-checks-could-join-stack-past-unfulfilled-promises-former-congress-budget-chief-warns",
-   "summary": "President Donald Trump&apos;s $5,000 tariff checks and DOGE savings promises are unlikely to arrive, says former CBO Director Douglas Holz-Eakin.",
-   "published": "2026-09-17T15:14:18+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-09-17T15:27:47.050556+00:00"
-  },
-  {
-   "id": "cc9dee7601628764",
-   "title": "Trump: Surging gas costs are 'very inexpensive price to pay' for Iran war",
-   "url": "https://thehill.com/homenews/state-watch/6095554-trump-gasoline-prices-iran-war/",
-   "summary": "President Trump referred to surging gas prices as a small \u201cprice to pay\u201d for the U.S. war in Iran while speaking to a crowd of supporters Wednesday in North Carolina.\u00a0 \u201cIt\u2019s a very inexpensive price to pay for what we've done. Remember that. It's a little more. Frankly, even if it was a lot more,\u201d...",
-   "published": "2026-09-17T15:04:17+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-17T15:27:47.792179+00:00"
-  },
-  {
-   "id": "c1189f558ebc511e",
-   "title": "Jimmy Kimmel on Trump\u2019s second term: \u2018Has anyone ever done a worse job?\u2019",
-   "url": "https://www.theguardian.com/culture/2026/sep/17/jimmy-kimmel-trump-hegseth-don-jr-wedding",
-   "summary": "Late-night hosts discussed Trump\u2019s midterm bribes, Pete Hegseth\u2019s \u2018grooming standards\u2019 and Don Jr\u2019s wedding bankrolled by a Russian oligarchLate-night hosts dug into Donald Trump\u2019s attempts to sway the upcoming midterms and the Russian oligarch who bankrolled his son Donald Trump Jr\u2019s second wedding. Continue reading...",
-   "published": "2026-09-17T14:55:30+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-09-17T15:27:47.565759+00:00"
-  },
-  {
-   "id": "8d8d3c24b143b7b0",
-   "title": "Trump arch could have \u2018adverse effects\u2019 on nearby DC monuments, US park service says",
-   "url": "https://www.theguardian.com/us-news/2026/sep/17/trump-arch-dc-monuments",
-   "summary": "National Park Service lays out concerns that planned 250ft arch could interfere with historic sites in US capital Donald Trump\u2019s desired triumphal arch in downtown Washington DC will likely contribute \u201cto adverse effects to historic properties\u201d, according to the National Park Service\u2019s planning document, but the construction is still planned to go forward.The president\u2019s 250ft arch could interfere with some of the most well-known views in the nation\u2019s capital, including the symbolic relationship between Arlington House, the Arlington National Cemetery, the Arlington Memorial Bridge and the Lin",
-   "published": "2026-09-17T14:46:53+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-09-17T15:27:47.565769+00:00"
-  },
-  {
-   "id": "7adf9f71d5619b98",
-   "title": "Kaepernick: Van Jones tried to broker a meeting between Trump, former QB",
-   "url": "https://thehill.com/policy/sports-gaming/6095274-kaepernick-rejects-van-jones-trump-meeting-attempt/",
-   "summary": "Former NFL quarterback Colin Kaepernick revealed Wednesday that CNN analyst and former Obama administration adviser Van Jones attempted to broker a meeting between the football player and President Trump. Appearing on a MediasTouch podcast, host Ben Meiselas asked Kaepernick about a \u201cBlack Summit\u201d the former San Francisco 49ers quarterback was invited to during Trump\u2019s first...",
-   "published": "2026-09-17T14:40:24+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-17T15:27:47.792241+00:00"
-  },
-  {
-   "id": "73c52449072f1ab7",
-   "title": "Watch live: House Democrats make their case as midterms draw closer",
-   "url": "https://thehill.com/video-clips/6095054-watch-live-house-democrats-midterms-messaging-affordability/",
-   "summary": "House Minority Leader Hakeem Jeffries (D-N.Y.) and Democratic leaders will speak with reporters Thursday morning as the midterm cycle enters the final stretch. The press conference comes as Democrats wrestle with the GOP for control of Congress next year. The left has leaned heavily on messaging that counters President Trump\u2019s agenda, from pushing back against...",
-   "published": "2026-09-17T14:36:32+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-17T15:27:47.792246+00:00"
-  },
-  {
-   "id": "88b315441c20218d",
-   "title": "Trump administration allows truck drivers hauling gas, diesel to work longer hours",
-   "url": "https://thehill.com/policy/energy-environment/6095013-trump-administration-gas-diesel-truck-drivers-hours/",
-   "summary": "Transportation Secretary Sean Duffy announced Wednesday the Trump administration will temporarily increase how long gas and diesel truck drivers can drive, as fuel costs remain elevated amid the Iran war. Under the 90-day waiver from the Federal Motor Carrier Safety Administration (FMCSA), truck drivers hauling gasoline and diesel can drive for up to 16 hours...",
-   "published": "2026-09-17T14:32:12+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-17T15:27:47.792249+00:00"
-  },
-  {
-   "id": "cff720cb6c03169f",
-   "title": "Presidential Message on National Hispanic Heritage Month",
-   "url": "https://www.whitehouse.gov/briefings-statements/2026/09/presidential-message-on-national-hispanic-heritage-month/",
-   "summary": "During National Hispanic Heritage Month, we honor the innumerable achievements and vast contributions of Hispanic Americans, whose strength, character, and devotion to our country continue to make America the greatest and most prosperous Nation in the world.&#160; For centuries, Hispanic Americans have shaped the fabric of our culture, strengthened our most cherished institutions, and advanced [&#8230;]\nThe post Presidential Message on National Hispanic Heritage Month appeared first on The White House.",
-   "published": "2026-09-17T14:19:32+00:00",
-   "source": "WhiteHouse.gov News",
-   "source_id": "whitehouse",
-   "bias_note": "official/primary-source",
-   "first_seen": "2026-09-17T15:27:47.168900+00:00"
-  },
-  {
-   "id": "8c46e3eff8701faf",
-   "title": "Leaked Trump plan sparks GOP showdown over how far Republicans should go to support families",
-   "url": "https://www.foxnews.com/politics/leaked-trump-plan-sparks-gop-showdown-over-how-far-republicans-should-go-support-families",
-   "summary": "The Trump admin&apos;s $9,000 stay-at-home parent proposal sparks a fierce conservative divide, with some critics calling it socialism and a slippery slope.",
-   "published": "2026-09-17T14:04:09+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-09-17T15:27:47.050581+00:00"
-  },
-  {
-   "id": "b3673a3f307e0aa7",
-   "title": "Trump's mass deportations led to a big drop in fentanyl investigations, report finds. Here's what to know",
-   "url": "https://www.pbs.org/newshour/nation/trumps-mass-deportations-led-to-a-big-drop-in-fentanyl-investigations-report-finds-heres-what-to-know",
-   "summary": "The Department of Homeland Security's focus on mass deportations resulted in a dramatic drop in investigations into illicit fentanyl, according to a federal watchdog report.",
-   "published": "2026-09-17T14:03:38+00:00",
-   "source": "PBS NewsHour Politics",
-   "source_id": "pbs-politics",
-   "bias_note": "center",
-   "first_seen": "2026-09-17T15:27:47.835554+00:00"
-  },
-  {
-   "id": "5b2e116383af87e4",
-   "title": "Democrats reluctantly hand Trump major victory on fraud program targeting Tim Walz",
-   "url": "https://www.foxnews.com/politics/democrats-reluctantly-hand-trump-major-victory-key-program-targeting-tim-walz",
-   "summary": "Hakeem Jeffries and over 140 House Democrats joined Republicans to make Trump&apos;s National Fraud Enforcement Division permanent in a 352-72 vote.",
-   "published": "2026-09-17T13:29:59+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-09-17T15:27:47.050585+00:00"
   }
  ]
 }
