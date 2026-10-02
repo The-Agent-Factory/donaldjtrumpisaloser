@@ -1,7 +1,161 @@
 {
- "updated": "2026-10-02T16:32:57.237441+00:00",
- "count": 1036,
+ "updated": "2026-10-02T19:22:07.046063+00:00",
+ "count": 1038,
  "articles": [
+  {
+   "id": "b258e189708be4c6",
+   "title": "Seth Meyers, John Oliver tell Jimmy Kimmel he's their 'bulletproof vest' when it comes to Trump",
+   "url": "https://www.foxnews.com/media/seth-meyers-john-oliver-tell-jimmy-kimmel-hes-bulletproof-vest-when-comes-trump",
+   "summary": "Seth Meyers and John Oliver told Jimmy Kimmel he&apos;s their &quot;bulletproof vest&quot; against President Donald Trump, saying he draws all of the president&apos;s ire on late night.",
+   "published": "2026-10-02T19:00:17+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-10-02T19:22:05.335656+00:00"
+  },
+  {
+   "id": "e46cf894fa7c75d3",
+   "title": "Grassley calls on Trump administration to ban kratom 'NOW'",
+   "url": "https://thehill.com/homenews/senate/6126476-grassley-urges-trump-kratom-rule/",
+   "summary": "Sen. Chuck Grassley (R-Iowa) on Friday called on the Trump administration to finalize its proposed rule limiting the sale of kratom, a plant with opioid-like properties that can be bought over the counter. \"All Kratom is deadly it should NOT be sold at gas stations/vape stores/ANYWHERE Admin needs 2 put out final 7OH rule NOW...",
+   "published": "2026-10-02T18:43:42+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-02T19:22:06.013062+00:00"
+  },
+  {
+   "id": "fa5354d1f8c7ed16",
+   "title": "Pro-Trump Influencer Benny Johnson is being sued for defamation by ICE protesters",
+   "url": "https://www.npr.org/2026/10/02/nx-s1-5989413/benny-johnson-defamation-lawsuit-ice-protesters",
+   "summary": "The lawsuit says the prominent conservative podcaster falsely claimed the protesters were assaulting ICE officers during demonstrations at an ICE facility in Illinois last year.",
+   "published": "2026-10-02T18:43:30+00:00",
+   "source": "NPR Politics",
+   "source_id": "npr-politics",
+   "bias_note": "center",
+   "first_seen": "2026-10-02T19:22:05.703399+00:00"
+  },
+  {
+   "id": "afa97951d7de0551",
+   "title": "Presidential Message on National Cybersecurity Awareness Month",
+   "url": "https://www.whitehouse.gov/briefings-statements/2026/10/presidential-message-on-national-cybersecurity-awareness-month/",
+   "summary": "In an age of rapid digital advancement, cyberspace has emerged as the new frontier of American innovation, prosperity, and strength.&#160; As new technologies open doors to discovery and opportunity that were once unimaginable, a secure cyberspace is essential to ensuring that America continues to lead the world in finance, military power, emerging technology, and manufacturing.&#160; [&#8230;]\nThe post Presidential Message on National Cybersecurity Awareness Month appeared first on The White House.",
+   "published": "2026-10-02T18:28:12+00:00",
+   "source": "WhiteHouse.gov News",
+   "source_id": "whitehouse",
+   "bias_note": "official/primary-source",
+   "first_seen": "2026-10-02T19:22:05.410281+00:00"
+  },
+  {
+   "id": "085309dc1d4d8b57",
+   "title": "Presidential Message on National Domestic Violence Awareness Month",
+   "url": "https://www.whitehouse.gov/briefings-statements/2026/10/presidential-message-on-national-domestic-violence-awareness-month/",
+   "summary": "In communities across our great Nation, domestic violence destroys families, harms innocent children, and leaves lasting pain in our neighborhoods.&#160; For America to be strong, children must feel safe in their homes, spouses and significant others must be respected, and it must be a universal truth that violence in any form is unacceptable.&#160; This National [&#8230;]\nThe post Presidential Message on National Domestic Violence Awareness Month appeared first on The White House.",
+   "published": "2026-10-02T18:25:08+00:00",
+   "source": "WhiteHouse.gov News",
+   "source_id": "whitehouse",
+   "bias_note": "official/primary-source",
+   "first_seen": "2026-10-02T19:22:05.410287+00:00"
+  },
+  {
+   "id": "e0dbec0679d0bb7e",
+   "title": "Presidential Message on Down Syndrome Awareness Month",
+   "url": "https://www.whitehouse.gov/briefings-statements/2026/10/presidential-message-on-down-syndrome-awareness-month-b663/",
+   "summary": "From the moment a child is conceived, they are a gift from God, created in His image and likeness, bringing hope, love, and a future filled with promise to our Nation and the world.&#160; This Down Syndrome Awareness Month, I join millions of Americans in celebrating the lives, accomplishments, and contributions of people with Down [&#8230;]\nThe post Presidential Message on Down Syndrome Awareness Month appeared first on The White House.",
+   "published": "2026-10-02T18:21:53+00:00",
+   "source": "WhiteHouse.gov News",
+   "source_id": "whitehouse",
+   "bias_note": "official/primary-source",
+   "first_seen": "2026-10-02T19:22:05.410289+00:00"
+  },
+  {
+   "id": "2a41479abcbcbddc",
+   "title": "Presidential Message on National Breast Cancer Awareness Month",
+   "url": "https://www.whitehouse.gov/briefings-statements/2026/10/presidential-message-on-national-breast-cancer-awareness-month-a680/",
+   "summary": "During National Breast Cancer Awareness Month, we celebrate the resilience and courage of our Nation\u2019s four million breast cancer survivors, extend our unwavering support to those currently in the fight, and honor the memory of beloved family members and friends lost to this terrible disease.&#160; In an instant, a breast cancer diagnosis forever changes the [&#8230;]\nThe post Presidential Message on National Breast Cancer Awareness Month appeared first on The White House.",
+   "published": "2026-10-02T18:20:21+00:00",
+   "source": "WhiteHouse.gov News",
+   "source_id": "whitehouse",
+   "bias_note": "official/primary-source",
+   "first_seen": "2026-10-02T19:22:05.410292+00:00"
+  },
+  {
+   "id": "7c38416e83adf0ad",
+   "title": "Justice Department sues Maryland over federal agent mask ban",
+   "url": "https://thehill.com/homenews/administration/6126569-justice-department-sues-maryland-over-federal-agent-mask-ban/",
+   "summary": "The Justice Department sued Maryland on Thursday over a new law barring federal law enforcement officers from wearing masks and requiring them to identify themselves while working in the Old Line State. The complaint, filed the same day the law took effect, argues that Maryland and two of its largest counties are illegally attempting to...",
+   "published": "2026-10-02T18:14:15+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-02T19:22:06.013078+00:00"
+  },
+  {
+   "id": "325fb20ec578386c",
+   "title": "Kennedy Center Honors to be held at Capital One Arena amid fight over adding Trump's name",
+   "url": "https://www.pbs.org/newshour/politics/kennedy-center-honors-to-be-held-at-capital-one-arena-amid-fight-over-adding-trumps-name",
+   "summary": "The 49th annual awards are set to take place at Washington's downtown arena, a Kennedy Center spokesperson said Friday. Few other details were immediately available, and an explanation for the change wasn't given.",
+   "published": "2026-10-02T17:40:10+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-10-02T19:22:06.297878+00:00"
+  },
+  {
+   "id": "e4ebd262d49bd352",
+   "title": "Obama judge halts Trump firing bid as decades-old legal authority tees up possible major reversal",
+   "url": "https://www.foxnews.com/politics/obama-judge-halts-trump-firing-bid-decades-old-legal-authority-tees-up-possible-major-reversal",
+   "summary": "President Donald Trump&apos;s firing of court-appointed U.S. attorney Roger Rogoff was blocked by Judge Stanley Bastian, sparking a separation of powers clash.",
+   "published": "2026-10-02T17:35:12+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-10-02T19:22:05.289640+00:00"
+  },
+  {
+   "id": "d857d0c31e5fa515",
+   "title": "Vance set to rally in Alaska as battleground Senate race tightens",
+   "url": "https://thehill.com/homenews/campaign/6126416-vance-rally-alaska-senate-race/",
+   "summary": "Vice President Vance is headed to Alaska for a midterm rally against the backdrop of the red state\u2019s highly competitive Senate race. The Trump 47 Committee, a joint fundraising group connected to President Trump\u2019s Save America PAC and the Republican National Committee (RNC), will host the Monday rally in Fairbanks, the RNC announced Friday.\u00a0 With...",
+   "published": "2026-10-02T17:30:25+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-02T19:22:06.013107+00:00"
+  },
+  {
+   "id": "bb73d3f726b7097c",
+   "title": "Top GOP groups retreat from North Carolina Senate race as hopes fade",
+   "url": "https://www.politico.com/news/2026/10/02/republicans-slf-scale-back-north-carolina-senate-spending-01104964",
+   "summary": "The Senate Leadership Fund\u2019s decision to pause future spending is the latest evidence Republicans are not confident Michael Whatley can win in a state President Donald Trump carried three times.",
+   "published": "2026-10-02T17:03:21+00:00",
+   "source": "Politico",
+   "source_id": "politico",
+   "bias_note": "center",
+   "first_seen": "2026-10-02T19:22:05.938430+00:00"
+  },
+  {
+   "id": "2237f28e4b018930",
+   "title": "President Trump has his camera off for G7 leader zoom",
+   "url": "https://thehill.com/homenews/6126304-g7-oil-market-stabilization-plan/",
+   "summary": "President Trump participated in a video-call meeting with leaders of the Group of Seven (G7) countries and the International Energy Agency (IEA) on Friday, but his camera was off while other leaders appeared on camera.\u00a0 Fatih Birol, executive director of the IEA, said in a post on the social platform X that leaders met to...",
+   "published": "2026-10-02T16:47:20+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-02T19:22:06.013121+00:00"
+  },
+  {
+   "id": "ec3b5ac6c484d406",
+   "title": "Hochul, James raise heat on Cornell as rape investigation widens",
+   "url": "https://thehill.com/newsletters/1230-report/6126297-new-york-cornell-rape-criminal-investigation-hochul-james-donald-trump-midterms-economy/",
+   "summary": "Plus: \ud83d\udc5fTrump chases GOP midterm momentum {beacon} &#8202; It\u2019s Friday. Daylight saving time ends in less than a month unless Congress acts on pending legislation. Tell us, are you pro-daylight or standard time? \ud83d\udd52 &#8202; In today's issue: Cornell rape case now active criminal probe Trump takes midterm push to Alabama, Ohio Jobs stumble as...",
+   "published": "2026-10-02T16:43:14+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-02T19:22:06.013128+00:00"
+  },
   {
    "id": "80e85d9f0e0f5598",
    "title": "Trump's motorcade neared 100 mph en route to Oklahoma after helicopter, airplane ruled out",
@@ -11265,138 +11419,6 @@
    "source_id": "thehill",
    "bias_note": "center",
    "first_seen": "2026-09-18T20:57:27.805736+00:00"
-  },
-  {
-   "id": "d80a7f9d193bab16",
-   "title": "Trump administration sued over threat to deploy federal law enforcement at voting sites",
-   "url": "https://www.theguardian.com/us-news/2026/sep/18/trump-administration-sued-federal-law-enforcement-voting",
-   "summary": "Civil rights groups say plan will make people \u2018afraid to vote\u2019 and violates the Voting Rights ActUS politics live \u2013 latest updatesA coalition of civil rights groups filed a lawsuit against Trump administration officials on Friday, seeking to stop them from threatening to deploy federal law enforcement officers to polling stations in the US midterm elections.The suit, led by the NAACP, alleges that by threatening to deploy law enforcement to survey elections and initiating new voter roll oversight, the Trump administration has violated a section of the Voting Rights Act which prohibits voter in",
-   "published": "2026-09-18T19:17:55+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-09-18T20:57:26.588220+00:00"
-  },
-  {
-   "id": "f87ee7a1dd1fa738",
-   "title": "President Trump Extends Most Favored Nation Drug Pricing to Every Medicaid Program in America",
-   "url": "https://www.whitehouse.gov/releases/2026/09/president-trump-extends-most-favored-nation-pricing-to-every-medicaid-program-in-america/",
-   "summary": "For decades, Presidents have promised to cut prescription drug prices, but only President Donald J. Trump has delivered. Prescription drug prices have now recorded their sharpest annual drop in more than 60 years \u2014 and those lower prices now reach every Medicaid program in America. President Trump is the first President to actually lower prescription [&#8230;]\nThe post President Trump Extends Most Favored Nation Drug Pricing to Every Medicaid Program in America appeared first on The White House.",
-   "published": "2026-09-18T19:11:57+00:00",
-   "source": "WhiteHouse.gov News",
-   "source_id": "whitehouse",
-   "bias_note": "official/primary-source",
-   "first_seen": "2026-09-18T20:57:26.187716+00:00"
-  },
-  {
-   "id": "5079cb78ca85848d",
-   "title": "Presidential Message on the 79th Birthday of the United States Air Force",
-   "url": "https://www.whitehouse.gov/briefings-statements/2026/09/presidential-message-on-the-79th-birthday-of-the-united-states-air-force/",
-   "summary": "Today, on the 79th birthday of the United States Air Force, I join a grateful Nation in honoring America\u2019s airmen\u2014past and present\u2014for defending our liberty, safeguarding our way of life, and ruling the sky and space with exceptional professionalism and valor. On September 18, 1947, the Air Force was born as an independent branch of [&#8230;]\nThe post Presidential Message on the 79th Birthday of the United States Air Force appeared first on The White House.",
-   "published": "2026-09-18T19:00:00+00:00",
-   "source": "WhiteHouse.gov News",
-   "source_id": "whitehouse",
-   "bias_note": "official/primary-source",
-   "first_seen": "2026-09-19T20:45:58.116043+00:00"
-  },
-  {
-   "id": "5c507c02799ba08d",
-   "title": "WHAT THEY ARE SAYING: President Trump Delivers Historic Victories for America\u2019s Hunters, Anglers, and Outdoorsmen",
-   "url": "https://www.whitehouse.gov/releases/2026/09/what-they-are-saying-president-trump-delivers-historic-victories-for-americas-hunters-anglers-and-outdoorsmen/",
-   "summary": "President Donald J. Trump is delivering on his promises to America\u2019s outdoorsmen by cutting red tape, removing burdensome and unnecessary restrictions levied by previous Administrations and expanding America\u2019s great outdoor recreation sector that generates over $1.2 trillion annually and supports over 5 million jobs.&#160; Last night, the President signed two Executive Orders to\u00a0bolster\u00a0American hunting and\u00a0revive\u00a0American [&#8230;]\nThe post WHAT THEY ARE SAYING: President Trump Delivers Historic Victories for America\u2019s Hunters, Anglers, and Outdoorsmen appeared first on The White House.",
-   "published": "2026-09-18T18:48:53+00:00",
-   "source": "WhiteHouse.gov News",
-   "source_id": "whitehouse",
-   "bias_note": "official/primary-source",
-   "first_seen": "2026-09-18T20:57:26.187718+00:00"
-  },
-  {
-   "id": "ae2eb8a954103116",
-   "title": "43 percent say Trump responsible for current state of economy: Survey",
-   "url": "https://thehill.com/homenews/administration/6098451-donald-trump-us-economy-affordability-voters-survey/",
-   "summary": "A large share of Americans say President Trump is to blame for the current economic conditions facing the nation, including high inflation and affordability concerns, according to a new survey. The Politico/Public First poll, released Thursday, found that 43 percent of respondents said they believe the president is mostly or fully responsible for the state...",
-   "published": "2026-09-18T18:44:04+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-18T20:57:27.805770+00:00"
-  },
-  {
-   "id": "bc8122df88d35f88",
-   "title": "Judge says issues in Trump administration anti-weaponization case 'alive and kicking' despite DOJ push",
-   "url": "https://www.foxnews.com/politics/judge-says-issues-trump-administration-anti-weaponization-case-alive-kicking-despite-doj-push",
-   "summary": "Judge Brinkema questioned whether the Trump administration&apos;s Anti-Weaponization Fund truly died or if the DOJ Judgment Fund serves as its equivalent.",
-   "published": "2026-09-18T18:33:10+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-09-18T20:57:26.013952+00:00"
-  },
-  {
-   "id": "144c36d20841b302",
-   "title": "Robert De Niro gets emotional as Amy Poehler praises him for speaking 'truth to power' as regular Trump critic",
-   "url": "https://www.foxnews.com/media/robert-de-niro-emotional-amy-poehler-praises-speaking-truth-power-regular-trump-critic",
-   "summary": "Amy Poehler brought Robert De Niro to tears on her &quot;Good Hang&quot; podcast by thanking the 82-year-old actor for speaking out against Trump.",
-   "published": "2026-09-18T18:28:20+00:00",
-   "source": "Fox News Latest",
-   "source_id": "foxnews-latest",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-09-18T20:57:26.068129+00:00"
-  },
-  {
-   "id": "0555a22b5945776e",
-   "title": "Dems abandon candidate who said MAGA is 'more destructive' than Nazis, but she\u2019s stuck on the ballot",
-   "url": "https://www.foxnews.com/politics/dems-abandon-candidate-who-said-maga-more-destructive-than-nazis-shes-stuck-ballot",
-   "summary": "North Carolina Democrat Shelly Headen called for an attack on U.S. soil targeting red states and compared Trump to Hitler in resurfaced posts.",
-   "published": "2026-09-18T17:53:02+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-09-18T20:57:26.013973+00:00"
-  },
-  {
-   "id": "400f72d451504524",
-   "title": "Judge Denies Efforts to End Oversight of Maricopa County Sheriff\u2019s Office as Racial Profiling of Latinos Persists",
-   "url": "https://www.propublica.org/article/maricopa-county-sheriff-oversight-judge-ruling",
-   "summary": "The post Judge Denies Efforts to End Oversight of Maricopa County Sheriff\u2019s Office as Racial Profiling of Latinos Persists appeared first on ProPublica.",
-   "published": "2026-09-18T17:10:00+00:00",
-   "source": "ProPublica",
-   "source_id": "propublica",
-   "bias_note": "investigative",
-   "first_seen": "2026-09-18T20:57:28.096451+00:00"
-  },
-  {
-   "id": "7f5cfda020d3b7d3",
-   "title": "DHS' top lawyer threatens penalties for attorneys clogging asylum system",
-   "url": "https://www.foxnews.com/politics/dhs-top-lawyer-threatens-penalties-attorneys-clogging-asylum-system",
-   "summary": "The Department of Homeland warned AILA against filing frivolous asylum claims, threatening penalties for immigration lawyers amid Trump&apos;s crackdown.",
-   "published": "2026-09-18T17:03:07+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-09-18T20:57:26.013999+00:00"
-  },
-  {
-   "id": "bdb9cefee48bc0b4",
-   "title": "Powerful Cold War-era tool Trump could use in an AI emergency is set to expire in December",
-   "url": "https://www.foxnews.com/politics/powerful-cold-war-era-tool-trump-could-use-ai-emergency-set-expire-december",
-   "summary": "President Donald Trump says existing laws can rein in AI, but experts warn Cold War-era tools have never been tested against frontier models.",
-   "published": "2026-09-18T16:46:59+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-09-18T20:57:26.014009+00:00"
-  },
-  {
-   "id": "b676db44ce29b33a",
-   "title": "Attorney General Blanche blurs Justice Department boundaries by appearing at political events",
-   "url": "https://www.pbs.org/newshour/politics/attorney-general-blanche-blurs-justice-department-boundaries-by-appearing-at-political-events",
-   "summary": "Attorney General Todd Blanche is blurring traditional boundaries between politics and federal law enforcement with recent speeches at political events that mark a sharp departure from norms meant to protect the Justice Department from the appearance of partisan bias.",
-   "published": "2026-09-18T16:44:56+00:00",
-   "source": "PBS NewsHour Politics",
-   "source_id": "pbs-politics",
-   "bias_note": "center",
-   "first_seen": "2026-09-18T20:57:27.931805+00:00"
   }
  ]
 }
