@@ -1,7 +1,95 @@
 {
- "updated": "2026-10-02T12:44:09.840352+00:00",
- "count": 1041,
+ "updated": "2026-10-02T16:32:57.237441+00:00",
+ "count": 1036,
  "articles": [
+  {
+   "id": "80e85d9f0e0f5598",
+   "title": "Trump's motorcade neared 100 mph en route to Oklahoma after helicopter, airplane ruled out",
+   "url": "https://thehill.com/homenews/administration/6126278-trump-drives-texas-oklahoma-100-mph/",
+   "summary": "President Trump\u2019s motorcade put the pedal to the metal Thursday as stormy weather in the South spurred the president to drive from rallies in Texas to Oklahoma rather than fly. Trump took the motorcade from his event at the Peterbilt Motors manufacturing plant in Denton, Texas to his second event in Durant, Oklahoma. The locations...",
+   "published": "2026-10-02T16:32:11+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-02T16:32:56.575682+00:00"
+  },
+  {
+   "id": "6a69443b703c5bb9",
+   "title": "WATCH LIVE: Trump holds rally in Alabama as he tries to boost midterm enthusiasm",
+   "url": "https://www.pbs.org/newshour/politics/watch-live-trump-holds-rally-in-alabama-as-he-tries-to-boost-up-midterm-enthusiasm",
+   "summary": "Republicans have expressed growing pessimism about their chances in the election, which will determine control of Congress, as the president has repeatedly dismissed concerns about high costs and gas prices as his unpopular war in Iran drags on.",
+   "published": "2026-10-02T16:25:25+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-10-02T16:32:56.633155+00:00"
+  },
+  {
+   "id": "334def10a1067e0a",
+   "title": "G7 nations agree to release 100 million barrels of oil, including diesel",
+   "url": "https://www.pbs.org/newshour/world/g7-nations-agree-to-release-100-million-barrels-of-oil-including-diesel",
+   "summary": "President Donald Trump and his Republican Party face pressure to address surging prices ahead of the Nov. 3 midterm elections, and Trump announced the action Friday on social media.",
+   "published": "2026-10-02T16:16:28+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-10-02T16:32:56.633161+00:00"
+  },
+  {
+   "id": "6edf34b4e3904a14",
+   "title": "A Democratic upset is brewing in Alaska\u2019s governor\u2019s race as Trump\u2019s popularity craters",
+   "url": "https://www.theguardian.com/us-news/2026/oct/02/alaska-governor-candidate-jonathan-kreiss-tomkins",
+   "summary": "Support for 37-year-old Jonathan Kreiss-Tomkins could upend the governor\u2019s race in the heavily Republican stateThis July, Jonathan Kreiss-Tomkins spent four days and 450 miles (725km) wending his way down the Yukon River in a 24-ft Alweld skiff, a flat-bottomed aluminum boat built for shallow Alaska rivers.Starting in Koyukon Athabascan country, he passed through Indigenous Deg Hit\u2019an communities like Anvik, before ending among the Yup\u2019ik villages of the lower river, Russian Mission and Pilot Station among them. The boat carried him through 11 villages \u2013 some only reachable by water or small p",
+   "published": "2026-10-02T16:00:11+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-10-02T16:32:56.385543+00:00"
+  },
+  {
+   "id": "949c934b7e5a5230",
+   "title": "Trump campaign insider reveals strategy behind midterm blitz that White House hopes pays off big",
+   "url": "https://www.foxnews.com/politics/trump-campaign-insider-reveals-strategy-midterm-blitz-white-house-hopes-pays-off-big",
+   "summary": "Donald Trump&apos;s 32-state rally tour through deep red states has a hidden strategy that pundits are missing, says a veteran campaign strategist.",
+   "published": "2026-10-02T15:19:55+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-10-02T16:32:56.106325+00:00"
+  },
+  {
+   "id": "9dbb0ae4c3099a62",
+   "title": "Live updates: Hochul calls Cornell probe 'a failure'; Trump brings red state campaign blitz to Alabama",
+   "url": "https://thehill.com/homenews/administration/6124876-live-updates-trump-alabama-rally-jobs-report-cornell-case/",
+   "summary": "President Trump will hold a midterm rally in Mobile, Ala., Friday evening after making similar appearances in Oklahoma and Texas just the day prior. It's the latest stop in Trump's multiday campaign blitz as Republicans are locked in close races ahead of November's midterms \u2014 and both the president's and his party's approval ratings have...",
+   "published": "2026-10-02T15:05:38+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-02T16:32:56.575761+00:00"
+  },
+  {
+   "id": "bbc2d2d51e2c0461",
+   "title": "DOJ moves to boot federal judges from immigration cases over NYT interview",
+   "url": "https://www.foxnews.com/politics/doj-moves-boot-federal-judges-immigration-cases-nyt-interview",
+   "summary": "The Justice Department filed a judicial misconduct complaint against seven Minnesota federal judges over a New York Times immigration interview.",
+   "published": "2026-10-02T14:54:50+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-10-02T16:32:56.106336+00:00"
+  },
+  {
+   "id": "2ccb16db9cf85e18",
+   "title": "Disappointing 29,000 jobs added in September as unemployment ticks up",
+   "url": "https://www.pbs.org/newshour/economy/disappointing-29000-jobs-added-in-september-as-unemployment-ticks-up",
+   "summary": "Friday's jobs report is the last one that will come out before the Nov. 3 elections that will determine whether President Donald Trump's Republicans maintain full control of Congress.",
+   "published": "2026-10-02T13:48:29+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-10-02T16:32:56.633164+00:00"
+  },
   {
    "id": "c1613c502af023cd",
    "title": "MAGA betrayed rural America",
@@ -11309,149 +11397,6 @@
    "source_id": "pbs-politics",
    "bias_note": "center",
    "first_seen": "2026-09-18T20:57:27.931805+00:00"
-  },
-  {
-   "id": "3f06de2478334979",
-   "title": "25 years later, President Trump has discarded the lessons of 9/11",
-   "url": "https://thehill.com/opinion/national-security/6097273-trump-weakening-homeland-security/",
-   "summary": "Democrats Nancy Pelosi and Bennie Thompson criticized President Donald Trump's second-term national security policies, arguing that his actions regarding anti-terrorism funding, TSA privatization, and staffing cuts have weakened the nation's defenses.",
-   "published": "2026-09-18T16:00:00+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-18T16:29:05.828673+00:00"
-  },
-  {
-   "id": "caeb9619f43a77a3",
-   "title": "WATCH: Vance brands Democrats as 'lunatics' at rally in Iowa",
-   "url": "https://www.pbs.org/newshour/politics/watch-live-vance-speaks-at-rally-in-iowa-as-competitive-midterm-races-heat-up",
-   "summary": "Vice President JD Vance on Friday mounted a vigorous defense of the Trump administration's policies and Iowa GOP candidates on the November ballot.",
-   "published": "2026-09-18T15:27:03+00:00",
-   "source": "PBS NewsHour Politics",
-   "source_id": "pbs-politics",
-   "bias_note": "center",
-   "first_seen": "2026-09-18T20:57:27.931819+00:00"
-  },
-  {
-   "id": "7a6d3c0477453d8f",
-   "title": "Trump\u2019s authoritarian mindset can\u2019t handle dissent from his appointees",
-   "url": "https://www.theguardian.com/us-news/2026/sep/18/trump-authoritarian-dissent-appointees",
-   "summary": "Defiance from the supreme court and the Federal Reserve chair in one week ... how ever will the US president cope?\u201cIt\u2019s not personal, Sonny. It\u2019s strictly business,\u201d Michael Corleone tells his brother, Sonny, in The Godfather. But for Donald Trump, it\u2019s always personal. And he leaves this week feeling betrayed.First, the US supreme court rejected his effort to restrict mail-in ballots ahead of the midterm elections. \u201cThese are not the people I interviewed to serve on the United States Supreme Court,\u201d the president wrote on his Truth Social platform. \u201cThey are merely a shell of their original s",
-   "published": "2026-09-18T15:01:40+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-09-18T16:29:05.472080+00:00"
-  },
-  {
-   "id": "2b05ecdcbd7d78ee",
-   "title": "Tennessee Lawmakers Demand Answers on Safety in State Youth Prisons",
-   "url": "https://www.propublica.org/article/tennessee-private-youth-prisons-dcs-letter",
-   "summary": "The post Tennessee Lawmakers Demand Answers on Safety in State Youth Prisons appeared first on ProPublica.",
-   "published": "2026-09-18T15:00:00+00:00",
-   "source": "ProPublica",
-   "source_id": "propublica",
-   "bias_note": "investigative",
-   "first_seen": "2026-09-18T16:29:06.618417+00:00"
-  },
-  {
-   "id": "53b4fb73af2f4384",
-   "title": "Former Institute of Peace board members ask court to stop addition of Trump name to headquarters",
-   "url": "https://thehill.com/regulation/court-battles/6097846-former-usip-board-trump-name/",
-   "summary": "Former board members for the U.S. Institute of Peace asked a federal court on Thursday to block the Trump administration from etching President Trump\u2019s name into the facade of the institute's headquarters in Washington, D.C. In an emergency petition filed in the U.S. Court of Appeals for the D.C. Circuit, lawyers for the former institute...",
-   "published": "2026-09-18T14:35:12+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-18T14:49:22.192349+00:00"
-  },
-  {
-   "id": "d0665fc16fe0cc8e",
-   "title": "Early voting begins in midterms as campaign shifts focus to cost of living and Iran war \u2013 US politics live",
-   "url": "https://www.theguardian.com/us-news/live/2026/sep/18/us-politics-midterms-early-voting-cost-of-living-iran-war-trump-kennedy-center-institute-of-peace-latest-news-updates",
-   "summary": "Campaigning or control of Congress is expected to ramp up as some states open early votingSign up for the US Breaking News emailRepublican-aligned groups are pouring millions of dollars into Ohio to try to shore up an imperiled GOP Senate seat in the state, as the party\u2019s incumbent has fallen behind a democratic challenger in the polls, Reuters reported on Friday.Super PACs friendly to President Trump and backed by major Republican donors like Elon Musk have fueled the surge in advertising spending, which the outlet found amounted to $14 million in the past week alone. Continue reading...",
-   "published": "2026-09-18T14:28:25+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-09-18T14:49:20.748309+00:00"
-  },
-  {
-   "id": "b05112e334dd8e96",
-   "title": "Live updates: Vance stumps in Iowa as races tighten; Trump to announce Medicaid drug price deal",
-   "url": "https://thehill.com/homenews/administration/6097183-live-updates-trump-iran-vance-iowa-midterms/",
-   "summary": "The Midwest is home to several contentious congressional and gubernatorial races in November, historically red areas that are seeing Democratic candidates make inroads. Vice President Vance is set to visit one of them for a rally on Friday: Council Bluffs, Iowa. He is expected to be joined by Republican gubernatorial candidate Zach Lahn, who is...",
-   "published": "2026-09-18T14:15:43+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-18T14:49:22.192362+00:00"
-  },
-  {
-   "id": "eb2a89748e0583de",
-   "title": "Judge strikes down anti-DEI grant policy at Education Department",
-   "url": "https://thehill.com/homenews/education/6097709-judge-anti-dei-education-teacher-grants/",
-   "summary": "A federal judge ruled Thursday the Education Department cannot cut money to teacher training programs the Trump administration argues are focused on \u201cdivisive ideologies.\u201d  In February 2025, the department moved to slash around $600 million in grants it didn\u2019t like under the Teacher Quality Partnership and Supporting Effective Educator Development grant programs.\u00a0 District Judge Angel...",
-   "published": "2026-09-18T14:08:30+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-18T14:49:22.192368+00:00"
-  },
-  {
-   "id": "7d32e12a810a1cdc",
-   "title": "White House set to tout Medicaid 'most favored nation' drug pricing deals",
-   "url": "https://thehill.com/policy/healthcare/6097691-trump-medicaid-drug-pricing/",
-   "summary": "President Trump on Friday is set to announce that all 50 states will see \"most favored nation\" (MFN) pricing for some drugs covered by Medicaid, according to an administration official. Trump will be joined by \"several governors\" in the Oval Office to make the announcement, the official said.  With affordability a top concern among voters,...",
-   "published": "2026-09-18T13:56:20+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-18T14:49:22.192379+00:00"
-  },
-  {
-   "id": "4ffa33a2c96184f1",
-   "title": "Trump may have breathed new life into the World Trade Organization",
-   "url": "https://thehill.com/opinion/international/6096081-aggregating-bilateral-trade-agreements/",
-   "summary": "The WTO should shift from originating trade agreements to aggregating agreements negotiated elsewhere.",
-   "published": "2026-09-18T13:30:00+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-18T14:49:22.192381+00:00"
-  },
-  {
-   "id": "dcecedfa638adb13",
-   "title": "Cruz on Trump labeling him 'Lyin' Ted': 'The man has an instinctual genius'",
-   "url": "https://thehill.com/homenews/senate/6097564-ted-cruz-praises-trump-nickname/",
-   "summary": "Sen. Ted Cruz (R-Texas) praised President Trump's \u201cinstinctual genius\u201d for giving him the nickname \u201cLyin\u2019 Ted\u201d during their intense 2016 Republican presidential primary fight. In a Wednesday interview with the New York Post\u2019s \u201cPodcast One,\u201d Cruz called the nickname \u201cpolitically very effective\u201d at the time, arguing Trump used it to undercut what Cruz considered one...",
-   "published": "2026-09-18T13:25:07+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-18T14:49:22.192388+00:00"
-  },
-  {
-   "id": "8739e8b22e67a9a9",
-   "title": "Trump pushes his $5,000 'dividend' pledge. Republican candidates, not as much",
-   "url": "https://abcnews.com/Politics/wireStory/trump-pushes-5000-dividend-pledge-gop-wins-midterms-136554518",
-   "summary": "Naturally, Republicans running for Congress should campaign on President Donald Trump&rsquo;s promise to pay adult Americans $5,000 if the GOP wins the midterm elections",
-   "published": "2026-09-18T13:06:27+00:00",
-   "source": "ABC News Politics",
-   "source_id": "abc-politics",
-   "bias_note": "center",
-   "first_seen": "2026-09-18T14:49:22.642488+00:00"
-  },
-  {
-   "id": "1a3e36b171f11c12",
-   "title": "Ingraham: Some Republicans would be 'relieved' to lose congressional majority",
-   "url": "https://thehill.com/homenews/campaign/6097489-laura-ingraham-trump-republicans-majority-midterms/",
-   "summary": "Fox News host Laura Ingraham said \u201ca lot of Republicans\u201d secretly want the party to lose its majority in November to relieve the GOP of the pressure to advance President Trump\u2019s agenda. \u201cI actually think there are a lot of Republicans on the Hill who will be happy not to have the burden of having...",
-   "published": "2026-09-18T13:05:45+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-18T14:49:22.192407+00:00"
   }
  ]
 }
