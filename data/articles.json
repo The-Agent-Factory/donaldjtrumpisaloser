@@ -1,7 +1,73 @@
 {
- "updated": "2026-10-02T23:49:42.129954+00:00",
+ "updated": "2026-10-03T05:23:48.315015+00:00",
  "count": 1020,
  "articles": [
+  {
+   "id": "6f70b946f18d8e9a",
+   "title": "Fact Sheet: President Donald J. Trump Announces Medicare Improvement Fund Payments for Seniors",
+   "url": "https://www.whitehouse.gov/fact-sheets/2026/10/fact-sheet-president-donald-j-trump-announces-medicare-improvement-fund-payments-for-seniors/",
+   "summary": "IMPROVING MEDICARE FOR SENIORS:&#160;Today, President Donald J. Trump announced that the federal government will be making one-time payments of $90 per person to help more than 20 million enrollees pay for their Medicare Part B premiums.&#160;&#160; HISTORIC ACTION TO HELP SENIOR CITIZENS:&#160;With this action, President Trump is the first President to ever use the Medicare [&#8230;]\nThe post Fact Sheet: President Donald J. Trump Announces Medicare Improvement Fund Payments for Seniors appeared first on The White House.",
+   "published": "2026-10-03T03:01:43+00:00",
+   "source": "WhiteHouse.gov News",
+   "source_id": "whitehouse",
+   "bias_note": "official/primary-source",
+   "first_seen": "2026-10-03T05:23:47.116601+00:00"
+  },
+  {
+   "id": "d9d26d0dc5734dab",
+   "title": "Three college students face federal charges over alleged threats against Trump ahead of campus rally",
+   "url": "https://www.foxnews.com/politics/three-college-students-face-federal-charges-alleged-threats-trump-campus-rally",
+   "summary": "Three University of South Alabama students face federal charges over alleged social media threats against President Donald Trump ahead of his rally on campus in Mobile.",
+   "published": "2026-10-03T02:49:17+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-10-03T05:23:46.986726+00:00"
+  },
+  {
+   "id": "bec018709111197a",
+   "title": "Trump says he will attend Georgia-Alabama football game in Tuscaloosa",
+   "url": "https://thehill.com/homenews/administration/6127311-trump-alabama-georgia-college-football/",
+   "summary": "President Trump announced Friday that he will be returning to Alabama next week for the University of Georgia vs. University of Alabama college football game.\u00a0 He made the announcement while in Mobile, Ala. for a rally as part of his travels to several different states to rally Republicans ahead of the midterms.\u00a0 The game is...",
+   "published": "2026-10-03T00:45:05+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-03T05:23:47.531279+00:00"
+  },
+  {
+   "id": "18ae9e5b757cc59e",
+   "title": "Trump says he will attend Alabama vs Georgia college football game at Bryant-Denny Stadium",
+   "url": "https://www.foxnews.com/outkick-sports/trump-attend-alabama-vs-georgia-college-football-game-bryant-denny-stadium",
+   "summary": "Donald Trump announced at a Mobile rally that he plans to attend the No. 7 Alabama vs. No. 2 Georgia showdown at Bryant-Denny Stadium on Oct. 10.",
+   "published": "2026-10-03T00:43:25+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-10-03T05:23:47.015895+00:00"
+  },
+  {
+   "id": "7a122992d959be59",
+   "title": "Tennessee fans drank $1.3 million worth of alcohol before, during Texas game attended by president",
+   "url": "https://www.foxnews.com/outkick-sports/tennessee-fans-drank-1-3-million-worth-alcohol-texas-game-attended-president",
+   "summary": "Tennessee sold 95,000 units of alcohol and generated $1.3 million during Trump&apos;s visit to Knoxville, prompting a season-long happy hour at Neyland Stadium",
+   "published": "2026-10-02T23:51:35+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-10-03T05:23:47.015912+00:00"
+  },
+  {
+   "id": "466749eb00507950",
+   "title": "Federal judge halts Big Bend border wall construction in blow to Trump agenda",
+   "url": "https://www.theguardian.com/us-news/2026/oct/02/big-bend-national-park-border-wall-halt",
+   "summary": "Plan to install barriers through popular national park sparked outrage from advocates and politicians alikeA federal judge has temporarily blocked the Trump administration from expanding the border wall and other security infrastructure across the Big Bend region of west Texas, where contentious plans to build roads and vehicle barriers through a popular national park have led to furious backlash and public protests.US district judge Kathleen Cardone\u2019s ruling after a Friday hearing in El Paso deals a major blow to the Trump administration\u2019s efforts to expand the border wall through west Texas ",
+   "published": "2026-10-02T23:32:22+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-10-03T05:23:47.320260+00:00"
+  },
   {
    "id": "2f4bc9059f351c32",
    "title": "How did the beltway take Trump's AI accord?",
@@ -11155,72 +11221,6 @@
    "source_id": "propublica",
    "bias_note": "investigative",
    "first_seen": "2026-09-19T12:32:27.417541+00:00"
-  },
-  {
-   "id": "0bad27711456057c",
-   "title": "NAACP sues to block Trump administration from sending armed agents to polls",
-   "url": "https://thehill.com/regulation/court-battles/6099454-naacp-lawsuit-trump-armed-agents-polls/",
-   "summary": "The NAACP filed a lawsuit Friday alongside other civil rights groups to block the Trump administration from sending armed agents to U.S. polling places ahead of November's midterm elections. The lawsuit names the Department of Homeland Security (DHS), Immigration and Customs Enforcement (ICE), the Department of Justice (DOJ), the FBI and several Trump officials, seeking...",
-   "published": "2026-09-19T03:39:45+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-19T07:22:54.647984+00:00"
-  },
-  {
-   "id": "d1300eaed3886663",
-   "title": "Thousands protest closure of the Kennedy Center amid fears Trump is set to demolish the institution",
-   "url": "https://www.theguardian.com/us-news/2026/sep/19/thousands-protest-closure-of-the-kennedy-center-amid-fears-trump-is-set-to-demolish-the-institution",
-   "summary": "Demonstrators gathered outside the building in Washington, after the president was spotted holding a placard that read: \u2018Kennedy Center DEMOLIS ...\u2019On Friday evening thousands of protesters gathered outside the Kennedy Center in view of the marble facade that remained concealed by scaffolding and tarpaulins, to protest Donald Trump\u2019s plans for the facility and express alarm that he might make good on his threat to tear down the institution.Crowding streets in the Foggy Bottom area of Washington and locking down traffic as they walked, many carried signs, as they joined in the \u201cHands Around the",
-   "published": "2026-09-19T03:33:16+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-09-19T07:22:54.394404+00:00"
-  },
-  {
-   "id": "55830fdc00280aaa",
-   "title": "Shapiro fires back at RFK Jr., Trump on measles: 'Incompetence'",
-   "url": "https://thehill.com/homenews/state-watch/6099441-shapiro-trump-kennedy-measles-clash/",
-   "summary": "Pennsylvania Gov. Josh Shapiro (D) fired back against at President Trump's Friday Oval Office comments calling him a \"bad governor\" that's \"close to incompetent\" following four measles-related deaths in the state. \u201cIncompetence is letting measles, a disease that was declared eliminated in 2000, reemerge,\u201d Shapiro wrote on social media Friday. \u201cIncompetence is spending your time...",
-   "published": "2026-09-19T02:48:16+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-19T07:22:54.647997+00:00"
-  },
-  {
-   "id": "0a200cf2faa49401",
-   "title": "Hegseth backs Trump on banning media outlets",
-   "url": "https://thehill.com/newsletters/defense-national-security/6099382-hegseth-backs-trump-on-banning-media-outlets/",
-   "summary": "Welcome to The Hill's Defense &#038; NatSec newsletter {beacon} Defense &#038;National Security Defense &#038;National Security &#8202; The Big Story  Hegseth backs Trump on banning media outlets Defense Secretary Pete Hegseth said on Friday that he \"fully supports\" President Trump's decision to ban CNN, MS Now and Politico from the White House, claiming those outlets \"endangered\"...",
-   "published": "2026-09-19T00:37:32+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-19T07:22:54.648001+00:00"
-  },
-  {
-   "id": "9069e9ddf2050f87",
-   "title": "Trump administration begins building border wall in Big Bend region of Texas",
-   "url": "https://www.pbs.org/newshour/politics/trump-administration-begins-building-border-wall-in-big-bend-region-of-texas",
-   "summary": "The start of construction marks an important milestone in the administration's $46 billion plan to line the border with walls, barriers, roads and technology as it seeks to make good on a key campaign promise by Trump to finish the wall.",
-   "published": "2026-09-19T00:07:59+00:00",
-   "source": "PBS NewsHour Politics",
-   "source_id": "pbs-politics",
-   "bias_note": "center",
-   "first_seen": "2026-09-19T00:24:02.927990+00:00"
-  },
-  {
-   "id": "e18d7864f2109ac7",
-   "title": "Why the House let out early is a matter of debate after Johnson says chamber has 'done its work'",
-   "url": "https://www.foxnews.com/politics/why-house-let-out-early-matter-debate-johnson-says-chamber-has-done-its-work",
-   "summary": "Thomas Massie claims Mike Johnson sent the House home early to dodge a vote on his eight privileged impeachment articles against Pete Hegseth.",
-   "published": "2026-09-18T23:56:54+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-09-19T00:24:01.628178+00:00"
   }
  ]
 }
