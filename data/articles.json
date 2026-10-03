@@ -1,7 +1,117 @@
 {
- "updated": "2026-10-03T11:44:46.800861+00:00",
- "count": 1019,
+ "updated": "2026-10-03T15:04:52.440155+00:00",
+ "count": 1015,
  "articles": [
+  {
+   "id": "975efecd96f7b411",
+   "title": "Voters favor Democrats on key issues but lack faith in either party to solve problems: AP-NORC poll",
+   "url": "https://abcnews.com/Politics/wireStory/voters-favor-democrats-key-issues-lack-faith-party-136969703",
+   "summary": "An AP-NORC poll finds that voters are deeply dissatisfied with President Donald Trump and his Republican Party heading into the Nov. 3 elections",
+   "published": "2026-10-03T14:54:44+00:00",
+   "source": "ABC News Politics",
+   "source_id": "abc-politics",
+   "bias_note": "center",
+   "first_seen": "2026-10-03T15:04:52.218458+00:00"
+  },
+  {
+   "id": "25e639e36618ca5f",
+   "title": "Trump's attempted assassin sent mysterious texts about 3D printer leading up to Butler, Pa. shooting: report",
+   "url": "https://www.foxnews.com/us/trumps-attempted-assassin-sent-mysterious-texts-3d-printer-leading-butler-pa-shooting-report",
+   "summary": "FBI records obtained by Judicial Watch reveal Thomas Matthew Crooks sent cryptic coded texts and took drone photos of Pittsburgh stadiums before the attack",
+   "published": "2026-10-03T14:31:48+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-10-03T15:04:50.501250+00:00"
+  },
+  {
+   "id": "1b662662e1329f94",
+   "title": "The price tag on the Ken Paxton rescue mission has Republicans panicking",
+   "url": "https://www.politico.com/news/2026/10/03/paxton-texas-senate-trump-gop-money-woes-01105707",
+   "summary": "Some Republicans want MAGA Inc. to take over spending in the final few weeks.",
+   "published": "2026-10-03T14:00:00+00:00",
+   "source": "Politico",
+   "source_id": "politico",
+   "bias_note": "center",
+   "first_seen": "2026-10-03T15:04:51.220318+00:00"
+  },
+  {
+   "id": "c63f4db7016c3511",
+   "title": "Trump says US to send one-time $90 payment to 20m seniors enrolled in Medicare",
+   "url": "https://www.theguardian.com/us-news/2026/oct/03/trump-payment-seniors-medicare",
+   "summary": "President says payments, to be sent in early October, are meant to offset cost of monthly insurance premiumsDonald \u2060Trump has said the US government will send a one-time $90 payment to more than 20 million Americans enrolled in Medicare, the \u2060health insurance program for \u2060elderly people, \u200bto help offset the cost of their monthly medical insurance premiums.The president said on social media late on Friday that the \u2060payments would come from the Medicare Improvement Fund, which he said was given $2bn by Congress to improve the Medicare fee-for-service program. Continue reading...",
+   "published": "2026-10-03T13:48:21+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-10-03T15:04:51.067890+00:00"
+  },
+  {
+   "id": "c4d6a0ccb6cafb16",
+   "title": "Trump announces US will send $90 checks to 20 million seniors enrolled in Medicare",
+   "url": "https://thehill.com/homenews/administration/6127480-seniors-medicare-improvement-fund-checks/",
+   "summary": "President Trump announced Friday his administration will pay out a total of around $2 billion in checks to over 20 million seniors to offset Medicare Part B premium costs.\u00a0 In an evening Truth Social post, the president said this money would be sourced from the Medicare Improvement Fund, which he called a \u201cpointless \u2018Slush Fund.\u2019\u201d...",
+   "published": "2026-10-03T13:17:13+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-03T15:04:51.282449+00:00"
+  },
+  {
+   "id": "d90b4fef848140ff",
+   "title": "MAGA mom's dire warning over tech guardrails as Trump puts pedal to the metal on race with China",
+   "url": "https://www.foxnews.com/politics/maga-mom-dire-warning-tech-guardrails-trump-pedal-metal-race-china",
+   "summary": "Amy Kremer&apos;s Humans First organization demands AI guardrails to protect children from chatbot dangers and prevent mass displacement of American workers.",
+   "published": "2026-10-03T13:00:54+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-10-03T15:04:50.476716+00:00"
+  },
+  {
+   "id": "9e1b47a777a2cb37",
+   "title": "When is the right time to compare US politics to the Nazi era? This expert on Christian nationalism says: now",
+   "url": "https://www.theguardian.com/books/2026/oct/03/robert-p-jones-backslide-interview",
+   "summary": "Robert P Jones argues that declining white Christian influence has fuelled an alliance with Trump, and warns it is reshaping US democracyThe lawyer Mike Godwin famously came up with the \u201claw\u201d that, as an online discussion grows longer, the probability of a comparison involving Nazis or Hitler approaches one (or 100%).Robert P Jones thought long and hard about whether to go there in his latest book. But the more he studied US demographic numbers, considered the rise of Christian nationalism and heard Donald Trump use the language of racial purity, he found the conclusion inescapable. \u201cThis is o",
+   "published": "2026-10-03T13:00:02+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-10-03T15:04:51.067900+00:00"
+  },
+  {
+   "id": "ffbda8672f5c4581",
+   "title": "Live updates: Trump travels to Ohio, ending 3-day red state campaigning streak",
+   "url": "https://thehill.com/homenews/administration/6127357-live-updates-trump-ohio-hegseth-army/",
+   "summary": "President Trump is taking his red state campaign blitz to Ohio Saturday evening after making stops in Texas, Oklahoma and Alabama over the past few days. Trump is slated to speak at 7 p.m. in Vandalia, a city within a congressional district where a Republican is holding a decisive lead in his House reelection bid....",
+   "published": "2026-10-03T13:00:00+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-03T15:04:51.282461+00:00"
+  },
+  {
+   "id": "d6558d58c128555d",
+   "title": "US, Russia talks on Ukraine involve oil deal tied to Kushner, Witkoff: Report",
+   "url": "https://thehill.com/homenews/administration/6127449-trump-russia-ukraine-oil-deal-lukoil/",
+   "summary": "The Trump administration\u2019s ongoing discussions with Russia to end the Ukraine war now include a multibillion-dollar oil deal that would benefit Middle Eastern business executives tied to the lead U.S. negotiators, according to new reporting from The New York Times.  U.S. Special Envoy Steve Witkoff and President Trump\u2019s son-in-law, Jared Kushner, have been engaged in...",
+   "published": "2026-10-03T12:11:34+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-03T15:04:51.282467+00:00"
+  },
+  {
+   "id": "41abca426356e806",
+   "title": "BROADCAST BIAS: From FlyDubai to Benghazi, the media struggle to keep politics out of terrorism",
+   "url": "https://www.foxnews.com/opinion/broadcast-bias-flydubai-benghazi-media-struggle-keep-politics-out-terrorism",
+   "summary": "FlyDubai cockpit violence coverage drew criticism as networks worried Trump and Netanyahu might spin the terrorism incident for political gain.",
+   "published": "2026-10-03T12:00:01+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-10-03T15:04:50.501372+00:00"
+  },
   {
    "id": "40271a8f411b9e9d",
    "title": "\u2018Tinder Swindler\u2019 romance fraudster promises \u2018safe\u2019 dating app \u2013 using intel from con man playbook",
@@ -11056,160 +11166,6 @@
    "source_id": "thehill",
    "bias_note": "center",
    "first_seen": "2026-09-19T17:18:26.485526+00:00"
-  },
-  {
-   "id": "6b039599f0b4ac02",
-   "title": "Denmark and Greenland say US military agreement will not compromise Arctic territory\u2019s sovereignty",
-   "url": "https://www.theguardian.com/world/2026/sep/19/denmark-greenland-us-military-agreement-territorial-sovereignty",
-   "summary": "Statement sought to clarify Trump\u2019s announcement that US will have \u2018permanent control\u2019 over Greenland\u2019s securityDenmark and Greenland have said any agreement with the US to develop a significant military presence in the strategic Arctic territory will not compromise Greenland\u2019s sovereignty.In a statement on Saturday clarifying an announcement by Donald Trump that an agreement had been reached to give Washington \u201cpermanent control\u201d \u2060over Greenland\u2019s security, Denmark and the semiautonomous territory \u2060expressed hope that a deal would end friction with the US over the issue. Continue reading...",
-   "published": "2026-09-19T14:43:07+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-09-19T17:18:26.331129+00:00"
-  },
-  {
-   "id": "b951ad88a1cfcf55",
-   "title": "Beware of politicians claiming to protect us from the press",
-   "url": "https://thehill.com/opinion/white-house/6099102-beware-of-politicians-claiming-to-protect-us-from-the-press/",
-   "summary": "This week, it became apparent that everyone believes in a free press, as long as it costs them nothing. Politicians in both parties are now using their offices to insulate themselves from opposing coverage \u2014 all in the name of protecting the public or the press. President Trump has ordered the banning of critical media...",
-   "published": "2026-09-19T14:00:00+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-19T14:12:46.826906+00:00"
-  },
-  {
-   "id": "d9443510b8e5a92f",
-   "title": "MS Now says reporters denied access to White House after Trump media ban",
-   "url": "https://www.theguardian.com/us-news/2026/sep/19/ms-now-reporters-denied-access-white-house-trump-ban",
-   "summary": "President said he was banning MS Now, CNN and Politico journalists, saying of their coverage: \u2018You get sick of it.\u2019News outlet MS Now said its journalists were denied access to the White House grounds on Saturday morning, a day after Donald Trump said he would ban the news channel and two other news outlets, CNN and Politico, from the executive branch complex.The outlet said a reporter and a cameraman had been denied access and had their White House press passes confiscated by the US Secret Service at a security gate outside the West Wing. Continue reading...",
-   "published": "2026-09-19T13:56:09+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-09-19T14:12:46.636665+00:00"
-  },
-  {
-   "id": "067bb0036b2b4a23",
-   "title": "MS NOW says their journalists have been denied access to the White House",
-   "url": "https://thehill.com/homenews/media/6099619-trump-bans-ms-now-cnn-politico/",
-   "summary": "The White House denied MS NOW journalists access to its grounds Saturday, the network announced, a day after President Trump said he was banning the outlet, along with CNN and Politico, from the premises after accusing them of producing \"purposefully negative stories.\" \u201cEarlier this morning MS NOW journalists were denied access to the White House...",
-   "published": "2026-09-19T13:34:23+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-19T14:12:46.826914+00:00"
-  },
-  {
-   "id": "5bf563033f5ea392",
-   "title": "Former ESPN anchor smears Caitlin Clark fans with sweeping, false accusations of racism | Matt Calkins",
-   "url": "https://www.foxnews.com/outkick-sports/former-espn-anchor-smears-caitlin-clark-fans-sweeping-false-accusations-racism",
-   "summary": "Cari Champion called Caitlin Clark an &quot;avatar&quot; for hate and her fans MAGA on podcasts with Jemele Hill and Bakari Sellers, sparking fierce debate.",
-   "published": "2026-09-19T13:28:58+00:00",
-   "source": "Fox News Latest",
-   "source_id": "foxnews-latest",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-09-19T14:12:46.101128+00:00"
-  },
-  {
-   "id": "a16e6aad07a2fc1a",
-   "title": "Lawyer says 250-foot Trump arch disrupts historic sightlines cherished by veterans seeking burial at Arlington",
-   "url": "https://www.foxnews.com/politics/lawyer-says-250-foot-trump-arch-disrupts-historic-sightlines-cherished-veterans-seeking-burial-arlington",
-   "summary": "Three Vietnam veterans are suing to block Trump&apos;s Great Triumphal Arch, saying it would destroy iconic views near Arlington National Cemetery.",
-   "published": "2026-09-19T13:00:42+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-09-19T14:12:46.058385+00:00"
-  },
-  {
-   "id": "e5df28db4d14215c",
-   "title": "NEWT GINGRICH: Xi is coming to Washington. He should bring one unexpected guest",
-   "url": "https://www.foxnews.com/opinion/newt-gingrich-xi-coming-washington-should-bring-unexpected-guest",
-   "summary": "Jimmy Lai&apos;s release could reset U.S.-China relations as Xi Jinping prepares to meet Trump in Washington with a business delegation next week.",
-   "published": "2026-09-19T13:00:17+00:00",
-   "source": "Fox News Latest",
-   "source_id": "foxnews-latest",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-09-19T14:12:46.101182+00:00"
-  },
-  {
-   "id": "ca3a3e2b17b9e094",
-   "title": "Live updates: Relationship with Canada still rocky ahead of UN General Assembly; AI companies hit with new lawsuit",
-   "url": "https://thehill.com/homenews/6099431-live-updates-trump-iran-camp-david/",
-   "summary": "The tension between President Trump and Canadian Prime Minister\u00a0Mark Carney\u00a0has intensified since the Canadian leader's visit with the European Union (EU) earlier this week.\u00a0 U.S. and Canada have continued to place tit-for-tat tariffs on American and Canadian goods. The relationship has also been stained this week by the European Commission President Ursula Von der Leyen's...",
-   "published": "2026-09-19T13:00:00+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-19T14:12:46.826921+00:00"
-  },
-  {
-   "id": "aaeb4c4a8ff0fbf2",
-   "title": "Why is the Trump administration targeting  foreign journalists?",
-   "url": "https://thehill.com/opinion/white-house/6093808-press-freedom-under-threat/",
-   "summary": "A new policy disturbingly echoes those found in Russia,\u00a0China\u00a0and Iran, which use strict visa compliance rules to punish journalists and media outlets that report on their governments unfavorably.",
-   "published": "2026-09-19T13:00:00+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-19T14:12:46.826926+00:00"
-  },
-  {
-   "id": "55f4cd7289684b56",
-   "title": "This swing state Republican keeps distancing himself from Trump. It may not save him in the midterms",
-   "url": "https://abcnews.com/Politics/wireStory/swing-state-republican-distancing-trump-save-midterms-136583480",
-   "summary": "It&rsquo;s hard to imagine a Republican who&rsquo;s done more to draw a sharp contrast with the president than Brian Fitzpatrick",
-   "published": "2026-09-19T12:26:44+00:00",
-   "source": "ABC News Politics",
-   "source_id": "abc-politics",
-   "bias_note": "center",
-   "first_seen": "2026-09-19T12:32:27.686342+00:00"
-  },
-  {
-   "id": "4396ad028d75768a",
-   "title": "Missouri woman federally indicted over chilling death threats sent to Austin Metcalf's family",
-   "url": "https://www.foxnews.com/us/missouri-woman-federally-indicted-chilling-death-threats-austin-metcalf-family",
-   "summary": "Sharifa Nicole Henderson faces federal indictment after allegedly sending death threats to Austin Metcalf&apos;s family following Karmelo Anthony&apos;s conviction.",
-   "published": "2026-09-19T12:14:57+00:00",
-   "source": "Fox News Latest",
-   "source_id": "foxnews-latest",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-09-19T12:32:26.439013+00:00"
-  },
-  {
-   "id": "daffa7153371fa78",
-   "title": "Hispanic voters\u2019 support for Trump wanes over economy and immigration",
-   "url": "https://www.theguardian.com/us-news/2026/sep/19/hispanic-voters-support-trump-immigration-economy",
-   "summary": "Polls show voters who helped elect president unhappy \u2013 and may be willing to vote Democrat in midtermsHispanic voters who helped re-elect Donald Trump in 2024 are discontent with his second-term economic and immigration policies, according to recent polling \u2013 indicating they may not be willing to support the president\u2019s party in the midterm elections.Despite a record number of Hispanic voters casting their ballots for the Republican president, more than 65% said they are displeased with Trump\u2019s handling of his job and 78% said they would prefer to see the Democratic party in control of Congres",
-   "published": "2026-09-19T12:00:48+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-09-19T12:32:26.986403+00:00"
-  },
-  {
-   "id": "0bc359d82914cbec",
-   "title": "BROADCAST BIAS: Networks embrace their latest form of panic \u2013 the AI apocalypse",
-   "url": "https://www.foxnews.com/opinion/broadcast-bias-networks-embrace-latest-form-panic-ai-apocalypse",
-   "summary": "Savannah Guthrie, David Muir and Tom Llamas led doomsday AI warnings on broadcast news as Trump dismissed extinction fears as a &quot;hoax,&quot; deepening the debate.",
-   "published": "2026-09-19T12:00:23+00:00",
-   "source": "Fox News Latest",
-   "source_id": "foxnews-latest",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-09-19T12:32:26.439066+00:00"
-  },
-  {
-   "id": "8439d79bf9f19125",
-   "title": "Week in Politics: Trump bans news outlets; Iran War; mail-in voting; interest rates",
-   "url": "https://www.npr.org/2026/09/19/nx-s1-5973250/week-in-politics-trump-bans-news-outlets-iran-war-mail-in-voting-interest-rates",
-   "summary": "The Trump administration was frustrated both home and abroad this week.",
-   "published": "2026-09-19T11:46:46+00:00",
-   "source": "NPR Politics",
-   "source_id": "npr-politics",
-   "bias_note": "center",
-   "first_seen": "2026-09-19T12:32:26.942885+00:00"
   }
  ]
 }
