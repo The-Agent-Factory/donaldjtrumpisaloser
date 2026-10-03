@@ -1,7 +1,73 @@
 {
- "updated": "2026-10-03T05:23:48.315015+00:00",
- "count": 1020,
+ "updated": "2026-10-03T11:44:46.800861+00:00",
+ "count": 1019,
  "articles": [
+  {
+   "id": "40271a8f411b9e9d",
+   "title": "\u2018Tinder Swindler\u2019 romance fraudster promises \u2018safe\u2019 dating app \u2013 using intel from con man playbook",
+   "url": "https://www.foxnews.com/us/tinder-swindler-romance-fraudster-promises-safe-dating-app-using-intel-con-man-playbook",
+   "summary": "Shimon Hayut, the notorious &apos;Tinder Swindler&apos; also known as Simon Leviev, says his new Safe Love dating app will use identity verification to prevent the fraud he once committed.",
+   "published": "2026-10-03T11:00:49+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-10-03T11:44:44.828977+00:00"
+  },
+  {
+   "id": "3112a837732396ec",
+   "title": "A billionaire is one of Trump\u2019s loudest critics. Will Democrats send him to the White House?",
+   "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/03/jb-pritzker-profile-democrats-2028",
+   "summary": "As the Illinois governor seeks a third term, his growing national profile has fueled speculation about a possible White House bidSend us your questions about how the Iran war will affect US voters in the midterm electionWhen Donald Trump returned to power, 20 long months ago, some state leaders wrung their hands, worrying what explicit resistance might cost their citizens \u2013 and their careers \u2013 during the second term of a vengeful president. JB Pritzker was not among them.Two days after Trump\u2019s re-election, the Democratic governor of Illinois warned the president would need to \u201ccome through me\u201d",
+   "published": "2026-10-03T10:00:56+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-10-03T11:44:45.604106+00:00"
+  },
+  {
+   "id": "56335455137a02bf",
+   "title": "White House urges sitcom producer Chuck Lorre to seek 'psychiatric help' after targeting Trump, first lady",
+   "url": "https://www.foxnews.com/media/white-house-urges-sitcom-producer-chuck-lorre-seek-psychiatric-help-after-targeting-trump-first-lady",
+   "summary": "Chuck Lorre&apos;s profanity-laced speech at the Project Angel Food gala targeted Trump and Melania Trump, drawing a blistering White House response.",
+   "published": "2026-10-03T10:00:23+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-10-03T11:44:44.829035+00:00"
+  },
+  {
+   "id": "6b477f0850d20bfb",
+   "title": "GOP walks tightrope on immigration ahead of midterms",
+   "url": "https://thehill.com/homenews/campaign/6126619-gop-trump-immigration-enforcement-midterms/",
+   "summary": "Republicans are struggling with how to thread the needle on immigration ahead of what is expected to be a bruising midterm season in which many voters have soured on the Trump administration\u2019s aggressive enforcement. But the party has spent two years championing policies that resulted from President Trump running on \u201csecuring\u201d the border, including a...",
+   "published": "2026-10-03T10:00:00+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-03T11:44:45.926748+00:00"
+  },
+  {
+   "id": "01945a2ea93ffc74",
+   "title": "What to know about Trump's MAHA-backed push for psychedelic research",
+   "url": "https://thehill.com/policy/healthcare/6125285-trump-administration-psychedelic-medicine-maha/",
+   "summary": "The Trump administration, under the influence of the Make America Healthy Again (MAHA) movement, is exploring the potential use of psychedelic substances in medicine \u2014 once a fringe topic that is now being heavily researched and invested in.\u00a0 The Food and Drug Administration (FDA) held a public hearing\u00a0in September in which over 200 people requested...",
+   "published": "2026-10-03T10:00:00+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-03T11:44:45.926756+00:00"
+  },
+  {
+   "id": "c48abb98f5a656bc",
+   "title": "Watch: We Uncovered Bribery Allegations Involving Susan Collins",
+   "url": "https://www.propublica.org/article/susan-collins-bribery-allegations-explained",
+   "summary": "The post Watch: We Uncovered Bribery Allegations Involving Susan Collins appeared first on ProPublica.",
+   "published": "2026-10-03T09:00:00+00:00",
+   "source": "ProPublica",
+   "source_id": "propublica",
+   "bias_note": "investigative",
+   "first_seen": "2026-10-03T11:44:46.325860+00:00"
+  },
   {
    "id": "6f70b946f18d8e9a",
    "title": "Fact Sheet: President Donald J. Trump Announces Medicare Improvement Fund Payments for Seniors",
@@ -11144,83 +11210,6 @@
    "source_id": "npr-politics",
    "bias_note": "center",
    "first_seen": "2026-09-19T12:32:26.942885+00:00"
-  },
-  {
-   "id": "838fa98a1ae2e496",
-   "title": "Kevin Warsh may be the adult in the room. But can he calm the US economy?",
-   "url": "https://www.theguardian.com/business/2026/sep/19/kevin-warsh-interest-rate-hike",
-   "summary": "Fed chair presided over unanimous decision to raise interest rates despite intense campaign from White HouseIn the end, Kevin Warsh\u2019s Federal Reserve acquitted itself well. For all the uncertainty he had sparked at the previous meeting of the Federal Open Market Committee, when he refused to provide any indication of what he was prepared to do to tame stubborn inflation, the chair on Wednesday presided over a unanimous decision to raise interest rates for the first time in three years.\u201cToday\u2019s action starts to show that we\u2019re serious about this,\u201d he said at the press conference after the meeti",
-   "published": "2026-09-19T11:00:45+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-09-19T12:32:26.986425+00:00"
-  },
-  {
-   "id": "499a1df6c84632f1",
-   "title": "China bogeyman looms large over American firms\u2019 AI doomsday scenario",
-   "url": "https://www.theguardian.com/technology/ng-interactive/2026/sep/19/china-ai-foreign-policy-dario-amodei",
-   "summary": "Silicon Valley China hawks, Anthropic CEO Dario Amodei among them, fear the country surpassing US\u2019s AI lead as much as superintelligence destroying humanityWhen reporters asked Donald Trump this week if he supported calls to slow down the development of artificial intelligence out of growing fears for cybersecurity, public safety and the fate of humanity, he said no. His argument: China.\u201cWe\u2019re leading China in AI,\u201d Trump said. \u201cWe\u2019re the most sophisticated country in the world, and frankly, I want to \u2060keep it that way, because whoever wins AI, wins.\u201d Continue reading...",
-   "published": "2026-09-19T10:00:45+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-09-19T12:32:26.986433+00:00"
-  },
-  {
-   "id": "0dcb9a79cb172f9b",
-   "title": "Trump ally Stephen Miller leads sweeping push to accelerate removal of migrant children",
-   "url": "https://www.theguardian.com/us-news/2026/sep/19/stephen-miller-trump-migrant-children",
-   "summary": "Exclusive: key White House loyalist orchestrating multi-agency effort condemned by critics as cruel and racistStephen Miller is leading an unprecedented and intense White House drive across a host of government departments to accelerate the removal of undocumented immigrant children from the US, using tactics that critics say are cruel and racist and, in some cases, flout federal law, the Guardian has learned.As deputy chief of staff at the White House, focused on immigration policy, Miller is seen as the mastermind and enforcer behind Donald Trump\u2019s hardline anti-immigration agenda. Continue ",
-   "published": "2026-09-19T10:00:45+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-09-19T12:32:26.986439+00:00"
-  },
-  {
-   "id": "db10c3225c6632bd",
-   "title": "Clancy holdout juror taps former Trump lawyer to fight back as he\u2019s \u2018dragged through the mud\u2019: attorney",
-   "url": "https://www.foxnews.com/us/clancy-holdout-juror-taps-former-trump-lawyer-fight-back-hes-dragged-through-mud-attorney",
-   "summary": "Michael P. Desronvil, the lone holdout juror in the Lindsay Clancy mistrial, has retained Edward Paltzik, a lawyer known for representing Trump.",
-   "published": "2026-09-19T10:00:42+00:00",
-   "source": "Fox News Latest",
-   "source_id": "foxnews-latest",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-09-19T12:32:26.439117+00:00"
-  },
-  {
-   "id": "43b2e0fd2d715a6b",
-   "title": "Iowa has become tricky territory for GOP in midterm election homestretch",
-   "url": "https://thehill.com/homenews/campaign/6099069-iowa-gop-trump-midterm-strategy/",
-   "summary": "Iowa Republicans are being presented with the difficult choice of embracing President Trump in the final stretch of the midterms as Democrats seek to tie them to the administration. The dynamic was on full display in Council Bluffs on Friday, when Iowa gubernatorial candidate Zach Lahn joined Vice President Vance on the campaign trail, but...",
-   "published": "2026-09-19T10:00:00+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-19T12:32:27.236601+00:00"
-  },
-  {
-   "id": "40e3b2630352b141",
-   "title": "Carney\u2019s Euro trip inflames Trump tensions",
-   "url": "https://thehill.com/policy/international/6098760-trump-carney-eu-trade-tension/",
-   "summary": "The tension between President Trump and Canadian Prime Minister Mark Carney has only intensified amid the latter\u2019s cozying up with the European Union (EU) on a high-profile trip this week.\u00a0 The relationship between the U.S. and Canada has been increasingly strained due to tit-for-tat tariffs on American and Canadian goods and Trump\u2019s renaming of Lake...",
-   "published": "2026-09-19T10:00:00+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-19T12:32:27.236610+00:00"
-  },
-  {
-   "id": "8e3f1da1aeca1f87",
-   "title": "\u201cOur Dear Friend Umar\u201d: How We Uncovered That a Russian Oligarch Bankrolled Donald Trump Jr.\u2019s Wedding",
-   "url": "https://www.propublica.org/article/donald-trump-jr-wedding-umar-kremlev-reporting",
-   "summary": "The post \u201cOur Dear Friend Umar\u201d: How We Uncovered That a Russian Oligarch Bankrolled Donald Trump Jr.\u2019s Wedding appeared first on ProPublica.",
-   "published": "2026-09-19T09:00:00+00:00",
-   "source": "ProPublica",
-   "source_id": "propublica",
-   "bias_note": "investigative",
-   "first_seen": "2026-09-19T12:32:27.417541+00:00"
   }
  ]
 }
