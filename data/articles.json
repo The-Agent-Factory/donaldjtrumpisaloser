@@ -1,7 +1,29 @@
 {
- "updated": "2026-10-04T00:42:08.269032+00:00",
- "count": 1016,
+ "updated": "2026-10-04T08:30:11.657782+00:00",
+ "count": 1015,
  "articles": [
+  {
+   "id": "818c168997890483",
+   "title": "Trump backs data centers in Ohio amid tight Senate race",
+   "url": "https://thehill.com/homenews/campaign/6127929-trump-defends-ohio-data-centers/",
+   "summary": "President Trump defended data centers at a midterm campaign rally in Vandalia, Ohio Saturday, arguing that the U.S. will risk losing ground in the global artificial intelligence race against China without the massive facilities that have come under heightened scrutiny in recent years. \u201cThere\u2019s so much money to be made for Ohio. You can't just...",
+   "published": "2026-10-04T02:39:12+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-04T08:30:10.619415+00:00"
+  },
+  {
+   "id": "1696bd56fd0ac659",
+   "title": "Trump touts \u2018golden age\u2019 at Ohio rally, urges voters to deliver GOP midterm wins",
+   "url": "https://www.foxnews.com/politics/trump-touts-golden-age-ohio-rally-urges-voters-deliver-gop-midterm-wins",
+   "summary": "President Donald Trump urged Ohio rally-goers to &quot;pretend I&apos;m on the ballot&quot; as he stumped for Jon Husted and Vivek Ramaswamy in the midterms.",
+   "published": "2026-10-04T02:09:32+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-10-04T08:30:09.024584+00:00"
+  },
   {
    "id": "3e66975a9e31846a",
    "title": "Hegseth indicates some US troops could be redeployed from Europe to Western Hemisphere",
@@ -11144,39 +11166,6 @@
    "source_id": "thehill",
    "bias_note": "center",
    "first_seen": "2026-09-20T11:31:06.792285+00:00"
-  },
-  {
-   "id": "aa44cdc46fbc814f",
-   "title": "Justice Department charges 16 across multiple states with alleged illegal voting, election crimes",
-   "url": "https://www.foxnews.com/politics/justice-department-charges-16-across-multiple-states-alleged-illegal-voting-election-crimes",
-   "summary": "The Department of Justice charged 16 people across multiple states for alleged illegal voting, with eight noncitizens in Texas among those accused.",
-   "published": "2026-09-20T03:08:17+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-09-20T04:58:44.957503+00:00"
-  },
-  {
-   "id": "6d06b1ef244bc429",
-   "title": "Trump returns to White House as State Department issues security alerts for Middle East",
-   "url": "https://thehill.com/homenews/administration/6100118-trump-returns-camp-david-early/",
-   "summary": "President Trump cut his weekend trip to Camp David short a day early, returning to Washington, D.C., on Saturday evening.  The president touched down at the Ellipse just before 8 p.m., according to a White House pool report. The White House\u2019s official social media account shared a video clip of Trump departing Marine One.  The...",
-   "published": "2026-09-20T01:28:05+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-20T04:58:45.753066+00:00"
-  },
-  {
-   "id": "e1b5209988faf891",
-   "title": "Gavin Newsom signs election security bills to thwart federal interference by Trump",
-   "url": "https://www.theguardian.com/us-news/2026/sep/19/gavin-newsom-elections-trump-administration-interference",
-   "summary": "Bills signed by California governor safeguard vote by mail and make seizing ballots or election records a felonyCalifornia governor Gavin Newsom has signed off on a package of bills aimed at bolstering election security, including measures to thwart federal political interference, his office announced on Sunday.The pieces of legislation appear to address hot button national and state electoral issues, including an extension to the hours for mail-in voting drop off locations. Continue reading...",
-   "published": "2026-09-20T00:43:17+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-09-20T04:58:45.508703+00:00"
   }
  ]
 }
