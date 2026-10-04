@@ -1,7 +1,62 @@
 {
- "updated": "2026-10-04T19:40:55.041405+00:00",
- "count": 1006,
+ "updated": "2026-10-04T23:14:39.356988+00:00",
+ "count": 1003,
  "articles": [
+  {
+   "id": "46cead8e2d70358c",
+   "title": "North Korea missile could put Guam in range as Kim rebuffs Trump outreach: expert",
+   "url": "https://www.foxnews.com/world/north-korea-missile-could-put-guam-range-kim-rebuffs-trump-outreach-expert",
+   "summary": "North Korea&apos;s intermediate-range missile test puts Guam and parts of Alaska within range, an expert says, as President Trump touts his relationship with Kim Jong Un.",
+   "published": "2026-10-04T21:08:50+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-10-04T23:14:38.316409+00:00"
+  },
+  {
+   "id": "83bb1df5a70f1e96",
+   "title": "Trump takes red state midterm blitz to Nebraska as GOP frets over Senate race",
+   "url": "https://thehill.com/homenews/campaign/6127091-trump-nebraska-senate-rally-ricketts-osborn/",
+   "summary": "President Trump is headed to deep-red Nebraska as Republicans ready for a close Senate race against independent Dan Osborn, who\u2019s backed by Democrats aiming to keep the seat out of GOP hands. Incumbent Sen. Pete Ricketts (R-Neb.), who won the 2024 special election to fill out the remainder of former Sen. Ben Sasse\u2019s (R-Neb.) term,...",
+   "published": "2026-10-04T21:00:00+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-04T23:14:38.688604+00:00"
+  },
+  {
+   "id": "4ea6be05a8979a92",
+   "title": "Democratic rep: Administration 'has failed to present a strategy' in Iran war",
+   "url": "https://thehill.com/homenews/house/6128484-schneider-criticizes-trump-iran-strategy/",
+   "summary": "Democratic Rep. Brad Schneider (Ill.) on Sunday criticized the Trump administration\u2019s handling of the Iran war, saying officials have not explained their strategy for the conflict. \u201cWe need to explain to the American people what the goals are in trying to prevent, and we have to prevent Iran from ever getting a nuclear weapon, but...",
+   "published": "2026-10-04T20:53:23+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-04T23:14:38.688612+00:00"
+  },
+  {
+   "id": "5ed0a015388f4f9d",
+   "title": "Ivanka Trump reflects on 'incredibly special' family milestone spanning 4 generations",
+   "url": "https://www.foxnews.com/lifestyle/ivanka-trump-reflects-incredibly-special-family-milestone-spanning-4-generations",
+   "summary": "Ivanka Trump shared details and sentiments from her grandmother Marie Zeln\u00ed\u010dkov\u00e1&apos;s 100th birthday celebration as four generations gathered at her Miami home.",
+   "published": "2026-10-04T20:33:55+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-10-04T23:14:38.316425+00:00"
+  },
+  {
+   "id": "464d449c59d00cff",
+   "title": "Trump's 2024 support from Hispanic voters dips in new poll",
+   "url": "https://thehill.com/homenews/administration/6128414-trump-hispanic-support-plummeted/",
+   "summary": "President Trump\u2019s support among Hispanic voters has plummeted from 2024, according to a new poll. Just 27 percent of 800 Hispanic respondents to the NBC News/Telemundo survey approved of Trump, while 69 percent disapproved of the president. Nearly 6 in 10 Hispanic voters disapproved of Trump\u2019s handling of border security, and almost 7 in 10...",
+   "published": "2026-10-04T19:40:20+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-04T23:14:38.688629+00:00"
+  },
   {
    "id": "24909fe071b6efe7",
    "title": "Trump\u2019s gains among Latino voters slip ahead of midterms",
@@ -10979,94 +11034,6 @@
    "source_id": "thehill",
    "bias_note": "center",
    "first_seen": "2026-09-21T05:03:15.864871+00:00"
-  },
-  {
-   "id": "55fb09b51fbc93fa",
-   "title": "Grassley urges Trump to place embargo on diesel exports amid high prices",
-   "url": "https://thehill.com/policy/transportation/6100820-grassley-urges-trump-diesel-embargo/",
-   "summary": "Iowa Sen. Chuck Grassley (R) on Saturday pressed President Trump for an embargo on diesel exports amid high prices for the fuel. \u201c[W]hy doesn\u2019t Pres Trump put an embargo on diesel exports like presidents in the 70s put embargoes on ag[riculture] products [because] food prices were inflated,\u201d Grassley said in a Saturday night post on...",
-   "published": "2026-09-20T22:02:18+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-20T22:29:54.364217+00:00"
-  },
-  {
-   "id": "ca042d2ba41c8967",
-   "title": "Trump reportedly to form health funding board that could veto \u2018woke\u2019 initiatives",
-   "url": "https://www.theguardian.com/us-news/2026/sep/20/trump-order-nih-health-research-funding-board",
-   "summary": "President\u2019s latest order expected to bring NIH funding under control of Trump administration to align with agendaDonald Trump\u2019s latest executive order is expected to establish a board responsible for approving National Institutes of Health grant funding, marking another attempt by the Trump administration to censor topics that do not align with the president\u2019s agenda.The executive order, reported by outlets including the Washington Post and Politico, was discussed in a meeting on Friday where senior administration officials accused the NIH of funding \u201cwoke\u201d initiatives that went against Trump\u2019",
-   "published": "2026-09-20T21:53:00+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-09-20T22:29:54.191435+00:00"
-  },
-  {
-   "id": "e32526a710929656",
-   "title": "President Trump navigates tough political waters with UNGA, Xi visit and AI",
-   "url": "https://www.npr.org/2026/09/20/nx-s1-5975459/president-trump-navigates-tough-political-waters-with-unga-xi-visit-and-ai",
-   "summary": "President Trump has a big week on the international stage, from the United Nations General Assembly to hosting the Chinese president at the White House.",
-   "published": "2026-09-20T21:14:01+00:00",
-   "source": "NPR Politics",
-   "source_id": "npr-politics",
-   "bias_note": "center",
-   "first_seen": "2026-09-20T22:29:54.044701+00:00"
-  },
-  {
-   "id": "88c5531233108a16",
-   "title": "AI fears burst onto Trump-Xi agenda, but challenges abound",
-   "url": "https://thehill.com/policy/international/6099099-trump-xi-ai-talks-us-china/",
-   "summary": "Apocalyptic warnings about the danger of uncontrolled artificial intelligence are adding new urgency to talks between President Trump and Chinese President Xi Jinping set for next week.  Trump has dismissed AI\u2019s existential threats as a \u201choax\u201d \u2014 a view that analysts say aligns with China\u2019s general perspective. Intense competition for primacy and mutual distrust have...",
-   "published": "2026-09-20T21:00:00+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-20T22:29:54.364244+00:00"
-  },
-  {
-   "id": "35e919bba6369349",
-   "title": "Zelensky to meet with Trump in New York this week",
-   "url": "https://thehill.com/policy/international/6100733-trump-zelensky-nyc-meeting/",
-   "summary": "President Trump and Ukrainian President Volodymyr Zelensky are meeting in New York City this week, the Ukrainian leader said Sunday. \u201cI just spoke with President Trump @POTUS. An important conversation, and we got through a lot. We agreed to meet in New York, and this meeting could change a lot. There is diplomatic momentum,\u201d Zelensky...",
-   "published": "2026-09-20T20:48:30+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-20T22:29:54.364250+00:00"
-  },
-  {
-   "id": "bf9894bffee9ff9b",
-   "title": "Trump, Iranian president converge on NYC for \u2018dramatic\u2019 UN showdown as Tehran faces tight restrictions",
-   "url": "https://www.foxnews.com/world/trump-iranian-president-converge-nyc-dramatic-un-showdown-tehran-faces-tight-restrictions",
-   "summary": "President Donald Trump and Masoud Pezeshkian converge on New York City for the U.N. General Assembly amid strict U.S. restrictions on Iran&apos;s delegation movements.",
-   "published": "2026-09-20T20:30:57+00:00",
-   "source": "Fox News Latest",
-   "source_id": "foxnews-latest",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-09-20T22:29:53.366971+00:00"
-  },
-  {
-   "id": "4eaa72591a8149a9",
-   "title": "Xi prepares China \u2018for battle\u2019 as expert warns of grave danger facing US ahead of DC summit",
-   "url": "https://www.foxnews.com/media/xi-prepares-china-battle-expert-warns-grave-danger-facing-us-ahead-dc-summit",
-   "summary": "China expert Gordon Chang claims Xi Jinping is preparing China for war against the U.S. as President Donald Trump hosts a high-stakes summit Thursday.",
-   "published": "2026-09-20T19:57:13+00:00",
-   "source": "Fox News Latest",
-   "source_id": "foxnews-latest",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-09-20T22:29:53.366999+00:00"
-  },
-  {
-   "id": "a088b3c28673dbb0",
-   "title": "Florida Republican calls interim Venezuelan president 'necessary evil'",
-   "url": "https://thehill.com/homenews/house/6100642-salazar-delcy-rodriguez-necessary-evil/",
-   "summary": "Rep. Maria Elvira Salazar (R-Fla.) on Sunday called Venezuela's interim president Delcy Rodr\u00edguez a \"necessary evil\" until the Latin American country can have free and fair elections. Salazar defended President Trump's decision to meet with Rodr\u00edguez in New York City, while Trump is present for the annual United Nations General Assembly. She told CBS News's...",
-   "published": "2026-09-20T19:44:21+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-20T22:29:54.364271+00:00"
   }
  ]
 }
