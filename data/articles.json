@@ -1,7 +1,139 @@
 {
- "updated": "2026-10-04T15:41:50.849944+00:00",
- "count": 1007,
+ "updated": "2026-10-04T19:40:55.041405+00:00",
+ "count": 1006,
  "articles": [
+  {
+   "id": "24909fe071b6efe7",
+   "title": "Trump\u2019s gains among Latino voters slip ahead of midterms",
+   "url": "https://www.politico.com/news/2026/10/04/trump-latino-voters-slip-midterms-01106273",
+   "summary": "New polls show Democrats ahead among Latino voters as Trump draws low marks on the economy and immigration enforcement.",
+   "published": "2026-10-04T19:37:09+00:00",
+   "source": "Politico",
+   "source_id": "politico",
+   "bias_note": "center",
+   "first_seen": "2026-10-04T19:40:52.520831+00:00"
+  },
+  {
+   "id": "5cfdb468c01ed202",
+   "title": "Trump shares meme labeling Obama, not Nixon, as 'most corrupt president'",
+   "url": "https://thehill.com/homenews/administration/6128392-trump-compares-obama-nixon-corruption/",
+   "summary": "President Trump on Sunday continued his pattern of blasting former President Obama, sharing a meme stating that he, not former President Nixon, was the country\u2019s \u201cmost corrupt\u201d president. Trump posted a split screen of Obama and Nixon\u2019s presidential portraits to Truth Social, with the photo including the caption, \u201cOne of these men is the most...",
+   "published": "2026-10-04T19:11:23+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-04T19:40:53.745397+00:00"
+  },
+  {
+   "id": "5a09509ca3e9e436",
+   "title": "Rahm Emanuel urges Dems not to impeach Trump if they win the House",
+   "url": "https://www.foxnews.com/politics/rahm-emanuel-urges-dems-not-impeach-trump-win-house",
+   "summary": "Rahm Emanuel warns Democrats against impeaching Trump if they win the House, pushing for a comprehensive ethics package instead of a &quot;food fight.&quot;",
+   "published": "2026-10-04T18:45:01+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-10-04T19:40:51.683879+00:00"
+  },
+  {
+   "id": "e3b234ade77f0d87",
+   "title": "Trump names national intelligence chief Jay Clayton as new AI czar",
+   "url": "https://www.npr.org/2026/10/04/nx-s1-5990781/jay-clayton-ai-czar-trump",
+   "summary": "Trump said Clayton will lead the White House's new \"Super Intelligence Force,\" which will coordinate government engagement with artificial intelligence.",
+   "published": "2026-10-04T18:36:48+00:00",
+   "source": "NPR Politics",
+   "source_id": "npr-politics",
+   "bias_note": "center",
+   "first_seen": "2026-10-04T19:40:52.114313+00:00"
+  },
+  {
+   "id": "531837e8865035c9",
+   "title": "Photos show elections in Brazil where Lula faces Trump ally Fl\u00e1vio Bolsonaro for president",
+   "url": "https://abcnews.com/Politics/wireStory/photos-show-elections-brazil-lula-faces-trump-ally-136988359",
+   "summary": "Brazilians vote Sunday as President Luiz In&aacute;cio Lula da Silva seeks a fourth term against Sen. Fl&aacute;vio Bolsonaro, son of former President Jair Bolsonaro. An Oct. 25 runoff follows if no candidate wins more than 50% of valid votes.",
+   "published": "2026-10-04T18:34:21+00:00",
+   "source": "ABC News Politics",
+   "source_id": "abc-politics",
+   "bias_note": "center",
+   "first_seen": "2026-10-04T19:40:54.690004+00:00"
+  },
+  {
+   "id": "0e8529ae7d177ba2",
+   "title": "Emanuel urges Democrats to prioritize ethics reform over potential third Trump impeachment",
+   "url": "https://thehill.com/homenews/campaign/6128366-emanuel-pushes-democrats-ethics-reform/",
+   "summary": "Former Chicago Mayor Rahm Emanuel (D) on Sunday pushed Democrats to focus on ethics reform instead of a third impeachment of President Trump if they win back power in Congress after the midterm elections. \u201cI'm for the investigations. Hold this administration accountable, which is what the Republican Congress and Senate has refused to do, which...",
+   "published": "2026-10-04T18:09:38+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-04T19:40:53.745402+00:00"
+  },
+  {
+   "id": "f9eddeb0cf4a4924",
+   "title": "Latino voters swing back to Democrats ahead of midterm elections: poll",
+   "url": "https://www.foxnews.com/politics/latino-voters-swing-back-democrats-ahead-midterm-elections-poll",
+   "summary": "NBC News polling shows 69% of Latino voters disapprove of Trump as Democrats hold a 24-point edge ahead of the 2026 midterm elections races.",
+   "published": "2026-10-04T16:32:55+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-10-04T19:40:51.683895+00:00"
+  },
+  {
+   "id": "48574409dcb0f73f",
+   "title": "Trump names national intelligence director Jay Clayton to lead a new federal AI task force",
+   "url": "https://www.pbs.org/newshour/politics/trump-names-national-intelligence-director-jay-clayton-to-lead-a-new-federal-ai-task-force",
+   "summary": "The announcement comes after Trump hosted top executives of AI companies at the White House last week and said they had signed a voluntary accord that would effectively self-police the development of the technology.",
+   "published": "2026-10-04T16:31:42+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-10-04T19:40:54.036374+00:00"
+  },
+  {
+   "id": "7659c5f2c01b776b",
+   "title": "Alito on Trump's praise of him, criticism of fellow justices: 'I put all of that out of my mind'",
+   "url": "https://thehill.com/regulation/court-battles/6128234-alito-fox-news-interview-trump/",
+   "summary": "Supreme Court Justice Samuel Alito said in a rare televised interview Sunday on Fox News that he tries not to pay too much attention to President Trump's frequent praise of him \u2014 and recent criticism of some of his fellow justices on the bench. \"I put all of that out of my mind. I trust...",
+   "published": "2026-10-04T16:15:23+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-04T19:40:53.745428+00:00"
+  },
+  {
+   "id": "fd774a90ec8e1280",
+   "title": "\u2018Phantom\u2019 Obamacare accounts spark new crackdown as Oz targets broker fraud",
+   "url": "https://www.foxnews.com/politics/phantom-obamacare-accounts-spark-new-crackdown-oz-targets-broker-fraud",
+   "summary": "CMS Administrator Dr. Mehmet Oz says 1.1 million Obamacare recipients lacked social security numbers as 750,000 phantom accounts are terminated.",
+   "published": "2026-10-04T16:00:25+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-10-04T19:40:51.683900+00:00"
+  },
+  {
+   "id": "254dbe5997e3447b",
+   "title": "Your child may have been automatically enrolled for a Trump account: What to know",
+   "url": "https://thehill.com/business/personal-finance/6124370-your-child-may-have-been-automatically-enrolled-for-a-trump-account-what-to-know/",
+   "summary": "More than 60 million children have now been auto-enrolled in Trump accounts, according to the administration.",
+   "published": "2026-10-04T16:00:00+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-04T19:40:53.745439+00:00"
+  },
+  {
+   "id": "c630b7faa604e2dc",
+   "title": "Supreme Court opens new term with shaky Trump relationship",
+   "url": "https://thehill.com/regulation/court-battles/6127197-supreme-court-new-term-trump/",
+   "summary": "The Supreme Court justices return to the bench Monday for their new term, and their docket is already filling up with new confrontations on President Trump\u2019s immigration agenda, among other major cases. The term begins at a moment when the court\u2019s public approval stands near record lows and in the shadow of a\u00a0fraught relationship between Trump...",
+   "published": "2026-10-04T16:00:00+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-04T19:40:53.745442+00:00"
+  },
   {
    "id": "433e1ccca2654776",
    "title": "Trump announces 'Super Intelligence Force' led by DNI Jay Clayton",
@@ -10935,149 +11067,6 @@
    "source_id": "thehill",
    "bias_note": "center",
    "first_seen": "2026-09-20T22:29:54.364271+00:00"
-  },
-  {
-   "id": "68e49a3f2f4c0b43",
-   "title": "Hassett on Iran war: 'The president had to act'",
-   "url": "https://thehill.com/homenews/administration/6100592-hassett-defends-trump-iran-war/",
-   "summary": "National Economic Council Director Kevin Hassett on Sunday defended President Trump's handling of the Iran war and said the president \"had to act,\" suggesting that otherwise the outcome could have been dire. \"The whole thing started because the Iranians told us we don't have to talk to you anymore, because we're two weeks from having...",
-   "published": "2026-09-20T19:20:49+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-20T22:29:54.364274+00:00"
-  },
-  {
-   "id": "7b158ad2fb5db1a4",
-   "title": "Trump, Mamdani to meet in New York on Monday",
-   "url": "https://thehill.com/homenews/administration/6100625-trump-mamdani-gracie-mansion-meeting/",
-   "summary": "President Trump and New York City Mayor Zohran Mamdani (D) are set to meet Monday at the mayor\u2019s house, Gracie Mansion, in the Big Apple, a White House official and the mayor\u2019s press office said Sunday. In an emailed statement, Mamdani\u2019s press office said that \u201cthe meeting will focus on issues affecting New York City...",
-   "published": "2026-09-20T19:18:54+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-20T22:29:54.364279+00:00"
-  },
-  {
-   "id": "4b1041ee3fab622f",
-   "title": "America and China are fighting for the future of AI \u2014 chips are the battlefield",
-   "url": "https://www.foxnews.com/opinion/america-china-fighting-future-ai-chips-battlefield",
-   "summary": "President Donald Trump and Xi Jinping meet in Washington as Huawei races to build a rival AI chip ecosystem that could displace American semiconductor dominance.",
-   "published": "2026-09-20T18:48:22+00:00",
-   "source": "Fox News Latest",
-   "source_id": "foxnews-latest",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-09-20T22:29:53.367037+00:00"
-  },
-  {
-   "id": "10298c22451dd935",
-   "title": "Trump to meet with Mamdani in New York amid high-stakes midterm push",
-   "url": "https://www.foxnews.com/politics/trump-meet-mamdani-new-york-amid-high-stakes-midterm-push",
-   "summary": "Zohran Mamdani will host Donald Trump at Gracie Mansion on Monday for their third face-to-face meeting to discuss issues affecting NYC residents.",
-   "published": "2026-09-20T18:45:41+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-09-20T22:29:53.347783+00:00"
-  },
-  {
-   "id": "39b556af69947c80",
-   "title": "Andy Burnham faces a weakened Trump \u2013 but the president remains unpredictable",
-   "url": "https://www.theguardian.com/us-news/2026/sep/20/andy-burnham-faces-a-weakened-trump-but-the-president-remains-unpredictable",
-   "summary": "PM hopes to be firmer with US leader than his predecessor without provoking diplomatic warfare, as the Iran war weighs on the UK economyNo international relationship has more power to determine the success of Andy Burnham\u2019s premiership. So you might imagine the stakes for the prime minister\u2019s first face-to-face meeting with Donald Trump on Tuesday would be high.Yet Burnham may prove to be a lucky general. The balance of risk has shifted. Trump is unpopular at home, where inflation remains high, and is mired in an intractable conflict in Iran that has the potential to sink his midterm dreams. C",
-   "published": "2026-09-20T18:45:23+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-09-20T22:29:54.191445+00:00"
-  },
-  {
-   "id": "9cb4b1703c8209e9",
-   "title": "Nicki Minaj offers career advice to young Americans, delivers blunt response to Trump critics",
-   "url": "https://www.foxnews.com/media/nicki-minaj-offers-career-advice-young-americans-delivers-blunt-response-trump-critics",
-   "summary": "Rapper Nicki Minaj revealed her path from Red Lobster to global stardom and fiercely defended her support of President Donald Trump in an exclusive interview.",
-   "published": "2026-09-20T17:34:28+00:00",
-   "source": "Fox News Latest",
-   "source_id": "foxnews-latest",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-09-20T18:51:23.045584+00:00"
-  },
-  {
-   "id": "60e0055b84f3ba08",
-   "title": "Florida Republican says Trump 'has his own style' in handling reporters covering the White House",
-   "url": "https://thehill.com/homenews/house/6100450-salazar-defends-trump-media-ban/",
-   "summary": "Rep. Maria Elvira Salazar (R-Fla.) on Sunday said President Trump \"has his own style\" in handling reporters who cover him, defending his move to ban CNN, Politico and MS NOW's reporters from the White House. \"I think that he has his own style and that he will determine who he wants to talk to, but...",
-   "published": "2026-09-20T17:18:06+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-20T18:51:23.590179+00:00"
-  },
-  {
-   "id": "92c39b911de9bbd2",
-   "title": "House Republican doubles down on jab at Trump\u2019s immigration enforcement",
-   "url": "https://www.theguardian.com/us-news/2026/sep/20/maria-elvira-salazar-republican-trump-immigration",
-   "summary": "Florida\u2019s Mar\u00eda Elvira Salazar warns Trump that advisers are \u2018compromising his legacy\u2019 and not showing \u2018whole picture\u2019Mar\u00eda Elvira Salazar, the Republican congresswoman who has accused the president of going too far on immigration enforcement, doubled down on her criticism of the administration on Sunday, warning Donald Trump that some of his advisers were \u201ccompromising his legacy\u201d.In an interview with CBS News\u2019s Face the Nation, the Florida representative who is locked in a tight race for re-election pleaded with the US president not to \u201csquander\u201d his relationship with Hispanic voters. Though",
-   "published": "2026-09-20T17:04:19+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-09-20T18:51:23.414216+00:00"
-  },
-  {
-   "id": "163d6ddbc337660f",
-   "title": "Presidential Message on Yom Kippur",
-   "url": "https://www.whitehouse.gov/briefings-statements/2026/09/presidential-message-on-yom-kippur-a68b/",
-   "summary": "On the holiest day of the Jewish calendar, I send my best wishes to the entire Jewish community for a blessed Yom Kippur. As it is referred to in the Torah as the \u201cSabbath of Sabbaths,\u201d Yom Kippur empowers those of the Jewish faith to renew their unwavering relationship with the Creator through fasting, prayer, [&#8230;]\nThe post Presidential Message on Yom Kippur appeared first on The White House.",
-   "published": "2026-09-20T17:02:49+00:00",
-   "source": "WhiteHouse.gov News",
-   "source_id": "whitehouse",
-   "bias_note": "official/primary-source",
-   "first_seen": "2026-09-20T18:51:23.077042+00:00"
-  },
-  {
-   "id": "4a27f47b03e74542",
-   "title": "Why Trump zeroed in on Greenland, the world\u2019s largest island, mostly covered in ice \u2014 in 3 charts",
-   "url": "https://www.foxnews.com/politics/why-trump-zeroed-greenland-worlds-largest-island-mostly-covered-ice-3-charts",
-   "summary": "President Donald Trump says his Greenland deal gives the U.S. permanent control over the island&apos;s security while barring China and Russia from Arctic footholds.",
-   "published": "2026-09-20T16:58:19+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-09-20T18:51:23.026316+00:00"
-  },
-  {
-   "id": "73f281c46cf3bee6",
-   "title": "Khanna calls for a government agency to oversee AI 'like the FDA'",
-   "url": "https://thehill.com/policy/technology/6100322-khanna-proposes-ai-regulatory-agency/",
-   "summary": "Rep. Ro Khanna (D-Calif.) on Sunday said that the federal government should create a regulatory agency to oversee the development of artificial intelligence, similar to the Food and Drug Administration (FDA). \"Well, we need to set up an AI agency like the FDA,\" Khanna told host Margaret Brennan on CBS News's \"Face the Nation.\" \"I...",
-   "published": "2026-09-20T16:26:31+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-20T18:51:23.590203+00:00"
-  },
-  {
-   "id": "42fb11f7853702e3",
-   "title": "Obama criticizes Trump on approach to AI, escalates warning for stronger regulation",
-   "url": "https://www.foxnews.com/media/obama-criticizes-trump-approach-ai-escalates-warning-stronger-regulation",
-   "summary": "Barack Obama slammed Trump&apos;s AI stance at Colgate University, warning the administration is neither capable nor willing to build a regulatory framework.",
-   "published": "2026-09-20T16:23:02+00:00",
-   "source": "Fox News Latest",
-   "source_id": "foxnews-latest",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-09-20T18:51:23.045624+00:00"
-  },
-  {
-   "id": "d60d6adf9c4d4d1d",
-   "title": "Soaring diesel prices pose latest economic headache for GOP",
-   "url": "https://thehill.com/policy/transportation/6096876-diesel-price-of-gas-oil-midterms/",
-   "summary": "Rising diesel prices are proving to be a particular problem for Republicans as surging energy costs sour the economic mood just 45 days out from the midterms.  The national average for diesel jumped 42 cents over the last week, largely as a result of the ongoing U.S. war in Iran, though President Trump has sought...",
-   "published": "2026-09-20T16:00:00+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-20T16:12:00.226879+00:00"
   }
  ]
 }
