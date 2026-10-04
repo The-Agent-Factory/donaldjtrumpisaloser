@@ -1,7 +1,29 @@
 {
- "updated": "2026-10-03T21:22:31.485393+00:00",
- "count": 1017,
+ "updated": "2026-10-04T00:42:08.269032+00:00",
+ "count": 1016,
  "articles": [
+  {
+   "id": "3e66975a9e31846a",
+   "title": "Hegseth indicates some US troops could be redeployed from Europe to Western Hemisphere",
+   "url": "https://thehill.com/policy/defense/6127801-hegseth-redeploys-troops-western-hemisphere/",
+   "summary": "Defense Secretary Pete Hegseth indicated on Saturday that some U.S. service members could be redeployed from Europe to the Western Hemisphere as the Trump administration ramps up its deadly campaign against drug cartels in South America.  \u201cWell, we're definitely expanding our presence and our footprint in Central and South America with partners, and because of...",
+   "published": "2026-10-03T21:47:46+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-04T00:42:07.567138+00:00"
+  },
+  {
+   "id": "b4e69329eb9eabf6",
+   "title": "Episcopal bishop who urged Trump to \u2018have mercy\u2019 to resign post in Washington DC",
+   "url": "https://www.theguardian.com/us-news/2026/oct/03/mariann-budde-episcopal-bishop-trump",
+   "summary": "Mariann Budde gained national attention for calling on US president to consider immigrants and LGBTQ+ peopleRev Mariann Edgar Budde, the Episcopal bishop of Washington DC who gained national attention when she called on Donald Trump to \u201chave mercy\u201d on the country\u2019s immigrants and LGBTQ+ community after his second inauguration, is resigning.Budde shared in her resignation letter that she will be leaving her post on 3 June 2028 after the consecration and ordination of the new diocesan bishop. Continue reading...",
+   "published": "2026-10-03T21:21:18+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-10-04T00:42:07.421393+00:00"
+  },
   {
    "id": "30388e2877c434c1",
    "title": "Head Start fight reaches tipping point as advocates push back against proposed Trump changes",
@@ -11155,39 +11177,6 @@
    "source_id": "guardian-uspolitics",
    "bias_note": "left-leaning",
    "first_seen": "2026-09-20T04:58:45.508703+00:00"
-  },
-  {
-   "id": "f83adc17a91b86b2",
-   "title": "Trump's MAGA Inc. funnels another $5 million into Texas Senate race",
-   "url": "https://thehill.com/homenews/campaign/6100079-trumps-maga-inc-funnels-another-5-million-into-texas-senate-race/",
-   "summary": "President Trump\u2019s super PAC, MAGA Inc., poured an additional $5 million into the Texas Senate race, according to a new Federal Election Commission (FEC) filing published Saturday.  The funds were earmarked for Del Ray Media LLC, a Virginia-based political media company, for TV and digital advertising against the Democratic nominee in this race, state Rep....",
-   "published": "2026-09-19T23:53:16+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-20T00:10:07.998295+00:00"
-  },
-  {
-   "id": "5fe9f391c0959702",
-   "title": "Newsom signs laws aimed at preventing election interference",
-   "url": "https://thehill.com/homenews/state-watch/6100050-newsom-signs-election-protection-bills/",
-   "summary": "California Gov. Gavin Newsom (D) on Saturday signed a legislation package aimed at safeguarding the state\u2019s election process against potential interference in the upcoming midterm elections. The Democratic governor, who has repeatedly warned President Trump\u2019s administration would attempt to meddle in these upcoming elections, signed 13 bills in Los Angeles.  \u201cDonald Trump won\u2019t stop until...",
-   "published": "2026-09-19T22:29:57+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-20T00:10:07.998305+00:00"
-  },
-  {
-   "id": "1c078aa6a3bd6aac",
-   "title": "Trump administration begins construction on Texas's Big Bend border wall",
-   "url": "https://thehill.com/homenews/administration/6100003-trump-border-wall-big-bend-construction/",
-   "summary": "The Trump administration began construction on a portion of the U.S.-Mexico border wall cutting through southwest Texas\u2019s Big Bend region despite local leaders' pushback against the project. Customs and Border Protection (CBP) told the Associated Press Friday that installation of 30-foot panels was already underway along this portion southern border. The construction started earlier this...",
-   "published": "2026-09-19T21:22:32+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-20T00:10:07.998325+00:00"
   }
  ]
 }
