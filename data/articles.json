@@ -1,7 +1,139 @@
 {
- "updated": "2026-10-05T19:32:41.141136+00:00",
- "count": 990,
+ "updated": "2026-10-05T22:42:18.641536+00:00",
+ "count": 988,
  "articles": [
+  {
+   "id": "c8a4e78d0686de9f",
+   "title": "The Memo: Experts seek to calm panic over mysterious Russia \u2018plague\u2019 case",
+   "url": "https://thehill.com/homenews/analysis/6130693-russia-pneumonic-plague-fear/",
+   "summary": "A new cloud of anxiety is hovering over the public amid reports of an infectious disease, a laboratory accident and a death. The fact that the story comes out of Russia heightens American concerns rather than assuages them, raising dark talk of bioweapons, artificial intelligence and Kremlin secrecy. Even President Trump has weighed in. \u201cI...",
+   "published": "2026-10-05T22:30:57+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-05T22:42:17.731757+00:00"
+  },
+  {
+   "id": "c331f4aaf953b1cd",
+   "title": "The Iran war is unpopular, but will it cost Trump the midterms? Our reporters answer your questions",
+   "url": "https://www.theguardian.com/community/live/2026/oct/05/reader-q-a-iran-war-trump-midterms-reporter-answers",
+   "summary": "The war with Iran is reshaping America ahead of the midterms \u2013 how will it affect US voters at the polls? Join us for a live conversation on Oct. 6 at 12pm EDT with political and global correspondentsSign in or sign up to join the conversationWelcome to our latest US midterms live Q&amp;A \u2013 just over a month away from election day on Nov. 3.The war with Iran has had major implications for Americans\u2019 wallets, government spending and US foreign policy. It\u2019s has also been an important factor in reshaping the political landscape as the war enters its eighth month, with the 2026 US midterms quickly",
+   "published": "2026-10-05T22:10:54+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-10-05T22:42:17.477728+00:00"
+  },
+  {
+   "id": "e054b38a69bde2f8",
+   "title": "Watch live: Trump rallies Nebraska voters with GOP on defense",
+   "url": "https://thehill.com/homenews/campaign/6130114-watch-live-donald-trump-nebraska-rally-midterms-pete-ricketts/",
+   "summary": "President Trump will rally voters in Nebraska Monday evening, as Republicans look to shore up support in a state where an unexpectedly competitive Senate race has put the GOP on defense. Sen. Pete Ricketts (R-Neb.) is facing independent Dan Osborn, who came within 7 points of Sen. Deb Fischer (R-Neb.) in 2024 and is now...",
+   "published": "2026-10-05T22:00:00+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-05T22:42:17.731780+00:00"
+  },
+  {
+   "id": "6636dd281e2ff056",
+   "title": "Biden-era FBI tracked Trump family travel and Wiles\u2019 calls with lawyers in secret probe: docs",
+   "url": "https://www.foxnews.com/politics/biden-era-fbi-tracked-trump-family-travel-wiles-calls-lawyers-secret-probe-docs",
+   "summary": "Declassified records reveal the Biden-era FBI tracked Melania and Barron Trump&apos;s travel while planning the Mar-a-Lago classified documents search.",
+   "published": "2026-10-05T21:39:47+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-10-05T22:42:16.884382+00:00"
+  },
+  {
+   "id": "978d9cfcf13521ea",
+   "title": "Trump's deportation agenda haunts him in 2 high-profile House races",
+   "url": "https://thehill.com/homenews/administration/6130511-trump-deportations-impact-house-races-florida-texas/",
+   "summary": "President Trump\u2019s deportation agenda is haunting him in two key House races as polls show Latino voters turning on the president and Republicans a month out from the midterm elections.\u00a0 The issue is acutely playing out in Florida\u2019s 27th and Texas\u2019s 15th congressional districts, where incumbent Reps. Maria Elvira Salazar (R-Fla.) and Monica De La...",
+   "published": "2026-10-05T21:39:10+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-05T22:42:17.731791+00:00"
+  },
+  {
+   "id": "cd366b627c95523c",
+   "title": "Trump says Russia plague reports concerning: Microbes 'stronger and smarter'",
+   "url": "https://thehill.com/homenews/6130523-donald-trump-russia-pneumonic-plague/",
+   "summary": "President Trump said Monday he is concerned about the suspected plague case in Russia, saying the U.S. is \u201clooking at it very strongly.\u201d The State Department said Monday it was monitoring the suspected case of pneumonic plague in Irkutsk Oblast, Russia. \u201cI hate to see them having it,\u201d Trump told reporters before departing the White...",
+   "published": "2026-10-05T21:25:18+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-05T22:42:17.731812+00:00"
+  },
+  {
+   "id": "01d08f01d4c7d80e",
+   "title": "Trump DOJ sues university where illegal immigrants can get $15K tuition rate while some Americans pay $42K",
+   "url": "https://www.foxnews.com/media/trump-doj-sues-university-illegal-immigrants-15k-tuition-rate-americans-pay-42k",
+   "summary": "The Justice Department alleges the University of Delaware charges undocumented students $15,740 while out-of-state U.S. citizens pay roughly $42,470.",
+   "published": "2026-10-05T21:13:55+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-10-05T22:42:16.962735+00:00"
+  },
+  {
+   "id": "332e3bbd6086d624",
+   "title": "Trump says he will 'certainly look at' establishing US military base in Lithuania",
+   "url": "https://thehill.com/policy/defense/6130439-trump-considers-lithuania-military-base/",
+   "summary": "President Trump said Monday he will \u201ccertainly look at\u201d establishing a U.S. military base in Lithuania a week after the country\u2019s prime minister said he would welcome U.S. service members into the Baltic state.\u00a0 \u201cThey\u2019re friends of mine; they're great people, so we'll certainly look at it. They are great people,\u201d the president said when...",
+   "published": "2026-10-05T21:10:55+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-05T22:42:17.731815+00:00"
+  },
+  {
+   "id": "dea8e1aa54a31a86",
+   "title": "Trump administration proposes new crypto rules",
+   "url": "https://thehill.com/newsletters/business-economy/6130465-trump-administration-proposes-new-crypto-rules/",
+   "summary": "Presented by PolitiSizeIT {beacon} Business &#038; Economy Business &#038; Economy PRESENTED BY  The Big Story  Trump admin proposes new crypto rules The Commodity Futures Trading Commission (CFTC) unveiled new proposals Monday for regulating cryptocurrency markets, after an effort to pass digital asset legislation through Congress came up short last month.  \u00a9 Greg Nash The Commodity...",
+   "published": "2026-10-05T21:01:06+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-05T22:42:17.731826+00:00"
+  },
+  {
+   "id": "f4d6e076161c1f3a",
+   "title": "Trump calls for media outlets to be \u2018arrested\u2019 over rally coverage",
+   "url": "https://thehill.com/homenews/administration/6130397-trump-media-arrests-ohio-rally/",
+   "summary": "President Trump said Monday that reporters from The New York Times and other media outlets should be \u201carrested\u201d over their coverage of his Saturday rally in Ohio. \u201cThe Ohio Arena was already full to the brim \u2014 And yet these people were still trying to get in,\u201d Trump wrote on Truth Social, sharing a video...",
+   "published": "2026-10-05T20:49:00+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-05T22:42:17.731837+00:00"
+  },
+  {
+   "id": "37a3d23c3f18410c",
+   "title": "Trump: Refinery disruptions, not Hormuz, are driving gas prices",
+   "url": "https://thehill.com/homenews/administration/6130291-trump-claims-refinery-disruptions-raise-gas-prices/",
+   "summary": "President Trump on Monday claimed that disruptions to oil refineries are driving up the soaring cost of gas, not Iran's closure of the Strait of Hormuz following the start of the U.S.-Israeli conflict with its regime. \"What's driving up Gasoline is no longer the Strait of Hormuz, because Record Numbers of Barrels are coming out...",
+   "published": "2026-10-05T20:43:34+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-05T22:42:17.731839+00:00"
+  },
+  {
+   "id": "fe9d2ddb674d898c",
+   "title": "Sen. Tillis says his vote for Hegseth was 'biggest regret of my career' in new book",
+   "url": "https://www.pbs.org/newshour/politics/sen-tillis-says-his-vote-for-hegseth-was-biggest-regret-of-my-career-in-new-book",
+   "summary": "Republican Sen. Thom Tillis says in a new book that his deciding vote to confirm Defense Secretary Pete Hegseth in January 2025 is the \"biggest regret of my career\" and that he also \"should've stopped\" Robert F. Kennedy Jr. from becoming Health and Human Services secretary in the early days of President Donald Trump's second term.",
+   "published": "2026-10-05T19:40:52+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-10-05T22:42:17.864193+00:00"
+  },
   {
    "id": "ae6aa17ebe5ebdc4",
    "title": "Politico reportedly barred from traveling with Trump amid administration\u2019s crackdown on White House coverage \u2013 live",
@@ -10737,160 +10869,6 @@
    "source_id": "guardian-uspolitics",
    "bias_note": "left-leaning",
    "first_seen": "2026-09-21T23:20:08.922003+00:00"
-  },
-  {
-   "id": "15f871c0ca67eac8",
-   "title": "Former WHCA president on Trump's press ban: 'An attack on one outlet is an attack on everyone'",
-   "url": "https://thehill.com/media/6102786-trump-whca-media-ban/",
-   "summary": "Former White House Correspondents' Association (WHCA) president Weijia Jiang on Sunday said President Trump's ban on CNN, Politico and MS NOW reporters from covering the White House was an \"attack\" on all other news outlets. \"This is not a tantrum by three media outlets who are upset because they can't get into the White House...",
-   "published": "2026-09-21T22:40:07+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-21T23:20:09.162173+00:00"
-  },
-  {
-   "id": "a9888c602d03c5b7",
-   "title": "Appeals court favors Trump-backed Missouri congressional map, but Supreme Court will have final say",
-   "url": "https://www.pbs.org/newshour/politics/appeals-court-favors-trump-backed-missouri-congressional-map-but-supreme-court-will-have-final-say",
-   "summary": "A federal appeals panel has ruled in favor of new Missouri congressional districts backed by President Donald Trump. But there is no immediate impact from Monday's ruling.",
-   "published": "2026-09-21T22:38:12+00:00",
-   "source": "PBS NewsHour Politics",
-   "source_id": "pbs-politics",
-   "bias_note": "center",
-   "first_seen": "2026-09-21T23:20:09.343456+00:00"
-  },
-  {
-   "id": "18b9e36a3d621b29",
-   "title": "Tamara Keith and Amy Walter on Trump's media attacks",
-   "url": "https://www.pbs.org/newshour/show/tamara-keith-and-amy-walter-on-trumps-media-attacks",
-   "summary": "NPR's Tamara Keith and Amy Walter of the Cook Political Report with Amy Walter join Amna Nawaz to discuss the latest political news, including President Trump banning some news outlets from the White House, Republicans publicly breaking with Trump and where parties are spending money for the midterm elections.",
-   "published": "2026-09-21T22:35:30+00:00",
-   "source": "PBS NewsHour Politics",
-   "source_id": "pbs-politics",
-   "bias_note": "center",
-   "first_seen": "2026-09-21T23:20:09.343460+00:00"
-  },
-  {
-   "id": "f531de488b6a7412",
-   "title": "War correspondent Scott Anderson on the shifting landscape in the Middle East",
-   "url": "https://www.pbs.org/newshour/show/war-correspondent-scott-anderson-on-the-shifting-landscape-in-the-middle-east",
-   "summary": "Ten years ago, Scott Anderson's New York Times Magazine project, Fractured Lands, traced the lives of six people across the Middle East as war, dictatorship and the Arab Spring transformed the region. His latest book, \"King of Kings,\" examines the fall of Iran's last Shah in 1978 and the Islamic Revolution that followed and still shapes Iran today. Anderson joined Geoff Bennett to discuss more.",
-   "published": "2026-09-21T22:30:32+00:00",
-   "source": "PBS NewsHour Politics",
-   "source_id": "pbs-politics",
-   "bias_note": "center",
-   "first_seen": "2026-09-21T23:20:09.343465+00:00"
-  },
-  {
-   "id": "83fe8bac1568dedc",
-   "title": "Britain's Burnham to meet Trump and make UN debut after offering UK military support for Saudis",
-   "url": "https://www.pbs.org/newshour/politics/britains-burnham-to-meet-trump-and-make-un-debut-after-offering-uk-military-support-for-saudis",
-   "summary": "Britain's Prime Minister Andy Burnham is set to meet U.S. President Donald Trump for the first time.",
-   "published": "2026-09-21T22:22:23+00:00",
-   "source": "PBS NewsHour Politics",
-   "source_id": "pbs-politics",
-   "bias_note": "center",
-   "first_seen": "2026-09-21T23:20:09.343477+00:00"
-  },
-  {
-   "id": "ec0e670bb3c4574e",
-   "title": "Trump says Mamdani has \u2018great potential\u2019 after Gracie Mansion visit",
-   "url": "https://thehill.com/homenews/administration/6102816-trump-mamdani-gracie-mansion-visit/",
-   "summary": "NEW YORK \u2014 President Trump offered rare praise of New York City Mayor Zohran Mamdani (D) Monday, saying he has \u201cgreat potential.\u201d The two leaders chatted inside Gracie Mansion before holding a press conference ahead of Tuesday's United Nations General Assembly in the city. \u201cNo, I certainly hope he will be a great mayor,\u201d Trump...",
-   "published": "2026-09-21T22:02:49+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-21T23:20:09.162203+00:00"
-  },
-  {
-   "id": "9d00408f9607933a",
-   "title": "US TV networks suspend White House pool coverage over Trump media ban",
-   "url": "https://www.theguardian.com/us-news/2026/sep/21/trump-tv-networks-white-house-pool-coverage",
-   "summary": "ABC, CBS, Fox News and NBC decline to participate after presidential ban that prompted widespread condemnationMajor US TV news networks agreed to refuse to air coverage of Donald Trump\u2019s White House after the administration banned certain media outlets including CNN from the grounds.The ban left CNN unable to fulfill its duties as Monday\u2019s White House designated pool broadcaster. Continue reading...",
-   "published": "2026-09-21T22:01:00+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-09-21T23:20:08.922012+00:00"
-  },
-  {
-   "id": "4811279335d2a34c",
-   "title": "Trump's big weekend: The arch, Greenland, and media outlets banned from White House",
-   "url": "https://www.npr.org/2026/09/21/nx-s1-5976738/trumps-big-weekend-the-arch-greenland-and-media-outlets-banned-from-white-house",
-   "summary": "President Trump's exertion of power over the press, Greenland and even the D.C. landscape are teeing up questions over the president's limits.",
-   "published": "2026-09-21T21:52:34+00:00",
-   "source": "NPR Politics",
-   "source_id": "npr-politics",
-   "bias_note": "center",
-   "first_seen": "2026-09-21T23:20:08.678860+00:00"
-  },
-  {
-   "id": "ae0e65709b17e7b3",
-   "title": "Democrats\u2019 Gaza reckoning: how failing to give Palestinians a voice came back to bite the party",
-   "url": "https://www.theguardian.com/us-news/2026/sep/21/democrats-joe-biden-kamala-harris-book-gaza",
-   "summary": "Voters rejected many establishment choices this year in favor of candidates pushing accountability for Gaza, writes Akbar Shahid AhmedThe last time she gathered with fellow Democrats for a pre-election national convention, Georgia state representative Ruwa Romman got an unspoken message from the party establishment: on their biggest stage, she said, \u201cThere\u2019s room for an anti-choice Republican but not for Palestinians\u201d. Democratic officials gave speaking slots to an architect of Georgia\u2019s strict abortion ban and other conservatives critical of Donald Trump, but they denied a speech from Romman ",
-   "published": "2026-09-21T21:48:04+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-09-21T23:20:08.922021+00:00"
-  },
-  {
-   "id": "623ce1e6f8b3d528",
-   "title": "Trump expecting district court loss over lawsuit from CNN, MS NOW, Politico",
-   "url": "https://thehill.com/homenews/media/6102743-trump-white-house-press-ban-lawsuit/",
-   "summary": "President Trump railed against the judge who has been assigned to a case seeking to challenge his ban on three media outlets from covering the White House and telegraphed he might be forced to let the journalists working for the trio back in the building. \"They have drawn a great Judge, for them,\" Trump said...",
-   "published": "2026-09-21T21:46:21+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-21T23:20:09.162216+00:00"
-  },
-  {
-   "id": "99115784fa2c990a",
-   "title": "AI fears hit Trump-Xi agenda",
-   "url": "https://thehill.com/newsletters/technology/6102756-ai-fears-hit-trump-xi-agenda/",
-   "summary": "{beacon} Technology Technology &#8202; The Big Story  AI fears hit Trump-Xi agenda, but challenges abound Apocalyptic warnings about the danger of uncontrolled artificial intelligence are adding new urgency to talks between President Trump and Chinese President Xi Jinping set for later this week.  \u00a9 Brendan Smialowski/Pool Photo via AP, File Trump has dismissed AI\u2019s existential...",
-   "published": "2026-09-21T21:33:46+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-21T23:20:09.162221+00:00"
-  },
-  {
-   "id": "660c077af0e70f80",
-   "title": "Trump approval falls to all-time low in Reuters/Ipsos poll \u2060",
-   "url": "https://thehill.com/homenews/administration/6102632-trump-approval-rating-historic-low/",
-   "summary": "President Trump\u2019s approval rating has dipped to a historic low with the midterms only about six weeks away, according to a new poll. In the Reuters/Ipsos poll, Trump\u2019s approval rating was sitting at 32 percent, the lowest of his second term and, according to Reuters, a record low for his entire political life. The fresh...",
-   "published": "2026-09-21T20:49:50+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-21T23:20:09.162261+00:00"
-  },
-  {
-   "id": "80b7cd1673a05b1f",
-   "title": "Trump shows off new White House helipad, but networks skip coverage during First Amendment fight",
-   "url": "https://www.pbs.org/newshour/politics/trump-shows-off-new-white-house-helipad-but-networks-skip-coverage-during-first-amendment-fight",
-   "summary": "President Trump has unveiled a new White House helicopter landing pad while trying to downplay a First Amendment firestorm.",
-   "published": "2026-09-21T20:26:50+00:00",
-   "source": "PBS NewsHour Politics",
-   "source_id": "pbs-politics",
-   "bias_note": "center",
-   "first_seen": "2026-09-21T23:20:09.343487+00:00"
-  },
-  {
-   "id": "2654159b80b73b59",
-   "title": "Gov Pritzker dodges questions on Hasan Piker, says focus should be on stopping Trump",
-   "url": "https://www.foxnews.com/media/gov-pritzker-dodges-questions-hasan-piker-says-focus-stopping-trump",
-   "summary": "Gov. JB Pritzker dodged questions about Hasan Piker&apos;s controversial stances and influence in the party, insisting Democrats should focus on stopping Trump.",
-   "published": "2026-09-21T19:57:04+00:00",
-   "source": "Fox News Latest",
-   "source_id": "foxnews-latest",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-09-21T23:20:08.116634+00:00"
   }
  ]
 }
