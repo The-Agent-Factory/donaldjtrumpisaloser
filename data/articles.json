@@ -1,7 +1,73 @@
 {
- "updated": "2026-10-04T23:14:39.356988+00:00",
- "count": 1003,
+ "updated": "2026-10-05T05:48:51.867760+00:00",
+ "count": 1006,
  "articles": [
+  {
+   "id": "013d2e7af5e6233a",
+   "title": "Trump heads to Nebraska on Monday, where his plans for imports have angered ranchers",
+   "url": "https://abcnews.com/Politics/wireStory/trump-heads-nebraska-monday-plan-import-beef-angered-136995164",
+   "summary": "President Donald Trump is campaigning in Nebraska on Monday alongside GOP Sen. Pete Ricketts",
+   "published": "2026-10-05T04:58:54+00:00",
+   "source": "ABC News Politics",
+   "source_id": "abc-politics",
+   "bias_note": "center",
+   "first_seen": "2026-10-05T05:48:51.630346+00:00"
+  },
+  {
+   "id": "1a574bbe4c9fcd9a",
+   "title": "Jeffries says House Democrats reaching to flip Trump districts",
+   "url": "https://abcnews.com/Politics/wireStory/jeffries-house-democrats-reaching-flip-trump-districts-attempt-136993177",
+   "summary": "House Democratic leader Hakeem Jeffries says his party is on track to win back control of the House",
+   "published": "2026-10-05T02:13:22+00:00",
+   "source": "ABC News Politics",
+   "source_id": "abc-politics",
+   "bias_note": "center",
+   "first_seen": "2026-10-05T05:48:51.630352+00:00"
+  },
+  {
+   "id": "ec7101f4b0570810",
+   "title": "Mark Ruffalo says he\u2019ll \u2018Hulk out\u2019 over voting rights",
+   "url": "https://thehill.com/blogs/in-the-know/6128799-mark-ruffalo-hulk-out-trump/",
+   "summary": "Actor Mark Ruffalo on Sunday blasted President Trump\u2019s attempts to restrict mail-in voting ahead of the midterms, saying he was ready to \u201cHulk out\u201d to stop it. During a \u201cHands Off Our Vote\u201d event in New York City, the Marvel Cinematic Universe (MCU) actor said Republicans will \u201ctry and stop us from taking our country...",
+   "published": "2026-10-05T02:01:25+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-05T05:48:50.486647+00:00"
+  },
+  {
+   "id": "05ae164a619a70c1",
+   "title": "Singer Phil Collins blasts Trump as 'nasty,' teases song about America called 'Fat People with Guns'",
+   "url": "https://www.foxnews.com/media/singer-phil-collins-blasts-trump-nasty-teases-song-america-fat-people-guns",
+   "summary": "Phil Collins revealed an unwritten song called &quot;Fat People With Guns&quot; about America and slammed Trump&apos;s demeanor in a &quot;Piers Morgan Uncensored&quot; interview.",
+   "published": "2026-10-05T01:01:26+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-10-05T05:48:49.148503+00:00"
+  },
+  {
+   "id": "b25a9ab7eac7aaa7",
+   "title": "Bolsonaro wins first round of Brazilian presidential election, as Trump-backed candidates continue red wave",
+   "url": "https://www.foxnews.com/world/bolsonaro-wins-first-round-brazilian-presidential-election-trump-backed-candidates-continue-red-wave",
+   "summary": "Flavio Bolsonaro won the first round of Brazil&apos;s presidential election, and will now face off against incumbent Lula da Silva in a second round on October 25.",
+   "published": "2026-10-05T00:17:42+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-10-05T05:48:49.148534+00:00"
+  },
+  {
+   "id": "41d6d48d342bdd1c",
+   "title": "White House defends new press aide who posed with rifle in \u2018Fuck Joe Biden\u2019 shirt",
+   "url": "https://www.theguardian.com/us-news/2026/oct/04/white-house-press-aide-beni-rae-harmony",
+   "summary": "Beni Rae Harmony, 24, has been \u2018a trusted voice for the MAGA movement as a White House correspondent\u2019, White House saysThe White House has defended a newly hired press aide who posed for a holiday photograph in 2021 wearing a \u201cFuck Joe Biden\u201d T-shirt and holding a rifle.Beni Rae Harmony, the new assistant White House press secretary, revealed on Friday that she was going to work for Donald Trump just days after covering him as a correspondent for Real America\u2019s Voice, a partisan rightwing outlet originally created as a video podcast platform for the president\u2019s former adviser Steve Bannon. Con",
+   "published": "2026-10-04T23:38:31+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-10-05T05:48:50.157414+00:00"
+  },
   {
    "id": "46cead8e2d70358c",
    "title": "North Korea missile could put Guam in range as Kim rebuffs Trump outreach: expert",
@@ -353,6 +419,17 @@
    "source_id": "guardian-uspolitics",
    "bias_note": "left-leaning",
    "first_seen": "2026-10-04T15:23:46.367753+00:00"
+  },
+  {
+   "id": "a46b31f30360e5be",
+   "title": "MS Now connects \u2018blue dots\u2019 at Texas fan event: \u2018I always feel hope when I watch them\u2019",
+   "url": "https://www.theguardian.com/media/2026/oct/04/ms-now-fan-event-texas",
+   "summary": "Network at receiving end of White House press ban recently chose red state to host fan event as part of broader outreachIn 2024, Donald Trump and JD Vance carried Tarrant county, Texas, by 42,125 votes. So why, on the afternoon of 26 September, was the arena at the University of Texas-Arlington filled with nearly 5,000 super fans cheering for liberal media darlings Rachel Maddow and Lawrence O\u2019Donnell like they were rock stars?After two years of hosting the network\u2019s annual fan event in dark blue New York City, MS Now (formerly MSNBC) got wind that something was happening in Texas. The state, ",
+   "published": "2026-10-04T10:00:26+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-10-05T05:48:50.157487+00:00"
   },
   {
    "id": "da276e24f12b7ddd",
@@ -10990,50 +11067,6 @@
    "source_id": "npr-politics",
    "bias_note": "center",
    "first_seen": "2026-09-21T12:55:50.001350+00:00"
-  },
-  {
-   "id": "cdfc03741b1fc15d",
-   "title": "Freedom oppressed: the journalists caught up in Trump\u2019s ICE crackdown",
-   "url": "https://www.theguardian.com/us-news/2026/sep/21/journalists-caught-up-in-trump-ice-crackdown-press-freedom",
-   "summary": "Media workers are grappling with increasingly volatile press climate in US, with some detained and even deportedBanished: Trump\u2019s secret deportation dealsWhat is Trump\u2019s third-country deportation policy?As hundreds of masked and armed US federal agents besieged the streets of Minneapolis, turning the midwestern city into the frontline of the Trump administration\u2019s unprecedented crackdown on immigration, the independent photographer John Abernathy was documenting one of the protests that had become a daily occurrence when Immigration and Customs Enforcement tackled him.A photograph of him on th",
-   "published": "2026-09-21T05:00:39+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-09-21T12:55:50.270366+00:00"
-  },
-  {
-   "id": "606a48e7ef0fea0b",
-   "title": "What is Trump\u2019s third-country deportation policy and who does it target?",
-   "url": "https://www.theguardian.com/us-news/2026/sep/21/what-is-trump-third-country-deportation-policy",
-   "summary": "Key questions answered about scheme that has sent more than 25,000 people to countries that are not their ownBanished: Trump\u2019s secret deportation dealsFreedom oppressed: journalists caught up in Trump crackdownSince returning to office in 2025, Donald Trump\u2019s administration has deported more than 25,000 migrants, refugees and asylum seekers to countries that are not their own.Human rights lawyers describe these so-called third-country national arrangements as a \u201cshow of force\u201d, intended to make people fear the consequences of entering the US without permission. Continue reading...",
-   "published": "2026-09-21T05:00:37+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-09-21T12:55:50.270371+00:00"
-  },
-  {
-   "id": "d1f50771e69f9ac3",
-   "title": "Whiplashed middle powers seek new alliances as Trump rages on world stage",
-   "url": "https://www.theguardian.com/us-news/2026/sep/21/us-allies-donald-trump-world-un-global-order",
-   "summary": "While world leaders prepare for annual UN gathering, shifts in the global order continue in the face of a disruptive American presidentIn the event of a midterms election battering, it is possible that a deflated Donald Trump, constrained by a Democrat-controlled Congress, will gradually have to face up to the indignity of irrelevance.While continuing to sign off Truth Social posts with his usual, \u201cThank you for your attention to this matter\u201d, no one will actually be paying much attention. His meandering press conferences will no longer be carried live by TV networks. The Republican party will",
-   "published": "2026-09-21T04:00:34+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-09-21T05:03:15.572425+00:00"
-  },
-  {
-   "id": "cba5d88d8aa7dcf3",
-   "title": "Majority of voters say Trump\u2019s policies worsened the economy: Poll",
-   "url": "https://thehill.com/business/6100985-trump-economic-policies-poll/",
-   "summary": "Most voters believe that President Trump\u2019s policies have weakened the economy, according to a new poll. In the NBC News poll, 55 percent said that economic conditions have been worsened by Trump\u2019s policies, while 26 percent said the opposite. Eighteen percent in the poll said economic conditions haven\u2019t been really affected by the president\u2019s policies,...",
-   "published": "2026-09-21T01:53:03+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-21T05:03:15.864871+00:00"
   }
  ]
 }
