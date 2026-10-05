@@ -1,7 +1,194 @@
 {
- "updated": "2026-10-05T05:48:51.867760+00:00",
+ "updated": "2026-10-05T14:49:49.473867+00:00",
  "count": 1006,
  "articles": [
+  {
+   "id": "f773cad1e7e13234",
+   "title": "Trump uses taxpayer money for propaganda ads",
+   "url": "https://thehill.com/opinion/white-house/6127192-trump-using-taxpayer-money-ads/",
+   "summary": "People For the American Way president Svante Myrick criticized President Donald Trump for allegedly using $20 million in taxpayer funds designated for border security to run political advertisements.",
+   "published": "2026-10-05T14:30:00+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-05T14:49:48.680806+00:00"
+  },
+  {
+   "id": "106b596665071435",
+   "title": "WATCH LIVE: Trump campaigns with Ricketts in Nebraska, where ranchers have beef with his import plan",
+   "url": "https://www.pbs.org/newshour/politics/watch-live-trump-campaigns-with-ricketts-in-nebraska-where-ranchers-have-beef-with-his-import-plan",
+   "summary": "The Trump administration's plan to allow more imports of foreign beef has particularly roiled the agriculture-rich state of Nebraska.",
+   "published": "2026-10-05T14:09:24+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-10-05T14:49:48.842221+00:00"
+  },
+  {
+   "id": "5b21d37b7b64f146",
+   "title": "De Niro calls Trump a 'coward,' 'piece of s---'",
+   "url": "https://thehill.com/blogs/in-the-know/6129254-de-niro-trump-new-york-hands-off-our-vote-rally/",
+   "summary": "Robert De Niro is slamming President Trump, calling the commander in chief a \"coward\" and \"piece of s---\" in expletive-laden remarks and urging voters to \"take back the power\" in next month's elections. \"Power to the people isn't just a slogan \u2014 it's the founding principle of our nation, guaranteed by the Constitution,\" the \"Irishman\"...",
+   "published": "2026-10-05T13:59:20+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-05T14:49:48.680863+00:00"
+  },
+  {
+   "id": "80822e5896f7fbc3",
+   "title": "Trump\u2019s former press secretary Karoline Leavitt to join Fox News",
+   "url": "https://www.theguardian.com/us-news/2026/oct/05/karoline-leavitt-joins-fox-news",
+   "summary": "Youngest press secretary in White House history left earlier this year after the birth of her second childKaroline Leavitt, who stepped down as White House press secretary in August, is joining Fox News as an on-air contributor, according to the New York Times, citing a network announcement.Leavitt, 29, who was the youngest press secretary in White House history, left the administration after the birth of her second child earlier this year. She said at the time that she planned to spend more time with her family and take a role with the Trump-aligned Super Pac Maga Inc. Continue reading...",
+   "published": "2026-10-05T13:51:49+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-10-05T14:49:48.559732+00:00"
+  },
+  {
+   "id": "ca6f2e6e6ff273fa",
+   "title": "Karoline Leavitt joins Fox News as contributor after leaving White House press secretary role",
+   "url": "https://www.foxnews.com/media/karoline-leavitt-joins-fox-news-contributor-leaving-white-house-press-secretary-role",
+   "summary": "Karoline Leavitt is joining Fox News Channel as a contributor starting in November, bringing her experience as the youngest White House press secretary in history.",
+   "published": "2026-10-05T13:51:29+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-10-05T14:49:48.002940+00:00"
+  },
+  {
+   "id": "4333ee59cabd645c",
+   "title": "Former Republican House Speaker Dennis Hastert dead at 84",
+   "url": "https://www.foxnews.com/politics/former-republican-house-speaker-dennis-hastert-dead-84",
+   "summary": "Former Republican Rep. Dennis Hastert, the longest-serving GOP House Speaker, died at 84 after a career marred by his bank fraud conviction.",
+   "published": "2026-10-05T13:51:26+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-10-05T14:49:47.979616+00:00"
+  },
+  {
+   "id": "414681d2d6487c48",
+   "title": "Karoline Leavitt joining Fox News",
+   "url": "https://thehill.com/homenews/media/6129163-karoline-leavitt-joining-fox-news/",
+   "summary": "Karoline Leavitt, President Trump's former White House press secretary is set to join Fox News next month as a contributor. Leavitt, the only person to serve as the president's top spokesperson during his second term, will join a number of other former Trump administration officials and allies at the network, according to The New York...",
+   "published": "2026-10-05T13:39:08+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-05T14:49:48.680930+00:00"
+  },
+  {
+   "id": "459f1d59e22fd3e9",
+   "title": "Trump takes aim at the free press ahead of midterms",
+   "url": "https://thehill.com/opinion/white-house/6127712-trump-attacks-free-press-midterms/",
+   "summary": "President Trump and Defense Secretary Pete Hegseth have faced criticism for actions perceived as undermining the freedom of the press and withholding information regarding the ongoing war in Iran.",
+   "published": "2026-10-05T13:30:00+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-05T14:49:48.680933+00:00"
+  },
+  {
+   "id": "2ea75775078b3e34",
+   "title": "Tillis warns of \u2018risk\u2019 Trump will lash out if Republicans have bad night in midterms",
+   "url": "https://thehill.com/homenews/senate/6129187-thom-tillis-donald-trump-midterm-elections/",
+   "summary": "Sen. Thom Tillis (R-N.C.) says there\u2019s a \u201crisk\u201d that President Trump will lash out if Republicans lose control of the House and possibly the Senate as well in next month\u2019s election. Asked by Ross Douthat during an interview with CBS\u2019s \u201c60 Minutes\u201d whether he had concerns about Trump\u2019s reaction if Republicans have a \u201cbad night\u201d...",
+   "published": "2026-10-05T13:24:59+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-05T14:49:48.680938+00:00"
+  },
+  {
+   "id": "ebdfc1483db8408d",
+   "title": "Trump administration monitoring suspected Russian plague outbreak",
+   "url": "https://thehill.com/policy/healthcare/6129162-white-house-monitors-russia-plague/",
+   "summary": "The Trump administration is monitoring a suspected case of the plague in Russia, the State Department told The Hill\u2019s sister network NewsNation. \u201cWe are aware of \u200breports of a fatal case of suspected pneumonic plague in Irkutsk Oblast, Russia. We are monitoring the situation closely with the [Centers for Disease Control and Prevention (CDC)] and...",
+   "published": "2026-10-05T13:21:08+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-05T14:49:48.680943+00:00"
+  },
+  {
+   "id": "29b11a72a6b00d1a",
+   "title": "Jeffries says House Democrats aiming to repeat 2018 sweep by flipping Trump districts",
+   "url": "https://www.pbs.org/newshour/politics/jeffries-says-house-democrats-aiming-to-repeat-2018-sweep-by-flipping-trump-districts",
+   "summary": "The Democratic Party is working to expand the map by going on offense in Republican-held districts, while President Donald Trump hits the trail in a red-state sprint to boost voter enthusiasm and shore up support from his base.",
+   "published": "2026-10-05T13:18:12+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-10-05T14:49:48.842230+00:00"
+  },
+  {
+   "id": "132e004479c4cc20",
+   "title": "The surprising, cut-throat race for Los Angeles mayor",
+   "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/05/the-surprising-cut-throat-race-for-los-angeles-mayor",
+   "summary": "Karen Bass is fighting for her political life as progressives battle to lead the US\u2019s second-largest cityKaren Bass has never lost an election. But this fall, she faces the fight of her political life.Bass has roughly a month to convince voters that she should be elected to a second term as the mayor of Los Angeles. Given Angelenos\u2019 broad dissatisfaction with the direction of the city, approval ratings on par with Donald Trump\u2019s and a wave of anti-establishment sentiment sweeping American politics, she has a formidable challenge in city council member Nithya Raman. Continue reading...",
+   "published": "2026-10-05T13:00:25+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-10-05T14:49:48.559743+00:00"
+  },
+  {
+   "id": "b3badf2ccbbdbd9c",
+   "title": "After 47 years of confronting Iran, does America have a strategy for ending this war?",
+   "url": "https://www.foxnews.com/opinion/after-47-years-confronting-iran-does-america-have-strategy-ending-war",
+   "summary": "Trump told the United Nations Iran must make a deal or face destruction, but seven months of war have yet to produce a clear political end state.",
+   "published": "2026-10-05T11:00:33+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-10-05T14:49:48.003032+00:00"
+  },
+  {
+   "id": "80a0073d18ae8e08",
+   "title": "Trump\u2019s recent statements on the economy are even more bonkers than usual | Steven Greenhouse",
+   "url": "https://www.theguardian.com/commentisfree/2026/oct/05/trump-us-economy-comments",
+   "summary": "Our \u2018genius\u2019 president is revealing his ignorance of economics, fueling concerns about the threat he poses to the worldDonald Trump recently made a bold claim about his abilities, writing on Truth Social: \u201cThe only control or \u2018guardrails\u2019 that AI needs is a STRONG AND SMART (High IQ!) PRESIDENT, and the U.S.A. has that, in spades!\u201dBut in the days before and after that post, Trump made one mind-boggling statement after another, including one that raised the possibility of cutting off all trade with dozens of the US\u2019s trading partners. The president\u2019s statements had many experts questioning not ",
+   "published": "2026-10-05T10:00:53+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-10-05T14:49:48.559782+00:00"
+  },
+  {
+   "id": "3eb252e0bbc81f4f",
+   "title": "How ProPublica Reporters Became Private School Owners in 24 Hours",
+   "url": "https://www.propublica.org/article/propublica-reporters-private-school-owners",
+   "summary": "The post How ProPublica Reporters Became Private School Owners in 24 Hours appeared first on ProPublica.",
+   "published": "2026-10-05T10:00:00+00:00",
+   "source": "ProPublica",
+   "source_id": "propublica",
+   "bias_note": "investigative",
+   "first_seen": "2026-10-05T14:49:49.070186+00:00"
+  },
+  {
+   "id": "916454614773ccf6",
+   "title": "Oklahoma Oil Company Plugs Disposal Well That Posed Threat to City\u2019s Drinking Water",
+   "url": "https://www.propublica.org/article/enid-oklahoma-oil-disposal-well-plugged",
+   "summary": "The post Oklahoma Oil Company Plugs Disposal Well That Posed Threat to City\u2019s Drinking Water appeared first on ProPublica.",
+   "published": "2026-10-05T09:00:00+00:00",
+   "source": "ProPublica",
+   "source_id": "propublica",
+   "bias_note": "investigative",
+   "first_seen": "2026-10-05T14:49:49.070192+00:00"
+  },
+  {
+   "id": "e6f6b20b4ab84605",
+   "title": "Monday briefing: You asked, we answered \u2013 how will the US midterms go?",
+   "url": "https://www.theguardian.com/world/2026/oct/05/monday-briefing-first-edition-us-midterms-donald-trump-washington",
+   "summary": "In today\u2019s newsletter: As Americans get ready to vote on whether the Republican party remains in control of Congress, our Washington editor talks about the disconnect between Trump and his supportersGood morning. Later today, Donald Trump will be in the state of Nebraska to rev up supporters as he kicks off a campaign blitz of rallies ahead of the midterm elections on 3 November.If his early speeches are anything to go by, cornhuskers can anticipate poll denial, accusations of veganism and an expletive ratio that my nine-year-old would love. And Nebraskans may love it, too: aside from one \u201cblu",
+   "published": "2026-10-05T05:44:42+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-10-05T14:49:48.559750+00:00"
+  },
   {
    "id": "013d2e7af5e6233a",
    "title": "Trump heads to Nebraska on Monday, where his plans for imports have angered ranchers",
@@ -408,6 +595,28 @@
    "source_id": "foxnews-politics",
    "bias_note": "right-leaning",
    "first_seen": "2026-10-04T15:23:45.835302+00:00"
+  },
+  {
+   "id": "341f2f86122acbaa",
+   "title": "The desperate, failed attempt to keep one Florida district Black",
+   "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/04/florida-20th-congressional-district-black-vote",
+   "summary": "Efforts to consolidate the Black vote here were frustrated, handing the Democratic nomination to a white party insiderA major plot line of the hyper-partisan, mid-decade redistricting arms races \u2013 launched at the urging of Donald Trump \u2013 has been the elimination of traditionally Black congressional seats in the south. In the midst of that battle, a subplot emerged: a challenge to one of those Black seats from inside the Democratic caucus itself as the veteran congresswoman Debbie Wasserman Schultz, whose own district was splintered, chose to seek re-election in Florida\u2019s 20th congressional dis",
+   "published": "2026-10-04T11:00:28+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-10-05T14:49:48.559831+00:00"
+  },
+  {
+   "id": "3743fdde7bc8ce98",
+   "title": "Trump sets off on midterm blitz \u2013 are his trademark rallies a liability for Republicans?",
+   "url": "https://www.theguardian.com/us-news/2026/oct/04/trump-midterm-rallies-campaign-republicans",
+   "summary": "Rallies have been mainstay of president\u2019s brand but even some in his own party fear voters are sick of the sight of him\u201cGet your asses in that car.\u201d That was Donald Trump\u2019s order, he later recalled, to his motorcade after foul weather grounded Air Force One in Texas on Thursday. The 85-mile dash to Oklahoma at nearly 100mph was proof that nothing can keep Trump from a Trump rally.Which might not be the good news for Republicans it once was. As the US president embarked on a 32-day campaign blitz aimed at helping them defend narrow congressional majorities in next month\u2019s midterms, some fear th",
+   "published": "2026-10-04T11:00:28+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-10-05T14:49:48.559837+00:00"
   },
   {
    "id": "d9f0e74fa2c2564d",
@@ -10858,215 +11067,6 @@
    "source_id": "foxnews-latest",
    "bias_note": "right-leaning",
    "first_seen": "2026-09-21T16:51:05.326096+00:00"
-  },
-  {
-   "id": "a2be833ad825fc01",
-   "title": "G20 Energy Abundance Ministerial Concludes with Four Consensus Outcomes",
-   "url": "https://www.whitehouse.gov/releases/2026/09/g20-energy-abundance-ministerial-concludes-with-four-consensus-outcomes/",
-   "summary": "On Wednesday, September 16th, 2026, G20 Energy Ministers concluded the Energy Abundance Ministerial in Houston, Texas. The Ministerial was hosted by the White House National Energy Dominance Council (NEDC), the Department of the Interior, the Department of Energy, and the Environmental Protection Agency. At the conclusion of the Ministerial, G20 Ministers reached consensus on four [&#8230;]\nThe post G20 Energy Abundance Ministerial Concludes with Four Consensus Outcomes appeared first on The White House.",
-   "published": "2026-09-21T14:41:07+00:00",
-   "source": "WhiteHouse.gov News",
-   "source_id": "whitehouse",
-   "bias_note": "official/primary-source",
-   "first_seen": "2026-09-21T16:51:05.540850+00:00"
-  },
-  {
-   "id": "5590a52e2a128ca6",
-   "title": "First Lady Melania Trump Releases Details Ahead of His Excellency Xi Jinping, President of The People\u2019s Republic of China, and Madame Peng Liyuan\u2019s Visit to The White House",
-   "url": "https://www.whitehouse.gov/briefings-statements/2026/09/first-lady-melania-trump-releases-details-ahead-of-his-excellency-xi-jinping-president-of-the-peoples-republic-of-china-and-madame-peng-liyuans-visit-to-the-white-house/",
-   "summary": "President Donald J. Trump and First Lady Melania Trump will welcome His Excellency Xi Jinping, President of the People\u2019s Republic of China and Madame Peng Liyuan to the White House on Thursday, September 24, 2026, for an official state visit. This visit comes more than a decade since President Xi and Madame Peng\u2019s last visit [&#8230;]\nThe post First Lady Melania Trump Releases Details Ahead of His Excellency Xi Jinping, President of The People\u2019s Republic of China, and Madame Peng Liyuan\u2019s Visit to The White House appeared first on The White House.",
-   "published": "2026-09-21T13:17:18+00:00",
-   "source": "WhiteHouse.gov News",
-   "source_id": "whitehouse",
-   "bias_note": "official/primary-source",
-   "first_seen": "2026-09-21T16:51:05.540857+00:00"
-  },
-  {
-   "id": "9513b68ff3bd60db",
-   "title": "Presidential Message on National Historically Black Colleges and Universities Week, 2026",
-   "url": "https://www.whitehouse.gov/briefings-statements/2026/09/presidential-message-on-national-historically-black-colleges-and-universities-week-2026/",
-   "summary": "For nearly two centuries, Historically Black Colleges and Universities (HBCUs) have opened doors of opportunity, cultivated excellence, and prepared generations of hardworking black Americans to become leaders in every field of national life.&#160; During National Historically Black Colleges and Universities Week, we honor that legacy and the enduring contributions of these storied institutions to our [&#8230;]\nThe post Presidential Message on National Historically Black Colleges and Universities Week, 2026 appeared first on The White House.",
-   "published": "2026-09-21T13:16:01+00:00",
-   "source": "WhiteHouse.gov News",
-   "source_id": "whitehouse",
-   "bias_note": "official/primary-source",
-   "first_seen": "2026-09-23T13:41:02.163520+00:00"
-  },
-  {
-   "id": "2c42f3ee4e2a5d31",
-   "title": "GOP fiscal hawk sounds alarm on 'out of control' federal spending, saying 'both parties have failed us'",
-   "url": "https://www.foxnews.com/politics/gop-fiscal-hawk-sounds-alarm-out-control-federal-spending-saying-both-parties-have-failed-us",
-   "summary": "Sen. Paul, who said &quot;both parties have failed us,&quot; does not support President Trump&apos;s proposal to dole out $5,000 to American adults if the GOP wins both chambers in the midterms.",
-   "published": "2026-09-21T13:15:51+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-09-21T16:51:05.217304+00:00"
-  },
-  {
-   "id": "b13ed69e0482a4e8",
-   "title": "Live updates: Outlets to sue White House over ban; Trump meets Mamdani as UN General Assembly kicks off",
-   "url": "https://thehill.com/homenews/6100754-live-updates-trump-white-house-media-ban-united-nations-general-assembly/",
-   "summary": "President Trump on Monday defended his decision to bar journalists from CNN, Politico and MS Now from the White House after the news outlets announced plans to sue his administration. Trump announced the ban on Friday and reporters from the organizations were denied entry to the complex and had their credentials confiscated over the weekend....",
-   "published": "2026-09-21T12:54:22+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-21T12:55:51.722465+00:00"
-  },
-  {
-   "id": "f6588729c9dc415b",
-   "title": "CNN, MS Now and Politico to sue Trump after being blocked from White House",
-   "url": "https://www.theguardian.com/us-news/2026/sep/21/white-house-news-organization-ban-lawsuit",
-   "summary": "Three news outlets will file lawsuit in attempt to regain access to the White House after having badges disabledIn what will be one of the largest battles yet between the press and Donald Trump\u2019s administration, three news organizations \u2013 CNN, MS Now (formerly MSNBC) and Politico \u2013 that have been denied access to the White House are suing him on Monday to attempt to regain their ability to enter the building, accusing the president of violating the US constitution.The suit will be filed Monday morning in the US district court for Washington DC. Continue reading...",
-   "published": "2026-09-21T12:38:58+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-09-21T12:55:50.270345+00:00"
-  },
-  {
-   "id": "658745d930d45f79",
-   "title": "Trump denies \u2018instituting an assault on the free press\u2019",
-   "url": "https://thehill.com/homenews/administration/6101202-donald-trump-cnn-politico-msnow-white-house-ban-defense/",
-   "summary": "President Trump on Monday denied he is \"instituting an assault\" on the press after three outlets he recently banned from covering the White House announced plans to sue the administration over the move. \u201cThe White House is not instituting an assault on the Free Press, something which I cherish,\u201d Trump wrote on Truth Social, arguing...",
-   "published": "2026-09-21T12:36:06+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-21T12:55:51.722476+00:00"
-  },
-  {
-   "id": "82dcbbb9ae0c1fdd",
-   "title": "Trump denies \u2018assault\u2019 on free press as three outlets plan to sue over White House ban \u2013 live",
-   "url": "https://www.theguardian.com/us-news/live/2026/sep/21/donald-trump-arch-media-white-house-press-ban-mamdani-ai-unga-latest-news-updates",
-   "summary": "Three news outlets to sue to protect First Amendment rights; Trump claims to \u2018cherish\u2019 free press but also attacks \u2018fake news\u2019 media Sign up for US Breaking News emailsHours after the three news outlets he summarily barred from the White House announced their intentions to file a lawsuit, Trump took to social media to defend himself.\u201cThe White House is not instituting an assault on the Free Press, something which I cherish,\u201d Trump wrote on Truth Social, in response to the pending challenge from CNN, MS NOW, and Politico, the three outlets he banned. Continue reading...",
-   "published": "2026-09-21T12:23:41+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-09-21T12:55:50.270354+00:00"
-  },
-  {
-   "id": "1d0f4bab7855251b",
-   "title": "Trump's 'grand conspiracy' probe presses on with subpoenas after the lead prosecutor\u2019s exit",
-   "url": "https://abcnews.com/Politics/wireStory/trumps-grand-conspiracy-probe-presses-subpoenas-after-lead-136613902",
-   "summary": "Justice Department officials are pressing forward with an investigation of President Donald Trump's foes despite the departure of prosecutor Joe diGenova, who had been leading it for months",
-   "published": "2026-09-21T12:10:24+00:00",
-   "source": "ABC News Politics",
-   "source_id": "abc-politics",
-   "bias_note": "center",
-   "first_seen": "2026-09-21T12:55:52.546036+00:00"
-  },
-  {
-   "id": "bb9216a526a9cf88",
-   "title": "CNN, MS NOW, Politico say they've notified Trump they're suing over denied White House access",
-   "url": "https://www.pbs.org/newshour/politics/cnn-ms-now-politico-say-theyve-notified-trump-theyre-suing-over-denied-white-house-access",
-   "summary": "The actions were a clear escalation of President Donald Trump's long-running efforts \u2014 in the courts and through administrative action \u2014 to restrict news coverage by journalists he finds objectionable, and were the latest test of First Amendment protections in the United States.",
-   "published": "2026-09-21T11:39:54+00:00",
-   "source": "PBS NewsHour Politics",
-   "source_id": "pbs-politics",
-   "bias_note": "center",
-   "first_seen": "2026-09-21T12:55:51.961429+00:00"
-  },
-  {
-   "id": "e96de3b7865db06f",
-   "title": "News outlets banned from White House to sue Trump administration",
-   "url": "https://thehill.com/homenews/media/6101137-cnn-msnow-politico-sue-trump-administration-white-house-ban/",
-   "summary": "Officials from CNN, MS NOW and Politico said Monday the media organizations will file a lawsuit against the Trump administration, after their reporters were banned from the White House. \u201cThis morning, we notified the government that we are filing a lawsuit today to protect our First Amendment rights and defend the principle that the government...",
-   "published": "2026-09-21T11:33:02+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-21T12:55:51.722495+00:00"
-  },
-  {
-   "id": "32d92dc4f604d65e",
-   "title": "Trump plans 'AI force' as pressure for action rises",
-   "url": "https://thehill.com/newsletters/morning-report/6101131-donald-trump-ai-force-pressure-white-house-outlet-bans/",
-   "summary": "In today's issue: \u25aa New AI czar to be named \u25aa Outlets sue over White House ban \u25aa Trump adds security angle to arch \u25aa Russia holds wartime elections President Trump is responding to the rising demands to impose guardrails on AI with the creation of an \"AI Force,\" even as he argues the broader concerns...",
-   "published": "2026-09-21T11:20:34+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-21T12:55:51.722499+00:00"
-  },
-  {
-   "id": "760b945f78476411",
-   "title": "If Trump wants to lower drug prices, his obvious free-riding targets are outside the US",
-   "url": "https://www.foxnews.com/opinion/trump-lower-drug-prices-free-riding-targets-outside-us",
-   "summary": "President Donald Trump secured nine drug pricing deals, but lasting relief requires pressuring foreign countries to pay their fair share for medicine.",
-   "published": "2026-09-21T11:00:56+00:00",
-   "source": "Fox News Latest",
-   "source_id": "foxnews-latest",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-09-21T12:55:49.488549+00:00"
-  },
-  {
-   "id": "198e553e3c1f2dce",
-   "title": "Trump\u2019s massive Greenland deal makes clear who controls the Arctic\u2019s strategic future",
-   "url": "https://www.foxnews.com/opinion/trumps-massive-greenland-deal-makes-clear-who-controls-arctics-strategic-future",
-   "summary": "President Donald Trump&apos;s Greenland deal blocks China from military bases and sensitive investments on the strategic Arctic island near the U.S.",
-   "published": "2026-09-21T10:00:15+00:00",
-   "source": "Fox News Latest",
-   "source_id": "foxnews-latest",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-09-21T12:55:49.488611+00:00"
-  },
-  {
-   "id": "e72adb33c01aa142",
-   "title": "ICE agent shoots and wounds Venezuelan man at traffic stop in Austin, Texas",
-   "url": "https://www.theguardian.com/us-news/2026/sep/20/man-shot-ice-agent-austin-texas",
-   "summary": "Anti-ICE protesters gather and demand transparency at site where 28-year-old was shot in torsoA US Immigration and Customs Enforcement (ICE) officer shot and wounded a Venezuelan man on Sunday afternoon in Texas\u2019s capital city, Austin, prompting demonstrations at the scene against the Trump administration\u2019s hardline anti-immigration campaign.The man, identified by relatives and his lawyer as 28-year-old Wilber Rafael Garc\u00e9s P\u00e9rez, was taken to a hospital in Austin in a serious but stable condition, officials said, before being taken into custody. He was shot once in the torso on the city\u2019s nor",
-   "published": "2026-09-21T09:38:48+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-09-21T12:55:50.270361+00:00"
-  },
-  {
-   "id": "3036915f0583847b",
-   "title": "Trump should press Xi on China\u2019s persecution of believers at home and abroad",
-   "url": "https://www.foxnews.com/opinion/trump-press-xi-chinas-persecution-believers-home-abroad",
-   "summary": "Pastor Ezra Jin&apos;s release from a Chinese prison spotlights the CCP&apos;s vast apparatus of religious persecution ahead of Xi Jinping&apos;s Washington visit.",
-   "published": "2026-09-21T09:00:39+00:00",
-   "source": "Fox News Latest",
-   "source_id": "foxnews-latest",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-09-21T12:55:49.488637+00:00"
-  },
-  {
-   "id": "d04d96ee69ea2ba9",
-   "title": "Many GOP candidates still echo Trump's 2020 claims. Lots of voters want to move on",
-   "url": "https://www.npr.org/2026/09/21/nx-s1-5974313/election-denial-trump-2026",
-   "summary": "While many Republican candidates, even in some critical tossup races, still back President Trump's baseless claims about election integrity, some GOP voters say they are ready to move on.",
-   "published": "2026-09-21T09:00:00+00:00",
-   "source": "NPR Politics",
-   "source_id": "npr-politics",
-   "bias_note": "center",
-   "first_seen": "2026-09-21T12:55:50.001342+00:00"
-  },
-  {
-   "id": "378484e30fa4a4d5",
-   "title": "Watch: The New Supreme Court",
-   "url": "https://www.propublica.org/article/supreme-court-shadow-docket-explainer",
-   "summary": "The post Watch: The New Supreme Court appeared first on ProPublica.",
-   "published": "2026-09-21T09:00:00+00:00",
-   "source": "ProPublica",
-   "source_id": "propublica",
-   "bias_note": "investigative",
-   "first_seen": "2026-09-21T12:55:52.327337+00:00"
-  },
-  {
-   "id": "82ce19b4dad8734a",
-   "title": "CNN, MS NOW and Politico will sue Trump after being barred from White House",
-   "url": "https://www.npr.org/2026/09/21/nx-s1-5975451/reporters-say-they-were-blocked-from-entering-white-house-after-trump-banned-outlets",
-   "summary": "Reporters from CNN, MS NOW and Politico say they were prevented from entering the White House grounds after President Trump announced plans to ban all three outlets.",
-   "published": "2026-09-21T08:39:38+00:00",
-   "source": "NPR Politics",
-   "source_id": "npr-politics",
-   "bias_note": "center",
-   "first_seen": "2026-09-21T12:55:50.001350+00:00"
   }
  ]
 }
