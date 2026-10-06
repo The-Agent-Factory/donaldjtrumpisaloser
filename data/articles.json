@@ -1,7 +1,183 @@
 {
- "updated": "2026-10-05T22:42:18.641536+00:00",
- "count": 988,
+ "updated": "2026-10-06T06:28:02.126115+00:00",
+ "count": 991,
  "articles": [
+  {
+   "id": "aa087b116bbac04c",
+   "title": "Massachusetts felon pleads guilty after DOJ says he sold Russian plutonium to 67 customers",
+   "url": "https://www.foxnews.com/us/massachusetts-felon-pleads-guilty-after-doj-says-he-sold-russian-plutonium-67-customers",
+   "summary": "A convicted felon from Massachusetts pleaded guilty to illegally importing plutonium from Russia and selling it to customers in the U.S. and abroad.",
+   "published": "2026-10-06T04:37:15+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-10-06T06:28:01.296807+00:00"
+  },
+  {
+   "id": "96676dbb0feb184c",
+   "title": "Tillis says Trump impeachment over Jan 6 was 'weighty,' a 'vote of no confidence'",
+   "url": "https://thehill.com/homenews/senate/6130895-tillis-trump-impeachment-snap-trial/",
+   "summary": "Sen. Thom Tillis (R-N.C.) on Monday said President Trump's impeachment in connection with the Jan. 6, 2021, Capitol Hill attack was \"weighty\" and his impeachment trial was a \"vote of no confidence.\" MS NOW's Ari Melber spoke with Tillis on \"The Beat,\" where the two talked about Tillis's upcoming book \"How to Lose Friends and...",
+   "published": "2026-10-06T02:53:23+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-06T06:28:01.563020+00:00"
+  },
+  {
+   "id": "e56a465e39985ae3",
+   "title": "Trump criticizes election officials in Arizona\u2019s Maricopa County over error",
+   "url": "https://abcnews.com/Politics/wireStory/trump-criticizes-election-officials-arizonas-maricopa-county-error-137020967",
+   "summary": "President Donald Trump is criticizing election officials in Arizona&rsquo;s Maricopa County after about 3,000 ballots were mistakenly mailed early to voters",
+   "published": "2026-10-06T02:44:05+00:00",
+   "source": "ABC News Politics",
+   "source_id": "abc-politics",
+   "bias_note": "center",
+   "first_seen": "2026-10-06T06:28:01.891606+00:00"
+  },
+  {
+   "id": "00f25f5a0fa124d5",
+   "title": "Trump says he will pay for 'Patriotic Ads' himself after facing backlash from Democrats",
+   "url": "https://thehill.com/homenews/administration/6130848-trump-to-pay-patriotic-ads-backlash/",
+   "summary": "President Trump on Monday said he will pay for the controversial \"Patriotic Ads\" after backlash mounted in response to the ads being funded by taxpayers. \"The Radical Left is upset with the fact that I am taking Ads, which I consider to be a positive promotion for our Great U.S.A., and paying for them with...",
+   "published": "2026-10-06T01:58:51+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-06T06:28:01.563027+00:00"
+  },
+  {
+   "id": "714ab9976025c58f",
+   "title": "Trump says Super Pac will pay for taxpayer-funded ads that sparked outcry",
+   "url": "https://www.theguardian.com/us-news/2026/oct/05/trump-super-pac-ads",
+   "summary": "President\u2019s U-turn comes after Democrats and Republicans condemned use of tax dollars for pro-Trump adsDonald Trump said on Monday he would pay for taxpayer-funded, pro-Trump ads \u201cwith money I raised for MAGA, Inc.\u201d, a political action committee, after the television advertisements glorifying himself sparked a major backlash.In a social media post, Trump characterized the ads, which cost at least $1.5m in federal funds, as \u201ca positive promotion for our Great U.S.A.\u201d and called them \u201ca rather standard thing to do\u201d. Continue reading...",
+   "published": "2026-10-06T01:35:00+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-10-06T06:28:01.443159+00:00"
+  },
+  {
+   "id": "dee7a5735ca38a79",
+   "title": "Emergency Tax Relief on Diesel Fuel",
+   "url": "https://www.whitehouse.gov/presidential-actions/2026/10/emergency-tax-relief-on-diesel-fuel/",
+   "summary": "By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered: Section 1. \u00a0Purpose and Policy. \u00a0Farmers and truckers are essential to the American way of life. \u00a0Restricted global diesel supply has led to rising prices, and these key industries have been [&#8230;]\nThe post Emergency Tax Relief on Diesel Fuel appeared first on The White House.",
+   "published": "2026-10-06T01:13:53+00:00",
+   "source": "WhiteHouse.gov News",
+   "source_id": "whitehouse",
+   "bias_note": "official/primary-source",
+   "first_seen": "2026-10-06T06:28:01.326380+00:00"
+  },
+  {
+   "id": "b6fe8d82e74d03ba",
+   "title": "Presidential Message on Child Health Day",
+   "url": "https://www.whitehouse.gov/briefings-statements/2026/10/presidential-message-on-child-health-day-c67c/",
+   "summary": "This Child Health Day, we renew our commitment to ensure the health and well-being of America\u2019s children \u2013 our Nation\u2019s future \u2013 so that they may live full, lasting, and happy lives free from the burden of health concerns. As our children grow, we must protect their health and give them every opportunity to thrive.&#160; [&#8230;]\nThe post Presidential Message on Child Health Day appeared first on The White House.",
+   "published": "2026-10-06T01:04:09+00:00",
+   "source": "WhiteHouse.gov News",
+   "source_id": "whitehouse",
+   "bias_note": "official/primary-source",
+   "first_seen": "2026-10-06T06:28:01.326386+00:00"
+  },
+  {
+   "id": "0cd9bc550a0565c4",
+   "title": "Presidential Message on Fire Prevention Week",
+   "url": "https://www.whitehouse.gov/briefings-statements/2026/10/presidential-message-on-fire-prevention-week/",
+   "summary": "During Fire Prevention Week, my Administration honors the memory of America\u2019s courageous firefighters and first responders for their extraordinary service and sacrifice. We are reaffirming our commitment to strengthening fire prevention and emergency response across the Nation. &#160;I encourage every American to take simple steps to protect their homes, families, and communities from preventable fires.&#160; [&#8230;]\nThe post Presidential Message on Fire Prevention Week appeared first on The White House.",
+   "published": "2026-10-06T01:02:35+00:00",
+   "source": "WhiteHouse.gov News",
+   "source_id": "whitehouse",
+   "bias_note": "official/primary-source",
+   "first_seen": "2026-10-06T06:28:01.326389+00:00"
+  },
+  {
+   "id": "8861df564a1750da",
+   "title": "Trump approves death by firing squad for convicted terrorist",
+   "url": "https://thehill.com/homenews/administration/6130802-nidal-hasan-death-firing-squad/",
+   "summary": "Nidal Malik Hasan, a convicted terrorist who opened fire on unarmed American soldiers at Ft. Hood in 2009, has been sentenced to death by firing squad, Pentagon spokesperson Sean Parnell announced Monday on the social platform X. Parnell said that Defense Secretary Pete Hegseth \u201crecommended\u201d it, and President Trump \u201capproved\u201d it. Hasan killed 13 people...",
+   "published": "2026-10-06T00:21:26+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-06T06:28:01.563036+00:00"
+  },
+  {
+   "id": "01b76f4f79adcd34",
+   "title": "President Trump Takes Decisive Action to Lower Diesel Costs for American Truckers, Farmers",
+   "url": "https://www.whitehouse.gov/releases/2026/10/president-trump-takes-decisive-action-to-lower-diesel-costs-for-american-truckers-farmers/",
+   "summary": "Tonight, President Donald J. Trump signed an Executive Order to immediately cut diesel costs for the truckers and farmers who keep America moving. The order temporarily opens highway use of tax-free dyed diesel, deferring the federal diesel tax on that fuel through the end of the year \u2014 no interest, no penalties. With elevated diesel [&#8230;]\nThe post President Trump Takes Decisive Action to Lower Diesel Costs for American Truckers, Farmers appeared first on The White House.",
+   "published": "2026-10-06T00:20:07+00:00",
+   "source": "WhiteHouse.gov News",
+   "source_id": "whitehouse",
+   "bias_note": "official/primary-source",
+   "first_seen": "2026-10-06T06:28:01.326391+00:00"
+  },
+  {
+   "id": "12fde92a471f11bf",
+   "title": "Trump clears way for Fort Hood terrorist to face Army firing squad nearly 17 years after massacre",
+   "url": "https://www.foxnews.com/politics/trump-clears-way-fort-hood-terrorist-face-army-firing-squad-nearly-17-years-after-massacre",
+   "summary": "President Trump cleared the way for Nidal Malik Hasan to face an Army firing squad nearly 17 years after the Fort Hood massacre that killed 13 people.",
+   "published": "2026-10-06T00:14:53+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-10-06T06:28:01.278440+00:00"
+  },
+  {
+   "id": "f3651cea7b31b9e4",
+   "title": "Trump announces steps to lower high cost of diesel",
+   "url": "https://thehill.com/policy/energy-environment/6130448-trump-order-high-diesel-prices/",
+   "summary": "President Trump announced on Monday that his administration will take a series of steps aimed at lowering high diesel costs. The president had been expected to announce a directive aiming to increase the availability of red-dyed diesel. This diesel simply has red dye added to it to signal that it is tax exempt and is...",
+   "published": "2026-10-06T00:12:15+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-06T06:28:01.563040+00:00"
+  },
+  {
+   "id": "428f7bca71bd9c8e",
+   "title": "Fact Sheet: President Donald J. Trump Promotes Diesel Affordability",
+   "url": "https://www.whitehouse.gov/fact-sheets/2026/10/fact-sheet-president-donald-j-trump-promotes-diesel-affordability/",
+   "summary": "ADDRESSING AMERICAN DIESEL AFFORDABILITY: Today, President Donald J. Trump signed an Executive Order to temporarily allow off-road \u201cdyed\u201d diesel for highway use and defer the applicable Federal excise tax, lowering costs for Americans. PUTTING MONEY BACK INTO THE POCKETS OF AMERICANS: President Trump is addressing fuel affordability for American consumers, farmers, truckers, and workers. The [&#8230;]\nThe post Fact Sheet: President Donald J. Trump Promotes Diesel Affordability appeared first on The White House.",
+   "published": "2026-10-06T00:07:38+00:00",
+   "source": "WhiteHouse.gov News",
+   "source_id": "whitehouse",
+   "bias_note": "official/primary-source",
+   "first_seen": "2026-10-06T06:28:01.326392+00:00"
+  },
+  {
+   "id": "3c3826f5f56059a5",
+   "title": "Debra Messing ditches Democrat for Trump-backed Republican as she sounds alarm over New York",
+   "url": "https://www.foxnews.com/entertainment/debra-messing-ditches-democrat-trump-backed-republican-sounds-alarm-new-york",
+   "summary": "Debra Messing endorsed Republican Bruce Blakeman for New York governor, citing affordability, congestion pricing and the city&apos;s economic decline.",
+   "published": "2026-10-05T23:22:03+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-10-06T06:28:01.296885+00:00"
+  },
+  {
+   "id": "f3904af9ee12de5c",
+   "title": "Trump hurls anti-trans slurs at Graham's opponent as South Carolina race tightens",
+   "url": "https://thehill.com/homenews/administration/6130651-trump-slur-graham-senate-race/",
+   "summary": "President Trump on Monday used an anti-transgender slur several times against Sen. Darline Graham's (R-S.C.) Democratic opponent Dr. Annie Andrews, as the race for South Carolina's Senate seat tightens. \"Annie 'T------' Andrews is running against our wonderful Darline Graham for the Senate in South Carolina,\" Trump wrote on Truth Social. The president evoked Graham's late...",
+   "published": "2026-10-05T23:04:25+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-06T06:28:01.563067+00:00"
+  },
+  {
+   "id": "49c8f838cc105dcd",
+   "title": "News Wrap: Cornell students protest handling of alleged rape",
+   "url": "https://www.pbs.org/newshour/show/news-wrap-cornell-students-protest-handling-of-alleged-rape",
+   "summary": "In our news wrap Monday, students at Cornell are staging protests over the university's handling of an alleged fraternity house gang rape in 2024, President Trump said a threat linked to Iran was the reason the U.S. withdrew its bombers from the Fairford airbase in the UK and Dennis Hastert, the disgraced former House Speaker who later went to prison, has died.",
+   "published": "2026-10-05T22:45:10+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-10-06T06:28:01.745995+00:00"
+  },
   {
    "id": "c8a4e78d0686de9f",
    "title": "The Memo: Experts seek to calm panic over mysterious Russia \u2018plague\u2019 case",
@@ -12,6 +188,17 @@
    "source_id": "thehill",
    "bias_note": "center",
    "first_seen": "2026-10-05T22:42:17.731757+00:00"
+  },
+  {
+   "id": "ac8d07fac5be75d9",
+   "title": "Tamara Keith and Amy Walter on Trump's payout promises",
+   "url": "https://www.pbs.org/newshour/show/tamara-keith-and-amy-walter-on-trumps-payout-promises",
+   "summary": "NPR's Tamara Keith and Amy Walter of the Cook Political Report with Amy Walter join Geoff Bennett to discuss the latest political news, including President Trump continuing to promise payouts to voters if Republicans win in the midterms, the GOP spending campaign money and playing defense in typically Republican districts and the White House again barring a media outlet from the press pool.",
+   "published": "2026-10-05T22:25:09+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-10-06T06:28:01.746034+00:00"
   },
   {
    "id": "c331f4aaf953b1cd",
@@ -10715,160 +10902,6 @@
    "source_id": "propublica",
    "bias_note": "investigative",
    "first_seen": "2026-09-22T11:45:24.819452+00:00"
-  },
-  {
-   "id": "285efe9e143e8be3",
-   "title": "Trump\u2019s bizarre social media blitz leaves world guessing ahead of UN address",
-   "url": "https://www.theguardian.com/world/2026/sep/22/trump-united-nations-address",
-   "summary": "President has been posting on Washington arch, AI and his \u201825 top achievements\u2019 \u2013 the chances of an uplifting speech appear slimThe annual gathering of the United Nations general assembly has historically been a platform for US presidents to display their most serious face and a positive vision to the world.From Harry Truman and Dwight Eisenhower to John F Kennedy and Barack Obama, over eight decades US leaders have used the setting to expound on grand themes before a global audience at pivotal moments in international affairs. Continue reading...",
-   "published": "2026-09-22T06:00:36+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-09-22T11:45:24.277176+00:00"
-  },
-  {
-   "id": "ae54a5a38045cd94",
-   "title": "Trump seeks \u2018massive\u2019 Belarus fertiliser deal amid Canada trade war",
-   "url": "https://www.theguardian.com/world/2026/sep/22/trump-seeks-massive-belarus-fertiliser-deal-amid-canada-trade-war",
-   "summary": "Trump\u2019s announcement on Russia ally comes as he steps up his trade war with Canada, a long-term US ally and top supplier of potashPresident Donald Trump has said he is working on a \u201cmassive\u201d deal to buy fertiliser from Belarus, pivoting away from main supplier Canada amid an escalating trade dispute, and moving instead toward an ally of Russia.\u201cThe United States is working on a massive deal with respect to the purchase of Potash from Belarus,\u201d Trump said on his Truth Social network. \u201cThe pricing would be for substantially less than we are currently paying to Canada, very good news for our farm",
-   "published": "2026-09-22T04:00:55+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-09-22T05:04:42.343229+00:00"
-  },
-  {
-   "id": "ece4ae21c0aaa798",
-   "title": "White House launches Trump TV following press bans",
-   "url": "https://thehill.com/homenews/administration/6103061-white-house-launches-trump-tv/",
-   "summary": "The White House on Monday launched Trump TV, a 24/7 stream on YouTube, days after President Trump banned reporters from CNN, Politico and MS NOW over their coverage of him and his administration. The inaugural video was a stream of Trump speaking at Mount Rushmore on July 3 as part of a livestream titled \"Trump...",
-   "published": "2026-09-22T03:08:31+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-22T05:04:42.630123+00:00"
-  },
-  {
-   "id": "8b21e5e5b11540c9",
-   "title": "Trump was a 'caged lion' roaring to return to WHCA Dinner ballroom after shooting, Leavitt says",
-   "url": "https://www.foxnews.com/media/trump-caged-lion-roaring-return-whca-dinner-ballroom-shooting-leavitt-says",
-   "summary": "Karoline Leavitt reveals Trump was &quot;like a caged lion&quot; demanding to return to the ballroom after shots were fired at the WHCA dinner in April.",
-   "published": "2026-09-22T02:00:56+00:00",
-   "source": "Fox News Latest",
-   "source_id": "foxnews-latest",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-09-22T05:04:42.011917+00:00"
-  },
-  {
-   "id": "baac1e4b0ef8ff89",
-   "title": "Sylvester Stallone reveals what he said to Trump after surprise Hollywood ambassador appointment",
-   "url": "https://www.foxnews.com/entertainment/sylvester-stallone-reveals-what-he-said-trump-after-surprise-hollywood-ambassador-appointment",
-   "summary": "Sylvester Stallone says he learned about Trump&apos;s Hollywood ambassador appointment while watching TV and later told the president it was impossible.",
-   "published": "2026-09-22T01:58:12+00:00",
-   "source": "Fox News Latest",
-   "source_id": "foxnews-latest",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-09-22T05:04:42.011924+00:00"
-  },
-  {
-   "id": "341411f70d693ea4",
-   "title": "Mamdani tells Trump banned White House outlets are welcome at NYC meeting",
-   "url": "https://www.foxnews.com/politics/mamdani-tells-trump-banned-white-house-outlets-welcome-nyc-meeting",
-   "summary": "NYC Mayor Zohran Mamdani said the city welcomed all members of the media during his joint press conference with President Trump, who defended his decision to bar certain outlets.",
-   "published": "2026-09-22T01:45:10+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-09-22T05:04:41.892262+00:00"
-  },
-  {
-   "id": "b0602f6ae23e5f22",
-   "title": "Trump and Mamdani appear friendly after \u2018wide-ranging\u2019 meeting at Gracie Mansion",
-   "url": "https://www.theguardian.com/us-news/2026/sep/21/trump-and-mamdani-meeting-gracie-mansion",
-   "summary": "Republican president said he hoped the democratic socialist would be a \u2018great mayor\u2019 for New York CityDonald Trump said on Monday that he hoped Zohran Mamdani would be a \u201cgreat mayor\u201d for New York, an unusually warm assessment of the democratic socialist leader whom the president and his Republican allies have spent months holding up as a symbol of the Democratic party\u2019s alleged embrace of \u201ccommunism\u201d ahead of the November midterms.At a news conference following their closed-door meeting at Gracie Mansion, Trump and Mamdani appeared friendly as they have in previous meetings. Mamdani said he a",
-   "published": "2026-09-22T01:30:35+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-09-22T05:04:42.343250+00:00"
-  },
-  {
-   "id": "24a1e48d96781611",
-   "title": "Chris Murphy calls for 'regulating the internet' so people won't fall for a 'demagogue like Donald Trump'",
-   "url": "https://www.foxnews.com/media/chris-murphy-calls-regulating-internet-people-wont-fall-demagogue-like-donald-trump",
-   "summary": "Sen. Chris Murphy claimed regulating the internet could prevent Americans from falling for leaders like President Donald Trump by tackling loneliness.",
-   "published": "2026-09-21T23:52:54+00:00",
-   "source": "Fox News Latest",
-   "source_id": "foxnews-latest",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-09-22T05:04:42.011946+00:00"
-  },
-  {
-   "id": "e2d8864f18b83737",
-   "title": "Trump admin reportedly considers NIH grant approval takeover",
-   "url": "https://thehill.com/newsletters/healthcare/6102928-trump-admin-reportedly-considers-nih-grant-approval-takeover/",
-   "summary": "Click in for more news from The Hill {beacon} Healthcare Healthcare &#8202; The Big Story  Trump reportedly looking to take over NIH grantmaking  Dissatisfied with how grants from the National Institutes of Health (NIH) are being awarded, the Trump administration reportedly began discussions over the weekend to add more political influence over how the funds...",
-   "published": "2026-09-21T22:58:13+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-21T23:20:09.162157+00:00"
-  },
-  {
-   "id": "4411a18cf687b81e",
-   "title": "Press pool declines to cover Trump in protest of his ban on news outlets",
-   "url": "https://www.pbs.org/newshour/show/press-pool-declines-to-cover-trump-in-protest-of-his-ban-on-news-outlets",
-   "summary": "CNN, MS NOW and Politico are suing the Trump administration for stripping access to the White House, calling it a \"direct assault on the First Amendment.\" Monday, CNN was removed from its duties for the rotating pool of TV journalists covering the White House. The TV pool announced there would be no replacement to cover Trump's trip to New York for the UN General Assembly. Liz Landers reports.",
-   "published": "2026-09-21T22:55:26+00:00",
-   "source": "PBS NewsHour Politics",
-   "source_id": "pbs-politics",
-   "bias_note": "center",
-   "first_seen": "2026-09-21T23:20:09.343421+00:00"
-  },
-  {
-   "id": "37f85d7e34e67f47",
-   "title": "Trumpeter Dr Jesse McGuire belts national anthem after instrument malfunctions in unforgettable MLB moment",
-   "url": "https://www.foxnews.com/outkick-sports/trumpeter-dr-jesse-mcguire-belts-national-anthem-instrument-malfunctions-unforgettable-mlb-moment",
-   "summary": "The Arizona Diamondbacks&apos; 2001 World Series anniversary featured a trumpet malfunction that turned into an unforgettable national anthem moment.",
-   "published": "2026-09-21T22:52:39+00:00",
-   "source": "Fox News Latest",
-   "source_id": "foxnews-latest",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-09-21T23:20:08.116484+00:00"
-  },
-  {
-   "id": "3d73d0980c65f862",
-   "title": "Trump's attacks on free press echo rhetoric used by autocrats, Jodie Ginsberg says",
-   "url": "https://www.pbs.org/newshour/show/trumps-attacks-on-free-press-echo-rhetoric-used-by-autocrats-jodie-ginsberg-says",
-   "summary": "To discuss President Trump's decision to ban CNN, MS NOW and Politico from the White House, Amna Nawaz spoke with Jodie Ginsberg, CEO of the Committee to Protect Journalists.",
-   "published": "2026-09-21T22:50:37+00:00",
-   "source": "PBS NewsHour Politics",
-   "source_id": "pbs-politics",
-   "bias_note": "center",
-   "first_seen": "2026-09-21T23:20:09.343428+00:00"
-  },
-  {
-   "id": "5b3a48b51c8332e6",
-   "title": "The Memo: Trump\u2019s latest war on the media met with lawsuit, TV boycott",
-   "url": "https://thehill.com/homenews/analysis/6102924-trump-media-courtroom-battle/",
-   "summary": "An all-out confrontation between President Trump and the media escalated Monday, as three banned outlets launched a legal fight, Trump compared some reporting to \u201ccancer,\u201d and five major TV networks came together to announce a de facto boycott of White House pool coverage. It\u2019s a remarkable sequence of events that began with Trump\u2019s Friday announcement...",
-   "published": "2026-09-21T22:45:54+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-21T23:20:09.162170+00:00"
-  },
-  {
-   "id": "b2ca83b183e2901b",
-   "title": "Appeals court rules in favor of Trump-backed Missouri congressional maps",
-   "url": "https://www.theguardian.com/us-news/2026/sep/21/missouri-congressional-map-trump-appeals-court",
-   "summary": "Supreme court, which has twice blocked maps from being used in November, likely to have final say in legal fightA long-running legal fight over Missouri\u2019s congressional map took another turn Monday when a federal appeals panel ruled in favor of new districts backed by Donald Trump, even though the US supreme court has blocked those districts from being used in the November election.A three-judge panel of the 8th US circuit court of appeals said Missouri should use the new Republican-drawn US House districts in the November election, just as the state did in its August primary. To revert to its",
-   "published": "2026-09-21T22:44:42+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-09-21T23:20:08.922003+00:00"
   }
  ]
 }
