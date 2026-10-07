@@ -1,7 +1,18 @@
 {
- "updated": "2026-10-07T17:26:36.716642+00:00",
- "count": 930,
+ "updated": "2026-10-07T17:42:14.696570+00:00",
+ "count": 932,
  "articles": [
+  {
+   "id": "8e15055ddc106416",
+   "title": "Live updates: Trump celebrates accounts for children; candidates tangle in midterm debates",
+   "url": "https://thehill.com/homenews/administration/6133060-live-updates-candidates-trump-texas-midterm-debates/",
+   "summary": "President Trump on Wednesday celebrated the auto-enrollment of millions of children in Trump Accounts under new rules released last week. With less than a month until the midterms, there are a slew of debates this week in several high-profile races across the country. On Tuesday night, Maine Senate candidates Sen. Susan Collins (R) and Democrat...",
+   "published": "2026-10-07T17:28:00+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-07T17:42:13.767938+00:00"
+  },
   {
    "id": "69c4b52acbfb9b67",
    "title": "Trump distances himself from top advisers who reportedly traveled to Russia-aligned Bosnian territory \u2013 live",
@@ -56,6 +67,17 @@
    "source_id": "thehill",
    "bias_note": "center",
    "first_seen": "2026-10-07T17:26:36.104552+00:00"
+  },
+  {
+   "id": "ef79418fd26e9443",
+   "title": "Trump says he'll terminate LaCivita, Blair if they have consulting conflicts",
+   "url": "https://thehill.com/homenews/6134135-trump-consultants-balkans-work/",
+   "summary": "President Trump on Wednesday said he would terminate outside consultants Chris LaCivita and James Blair if their work conflicted with the White House, following a report that the two were in the Balkans advising a pro-Russian political party and made hundreds of thousands of dollars. Trump appeared to distance himself from the work LaCivita and...",
+   "published": "2026-10-07T16:57:59+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-07T17:42:13.767979+00:00"
   },
   {
    "id": "b9e37f40f62066b0",
