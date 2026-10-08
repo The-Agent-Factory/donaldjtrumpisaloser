@@ -1,7 +1,150 @@
 {
- "updated": "2026-10-07T23:08:57.311653+00:00",
- "count": 933,
+ "updated": "2026-10-08T06:12:26.162464+00:00",
+ "count": 939,
  "articles": [
+  {
+   "id": "b3756cb4c1ad02df",
+   "title": "FDA says its review of abortion pill will continue into next year",
+   "url": "https://abcnews.com/Politics/wireStory/fda-review-abortion-pill-continue-year-137085064",
+   "summary": "The Food and Drug Administration says its ongoing safety review of the nation&rsquo;s main abortion pill will continue into next year",
+   "published": "2026-10-08T04:10:18+00:00",
+   "source": "ABC News Politics",
+   "source_id": "abc-politics",
+   "bias_note": "center",
+   "first_seen": "2026-10-08T06:12:25.724356+00:00"
+  },
+  {
+   "id": "3508deed04cf8ce1",
+   "title": "Trump interrupted by protesters as he fights to rally Texas voters",
+   "url": "https://abcnews.com/Politics/wireStory/trump-interrupted-protesters-fights-rally-texas-voters-paxton-137082289",
+   "summary": "President Donald Trump fought to rally Texas voters behind Senate candidate Ken Paxton as a series of protests disrupted his rally in San Antonio",
+   "published": "2026-10-08T03:53:49+00:00",
+   "source": "ABC News Politics",
+   "source_id": "abc-politics",
+   "bias_note": "center",
+   "first_seen": "2026-10-08T06:12:25.724350+00:00"
+  },
+  {
+   "id": "3b601430afba7f02",
+   "title": "Trump proposes Camp David-style presidential retreat at his private Florida golf club",
+   "url": "https://abcnews.com/Politics/wireStory/trump-proposes-camp-david-style-presidential-retreat-private-137080794",
+   "summary": "President Donald Trump says he wants to turn part of his private West Palm Beach golf club into a retreat for future presidents and their guests, similar to Camp David near Washington",
+   "published": "2026-10-08T03:30:16+00:00",
+   "source": "ABC News Politics",
+   "source_id": "abc-politics",
+   "bias_note": "center",
+   "first_seen": "2026-10-08T06:12:25.724342+00:00"
+  },
+  {
+   "id": "f3062cc69ec7d509",
+   "title": "Former MLB pitcher Roger Clemens to receive Medal of Freedom, Trump says",
+   "url": "https://thehill.com/homenews/6135542-roger-clemens-medal-of-freedom-trump/",
+   "summary": "President Trump said he will award controversial baseball legend Roger Clemens the Presidential Medal of Freedom, saying the honor is a \u201cbig step up\u201d from the MLB\u2019s Hall of Fame \u2014 which has repeatedly declined to recognize him. \u201cI\u2019m pleased to announce that we are taking it into our own hands. Forget about the Hall...",
+   "published": "2026-10-08T03:25:59+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-08T06:12:24.883575+00:00"
+  },
+  {
+   "id": "8c7b0255910461f5",
+   "title": "Trump reups beef with 'ungrateful' Cuellar for staying Democrat after pardon",
+   "url": "https://thehill.com/homenews/administration/6135540-trump-cuellar-pardon-tijerina-texas-midterms/",
+   "summary": "President Trump ripped into Rep. Henry Cuellar (D-Texas) Wednesday evening for not switching parties after receiving a presidential pardon in 2025, the latest development in a feud that has intensified since the Democrat announced his reelection bid. In a Truth Social post ahead of a campaign rally in San Antonio, the president said he did...",
+   "published": "2026-10-08T03:15:20+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-08T06:12:24.883581+00:00"
+  },
+  {
+   "id": "69c24bbd2b92dfec",
+   "title": "Disaster relief funding is creeping into Trump's midterm rhetoric. Critics say it has no place there",
+   "url": "https://abcnews.com/Politics/wireStory/disaster-relief-funding-creeping-trumps-midterm-rhetoric-critics-137076581",
+   "summary": "President Donald Trump has turned emergency relief into a campaign talking point as a major hurricane approaches the U.S. Gulf Coast",
+   "published": "2026-10-08T02:58:24+00:00",
+   "source": "ABC News Politics",
+   "source_id": "abc-politics",
+   "bias_note": "center",
+   "first_seen": "2026-10-08T06:12:25.724353+00:00"
+  },
+  {
+   "id": "6592b61b75c48260",
+   "title": "Donald Trump\u2019s Texas rally rocked by repeated protests",
+   "url": "https://www.theguardian.com/us-news/2026/oct/08/donald-trumps-texas-rally-rocked-by-repeated-protests",
+   "summary": "Trump briefly stepped away from the microphone after one protester appeared to approach the stageDonald Trump\u2019s latest campaign rally was rocked by repeated protests on Wednesday as the US president urged Texas voters to back embattled Senate candidate Ken Paxton.At least half a dozen demonstrators interrupted the US president during his remarks in San Antonio, with some led away by police. One was physically assaulted by an older Trump supporter as he tried to leave the arena. Continue reading...",
+   "published": "2026-10-08T02:36:58+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-10-08T06:12:24.580861+00:00"
+  },
+  {
+   "id": "82ea10868d681bcf",
+   "title": "FDA: Mifepristone review won't be done until March",
+   "url": "https://thehill.com/policy/healthcare/6135515-fda-mifepristone-abortion-pill-review-delay/",
+   "summary": "The Food and Drug Administration (FDA) won\u2019t publish its safety review of the abortion drug mifepristone until March, it disclosed in a Wednesday court filing, adding that it won\u2019t impose any new restrictions on the pill before that point. The revelations are likely to further anger anti-abortion activists, who have been losing patience with the...",
+   "published": "2026-10-08T02:33:30+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-08T06:12:24.883603+00:00"
+  },
+  {
+   "id": "c562360b2a01d774",
+   "title": "Ken Paxton calls out James Talarico's 11-day absence at Trump rally, prompting response from campaign",
+   "url": "https://www.foxnews.com/politics/ken-paxton-calls-james-talarico-11-day-absence-trump-rally-prompting-response-campaign",
+   "summary": "Ken Paxton led a &quot;Where is Talarico?&quot; chant at Trump&apos;s San Antonio rally, but James Talarico&apos;s campaign says the Democrat has been sick with the flu.",
+   "published": "2026-10-08T01:35:13+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-10-08T06:12:23.621516+00:00"
+  },
+  {
+   "id": "a25be6ccdc0c8276",
+   "title": "Trump doubles down on California comments: 'Let them hit San Diego, let them hit Los Angeles'",
+   "url": "https://thehill.com/homenews/administration/6135448-trump-threatened-la-san-diego/",
+   "summary": "President Trump doubled down on his comments suggesting Iran could hit Los Angeles and San Diego during a rally in Texas on Wednesday, adding that the U.S. would not let such a scenario play out. \"You want to see trauma? You want to see problems? And I said it the other day, let them hit...",
+   "published": "2026-10-08T00:57:34+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-08T06:12:24.883618+00:00"
+  },
+  {
+   "id": "57e2038801368366",
+   "title": "Trump to award National Medal of Science to Elon Musk",
+   "url": "https://thehill.com/homenews/administration/6135421-trump-awards-national-medal-science/",
+   "summary": "President Trump will award the National Medal of Science to Elon Musk and other prominent tech executives Thursday, a White House official confirmed to The Hill\u2019s broadcast partner, NewsNation.\u00a0 Musk, the head of SpaceX and Tesla, will receive this high honor at the White House\u2019s \u201cScience: A New Golden Age\u201d summit. Three other tech leaders...",
+   "published": "2026-10-08T00:47:58+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-08T06:12:24.883623+00:00"
+  },
+  {
+   "id": "8df8da213cf51bb6",
+   "title": "Trump Accounts Put 70 Million Kids on the Path to Financial Freedom",
+   "url": "https://www.whitehouse.gov/releases/2026/10/a-financial-stake-in-the-future-for-nearly-70-million-american-children-trump-accounts-made-it-possible/",
+   "summary": "Trump Accounts\u2014tax-advantaged investment accounts for kids\u2014are a game-changing tool designed to help every American child build savings and a stronger financial future. With automatic enrollment now complete, the Trump Administration has made it easier than ever for families to participate and give their children a jump-start on the American Dream. Nearly 70 million Trump Accounts [&#8230;]\nThe post Trump Accounts Put 70 Million Kids on the Path to Financial Freedom appeared first on The White House.",
+   "published": "2026-10-08T00:28:12+00:00",
+   "source": "WhiteHouse.gov News",
+   "source_id": "whitehouse",
+   "bias_note": "official/primary-source",
+   "first_seen": "2026-10-08T06:12:23.950566+00:00"
+  },
+  {
+   "id": "1bec2bb2ec7ce7df",
+   "title": "Marlon Humphrey says meeting President Trump inspired him to vote in the next election",
+   "url": "https://www.foxnews.com/outkick-sports/marlon-humphrey-meeting-president-trump-inspired-vote-next-election",
+   "summary": "Marlon Humphrey rode in Trump&apos;s presidential motorcade near Baltimore and says the experience has inspired him to vote for the first time ever.",
+   "published": "2026-10-07T23:32:40+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-10-08T06:12:23.670669+00:00"
+  },
   {
    "id": "03cfeba79967a56d",
    "title": "Democrats sue to stop Trump from using taxpayer funds for self-promoting ads",
@@ -10187,83 +10330,6 @@
    "source_id": "npr-politics",
    "bias_note": "center",
    "first_seen": "2026-09-24T11:53:41.446594+00:00"
-  },
-  {
-   "id": "c631490db26cbe86",
-   "title": "Judge orders White House to immediately restore access to CNN, MS NOW, Politico",
-   "url": "https://thehill.com/regulation/court-battles/6108012-judge-orders-white-house-to-immediately-restore-access-to-cnn-ms-now-politico/",
-   "summary": "A federal judge ordered the White House early Thursday to immediately restore press credentials for reporters at CNN, MS NOW and Politico, ruling that President Trump\u2019s ban likely violated their constitutional due process rights.  U.S. District Judge Timothy Kelly handed down the ruling in the middle of the night, hours after holding an emergency hearing on the outlets\u2019 lawsuit. ...",
-   "published": "2026-09-24T05:38:01+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-24T11:53:42.181499+00:00"
-  },
-  {
-   "id": "4abbb8521b28775d",
-   "title": "Judge orders Trump White House to restore access to CNN, MS Now and Politico",
-   "url": "https://www.theguardian.com/us-news/2026/sep/24/judge-orders-trump-restore-white-house-access-cnn-ms-now-politico-media-ban",
-   "summary": "US district judge orders temporary lifting of Trump\u2019s ban on the three media outlets, saying it was likely unconstitutionalA federal judge has ordered the Trump administration to temporarily restore \u2060White House \u2060access \u200bto journalists from CNN, MS Now and Politico, \u2060saying his ban on the three media outlets was \u2060likely unconstitutional.US district judge Tim Kelly issued his order in a lawsuit that the news organizations filed \u200ccontesting the ban that the president announced \u200bon 18 September. Continue reading...",
-   "published": "2026-09-24T05:25:12+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-09-24T11:53:41.746420+00:00"
-  },
-  {
-   "id": "0d89b8d5e0c5debe",
-   "title": "Judge tosses Trump\u2019s suit against Iowa pollster",
-   "url": "https://thehill.com/regulation/court-battles/6107914-trump-selzer-polling-lawsuit-dismissed/",
-   "summary": "An Iowa judge has tossed President Trump\u2019s lawsuit against pollster J. Ann Selzer and The Des Moines Register over polling numbers they published days before the 2024 general elections. In a Wednesday ruling, Iowa District Court Judge Scott J. Beattie went against Trump's claims that the poll, which showed former Vice President Kamala Harris leading...",
-   "published": "2026-09-24T03:24:24+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-24T04:58:22.222764+00:00"
-  },
-  {
-   "id": "2efa1082e0a2bdbf",
-   "title": "Illegal alien allegedly grabs school police officer's gun, shoots him in femoral artery: DOJ",
-   "url": "https://www.foxnews.com/politics/illegal-alien-allegedly-grabs-school-police-officer-gun-shoots-femoral-artery-doj",
-   "summary": "Jose Santiago Pantoja-Morales allegedly grabbed a Dallas ISD officer&apos;s gun during a struggle and shot him in the femoral artery near LBJ Freeway.",
-   "published": "2026-09-24T02:07:42+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-09-24T04:58:20.939402+00:00"
-  },
-  {
-   "id": "678e33e26813a77d",
-   "title": "NYC kitten rescue defends \u2018NO F---ING MAGA\u2019 adoption policy as PETA calls for it to be abolished",
-   "url": "https://www.foxnews.com/politics/nyc-kitten-rescue-defends-no-f-ing-maga-adoption-policy-peta-calls-abolished",
-   "summary": "PETA calls on Itty Bitty City Kitties to abolish its adoption policy after the NYC kitten rescue declared &quot;NO F---ING MAGA&quot; on social media.",
-   "published": "2026-09-24T00:33:44+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-09-24T04:58:20.939420+00:00"
-  },
-  {
-   "id": "f3dc4b7df9a57928",
-   "title": "Trump likely \u2018smirked\u2019 as 'crass' Iranian president lashed out at US in UN speech: expert",
-   "url": "https://www.foxnews.com/world/trump-smirked-iranian-president-lashed-us-fiery-un-speech-expert",
-   "summary": "Masoud Pezeshkian accused the U.S. and Israel of attacking Iran at the United Nations, and an expert says Trump likely responded with a smirk.",
-   "published": "2026-09-24T00:10:52+00:00",
-   "source": "Fox News Latest",
-   "source_id": "foxnews-latest",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-09-24T04:58:21.031227+00:00"
-  },
-  {
-   "id": "d75a6077506f50b7",
-   "title": "5 crucial issues lawmakers want Trump to address with China",
-   "url": "https://thehill.com/homenews/administration/6107744-trump-xi-summit-washington/",
-   "summary": "President Trump and Chinese President Xi Jinping will hold a series of high-stakes meetings in Washington, marking the first official state visit by China\u2019s leader in more than a decade.\u00a0 The meetings come at a fragile moment in relations between the U.S. and Beijing, which have spent the better part of the last two years...",
-   "published": "2026-09-23T23:31:50+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-24T04:58:22.222781+00:00"
   }
  ]
 }
