@@ -1,7 +1,18 @@
 {
- "updated": "2026-10-09T17:01:13.700055+00:00",
- "count": 899,
+ "updated": "2026-10-09T17:22:28.605640+00:00",
+ "count": 901,
  "articles": [
+  {
+   "id": "6baae2d36dfa8ca9",
+   "title": "White House on Trump purchasing SpaceX debt before space order: 'No conflicts of interest'",
+   "url": "https://thehill.com/homenews/administration/6138851-white-house-denies-spacex-conflict-of-interest/",
+   "summary": "The White House said on Friday there was no conflict of interest when President Trump's accounts bought more than $1 million in SpaceX debt two days before he signed an executive order on space transportation policy. The president's financial disclosure for August, published Thursday, shows Trump's accounts purchased between $1 million and $5 million in...",
+   "published": "2026-10-09T17:19:00+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-09T17:22:27.725040+00:00"
+  },
   {
    "id": "5ff625cb38b64e02",
    "title": "WATCH LIVE: Trump rallies with New York's GOP gubernatorial candidate Bruce Blakeman",
@@ -12,6 +23,17 @@
    "source_id": "pbs-politics",
    "bias_note": "center",
    "first_seen": "2026-10-09T17:01:12.841181+00:00"
+  },
+  {
+   "id": "4ad252d2c567e94a",
+   "title": "The Pentagon Gave $350 Million in Contracts to a Firm Closely Tied to a Senior Defense Department Official",
+   "url": "https://www.propublica.org/article/george-kollitides-pentagon-contracts-alvarez-marsal",
+   "summary": "The post The Pentagon Gave $350 Million in Contracts to a Firm Closely Tied to a Senior Defense Department Official appeared first on ProPublica.",
+   "published": "2026-10-09T16:45:00+00:00",
+   "source": "ProPublica",
+   "source_id": "propublica",
+   "bias_note": "investigative",
+   "first_seen": "2026-10-09T17:22:28.111972+00:00"
   },
   {
    "id": "540320578cfb1fe7",
@@ -111,6 +133,17 @@
    "source_id": "thehill",
    "bias_note": "center",
    "first_seen": "2026-10-09T17:01:12.664953+00:00"
+  },
+  {
+   "id": "c1b8ee312550e85f",
+   "title": "Nobel committee thumbs its nose at US, Israel",
+   "url": "https://thehill.com/newsletters/1230-report/6139124-nobel-prize-navi-pillay-backlash-us-israel-midterms-trump/",
+   "summary": "Plus: \ud83e\udd4a Senate debates get personal {beacon} &#8202; It\u2019s Friday. The leaves will soon be falling, but right now, the weekend is calling. \ud83c\udf42 &#8202; In today's issue: Nobel Prize delivers a political jolt Senate debates get testy Trump polls signal midterm risks Plans to livestream execution turns stomachs  Programming note: Hello! We are Steff...",
+   "published": "2026-10-09T16:00:00+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-09T17:22:27.725110+00:00"
   },
   {
    "id": "595bcc7b037edd3b",
@@ -9879,17 +9912,6 @@
    "source_id": "thehill",
    "bias_note": "center",
    "first_seen": "2026-09-25T18:40:59.280349+00:00"
-  },
-  {
-   "id": "9cadf2b27aca8312",
-   "title": "Trump's quiet China wins are more important than Xi's empty state visit",
-   "url": "https://www.foxnews.com/opinion/trumps-quiet-china-wins-more-important-than-xis-empty-state-visit",
-   "summary": "The U.S.-China trade deficit is falling fast, but Xi Jinping offered little beyond pandas and ping-pong diplomacy during Trump&apos;s State Visit.",
-   "published": "2026-09-25T17:18:55+00:00",
-   "source": "Fox News Latest",
-   "source_id": "foxnews-latest",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-09-25T18:40:57.421378+00:00"
   }
  ]
 }
