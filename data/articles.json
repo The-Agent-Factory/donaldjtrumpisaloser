@@ -1,7 +1,150 @@
 {
- "updated": "2026-10-09T00:25:55.700872+00:00",
- "count": 917,
+ "updated": "2026-10-09T09:11:11.086113+00:00",
+ "count": 916,
  "articles": [
+  {
+   "id": "4a53084d8a053ed0",
+   "title": "Poll: 1 in 4 Trump voters say GOP candidates should break from the president",
+   "url": "https://www.politico.com/news/2026/10/09/poll-trump-voters-candidate-breaks-battlegrounds-01112449",
+   "summary": "It\u2019s notable that so many who backed the president are ready for Republicans to take that leap, amid an unpopular war in Iran and high costs of living.",
+   "published": "2026-10-09T09:00:00+00:00",
+   "source": "Politico",
+   "source_id": "politico",
+   "bias_note": "center",
+   "first_seen": "2026-10-09T09:11:09.816003+00:00"
+  },
+  {
+   "id": "181658451ffd28ad",
+   "title": "We\u2019re Investigating Prior Authorization. Help ProPublica Understand Your Health Insurance Denial.",
+   "url": "https://www.propublica.org/getinvolved/propublica-health-insurance-prior-authorization-reporting",
+   "summary": "The post We\u2019re Investigating Prior Authorization. Help ProPublica Understand Your Health Insurance Denial. appeared first on ProPublica.",
+   "published": "2026-10-09T09:00:00+00:00",
+   "source": "ProPublica",
+   "source_id": "propublica",
+   "bias_note": "investigative",
+   "first_seen": "2026-10-09T09:11:10.629649+00:00"
+  },
+  {
+   "id": "c387668a5b8c4f0b",
+   "title": "\u2018We don\u2019t know where the bottom is:\u2019 Republicans fret races in Trump country",
+   "url": "https://www.politico.com/news/2026/10/09/house-gop-panic-deep-red-seats-trump-01113006",
+   "summary": "GOP internal polling revealed key House seats that Trump won comfortably in 2024 are now competitive.",
+   "published": "2026-10-09T08:45:00+00:00",
+   "source": "Politico",
+   "source_id": "politico",
+   "bias_note": "center",
+   "first_seen": "2026-10-09T09:11:09.816009+00:00"
+  },
+  {
+   "id": "8ffcabd8a822b601",
+   "title": "Trump's War in Iran in spotlight ahead of midterms",
+   "url": "https://www.npr.org/2026/10/09/nx-s1-5995532/trumps-war-in-iran-in-spotlight-ahead-of-midterms",
+   "summary": "After President Trump slapped down reports that he is considered renewed strikes against Iran ahead of the midterms, the politics of the war he started are in the spotlight.",
+   "published": "2026-10-09T08:23:40+00:00",
+   "source": "NPR Politics",
+   "source_id": "npr-politics",
+   "bias_note": "center",
+   "first_seen": "2026-10-09T09:11:09.412311+00:00"
+  },
+  {
+   "id": "67ce4b7ba8672d32",
+   "title": "Trump's memorial arch faces new lawsuit from Arlington County, Virginia",
+   "url": "https://abcnews.com/Politics/wireStory/trumps-memorial-arch-faces-new-lawsuit-arlington-county-137117287",
+   "summary": "The Arlington County Board in Virginia has filed a lawsuit opposing the construction of the Triumphal Arch, becoming the first governmental body to take legal action against President Donald Trump&rsquo;s planned monument",
+   "published": "2026-10-09T06:44:25+00:00",
+   "source": "ABC News Politics",
+   "source_id": "abc-politics",
+   "bias_note": "center",
+   "first_seen": "2026-10-09T09:11:10.878757+00:00"
+  },
+  {
+   "id": "d7860f9ef97866ea",
+   "title": "US midterms: key takeaways from Senate debates in Michigan, Georgia and Maine",
+   "url": "https://www.theguardian.com/us-news/2026/oct/09/us-midterms-michigan-georgia-maine-senate-debate-key-takeaways",
+   "summary": "Candidates traded personal attacks and clashed over a range of issues in closely watched US Senate debates on Thursday, with control of Congress at stakeWith just weeks left in the contentious midterm election campaign, candidates in a trio of highly-competitive Senate races debated Thursday night, clashing over the economy, tariffs, the Iran war and abortion rights, with control of the upper chamber at stake.In Georgia, incumbent Democratic senator Jon Ossoff faced GOP representative Mike Collins. In Michigan, Democrat Abdul Al-Sayed and Republican Mike Rogers debated over the state\u2019s open Se",
+   "published": "2026-10-09T04:48:13+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-10-09T09:11:09.660218+00:00"
+  },
+  {
+   "id": "608312cecc498de0",
+   "title": "Mamdani demands Trump release illegal immigrant shot by ICE agent as protests erupt in the Bronx",
+   "url": "https://www.foxnews.com/us/mamdani-demands-trump-release-illegal-immigrant-shot-ice-agent-protests-erupt-bronx",
+   "summary": "Mayor Zohran Mamdani demanded President Donald Trump release the man shot and injured by an ICE agent on Thursday in an incident that set off protests across New York City.",
+   "published": "2026-10-09T04:40:09+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-10-09T09:11:09.099490+00:00"
+  },
+  {
+   "id": "1b5d4750c517cb43",
+   "title": "Is a \u2018blue tsunami\u2019 going to wipe out Republicans? \u2013 podcast",
+   "url": "https://www.theguardian.com/politics/audio/2026/oct/09/is-a-blue-tsunami-going-to-wipe-out-republicans-podcast",
+   "summary": "Polling out this week suggests the Democrats could do something no one thought possible even a few months ago: take back the US Senate. Despite this, Donald Trump is telling crowds at rallies across the country that the Republicans will \u2018win big\u2019.This week, Jonathan Freedland speaks to David Nir of the Downballot about why Democrats are feeling so hopeful in deep red statesWatch Jonathan Freedland on our new Politics Weekly YouTube channelSend your questions and feedback to politicsweeklyamerica@theguardian.comWatch Aditya Chakrabortty\u2019s new series, Radical Thinking, on YouTube, or listen to i",
+   "published": "2026-10-09T04:00:37+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-10-09T09:11:09.660246+00:00"
+  },
+  {
+   "id": "6d1a9fbef2a4be59",
+   "title": "Byron Donalds says he is not a \u2018yes man\u2019 to Trump",
+   "url": "https://www.politico.com/video/2026/10/08/byron-donalds-says-he-is-not-a-yes-man-to-trump-2194998",
+   "summary": "",
+   "published": "2026-10-09T03:59:00+00:00",
+   "source": "Politico",
+   "source_id": "politico",
+   "bias_note": "center",
+   "first_seen": "2026-10-09T09:11:09.816011+00:00"
+  },
+  {
+   "id": "6351a89e2405065f",
+   "title": "Arlington County sues to block Trump arch after project gets key approval",
+   "url": "https://thehill.com/regulation/court-battles/6138098-arlington-county-trump-arch-lawsuit/",
+   "summary": "Arlington County has filed a lawsuit to block President Trump\u2019s proposed triumphal arch following the project's approval by the U.S. Commission of Fine Arts in April.\u00a0 The lawsuit opposed the construction of the proposed 250-foot arch, citing concerns about the project\u2019s impact on tourism and safety to local residents. \u201cUsing the Arch to store large...",
+   "published": "2026-10-09T02:46:56+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-09T09:11:09.965297+00:00"
+  },
+  {
+   "id": "6e59afe4ff82829a",
+   "title": "Trump says Minnesotans should 'fight back' against Somali immigrants",
+   "url": "https://thehill.com/homenews/administration/6138039-trump-somali-immigrants-minnesota/",
+   "summary": "President Trump said Thursday that Minnesotans should \u201cfight back\u201d against Somali immigrants following previous attacks against the group. \u201cThe once Great State of Minnesota is being taken over by Somali Immigrants. There is Violence, Murder, and Mayhem all over the State,\u201d Trump wrote on Truth Social. \u201cThe people of Minnesota must fight back.\u201d He added...",
+   "published": "2026-10-09T01:39:17+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-09T09:11:09.965322+00:00"
+  },
+  {
+   "id": "492f110ce8546eea",
+   "title": "Federal grand jury hears evidence in probe of former Trump aide Cassidy Hutchinson's Jan 6 testimony: source",
+   "url": "https://www.foxnews.com/politics/federal-grand-jury-hears-evidence-probe-former-trump-aide-cassidy-hutchinson-jan-6-testimony",
+   "summary": "A federal grand jury heard evidence about possible false statements Cassidy Hutchinson made to the Jan. 6 House select committee on the Capitol riot.",
+   "published": "2026-10-09T01:33:15+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-10-09T09:11:09.082628+00:00"
+  },
+  {
+   "id": "ae1978664d3457cb",
+   "title": "Execution TV? Pete Hegseth has taken the once \u2018greatest democracy\u2019 to a horrific new low | Paul Daley",
+   "url": "https://www.theguardian.com/commentisfree/2026/oct/09/nidal-hasan-execution-pete-hegseth-us-military-tv-democracy",
+   "summary": "A proposal to livestream the killing of Nidal Hasan by firing squad opens a window ever wider to the Trump administration\u2019s complete moral vacuityMore fool me! Here I was thinking nothing that America\u2019s Trump administration could do or say, no matter how politically and morally bankrupt, no matter how venal or violent, was capable of shocking me any longer.Then I woke to today\u2019s news that one of the Trump cabinet\u2019s bigger boofheads \u2013 the uber Christian nationalist, crusader-fantasist and \u201csecretary of war\u201d Pete Hegseth had announced that America would have a public firing squad execution of mu",
+   "published": "2026-10-09T01:19:07+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-10-09T09:11:09.660274+00:00"
+  },
   {
    "id": "4521c409dd4679d2",
    "title": "Arizona man arrested after allegedly emailing White House bomb threat to Tucson news station",
@@ -9934,160 +10077,6 @@
    "source_id": "guardian-uspolitics",
    "bias_note": "left-leaning",
    "first_seen": "2026-09-25T13:53:04.430963+00:00"
-  },
-  {
-   "id": "13a3796fcad77d3e",
-   "title": "As election enters its final stretch, some Republicans are distancing from Trump",
-   "url": "https://www.npr.org/2026/09/25/nx-s1-5978096/republicans-trump-midterm-elections",
-   "summary": "With less than six weeks until Election Day, a growing number of Republicans are breaking from Trump on key issues. It comes as the party is scrambling to hold onto a slim majority in Congress.",
-   "published": "2026-09-25T09:00:00+00:00",
-   "source": "NPR Politics",
-   "source_id": "npr-politics",
-   "bias_note": "center",
-   "first_seen": "2026-09-25T13:53:04.340657+00:00"
-  },
-  {
-   "id": "0e5ace1157bd9141",
-   "title": "Across the Country, Youth Prisons Are Closing. This State Is Building More.",
-   "url": "https://www.propublica.org/article/juvenile-crime-decrease-youth-prisons-tennessee-construction",
-   "summary": "The post Across the Country, Youth Prisons Are Closing. This State Is Building More. appeared first on ProPublica.",
-   "published": "2026-09-25T09:00:00+00:00",
-   "source": "ProPublica",
-   "source_id": "propublica",
-   "bias_note": "investigative",
-   "first_seen": "2026-09-25T13:53:06.588669+00:00"
-  },
-  {
-   "id": "b0a4a27a3199463c",
-   "title": "Trump administration moves to limit fixes for systemic racism in schools",
-   "url": "https://abcnews.com/Politics/wireStory/trump-administration-moves-limit-fixes-systemic-racism-schools-136743667",
-   "summary": "The Trump administration has shifted the approach to civil rights enforcement in American schools",
-   "published": "2026-09-25T06:52:54+00:00",
-   "source": "ABC News Politics",
-   "source_id": "abc-politics",
-   "bias_note": "center",
-   "first_seen": "2026-09-25T07:54:39.777965+00:00"
-  },
-  {
-   "id": "8dc4297e306d5fd5",
-   "title": "Trump relishes showing Xi his Marine One chopper and new White House helipad",
-   "url": "https://abcnews.com/Politics/wireStory/trump-relishes-showing-xi-marine-chopper-new-white-136734173",
-   "summary": "President Donald Trump showed off some of his favorite things at the White House to China's leader, Xi Jinping, on Thursday",
-   "published": "2026-09-25T06:42:08+00:00",
-   "source": "ABC News Politics",
-   "source_id": "abc-politics",
-   "bias_note": "center",
-   "first_seen": "2026-09-25T07:54:39.777978+00:00"
-  },
-  {
-   "id": "ea705eb3be032e32",
-   "title": "FBI employees in Trump Mar-a-Lago case seek clarity on subpoenas in Florida 'grand conspiracy' probe",
-   "url": "https://abcnews.com/Politics/wireStory/fbi-employees-trump-mar-lago-case-seek-clarity-136735755",
-   "summary": "Former FBI employees involved in the investigation into President Donald Trump&rsquo;s retention of classified documents have been subpoenaed to appear before a grand jury in a broad Florida-based conspiracy probe",
-   "published": "2026-09-25T06:41:31+00:00",
-   "source": "ABC News Politics",
-   "source_id": "abc-politics",
-   "bias_note": "center",
-   "first_seen": "2026-09-25T07:54:39.777975+00:00"
-  },
-  {
-   "id": "e192754dcd9beb7f",
-   "title": "Man who was shot during 2024 Trump campaign rally in Butler, Pennsylvania, has died",
-   "url": "https://abcnews.com/Politics/wireStory/man-shot-2024-trump-campaign-rally-butler-pennsylvania-136737523",
-   "summary": "James Copenhaver, one of three campaign rally attendees shot in 2024 during an assassination attempt on then-candidate Donald Trump, has died",
-   "published": "2026-09-25T06:40:21+00:00",
-   "source": "ABC News Politics",
-   "source_id": "abc-politics",
-   "bias_note": "center",
-   "first_seen": "2026-09-25T07:54:39.777972+00:00"
-  },
-  {
-   "id": "45b82b532aee1557",
-   "title": "Trump's state dinner for Xi features sea bass and a long list of tech titans",
-   "url": "https://www.npr.org/2026/09/25/g-s1-144973/trump-state-dinner-xi",
-   "summary": "A tech-heavy guest list, the fashion choices of those on it, who sat where and what was on the menu marked the softer \u2014 often and glitzier \u2014 details of diplomacy as Donald Trump threw a Thursday night state dinner honoring China's leader Xi Jinping.",
-   "published": "2026-09-25T06:18:59+00:00",
-   "source": "NPR Politics",
-   "source_id": "npr-politics",
-   "bias_note": "center",
-   "first_seen": "2026-09-25T07:54:38.276193+00:00"
-  },
-  {
-   "id": "75d4c2f2a1ef939e",
-   "title": "Trump loses the fear factor \u2013 podcast",
-   "url": "https://www.theguardian.com/politics/audio/2026/sep/25/trump-loses-the-fear-factor-podcast",
-   "summary": "This week, the US press corps stood up to Donald Trump after he banned three organisations he doesn\u2019t like from the White House. But when it came to the leader of one of America\u2019s oldest adversaries \u2013 China \u2013 well, Trump literally rolled out a very long red carpet.Jonathan Freedland speaks to the Guardian\u2019s Shrai Popat about why Trump seems weaker these days, and why it might be dangerous to underestimate himWatch Jonathan Freedland on our new Politics Weekly YouTube channelSend your questions and feedback to politicsweeklyamerica@theguardian.comWatch Stateside\u2019s episode on Benjamin Netanyahu\u2019",
-   "published": "2026-09-25T04:00:40+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-09-25T07:54:38.441160+00:00"
-  },
-  {
-   "id": "17a74496fe82d554",
-   "title": "UMass Dartmouth football murder suspect overstayed tourist visa, received deferred action: federal sources",
-   "url": "https://www.foxnews.com/politics/umass-dartmouth-football-murder-suspect-overstayed-tourist-visa-received-deferred-action-federal-sources",
-   "summary": "Chukwunonso Eze entered the U.S. on a tourist visa in 2015 and received deferred action under both Biden and Trump before he allegedly killed a UMass Dartmouth football player.",
-   "published": "2026-09-25T03:59:39+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-09-25T07:54:37.849895+00:00"
-  },
-  {
-   "id": "cd1a4cfbc6ddc911",
-   "title": "Lula says Trump wants to \u2018colonise\u2019 and capture Brazil\u2019s resources by meddling in election",
-   "url": "https://www.theguardian.com/world/2026/sep/25/lula-says-trump-wants-to-colonise-and-capture-brazils-resources-by-meddling-in-election",
-   "summary": "A TV spot claims the US president is trying to sway October\u2019s presidential vote in favour of Lula\u2019s far-right opponentsLuiz In\u00e1cio Lula da Silva\u2019s presidential campaign has accused Donald Trump of wanting to \u201ccolonise\u201d Brazil in order to capture its natural resources by meddling in next month\u2019s presidential election.The accusation came in a televised campaign advert that was broadcast on Thursday by Lula\u2019s team amid growing fears over the impact alleged US interference could have on the vote. Continue reading...",
-   "published": "2026-09-25T03:33:48+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-09-25T07:54:38.441170+00:00"
-  },
-  {
-   "id": "5fa844ac34d61aaa",
-   "title": "Marina Hyde on Trump, tech bros and Taylor Swift - podcast",
-   "url": "https://www.theguardian.com/news/audio/2026/sep/25/marina-hyde-trump-tech-bros-taylor-swift-time-alive-podcast",
-   "summary": "Guardian columnist Marina Hyde on the release of her new book What a Time to be Alive!\u201cI think increasingly the way to survive the news is to say things like: \u2018I find it fascinating from a human behaviour point of view,\u2019\u201d says Marina Hyde. \u201cIt\u2019s like a firewall against actually thinking: \u2018My God, I mean, what are we living through?\u2019\u201dOn the publication of her new book, What a Time to Be Alive!, The Guardian\u2019s award-winning columnist talks to Nosheen Iqbal about Donald Trump, AI, Taylor Swift\u2019s wedding \u2026 and her chance, tragic encounter with Keir Starmer. Continue reading...",
-   "published": "2026-09-25T02:00:36+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-09-25T07:54:38.441176+00:00"
-  },
-  {
-   "id": "fea66d495cd5a380",
-   "title": "Zuckerberg, Altman, other Big Tech moguls among attendees at Trump-Xi dinner",
-   "url": "https://thehill.com/homenews/administration/6110866-trump-xi-white-house-dinner/",
-   "summary": "President Trump hosted Chinese President Xi Jinping at the White House for a state dinner Thursday, whose guest list is full of tech billionaires and some of the world\u2019s most powerful business leaders. Dressed in black tuxedoes, Meta CEO Mark Zuckerberg, OpenAI co-founder Sam Altman, Tesla and SpaceX CEO Elon Musk and Amazon founder Jeff...",
-   "published": "2026-09-25T01:34:29+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-25T07:54:38.596560+00:00"
-  },
-  {
-   "id": "45967f501e160d54",
-   "title": "Trump administration appeals to Supreme Court as 3rd-country deportations are thrown into question",
-   "url": "https://www.pbs.org/newshour/politics/trump-administration-appeals-to-supreme-court-as-3rd-country-deportations-are-thrown-into-question",
-   "summary": "A ruling to halt deportations of people to countries other than their own threw a core immigration policy of the Trump administration into question, at least temporarily, and prompted a desperate appeal to the Supreme Court on Thursday.",
-   "published": "2026-09-25T00:58:15+00:00",
-   "source": "PBS NewsHour Politics",
-   "source_id": "pbs-politics",
-   "bias_note": "center",
-   "first_seen": "2026-09-25T07:54:38.706004+00:00"
-  },
-  {
-   "id": "f8450e1d682e3732",
-   "title": "Xi can\u2019t escape protesters\u2019 cries at deafening dinner demonstration",
-   "url": "https://www.foxnews.com/politics/xi-escape-protesters-cries-deafening-dinner-demonstration",
-   "summary": "Protesters chanting &quot;Free Hong Kong&quot; and demanding freedom for political prisoners were heard over Trump&apos;s State Dinner welcoming Xi Jinping.",
-   "published": "2026-09-25T00:27:21+00:00",
-   "source": "Fox News Latest",
-   "source_id": "foxnews-latest",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-09-25T00:34:45.723220+00:00"
   }
  ]
 }
