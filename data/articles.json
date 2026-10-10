@@ -1,7 +1,139 @@
 {
- "updated": "2026-10-10T12:39:01.037140+00:00",
- "count": 893,
+ "updated": "2026-10-10T16:08:11.530999+00:00",
+ "count": 898,
  "articles": [
+  {
+   "id": "2af6029a8b266320",
+   "title": "The Memo: Guilfoyle furor rises as Trump stops short of expressing support",
+   "url": "https://thehill.com/homenews/analysis/6140076-trump-guilfoyle-controversy-response-column/",
+   "summary": "The uproar isn\u2019t dying down over U.S. Ambassador to Greece Kimberly Guilfoyle and her reported request to have a MAGA donor pay down her personal credit card debt. President Trump, when asked about the matter as he prepared to leave for New York Friday, was conspicuously noncommittal. \u201cI just heard about it: Too bad,\u201d Trump...",
+   "published": "2026-10-10T16:00:00+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-10T16:08:03.485831+00:00"
+  },
+  {
+   "id": "ddd6d3f68f649080",
+   "title": "Katie Zacharia hits ground running, promises Trump diesel deal delivers cheaper gas for Americans",
+   "url": "https://www.foxnews.com/media/incoming-press-chief-hits-ground-running-promises-trump-diesel-deal-delivers-cheaper-gas-americans",
+   "summary": "Katie Zacharia says Trump&apos;s diesel deal with Vladimir Putin will lower gas and grocery prices as she prepares to take the White House podium Monday.",
+   "published": "2026-10-10T15:53:59+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-10-10T16:07:58.224928+00:00"
+  },
+  {
+   "id": "7d8aaf6c5beb0d67",
+   "title": "ABC News quietly republishes gutted version of story on Trump sons it had deleted without explanation",
+   "url": "https://www.foxnews.com/media/abc-news-quietly-republishes-gutted-version-story-trump-sons-had-deleted-without-explanation",
+   "summary": "ABC News issued an editor&apos;s note admitting errors in its report on Donald Trump Jr. and Eric Trump&apos;s investments tied to Pentagon contracts.",
+   "published": "2026-10-10T15:18:55+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-10-10T16:07:58.224946+00:00"
+  },
+  {
+   "id": "3292f7f8dac8bc8a",
+   "title": "A replica of Donald Trump\u2019s Oval Office goes for the gold in Washington DC",
+   "url": "https://www.theguardian.com/us-news/2026/oct/10/donald-trump-oval-office-replica",
+   "summary": "The tourist attraction just unveiled an elaborate, full-scale overhaul to match Trump\u2019s second-term aestheticSitting behind a replica Resolute Desk, nine-year-old Sydney Wright posed for the camera like a future US president. \u201cI love it,\u201d she smiled. And what about the dazzling gold appliqu\u00e9s, gold leaf and gold trim surrounding her? \u201cIt\u2019s cool.\u201dSydney was among a steady stream of visitors on Thursday to The People\u2019s House: A White House Experience, an interactive museum \u2013 with an orientation film narrated by The West Wing star Martin Sheen \u2013 at 1700 Pennsylvania Avenue, just 150 yards from th",
+   "published": "2026-10-10T15:00:00+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-10-10T16:08:03.161831+00:00"
+  },
+  {
+   "id": "495ff983bc7e7e8e",
+   "title": "Ukraine hit by deadly Russian strikes as \u2018thanks\u2019 for Trump diesel deal, Zelenskyy says",
+   "url": "https://www.theguardian.com/world/2026/oct/10/ukraine-russia-strikes-war-trump-diesel-deal-zelenskyy",
+   "summary": "Ukrainian president says money from fuel sales will intensify war as European leaders reiterate support for KyivRussia launched deadly strikes on civilians in Ukraine as \u201cthanks\u201d for a deal cut by Donald Trump with Vladimir Putin to buy large quantities of Russian diesel, Volodymyr Zelenskyy has said, accusing Washington of helping fund Moscow\u2019s war.The Ukrainian president has expressed repeated outrage at the agreement announced by Trump on Friday, which the US president said was needed to reduce diesel prices, and comes ahead of November midterm elections where the cost of fuel is a key vote",
+   "published": "2026-10-10T14:45:15+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-10-10T16:08:03.161839+00:00"
+  },
+  {
+   "id": "46f969edd2543f18",
+   "title": "Kalshi investigating suspicious bets tied to White house press secretary pick: Report",
+   "url": "https://thehill.com/policy/technology/6140504-kalshi-investigates-press-secretary-bets/",
+   "summary": "Prediction market Kalshi has opened an investigation into suspicious bets related to President Trump\u2019s selection of his next press secretary, The Wall Street Journal reported.  The company said that it was looking into at least three trades placed on its platform shortly before news outlets began announcing the appointment of Katie Zacharia to the White...",
+   "published": "2026-10-10T14:09:42+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-10T16:08:03.485861+00:00"
+  },
+  {
+   "id": "b2ddef1a1ba8ead5",
+   "title": "Key American industry seeing blue-collar jobs boom as Trump's re-shoring policies pay off",
+   "url": "https://www.foxnews.com/politics/key-american-industry-seeing-blue-collar-jobs-boom-trump-reshoring-policies-pay",
+   "summary": "First on Fox: A CEA report says 72,000 manufacturing jobs were added in 2026 as reshoring and tariff policies reversed Biden-era offshoring.",
+   "published": "2026-10-10T14:00:00+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-10-10T16:07:58.145922+00:00"
+  },
+  {
+   "id": "aff6673df2e4727f",
+   "title": "Trump's Medicaid cuts strip refugees and other legal immigrants of their health coverage",
+   "url": "https://abcnews.com/Politics/wireStory/trumps-medicaid-cuts-strip-refugees-legal-immigrants-health-137157076",
+   "summary": "The Trump administration has cut Medicaid coverage for hundreds of thousands of legal immigrants, including refugees and trafficking victims",
+   "published": "2026-10-10T13:34:05+00:00",
+   "source": "ABC News Politics",
+   "source_id": "abc-politics",
+   "bias_note": "center",
+   "first_seen": "2026-10-10T16:08:11.210424+00:00"
+  },
+  {
+   "id": "93323d226c918d3a",
+   "title": "Paige Spiranac needs to embrace full integrity golf after putting incident, Trump's new hire & Ditka!",
+   "url": "https://www.foxnews.com/outkick-sports/paige-spiranac-embrace-full-integrity-golf-putting-incident-trumps-new-hire-ditka",
+   "summary": "Screencaps, America&apos;s best daily column, dives into golf&apos;s integrity crisis after Paige Spiranac&apos;s missed putt exposes amateur stroke shaving.",
+   "published": "2026-10-10T13:18:27+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-10-10T16:07:58.225022+00:00"
+  },
+  {
+   "id": "ece638335c0e1ea4",
+   "title": "Democrats explode over Trump's Russia diesel deal",
+   "url": "https://thehill.com/homenews/administration/6140462-democrats-slam-trump-putin-diesel-deal/",
+   "summary": "Democratic lawmakers pushed back Friday on President Trump\u2019s decision to lift sanctions on Russian oil amid global fuel shortages during U.S. military operations against Iran and the Russia-Ukraine war.\u00a0 The deal will permit Russian President Vladimir Putin\u2019s government to supply 300,000 tons of diesel to the U.S. and the global marketplace. \u201cI have just concluded...",
+   "published": "2026-10-10T13:02:54+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-10T16:08:03.485871+00:00"
+  },
+  {
+   "id": "e1920b7b7cfcc764",
+   "title": "Live updates: Trump headlines rally in Tennessee; Debate continues over Hasan's execution livestream",
+   "url": "https://thehill.com/homenews/administration/6140148-live-updates-trump-tennessee-rally-execution-livestream/",
+   "summary": "President Trump confirmed Friday that he would no longer be attending the University of Georgia vs. University of Alabama football game in Tuscaloosa due to Hurricane Isaias, but still plans on traveling to Tennessee for a midterm rally. \u201cI will go to Tennessee, where we have quickly called a Big Rally in order to get...",
+   "published": "2026-10-10T13:00:00+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-10T16:08:03.485879+00:00"
+  },
+  {
+   "id": "1c496cbb1e2940f0",
+   "title": "The storm is here: Georgia-Alabama set to write latest chapter after chaotic week around Hurricane Isaias",
+   "url": "https://www.foxnews.com/outkick-sports/storm-here-georgia-alabama-set-write-latest-chapter-after-chaotic-week-around-hurricane-isaias",
+   "summary": "Hurricane Isaias forced Trump to cancel his Alabama trip, but the Georgia vs. Alabama SEC showdown at Bryant Denny Stadium rolls on tonight.",
+   "published": "2026-10-10T12:55:10+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-10-10T16:07:58.225040+00:00"
+  },
   {
    "id": "679cc1c42ce8e008",
    "title": "Trump: I 'should have won' Nobel Peace Prize, award is 'forever discredited'",
@@ -9747,83 +9879,6 @@
    "source_id": "foxnews-latest",
    "bias_note": "right-leaning",
    "first_seen": "2026-09-26T16:28:03.516041+00:00"
-  },
-  {
-   "id": "2d7af33f10e7edef",
-   "title": "National security becomes Trump\u2019s buzzword for legal fights",
-   "url": "https://thehill.com/regulation/court-battles/6112509-trump-national-security-media-ban/",
-   "summary": "When President Trump announced he was kicking three news organizations out of the White House, he made clear it was because of his displeasure with their reporting.  But days into the ban, he turned to a familiar argument to justify his decision. It was about national security. \u201cFake News people and publications that only write negatively,...",
-   "published": "2026-09-26T16:00:00+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-26T16:28:04.084793+00:00"
-  },
-  {
-   "id": "d735dcf9ee696358",
-   "title": "Bill Maher credits Trump\u2019s \u2018kick a--\u2019 crime approach as violent offenses fall across America",
-   "url": "https://www.foxnews.com/media/bill-maher-credits-trumps-kick-a-crime-approach-violent-offenses-fall-across-america",
-   "summary": "Bill Maher praised Donald Trump&apos;s tough-on-crime persona on &quot;Real Time,&quot; saying the &quot;f---around-and-find-out president&quot; sent a message to bad guys.",
-   "published": "2026-09-26T15:52:04+00:00",
-   "source": "Fox News Latest",
-   "source_id": "foxnews-latest",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-09-26T16:28:03.516049+00:00"
-  },
-  {
-   "id": "7739dc4cbf1634ca",
-   "title": "US, China strike deal to lower tariffs on $30B in goods after Trump-Xi Washington summit",
-   "url": "https://www.foxnews.com/politics/us-china-strike-deal-lower-tariffs-30b-goods-trump-xi-washington-summit",
-   "summary": "The United States and China agreed to slash tariffs on $30 billion in goods after Trump and Xi Jinping&apos;s three-day Washington summit this week.",
-   "published": "2026-09-26T15:41:14+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-09-26T16:28:03.498956+00:00"
-  },
-  {
-   "id": "6a1283858c744501",
-   "title": "Tennessee fans excited for Trump's attendance at game vs Texas: 'I hope he stays the whole game'",
-   "url": "https://www.foxnews.com/outkick-sports/tennessee-fans-excited-trump-attendance-game-vs-texas-hope-stays-whole-game",
-   "summary": "Neyland Stadium opened its gates early with 50% off beer as Tennessee Vols fans gear up for the No. 1 Texas SEC showdown and Trump&apos;s arrival.",
-   "published": "2026-09-26T15:06:23+00:00",
-   "source": "Fox News Latest",
-   "source_id": "foxnews-latest",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-09-26T16:28:03.516084+00:00"
-  },
-  {
-   "id": "8c1f34c551158d26",
-   "title": "Hidden California desert pet cemetery holds unexpected piece of White House history",
-   "url": "https://www.foxnews.com/media/hidden-california-desert-pet-cemetery-holds-unexpected-piece-white-house-history",
-   "summary": "Charley Stewart&apos;s Haven for Pets in Desert Hot Springs holds graves of Gerald Ford&apos;s dog Liberty and pets once owned by Liberace and Hollywood stars.",
-   "published": "2026-09-26T14:00:22+00:00",
-   "source": "Fox News Latest",
-   "source_id": "foxnews-latest",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-09-26T14:54:46.873186+00:00"
-  },
-  {
-   "id": "fed362db8fe0f556",
-   "title": "Trump rejects Iran's 7-day plan to end war, expects bombing to resume post-midterms: Report",
-   "url": "https://thehill.com/homenews/administration/6113000-trump-iran-proposal-ceasefire/",
-   "summary": "President Trump privately rejected Iran\u2019s seven-day proposal to reopen the Strait of Hormuz and enter a ceasefire and is considering renewed military strikes against the country after the midterm elections in November. According to a report from the Wall Street Journal citing U.S. officials, the president is skeptical over Iran's ability to honor its end...",
-   "published": "2026-09-26T13:33:10+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-26T14:54:48.649388+00:00"
-  },
-  {
-   "id": "d6c7ec02594fdfcf",
-   "title": "Live updates: Trump attends Texas-Tennessee football game in Knoxville; US, China to cut tariffs on $30 billion worth of goods",
-   "url": "https://thehill.com/homenews/6112836-live-updates-trump-college-football-gop/",
-   "summary": "President Trump will attend the University of Texas vs. University of Tennessee football game in Knoxville at noon on Saturday \u2014 an appearance coming ahead of senators' last chance to pass the Protect College Sports Act before recessing into a lame-duck period. Trump will fly to Knoxville Saturday morning to watch the Texas Longhorns, ranked...",
-   "published": "2026-09-26T13:00:00+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-26T14:54:48.649400+00:00"
   }
  ]
 }
