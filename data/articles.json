@@ -1,7 +1,106 @@
 {
- "updated": "2026-10-10T05:59:06.174698+00:00",
- "count": 898,
+ "updated": "2026-10-10T12:39:01.037140+00:00",
+ "count": 893,
  "articles": [
+  {
+   "id": "679cc1c42ce8e008",
+   "title": "Trump: I 'should have won' Nobel Peace Prize, award is 'forever discredited'",
+   "url": "https://thehill.com/homenews/administration/6140425-trump-nobel-peace-prize-criticism/",
+   "summary": "President Trump argued Friday that he should have been awarded the Nobel Peace Prize over this year\u2019s Nobel laureate, former International Criminal Court (ICC) judge Navi Pillay.  The president, who has long coveted the honor, was gifted the award by last year\u2019s recipient, Venezuelan opposition leader Mar\u00eda Corina Machado.  In a late evening Truth Social...",
+   "published": "2026-10-10T11:55:40+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-10T12:39:00.381783+00:00"
+  },
+  {
+   "id": "66548c2ca75d52fb",
+   "title": "\u2018People are pissed\u2019: union decries TSA\u2019s removal of chairs for checkpoint staff",
+   "url": "https://www.theguardian.com/us-news/2026/oct/10/tsa-union-agency-checkpoints-chairs",
+   "summary": "Order for workers to remain standing to \u2018reinforce professionalism\u2019 draws rebuke amid plunging moraleUnion officials have launched a campaign to allow airport security staff to sit once more after the Trump administration unilaterally removed all the chairs for Transportation Security Administration (TSA) staff at checkpoints.\u201cPeople are pissed,\u201d said Johnny Jones, secretary-treasurer of American Federation of Government Employees (AFGE) TSA council 100 and president of AFGE local 1040, which represents TSA workers in Dallas-Fort Worth. Continue reading...",
+   "published": "2026-10-10T11:00:55+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-10-10T12:39:00.135363+00:00"
+  },
+  {
+   "id": "1eef6b77596bd95b",
+   "title": "\u2018Donroe\u2019 Doctrine and conservative victories squeeze cartels in Latin America",
+   "url": "https://www.foxnews.com/opinion/donroe-doctrine-conservative-victories-squeeze-cartels-latin-america",
+   "summary": "The Sinaloa cartel and CJNG are rapidly adapting as Trump&apos;s Shield of the Americas coalition squeezes drug trafficking routes across the hemisphere.",
+   "published": "2026-10-10T11:00:03+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-10-10T12:38:59.558420+00:00"
+  },
+  {
+   "id": "b0f80d99774e1446",
+   "title": "Ohio dog park shooting over Trump argument could end with two self-defense claims, or none: legal expert",
+   "url": "https://www.foxnews.com/us/ohio-dog-park-shooting-trump-argument-self-defense-claims-legal-expert",
+   "summary": "Both men in the Ohio dog park shootout over Donald Trump could claim self-defense or neither could, a legal expert says, creating a rare puzzle.",
+   "published": "2026-10-10T10:00:28+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-10-10T12:38:59.558453+00:00"
+  },
+  {
+   "id": "b47ea9dac1626a97",
+   "title": "You\u2019d never guess the crazy things cash welfare paid for. Nebraska is shutting that down",
+   "url": "https://www.foxnews.com/opinion/youd-never-guess-crazy-things-cash-welfare-paid-nebraska-shutting-down",
+   "summary": "Nebraska and Florida are blocking cash welfare spending on alcohol, porn, tattoos and more, following Trump administration guidance on TANF reform.",
+   "published": "2026-10-10T10:00:03+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-10-10T12:38:59.558467+00:00"
+  },
+  {
+   "id": "2e3cf6f7d6803cb1",
+   "title": "What to know about 7-OH, MGPI, the synthetic kratom extracts known as 'gas station opioid'",
+   "url": "https://thehill.com/policy/healthcare/6140069-kratom-extracts-federal-authorities/",
+   "summary": "Federal authorities and lawmakers are cracking down on synthetic concentrates of kratom, an herbal product sold legally over the counter in most states, as concerns rise over their risk to public health.\u00a0 The Drug Enforcement Administration (DEA) signaled heightened concerns about kratom-derived extracts earlier this year when it announced plans to\u00a0temporarily ban products containing concentrations...",
+   "published": "2026-10-10T10:00:00+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-10T12:39:00.381793+00:00"
+  },
+  {
+   "id": "71e6ddfe4dc5287a",
+   "title": "As Trump\u2019s Wall Closes in, DHS Intimidates a Border Tribe With Surveillance, Masked Agents and Drones",
+   "url": "https://www.propublica.org/article/tohono-oodham-nation-arizona-border-wall",
+   "summary": "The post As Trump\u2019s Wall Closes in, DHS Intimidates a Border Tribe With Surveillance, Masked Agents and Drones appeared first on ProPublica.",
+   "published": "2026-10-10T10:00:00+00:00",
+   "source": "ProPublica",
+   "source_id": "propublica",
+   "bias_note": "investigative",
+   "first_seen": "2026-10-10T12:39:00.627353+00:00"
+  },
+  {
+   "id": "aa06d8a19064d19f",
+   "title": "Watch: Inside Our $22K Sports Betting Experiment",
+   "url": "https://www.propublica.org/article/sports-betting-problem-gambling-draftkings-fanduel",
+   "summary": "The post Watch: Inside Our $22K Sports Betting Experiment appeared first on ProPublica.",
+   "published": "2026-10-10T09:00:00+00:00",
+   "source": "ProPublica",
+   "source_id": "propublica",
+   "bias_note": "investigative",
+   "first_seen": "2026-10-10T12:39:00.627358+00:00"
+  },
+  {
+   "id": "5c1d78c7d5449b13",
+   "title": "\u2018Gaza is a moral tear in the universe\u2019: Naomi Klein and Astra Taylor | Radical Thinking with Aditya Chakrabortty \u2013 podcast",
+   "url": "https://www.theguardian.com/politics/audio/2026/oct/10/gaza-is-a-moral-tear-in-the-universe-naomi-klein-and-astra-taylor-radical-thinking-with-aditya-chakrabortty-podcast",
+   "summary": "Are we really living through \u2018end times fascism\u2019? Naomi Klein and Astra Taylor think so.In a new series from the Guardian, the pair speak to Radical Thinking with Aditya Chakrabortty in an extended interview. From Trump 2.0 and the rise of the tech billionaire to Gaza and the climate emergency, Klein and Taylor argue we are not just lurching from crisis to crisis but are in a new and dangerous moment in history. But they haven\u2019t given up hope of a fightbackRadical Thinking will be published every Saturday in the Politics Weekly feedYou can watch the full interview with Naomi Klein and Astra Ta",
+   "published": "2026-10-10T06:45:50+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-10-10T12:39:00.135379+00:00"
+  },
   {
    "id": "aafe839eddd27974",
    "title": "Federal judge: DOJ cannot request states' voter lists for eligibility database",
@@ -9725,160 +9824,6 @@
    "source_id": "thehill",
    "bias_note": "center",
    "first_seen": "2026-09-26T14:54:48.649400+00:00"
-  },
-  {
-   "id": "f9873b241ba6d7ea",
-   "title": "Trump revives rare budget maneuver to rescind $810M in congressionally approved funds",
-   "url": "https://www.foxnews.com/politics/trump-revives-rare-budget-maneuver-rescind-810m-congressionally-approved-funds",
-   "summary": "Trump used a pocket rescission to cancel $810 million in approved spending on refugee programs, diversity initiatives and migrant education.",
-   "published": "2026-09-26T12:27:36+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-09-26T14:54:46.846946+00:00"
-  },
-  {
-   "id": "95ac4e3e3665b734",
-   "title": "US, China agree to cut tariffs on $30 billion worth of goods, set up channel for AI incidents",
-   "url": "https://thehill.com/homenews/administration/6112947-donald-trump-xi-jinping-tariffs/",
-   "summary": "The U.S. and China agreed to lower tariffs on $30 billion worth of goods each country imports from the other and launch new talks on artificial intelligence (AI) following President Trump\u2019s summit with Chinese President Xi Jinping. The agreements were part of an eight-point consensus reached during Xi\u2019s three-day state visit to Washington, D.C., which...",
-   "published": "2026-09-26T12:10:22+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-26T14:54:48.649415+00:00"
-  },
-  {
-   "id": "f90e316c2c708d92",
-   "title": "Kamala Harris is belatedly courting progressives. Is it too little, too late? | Arwa Mahdawi",
-   "url": "https://www.theguardian.com/commentisfree/2026/sep/26/kamala-harris-progressives-arab-americans",
-   "summary": "As she mulls another presidential run, the former VP is building bridges with progressive and Arab American leadersDoes Donald Trump secretly want Republicans to get annihilated in the midterms? Because he\u2019s certainly acting that way. He continues to brush off concerns about the cost of living, saying last week that high gas prices are a very \u201cinexpensive price to pay\u201d for the war on Iran.And, of course, the president seems to have no plans to end that disastrous war, apart from making vague threats about blowing the entire country up. Trust me, he keeps saying, everything will get better afte",
-   "published": "2026-09-26T12:00:35+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-09-26T14:54:47.545823+00:00"
-  },
-  {
-   "id": "983bcafa9c520e5e",
-   "title": "Press pool dispute escalates as White House cuts CNN from Air Force One travel",
-   "url": "https://www.npr.org/2026/09/26/nx-s1-5981494/press-pool-dispute-escalates-as-white-house-cuts-cnn-from-air-force-one-travel",
-   "summary": "The White House has barred CNN from traveling on Air Force One this weekend. It's another chapter in President Trump's fight with the press, and it appears there will be no TV pool coverage today.",
-   "published": "2026-09-26T11:38:03+00:00",
-   "source": "NPR Politics",
-   "source_id": "npr-politics",
-   "bias_note": "center",
-   "first_seen": "2026-09-26T14:54:47.411734+00:00"
-  },
-  {
-   "id": "bc7fb4a9f04d4263",
-   "title": "Week in Politics: Trump faces Republican defections; U.S.-China summit; press feud",
-   "url": "https://www.npr.org/2026/09/26/nx-s1-5979806/week-in-politics-trump-faces-republican-defections-u-s-china-summit-press-feud",
-   "summary": "Some GOP candidates are stepping back from unpopular Trump administration policies. Meanwhile, a U.S.-China summit at the White House and tensions with the press corps.",
-   "published": "2026-09-26T11:37:54+00:00",
-   "source": "NPR Politics",
-   "source_id": "npr-politics",
-   "bias_note": "center",
-   "first_seen": "2026-09-26T14:54:47.411750+00:00"
-  },
-  {
-   "id": "9bce964067973674",
-   "title": "Battle for the Lehigh Valley: Can GOP hold its razor-thin margin?",
-   "url": "https://www.npr.org/2026/09/26/nx-s1-5947225/battle-for-the-lehigh-valley-can-gop-hold-its-razor-thin-margin",
-   "summary": "Both parties target the Lehigh Valley for House control. While the GOP made inroads with Latinos, Dems argue Trump's immigration stance hurts them. Can Republicans hold this 1% margin swing seat?",
-   "published": "2026-09-26T11:37:51+00:00",
-   "source": "NPR Politics",
-   "source_id": "npr-politics",
-   "bias_note": "center",
-   "first_seen": "2026-09-26T14:54:47.411753+00:00"
-  },
-  {
-   "id": "d9eb416f9020f439",
-   "title": "Thomas Jefferson letter goes on the market \u2013 containing a prescient warning for Trump today",
-   "url": "https://www.theguardian.com/us-news/2026/sep/26/thomas-jefferson-letter-trump-warning",
-   "summary": "Third US president wrote in 1787 about importance of peace, paying off debt and supporting agricultureA remarkably prescient letter written by Thomas Jefferson, the third US president, advising how the newly created country could prosper, has been put up for sale by a private collector. The handwritten document from 1787 warns specifically against many of the missteps Donald Trump has taken to drag down his own second term of office.Written in Paris, where Jefferson was the fledgling government\u2019s minister to France, the note to David Rittenhouse, a friend and fellow member of the American Phil",
-   "published": "2026-09-26T11:00:34+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-09-26T11:30:47.168314+00:00"
-  },
-  {
-   "id": "1506144567b033e8",
-   "title": "Trump\u2019s Greenland deal shadows Xi visit after years of Beijing eyeing Arctic influence",
-   "url": "https://www.foxnews.com/politics/trumps-greenland-deal-shadows-xi-visit-after-years-beijing-eyeing-arctic-influence",
-   "summary": "Trump&apos;s Greenland security deal blocked China&apos;s Arctic ambitions days before Xi Jinping arrived for a state dinner with America&apos;s top AI executives.",
-   "published": "2026-09-26T10:00:37+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-09-26T11:30:46.359713+00:00"
-  },
-  {
-   "id": "6b42ee2bd0f47687",
-   "title": "The truth behind Donald Trump\u2019s \u2018biggest oil deal in world history\u2019",
-   "url": "https://www.theguardian.com/us-news/2026/sep/26/donald-trump-oil-deal-with-venezuela",
-   "summary": "The US\u2019s oil deal with Venezuela faces multiple legal and logistical problems, including questions about whether it can be implemented Donald Trump has long coveted the oilfields of other nations and declared an agreement with Venezuela to be \u201cthe biggest oil deal in world history\u201d. But the deal, reached after the US seized Venezuelan president Nicol\u00e1s Maduro, is almost certainly doomed to collapse amid a wide array of legal and logistical issues, a Guardian investigation has found.The US president first mused about taking oil from Iran in 1987, when he told ABC\u2019s Barbara Walters that Iranian ",
-   "published": "2026-09-26T10:00:33+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-09-26T11:30:47.168340+00:00"
-  },
-  {
-   "id": "bec981f217d6dc0a",
-   "title": "Trump faces growing GOP dissent in heartland as policies bite",
-   "url": "https://thehill.com/homenews/administration/6111406-republicans-break-trump-iran-war/",
-   "summary": "A growing number of Republicans in the heartland are breaking with President Trump on policies that are unpopular as the GOP worries about paying the price for them in the upcoming elections.\u00a0 Lawmakers and candidates in Iowa, Michigan and Ohio have called for a quick end to the Iran war amid high gas and diesel...",
-   "published": "2026-09-26T10:00:00+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-26T11:30:47.471786+00:00"
-  },
-  {
-   "id": "2cd6ef3967d5e1aa",
-   "title": "Trump's polls sink further in warning sign for GOP",
-   "url": "https://thehill.com/homenews/administration/6112712-trump-approval-ratings-midterm-elections/",
-   "summary": "President Trump\u2019s approval ratings have sunk to new lows in several recent polls, driven by declining GOP support and souring views on the economy in a possible warning sign for Republicans just weeks out from the midterms. In the latest Reuters/Ipsos poll, Trump\u2019s overall approval fell three points from the previous week to an all-time...",
-   "published": "2026-09-26T10:00:00+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-26T11:30:47.471794+00:00"
-  },
-  {
-   "id": "cb854f1d801f1db8",
-   "title": "I Deliberately Bet Like a Problem Gambler. DraftKings Made Me a VIP.",
-   "url": "https://www.propublica.org/article/draftkings-sports-gambling-problem-vip-fanduel",
-   "summary": "The post I Deliberately Bet Like a Problem Gambler. DraftKings Made Me a VIP. appeared first on ProPublica.",
-   "published": "2026-09-26T09:00:00+00:00",
-   "source": "ProPublica",
-   "source_id": "propublica",
-   "bias_note": "investigative",
-   "first_seen": "2026-09-26T11:30:48.067106+00:00"
-  },
-  {
-   "id": "b8305af197a3af81",
-   "title": "What Does Your Data Reveal About Sports Betting Apps? Help ProPublica Find Out.",
-   "url": "https://projects.propublica.org/sports-betting-uploader",
-   "summary": "The post What Does Your Data Reveal About Sports Betting Apps? Help ProPublica Find Out. appeared first on ProPublica.",
-   "published": "2026-09-26T08:55:00+00:00",
-   "source": "ProPublica",
-   "source_id": "propublica",
-   "bias_note": "investigative",
-   "first_seen": "2026-09-26T11:30:48.067112+00:00"
-  },
-  {
-   "id": "77b10b070de87ddd",
-   "title": "\u2018The weaker he gets, the more dangerous he gets\u2019: Trump lashes out as his power wanes",
-   "url": "https://www.theguardian.com/news/ng-interactive/2026/sep/25/trump-lashes-out-un-fed-supreme-court",
-   "summary": "Trump tries to dominate at the UN as his approval ratings plummet and even some Republicans stray from the scriptDonald Trump stood before the United Nations on Tuesday and threatened to \u201cannihilate\u201d Iran. Yet even as the most powerful man on the planet flexed his military muscles, he was powerless to keep the gravitational pull of domestic politics at bay.Heading into the UN building in New York, the US president was questioned by Kaitlan Collins, an anchor at CNN, which he had banned from the White House before a judge ruled against him. \u201cI\u2019m surprised that CNN is here covering me,\u201d the 80-y",
-   "published": "2026-09-26T06:00:27+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-09-26T11:30:47.168344+00:00"
   }
  ]
 }
