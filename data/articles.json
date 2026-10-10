@@ -1,7 +1,150 @@
 {
- "updated": "2026-10-09T22:42:37.088978+00:00",
- "count": 893,
+ "updated": "2026-10-10T05:59:06.174698+00:00",
+ "count": 898,
  "articles": [
+  {
+   "id": "aafe839eddd27974",
+   "title": "Federal judge: DOJ cannot request states' voter lists for eligibility database",
+   "url": "https://thehill.com/regulation/court-battles/6140273-judge-blocks-doj-voter-rolls-program/",
+   "summary": "A federal judge struck down on Friday the Justice Department\u2019s nationwide effort to collect voter registration records and identify suspected non-U.S. citizens, blocking the Trump administration from continuing the program even in states that voluntarily cooperated. U.S. District Judge Sparkle Sooknanan in Washington ruled the department exceeded its legal authority and violated federal privacy laws...",
+   "published": "2026-10-10T03:13:42+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-10T05:59:05.600301+00:00"
+  },
+  {
+   "id": "7b7edbab5831ea64",
+   "title": "Trump asks Supreme Court to look at 2016 election lawsuit against Clinton: Report",
+   "url": "https://thehill.com/homenews/administration/6140233-trump-supreme-court-clinton-lawsuit-appeal/",
+   "summary": "President Trump asked the Supreme Court on Friday to reopen his dismissed lawsuit against former Secretary of State Hillary Clinton, reviving claims that she and other political adversaries orchestrated an effort to sabotage his 2016 presidential campaign by tying it to Russia. Trump filed the appeal after a federal judge dismissed his case and ordered...",
+   "published": "2026-10-10T02:47:13+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-10T05:59:05.600308+00:00"
+  },
+  {
+   "id": "3b987b583c532698",
+   "title": "Trump rallies New York crowd for Republican Bruce Blakeman's bid to replace Gov. Kathy Hochul",
+   "url": "https://www.foxnews.com/politics/trump-rallies-new-york-crowd-republican-bruce-blakemans-bid-replace-gov-kathy-hochul",
+   "summary": "President Donald Trump rallied Syracuse supporters behind Bruce Blakeman&apos;s bid to unseat Gov. Kathy Hochul, promising tax cuts and cheaper energy for New York families.",
+   "published": "2026-10-10T02:42:49+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-10-10T05:59:04.973586+00:00"
+  },
+  {
+   "id": "dc6a6a6ea2f981fa",
+   "title": "Trump fumes over Nobel peace prize snub and criticizes Norway",
+   "url": "https://www.theguardian.com/us-news/2026/oct/09/trump-nobel-peace-prize",
+   "summary": "President complains about not winning prize in year he started war with Iran and says: \u2018We will not forget, Norway\u2019Donald Trump complained Friday about not winning the Nobel peace prize for 2026, a year in which he started a war with Iran.At what was supposed to be a rally for other Republican candidates in Syracuse, New York, the US president devoted a long portion of his speech airing his grievances with the Nobel committee. Continue reading...",
+   "published": "2026-10-10T01:57:03+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-10-10T05:59:05.426359+00:00"
+  },
+  {
+   "id": "734fa7f9becba640",
+   "title": "Trump brings Mike Tyson on stage at Syracuse rally, jokes that he is Bruce Blakeman's personal security",
+   "url": "https://www.foxnews.com/outkick-sports/trump-brings-mike-tyson-stage-syracuse-rally-jokes-bruce-blakeman-personal-security",
+   "summary": "Trump brought Mike Tyson on Air Force One to a Syracuse rally for Bruce Blakeman, the Republican running to unseat New York Gov. Kathy Hochul.",
+   "published": "2026-10-10T01:45:43+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-10-10T05:59:04.993696+00:00"
+  },
+  {
+   "id": "731bd19d97570e90",
+   "title": "Gov Kathy Hochul signs New York onto Trump's school choice program despite teachers union opposition",
+   "url": "https://www.foxnews.com/media/gov-kathy-hochul-signs-new-york-trump-school-choice-program-despite-teachers-union-opposition",
+   "summary": "New York Gov. Kathy Hochul joined President Donald Trump&apos;s Education Freedom Tax Credit despite fierce opposition from teachers unions and a petition to reject it.",
+   "published": "2026-10-10T01:03:12+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-10-10T05:59:04.993701+00:00"
+  },
+  {
+   "id": "66e6cbcc17c72bf0",
+   "title": "James Talarico resurfaces after extended absence as his campaign pushes back",
+   "url": "https://www.foxnews.com/politics/james-talarico-resurfaces-after-12-day-absence-sparked-campaign-trail-attacks",
+   "summary": "James Talarico resurfaces at Austin City Limits after a 12-day absence that drew sharp attacks from Trump and Ken Paxton on the campaign trail.",
+   "published": "2026-10-10T00:41:11+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-10-10T05:59:04.973594+00:00"
+  },
+  {
+   "id": "83b1ce2134afbbbb",
+   "title": "Trump gives raw reaction after finding out about Mike Ditka's death: 'A tough cookie'",
+   "url": "https://www.foxnews.com/outkick-sports/trump-raw-reaction-mike-ditka-death-tough-cookie",
+   "summary": "Trump called Mike Ditka &quot;a tough cookie&quot; and &quot;a winner&quot; after learning of the Hall of Fame Chicago Bears coach&apos;s death on the South Lawn Friday.",
+   "published": "2026-10-10T00:13:38+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-10-10T05:59:04.993722+00:00"
+  },
+  {
+   "id": "ae015a3e0ac91951",
+   "title": "GOP priorities alienate MAHA supporters",
+   "url": "https://thehill.com/newsletters/healthcare/6140164-gop-priorities-alienate-maha-supporters/",
+   "summary": "Click in for more news from The Hill {beacon} Healthcare Healthcare &#8202; The Big Story  GOP priorities alienate MAHA supporters Supporters of the \u201cMake America Healthy Again\u201d (MAHA) agenda are feeling betrayed by the Republican Party as the administration cozies up to industry insiders and lawmakers support legislation contrary to their values.  \u00a9 AP Photo/Jacquelyn...",
+   "published": "2026-10-10T00:08:52+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-10T05:59:05.600320+00:00"
+  },
+  {
+   "id": "62c2e05aebf20a43",
+   "title": "Zelensky decries US-Russia diesel deal: 'Gifts to Putin will not bring peace'",
+   "url": "https://thehill.com/policy/energy-environment/6140146-zelensky-blasts-trump-russia-diesel-deal/",
+   "summary": "Ukrainian President Volodymyr Zelensky lambasted President Trump\u2019s Friday deal allowing Russia to supply the U.S. and global market with diesel, arguing the move would give the Kremlin more money to fund its war in Ukraine and undermine peace efforts. \u201cGifts to Putin will not bring peace or any benefit to the civilized world,\u201d Zelensky wrote...",
+   "published": "2026-10-10T00:07:02+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-10T05:59:05.600326+00:00"
+  },
+  {
+   "id": "119448293e4fed32",
+   "title": "Presidential Message on Leif Erikson Day",
+   "url": "https://www.whitehouse.gov/briefings-statements/2026/10/presidential-message-on-leif-erikson-day/",
+   "summary": "Half a millennium before legendary American hero Christopher Columbus set foot in the New World, Norse explorer Leif Erikson made history as the first European to arrive on the North American continent.&#160; This Leif Erikson Day, we celebrate his exceptional legacy of bravery, daring, and exploration as we build upon our extraordinary relationships with our [&#8230;]\nThe post Presidential Message on Leif Erikson Day appeared first on The White House.",
+   "published": "2026-10-09T23:48:59+00:00",
+   "source": "WhiteHouse.gov News",
+   "source_id": "whitehouse",
+   "bias_note": "official/primary-source",
+   "first_seen": "2026-10-10T05:59:05.023559+00:00"
+  },
+  {
+   "id": "504e0e5c81705118",
+   "title": "Zelenskyy furious as Trump announces deal to buy Russian diesel",
+   "url": "https://www.theguardian.com/us-news/2026/oct/09/trump-putin-russian-diesel-ukraine",
+   "summary": "President says deal essential to lower US fuel prices but move set to create fresh crisis with Ukraine and Nato alliesDonald Trump was on a fresh collision course with the Ukrainian president, Volodymyr Zelenskyy, and European allies on Friday after a stunning agreement to buy Russian diesel, upending years of US and western pressure on the Kremlin to end its four-and-a-half year war against Ukraine.Zelenskyy reacted furiously to Trump\u2019s announcement of the deal with President Vladimir Putin of Russia, calling it \u201cabsolutely terrible\u201d and \u201cnot fair and not honest\u201d. Continue reading...",
+   "published": "2026-10-09T23:39:31+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-10-10T05:59:05.426367+00:00"
+  },
+  {
+   "id": "fba712d0e9413376",
+   "title": "News Wrap: Trump announces diesel deal with Russia",
+   "url": "https://www.pbs.org/newshour/show/news-wrap-trump-announces-diesel-deal-with-russia",
+   "summary": "In our news wrap Friday, Trump says he struck a deal with Russia for millions of tons of diesel in a bid to lower U.S. energy prices, Katie Zacharia will replace Karoline Leavitt as White House press secretary, the Pentagon's plans to livestream an execution has drawn strong reactions, Trump launched a new effort to fire Fed governor Lisa Cook, and NFL legend Mike Ditka died at age 86.",
+   "published": "2026-10-09T22:45:13+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-10-10T05:59:05.656942+00:00"
+  },
   {
    "id": "42a6e8f93dfecd25",
    "title": "Navi Pillay wins Nobel Peace Prize after long career of investigating war crimes",
@@ -12,6 +155,17 @@
    "source_id": "pbs-politics",
    "bias_note": "center",
    "first_seen": "2026-10-09T22:42:36.442817+00:00"
+  },
+  {
+   "id": "0172058fb92e6a34",
+   "title": "'It was a definite quid pro quo.' GOP donor who accused Guilfoyle of corruption speaks out",
+   "url": "https://www.pbs.org/newshour/show/it-was-a-definite-quid-pro-quo-gop-donor-who-accused-guilfoyle-of-corruption-speaks-out",
+   "summary": "A Republican donor is accusing U.S. Ambassador to Greece Kimberly Guilfoyle of asking for $100,000 in exchange for access to top Trump administration officials. Amna Nawaz speaks with Eric Deters, a former Kentucky congressional candidate, about the requests for payment and the access he was promised in return that he argues Guilfoyle never provided.",
+   "published": "2026-10-09T22:30:02+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-10-10T05:59:05.656958+00:00"
   },
   {
    "id": "fa9421b0542e5bfc",
@@ -9725,105 +9879,6 @@
    "source_id": "guardian-uspolitics",
    "bias_note": "left-leaning",
    "first_seen": "2026-09-26T11:30:47.168344+00:00"
-  },
-  {
-   "id": "2fbedf30d8000404",
-   "title": "Fact Sheet: President Donald J. Trump Advances a Fair and Reciprocal Relationship with China While Hosting Historic State Visit",
-   "url": "https://www.whitehouse.gov/fact-sheets/2026/09/fact-sheet-president-donald-j-trump-advances-a-fair-and-reciprocal-relationship-with-china-while-hosting-historic-state-visit/",
-   "summary": "DELIVERING FOR AMERICANS:&#160;This week, President Donald J. Trump and First Lady Melania Trump hosted President Xi Jinping and Madame Peng Liyuan of the People\u2019s Republic of China for a reciprocal State Visit. During the visit, President Trump advanced the U.S.-China relationship and put the American people first.&#160; OPERATIONALIZING THE BOARDS OF TRADE AND INVESTMENT:&#160;This week, [&#8230;]\nThe post Fact Sheet: President Donald J. Trump Advances a Fair and Reciprocal Relationship with China While Hosting Historic State Visit appeared first on The White House.",
-   "published": "2026-09-26T03:29:32+00:00",
-   "source": "WhiteHouse.gov News",
-   "source_id": "whitehouse",
-   "bias_note": "official/primary-source",
-   "first_seen": "2026-09-26T05:05:32.401577+00:00"
-  },
-  {
-   "id": "a255f9d98f554207",
-   "title": "CNN says its reporters were barred from joining press pool on Air Force One",
-   "url": "https://thehill.com/media/6112790-trump-cnn-barred-air-force-one/",
-   "summary": "CNN reported its journalists have been barred from joining the press pool traveling with President Trump this weekend. They were set to board Air Force One Saturday to cover his visit to Knoxville for a college football game.\u00a0 The outlet had been scheduled to serve as this weekend's TV press pooler \u2014 a rotating group...",
-   "published": "2026-09-26T02:14:15+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-26T05:05:33.386633+00:00"
-  },
-  {
-   "id": "902d5b72743dbb85",
-   "title": "Trump rescinds nearly $1B in federal funding, bypassing congressional approval",
-   "url": "https://thehill.com/homenews/administration/6112779-trump-cancels-billion-federal-funding/",
-   "summary": "President Trump cancelled almost $1 billion in federal funding Friday using the controversial \u201cpocket rescission\" process, which allows him to sidestep congressional approval. Most of the cancellations targeted Health and Human Services (HHS) programs serving undocumented immigrants and unaccompanied children in court, as well as similar initiatives under the agency's Minority Health office and the...",
-   "published": "2026-09-26T01:50:22+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-26T05:05:33.386642+00:00"
-  },
-  {
-   "id": "a1cf8c32963b7ee1",
-   "title": "White House blocks CNN from Air Force One in latest escalation with news media",
-   "url": "https://www.theguardian.com/us-news/2026/sep/25/white-house-cnn-air-force-one",
-   "summary": "Outlet had been scheduled to fly with Donald Trump to Tennessee for a college football game, network said FridayThe White House has blocked CNN from traveling aboard Air Force One on Saturday, impeding its TV press pool duties in the latest escalation of the administration\u2019s battle with the news media.CNN had been scheduled to fly with Donald Trump to Tennessee for a college football game, the network said on Friday. The White House confirmed CNN\u2019s exclusion when it did not list the network on guidance sent to the press corps regarding Trump\u2019s schedule for Saturday. Continue reading...",
-   "published": "2026-09-26T01:31:05+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-09-26T05:05:32.995201+00:00"
-  },
-  {
-   "id": "ed42b39c553894b8",
-   "title": "Trump cancels nearly $1bn in funding approved by Congress",
-   "url": "https://www.theguardian.com/us-news/2026/sep/25/trump-cancels-congress-funding",
-   "summary": "President using rare power to revoke expenditure with bipartisan approval to aid immigrant servicesDonald Trump is canceling nearly $1bn in spending approved by Congress, the White House announced on Friday, using a rare and contested power to axe funding for immigrant services and diversity-focused initiatives.Trump\u2019s office of management and budget described the funding cut as focused on \u201cthe most harmful government spending\u201d. Continue reading...",
-   "published": "2026-09-26T01:00:34+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-09-26T05:05:32.995213+00:00"
-  },
-  {
-   "id": "410c71f85c60c4ef",
-   "title": "GOP senators not happy with Trump's embrace of Xi after China helped Iran",
-   "url": "https://thehill.com/policy/defense/overnights/6112699-gop-senators-dismay-trump-xi-welcome/",
-   "summary": "Welcome to The Hill's Defense &#038; NatSec newsletter {beacon} Defense &#038;National Security Defense &#038;National Security &#8202; The Big Story  GOP senators not happy with Trump's embrace of Xi after China helped Iran Republican senators are dismayed over President Trump\u2019s lavish welcome of Chinese President Xi Jinping to the U.S. after the discovery that Iran used...",
-   "published": "2026-09-25T23:36:03+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-26T05:05:33.386664+00:00"
-  },
-  {
-   "id": "763674099d5cc5ba",
-   "title": "White House claims pro-Trump ad it paid Fox to air was \u2018public service announcement\u2019",
-   "url": "https://www.theguardian.com/us-news/2026/sep/25/white-house-pro-trump-ad-fox",
-   "summary": "Some Democrats say taxpayer-funded ad could be illegal government propaganda aimed at influencing votersThe White House on Friday defended its decision to use taxpayer funds to buy airtime on Fox News for a White House-produced, pro-Trump ad that some Democrats said could be illegal government propaganda aimed at influencing voters in the upcoming midterm elections.In a lengthy statement sent to news outlets, the White House press office insisted that versions of the ad, which feature audio of Trump urging voters to help him \u201cdefeat communism\u201d and a whirlwind video review of his second term, w",
-   "published": "2026-09-25T23:02:35+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-09-25T23:19:44.483979+00:00"
-  },
-  {
-   "id": "ea8dcb4fab50bfb7",
-   "title": "What the Supreme Court's voter-citizenship database decision means for the midterms",
-   "url": "https://www.pbs.org/newshour/show/what-the-supreme-courts-voter-citizenship-database-decision-means-for-the-midterms",
-   "summary": "The Supreme Court revived a controversial voter-citizenship database less than two months ahead of the midterm elections. In the ruling, the court sided with the Trump administration, which is seeking to use the Department of Homeland Security's SAVE database to review state voter rolls for potential noncitizens. Geoff Bennett discussed more with Jessica Huseman of Votebeat.",
-   "published": "2026-09-25T22:55:46+00:00",
-   "source": "PBS NewsHour Politics",
-   "source_id": "pbs-politics",
-   "bias_note": "center",
-   "first_seen": "2026-09-25T23:19:46.462302+00:00"
-  },
-  {
-   "id": "df03f4655c41bbaa",
-   "title": "News Wrap: Xi wraps up 3-day state visit with Trump",
-   "url": "https://www.pbs.org/newshour/show/news-wrap-xi-wraps-up-3-day-state-visit-with-trump",
-   "summary": "In our news wrap Friday, Chinese President Xi wrapped up a three-day state visit with President Trump that was heavy on pageantry and light on policy announcements, tens of millions of people along the East Coast could see flooding, rough surf and high winds due to a powerful nor'easter and New Jersey's lieutenant governor stepped down amid accusations of sexual harassment and ethics violations.",
-   "published": "2026-09-25T22:45:24+00:00",
-   "source": "PBS NewsHour Politics",
-   "source_id": "pbs-politics",
-   "bias_note": "center",
-   "first_seen": "2026-09-25T23:19:46.462308+00:00"
   }
  ]
 }
