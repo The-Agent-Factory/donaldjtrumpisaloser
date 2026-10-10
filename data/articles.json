@@ -1,7 +1,51 @@
 {
- "updated": "2026-10-10T16:08:11.530999+00:00",
- "count": 898,
+ "updated": "2026-10-10T18:40:27.525743+00:00",
+ "count": 893,
  "articles": [
+  {
+   "id": "4a9adf4cd7a7ed1b",
+   "title": "President Trump blasts Nobel Peace Prize snub with blistering list of accomplishments: 'WOW!'",
+   "url": "https://www.foxnews.com/politics/president-trump-blasts-nobel-peace-prize-snub-blistering-list-accomplishments-wow",
+   "summary": "Trump sounded off on Truth Social after the Norwegian Nobel Committee passed him over for the 2026 Nobel Peace Prize in favor of Navi Pillay.",
+   "published": "2026-10-10T18:28:07+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-10-10T18:40:25.208316+00:00"
+  },
+  {
+   "id": "1ff0716c13d9c39d",
+   "title": "Trump rips Zelensky amid Russia diesel deal feud: 'I suggest they get a new leader'",
+   "url": "https://thehill.com/homenews/administration/6140694-trump-defends-russian-diesel-deal/",
+   "summary": "President Trump on Saturday pushed back on criticism from Ukrainian President Volodymyr Zelensky to the White House\u2019s decision to lift sanctions on Russian diesel amid the Russia-Ukraine war.  The president told reporters outside the White House that Zelensky \u201ccould have settled this war many times,\u201d but \u201cchose not to.\u201d\u00a0 \u201cHe wants to make problems for...",
+   "published": "2026-10-10T18:26:04+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-10T18:40:26.243450+00:00"
+  },
+  {
+   "id": "bcd5ad94b0ecec6a",
+   "title": "Judicial Watch's Thomas Fitton slams FBI's 'drip-drip' release for 75,000 pages of Trump-Butler shooting files",
+   "url": "https://www.foxnews.com/politics/judicial-watch-thomas-fitton-slams-fbi-drip-drip-release-75000-pages-trump-butler-shooting-files",
+   "summary": "Judicial Watch&apos;s Thomas Fitton says the FBI&apos;s 12-year timeline for releasing Thomas Matthew Crooks assassination attempt documents is unacceptable.",
+   "published": "2026-10-10T18:24:54+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-10-10T18:40:25.208332+00:00"
+  },
+  {
+   "id": "ae90bb0a62911176",
+   "title": "Who is Sally Yates? Cornell rape-review pick was fired by Trump after refusing to defend travel ban",
+   "url": "https://www.foxnews.com/politics/who-sally-yates-cornell-rape-review-pick-fired-trump-refusing-defend-travel-ban",
+   "summary": "Sally Yates, fired by Trump as acting attorney general in 2017, will now lead Cornell University&apos;s independent review of sexual assault policies.",
+   "published": "2026-10-10T16:22:16+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-10-10T18:40:25.208338+00:00"
+  },
   {
    "id": "2af6029a8b266320",
    "title": "The Memo: Guilfoyle furor rises as Trump stops short of expressing support",
@@ -9780,105 +9824,6 @@
    "source_id": "foxnews-politics",
    "bias_note": "right-leaning",
    "first_seen": "2026-09-26T21:14:48.829125+00:00"
-  },
-  {
-   "id": "0ee6d03f6666778f",
-   "title": "Former UK Prime Minister Tony Blair warns Europe \u2018we don\u2019t win\u2019 in war without US support",
-   "url": "https://www.foxnews.com/media/former-uk-prime-minister-tony-blair-warns-europe-dont-win-war-without-us-support",
-   "summary": "Former U.K. Prime Minister Tony Blair insisted British leaders should preserve their alliance with Trump, calling the U.S. &quot;indispensable&quot; to security.",
-   "published": "2026-09-26T18:39:22+00:00",
-   "source": "Fox News Latest",
-   "source_id": "foxnews-latest",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-09-26T21:14:48.848962+00:00"
-  },
-  {
-   "id": "6dffaa4490fee4a9",
-   "title": "Someone could have opened an account in your name. Check now",
-   "url": "https://www.foxnews.com/tech/someone-could-opened-account-your-name-check-now",
-   "summary": "New account fraud victims jumped 31% in 2025, reaching 5.4 million. Criminals open accounts you may never see on your regular bank statements.",
-   "published": "2026-09-26T18:30:20+00:00",
-   "source": "Fox News Latest",
-   "source_id": "foxnews-latest",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-09-26T21:14:48.848968+00:00"
-  },
-  {
-   "id": "c19b3e7bbcab702b",
-   "title": "Poll: Trump\u2019s MAGA loyalists don\u2019t think he has an affordability problem",
-   "url": "https://www.politico.com/news/2026/09/26/poll-affordability-trump-maga-splits-01086222",
-   "summary": "A recent POLITICO Poll found that cost of living concerns are reinforcing partisanship divides \u2014 and driving a wedge among Republicans.",
-   "published": "2026-09-26T18:00:00+00:00",
-   "source": "Politico",
-   "source_id": "politico",
-   "bias_note": "center",
-   "first_seen": "2026-09-26T21:14:49.458368+00:00"
-  },
-  {
-   "id": "0d6c405525932271",
-   "title": "Trump's home county hits pause on data centers over environment and electric bill concerns",
-   "url": "https://www.foxnews.com/politics/trumps-home-county-hits-pause-data-centers-environment-electric-bill-concerns",
-   "summary": "Palm Beach County passed a one-year moratorium on data centers amid concerns over environmental impact, noise pollution, and rising electric bills.",
-   "published": "2026-09-26T17:58:21+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-09-26T21:14:48.829135+00:00"
-  },
-  {
-   "id": "ffcd049dda1bf6de",
-   "title": "House Dems plan oversight of Trump administration; impeachment an option",
-   "url": "https://abcnews.com/Politics/wireStory/house-democrats-plan-vast-oversight-trump-administration-impeachment-136778557",
-   "summary": "Democrats are preparing an agenda if the party sweeps control in November.",
-   "published": "2026-09-26T17:38:26+00:00",
-   "source": "ABC News Politics",
-   "source_id": "abc-politics",
-   "bias_note": "center",
-   "first_seen": "2026-09-26T21:14:50.115047+00:00"
-  },
-  {
-   "id": "3dd25706de5081ba",
-   "title": "Trump administration uses rare authority to claw back nearly $1B in spending approved by Congress",
-   "url": "https://www.pbs.org/newshour/politics/trump-administration-uses-rare-authority-to-claw-back-nearly-1b-in-spending-approved-by-congress",
-   "summary": "Most of the cuts are focused on Health and Human Services programs that serve refugees and unaccompanied minors accused of being in the country illegally.",
-   "published": "2026-09-26T17:20:24+00:00",
-   "source": "PBS NewsHour Politics",
-   "source_id": "pbs-politics",
-   "bias_note": "center",
-   "first_seen": "2026-09-26T21:14:49.867912+00:00"
-  },
-  {
-   "id": "6ced93d77fd4ec79",
-   "title": "CNN says it was left off Air Force One for Trump's Saturday trip to a college football game",
-   "url": "https://www.pbs.org/newshour/politics/cnn-says-it-was-left-off-air-force-one-for-trumps-saturday-trip-to-a-college-football-game",
-   "summary": "CNN, a member of the U.S. network video pool that rotates duties shooting and sharing video coverage of the president, reported it had been scheduled to fly aboard the president's plane Saturday for a scheduled visit to a college football game.",
-   "published": "2026-09-26T16:35:39+00:00",
-   "source": "PBS NewsHour Politics",
-   "source_id": "pbs-politics",
-   "bias_note": "center",
-   "first_seen": "2026-09-26T21:14:49.867918+00:00"
-  },
-  {
-   "id": "b15b8bb362bc144b",
-   "title": "Presidential Message on National Hunting and Fishing Day",
-   "url": "https://www.whitehouse.gov/briefings-statements/2026/09/presidential-message-on-national-hunting-and-fishing-day/",
-   "summary": "For over 250 years, America\u2019s hunters and anglers have been faithful stewards of our great outdoors\u2014respecting the land, pursuing their sport with honor, and preserving our lands and waters. &#160;On National Hunting and Fishing Day, we pay tribute to the American sportsmen, hunters, and fishermen who protect our abundant resources, cherish our Nation\u2019s natural beauty, [&#8230;]\nThe post Presidential Message on National Hunting and Fishing Day appeared first on The White House.",
-   "published": "2026-09-26T16:26:20+00:00",
-   "source": "WhiteHouse.gov News",
-   "source_id": "whitehouse",
-   "bias_note": "official/primary-source",
-   "first_seen": "2026-09-26T21:14:48.898435+00:00"
-  },
-  {
-   "id": "57e15ef0c02dfdb8",
-   "title": "SEC crowd greets Trump with massive cheers ahead of Tennessee-Texas showdown",
-   "url": "https://www.foxnews.com/outkick-sports/sec-crowd-greets-trump-massive-cheers-ahead-tennessee-texas-showdown",
-   "summary": "Trump arrived in Knoxville to a roaring Neyland Stadium crowd as the new-look Air Force One flew over ahead of the No. 14 Vols vs. No. 1 Texas kickoff.",
-   "published": "2026-09-26T16:10:18+00:00",
-   "source": "Fox News Latest",
-   "source_id": "foxnews-latest",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-09-26T16:28:03.516041+00:00"
   }
  ]
 }
