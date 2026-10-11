@@ -1,7 +1,150 @@
 {
- "updated": "2026-10-11T18:58:06.518994+00:00",
- "count": 894,
+ "updated": "2026-10-11T23:42:46.967546+00:00",
+ "count": 898,
  "articles": [
+  {
+   "id": "3d08f5d8df5c5da4",
+   "title": "Minnesota homecoming shooting suspect out on bond after gunfire sends football fans fleeing",
+   "url": "https://www.foxnews.com/us/minnesota-homecoming-shooting-suspect-bond-gunfire-sends-football-fans-fleeing",
+   "summary": "Adam Abdihakeem Adam posted bond two days after his arrest in the Eden Prairie homecoming shooting, drawing sharp criticism from President Donald Trump&apos;s team.",
+   "published": "2026-10-11T23:25:53+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-10-11T23:42:43.889727+00:00"
+  },
+  {
+   "id": "69595df3b42687dc",
+   "title": "Trump and Rubio weigh firing Kimberly Guilfoyle as misconduct and donor bailout allegations mount",
+   "url": "https://www.foxnews.com/politics/trump-rubio-weigh-firing-kimberly-guilfoyle-misconduct-donor-bailout-allegations-mount",
+   "summary": "Kimberly Guilfoyle faces mounting allegations in Greece as JD Vance and Marco Rubio weigh in on the embattled ambassador&apos;s growing controversies.",
+   "published": "2026-10-11T22:55:22+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-10-11T23:42:43.842364+00:00"
+  },
+  {
+   "id": "08cb571284d701f0",
+   "title": "Lawmakers in bipartisan statement push back on Trump over Russian oil",
+   "url": "https://thehill.com/homenews/senate/6141837-senate-lawmakers-condemn-russian-oil-deal/",
+   "summary": "A bipartisan group of seven lawmakers on the Senate Foreign Relations Committee condemned President Trump\u2019s recent deal with Russian President Vladimir Putin, which would lift sanctions on Russia and permit the flow of its oil into the global economy.\u00a0 \u201cCongress explicitly banned Russian energy imports in 2022 to prevent American dollars from financing Putin\u2019s brutal...",
+   "published": "2026-10-11T22:54:10+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-11T23:42:45.938480+00:00"
+  },
+  {
+   "id": "56d8829cef76e183",
+   "title": "Trump Russia deal could fuel Putin's war, ex-NATO commander warns as Zelenskyy says 'nyet'",
+   "url": "https://www.foxnews.com/world/trump-russia-deal-could-fuel-putins-war-ex-nato-commander-warns-zelenskyy-says-nyet",
+   "summary": "Donald Trump&apos;s energy ceasefire could hand Vladimir Putin fresh revenue to fuel Russia&apos;s war in Ukraine, former NATO commander Breedlove warns.",
+   "published": "2026-10-11T21:56:55+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-10-11T23:42:43.889770+00:00"
+  },
+  {
+   "id": "06daf636c421d273",
+   "title": "Trump claims Russia and Ukraine agree to 'energy ceasefire' despite continued attacks",
+   "url": "https://www.pbs.org/newshour/world/trump-claims-russia-and-ukraine-agree-to-energy-ceasefire-despite-continued-attacks",
+   "summary": "Moscow did not immediately comment. Ukrainian President Volodymyr Zelenskyy said that while his country \"welcomed\" the announcement by Trump as \"good news for everyone,\" Russia was still hitting energy infrastructure in Kyiv and in the city of Kharkiv.",
+   "published": "2026-10-11T21:25:24+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-10-11T23:42:46.002756+00:00"
+  },
+  {
+   "id": "2107fa369ab93a57",
+   "title": "This week on the Hill: Midterm debates, Trump Alaska trip take center stage",
+   "url": "https://thehill.com/newsletters/this-week-on-the-hill/6139807-midterm-elections-debates-trump-alaska/",
+   "summary": "Senate and House debates return to center stage this week as candidates nationwide make their cases to voters less than a month before Election Day. The spotlight turns to contests in Iowa, Maine and New York, as both parties fight for control of Congress. President Trump, meanwhile, is set to campaign about as far from...",
+   "published": "2026-10-11T21:00:00+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-11T23:42:45.938506+00:00"
+  },
+  {
+   "id": "3881744252c73927",
+   "title": "GOP senator calls for FCC probe of ABC News over Trump sons-Anduril 'political hit job'",
+   "url": "https://www.foxnews.com/media/gop-senator-calls-fcc-probe-abc-news-trump-sons-anduril-political-hit-job",
+   "summary": "Sen. Bernie Moreno urged the FCC to investigate ABC News over a retracted report linking Donald Trump Jr. and Anduril Industries to government contracts.",
+   "published": "2026-10-11T20:43:19+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-10-11T23:42:43.889811+00:00"
+  },
+  {
+   "id": "95a2300d12e73e68",
+   "title": "Tillis: Trump's Russia deal 'is tarnishing Lindsey Graham's efforts' at sanctions",
+   "url": "https://thehill.com/homenews/senate/6141694-tillis-slams-trump-russia-diesel/",
+   "summary": "Sen. Thom Tillis (R-N.C.) slammed President Trump\u2019s deal with Russia for diesel Sunday amid the energy struggles the U.S. is experiencing. \u201cThe president needs to move forward with the sanctions bill that we sent him. This agreement with pursing Russian oil is essentially, I think, tarnishing [Sen.] Lindsey Graham's [(R-S.C.)] efforts to try and get...",
+   "published": "2026-10-11T20:20:45+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-11T23:42:45.938525+00:00"
+  },
+  {
+   "id": "f2bcbb9da01f40fc",
+   "title": "Bipartisan group of senators calls on Trump to 'reverse course' on Russian diesel plan",
+   "url": "https://www.pbs.org/newshour/politics/bipartisan-group-of-senators-calls-on-trump-to-reverse-course-on-russian-diesel-plan",
+   "summary": "Four Republican senators and two Democratic senators signed onto the statement released Sunday in protesting the deal. They said the administration failed to consult with Congress or submit any explanation to justify its decision as required by statute.",
+   "published": "2026-10-11T20:18:14+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-10-11T23:42:46.002760+00:00"
+  },
+  {
+   "id": "7f879a39e0fd14c0",
+   "title": "In Springfield, Ohio, Trump must settle the MAGA vs Chamber of Commerce war",
+   "url": "https://www.foxnews.com/opinion/springfield-ohio-trump-settle-maga-vs-chamber-commerce-war",
+   "summary": "Springfield, Ohio, small business owners reveal what they need from Vivek Ramaswamy and John Husted on taxes, regulations, and immigration reform.",
+   "published": "2026-10-11T19:41:04+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-10-11T23:42:43.889871+00:00"
+  },
+  {
+   "id": "7f2addbd9c4a91b9",
+   "title": "Backlash grows against Russia diesel deal as Trump claims Ukraine energy ceasefire",
+   "url": "https://thehill.com/policy/energy-environment/6141263-bipartisan-backlash-russian-fuel/",
+   "summary": "President Trump's deal with Russia to permit the country's diesel into the U.S. and global marketplace saw growing backlash on Sunday, before the president announced an energy ceasefire between Ukraine and Russia. The deal will have Russia \"immediately release 300,000 tons of diesel to address concerns over rising energy costs due to the global fuel...",
+   "published": "2026-10-11T19:24:27+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-11T23:42:45.938538+00:00"
+  },
+  {
+   "id": "2dda878faf9dddce",
+   "title": "Russia strikes Ukrainian power plant after Trump claims energy ceasefire",
+   "url": "https://thehill.com/policy/international/6141601-russia-strikes-ukraine-power-plant/",
+   "summary": "Russia struck a power plant in eastern Ukraine, contradicting President Trump\u2019s announcement earlier Sunday that both countries agreed to an \"energy ceasefire.\" A local official who spoke with ABC News said that a thermal power plant in the city of Kharkiv was hit twice and on fire. Ukrainian President Voldoymyr Zelensky\u00a0confirmed the attack, along with...",
+   "published": "2026-10-11T19:22:29+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-11T23:42:45.938543+00:00"
+  },
+  {
+   "id": "bb557c77d144a6ba",
+   "title": "Massie backs Trump's diesel deal with Russia in rare move",
+   "url": "https://thehill.com/homenews/house/6141586-massie-backs-trump-russia-diesel/",
+   "summary": "Rep. Thomas Massie (R-Ky.) on Sunday backed President Trump\u2019s deal with Russia for diesel, in spite of past conflict between the two politicians. \u201cIn 2022 I voted against Russia sanctions, pointing out that U.S. citizens would suffer from higher prices. Glad to see Trump came around to that reality this week. We should lift sanctions...",
+   "published": "2026-10-11T19:12:55+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-11T23:42:45.938548+00:00"
+  },
   {
    "id": "2738f5d126ba57de",
    "title": "Trump and Rubio weigh firing Kimberly Guilfoyle after reports of improper conduct",
@@ -9736,105 +9879,6 @@
    "source_id": "thehill",
    "bias_note": "center",
    "first_seen": "2026-09-28T05:30:31.159353+00:00"
-  },
-  {
-   "id": "86ef9c08ce0121ef",
-   "title": "Team USA captain thanks Trump after massive Presidents Cup comeback: \u2018He gets all the credit\u2019",
-   "url": "https://www.foxnews.com/outkick-sports/team-usa-captain-thanks-trump-massive-presidents-cup-comeback-gets-all-credit",
-   "summary": "Trump told captain Brandt Snedeker he&apos;d bring energy to the Presidents Cup, and the U.S. rallied from a three-point deficit in Sunday singles.",
-   "published": "2026-09-27T23:32:51+00:00",
-   "source": "Fox News Latest",
-   "source_id": "foxnews-latest",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-09-28T05:30:30.472871+00:00"
-  },
-  {
-   "id": "65f82364f0bfccad",
-   "title": "Susie Wiles reveals brutal toll of fighting cancer while running Trump\u2019s White House",
-   "url": "https://www.foxnews.com/politics/susie-wiles-reveals-brutal-toll-fighting-cancer-while-running-trumps-white-house",
-   "summary": "Susie Wiles reveals what it was like to undergo chemotherapy while leading the White House staff, saying some days just getting out of bed was a test.",
-   "published": "2026-09-27T21:54:55+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-09-27T23:06:16.626578+00:00"
-  },
-  {
-   "id": "b797a253fd88d7ae",
-   "title": "Blanche defends Trump\u2019s White House media ban: \u2018It is a privilege, not a right\u2019",
-   "url": "https://www.theguardian.com/us-news/2026/sep/27/todd-blanche-trump-white-house-media",
-   "summary": "US attorney general argues that president was \u2018sick and tired\u2019 of inaccurate reporting by CNN, MS Now and PoliticoDonald Trump\u2019s attorney general Todd Blanche argued on Sunday that the administration was permitted to ban three news outlets from the White House because \u201cit is a privilege and not a right to be there\u201d.Appearing on the ABC News program This Week during the second week of the White House\u2019s dispute over press credentialing and access, Blanche also said that the administration took the decision to ban CNN, MS Now and Politico beginning on 19 September because the president was \u201csick ",
-   "published": "2026-09-27T21:42:56+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-09-27T23:06:17.684759+00:00"
-  },
-  {
-   "id": "3e81d810555138dd",
-   "title": "Major League Baseball is eyeing a game at Grand Teton, but federal red tape is slowing down the pitch",
-   "url": "https://www.foxnews.com/outkick-sports/major-league-baseball-eyeing-game-grand-teton-federal-red-tape-slowing-pitch",
-   "summary": "MLB approached the Trump administration about hosting a game in Grand Teton National Park, but the White House says it&apos;s not an administration priority.",
-   "published": "2026-09-27T21:25:00+00:00",
-   "source": "Fox News Latest",
-   "source_id": "foxnews-latest",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-09-27T23:06:16.689286+00:00"
-  },
-  {
-   "id": "e170e3be6d13d380",
-   "title": "Trump administration begins airing 2024 Trump campaign ad in latest taxpayer-funded messaging",
-   "url": "https://abcnews.com/Politics/wireStory/trump-administration-begins-airing-2024-trump-campaign-ad-136803772",
-   "summary": "The Trump administration is using taxpayer funds to air a television advertisement from Donald Trump&rsquo;s 2024 presidential campaign in the latest in a series of ads promoting the president ahead of the midterms that the White House maintains are &ldquo;public ...",
-   "published": "2026-09-27T21:25:00+00:00",
-   "source": "ABC News Politics",
-   "source_id": "abc-politics",
-   "bias_note": "center",
-   "first_seen": "2026-09-27T23:06:18.664858+00:00"
-  },
-  {
-   "id": "2cb2a30e30db9ed7",
-   "title": "Anthropic CEO Dario Amodei to have private White House dinner with Trump",
-   "url": "https://thehill.com/policy/technology/6114077-trump-anthropic-ceo-meeting/",
-   "summary": "President Trump and Anthropic CEO Dario Amodei will meet on Sunday evening at the White House after the artificial intelligence industry leader raised concerns about the technology's risks. The two will meet for dinner at the president\u2019s residence, two sources familiar with the dinner confirmed to The Hill.  Trump in recent weeks has dismissed concerns...",
-   "published": "2026-09-27T21:16:40+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-27T23:06:17.973201+00:00"
-  },
-  {
-   "id": "b72d3708aa0abb89",
-   "title": "Republican senator criticizes White House for taxpayer-funded Trump ads",
-   "url": "https://www.theguardian.com/us-news/2026/sep/27/john-kennedy-white-house-trump-ad-tax-money",
-   "summary": "John Kennedy pushes back against such spending as pro-Trump \u2018public service announcements\u2019 air before midtermsAs the White House expands a taxpayer-funded advertising campaign to promote Donald Trump\u2019s political agenda before the November midterm elections, US senator John Kennedy told CBS News on Sunday \u201cthere ought to be a rule\u201d against such spending \u2013 before tacitly admitting such spending is \u201cprobably\u201d illegal.Kennedy, the US president\u2019s fellow Republican, was asked by Margaret Brennan, the CBS Face the Nation host, about the White House spending to air multiple ads featuring Trump \u2013 inclu",
-   "published": "2026-09-27T19:54:03+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-09-27T23:06:17.684770+00:00"
-  },
-  {
-   "id": "d3644bd6612d7c8f",
-   "title": "Trump slams Supreme Court for blocking Missouri's GOP-favored map for third time",
-   "url": "https://thehill.com/homenews/administration/6113998-trump-criticizes-supreme-court-missouri-map/",
-   "summary": "President Trump went after the Supreme Court on Sunday for blocking a Missouri congressional map favoring Republicans. \u201cThe Supreme Court of the United States will just not let Missouri have an Election Victory. They continuously, three times now, overrule Judges who came to the correct decisions,\u201d Trump said in a Sunday morning Truth Social post....",
-   "published": "2026-09-27T19:21:53+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-27T23:06:17.973263+00:00"
-  },
-  {
-   "id": "9d0ed96c7d72994c",
-   "title": "Khanna says third Trump impeachment would be about 'setting a standard'",
-   "url": "https://thehill.com/homenews/house/6113743-khanna-trump-third-impeachment/",
-   "summary": "Rep. Ro Khanna (D-Calif.) on Sunday said a third attempt to impeach President Trump if Democrats take control of Congress in November would be about \"setting a standard\" of accountability. Khanna appeared on NBC News's \"Meet the Press\" when he told host Kristen Welker that impeaching Trump, who he said has become \"in my view,...",
-   "published": "2026-09-27T19:05:35+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-27T23:06:17.973268+00:00"
   }
  ]
 }
