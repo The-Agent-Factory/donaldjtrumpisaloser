@@ -1,7 +1,150 @@
 {
- "updated": "2026-10-11T05:54:38.505362+00:00",
- "count": 898,
+ "updated": "2026-10-11T12:58:36.155548+00:00",
+ "count": 895,
  "articles": [
+  {
+   "id": "ebe658c3161a35cc",
+   "title": "Trump names Katie Bailey as White House legislative affairs director",
+   "url": "https://thehill.com/homenews/administration/6141177-trump-names-katie-bailey-legislative-director/",
+   "summary": "President Trump on Saturday named Katie Bailey as the White House's legislative affairs director, months after former director James Braid vacated the role ahead of the November midterm elections. Trump wrote on Truth Social that Bailey, as deputy director, \"has already delivered strong results\" in assisting with the confirmations of Homeland Security Secretary Markwayne Mullin,...",
+   "published": "2026-10-11T12:44:42+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-11T12:58:35.317341+00:00"
+  },
+  {
+   "id": "1f6046aceb1b6916",
+   "title": "Live updates: Zelensky set for Sunday interview amid backlash to Trump's Russia diesel deal",
+   "url": "https://thehill.com/homenews/administration/6140988-live-updates-zelensky-set-for-sunday-interview-amid-backlash-to-trumps-russia-diesel-deal/",
+   "summary": "Ukrainian President Volodymyr Zelensky is scheduled to appear on ABC's \"This Week\" Sunday morning following President Trump's Friday announcement of a deal to lift sanctions on Russian diesel, which sparked a war of words between the U.S. and Ukraine presidents. The move, allowing the Kremlin to supply 300,000 tons of diesel to the U.S. and...",
+   "published": "2026-10-11T12:29:15+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-11T12:58:35.317351+00:00"
+  },
+  {
+   "id": "8ff3d20cec3e8e38",
+   "title": "Politics chat: Trump announces fuel deal with Russia. What does it mean for sanctions?",
+   "url": "https://www.npr.org/2026/10/11/nx-s1-5996550/politics-chat-trump-announces-fuel-deal-with-russia-what-does-it-mean-for-sanctions",
+   "summary": "President Trump announced a deal to import Russian fuel to the U.S. We look at what this means for the sanctions he recently signed off on against Russia, as well as the U.S.'s support for Ukraine.",
+   "published": "2026-10-11T12:03:56+00:00",
+   "source": "NPR Politics",
+   "source_id": "npr-politics",
+   "bias_note": "center",
+   "first_seen": "2026-10-11T12:58:33.940381+00:00"
+  },
+  {
+   "id": "18c89880fbcc3f67",
+   "title": "US maternity wards face wave of closures as Medicaid cuts kick in",
+   "url": "https://www.theguardian.com/us-news/2026/oct/11/medicaid-cuts-maternity-wards",
+   "summary": "Trump\u2019s \u2018big, beautiful bill\u2019 spending cuts will be fully felt next year, but hospitals are already feeling the squeezeMaternity wards across the United States are facing a wave of closures as cuts to federal Medicaid funding take effect, experts have warned.According to analysis by the non-profit Protect Our Care, 52 maternity wards have closed since the HR1 bill was announced in July 2025, with a further eight having announced their upcoming closure. Continue reading...",
+   "published": "2026-10-11T12:00:26+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-10-11T12:58:34.166443+00:00"
+  },
+  {
+   "id": "ceea6758ab9566fa",
+   "title": "\u2018Big Balls\u2019 of DOGE fame gives exclusive look at new Trump mission to overhaul government",
+   "url": "https://www.foxnews.com/politics/big-balls-doge-fame-gives-exclusive-look-new-trump-mission-overhaul-government",
+   "summary": "Edward Coristine reveals plans to make passport applications fully digital through America.gov, the AI-powered platform replacing thousands of sites.",
+   "published": "2026-10-11T12:00:13+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-10-11T12:58:33.704185+00:00"
+  },
+  {
+   "id": "cbb39ac79f4392be",
+   "title": "Trump is waging all-out war against journalists",
+   "url": "https://thehill.com/opinion/white-house/6139752-trump-media-lawfare-threat/",
+   "summary": "Shortly before returning to office after the 2024 race, Trump proclaimed, \u201cLAWFARE IS DEAD.\u201d But these days, lawfare is flourishing as never before.",
+   "published": "2026-10-11T12:00:00+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-11T12:58:35.317376+00:00"
+  },
+  {
+   "id": "c938696492909546",
+   "title": "DOJ investigating 5 major TV networks over response to White House press ban",
+   "url": "https://thehill.com/homenews/administration/6141115-doj-investigates-tv-networks-boycott/",
+   "summary": "The Justice Department (DOJ) is investigating five major TV networks for alleged antitrust violations after the outlets briefly pulled their pool coverage. Sources told The New York Times on Saturday that the DOJ is investigating ABC, CBS, CNN, NBC and Fox News for pulling their coverage days after a federal judge halted President Trump's ban...",
+   "published": "2026-10-11T11:44:56+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-11T12:58:35.317383+00:00"
+  },
+  {
+   "id": "269f72aaab7253fb",
+   "title": "Did Trump get one thing right about Greenland?",
+   "url": "https://www.theguardian.com/world/2026/oct/11/did-trump-get-one-thing-right-about-greenland",
+   "summary": "Threatening an ally is a terrible idea, but there\u2019s no denying the Arctic\u2019s increasing strategic importanceOne of Donald Trump\u2019s more diabolical talents is his ability to land on the right things in the wrong way. Since his first term, Trump has been obsessed with the Arctic \u2013 Greenland in particular \u2013 something that has puzzled and enraged many, particularly in Europe. He first brought up the idea of buying the icy landmass from Denmark in 2019. Right after re-election, he began ramping up his rhetoric about acquiring it \u201cone way or another\u201d, threatening the Nato alliance and the foundations ",
+   "published": "2026-10-11T11:00:25+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-10-11T12:58:34.166504+00:00"
+  },
+  {
+   "id": "9259c9e8820f7c80",
+   "title": "MAP IT: DOJ illegal voting crackdown sweeps 17 states as razor-thin elections face scrutiny",
+   "url": "https://www.foxnews.com/politics/map-doj-illegal-voting-crackdown-sweeps-17-states-razor-thin-elections-face-scrutiny",
+   "summary": "The Justice Department charged 64 foreign nationals across 17 states with noncitizen voting and voter registration fraud in roughly five weeks.",
+   "published": "2026-10-11T10:00:12+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-10-11T12:58:33.704201+00:00"
+  },
+  {
+   "id": "a91c8dd0b9f9b7b1",
+   "title": "GOP sees House prospects grow bleaker as districts shift to blue",
+   "url": "https://thehill.com/homenews/house/6140021-gop-house-majority-threatened/",
+   "summary": "Less than a month out from the midterm elections, the landscape for House Republicans grows grimmer by the day. President Trump\u2019s approval ratings are low and sinking. The GOP\u2019s emergency redistricting campaign has fallen short of its goals. And the volatile economy has voters on edge and thirsty for change.  The combination has created a...",
+   "published": "2026-10-11T10:00:00+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-11T12:58:35.317401+00:00"
+  },
+  {
+   "id": "5413d19103671413",
+   "title": "The Memo: As Trump lavishes cash on voters, ethics experts raise alarm",
+   "url": "https://thehill.com/homenews/analysis/6139169-gop-midterm-check-proposal/",
+   "summary": "President Trump is doing everything he can to win favor with a dissatisfied electorate before the midterms \u2014 including promising money. Speaking in San Antonio on Wednesday evening, Trump repeated his pledge to send $5,000 to every adult American if the GOP retains its narrow majorities in the House and the Senate. Skeptics roll their...",
+   "published": "2026-10-11T10:00:00+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-11T12:58:35.317411+00:00"
+  },
+  {
+   "id": "b39b237aaaa4d12e",
+   "title": "Reshaped civil rights mission at Justice Department transforms its work, workforce",
+   "url": "https://www.npr.org/2026/10/11/g-s1-145063/justice-department-civil-rights-transformed",
+   "summary": "Harmeet Dhillon has pushed out hundreds of longtime attorneys, replaced many with inexperienced ideological allies, and used the division's enforcement powers to pursue the president's agenda.",
+   "published": "2026-10-11T09:00:00+00:00",
+   "source": "NPR Politics",
+   "source_id": "npr-politics",
+   "bias_note": "center",
+   "first_seen": "2026-10-11T12:58:33.940389+00:00"
+  },
+  {
+   "id": "65b45fff56cfd7f9",
+   "title": "In one of the country's most competitive districts, a Democrat tries to keep her seat",
+   "url": "https://www.npr.org/2026/10/11/nx-s1-5968691/midterm-elections-washington-congressional-district",
+   "summary": "In a highly competitive Washington congressional race, the incumbent Democrat has angered part of her party base and the Trump-backed Republican challenger faces backlash against the party in power.",
+   "published": "2026-10-11T09:00:00+00:00",
+   "source": "NPR Politics",
+   "source_id": "npr-politics",
+   "bias_note": "center",
+   "first_seen": "2026-10-11T12:58:33.940392+00:00"
+  },
   {
    "id": "5aaa926c16fa8923",
    "title": "Trump says he'd 'love' to have Sen. John Fetterman as a Republican amid growing speculation",
@@ -9703,182 +9846,6 @@
    "source_id": "thehill",
    "bias_note": "center",
    "first_seen": "2026-09-27T14:05:47.236523+00:00"
-  },
-  {
-   "id": "3a4a94f9d1dc427a",
-   "title": "Trump's Greenland obsession isn\u2019t random. Here\u2019s what\u2019s at stake",
-   "url": "https://www.foxnews.com/politics/trumps-greenland-obsession-isnt-random-heres-whats-stake",
-   "summary": "Greenland&apos;s untapped rare earth minerals, oil and gas reserves could reshape U.S. energy security as Trump&apos;s Denmark deal expands military presence.",
-   "published": "2026-09-27T12:55:32+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-09-27T14:05:46.297447+00:00"
-  },
-  {
-   "id": "17c0b5e2001fffc7",
-   "title": "Trump reaffirms ICE arrest policy after confusing guidance sparks alarm among agents",
-   "url": "https://www.foxnews.com/politics/trump-reaffirms-ice-arrest-policy-confusing-guidance-sparks-alarm-agents",
-   "summary": "Trump told officials that anyone in the country illegally remains &quot;on the table&quot; for arrest and deportation after internal ICE guidance caused confusion.",
-   "published": "2026-09-27T12:34:41+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-09-27T14:05:46.297457+00:00"
-  },
-  {
-   "id": "7062c84eddc65cfc",
-   "title": "Live updates: Trump attends Presidents Cup final; top Iranian officials set for US interviews",
-   "url": "https://thehill.com/homenews/administration/6113491-live-updates-trump-presidents-cup-chicago-iran/",
-   "summary": "President Trump is slated to attend the final round of the Presidents Cup golf tournament in Chicago Sunday morning, roughly a month after PGA Tour named him the event's honorary chair. Trump last attended the competition in 2017 during his first term, where he presented the trophy to the winning team. It is unclear whether...",
-   "published": "2026-09-27T12:30:00+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-27T14:05:47.236537+00:00"
-  },
-  {
-   "id": "5c7c30026dd7af16",
-   "title": "Ohio governor's race: Ramaswamy and Acton clash in rare Democratic pickup opportunity",
-   "url": "https://www.npr.org/2026/09/27/nx-s1-5976743/ohio-governors-race-ramaswamy-and-acton-clash-in-rare-democratic-pickup-opportunity",
-   "summary": "The Ohio governor's race pits Vivek Ramaswamy against Democrat Amy Acton. While Ramaswamy downplays his Trump tie and Acton faces pandemic-era scrutiny, Democrats eye a rare win in 40 years",
-   "published": "2026-09-27T12:06:23+00:00",
-   "source": "NPR Politics",
-   "source_id": "npr-politics",
-   "bias_note": "center",
-   "first_seen": "2026-09-27T14:05:46.837143+00:00"
-  },
-  {
-   "id": "5137d9e24b0cb98c",
-   "title": "Politics chat: Trump vs the media; rolling back health and education spending",
-   "url": "https://www.npr.org/2026/09/27/nx-s1-5978751/politics-chat-trump-vs-the-media-rolling-back-health-and-education-spending",
-   "summary": "We look at President Trump's fight with some of the White House press corps, as well as his attempt to claw back $810 million in Congressionally-approved funds for health and education spending.",
-   "published": "2026-09-27T12:06:20+00:00",
-   "source": "NPR Politics",
-   "source_id": "npr-politics",
-   "bias_note": "center",
-   "first_seen": "2026-09-27T14:05:46.837147+00:00"
-  },
-  {
-   "id": "d3cd447963e52ea9",
-   "title": "What Democrats are getting right \u2013 and wrong \u2013 in run-up to midterms: \u2018We can\u2019t just be anti-Trump\u2019",
-   "url": "https://www.theguardian.com/us-news/2026/sep/27/midterm-elections-democrats-yasmin-radjy",
-   "summary": "Grassroots organizer Yasmin Radjy on the Democratic ground game leading into the midterm electionsIn the run-up to the US midterm elections, Swing Left \u2013 a grassroots political group focused on electing Democrats to office \u2013 has spent time canvassing in dozens of districts across the country to hear from hundreds of thousands of voters.Now, with fewer than 40 days until the US midterm elections, the group\u2019s executive director, Yasmin Radjy, sets out what she feels Democrats have been getting right and wrong this election cycle, and why these races are vital for the party\u2019s future control of th",
-   "published": "2026-09-27T12:00:05+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-09-27T14:05:46.968546+00:00"
-  },
-  {
-   "id": "210d683b5ca8719d",
-   "title": "How the Trump administration is trying to defend its firing of Maurene Comey",
-   "url": "https://www.theguardian.com/us-news/2026/sep/27/maurene-comey-trump-administration-james-comey",
-   "summary": "Star federal prosecutor is fighting her no-cause firing, as DoJ dances around Trump\u2019s loathing of her father, James ComeyTwo weeks after Maurene Comey secured a guilty verdict against Sean \u201cDiddy\u201d Combs, the Manhattan federal prosecutor received a three-paragraph letter from top justice department authorities.\u201cYour employment with the Department of Justice is hereby terminated, and you are removed from federal service effective immediately,\u201d the 16 July missive from Francey Hakes, director of the DoJ\u2019s executive office for United States attorneys, said. Continue reading...",
-   "published": "2026-09-27T12:00:04+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-09-27T14:05:46.968553+00:00"
-  },
-  {
-   "id": "90f83a36e1147cbc",
-   "title": "Bad language: profane Trump brings presidential swearing out into open",
-   "url": "https://www.theguardian.com/us-news/2026/sep/27/trump-swearing-president-bad-language",
-   "summary": "President has let rip with swearwords in recent months, redefining norms about acceptable language in public officeWith a lifetime of political memories stretching back to John F Kennedy\u2019s assassination and the Black civil rights struggles of the 1960s, Cheryl Johnson had one complaint above all else about today\u2019s politicians: the swearing.\u201cAll this cursing in politics, we never heard that before,\u201d said Johnson, a retired social worker living in the Pittsburgh area. \u201cWords are very powerful, and the past 45 presidents of this country, have not used such vile language. Continue reading...",
-   "published": "2026-09-27T12:00:04+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-09-27T14:05:46.968561+00:00"
-  },
-  {
-   "id": "5d41494c2b7eb8fd",
-   "title": "Trump once called the national debt a 'time bomb' \u2014 he was right",
-   "url": "https://thehill.com/opinion/finance/6111892-national-debt-impact-economy/",
-   "summary": "The $40 trillion national debt is hitting Americans\u2019 pocketbooks right now.",
-   "published": "2026-09-27T12:00:00+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-27T14:05:47.236541+00:00"
-  },
-  {
-   "id": "6edb152088de548e",
-   "title": "Trump boasts about economy, slams 'fake news' amid media battle",
-   "url": "https://thehill.com/homenews/administration/6113577-trump-accuses-outlets-fake-news/",
-   "summary": "President Trump late Saturday boasted about the U.S. economy while accusing news outlets of \"fake news\" amid his battle over media coverage at the White House and of his administration. \"We have the BEST FINANCIAL NUMBERS EVER, and the FAKE NEWS MEDIA refuses to report them!!!\" Trump wrote on Truth Social. When asked on Saturday...",
-   "published": "2026-09-27T11:51:26+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-27T14:05:47.236543+00:00"
-  },
-  {
-   "id": "cb1641fae9802eff",
-   "title": "Iran \u2018miscalculating\u2019 by betting on midterms after 3-hour talks, Trump officials warn",
-   "url": "https://www.foxnews.com/politics/iran-miscalculating-betting-midterms-after-3-hour-talks-trump-officials-warn",
-   "summary": "President Donald Trump says Iran is waiting on midterm elections to cut a deal, but Marco Rubio warns Tehran misreads U.S. presidential powers.",
-   "published": "2026-09-27T11:00:03+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-09-27T14:05:46.297464+00:00"
-  },
-  {
-   "id": "00800b78f1b721eb",
-   "title": "I spent a full hour watching Trump TV. It\u2019s a digital pathway to hell | Dave Schilling",
-   "url": "https://www.theguardian.com/commentisfree/2026/sep/27/trump-tv-cable-news",
-   "summary": "The streaming channel was full of the president\u2019s vanity and myopia. It was also deeply, deeply dullAre you currently at an airport? Strapped to a hospital bed, with various tubes protruding from your body? Maybe you\u2019re on a treadmill or visiting an elder care facility? Chained to a radiator in the basement from the Saw movies?If you said yes to any of these questions, you might be watching cable news while reading this column. Or maybe you\u2019re one of the hundreds of people currently watching Donald Trump\u2019s answer to cable news, Trump TV \u2013 a YouTube streaming channel that airs nothing but White",
-   "published": "2026-09-27T11:00:03+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-09-27T14:05:46.968568+00:00"
-  },
-  {
-   "id": "9a67f2a9d151c70c",
-   "title": "Supreme Court\u2019s liberals see dash of progress on emergency appeals, or \u2018shadow docket\u2019",
-   "url": "https://thehill.com/regulation/court-battles/6112423-supreme-court-explaining-emergency-decisions/",
-   "summary": "The Supreme Court\u2019s liberal justices keep dissenting, but they also are seeing some progress on one front as the Trump administration floods the court with emergency appeals.  During recent talks to judges and law students, Justices Elena Kagan and Ketanji Brown Jackson both welcomed their colleagues\u2019 increasing willingness to pen opinions publicly explaining their fast-track...",
-   "published": "2026-09-27T10:00:00+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-27T14:05:47.236566+00:00"
-  },
-  {
-   "id": "2ca26f297b8a6fc1",
-   "title": "The Memo: Trump\u2019s media ban overshadows Xi visit as midterms clock runs down",
-   "url": "https://thehill.com/homenews/administration/6112681-trump-xi-visit-media-clash/",
-   "summary": "The key moment of President Trump\u2019s week did not come at the state dinner with Chinese premier Xi Jinping nor as the two leaders toured the National Archives. It came instead on social media. On Thursday afternoon, Trump proclaimed the arrival of Xi and his wife, Peng Liyuan, as \u201cmagnificent\u201d but bemoaned the sparsity of...",
-   "published": "2026-09-27T10:00:00+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-27T14:05:47.236570+00:00"
-  },
-  {
-   "id": "597705daad8df8f4",
-   "title": "Massive ICE sweep fuels GOP push to lock Trump immigration crackdown into law",
-   "url": "https://www.foxnews.com/politics/massive-ice-sweep-fuels-gop-push-lock-trump-immigration-crackdown-law",
-   "summary": "Hoosier Sen. Jim Banks says a five-day ICE operation netting 426 arrests in Indiana proves why Trump&apos;s mass deportation agenda must become law.",
-   "published": "2026-09-27T09:00:55+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-09-27T14:05:46.297486+00:00"
-  },
-  {
-   "id": "9f2bd8484d776f96",
-   "title": "Nicki Minaj urges young Americans to 'vote red' in 2026 midterms while doubling down on Trump support",
-   "url": "https://www.foxnews.com/politics/nicki-minaj-urges-young-americans-vote-red-2026-midterms-doubling-down-trump-support",
-   "summary": "Nicki Minaj urged young Americans to &quot;vote red&quot; in midterm elections and revealed why she&apos;s made it her mission to support President Donald Trump.",
-   "published": "2026-09-27T06:39:42+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-09-27T08:16:47.998839+00:00"
   }
  ]
 }
