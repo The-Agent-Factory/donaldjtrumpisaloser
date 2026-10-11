@@ -1,7 +1,62 @@
 {
- "updated": "2026-10-11T16:34:57.117877+00:00",
- "count": 896,
+ "updated": "2026-10-11T18:58:06.518994+00:00",
+ "count": 894,
  "articles": [
+  {
+   "id": "2738f5d126ba57de",
+   "title": "Trump and Rubio weigh firing Kimberly Guilfoyle after reports of improper conduct",
+   "url": "https://www.theguardian.com/us-news/2026/oct/11/trump-rubio-weigh-firing-kimberly-guilfoyle",
+   "summary": "Senior official says president and US secretary of state are \u2018extremely pissed off\u2019 by conduct of US envoy to GreeceDonald Trump and Marco Rubio, the secretary of state, are considering firing US ambassador to Greece Kimberly Guilfoyle after a series of reports alleging she has engaged in improper and possibly illegal conduct before and during her tenure in Athens.A senior US official said Sunday that Trump and Rubio are \u201cextremely pissed off\u201d by Guilfoyle\u2019s reported conduct and would likely decide on what action to take this week after Monday\u2019s federal holiday. Continue reading...",
+   "published": "2026-10-11T18:34:10+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-10-11T18:58:05.684745+00:00"
+  },
+  {
+   "id": "a3f228cc82c4f94a",
+   "title": "Zelensky 'awaiting details' from US on Russia-Ukraine energy ceasefire claimed by Trump",
+   "url": "https://thehill.com/policy/international/6141551-ukraine-reacts-trump-russia-deal/",
+   "summary": "Ukrainian President Volodymyr Zelensky said Sunday that Kyiv is awaiting details from Washington about an energy ceasefire with Russia announced by President Trump, casting uncertainty over an agreement the president claimed had already taken effect. \u201cUkraine supports the ceasefire, and it\u2019s important for Russia to support it as well. We are awaiting details from the...",
+   "published": "2026-10-11T18:30:39+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-11T18:58:05.912537+00:00"
+  },
+  {
+   "id": "68542c94dd656041",
+   "title": "Abdul El-Sayed: Democrats must \u2018win by massive numbers\u2019 to fend off Trump election denial",
+   "url": "https://www.theguardian.com/us-news/2026/oct/11/abdul-el-sayed-democrats-must-win-by-massive-numbers",
+   "summary": "Democratic Senate candidate\u2019s remarks come as Trump has long baselessly claimed his 2020 election loss was stolenDemocrats must \u201cwin by massive numbers\u201d during November\u2019s federal midterm elections because Donald Trump and his Republican allies are bound to try to sow doubt about the integrity of the results, Democratic Senate candidate Abdul El-Sayed of Michigan said on Sunday.El-Sayed\u2019s comments on NBC\u2019s Meet the Press came with the Democrats favored to win control of the House of Representatives during the 3 November midterms \u2013 and polls show that the party could also win Senate seats in sta",
+   "published": "2026-10-11T17:23:28+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-10-11T18:58:05.684755+00:00"
+  },
+  {
+   "id": "8fac10456ebcc3ed",
+   "title": "Mullin says livestreaming Hasan execution is part of 'restoring American values'",
+   "url": "https://thehill.com/homenews/administration/6141440-mullin-backs-hasan-execution-livestream/",
+   "summary": "Department of Homeland Security (DHS) Secretary Markwayne Mullin stood behind the Trump administration\u2019s decision to livestream the military execution of convicted Fort Hood shooter Nidal Hasan, despite growing bipartisan criticism over the plan. In an interview with CBS News\u2019s \u201cFace the Nation\u201d on Sunday, Mullin dismissed concerns coming from across party lines that publicizing Hasan\u2019s...",
+   "published": "2026-10-11T16:46:48+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-11T18:58:05.912574+00:00"
+  },
+  {
+   "id": "0f458be390f90275",
+   "title": "'Catfish Girl' Hannah Barron plays the hits with bowfishing influencer content in her bikini",
+   "url": "https://www.foxnews.com/outkick-sports/catfish-girl-hannah-barron-plays-hits-bowfishing-influencer-content-bikini",
+   "summary": "Hannah Barron brought back her viral bowfishing content paired with her new bikini line, proving the outdoor influencer knows how to play the hits.",
+   "published": "2026-10-11T16:32:32+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-10-11T18:58:05.263344+00:00"
+  },
   {
    "id": "322c420f5d496154",
    "title": "Emmer says he's 'so happy' Trump will decide whether to stream public execution",
@@ -12,6 +67,17 @@
    "source_id": "thehill",
    "bias_note": "center",
    "first_seen": "2026-10-11T16:34:55.984175+00:00"
+  },
+  {
+   "id": "c1b5d275bf646baa",
+   "title": "The Guardian view on the US, Russia and the international criminal court: Trump\u2019s assault on the rule of law intensifies | Editorial",
+   "url": "https://www.theguardian.com/commentisfree/2026/oct/11/the-guardian-view-on-the-us-russia-and-the-international-criminal-court-trumps-assault-on-the-rule-of-law-intensifies",
+   "summary": "A fuel deal with Vladimir Putin, and sanctions against the legal institution, ram home the president\u2019s belief that might is rightOn Friday, Donald Trump drove home his belief that might is right and the rule of law is an obstacle rather than an essential foundation stone of international order. First came the escalated assault on the international criminal court (ICC), sanctioning the body itself. Then he announced a deal with Russia to&nbsp;buy diesel.The US has long chafed at the notion of being bound&nbsp;by the rule of law that it espoused publicly. That&nbsp;hypocrisy now appears as a les",
+   "published": "2026-10-11T16:25:39+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-10-11T18:58:05.684785+00:00"
   },
   {
    "id": "6710ac7228dd26d8",
@@ -146,6 +212,17 @@
    "first_seen": "2026-10-11T12:58:35.317351+00:00"
   },
   {
+   "id": "1998a0d8bfbef81c",
+   "title": "Justice Department investigates TV networks, citing possible anti-trust violations",
+   "url": "https://www.npr.org/2026/10/11/nx-s1-5997574/the-doj-is-investigating-5-tv-networks-for-suspending-pool-coverage-of-trump",
+   "summary": "The move escalates Trump's fight with the press amid court battle over barring CNN, Politico and MS NOW from the White House.",
+   "published": "2026-10-11T12:04:00+00:00",
+   "source": "NPR Politics",
+   "source_id": "npr-politics",
+   "bias_note": "center",
+   "first_seen": "2026-10-11T18:58:05.664951+00:00"
+  },
+  {
    "id": "8ff3d20cec3e8e38",
    "title": "Politics chat: Trump announces fuel deal with Russia. What does it mean for sanctions?",
    "url": "https://www.npr.org/2026/10/11/nx-s1-5996550/politics-chat-trump-announces-fuel-deal-with-russia-what-does-it-mean-for-sanctions",
@@ -210,6 +287,17 @@
    "source_id": "guardian-uspolitics",
    "bias_note": "left-leaning",
    "first_seen": "2026-10-11T12:58:34.166504+00:00"
+  },
+  {
+   "id": "6b499fecc6c88e6a",
+   "title": "\u2018When you look at the numbers, we win\u2019: the prophetic Texas pastor poised to take Jasmine Crockett\u2019s House seat",
+   "url": "https://www.theguardian.com/us-news/2026/oct/11/rev-dr-frederick-douglass-haynes-iii-texas-house",
+   "summary": "Rev Dr Frederick Douglass Haynes III is reclaiming a faith-based politics to counter Trump-allied white evangelicalsIt was that point in the evening: dinner plates were cleared; speeches had run long; people were chatting, milling or eyeing the exit. But then the Rev Dr Frederick Douglass Haynes III took the stage. Bald, bearded, bespectacled and dressed in black, he delivered a mix of fiery sermon and performance poetry. Soon the guests were back in their seats \u2013 rapt, listening, clapping and whooping.Haynes\u2019s rolling cadence was evocative of the pulpit but the political message was far from ",
+   "published": "2026-10-11T10:00:23+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-10-11T18:58:05.684822+00:00"
   },
   {
    "id": "9259c9e8820f7c80",
@@ -9747,116 +9835,6 @@
    "source_id": "thehill",
    "bias_note": "center",
    "first_seen": "2026-09-27T23:06:17.973268+00:00"
-  },
-  {
-   "id": "746e3f8e130e0bf6",
-   "title": "Iran 'fully prepared' for war to resume if Trump authorizes strikes after midterms",
-   "url": "https://thehill.com/policy/international/6113728-araghchi-warns-trump-aggression/",
-   "summary": "Iranian Foreign Minister Abbas Araghchi on Sunday said that his country is \"fully prepared\" for the conflict with the U.S. to resume if President Trump authorizes new strikes on the regime after the November midterm elections. Araghchi told NBC News's Kristen Welker in an interview on \"Meet the Press\" that the U.S. has \"tested us...",
-   "published": "2026-09-27T18:37:16+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-27T23:06:17.973271+00:00"
-  },
-  {
-   "id": "90c20609f57e630f",
-   "title": "Republican says Trump\u2019s support of Ken Paxton in Texas primary was \u2018colossal mistake\u2019",
-   "url": "https://www.theguardian.com/us-news/2026/sep/27/republican-tillis-trump-paxton",
-   "summary": "Thom Tillis says Trump\u2019s decision to back Paxton over John Cornyn has put the Senate seat at risk for RepublicansUS senator Thom Tillis on Sunday criticized Donald Trump, his fellow Republican, for the president\u2019s support of Ken Paxton over incumbent John Cornyn in the Texas Senate Republican primary.\u201cHe made a colossal mistake,\u201d Tillis, a frequent Trump critic from North Carolina, said during an interview on CNN\u2019s State of the Union in reference to the president\u2019s support of Paxton who defeated Cornyn in the May primary. Continue reading...",
-   "published": "2026-09-27T18:19:02+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-09-27T18:28:40.286656+00:00"
-  },
-  {
-   "id": "cd121e133a2b86e2",
-   "title": "Trump calls arrests of UK men on suspicion of terror offenses 'fantastic'",
-   "url": "https://thehill.com/homenews/administration/6113865-trump-praises-uk-arrests-raf-plot/",
-   "summary": "President Trump on Sunday praised law enforcement in the U.K. for its work in arresting five men suspected of planning a terror attack on a U.S. air base. \u201cThe arrest in the U.K. was fantastic. Working with Britain, it was an amazing job,\u201d Trump told reporters in Chicago, according to NewsNation\u2019s Libbey Dean. The president...",
-   "published": "2026-09-27T17:54:49+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-27T18:28:41.634914+00:00"
-  },
-  {
-   "id": "107709108cff14ea",
-   "title": "Facing up to the threat that Reform poses to our democracy | Letters",
-   "url": "https://www.theguardian.com/politics/2026/sep/27/facing-up-to-the-threat-that-reform-poses-to-our-democracy",
-   "summary": "Readers respond to an article by John Harris in which he urges Labour to offer hope and change John Harris writes: \u201cReform is apparently in deep trouble, yet also still in with a serious chance. How come?\u201d (Don\u2019t discount Reform because it\u2019s had a bad year. In our angry, fragile democracy, anything can happen, 20 September). Because it is a cult, just as Maga is a cult. It is sustained by faith, not fact. It offers simple solutions to problems of such complexity that most of us are incapable of understanding them.Reform UK would not exist without Nigel Farage. All his other \u201cparties\u201d only exis",
-   "published": "2026-09-27T17:25:35+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-09-27T18:28:40.286670+00:00"
-  },
-  {
-   "id": "3f31150c24d1c500",
-   "title": "DAVID MARCUS: Why JD Vance's reshoring message is a perfect fit for struggling small towns like St. Cloud",
-   "url": "https://www.foxnews.com/opinion/david-marcus-jd-vance-reshoring-message-perfect-fit-struggling-small-towns-st-cloud",
-   "summary": "St. Cloud, Minnesota&apos;s struggling downtown could be revitalized by JD Vance&apos;s reshoring agenda, but Somali immigration and fraud concerns loom large.",
-   "published": "2026-09-27T17:10:52+00:00",
-   "source": "Fox News Latest",
-   "source_id": "foxnews-latest",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-09-27T18:28:39.516195+00:00"
-  },
-  {
-   "id": "1d286d33e3b5e81a",
-   "title": "Texas clinic owner convicted in $26M military health fraud tied to gold-plated Cybertruck",
-   "url": "https://www.foxnews.com/us/texas-clinic-owner-convicted-26m-military-health-fraud-gold-plated-cybertruck",
-   "summary": "Kevin D. Curry used TRICARE kickbacks to fund a gold-plated Tesla Cybertruck and lavish parties after billing $26 million in fake TMS therapy claims.",
-   "published": "2026-09-27T17:09:40+00:00",
-   "source": "Fox News Latest",
-   "source_id": "foxnews-latest",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-09-27T18:28:39.516213+00:00"
-  },
-  {
-   "id": "739238c7bf35764e",
-   "title": "If Trump is serious about antisemitism, he should reopen this lifeline for refugees",
-   "url": "https://thehill.com/opinion/immigration/6112891-iranian-minorities-awaiting-visa-relief/",
-   "summary": "As Congress faces a Sept. 30 deadline to reauthorize the Lautenberg Amendment, critics argue the Trump administration has undermined the program by closing the processing centers essential for helping Iranian religious minorities escape persecution.",
-   "published": "2026-09-27T17:00:00+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-27T18:28:41.634940+00:00"
-  },
-  {
-   "id": "6b882b995d126d9d",
-   "title": "Ukraine's attacks on Russia are pushing Putin closer to negotiating table, Trump NATO ambassador says",
-   "url": "https://www.foxnews.com/media/ukraine-attacks-russia-pushing-putin-closer-negotiating-table-trump-nato-ambassador-says",
-   "summary": "Matt Whitaker says Ukrainian attacks inside Russia are pushing both sides closer to peace talks as Trump presses Putin and Zelenskyy to negotiate.",
-   "published": "2026-09-27T16:59:44+00:00",
-   "source": "Fox News Latest",
-   "source_id": "foxnews-latest",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-09-27T18:28:39.516240+00:00"
-  },
-  {
-   "id": "8ba2a676bcf7644f",
-   "title": "Blanche claims Trump 'hasn't denied access' to White House reporters",
-   "url": "https://thehill.com/homenews/administration/6113681-blanche-defends-trump-media-ban/",
-   "summary": "Attorney General Todd Blanche on Sunday claimed that President Trump did not deny White House reporters access to the executive mansion, after the president banned CNN, Politico and MS NOW reporters from the grounds and had their passes confiscated by Secret Service. \"Well, the president hasn't denied access,\" Blanche told host Martha Raddatz during the...",
-   "published": "2026-09-27T16:52:27+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-27T18:28:41.634944+00:00"
-  },
-  {
-   "id": "11dcef23f7199f5e",
-   "title": "Kennedy suggests 'rule' that no politician should have a building named after them while alive",
-   "url": "https://thehill.com/homenews/senate/6113763-gop-senator-opposes-living-building-names/",
-   "summary": "GOP Sen. John Kennedy (La.) said Sunday that public officials should not have buildings named after them while they are alive, as President Trump fights to rename the Kennedy Center after himself.\u00a0 During an interview on CBS News\u2019s \u201cFace the Nation,\u201d Kennedy said public officials, including Trump, should not \u201cspend public money on private ads...",
-   "published": "2026-09-27T16:39:04+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-27T18:28:41.634950+00:00"
   }
  ]
 }
