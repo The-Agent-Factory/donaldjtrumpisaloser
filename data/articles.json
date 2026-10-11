@@ -1,7 +1,51 @@
 {
- "updated": "2026-10-10T23:36:38.050458+00:00",
- "count": 896,
+ "updated": "2026-10-11T05:54:38.505362+00:00",
+ "count": 898,
  "articles": [
+  {
+   "id": "5aaa926c16fa8923",
+   "title": "Trump says he'd 'love' to have Sen. John Fetterman as a Republican amid growing speculation",
+   "url": "https://www.foxnews.com/politics/trump-says-hed-love-have-sen-john-fetterman-republican-amid-growing-speculation",
+   "summary": "President Donald Trump called Sen. John Fetterman a &quot;great guy&quot; and said he would welcome the Pennsylvania Democrat into the Republican Party ranks.",
+   "published": "2026-10-11T03:46:18+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-10-11T05:54:37.247257+00:00"
+  },
+  {
+   "id": "6bb924f4c34c22be",
+   "title": "Trump says he will 'make a decision' on Pentagon's plans to livestream Nidal Hasan's firing squad execution",
+   "url": "https://www.foxnews.com/politics/trump-says-he-make-decision-pentagons-plans-livestream-nidal-hasans-firing-squad-execution",
+   "summary": "President Donald Trump says he hasn&apos;t decided whether Nidal Malik Hasan&apos;s firing squad execution at Fort Hood will be livestreamed, weighing deterrence value.",
+   "published": "2026-10-11T03:37:40+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-10-11T05:54:37.247265+00:00"
+  },
+  {
+   "id": "53c2013f0ab39101",
+   "title": "Trump continues red state campaign swing with Montana, Arizona rallies next week",
+   "url": "https://thehill.com/homenews/campaign/6140976-trump-rallies-montana-arizona/",
+   "summary": "President Trump will continue his red state campaign swing with recently announced\u00a0rallies in Montana and Arizona slated for this week with important races in each state just under a month away. The Arizona rally is tentatively planned to be hosted at Laughlin Bullhead International Airport in Bullhead City \u2013 a town near the Nevada border...",
+   "published": "2026-10-11T02:42:36+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-11T05:54:37.881417+00:00"
+  },
+  {
+   "id": "7edbe44114ad8c0b",
+   "title": "Trump says he will \u2018ultimately make decision\u2019 on Fort Hood shooter execution livestream",
+   "url": "https://thehill.com/homenews/administration/6140915-trump-reviews-hasan-execution-plan/",
+   "summary": "President Trump said he will \u201cmake a decision ultimately\u201d on whether to livestream the execution by firing squad of convicted Fort Hood shooter Nidal Hasan following GOP backlash. \u201cHe\u2019s a vicious killer, killed 13 people in cold blood, wounded over 20. Some of those people will never have their lives back in a true sense,\u201d...",
+   "published": "2026-10-10T23:59:18+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-11T05:54:37.881426+00:00"
+  },
   {
    "id": "32c1c6be9a737bdd",
    "title": "GOP lawmakers reject U.S.-Russia diesel deal, Trump's Zelensky comments",
@@ -9835,28 +9879,6 @@
    "source_id": "foxnews-politics",
    "bias_note": "right-leaning",
    "first_seen": "2026-09-27T08:16:47.998839+00:00"
-  },
-  {
-   "id": "595f11f19366bb8e",
-   "title": "Trump slams reporting on removal of his endorsements from GOP candidate's website",
-   "url": "https://thehill.com/homenews/administration/6113353-trump-denies-byron-donalds-endorsement-story/",
-   "summary": "President Trump criticized the media on Saturday following reports that GOP Rep. Byron Donalds (Fla.) removed several references to the president\u2019s endorsement of his gubernatorial bid from his campaign website.\u00a0 The president slammed this reporting as \u201cAnother Fake Story\u201d in a Truth Social post, citing his election wins in Florida during his three presidential campaigns....",
-   "published": "2026-09-27T00:07:59+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-27T00:40:14.857282+00:00"
-  },
-  {
-   "id": "10a2f1e51c33dc04",
-   "title": "Trump tells female MS Now reporter to \u2018be quiet\u2019 amid questions on press pool ban",
-   "url": "https://www.theguardian.com/us-news/2026/sep/26/trump-female-ms-now-reporter",
-   "summary": "US president doubles down on criticism of CNN and MS Now as Akayla Gardner questions attempted White House banA day after the White House barred CNN from traveling aboard Air Force One to provide pool television coverage of the president\u2019s trip to Tennessee, Donald Trump doubled down on his criticism of that broadcaster and another, MS Now, he has attempted to ban over coverage of him he calls overly negative.As he left the White House early on Saturday, Trump was asked by MS Now White House correspondent Akayla Gardner: \u201cDo you only want outlets that support you to be a part of the press pool",
-   "published": "2026-09-26T23:41:39+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-09-27T00:40:14.543700+00:00"
   }
  ]
 }
