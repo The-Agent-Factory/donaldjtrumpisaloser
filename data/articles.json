@@ -1,7 +1,51 @@
 {
- "updated": "2026-10-11T23:42:46.967546+00:00",
- "count": 898,
+ "updated": "2026-10-12T06:05:33.960669+00:00",
+ "count": 896,
  "articles": [
+  {
+   "id": "7cadede6432d7d50",
+   "title": "Judge orders the Trump administration to cancel taxpayer-funded promotional TV ads",
+   "url": "https://abcnews.com/Politics/wireStory/judge-orders-trump-administration-cancel-taxpayer-funded-promotional-137183951",
+   "summary": "A federal judge has ordered President Donald Trump to cancel any remaining television commercials paid for with millions of dollars in taxpayer money to promote his political message",
+   "published": "2026-10-12T04:02:27+00:00",
+   "source": "ABC News Politics",
+   "source_id": "abc-politics",
+   "bias_note": "center",
+   "first_seen": "2026-10-12T06:05:33.687233+00:00"
+  },
+  {
+   "id": "d231cd3223005b2d",
+   "title": "Greene calls Trump \u2018America last\u2019 in scathing attack",
+   "url": "https://thehill.com/homenews/administration/6141980-greene-slams-trump-america-last/",
+   "summary": "Former Rep. Marjorie Taylor Greene (R-Ga.) again slammed President Trump on Sunday, continuing a longstanding feud between the president and his former supporter, calling him \u201cAmerica last.\u201d Greene on Sunday posted a screenshot of an email from what appeared to be Trump\u2019s campaign, with a line in the message reading \u201cCongresswoman Marjorie Taylor, did I...",
+   "published": "2026-10-12T02:10:22+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-12T06:05:32.947584+00:00"
+  },
+  {
+   "id": "b4a88f9543c087ba",
+   "title": "Trump says new press secretary to hold first press conference next week",
+   "url": "https://thehill.com/homenews/media/6141936-zacharia-to-hold-first-white-house-briefing/",
+   "summary": "President Trump said Sunday that his new White House press secretary, Katie Zacharia, will hold her first press conference next week. \u201cI am pleased to announce that Katie Zacharia will be beginning her term as Press Secretary tomorrow, Columbus Day, and will be doing an introductory News Conference on Tuesday at 9:30 A.M. from the...",
+   "published": "2026-10-12T01:06:57+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-12T06:05:32.947601+00:00"
+  },
+  {
+   "id": "1dab89155621abec",
+   "title": "Judge orders cancellation of Trump\u2019s government-funded ads",
+   "url": "https://thehill.com/regulation/court-battles/6141904-judge-blocks-trump-ads/",
+   "summary": "A federal judge on Sunday told the Trump administration its new ads featuring the president are likely unlawful and\u00a0must stop \u2014 including any set to be aired later in the day.\u00a0 The administration had indicated the ad campaign is set to end on Sunday, so there was no need for the judge to intervene.\u00a0 In...",
+   "published": "2026-10-12T00:20:38+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-12T06:05:32.947607+00:00"
+  },
   {
    "id": "3d08f5d8df5c5da4",
    "title": "Minnesota homecoming shooting suspect out on bond after gunfire sends football fans fleeing",
@@ -9813,72 +9857,6 @@
    "source_id": "foxnews-politics",
    "bias_note": "right-leaning",
    "first_seen": "2026-09-28T14:04:34.754596+00:00"
-  },
-  {
-   "id": "b406c22e3f6f6bd7",
-   "title": "New Jersey Republican Tom Kean Jr. and Democrat Rebecca Bennett clash over war in Iran, tariffs",
-   "url": "https://abcnews.com/Politics/wireStory/new-jersey-republican-tom-kean-jr-democrat-rebecca-136795023",
-   "summary": "Tom Kean Jr., the New Jersey Republican congressman whose four-month absence from the House this year went unexplained until he disclosed that he was being treated for depression, clashed with Democratic opponent Rebecca Bennett in a debate Sunday in t...",
-   "published": "2026-09-28T05:57:02+00:00",
-   "source": "ABC News Politics",
-   "source_id": "abc-politics",
-   "bias_note": "center",
-   "first_seen": "2026-09-28T14:04:37.129942+00:00"
-  },
-  {
-   "id": "a2c6e0c53e94f504",
-   "title": "Trump to travel to Ohio to stump for Sen. Jon Husted as the Republican faces competitive challenge",
-   "url": "https://abcnews.com/Politics/wireStory/trump-travel-ohio-stump-sen-jon-husted-republican-136807948",
-   "summary": "President Donald Trump plans to visit Ohio on Saturday in support of Sen. Jon Husted as the Republican tries to fend off a competitive challenge from Democratic former Sen. Sherrod Brown",
-   "published": "2026-09-28T05:55:11+00:00",
-   "source": "ABC News Politics",
-   "source_id": "abc-politics",
-   "bias_note": "center",
-   "first_seen": "2026-09-28T14:04:37.129925+00:00"
-  },
-  {
-   "id": "138b2b1ba2566380",
-   "title": "Trump floated US weapons sales to Xi, ambassador says",
-   "url": "https://thehill.com/policy/defense/6114367-trump-proposed-selling-weapons-china/",
-   "summary": "U.S. Ambassador to China David Perdue said Sunday that President Trump proposed selling weapons to China during recent meetings with the country\u2019s president Xi Jinping. \u201cPresident Trump continues to say, \u2018Hey, we sell arms to other people around the world,\u2019\u201d Perdue told host Shannon Bream on \u201cFox News Sunday.\u201d  \u201cHe actually asked President Xi, would...",
-   "published": "2026-09-28T03:02:14+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-28T05:30:31.159332+00:00"
-  },
-  {
-   "id": "ba49f6a1d24f606f",
-   "title": "U.S.-China Board of Trade",
-   "url": "https://www.whitehouse.gov/releases/2026/09/u-s-china-board-of-trade/",
-   "summary": "U.S.-China Board of Trade \u201c30-FOR-30\u201d Lists of Products Recommended\u00a0for Reduced Tariff Treatment The United States and China will consider the following list of U.S. products for import into China and list of Chinese products for import into the United States with a view toward providing reduced tariff treatment to those goods in a reciprocal manner, [&#8230;]\nThe post U.S.-China Board of Trade appeared first on The White House.",
-   "published": "2026-09-28T01:59:36+00:00",
-   "source": "WhiteHouse.gov News",
-   "source_id": "whitehouse",
-   "bias_note": "official/primary-source",
-   "first_seen": "2026-09-28T05:30:30.513325+00:00"
-  },
-  {
-   "id": "b6336641063801de",
-   "title": "White House airs taxpayer-funded ad talking about 'the final battle'",
-   "url": "https://thehill.com/homenews/administration/6114342-trump-nfl-ad-airing/",
-   "summary": "A taxpayer-funded advertisement from the White House aired Sunday during the commercial breaks of two NFL games, CNN reported. Included in the ad, according to the outlet, was imagery of President Trump making his way through a hall with a voiceover of the president saying, \u201cthis is the final battle.\u201d \u201cWe will cast out the...",
-   "published": "2026-09-28T01:27:04+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-28T05:30:31.159347+00:00"
-  },
-  {
-   "id": "7036fc8b4fdb06d5",
-   "title": "MLB, Trump administration mulling baseball game in National Park: Report",
-   "url": "https://thehill.com/policy/sports-gaming/6114278-mlb-grand-teton-national-park/",
-   "summary": "Major League Baseball (MLB) and the Trump administration are considering hosting a baseball game in a national park, according to a new report. The Washington Post reported Saturday that MLB and White House officials told the outlet that the league had broached the topic of a game happening at a national park to the Trump...",
-   "published": "2026-09-28T00:21:00+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-28T05:30:31.159353+00:00"
   }
  ]
 }
