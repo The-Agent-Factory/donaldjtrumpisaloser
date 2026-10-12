@@ -1,7 +1,172 @@
 {
- "updated": "2026-10-12T20:10:22.535398+00:00",
- "count": 878,
+ "updated": "2026-10-12T23:01:59.844970+00:00",
+ "count": 881,
  "articles": [
+  {
+   "id": "28f698a23f6451a6",
+   "title": "Rep. Omar accuses Trump of political intimidation after agents search her home",
+   "url": "https://www.pbs.org/newshour/show/rep-omar-accuses-trump-of-political-intimidation-after-agents-search-her-home",
+   "summary": "Federal agents searched the Washington, D.C., home of Minnesota Democratic Congresswoman Ilhan Omar early Monday. Agents with Homeland Security Investigations were seen carrying boxes from the home. Rep. Omar accused the Trump administration of political intimidation. Geoff Bennett discussed more with Devlin Barrett, a New York Times reporter and author of \"The Department of Revenge.\"",
+   "published": "2026-10-12T22:55:20+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-10-12T23:01:59.266089+00:00"
+  },
+  {
+   "id": "e78caee0efaf6790",
+   "title": "The Memo: Trump critics allege abuse of power as Ilhan Omar\u2019s home is raided",
+   "url": "https://thehill.com/homenews/analysis/6144242-omars-reelection-facing-political-firestorm/",
+   "summary": "Federal agents raided the Washington area home of Rep. Ilhan Omar (D-Minn.) on Monday, sparking an instant political firestorm. Critics of President Trump immediately cast the raid as an abuse of power victimizing a congresswoman who has been a vigorous opponent of the White House, while conservatives celebrated. The Democratic House leadership released a joint...",
+   "published": "2026-10-12T22:38:23+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-12T23:01:59.058588+00:00"
+  },
+  {
+   "id": "007c5613859f51f6",
+   "title": "Trump administration scandals suck up oxygen as Dems seek midterm advantage",
+   "url": "https://thehill.com/homenews/campaign/6144155-donald-trump-allies-democrats-midterm-elections/",
+   "summary": "Scandals rocking President Trump\u2019s orbit are taking center stage ahead of the midterms as Democrats look for fresh ways to tie their Republican opponents to the president. Last week, a report surfaced indicating Trump\u2019s ambassador to Greece, Kimberly Guilfoyle, privately solicited cash to pay down her debts ahead of her confirmation hearing. Meanwhile, separate reporting...",
+   "published": "2026-10-12T22:38:16+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-12T23:01:59.058597+00:00"
+  },
+  {
+   "id": "05ff6d7c5175fe25",
+   "title": "Tamara Keith and Amy Walter on the GOP's vulnerability in the midterms",
+   "url": "https://www.pbs.org/newshour/show/tamara-keith-and-amy-walter-on-the-gops-vulnerability-in-the-midterms",
+   "summary": "NPR's Tamara Keith and Amy Walter of the Cook Political Report with Amy Walter join Geoff Bennett to discuss the latest political news, including President Trump on the campaign trail with the midterm elections closing in, the South Carolina Senate race becoming competitive, the closest Senate races and the taxpayer-funded pro-Trump advertisements.",
+   "published": "2026-10-12T22:35:32+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-10-12T23:01:59.266103+00:00"
+  },
+  {
+   "id": "4227246c7fb08a85",
+   "title": "New White House press secretary a \"devoted fan\" of Trump and MAGA",
+   "url": "https://www.npr.org/2026/10/12/nx-s1-5998948/new-white-house-press-secretary-a-devoted-fan-of-trump-and-maga",
+   "summary": "Katie Zacharia worked for one of Trump's companies and raised her profile appearing on conservative-leaning talk shows. She also amplified right-wing conspiracy theories. Now she'll be the president's chief spokesperson.",
+   "published": "2026-10-12T22:17:43+00:00",
+   "source": "NPR Politics",
+   "source_id": "npr-politics",
+   "bias_note": "center",
+   "first_seen": "2026-10-12T23:01:58.477318+00:00"
+  },
+  {
+   "id": "a12bf57ead5deebb",
+   "title": "Government spent $10 million on pro-Trump ads after president said super PAC would fund",
+   "url": "https://www.npr.org/2026/10/12/nx-s1-5998976/pro-trump-ads-taxpayer-funds-federal-judge",
+   "summary": "Nearly $22 million in taxpayers funds has been spent to air the ads, with nearly half spent after Trump promised to fund what the White House calls public service announcements through his super PAC.",
+   "published": "2026-10-12T22:16:47+00:00",
+   "source": "NPR Politics",
+   "source_id": "npr-politics",
+   "bias_note": "center",
+   "first_seen": "2026-10-12T23:01:58.477323+00:00"
+  },
+  {
+   "id": "031e5422377dd792",
+   "title": "WATCH LIVE: Trump speaks at midterm rally in Youngstown, Ohio",
+   "url": "https://www.pbs.org/newshour/politics/watch-live-trump-speaks-at-midterm-rally-in-youngstown-ohio",
+   "summary": "The president boarded Air Force One with a pair of Ohio-born celebrities ahead of a rally in Youngstown.",
+   "published": "2026-10-12T22:09:07+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-10-12T23:01:59.266112+00:00"
+  },
+  {
+   "id": "f050f1e90c2a8173",
+   "title": "Trump claims there's an energy ceasefire",
+   "url": "https://thehill.com/newsletters/energy-environment/6144117-trump-claims-theres-an-energy-ceasefire/",
+   "summary": "{beacon} Energy &#038; Environment Energy &#038; Environment &#8202; The Big Story  Trump said there's an energy ceasfire President Trump says that Russia and Ukraine had reached an energy ceasefire after he said Russia would supply diesel to the global marketplace. \u00a9 Julia Demaree Nikhinson, Associated Press \u201cEffective immediately, there is an ENERGY CEASEFIRE in the...",
+   "published": "2026-10-12T22:00:22+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-12T23:01:59.058612+00:00"
+  },
+  {
+   "id": "6c0bda11c6a6b754",
+   "title": "Trump calls Omar 'totally crooked' in first remarks on raid",
+   "url": "https://thehill.com/homenews/administration/6144098-trump-calls-omar-totally-crooked-in-first-remarks-on-raid/",
+   "summary": "President Trump called Rep. Ilhan Omar (D-Minn.) \u201ctotally crooked\u201d in his first remarks since federal agents searched her home as part of ongoing criminal investigations. \u201cWell, I understand they're looking at her very carefully,\u201d he told reporters before departing the White House for Ohio. \u201cI've always found her to be totally crooked personally, but that...",
+   "published": "2026-10-12T21:45:58+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-12T23:01:59.058617+00:00"
+  },
+  {
+   "id": "c5567bae6334d8fb",
+   "title": "Trump says he's 'looking at' firing Guilfoyle",
+   "url": "https://thehill.com/homenews/administration/6144067-trump-guilfoyle-firing-misconduct-reports/",
+   "summary": "President Trump confirmed reports that he is considering firing Kimberly Guilfoyle, the U.S. ambassador to Greece, amid misconduct allegations. \u201cWell, we\u2019re looking at it. Yeah, we\u2019re not happy,\u201d Trump told The Hill when speaking with reporters Monday on the White House South Lawn. The Wall Street Journal first reported last week that Guilfoyle asked Trump...",
+   "published": "2026-10-12T21:39:56+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-12T23:01:59.058622+00:00"
+  },
+  {
+   "id": "b9eda2cef5a90251",
+   "title": "Trump says he \u2018never thought\u2019 he\u2019d have to hold rallies again",
+   "url": "https://thehill.com/homenews/administration/6143955-trump-campaign-rallies-midterms/",
+   "summary": "President Trump said Sunday he \"never thought\" he would hold rallies again as he crisscrosses the country to campaign for Republicans ahead of the November midterm elections. Trump made the observation while letting Truth Social followers know he would campaign for Sen. Jon Husted (R-Ohio) and GOP gubernatorial candidate Vivek Ramaswamy in Youngstown, Ohio, on...",
+   "published": "2026-10-12T21:21:46+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-12T23:01:59.058655+00:00"
+  },
+  {
+   "id": "8c3f98e0c1fcacd5",
+   "title": "Trump\u2019s antitrust threat to NBC, CBS, ABC, CNN and Fox News: What to know",
+   "url": "https://thehill.com/homenews/media/6144038-doj-investigates-tv-networks-boycott/",
+   "summary": "The Department of Justice (DOJ) took many by surprise when it said over the weekend it would investigate the country's top television networks on antitrust grounds over a boycott the TV networks carried out last month in response to President Trump's ban of three news outlets from the White House. \u00a0 The announcement came as...",
+   "published": "2026-10-12T21:19:27+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-12T23:01:59.058661+00:00"
+  },
+  {
+   "id": "d7c077d02d62a991",
+   "title": "Watch live: Trump rallies in Ohio, seeking to boost GOP in midterm battles",
+   "url": "https://thehill.com/homenews/6143708-watch-live-donald-trump-ohio-rally-husted-ramaswamy-2026-midterms/",
+   "summary": "President Trump is returning to Ohio Monday evening, as Republicans fight to defend two key seats in a state that has emerged as an unexpected midterm battleground. He is expected to campaign alongside Sen. Jon Husted (R-Ohio), just days after Vice President Vance rallied voters in the Buckeye State. The visits come as Husted trails...",
+   "published": "2026-10-12T21:00:00+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-12T23:01:59.058673+00:00"
+  },
+  {
+   "id": "d76a4baae67f795f",
+   "title": "Mailers promoting a socialist candidate in Ohio Senate race have links to MAGA super PAC vendor",
+   "url": "https://www.pbs.org/newshour/politics/mailers-promoting-a-socialist-candidate-in-ohio-senate-race-have-links-to-maga-super-pac-vendor",
+   "summary": "The mailers are sponsored by Enough Promises Ohio PAC and began arriving in voters' mailboxes in recent days.",
+   "published": "2026-10-12T20:55:09+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-10-12T23:01:59.266116+00:00"
+  },
+  {
+   "id": "5ab465816c2d5c86",
+   "title": "Bisignano vows Social Security will last another 90 years",
+   "url": "https://thehill.com/newsletters/business-economy/6143939-bisignano-vows-social-security-will-last-another-90-years/",
+   "summary": "Welcome to The Hill's Business &#038; Economy newsletter {beacon} Business &#038; Economy Business &#038; Economy &#8202; The Big Story  Bisignano vows Social Security will last another 90 years Frank Bisignano, the commissioner of the Social Security Administration (SSA), said Monday the program will last another 90 years.  \u00a9 AP Photo/Mariam Zuhaib \u201cThis is a long...",
+   "published": "2026-10-12T20:38:25+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-12T23:01:59.058678+00:00"
+  },
   {
    "id": "f8f7d6d0dc5d3aa9",
    "title": "US military archbishop: Streamed execution threatens to 'imitate the terrorists'",
@@ -9527,138 +9692,6 @@
    "source_id": "foxnews-politics",
    "bias_note": "right-leaning",
    "first_seen": "2026-09-29T02:01:45.357397+00:00"
-  },
-  {
-   "id": "5c949366aef113d7",
-   "title": "NFL to DHS: Take down video featuring Eagles star Brian Dawkins",
-   "url": "https://thehill.com/policy/sports-gaming/6116370-brian-dawkins-immigration-video/",
-   "summary": "The Department of Homeland Security (DHS) is refusing a request from the NFL and former Philadelphia Eagles player Brian Dawkins to take down a video it posted using the Hall of Fame safety to promote President Trump's immigration agenda. The video, which was posted Sunday on a DHS social media account, responded to a headline...",
-   "published": "2026-09-28T22:49:28+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-29T02:01:46.047135+00:00"
-  },
-  {
-   "id": "de426450974560df",
-   "title": "Thune: Ads promoting Trump political message 'shouldn\u2019t be paid for by taxpayer dollars'",
-   "url": "https://thehill.com/homenews/senate/6116369-thune-criticizes-trump-ads/",
-   "summary": "Senate Majority Leader John Thune (R-S.D.) told reporters Monday that while he likes President Trump\u2019s new ads pledging to \u201ccast out the communists, Marxists and fascists,\u201d they \u201cshouldn\u2019t be paid for by taxpayer dollars.\u201d Thune warned Trump about using taxpayer money for ads that resemble the political ads he ran online during the 2024 presidential...",
-   "published": "2026-09-28T22:35:14+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-29T02:01:46.047155+00:00"
-  },
-  {
-   "id": "5760d8d1a8444de9",
-   "title": "How Blanche is shattering DOJ's standard of political independence",
-   "url": "https://www.pbs.org/newshour/show/how-blanche-is-shattering-dojs-standard-of-political-independence",
-   "summary": "The nation's top federal law official is drawing scrutiny for his recent political appearances. With just five weeks left until the midterms, some experts say Attorney General Todd Blanche is blurring lines meant to keep the Justice Department free of partisan bias.  Justice correspondent Ali Rogin reports.",
-   "published": "2026-09-28T22:35:07+00:00",
-   "source": "PBS NewsHour Politics",
-   "source_id": "pbs-politics",
-   "bias_note": "center",
-   "first_seen": "2026-09-29T02:01:46.377974+00:00"
-  },
-  {
-   "id": "b6561da51a42d47b",
-   "title": "Tamara Keith and Amy Walter on taxpayer funds used for TV ads promoting Trump",
-   "url": "https://www.pbs.org/newshour/show/tamara-keith-and-amy-walter-on-taxpayer-funds-used-for-tv-ads-promoting-trump",
-   "summary": "NPR's Tamara Keith and Amy Walter of the Cook Political Report with Amy Walter join Geoff Bennett to discuss the latest political news, including the U.S. government paying for TV advertisements promoting President Trump, what voters think about Trump's handling of the economy and tight races in typically GOP-safe districts.",
-   "published": "2026-09-28T22:30:20+00:00",
-   "source": "PBS NewsHour Politics",
-   "source_id": "pbs-politics",
-   "bias_note": "center",
-   "first_seen": "2026-09-29T02:01:46.377980+00:00"
-  },
-  {
-   "id": "3e24c1f71e0f1d6c",
-   "title": "WFP official on addressing global hunger in face of wars and climate disasters",
-   "url": "https://www.pbs.org/newshour/show/wfp-official-on-addressing-global-hunger-in-face-of-wars-and-climate-disasters",
-   "summary": "The United Nations recently announced a new executive director for the World Food Programme. Luke Lindberg was a Trump administration Agriculture Department official and inherits one of the UN's toughest jobs. Hundreds of millions around the world go hungry every day, and reaching as many as possible is a monumental task. Nick Schifrin discussed more with Carl Skau, the acting director of the WFP.",
-   "published": "2026-09-28T22:25:11+00:00",
-   "source": "PBS NewsHour Politics",
-   "source_id": "pbs-politics",
-   "bias_note": "center",
-   "first_seen": "2026-09-29T02:01:46.377983+00:00"
-  },
-  {
-   "id": "3167c1c3fce0a8e5",
-   "title": "Trump loosens vehicle mileage standards",
-   "url": "https://thehill.com/newsletters/energy-environment/6116281-trump-loosens-vehicle-mileage-standards/",
-   "summary": "{beacon} Energy &#038; Environment Energy &#038; Environment The Big Story  Trump rolls back car fuel efficiency rules The Trump administration has rolled back car fuel efficiency standards requiring automakers to ensure their cars and light trucks were using less fuel. \u00a9 AP Photo/Rick Bowmer While the Biden-era standards would have been expected to get the...",
-   "published": "2026-09-28T22:09:00+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-29T02:01:46.047170+00:00"
-  },
-  {
-   "id": "41628002b7372029",
-   "title": "Mick Mulvaney: Trump ad 'flat out' wrong",
-   "url": "https://thehill.com/homenews/administration/6116228-mulvaney-criticizes-white-house-ad/",
-   "summary": "Former White House chief of staff Mick Mulvaney on Monday said that a new taxpayer-funded TV advertisement from the White House promoting President Trump is \"flat out\" wrong. The 30-second ad features Trump saying in a voiceover that the U.S. will \"cast out the communists, Marxists and fascists\" and \"rout the fake news media, and...",
-   "published": "2026-09-28T22:04:19+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-29T02:01:46.047185+00:00"
-  },
-  {
-   "id": "1339d3cf6eb7a6f2",
-   "title": "News outlets ask court to give \u2018little weight\u2019 to DOJ support for OpenAI in copyright dispute",
-   "url": "https://thehill.com/policy/technology/6116254-news-outlets-doj-openai-copyright/",
-   "summary": "A group of news outlets suing OpenAI for copyright infringement argued Monday that the court should give \u201clittle weight\u201d to the views of the Department of Justice (DOJ), which signaled support for the AI firm earlier this month. The New York Times, Chicago Tribune and other outlets in the case suggested the administration \u201cmay have...",
-   "published": "2026-09-28T21:57:02+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-29T02:01:46.047193+00:00"
-  },
-  {
-   "id": "b5937aea1d0d2f36",
-   "title": "'Insulting': Ex-Trump official's 'dishonest' campaign ad triggers conservative revolt",
-   "url": "https://www.foxnews.com/politics/insulting-ex-trump-officials-dishonest-campaign-ad-triggers-conservative-revolt",
-   "summary": "GOP Arkansas Gov. Sarah Huckabee Sanders&apos; reelection ad depicting a white-male welfare recipient named &quot;Brad&quot; drew conservative backlash online.",
-   "published": "2026-09-28T21:46:18+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-09-29T02:01:45.357413+00:00"
-  },
-  {
-   "id": "d2ee9b830d8ee528",
-   "title": "President Trump Calls on Congress to Save College Sports",
-   "url": "https://www.whitehouse.gov/releases/2026/09/president-trump-calls-on-congress-to-save-college-sports/",
-   "summary": "President Donald J. Trump is calling on Congress to pass the Protect College Sports Act and bring clarity, stability, and accountability back to college athletics. Just this weekend, President Trump was at Neyland Stadium for the blockbuster Texas\u2013Tennessee college football game where the crowd erupted in celebration of his attendance. President Trump has tremendous respect [&#8230;]\nThe post President Trump Calls on Congress to Save College Sports appeared first on The White House.",
-   "published": "2026-09-28T21:41:45+00:00",
-   "source": "WhiteHouse.gov News",
-   "source_id": "whitehouse",
-   "bias_note": "official/primary-source",
-   "first_seen": "2026-09-29T02:01:45.482009+00:00"
-  },
-  {
-   "id": "9bda6f43c844bc3a",
-   "title": "WATCH LIVE: Jack Smith testifies before Senate Judiciary as GOP targets past Trump probes",
-   "url": "https://www.pbs.org/newshour/politics/watch-live-jack-smith-testifies-before-senate-judiciary-as-gop-targets-past-trump-probes",
-   "summary": "This week's Senate Judiciary hearing comes after a key Republican lawmaker said in July he believes that special counsel Jack Smith may have lied to Congress while testifying about his investigation of President Donald Trump and that the Justice Department should consider prosecuting him.",
-   "published": "2026-09-28T20:23:43+00:00",
-   "source": "PBS NewsHour Politics",
-   "source_id": "pbs-politics",
-   "bias_note": "center",
-   "first_seen": "2026-09-28T20:35:14.334058+00:00"
-  },
-  {
-   "id": "8b354cf2ac7c5aa3",
-   "title": "Vulnerable Iowa Republicans rally around Trump's Iowa steel plant announcement",
-   "url": "https://thehill.com/homenews/campaign/6115986-iowa-steel-plant-republicans-trump/",
-   "summary": "GOP Iowa Reps. Mariannette Miller-Meeks and Ashley Hinson, a nominee for the Senate, joined President Trump in the Oval Office on Monday for his announcement of a new steel plant in their state as they brace for a tough November midterm election. The president announced a massive $15 billion steel plant in the Hawkeye State...",
-   "published": "2026-09-28T20:10:34+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-28T20:35:14.232393+00:00"
   }
  ]
 }
