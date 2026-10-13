@@ -1,7 +1,106 @@
 {
- "updated": "2026-10-12T23:01:59.844970+00:00",
- "count": 881,
+ "updated": "2026-10-13T06:51:01.698523+00:00",
+ "count": 888,
  "articles": [
+  {
+   "id": "cfce427d8bce92e3",
+   "title": "Protester punched in face by Trump supporter, mocked by president at Ohio rally: 'Gotta go on a diet'",
+   "url": "https://www.foxnews.com/politics/protester-punched-face-trump-supporter-mocked-president-ohio-rally-gotta-go-diet",
+   "summary": "A supporter of President Donald Trump punched a heckler wearing a &quot;Release the Epstein Files&quot; shirt at the president&apos;s Youngstown, Ohio, rally.",
+   "published": "2026-10-13T04:57:26+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-10-13T06:50:59.209182+00:00"
+  },
+  {
+   "id": "0b65fa9e768d2f5a",
+   "title": "Trump attacks immigrants from Somalia and Haiti while rallying in Ohio for Republican candidates",
+   "url": "https://abcnews.com/Politics/wireStory/trump-attacks-immigrants-somalia-haiti-rallying-ohio-republican-137204857",
+   "summary": "President Donald Trump has tried to boost Republican Sen. Jon Husted&rsquo;s reelection campaign by attacking Black immigrants during a rally in Ohio",
+   "published": "2026-10-13T03:30:27+00:00",
+   "source": "ABC News Politics",
+   "source_id": "abc-politics",
+   "bias_note": "center",
+   "first_seen": "2026-10-13T06:51:01.469579+00:00"
+  },
+  {
+   "id": "e19669e6b487d9ab",
+   "title": "Mamdani: citizenship \u2018should not be weaponized\u2019 against Omar",
+   "url": "https://thehill.com/homenews/house/6144397-mamdani-slams-omar-home-raid/",
+   "summary": "New York City Mayor Zohran Mamdani (D) on Monday slammed the federal search of Rep. Ilhan Omar's (D-Minn.) Washington, D.C., home, saying that her citizenship \"should not be weaponized\" against her. Agents with Homeland Security Investigations (HSI) \u2014 the investigative arm of Immigration and Customs Enforcement (ICE) \u2014 carried out the search, a Justice Department...",
+   "published": "2026-10-13T01:56:27+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-13T06:51:00.728042+00:00"
+  },
+  {
+   "id": "f9f8147954e01b76",
+   "title": "Trump repeatedly attacks Minnesota, Omar during Ohio campaign stop",
+   "url": "https://thehill.com/homenews/6144416-trump-attacks-omar-ohio/",
+   "summary": "President Trump repeatedly brought up Minnesota and Rep. Ilhan Omar (D-Minn.) on Monday night while stumping for Republicans in Ohio ahead of the midterms. Federal agents searched the home of Omar, a Somali-born American citizen, on Monday as part of a federal criminal investigation into Omar. \u201cJust look at what's happening in the once great...",
+   "published": "2026-10-13T01:48:31+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-13T06:51:00.728049+00:00"
+  },
+  {
+   "id": "75818cab5b9c4a14",
+   "title": "Spicer says he's \u2018absolutely\u2019 concerned about Kansas Senate race",
+   "url": "https://thehill.com/homenews/campaign/6144357-spicer-worries-kansas-senate/",
+   "summary": "Former White House press secretary Sean Spicer on Monday said he is \"absolutely\" concerned about Republicans losing the Kansas Senate race, which election handicappers say could flip in favor of the Democrats. NewsNation's \"The Hill\" host Blake Burman asked Spicer if he had any worry that Republicans could lose the Kansas Senate seat helmed by...",
+   "published": "2026-10-13T01:03:52+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-13T06:51:00.728052+00:00"
+  },
+  {
+   "id": "70814bcc80024d61",
+   "title": "Zelensky unleashes on Trump over Russia diesel deal",
+   "url": "https://thehill.com/newsletters/defense-national-security/6144319-zelensky-criticized-trump-russian-diesel/",
+   "summary": "Welcome to The Hill's Defense &#038; NatSec newsletter {beacon} Defense &#038;National Security Defense &#038;National Security &#8202; The Big Story  Zelensky unleashes on Trump over Russia diesel deal Kyiv\u2019s allies, including those in President Trump\u2019s circle, are rallying around Ukrainian President Volodymyr Zelensky, pushing back against Trump\u2019s diesel deal with Russia and threats to cut off weapons...",
+   "published": "2026-10-13T00:16:34+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-13T06:51:00.728057+00:00"
+  },
+  {
+   "id": "7d0c5ad4b8f5999d",
+   "title": "NPR CEO who previously called First Amendment a 'challenge' to receive 'First Amendment Award'",
+   "url": "https://www.foxnews.com/media/npr-ceo-previously-called-first-amendment-challenge-receive-first-amendment-award",
+   "summary": "NPR CEO Katherine Maher will receive Harper&apos;s Magazine First Amendment Award despite once calling the amendment a &quot;challenge&quot; to fighting disinformation.",
+   "published": "2026-10-13T00:10:04+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-10-13T06:50:59.271581+00:00"
+  },
+  {
+   "id": "772ad1e7fe0f43d2",
+   "title": "Synthetically concentrated kratom derivatives draw federal attention",
+   "url": "https://thehill.com/newsletters/healthcare/6144267-synthetically-concentrated-kratom-derivatives-draw-federal-attention/",
+   "summary": "Presented by {beacon} Healthcare   PRESENTED BY  The Big Story  Synthetically concentrated kratom derivatives draw federal attention  The spread of \"gas station opioid\" products derived from the kratom plant is causing concern for federal authorities and lawmakers. \u00a9 Alejandra Villa Loarca/Newsday RM via Getty Images The Drug Enforcement Administration (DEA) signaled heightened concerns about kratom-derived...",
+   "published": "2026-10-12T23:32:17+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-13T06:51:00.728062+00:00"
+  },
+  {
+   "id": "c0efbff2d961715e",
+   "title": "Eric Trump trashes ABC over 'bulls--- hit piece,' backs call for FCC probe into revised story",
+   "url": "https://www.foxnews.com/media/eric-trump-trashes-abc-bulls-hit-piece-backs-call-fcc-probe-revised-story",
+   "summary": "Eric Trump backed Sen. Bernie Moreno&apos;s call for an FCC investigation into ABC News&apos; erroneous report linking his family to Anduril Pentagon contracts.",
+   "published": "2026-10-12T23:29:44+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-10-13T06:50:59.271596+00:00"
+  },
   {
    "id": "28f698a23f6451a6",
    "title": "Rep. Omar accuses Trump of political intimidation after agents search her home",
@@ -573,6 +672,17 @@
    "source_id": "npr-politics",
    "bias_note": "center",
    "first_seen": "2026-10-12T15:36:26.505954+00:00"
+  },
+  {
+   "id": "40b83a89b4e9702f",
+   "title": "Political strategist on how Trump's personal grievances could affect the GOP",
+   "url": "https://www.npr.org/2026/10/12/nx-s1-5996646/political-strategist-on-how-trumps-personal-grievances-could-affect-the-gop",
+   "summary": "NPR's Steve Inskeep speaks with political strategist and former senior Republican congressional adviser Rina Shah about how President Trump's personal grievances and projects are affecting the chances of GOP candidates in the upcoming election.",
+   "published": "2026-10-12T08:39:36+00:00",
+   "source": "NPR Politics",
+   "source_id": "npr-politics",
+   "bias_note": "center",
+   "first_seen": "2026-10-13T06:51:00.238240+00:00"
   },
   {
    "id": "bfb774979eb4db77",
@@ -9659,39 +9769,6 @@
    "source_id": "npr-politics",
    "bias_note": "center",
    "first_seen": "2026-09-29T08:37:41.508775+00:00"
-  },
-  {
-   "id": "2347e0a9fce542b3",
-   "title": "Trump denies Axios report that he offered Iran sanctions relief",
-   "url": "https://thehill.com/homenews/administration/6116636-trump-denies-iran-sanctions-relief/",
-   "summary": "President Trump on Monday denied reporting from Axios that suggested he is willing to provide Iran with sanctions relief and unfreeze Iranian funds so that the regime can re-examine its nuclear program. \"Axios just released a story that 'Trump' offered Sanctions Relief and Frozen Funds to Iran,\" Trump wrote on Truth Social. \"This is untrue....",
-   "published": "2026-09-29T02:46:13+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-29T08:37:41.991972+00:00"
-  },
-  {
-   "id": "4edf5e996359c5d2",
-   "title": "Georgia Gov. Kemp suspends state gas tax for 30 days",
-   "url": "https://thehill.com/homenews/state-watch/6116605-kemp-suspends-georgia-gas-tax/",
-   "summary": "Georgia Gov. Brian Kemp (R) on Monday signed an executive order suspending the state's gas tax for 30 days as the Iran war sends gas prices soaring. The order, which starts at 12:01 a.m. EDT Tuesday, suspends Georgia's motor fuel excise tax of 33.3 cents per gallon for gasoline and 37.3 cents per gallon for...",
-   "published": "2026-09-29T02:22:40+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-29T08:37:41.991994+00:00"
-  },
-  {
-   "id": "e65492e86162ec12",
-   "title": "Trump CMS faces bipartisan pushback over Medicare proposal tied to Biden-era drug pricing law",
-   "url": "https://www.foxnews.com/politics/trump-cms-faces-bipartisan-pushback-over-medicare-proposal-tied-biden-era-drug-pricing-law",
-   "summary": "Lawmakers say the proposed Medicare policy could make it harder for patients to access newer cancer treatments by discouraging medical innovation.",
-   "published": "2026-09-28T23:46:05+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-09-29T02:01:45.357397+00:00"
   }
  ]
 }
