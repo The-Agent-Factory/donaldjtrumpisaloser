@@ -1,7 +1,227 @@
 {
- "updated": "2026-10-13T18:02:27.250893+00:00",
- "count": 904,
+ "updated": "2026-10-13T21:18:45.996175+00:00",
+ "count": 911,
  "articles": [
+  {
+   "id": "7f9cee9b1486bd27",
+   "title": "Watch live: Trump heads to Alaska as Senate race heats up",
+   "url": "https://thehill.com/video-clips/6146085-watch-live-donald-trump-rally-alaska-senate-race-dan-sullivan/",
+   "summary": "President Trump is making an unusual campaign stop in Alaska Tuesday, where a once-reliably-Republican Senate seat is now firmly in play just three weeks before the midterms. The president will rally alongside incumbent Sen. Dan Sullivan (R-Alaska), who is facing a tough challenge from former Democratic Rep. Mary Peltola. Recent polling showed Peltola with a...",
+   "published": "2026-10-13T21:10:25+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-13T21:18:44.624934+00:00"
+  },
+  {
+   "id": "c84547864a49e98a",
+   "title": "Ilhan Omar\u2019s embattled husband appears at scene of the HSI raid in midst of criminal fraud investigation",
+   "url": "https://www.foxnews.com/politics/ilhan-omar-embattled-husband-appears-scene-hsi-raid-midst-criminal-fraud-investigation",
+   "summary": "Tim Mynett was spotted outside the D.C. home raided by HSI agents as the criminal fraud investigation into Ilhan Omar&apos;s immigration paperwork deepens.",
+   "published": "2026-10-13T21:01:19+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-10-13T21:18:43.234644+00:00"
+  },
+  {
+   "id": "8b8b2c785bf63411",
+   "title": "Trump heads to Alaska in a sign of how close its Senate race may be",
+   "url": "https://www.pbs.org/newshour/politics/trump-heads-to-alaska-in-a-sign-of-how-close-its-senate-race-may-be",
+   "summary": "President Donald Trump is making an unusual campaign trip with the midterm elections looming.",
+   "published": "2026-10-13T20:42:21+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-10-13T21:18:44.861234+00:00"
+  },
+  {
+   "id": "efc0c17086b3e607",
+   "title": "Zacharia's first spin at White House podium draws rocky reviews",
+   "url": "https://thehill.com/homenews/administration/6146430-katie-zacharia-white-house-press-secretary-briefing/",
+   "summary": "White House press secretary Katie Zacharia was met with a barrage of criticism following her first briefing in her new role, leading some to question the future of her tenure shortly after she was tapped for the job.  Zacharia on Tuesday delivered a roughly 14-minute briefing and took questions from only three outlets. She notably...",
+   "published": "2026-10-13T20:39:12+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-13T21:18:44.624942+00:00"
+  },
+  {
+   "id": "8ce2d767f2f800ca",
+   "title": "DAVID MARCUS: On the ground in Middle America, four issues will decide the senate, and none are affordability",
+   "url": "https://www.foxnews.com/opinion/david-marcus-ground-middle-america-four-issues-decide-senate-none-affordability",
+   "summary": "Fraud in Minnesota, growth in Ohio, and culture in Texas are driving 2026 midterm election races more than affordability, ground reporting reveals.",
+   "published": "2026-10-13T20:36:58+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-10-13T21:18:43.299799+00:00"
+  },
+  {
+   "id": "1c84240fd2bc1add",
+   "title": "House Democrats: Guilfoyle's resignation 'does not shield her from accountability\u2019",
+   "url": "https://thehill.com/homenews/house/6146381-democrats-seek-guilfoyle-accountability/",
+   "summary": "Democrats on the House Foreign Affairs Committee called for further accountability after the White House announced Tuesday that the Trump administration has asked U.S. Ambassador to Greece Kimberly Guilfoyle to resign following reports about her alleged misconduct. \u201cResigning does not shield her from accountability,\u201d the committee's Democrats wrote on the social platform X. \u201cGuilfoyle used...",
+   "published": "2026-10-13T20:33:55+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-13T21:18:44.624981+00:00"
+  },
+  {
+   "id": "ef35466387683722",
+   "title": "Trump administration seeks to reconsider offshore wind farm\u2019s approval",
+   "url": "https://thehill.com/policy/energy-environment/6146426-trump-attacks-offshore-wind-energy/",
+   "summary": "The Trump administration is asking a federal court to reassess a prior approval of a nearly-completed offshore wind farm, an escalation of the administration\u2019s attack on wind energy that\u2019s raising questions about an infrastructure deal with Democrats. On Friday, the Trump administration asked Judge Roy Lamberth to allow it to reassess whether its past approval...",
+   "published": "2026-10-13T20:30:42+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-13T21:18:44.624989+00:00"
+  },
+  {
+   "id": "bff5be75ef19a164",
+   "title": "Kimberly Guilfoyle has been asked to resign among corruption allegations",
+   "url": "https://www.npr.org/2026/10/13/nx-s1-6000216/kimberly-guilfoyle-has-been-asked-to-resign-among-corruption-allegations",
+   "summary": "Kimberly Guilfoyle has been asked to resign as US ambassador to Greece following allegations that she sought payment from a Trump donor in exchange for access to administration officials",
+   "published": "2026-10-13T20:03:45+00:00",
+   "source": "NPR Politics",
+   "source_id": "npr-politics",
+   "bias_note": "center",
+   "first_seen": "2026-10-13T21:18:44.117060+00:00"
+  },
+  {
+   "id": "ec895c200206144f",
+   "title": "CVS to pay $315M settlement over allegations of illegally filling opioid prescriptions",
+   "url": "https://thehill.com/homenews/6146051-cvs-opioid-settlement-doj/",
+   "summary": "The Justice Department (DOJ) announced Tuesday that CVS Health has agreed to pay $315 million to settle lawsuits alleging the company illegally filled prescriptions for opioids and other controlled substances. The settlement resolves a lawsuit first filed in 2019 by former CVS employee Hillary Estright in 2019 under the whistleblower provision of the False Claims...",
+   "published": "2026-10-13T19:57:28+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-13T21:18:44.625037+00:00"
+  },
+  {
+   "id": "3af7725e1de82d5d",
+   "title": "Bipartisan group of senators call on Trump to rescind Russian diesel deal",
+   "url": "https://www.npr.org/2026/10/13/g-s1-147871/trump-russia-diesel-deal-congressional-response",
+   "summary": "Six Democratic and six Republican senators wrote a letter calling on President Trump to withdraw from his recent deal with Russian President Vladimir Putin.",
+   "published": "2026-10-13T19:52:52+00:00",
+   "source": "NPR Politics",
+   "source_id": "npr-politics",
+   "bias_note": "center",
+   "first_seen": "2026-10-13T21:18:44.117076+00:00"
+  },
+  {
+   "id": "163f81572e6dfbd8",
+   "title": "Republicans face midterm backlash from factory workers over Trump's tariffs",
+   "url": "https://www.pbs.org/newshour/economy/republicans-face-midterm-backlash-from-factory-workers-over-trumps-tariffs",
+   "summary": "President Donald Trump's tariffs are turning factory workers against his Republican Party over fears the import taxes could lead to fewer jobs instead of the manufacturing renaissance he promised.",
+   "published": "2026-10-13T19:43:38+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-10-13T21:18:44.861240+00:00"
+  },
+  {
+   "id": "ace62e65e699619d",
+   "title": "Trump will campaign in Kansas to boost Marshall's Senate bid",
+   "url": "https://thehill.com/homenews/6146237-donald-trump-kansas-senate-race-roger-marshall/",
+   "summary": "President Trump will hit the campaign trail in Kansas next week, the Republican National Committee (RNC) announced on Tuesday, as the state\u2019s Senate race grows more competitive. Trump\u2019s upcoming rally Monday in Wichita is the latest sign Republicans are paying more attention to their chances in Sen. Roger Marshall\u2019s (R-Kan.) reelection bid.\u00a0 The nonpartisan Cook...",
+   "published": "2026-10-13T19:40:30+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-13T21:18:44.625045+00:00"
+  },
+  {
+   "id": "f7702373b8c65163",
+   "title": "A judge blocks the government's tree-clearing spree at a municipal D.C. golf course",
+   "url": "https://www.npr.org/2026/10/13/nx-s1-6000055/east-potomac-golf-course-tree-clearing-judge",
+   "summary": "Locals and preservationists have long opposed Trump's plan to redevelop a municipal D.C. golf course. That legal fight escalated after the government cleared hundreds of trees on short notice.",
+   "published": "2026-10-13T19:38:18+00:00",
+   "source": "NPR Politics",
+   "source_id": "npr-politics",
+   "bias_note": "center",
+   "first_seen": "2026-10-13T21:18:44.117079+00:00"
+  },
+  {
+   "id": "c9d2aa1f9025e78f",
+   "title": "Most say Trump more interested in his wealth than helping people like them: Survey",
+   "url": "https://thehill.com/homenews/administration/6146180-trump-poll-personal-business-interests/",
+   "summary": "Most Americans say President Trump is more interested in his own wealth than helping people similar to them, according to a new poll. An Associated Press-NORC Center for Public Affairs Research poll found that 56 percent of respondents described Trump\u2019s overall prioritization of \u201chis personal business interests\u201d as \u201ca lot\u201d during his second term.\u00a0 Nineteen...",
+   "published": "2026-10-13T19:28:06+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-13T21:18:44.625051+00:00"
+  },
+  {
+   "id": "376ca9d9325ff62b",
+   "title": "Enter the Zachbot: Trump\u2019s new press secretary malfunctions on podium debut",
+   "url": "https://www.theguardian.com/us-news/2026/oct/13/katie-zacharia-trump-press-briefing",
+   "summary": "Katie Zacharia\u2019s maiden briefing was excruciating \u2013 at least her predecessor had delivered her propaganda hotWell, that was weird. Katie Zacharia, the new White House press secretary, made her debut on the podium on Tuesday with all the warmth, wisdom and political dexterity of an AI avatar.Zacharia was all stilted delivery, nervous tics and lack of eye contact. With an eerie lack of emotion, she served up pro-Trump talking points, took only three questions and vanished after 14 minutes. It was like the West Wing had turned into uncanny valley. Continue reading...",
+   "published": "2026-10-13T19:22:02+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-10-13T21:18:44.322783+00:00"
+  },
+  {
+   "id": "28a25df02727ee37",
+   "title": "What to know about the search of Democratic Rep. Omar's home",
+   "url": "https://www.pbs.org/newshour/politics/what-to-know-about-the-search-of-democratic-rep-omars-home",
+   "summary": "President Donald Trump's administration has taken the unusual step of searching Democratic Rep. Ilhan Omar's home in Washington, just three weeks before the midterm election.",
+   "published": "2026-10-13T19:19:16+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-10-13T21:18:44.861244+00:00"
+  },
+  {
+   "id": "99c71d2d12320b88",
+   "title": "Judge orders Trump administration to halt work on historic DC golf course",
+   "url": "https://www.theguardian.com/us-news/2026/oct/13/judge-orders-halt-dc-golf-course",
+   "summary": "District judge Ana Reyes halts tree-cutting at the East Potomac golf course until 26 October, and now requires advance notice before making course changesUS district judge Ana Reyes on Tuesday ordered a halt to tree-cutting at the East Potomac golf course until 26 October, putting a further pause on work at the historic Washington DC course that has been part of Donald Trump\u2019s plans to remake the country\u2019\u2019s capital city.Reyes issued the order one day after a tense three-hour hearing in which she harshly criticized the government for having deceived her with its actions over the holiday weekend",
+   "published": "2026-10-13T18:50:19+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-10-13T21:18:44.322794+00:00"
+  },
+  {
+   "id": "bb4d5f2bcde49149",
+   "title": "Dem making Senate comeback bid says he wouldn't support a Trump impeachment push",
+   "url": "https://www.foxnews.com/politics/dem-making-senate-comeback-bid-says-he-wouldnt-support-trump-impeachment-push",
+   "summary": "Former Sen. Sherrod Brown, a Democrat running for U.S. Senate in Ohio, indicated to the Columbus Dispatch that he would not support impeaching Trump",
+   "published": "2026-10-13T18:14:37+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-10-13T21:18:43.234688+00:00"
+  },
+  {
+   "id": "62f73764fbef7efc",
+   "title": "Trump speaks on Kimberly Guilfoyle resignation: 'We didn't like what we were reading' \u2013 video",
+   "url": "https://www.theguardian.com/us-news/video/2026/oct/13/trump-kimberly-guilfoyle-ambassador-video",
+   "summary": "When asked about the decision to request US ambassador Kimberly Guilfoyle's resignation, Donald Trump told the press she 'was doing a good job' but that the administration 'didn't like what we were reading', referring to allegations that Guilfoyle had asked a Trump donor to pay her credit card bill. Guilfoyle, who was once engaged to Trump\u2019s son, Donald Jr, was a longstanding political allyKimberly Guilfoyle steps down as US ambassador to Greece after alleged misconduct Continue reading...",
+   "published": "2026-10-13T18:12:19+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-10-13T21:18:44.322948+00:00"
+  },
+  {
+   "id": "1334c61458d4f011",
+   "title": "President Trump Visits Alaska: Delivering Results for the Last Frontier",
+   "url": "https://www.whitehouse.gov/releases/2026/10/president-trump-visits-alaska-delivering-results-for-the-last-frontier/",
+   "summary": "Today, President Donald J. Trump travels to Alaska. He returns to the Last Frontier with a proven record of results that put Alaskans first: lower taxes, responsible development of the state\u2019s vast energy and mineral resources, safer communities, strong support for fisheries, and major investments that create jobs and reinforce America\u2019s Arctic security. Tax Relief [&#8230;]\nThe post President Trump Visits Alaska: Delivering Results for the Last Frontier appeared first on The White House.",
+   "published": "2026-10-13T17:47:35+00:00",
+   "source": "WhiteHouse.gov News",
+   "source_id": "whitehouse",
+   "bias_note": "official/primary-source",
+   "first_seen": "2026-10-13T21:18:43.715523+00:00"
+  },
   {
    "id": "c2f2df012ab2f04a",
    "title": "Dan Le Batard thinks Patrick Mahomes, other athletes are obligated to oppose Trump on Protect College Sports",
@@ -1376,6 +1596,17 @@
    "source_id": "thehill",
    "bias_note": "center",
    "first_seen": "2026-10-11T23:42:45.938506+00:00"
+  },
+  {
+   "id": "4ef56b4c78f981d3",
+   "title": "Presidential Message on General Pulaski Memorial Day",
+   "url": "https://www.whitehouse.gov/briefings-statements/2026/10/presidential-message-on-general-pulaski-memorial-day/",
+   "summary": "Today, we honor the heroic life and legacy of Brigadier General Casimir Pulaski\u2014a son of Poland turned American warrior, a father of Independence, and a martyr of Liberty, whose courage breathed life into the Continental Army, advancing the sacred cause of freedom during the Revolutionary War. Born in Warsaw, Poland, in 1745, Casimir Pulaski proved [&#8230;]\nThe post Presidential Message on General Pulaski Memorial Day appeared first on The White House.",
+   "published": "2026-10-11T21:00:00+00:00",
+   "source": "WhiteHouse.gov News",
+   "source_id": "whitehouse",
+   "bias_note": "official/primary-source",
+   "first_seen": "2026-10-13T21:18:43.715530+00:00"
   },
   {
    "id": "3881744252c73927",
@@ -9791,160 +10022,6 @@
    "source_id": "whitehouse",
    "bias_note": "official/primary-source",
    "first_seen": "2026-09-29T22:20:11.143981+00:00"
-  },
-  {
-   "id": "08cae3f0392a37ed",
-   "title": "Inaugurating The Era Of Super Intelligence",
-   "url": "https://www.whitehouse.gov/presidential-actions/2026/09/inaugurating-the-era-of-super-intelligence/",
-   "summary": "By the authority vested in me as President by the Constitution and the laws of the United States of America, it&#160;is&#160;hereby ordered: Section 1. \u00a0Purpose.\u00a0 America stands at the forefront of a\u00a0new technological revolution in intelligence. \u00a0The modern field of artificial intelligence was born in the United States, where American scientists first gave the field [&#8230;]\nThe post Inaugurating The Era Of Super Intelligence appeared first on The White House.",
-   "published": "2026-09-29T21:17:25+00:00",
-   "source": "WhiteHouse.gov News",
-   "source_id": "whitehouse",
-   "bias_note": "official/primary-source",
-   "first_seen": "2026-09-29T22:20:11.143983+00:00"
-  },
-  {
-   "id": "92ddc8e04bb8298d",
-   "title": "Supreme Court takes up fight over Trump\u2019s third-country illegal alien deportation policy",
-   "url": "https://www.foxnews.com/politics/supreme-court-takes-fight-trumps-third-country-illegal-alien-deportation-policy",
-   "summary": "The Supreme Court cleared Trump&apos;s third-country deportation policy to proceed while justices prepare to hear the full legal challenge in December.",
-   "published": "2026-09-29T21:15:39+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-09-29T22:20:10.954884+00:00"
-  },
-  {
-   "id": "ce644971218827d9",
-   "title": "WATCH LIVE: Utah voters hear from House candidates McAdams, Owen in midterm debate",
-   "url": "https://www.pbs.org/newshour/politics/watch-live-utah-voters-hear-from-house-candidates-mcadams-owen-in-midterm-debate",
-   "summary": "A former U.S. congressman and a former Trump White House staffer will square off on a Utah debate stage Tuesday as voters in the state's newly drawn First Congressional District consider who to send to the U.S. House.",
-   "published": "2026-09-29T21:11:09+00:00",
-   "source": "PBS NewsHour Politics",
-   "source_id": "pbs-politics",
-   "bias_note": "center",
-   "first_seen": "2026-09-29T22:20:13.992001+00:00"
-  },
-  {
-   "id": "241668306915e622",
-   "title": "AI firms sign 'morally binding' self-policing pledge in White House meeting",
-   "url": "https://thehill.com/homenews/administration/6118906-tech-ceos-sign-white-house-ai-accord/",
-   "summary": "Key AI industry leaders signed onto a pledge Tuesday to self-police development, President Trump and Speaker Mike Johnson (R-La.) announced following a meeting at the White House. The agreement, called \"The White House Accord on Superintelligence Joint Commitment on Frontier SI Responsibilities,\u201d lays out a series of voluntary commitments for AI developers, Johnson explained. Trump...",
-   "published": "2026-09-29T20:56:39+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-29T22:20:13.675558+00:00"
-  },
-  {
-   "id": "68a3adfd65f60c31",
-   "title": "WATCH: Trump announces accord signed by top AI companies to 'self-police' development",
-   "url": "https://www.pbs.org/newshour/politics/watch-trump-announces-accord-signed-by-top-ai-companies-to-self-police-development",
-   "summary": "Many of the executives gathered in Washington have called for a slowdown in the development of the technology after several hgh-profile incidents where AI agents have gone rogue.",
-   "published": "2026-09-29T20:55:48+00:00",
-   "source": "PBS NewsHour Politics",
-   "source_id": "pbs-politics",
-   "bias_note": "center",
-   "first_seen": "2026-09-29T22:20:13.992007+00:00"
-  },
-  {
-   "id": "33de1f7e5279d254",
-   "title": "Smith fields GOP insults, questions on lawmaker subpoenas at fiery Senate hearing: 5 takeaways",
-   "url": "https://thehill.com/homenews/senate/6118659-jack-smith-trump-probe-senate-hearing-takeaways/",
-   "summary": "Former special counsel Jack Smith fielded insults from Republicans and questions about his prosecutorial decisions as he sat before lawmakers on the Senate Judiciary Committee on Tuesday. Chair Chuck Grassley (R-Iowa) has been a leading voice in scrutinizing Smith\u2019s twin probes into President Trump, obtaining and releasing reams of documents about the investigations while criticizing...",
-   "published": "2026-09-29T20:01:02+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-29T22:20:13.675602+00:00"
-  },
-  {
-   "id": "44ddc6cf528be46c",
-   "title": "Knicks coach says the NBA champions are still discussing if they will visit the White House",
-   "url": "https://abcnews.com/Politics/wireStory/knicks-coach-nba-champions-discussing-visit-white-house-136867187",
-   "summary": "Coach Mike Brown says the New York Knicks are still deciding if they will become the first NBA champions to visit the White House under President Donald Trump",
-   "published": "2026-09-29T19:54:25+00:00",
-   "source": "ABC News Politics",
-   "source_id": "abc-politics",
-   "bias_note": "center",
-   "first_seen": "2026-09-29T22:20:14.324346+00:00"
-  },
-  {
-   "id": "0eb8328fbdeca5bc",
-   "title": "GAO reasserts pocket rescissions' illegality after Trump uses tactic to cancel nearly $1B",
-   "url": "https://thehill.com/business/budget/6118661-gao-trump-rescission-unlawful/",
-   "summary": "The U.S. Government Accountability Office (GAO) reasserted Tuesday that President Trump\u2019s use of a \u201cpocket rescission\u201d to cancel $810 million in federal funding was unlawful.\u00a0 The letter by the government watchdog's lead attorney, Edda Emmanuelli Perez, outlined under the Impoundment Control Act (ICA) of 1974, \u201cthe rescission proposals contained in the President\u2019s September 25, 2026,...",
-   "published": "2026-09-29T19:51:24+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-29T22:20:13.675606+00:00"
-  },
-  {
-   "id": "60c0d0080f736db6",
-   "title": "Supreme Court lets Trump continue deporting people to 3rd countries while justices consider policy",
-   "url": "https://www.pbs.org/newshour/politics/supreme-court-lets-trump-continue-deporting-people-to-3rd-countries-while-justices-consider-policy",
-   "summary": "Under a series of often-secret agreements, the Trump administration has deported some 25,000 people to more than two dozen countries, including Liberia and Guyana.",
-   "published": "2026-09-29T19:31:39+00:00",
-   "source": "PBS NewsHour Politics",
-   "source_id": "pbs-politics",
-   "bias_note": "center",
-   "first_seen": "2026-09-29T22:20:13.992010+00:00"
-  },
-  {
-   "id": "689f46578bc0d261",
-   "title": "Dumping stocks after Trump\u2019s 2016 win was \u2018stupid,\u2019 NYU professor admits",
-   "url": "https://www.foxnews.com/media/dumping-stocks-after-trumps-2016-win-stupid-nyu-professor-admits",
-   "summary": "Scott Galloway reveals his emotional reaction to Trump&apos;s 2016 election victory led to what he calls his biggest investment mistake, costing him dearly.",
-   "published": "2026-09-29T19:30:07+00:00",
-   "source": "Fox News Latest",
-   "source_id": "foxnews-latest",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-09-29T22:20:11.018895+00:00"
-  },
-  {
-   "id": "414d4bda6368e49b",
-   "title": "\u2018You make me want to throw up\u2019: Republicans attack ex-special counsel Jack Smith at Senate hearing",
-   "url": "https://www.theguardian.com/us-news/2026/sep/29/jack-smith-senate-hearing",
-   "summary": "GOP senators lash out on Smith, who led criminal cases against Trump, with invective and inaccurate informationJack Smith, the former special counsel who led two criminal cases against Donald Trump in 2023, faced attacks from Republicans in a wide-ranging hearing on Tuesday that included a basketball mix-up, a reference to the tooth fairy and accusations of perjury.In the Senate judiciary committee hearing on Tuesday, the Republican senator Eric Schmitt, of Missouri, raised perjury allegations against Smith, seemingly over a mix-up about the Atlanta Hawks and University of Iowa Hawkeyes basket",
-   "published": "2026-09-29T19:11:05+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-09-29T22:20:11.819339+00:00"
-  },
-  {
-   "id": "4a96927a5a504f29",
-   "title": "First Lady Melania Trump Announces 2026 Fall Garden Tours",
-   "url": "https://www.whitehouse.gov/briefings-statements/2026/09/first-lady-melania-trump-announces-2026-fall-garden-tours/",
-   "summary": "The White House will welcome visitors this fall for the 2026 Fall Garden Tours, offering an opportunity for visitors to experience the historic gardens and grounds of the People\u2019s House. The grounds will be open Saturday, October 17 from 10:00 AM \u2013 4:30 PM, and Sunday, October 18 from 10:00 AM \u2013 2:30 PM. Throughout [&#8230;]\nThe post First Lady Melania Trump Announces 2026 Fall Garden Tours appeared first on The White House.",
-   "published": "2026-09-29T19:07:36+00:00",
-   "source": "WhiteHouse.gov News",
-   "source_id": "whitehouse",
-   "bias_note": "official/primary-source",
-   "first_seen": "2026-09-29T22:20:11.143984+00:00"
-  },
-  {
-   "id": "a1940e2a67c210e9",
-   "title": "Homeland Security spending $20M in taxpayer funds for pro-Trump ads",
-   "url": "https://www.pbs.org/newshour/politics/homeland-security-spending-20m-in-taxpayer-funds-for-pro-trump-ads",
-   "summary": "The Department of Homeland Security has tapped $20 million to pay for the campaign-style ads glorifying President Donald Trump that have drawn widespread criticism from Republicans and Democrats as a blatant misuse of taxpayer dollars that likely runs afoul of anti-propaganda law.",
-   "published": "2026-09-29T19:04:25+00:00",
-   "source": "PBS NewsHour Politics",
-   "source_id": "pbs-politics",
-   "bias_note": "center",
-   "first_seen": "2026-09-29T22:20:13.992013+00:00"
-  },
-  {
-   "id": "983e2c417f0d11f7",
-   "title": "Bombshell report exposes healthcare fraud schemes as taxpayers lose up to $521 billion annually",
-   "url": "https://www.foxnews.com/politics/bombshell-report-exposes-healthcare-fraud-schemes-taxpayers-lose-521-billion-annually",
-   "summary": "House GOP lawmakers unveil 14 bills targeting Medicaid fraud after a report warns billions in taxpayer dollars are lost annually.",
-   "published": "2026-09-29T18:30:00+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-09-29T22:20:10.954905+00:00"
   }
  ]
 }
