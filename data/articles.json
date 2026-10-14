@@ -1,7 +1,172 @@
 {
- "updated": "2026-10-14T01:15:50.358121+00:00",
- "count": 909,
+ "updated": "2026-10-14T07:43:05.652254+00:00",
+ "count": 921,
  "articles": [
+  {
+   "id": "fb9385cfcff8ede6",
+   "title": "Judge extends order blocking Trump from banning CNN, MS NOW and Politico reporters from White House",
+   "url": "https://abcnews.com/Politics/wireStory/judge-extends-order-blocking-trump-banning-cnn-ms-137246048",
+   "summary": "A federal judge has extended an order blocking the Trump administration from banning reporters for three news outlets from the White House",
+   "published": "2026-10-14T06:58:30+00:00",
+   "source": "ABC News Politics",
+   "source_id": "abc-politics",
+   "bias_note": "center",
+   "first_seen": "2026-10-14T07:43:05.439175+00:00"
+  },
+  {
+   "id": "5ee60d2717645389",
+   "title": "Trump announces massive oil, gas and mineral exploration plans in Greenland, touts national security benefits",
+   "url": "https://www.foxnews.com/politics/trump-announces-massive-oil-gas-mineral-exploration-plans-greenland-touts-national-security-benefits",
+   "summary": "President Donald Trump announced on Truth Social that experts say Greenland&apos;s oil reserves rival almost any land, but details remain unclear.",
+   "published": "2026-10-14T06:51:07+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-10-14T07:43:04.597981+00:00"
+  },
+  {
+   "id": "cace9fae660b743e",
+   "title": "Trump urges Alaskans to vote for the \u2018real\u2019 Dan Sullivan in tight midterms battle",
+   "url": "https://www.theguardian.com/us-news/2026/oct/14/trump-urges-alaska-vote-republican-dan-sullivan-midterms-battle",
+   "summary": "Republican senator Dan S Sullivan is vying for re-election against Democrat Mary Peltola \u2013 and another candidate called Dan J SullivanDonald Trump has encouraged Alaskans to vote for the \u201creal\u201d Dan Sullivan, as he sought a breakthrough for the Republican incumbent senator in a tightly fought Senate race complicated by a rival candidate with a near-identical name.Sullivan\u2019s re-election campaign this year against Democrat Mary Peltola, a former US House lawmaker, has turned into one of the most hotly contested battles of the midterm elections, in which Democrats are hoping to seize back control ",
+   "published": "2026-10-14T05:39:04+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-10-14T07:43:04.877364+00:00"
+  },
+  {
+   "id": "9fbedd5efa4fd19d",
+   "title": "Trump administration slashes time refugees have to challenge loss of legal status",
+   "url": "https://www.foxnews.com/politics/trump-administration-slashes-time-refugees-challenge-loss-legal-status",
+   "summary": "The Department of Homeland Security reduced the number of days refugees have to challenge their legal status revocation from 30 days to just 10.",
+   "published": "2026-10-14T05:05:30+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-10-14T07:43:04.597990+00:00"
+  },
+  {
+   "id": "e8b1a20e862bcf41",
+   "title": "Judge extends White House access to banned media outlets CNN, MS Now and Politico",
+   "url": "https://www.theguardian.com/us-news/2026/oct/14/white-house-media-ban-lifted-cnn-msnow-politico",
+   "summary": "District court judge Timothy Kelly was ruling after the Trump administration blocked access to the three outlets in SeptemberA federal judge ordered the White House on Tuesday to continue allowing journalists from CNN, MS Now and Politico to access the building as the media coalition\u2019s lawsuit against the Trump administration plays out.Timothy Kelly, a district court judge, had on 24 September granted a 14-day reprieve for the news organizations, which six days earlier had been banned by the president in an extraordinary move from entering the White House grounds \u201cas a result of their constant",
+   "published": "2026-10-14T04:34:29+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-10-14T07:43:04.877373+00:00"
+  },
+  {
+   "id": "7e2ab83e2dddc99e",
+   "title": "Judge extends order allowing CNN, Politico, MS NOW White House press access",
+   "url": "https://thehill.com/regulation/court-battles/6147113-judge-extends-block-trump-media-ban/",
+   "summary": "A federal judge on Tuesday issued a longer block on President Trump\u2019s ban of three major news organizations from the White House, finding that the revocation of the outlets\u2019 hard badges likely violated their constitutional rights. U.S. District Judge Timothy Kelly wrote in a late-night ruling that the preliminary injunction was meant to preserve the...",
+   "published": "2026-10-14T03:50:15+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-14T07:43:05.049324+00:00"
+  },
+  {
+   "id": "49ff91406defe43c",
+   "title": "Hinson breaks with Trump on Russia diesel deal",
+   "url": "https://thehill.com/homenews/campaign/6147090-hinson-opposes-russia-diesel-deal/",
+   "summary": "Iowa Senate GOP candidate Ashley Hinson said on Tuesday that she didn\u2019t agree with a recent deal President Trump struck with Russia that would import 300,000 tons of diesel to the U.S. and global marketplace, taking issue with the U.S. making a deal with an adversary.   \"We need to lower gas prices in this...",
+   "published": "2026-10-14T03:13:09+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-14T07:43:05.049339+00:00"
+  },
+  {
+   "id": "e0575d3ddcf23de6",
+   "title": "Trump went all the way to Alaska in a sign of just how close its Senate race may be",
+   "url": "https://abcnews.com/Politics/wireStory/trump-alaska-sign-close-senate-race-137215586",
+   "summary": "President Donald Trump has made an unusual campaign trip with the midterm elections looming",
+   "published": "2026-10-14T03:06:20+00:00",
+   "source": "ABC News Politics",
+   "source_id": "abc-politics",
+   "bias_note": "center",
+   "first_seen": "2026-10-14T07:43:05.439185+00:00"
+  },
+  {
+   "id": "197f533380877c9d",
+   "title": "Chris Cuomo and Bannon clash over validity of upcoming midterms if Democrats win",
+   "url": "https://thehill.com/homenews/campaign/6147062-bannon-questions-election-legitimacy/",
+   "summary": "NewsNation\u2019s Chris Cuomo on Tuesday questioned former White House adviser Steve Bannon about if he will accept the outcome of the midterm elections if Democrats defeat Republicans. \u201cI want to ask you straight, here on the record,\" Cuomo began before asking Bannon if the GOP lost key races, \"will you accept the results of the...",
+   "published": "2026-10-14T02:59:09+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-14T07:43:05.049349+00:00"
+  },
+  {
+   "id": "464f346e97a437e4",
+   "title": "Ossoff, Collins clash in second Georgia Senate debate: 4 takeaways",
+   "url": "https://thehill.com/homenews/campaign/6146910-ossoff-collins-second-georgia-senate-debate-takeaways/",
+   "summary": "Sen. Jon Ossoff (D) and Rep. Mike Collins (R) traded barbs in a Tuesday night debate, tangling over the Jeffrey Epstein files, the 2020 election and more. Ossoff, the only Senate Democrat running for reelection in a state President Trump won in 2024, tied his Republican opponent to the administration\u2019s controversial tariffs and war in...",
+   "published": "2026-10-14T02:25:08+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-14T07:43:05.049358+00:00"
+  },
+  {
+   "id": "0080113496befa19",
+   "title": "Trump signs pardons for Alaska diesel mechanics onstage during rally touting major energy deals",
+   "url": "https://www.foxnews.com/politics/president-trump-signs-pardons-alaska-diesel-mechanics-onstage-rally-touting-major-energy-deals",
+   "summary": "President Donald Trump signed clemency documents onstage in Alaska while also announcing that a major natural gas pipeline secured federal permits.",
+   "published": "2026-10-14T02:13:34+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-10-14T07:43:04.598000+00:00"
+  },
+  {
+   "id": "0feb85f49e14f659",
+   "title": "Trump pardons diesel mechanics for Clean Air Act violations at Alaska rally",
+   "url": "https://thehill.com/homenews/campaign/6147032-trump-pardons-alaska-diesel-mechanics/",
+   "summary": "President Trump issued pardons at a campaign rally in Alaska on Tuesday for two diesel mechanics who were previously charged with and plead guilty to violating the Clean Air Act.\u00a0 The president signed the pardons for Zachary Czubak and Patrick Fleming on stage at the campaign event in Wasilla after he invited then up on...",
+   "published": "2026-10-14T02:12:10+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-14T07:43:05.049367+00:00"
+  },
+  {
+   "id": "a0d1ed9ef263587d",
+   "title": "Trump Energy Department issues emergency order to prevent blackouts across 13 states amid unusual October heat",
+   "url": "https://www.foxnews.com/us/trump-energy-department-issues-emergency-order-prevent-blackouts-13-states-unusual-october-heat",
+   "summary": "The Department of Energy authorized PJM Interconnection to tap backup power as unseasonably warm October temperatures strain the grid across 13 states.",
+   "published": "2026-10-14T01:49:20+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-10-14T07:43:04.615910+00:00"
+  },
+  {
+   "id": "1098b2789a446dfe",
+   "title": "Presidential Message on the Birthday of the United States Navy",
+   "url": "https://www.whitehouse.gov/briefings-statements/2026/10/presidential-message-on-the-birthday-of-the-united-states-navy/",
+   "summary": "For over 250 years, American sailors&#160;have defended our Nation upon the seas, forging the most lethal Navy in the history of the world. &#160;Today, on the birthday of the United States Navy, Icelebrate this incredible milestone with our active duty and reserve sailors, past and present, whose unparalleled expertise and extraordinary devotion to duty in [&#8230;]\nThe post Presidential Message on the Birthday of the United States Navy appeared first on The White House.",
+   "published": "2026-10-14T01:48:13+00:00",
+   "source": "WhiteHouse.gov News",
+   "source_id": "whitehouse",
+   "bias_note": "official/primary-source",
+   "first_seen": "2026-10-14T07:43:04.768579+00:00"
+  },
+  {
+   "id": "a25e3542a3bf929d",
+   "title": "Trump says Taiwan agreed to buy 30 percent of gas from Alaska pipeline",
+   "url": "https://thehill.com/homenews/6146987-taiwan-alaska-gas-pipeline-deal-trump/",
+   "summary": "President Trump announced Tuesday that Taiwan has agreed to purchase 30 percent of gas from the Alaska pipeline over the next 20 years. Speaking at a campaign rally in Wasilla, Alaska, Trump said Taiwan will invest $4.4 billion into the project on top of $50 billion already committed by South Korea. The president was quick...",
+   "published": "2026-10-14T01:31:11+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-14T07:43:05.049384+00:00"
+  },
   {
    "id": "edde57a202cac7b0",
    "title": "Venture capital firm tied to Donald Trump Jr weighs legal action against ABC News over botched report",
@@ -892,6 +1057,17 @@
    "source_id": "foxnews-politics",
    "bias_note": "right-leaning",
    "first_seen": "2026-10-13T16:03:58.501561+00:00"
+  },
+  {
+   "id": "ba863cc00cddf09a",
+   "title": "\u2018No one\u2019s here, no one knows\u2019: north-east Ohio is ground zero for ICE flights",
+   "url": "https://www.theguardian.com/us-news/2026/oct/13/ohio-ice-deportation-flights",
+   "summary": "Away from the public eye, deportation planes at Youngstown-Warren and Akron-Canton airports carry hundreds of immigrants daily amid Trump\u2019s ICE crackdownJust after 10.30am on a recent weekday morning, a Bombardier CRJ200 Air Wisconsin aircraft landed at Youngstown-Warren regional airport.Having made the 75-minute flight from Milwaukee, the 50-seater came to a halt and its twin engines fired down next to another Air Wisconsin plane and a larger Eastern Air Express Boeing 737, planes that flew in the evening before from Alexandria, Louisiana. Continue reading...",
+   "published": "2026-10-13T10:00:05+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-10-14T07:43:04.877480+00:00"
   },
   {
    "id": "3f8b28a1ee28265a",
@@ -9956,50 +10132,6 @@
    "source_id": "propublica",
    "bias_note": "investigative",
    "first_seen": "2026-09-30T12:42:16.731667+00:00"
-  },
-  {
-   "id": "07e49402e0965764",
-   "title": "Trump says top tech firms have signed accord to 'self-police' AI development",
-   "url": "https://www.npr.org/2026/09/30/nx-s1-5985699/trump-self-police-ai-development",
-   "summary": "President Trump on Tuesday said that he and a large group of leaders of artificial intelligence companies had signed a voluntary accord that will include internal and external reviews.",
-   "published": "2026-09-30T06:54:43+00:00",
-   "source": "NPR Politics",
-   "source_id": "npr-politics",
-   "bias_note": "center",
-   "first_seen": "2026-09-30T12:42:15.804912+00:00"
-  },
-  {
-   "id": "1024f0bea83693fa",
-   "title": "Venezuelan national shot by ICE officer in Austin charged with assaulting federal officer",
-   "url": "https://www.foxnews.com/us/venezuelan-national-shot-ice-officer-austin-charged-assaulting-federal-officer",
-   "summary": "The Justice Department charged Wilber Rafael Garces-Perez with assaulting a federal officer after an Austin vehicle pursuit ended in an ICE shooting.",
-   "published": "2026-09-30T03:47:05+00:00",
-   "source": "Fox News Latest",
-   "source_id": "foxnews-latest",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-09-30T05:38:55.019842+00:00"
-  },
-  {
-   "id": "8b0429f0e2b94743",
-   "title": "Repeat offender with lengthy rap sheet accused of gunning down Kentucky trooper during traffic stop",
-   "url": "https://www.foxnews.com/us/repeat-offender-lengthy-rap-sheet-accused-gunning-down-kentucky-trooper-during-traffic-stop",
-   "summary": "Emonnie Branch was on probation for securities fraud and wanted for a violation before the traffic stop that left Trooper Hayden Phillips dead.",
-   "published": "2026-09-30T02:04:36+00:00",
-   "source": "Fox News Latest",
-   "source_id": "foxnews-latest",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-09-30T05:38:55.019888+00:00"
-  },
-  {
-   "id": "b582f35db4bad337",
-   "title": "What products are part of US-China $60 billion tariff cuts deal",
-   "url": "https://thehill.com/business/6119380-us-china-tariff-cuts/",
-   "summary": "The U.S. and Chinese governments unveiled tariff cuts on Monday, affecting $60 billion worth of goods in varying markets. The list released by the White House spans the U.S. import of 77 categories of Chinese goods \u2013 including Christmas decorations, fireworks and children\u2019s toys. The Chinese imports of U.S. goods, meanwhile, cover 1,619 categories of...",
-   "published": "2026-09-30T01:24:18+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-30T05:38:56.182963+00:00"
   }
  ]
 }
