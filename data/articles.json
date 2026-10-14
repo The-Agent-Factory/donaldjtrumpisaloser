@@ -1,7 +1,139 @@
 {
- "updated": "2026-10-14T13:47:17.189630+00:00",
- "count": 936,
+ "updated": "2026-10-14T15:44:24.860847+00:00",
+ "count": 944,
  "articles": [
+  {
+   "id": "b43b61a629a36a36",
+   "title": "Trump keeps turning to the Supreme Court. Is it paying off?",
+   "url": "https://thehill.com/newsletters/the-gavel/the-gavel-live-briefing/6148184-donald-trump-emergency-docket-scorecard-live-discussion/",
+   "summary": "How is President Trump faring at the Supreme Court? The Trump administration has filed 42 emergency appeals \u2014 a count that now exceeds the number from the president's entire first term. Join Legal Affairs Editor Zach Schonfeld and Legal Affairs Reporter Sophie Brams as they break down Trump's scorecard, and which justices to watch as...",
+   "published": "2026-10-14T15:43:21+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-14T15:44:23.789083+00:00"
+  },
+  {
+   "id": "80695e99fe10dd79",
+   "title": "Judge extends order blocking Trump from banning CNN, MS NOW and Politico reporters from White House",
+   "url": "https://www.pbs.org/newshour/politics/judge-extends-order-blocking-trump-from-banning-cnn-ms-now-and-politico-reporters-from-white-house",
+   "summary": "A federal judge on Tuesday extended an order blocking President Donald Trump's administration from banning reporters for three news outlets from the White House, a pivotal operational development for the organizations as the extraordinary case \u2014 pitting the president against the media that cover him \u2014 makes its way through the legal system. In a victory for media organizations at a time when tension between the White House and journalists is high, U.S. District Judge...",
+   "published": "2026-10-14T15:27:37+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-10-14T15:44:24.006702+00:00"
+  },
+  {
+   "id": "c3f7b356a202409b",
+   "title": "Harris to Trump on press ban: 'Why don't you just leave?'",
+   "url": "https://thehill.com/homenews/administration/6148043-harris-rips-trump-press-access/",
+   "summary": "Former Vice President Kamala Harris ripped President Trump over his restrictions on White House press access, suggesting he should resign from office if he does not want journalists to scrutinize his administration. \u201cIf you want to do things in secret, then why don\u2019t you just leave the White House?\u201d Harris said Tuesday in an interview...",
+   "published": "2026-10-14T15:08:08+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-14T15:44:23.789111+00:00"
+  },
+  {
+   "id": "6b86f754aebc03e4",
+   "title": "Here's what's on House Democrats' agenda if they sweep to power in midterm elections",
+   "url": "https://www.pbs.org/newshour/politics/heres-whats-on-house-democrats-agenda-if-they-sweep-to-power-in-midterm-elections",
+   "summary": "Democratic leader Hakeem Jeffries said Democrats will be united on reinstating Affordable Care Act tax breaks, reversing Republican Medicaid cuts, holding votes against the Iran war and undoing President Donald Trump's tariff regime.",
+   "published": "2026-10-14T15:00:45+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-10-14T15:44:24.006715+00:00"
+  },
+  {
+   "id": "ae715b381fef8028",
+   "title": "Election time is here, and voters have caught on to con-man Trump",
+   "url": "https://thehill.com/opinion/white-house/6140356-bolden-calls-out-trump-dishonesty/",
+   "summary": "Attorney A. Scott Bolden argues that President Trump's track record of false claims and unpopular policies warrants holding him accountable through Democratic victories in the midterms.",
+   "published": "2026-10-14T15:00:00+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-14T15:44:23.789115+00:00"
+  },
+  {
+   "id": "843c63a99b20bc17",
+   "title": "Social Security COLA set to rise by 3.6 percent in 2027",
+   "url": "https://thehill.com/business/6147842-social-security-cola-increase-2027/",
+   "summary": "Social Security benefits will increase by 3.6 percent in 2027, the Trump administration announced Wednesday. With the latest cost of living adjustment (COLA), Social Security retirement benefits will increase by $75 per month on average, according to the Social Security Administration (SSA). Last year\u2019s COLA was 2.8 percent. The COLA applies to the nearly 72...",
+   "published": "2026-10-14T14:32:37+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-14T15:44:23.789124+00:00"
+  },
+  {
+   "id": "621d15d2efee8189",
+   "title": "GOP donor who texted Guilfoyle pressures Vance over extraditing doctor in Pakistan",
+   "url": "https://thehill.com/homenews/administration/6147843-deters-threatens-vance-guilfoyle/",
+   "summary": "The Republican donor at the center of the Kimberly Guilfoyle scandal said he was ready to go after other administration officials, including Vice President Vance, if they did not heed his call to extradite Dr. Abubakar Atiq Durrani, who fled to Pakistan after being accused of performing unnecessary spinal surgeries, including on children. Eric Deters,...",
+   "published": "2026-10-14T14:31:08+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-14T15:44:23.789127+00:00"
+  },
+  {
+   "id": "06350c51742484f8",
+   "title": "Katie Zacharia's debut shows the pitfalls and possibilities of White House press secretary's role",
+   "url": "https://www.pbs.org/newshour/politics/katie-zacharias-debut-shows-the-pitfalls-and-possibilities-of-white-house-press-secretarys-role",
+   "summary": "This would not be an easy job under any circumstances.",
+   "published": "2026-10-14T14:28:04+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-10-14T15:44:24.006719+00:00"
+  },
+  {
+   "id": "c387080230ff349b",
+   "title": "Guilfoyle 'certainly more' than just some woman Trump's son dated: Grisham",
+   "url": "https://thehill.com/homenews/administration/6147513-guilfoyle-trump-family-ties/",
+   "summary": "Former White House press secretary Stephanie Grisham said Tuesday that recently ousted Ambassador to Greece Kimberly Guilfoyle has more ties to President Trump\u2019s family than what he insinuated. \u201cI spent four full years and almost every holiday with Kimberly Guilfoyle in the family at Mar-a-Lago or at Bedminster, and she was everywhere,\u201d Grisham told CNN\u2019s...",
+   "published": "2026-10-14T14:20:11+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-14T15:44:23.789138+00:00"
+  },
+  {
+   "id": "4ad49e899f3a7dd0",
+   "title": "Mike Pence group urges Trump to reverse Russia diesel plan",
+   "url": "https://thehill.com/homenews/administration/6147755-trump-russia-diesel-pence-advancing-american-freedom/",
+   "summary": "Advancing American Freedom, a conservative think tank founded by former Vice President Pence, is calling on the Trump administration not to allow Russia to ship unsanctioned diesel to the U.S., according to a letter obtained by The Hill. The GOP group joins some Senate Republicans and others who have pushed back on the diesel deal.\u00a0...",
+   "published": "2026-10-14T14:12:46+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-14T15:44:23.789154+00:00"
+  },
+  {
+   "id": "7001fb49e5c05347",
+   "title": "Stephen A. Smith says Trump's financial pledges aren't winning over Americans at NewsNation town hall",
+   "url": "https://thehill.com/homenews/administration/6147662-trump-economic-messaging-critique/",
+   "summary": "Independent political commentator Stephen A. Smith slammed President Trump over his messaging on affordability \u2014 a top issue for voters heading into the midterm elections \u2014 during a Tuesday event hosted by NewsNation, The Hill\u2019s broadcast partner.  \u201cEvery time you see Trump, he seems to be talking to some business network or the CEOs instead...",
+   "published": "2026-10-14T14:02:38+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-14T15:44:23.789160+00:00"
+  },
+  {
+   "id": "2abe0da9e5c77988",
+   "title": "Ukraine says SpaceX limiting Starlink operations, impacting air defense",
+   "url": "https://thehill.com/policy/international/6147587-ukraine-space-x-starlink-limitations-russia-war/",
+   "summary": "Ukraine is raising alarm that air defense operations are being impacted by unannounced limitations on SpaceX satellites. The disruption comes following Ukrainian President Volodymyr Zelensky warning that President Trump has threatened to cut off intelligence sharing with the country.\u00a0 Limits on Starlink\u2019s services in Ukraine occurred without warning, presidential adviser Serhii Beskrestnov wrote on Telegram,...",
+   "published": "2026-10-14T13:51:29+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-14T15:44:23.789174+00:00"
+  },
   {
    "id": "937ff36eaebb0120",
    "title": "Katie Zacharia's debut shows the pitfalls and possibilities of White House press secretary's role",
@@ -10253,50 +10385,6 @@
    "source_id": "guardian-uspolitics",
    "bias_note": "left-leaning",
    "first_seen": "2026-09-30T16:43:20.431842+00:00"
-  },
-  {
-   "id": "9b21c82e3bedd9ae",
-   "title": "Trump posts letter with \u2018Unites States\u2019 typo after AI meeting with tech CEOs",
-   "url": "https://thehill.com/homenews/administration/6120484-trump-ai-pact-typo/",
-   "summary": "The letter detailing President Trump\u2019s pact with key AI leaders posted Tuesday following his meeting with technology leaders contains a typo, misspelling his title as \u201cPresident of the Unites States.\" The letter, which Trump posted on Truth Social, outlined the voluntary agreement to implement certain guardrails following several high-profile cybersecurity incidents where AI chatbots escaped...",
-   "published": "2026-09-30T15:40:19+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-30T16:43:21.737302+00:00"
-  },
-  {
-   "id": "a6b69c821a16d284",
-   "title": "How Trump keeps undercutting his anti-communist message",
-   "url": "https://www.npr.org/2026/09/30/nx-s1-5913363/how-trump-keeps-undercutting-his-anti-communist-message",
-   "summary": "The Trump administration has taken government equity stakes in more than three dozen private companies.",
-   "published": "2026-09-30T14:58:51+00:00",
-   "source": "NPR Politics",
-   "source_id": "npr-politics",
-   "bias_note": "center",
-   "first_seen": "2026-09-30T16:43:20.218715+00:00"
-  },
-  {
-   "id": "b678b51fc873150e",
-   "title": "Republican urges Trump administration to \u2018step back\u2019 and rethink immigration agenda",
-   "url": "https://www.theguardian.com/us-news/2026/sep/30/republican-trump-immigration-agenda",
-   "summary": "Senator Jim Justice of West Virginia criticizes immigration crackdown as ranchers\u2019 associations condemn ICE activity A close political ally of Donald Trump has broken from the administration\u2019s aggressive immigration enforcement agenda and recommended it \u201cstep back\u201d to evaluate what it could do better.\u201cTo get better, the first thing you got to do is admit you\u2019re doing something wrong,\u201d Jim Justice, a Republican senator of West Virginia, told Politico. \u201cAnd in this situation, with all that\u2019s going on and all the stuff, we probably got to step back from it and say: \u2018Maybe we\u2019re doing something wr",
-   "published": "2026-09-30T14:52:27+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-09-30T16:43:20.431849+00:00"
-  },
-  {
-   "id": "21d191a68ede462f",
-   "title": "Senate Democrats rip DHS over diverted funding for campaign-style Trump ads",
-   "url": "https://thehill.com/homenews/senate/6120110-senate-democrats-dhs-funding-trump-taxpayer-funded-tv-ads/",
-   "summary": "Two Democratic senators are demanding answers following reports that Department of Homeland Security (DHS) funds were used to run TV advertisements promoting President Trump. In a Tuesday letter addressed to DHS Secretary Markwayne Mullin, Sens. Patty Murray (D-Wash.) and Chris Murphy (D-Conn.) asked him to address several questions regarding the use of the funds within...",
-   "published": "2026-09-30T14:41:34+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-30T16:43:21.737367+00:00"
   }
  ]
 }
