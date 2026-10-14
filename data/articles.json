@@ -1,7 +1,172 @@
 {
- "updated": "2026-10-13T21:18:45.996175+00:00",
- "count": 911,
+ "updated": "2026-10-14T01:15:50.358121+00:00",
+ "count": 909,
  "articles": [
+  {
+   "id": "edde57a202cac7b0",
+   "title": "Venture capital firm tied to Donald Trump Jr weighs legal action against ABC News over botched report",
+   "url": "https://www.foxnews.com/media/venture-capital-firm-tied-donald-trump-jr-weighs-legal-action-abc-news-botched-report",
+   "summary": "1789 Capital says its attorneys are in touch with ABC News and Disney after the network deleted and revised a report about Donald Trump Jr..",
+   "published": "2026-10-14T01:01:57+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-10-14T01:15:48.555770+00:00"
+  },
+  {
+   "id": "e0a26b6f255180c0",
+   "title": "Ossoff commits to 6-year Senate term amid 2028 speculation",
+   "url": "https://thehill.com/homenews/campaign/6146926-ossoff-senate-2028-president-bid-speculation/",
+   "summary": "Sen. Jon Ossoff (D-Ga.), who has been floated as a potential 2028 presidential candidate, committed on Tuesday to serving a full Senate term as he reiterated \u201czero interest\u201d in a White House campaign. \u201cYes, I will,\u201d Ossoff said during a Tuesday debate as he runs for Senate reelection, when asked to pledge his commitment to...",
+   "published": "2026-10-14T00:34:13+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-14T01:15:49.548738+00:00"
+  },
+  {
+   "id": "68eed85023799f3a",
+   "title": "Legal group files Hatch Act complaint over Omar search",
+   "url": "https://thehill.com/regulation/court-battles/6146880-hatch-act-complaint-omar-raid/",
+   "summary": "A watchdog group filed a Hatch Act complaint Tuesday against several federal agencies following the search of Rep. Ilhan Omar\u2019s (D-Minn.) home. Democracy Defenders Fund called for an investigation the Department of Homeland Security (DHS) and its secretary, Markwayne Mullin, Attorney General Todd Blanche, the Justice Department (DOJ) and Joseph Edlow, the director of U.S....",
+   "published": "2026-10-14T00:23:21+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-14T01:15:49.548750+00:00"
+  },
+  {
+   "id": "d9f8f5c7672d33af",
+   "title": "Katie Zacharia holds awkward debut briefing as Trump's press secretary - video",
+   "url": "https://www.theguardian.com/us-news/video/2026/oct/13/katie-zacharia-holds-awkward-debut-briefing-as-trumps-press-secretary-video",
+   "summary": "New White House press secretary Katie Zacharia faced reporters for the first time on Tuesday, delivering a brief 14-minute briefing and taking questions from just three media outlets. In her opening remarks, she praised Donald Trump\u2019s energy policies, saying he had restored US 'energy dominance', and credited his tariffs with stopping China from producing fentanyl precursor chemicals. Asked how she would balance the demanding role with family life, Zacharia said missing evenings with her children wasn't acceptable before mistakenly referring to her husband as 'my president' and correcting hers",
+   "published": "2026-10-13T23:54:24+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-10-14T01:15:49.322647+00:00"
+  },
+  {
+   "id": "e5013e59a1d69e26",
+   "title": "White House press secretary's debut brings news of Guilfoyle's exit",
+   "url": "https://www.pbs.org/newshour/show/white-house-press-secretarys-debut-brings-news-of-guilfoyles-exit",
+   "summary": "On her first day at the podium, new White House Press Secretary Katie Zacharia made news. She announced that President Trump has asked his son's former fianc\u00e9e and ambassador to Greece, Kimberly Guilfoyle, to resign amid allegations that she sought $100,000 from a donor. White House correspondent Liz Landers reports.",
+   "published": "2026-10-13T22:55:01+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-10-14T01:15:49.758038+00:00"
+  },
+  {
+   "id": "71fd68b9f48cbeb2",
+   "title": "Musk jumps back into Trump's orbit ahead of midterms",
+   "url": "https://thehill.com/newsletters/technology/6146820-musk-jumps-back-into-trumps-orbit-ahead-of-midterms/",
+   "summary": "{beacon} Technology Technology &#8202; The Big Story  Musk jumps back into Trump's orbit ahead of midterms  Elon Musk is jumping back into the political fray, reviving his role as a massive election spender and technology leader with a seat at the table again in Washington.  \u00a9 Alex Brandon, Associated Press Following a brief break from...",
+   "published": "2026-10-13T22:40:54+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-14T01:15:49.548769+00:00"
+  },
+  {
+   "id": "24b7789fb16d498a",
+   "title": "Trump Accounts expand to millions of children, but new rules raise questions",
+   "url": "https://www.pbs.org/newshour/show/trump-accounts-expand-to-millions-of-children-but-new-rules-raise-questions",
+   "summary": "The Treasury Department has created Trump Accounts for every eligible child, automatically enrolling more than 60 million. The expansion also comes with changes to how the program works. Donors can now donate individual stocks that families can't choose or reject and must keep for five years. Amna Nawaz discussed more with Wall Street Journal reporter Richard Rubin.",
+   "published": "2026-10-13T22:30:36+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-10-14T01:15:49.758045+00:00"
+  },
+  {
+   "id": "d921dbfda5dee46b",
+   "title": "Trump still seeks to block wind project",
+   "url": "https://thehill.com/newsletters/energy-environment/6146768-trump-still-seeks-to-block-wind-project/",
+   "summary": "{beacon} Energy &#038; Environment Energy &#038; Environment &#8202; The Big Story  Interior asks court to let it reassess wind approval  The Trump administration is asking a federal court to reassess a prior approval of a nearly-completed offshore wind farm, an escalation of the administration\u2019s attack on wind energy that\u2019s raising questions about an infrastructure deal...",
+   "published": "2026-10-13T22:24:05+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-14T01:15:49.548774+00:00"
+  },
+  {
+   "id": "8576aabf527e1e4c",
+   "title": "Cleveland to be home of next submarine repair center",
+   "url": "https://thehill.com/newsletters/defense-national-security/6146728-cleveland-to-be-home-of-next-submarine-repair-center/",
+   "summary": "Welcome to The Hill's Defense &#038; NatSec newsletter {beacon} Defense &#038;National Security Defense &#038;National Security &#8202; The Big Story  Cleveland to be home of next submarine repair center President Trump announced late Monday that a new \"massive\" submarine repair center will be in Cleveland, Ohio.   \u00a9 AP Photo/Sue Ogrocki \u201cI\u2019m pleased to announce that the...",
+   "published": "2026-10-13T22:16:08+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-14T01:15:49.548779+00:00"
+  },
+  {
+   "id": "491731494cb69879",
+   "title": "Global law enforcement agencies, tech firms disrupt West African scam network",
+   "url": "https://thehill.com/policy/technology/6146435-global-agencies-tech-firms-scam-network/",
+   "summary": "A group of law enforcement agencies from around the world teamed up with a handful of high-profile technology firms to disrupt West African criminal scam networks, the Justice Department (DOJ) announced Tuesday. The operation led to \"dozens\" of arrests and 117 trafficking victims rescued from scam compounds in Ghana, the DOJ said. Authorities in the...",
+   "published": "2026-10-13T22:04:36+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-14T01:15:49.548795+00:00"
+  },
+  {
+   "id": "dfc534a3c1b18e8d",
+   "title": "Guilfoyle scandal proves too much for Trump with midterms looming",
+   "url": "https://thehill.com/homenews/administration/6146652-donald-trump-kimberly-guilfoyle-resignation-midterm-elections/",
+   "summary": "Just days after a series of reports engulfed Kimberly Guilfoyle in scandal, the White House announced and accepted the U.S. ambassador to Greece's resignation. \"We didn't like what we were reading,\u201d President Trump told reporters after the White House announced the move. The abrupt dismissal marked a stark contrast to how other offenses in the...",
+   "published": "2026-10-13T22:00:46+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-14T01:15:49.548800+00:00"
+  },
+  {
+   "id": "9e11b123b3863d27",
+   "title": "Hochul's office mocks Katie Zacharia with Aaron Rodgers injury post despite governor's press secretary scandal",
+   "url": "https://www.foxnews.com/outkick-sports/hochul-office-mocks-katie-zacharia-aaron-rodgers-injury-post-despite-governor-press-secretary-scandal",
+   "summary": "New York Democratic Gov. Kathy Hochul&apos;s press office appeared to mock Katie Zacharia&apos;s White House debut by posting Aaron Rodgers&apos; Jets injury photo.",
+   "published": "2026-10-13T21:51:55+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-10-14T01:15:48.555906+00:00"
+  },
+  {
+   "id": "0f5c022665f012e3",
+   "title": "Saudi national arrested after allegedly hiding recording device in OpenAI office",
+   "url": "https://thehill.com/policy/technology/6146643-open-ai-spying-fbi-doj/",
+   "summary": "An OpenAI employee from Saudi Arabia has been arrested after allegedly hiding a recording device in the company\u2019s offices, the Department of Justice (DOJ) said Tuesday. Abdulrahman Alfozan, a 35-year-old Saudi national who had worked as an engineer at OpenAI since last July, was charged with using or attempting to use a device to intercept...",
+   "published": "2026-10-13T21:51:43+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-14T01:15:49.548839+00:00"
+  },
+  {
+   "id": "ce02ef5495a5aa71",
+   "title": "Trump's diesel deal with Putin draws bipartisan criticism from a frustrated Congress",
+   "url": "https://www.pbs.org/newshour/politics/trumps-diesel-deal-with-putin-draws-bipartisan-criticism-from-a-frustrated-congress",
+   "summary": "The deal is being criticized by both Republicans and Democrats as fueling Russia's war against Ukraine, violating existing U.S. laws and drawing the U.S. closer to Russia.",
+   "published": "2026-10-13T21:46:01+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-10-14T01:15:49.758048+00:00"
+  },
+  {
+   "id": "11be51d6b61e2f31",
+   "title": "Dem candidate's bizarre anti-MAGA tirade ends with 'We have guns too'",
+   "url": "https://www.foxnews.com/politics/fire-all-republicans-dem-candidate-anti-maga-tirade-ends-we-have-guns-too-message-voters",
+   "summary": "Jaime West, a Democrat running for Fayette County Council in Indiana, drew ridicule after appearing to slur through attacks on Republicans at a forum.",
+   "published": "2026-10-13T21:43:57+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-10-14T01:15:48.488280+00:00"
+  },
   {
    "id": "7f9cee9b1486bd27",
    "title": "Watch live: Trump heads to Alaska as Senate race heats up",
@@ -9835,193 +10000,6 @@
    "source_id": "thehill",
    "bias_note": "center",
    "first_seen": "2026-09-30T05:38:56.182963+00:00"
-  },
-  {
-   "id": "ee5255a9816e84a2",
-   "title": "Senate blocks Democratic effort to force report on West Bank violence",
-   "url": "https://thehill.com/homenews/senate/6119354-senate-blocks-west-bank-resolution/",
-   "summary": "Republican senators blocked a Democratic attempt to bring up a resolution that would force the Trump administration to report on violence and human rights violations occurring in the West Bank.  The measure would have required the State Department to report on violence against US citizens by Israel in the West Bank, or stop aid to...",
-   "published": "2026-09-30T00:37:21+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-30T05:38:56.182982+00:00"
-  },
-  {
-   "id": "f500dfe3e0920367",
-   "title": "4 takeaways from the MAHA Summit",
-   "url": "https://thehill.com/policy/healthcare/6119302-maha-summit-corporate-takeaways/",
-   "summary": "Trump administration officials mingled with insurers, corporate executives and wellness influencers at the second Make America Healthy Again (MAHA) summit. They discussed issues ranging from affordability, the U.S. food supply and the food pyramid, as well as the use of artificial intelligence in healthcare.\u00a0 Along with many other mainstream outlets, The Hill was not granted...",
-   "published": "2026-09-29T23:40:05+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-30T05:38:56.182987+00:00"
-  },
-  {
-   "id": "0af2825be369a3f5",
-   "title": "Trump announces vague \u2018morally binding\u2019 AI deal among tech CEOs for \u2018tremendous self-policing\u2019",
-   "url": "https://www.theguardian.com/us-news/2026/sep/29/trump-ai-deal-tech-ceos-superintelligence",
-   "summary": "US president also issues executive order officially rebranding \u2018artificial intelligence\u2019 as \u2018superintelligence\u2019Donald Trump announced on Tuesday that the heads of the largest US tech and AI companies had signed on to a \u201cmorally binding\u201d agreement to put controls on artificial intelligence. He announced the deal, called the Joint Commitment On Frontier Responsibilities, following a White House luncheon with top tech executives.\u201cIt\u2019s almost like a constitution in a way, and the biggest \u200bpeople in the world signed that, and \u200bI signed it as president, and it really \u2060is a form of protection,\u201d Trump",
-   "published": "2026-09-29T23:21:25+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-09-30T05:38:55.831819+00:00"
-  },
-  {
-   "id": "b704127dde19adf8",
-   "title": "EPA to \u2018reconsider\u2019 air quality rules as Texas faces diesel price 'disaster'",
-   "url": "https://thehill.com/policy/energy-environment/6119251-epa-reconsiders-texas-air-regulations/",
-   "summary": "The Environmental Protection Agency (EPA) announced Tuesday it would \u201creconsider\u201d air-quality regulations amid Texas\u2019s diesel price \u201cdisaster.\u201d The letter sent by EPA Administrator Lee Zeldin to Texas Gov. Greg Abbott (R) responded to concern from officials in the Lone Star State that rules from the Biden and Obama administrations are causing \u201csignificant economic harm.\u201d \u201cTexas...",
-   "published": "2026-09-29T23:08:45+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-30T05:38:56.182994+00:00"
-  },
-  {
-   "id": "96ebc0e4af876a6a",
-   "title": "Self-regulation 'not enough' for AI safety, Gary Marcus says",
-   "url": "https://www.pbs.org/newshour/show/self-regulation-not-enough-for-ai-safety-gary-marcus-says",
-   "summary": "Top tech executives met with President Trump on Tuesday to discuss the future of artificial intelligence amid growing concerns over AI models losing control. Researchers and lawmakers are calling for stronger safeguards, but Trump said the technology is transforming the economy and that the U.S. cannot afford to lose its lead over China. Geoff Bennett discussed more with Gary Marcus.",
-   "published": "2026-09-29T22:55:34+00:00",
-   "source": "PBS NewsHour Politics",
-   "source_id": "pbs-politics",
-   "bias_note": "center",
-   "first_seen": "2026-09-30T05:38:56.445656+00:00"
-  },
-  {
-   "id": "8495cdf6d13e1e37",
-   "title": "Treasury confirms plan to auto-enroll millions of children in Trump accounts",
-   "url": "https://thehill.com/homenews/administration/6119209-treasury-auto-enrolls-trump-accounts/",
-   "summary": "The Treasury Department will automatically enroll millions of children in Trump Accounts under new rules released Tuesday, eliminating the need for parents to sign up for the investment program. The auto enrollment will create accounts for more than 60 million additional children under the age of 18, according to department guidance. The move is intended...",
-   "published": "2026-09-29T22:52:19+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-30T05:38:56.182996+00:00"
-  },
-  {
-   "id": "98012942a7c80ef4",
-   "title": "During Senate hearing, Jack Smith defends criminal investigations of Trump",
-   "url": "https://www.pbs.org/newshour/show/during-senate-hearing-jack-smith-defends-criminal-investigations-of-trump",
-   "summary": "The prosecutor who led criminal investigations of President Trump for the Department of Justice faced questions from Senate Republicans on Tuesday. Former special counsel Jack Smith handled two probes. One focused on the president's efforts to overturn the 2020 election and the other on Trump's alleged mishandling of classified documents. Justice correspondent Ali Rogin reports.",
-   "published": "2026-09-29T22:50:28+00:00",
-   "source": "PBS NewsHour Politics",
-   "source_id": "pbs-politics",
-   "bias_note": "center",
-   "first_seen": "2026-09-30T05:38:56.445662+00:00"
-  },
-  {
-   "id": "9b7a4b575b9b2021",
-   "title": "News Wrap: Supreme Court allows Trump's deportations to third countries, for now",
-   "url": "https://www.pbs.org/newshour/show/news-wrap-supreme-court-allows-trumps-deportations-to-third-countries-for-now",
-   "summary": "In our news wrap Tuesday, the Supreme Court is allowing the Trump administration to continue deporting migrants to countries other than their own for now, federal prosecutors charged a Venezuelan delivery driver who was shot by an ICE officer with assaulting a federal officer and Dutch police arrested a suspected member of the ShinyHunters group that claims it hacked the FBI's jobs database.",
-   "published": "2026-09-29T22:45:07+00:00",
-   "source": "PBS NewsHour Politics",
-   "source_id": "pbs-politics",
-   "bias_note": "center",
-   "first_seen": "2026-09-30T05:38:56.445665+00:00"
-  },
-  {
-   "id": "33e7dd504fb4e8a0",
-   "title": "Affordability and accountability top priorities if Democrats take House, Jeffries says",
-   "url": "https://www.pbs.org/newshour/show/affordability-and-accountability-top-priorities-if-democrats-take-house-jeffries-says",
-   "summary": "The latest polling shows Democrats with a solid shot of regaining control of the House of Representatives in the midterm elections. If they do, House Minority Leader Hakeem Jeffries could become Speaker of the House, with debates over the economy, government spending, and President Trump's agenda all unfolding. Jeffries joined Geoff Bennett to discuss those issues.",
-   "published": "2026-09-29T22:35:55+00:00",
-   "source": "PBS NewsHour Politics",
-   "source_id": "pbs-politics",
-   "bias_note": "center",
-   "first_seen": "2026-09-30T05:38:56.445667+00:00"
-  },
-  {
-   "id": "36ce7bf546ff0a84",
-   "title": "Trump, GOP leaders look to reclaim control over AI narrative",
-   "url": "https://thehill.com/homenews/administration/6119096-trump-republicans-ai-data-centers/",
-   "summary": "President Trump and Republicans are seeking to reclaim control of the narrative surrounding AI as Democrats use the issue to go on offense ahead of the midterms. Numerous tech leaders joined Trump and Speaker Mike Johnson (R-La.) at a Tuesday luncheon on \u201csuperintelligence\u201d \u2014 the president\u2019s new term for AI \u2014 where they signed onto...",
-   "published": "2026-09-29T22:08:41+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-29T22:20:13.675473+00:00"
-  },
-  {
-   "id": "b14f9b9035cc8a19",
-   "title": "Five things to know about Trump's new AI website",
-   "url": "https://thehill.com/homenews/administration/6119087-trump-launches-ai-america-gov/",
-   "summary": "President Trump launched America.gov on Tuesday, a website that uses artificial intelligence (AI) to help Americans find information across government websites with a single search. Trump said the website has been in the works since the early days of his second term and that it\u2019s still a work in progress. The website's unveiling took place...",
-   "published": "2026-09-29T22:02:47+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-29T22:20:13.675480+00:00"
-  },
-  {
-   "id": "9ccdcfaa70c900ca",
-   "title": "AI firms agree to 'morally binding' self-policing at White House",
-   "url": "https://thehill.com/newsletters/technology/6119104-ai-firms-agree-to-morally-binding-self-policing-at-white-house/",
-   "summary": "{beacon} Technology Technology &#8202; The Big Story  AI firms agree to 'morally binding' self-policing at White House  Key AI industry leaders signed onto a pledge Tuesday to self-police development, President Trump and Speaker Mike Johnson (R-La.) announced following a meeting at the White House. \u00a9 AP Photo/Jacquelyn Martin The agreement, called \u201cThe White House Accord...",
-   "published": "2026-09-29T22:00:43+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-09-29T22:20:13.675485+00:00"
-  },
-  {
-   "id": "a24e39a85436dea6",
-   "title": "NCAA responds after Riley Gaines' lawsuit is dismissed, affirms compliance with Trump's executive order",
-   "url": "https://www.foxnews.com/outkick-sports/ncaa-responds-riley-gaines-lawsuit-dismissed-affirms-compliance-trumps-executive-order",
-   "summary": "Riley Gaines and fellow athletes plan to appeal after a federal judge dismissed their Title IX lawsuit, ruling the NCAA isn&apos;t a federal funding recipient.",
-   "published": "2026-09-29T21:28:30+00:00",
-   "source": "Fox News Latest",
-   "source_id": "foxnews-latest",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-09-29T22:20:11.018809+00:00"
-  },
-  {
-   "id": "3e03d85b0c1dc482",
-   "title": "Fact Sheet: President Donald J. Trump Eliminates Disease-Carrying Pests and Restores Enjoyment of The Great Outdoors",
-   "url": "https://www.whitehouse.gov/fact-sheets/2026/09/fact-sheet-president-donald-j-trump-eliminates-disease-carrying-pests-and-restores-enjoyment-of-the-great-outdoors/",
-   "summary": "ELIMINATING INVASIVE TICKS AND MOSQUITOES:&#160;Today, President Donald J. Trump signed an Executive Order to eliminate invasive ticks and mosquitoes in the Federal jurisdiction of Washington, D.C. through safe and effective, non-chemical, and technology-enabled methods, and invest in pioneering approaches to eliminate these pests throughout the country. SAFEGUARDING AMERICANS\u2019 HEALTH AND DEMONSTRATING INNOVATIVE PEST CONTROL:&#160;President Trump [&#8230;]\nThe post Fact Sheet: President Donald J. Trump Eliminates Disease-Carrying Pests and Restores Enjoyment of The Great Outdoors appeared fir",
-   "published": "2026-09-29T21:24:24+00:00",
-   "source": "WhiteHouse.gov News",
-   "source_id": "whitehouse",
-   "bias_note": "official/primary-source",
-   "first_seen": "2026-09-29T22:20:11.143974+00:00"
-  },
-  {
-   "id": "b61e881a900deee0",
-   "title": "Eliminating Disease-Carrying Pests And Restoring Enjoyment Of The Great Outdoors",
-   "url": "https://www.whitehouse.gov/presidential-actions/2026/09/eliminating-disease-carrying-pests-and-restoring-enjoyment-of-the-great-outdoors/",
-   "summary": "By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered: Section 1. \u00a0Background and Purpose. \u00a0Ticks and mosquitoes are among the deadliest animals worldwide, transmitting major diseases that impose growing health and economic burdens on the American public.\u00a0 Foreign, invasive mosquitoes, [&#8230;]\nThe post Eliminating Disease-Carrying Pests And Restoring Enjoyment Of The Great Outdoors appeared first on The White House.",
-   "published": "2026-09-29T21:23:48+00:00",
-   "source": "WhiteHouse.gov News",
-   "source_id": "whitehouse",
-   "bias_note": "official/primary-source",
-   "first_seen": "2026-09-29T22:20:11.143979+00:00"
-  },
-  {
-   "id": "3d4d4eefec1e5c94",
-   "title": "Trump agrees to end court fight against $5m verdict in E Jean Carroll case",
-   "url": "https://www.theguardian.com/us-news/2026/sep/29/trump-e-jean-carroll-verdict",
-   "summary": "The verdict stems from Carroll\u2019s 2023 sexual abuse and defamation civil trial against TrumpDonald Trump has agreed to stop fighting in court the disbursement of E Jean Carroll\u2019s $5m verdict in her 2023 sexual abuse and defamation civil trial against him, a procedural development as these funds were already distributed to her.While the decision does not change anything about Carroll\u2019s receipt of the payout, its revelation effectively means that Trump will no longer oppose the monetary outcome he had long fought. Continue reading...",
-   "published": "2026-09-29T21:22:44+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-09-29T22:20:11.819331+00:00"
-  },
-  {
-   "id": "a5c0117397acc165",
-   "title": "Fact Sheet: President Donald J. Trump Inaugurates The Era of Super Intelligence",
-   "url": "https://www.whitehouse.gov/fact-sheets/2026/09/fact-sheet-president-donald-j-trump-inaugurates-the-era-of-super-intelligence/",
-   "summary": "USHERING IN SUPER INTELLIGENCE:&#160;Today, President Donald J. Trump signed an Executive Order to replace the term \u201cArtificial Intelligence\u201d (\u201cAI\u201d) with \u201cSuper Intelligence\u201d (\u201cSI\u201d) in the executive branch to recognize the continuously advancing technological frontier and the limitless promise it offers the American people. RECOGNIZING THE IMMENSE OPPORTUNITY OF SI: The United States is the world [&#8230;]\nThe post Fact Sheet: President Donald J. Trump Inaugurates The Era of Super Intelligence appeared first on The White House.",
-   "published": "2026-09-29T21:21:06+00:00",
-   "source": "WhiteHouse.gov News",
-   "source_id": "whitehouse",
-   "bias_note": "official/primary-source",
-   "first_seen": "2026-09-29T22:20:11.143981+00:00"
   }
  ]
 }
