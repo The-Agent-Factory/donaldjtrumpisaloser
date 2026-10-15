@@ -1,7 +1,139 @@
 {
- "updated": "2026-10-14T23:16:39.670133+00:00",
- "count": 944,
+ "updated": "2026-10-15T04:48:11.083989+00:00",
+ "count": 948,
  "articles": [
+  {
+   "id": "5d563064df040e73",
+   "title": "Trump wishes Pope Leo speedy recovery after lung cancer diagnosis, speaks highly of pontiff's brother",
+   "url": "https://www.foxnews.com/world/trump-wishes-pope-leo-speedy-recovery-after-lung-cancer-diagnosis-speaks-highly-pontiffs-brother",
+   "summary": "President Donald Trump revealed Pope Leo XIV&apos;s brother is a friend and avid MAGA supporter with memorabilia &quot;all over&quot; his house while wishing the pontiff well.",
+   "published": "2026-10-15T03:38:47+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-10-15T04:48:09.818695+00:00"
+  },
+  {
+   "id": "165a538672dc716a",
+   "title": "Trump on Iran talks: \u2018I don\u2019t know who the hell we\u2019re negotiating with\u2019",
+   "url": "https://thehill.com/homenews/administration/6149753-trump-montana-rally-iran-war/",
+   "summary": "President Trump said Wednesday night at a rally in Montana that he wasn\u2019t sure who U.S. officials were negotiating with in their efforts to bring an end to the Iran war.  \u201cThey don\u2019t have a navy. They don\u2019t have an air force. Their army is decimated. Their leaders are gone,\u201d the president said, referencing the...",
+   "published": "2026-10-15T03:19:33+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-15T04:48:10.464881+00:00"
+  },
+  {
+   "id": "1e649286efc33cfc",
+   "title": "Justice Department threatens California with legal action over claim of noncitizens on voter rolls",
+   "url": "https://abcnews.com/Politics/wireStory/justice-department-threatens-california-legal-action-claim-noncitizens-137262193",
+   "summary": "The Justice Department is threatening California with possible legal action over what it says are noncitizens believed to have received mail ballots for next month&rsquo;s midterm elections",
+   "published": "2026-10-15T03:12:11+00:00",
+   "source": "ABC News Politics",
+   "source_id": "abc-politics",
+   "bias_note": "center",
+   "first_seen": "2026-10-15T04:48:10.837157+00:00"
+  },
+  {
+   "id": "06b0888aca681370",
+   "title": "Trump\u2019s approval rating hits record low in Fox News poll",
+   "url": "https://thehill.com/homenews/administration/6149735-trumps-approval-rating-hits-record-low-in-fox-news-poll/",
+   "summary": "President Trump\u2019s overall approval rating hit a record low for either of his terms, according to a new Fox News survey amid growing voter dissatisfaction with his handling of key issues. The Fox News poll found 36 percent of respondents approved of Trump\u2019s overall handling of the presidency, while 64 percent disapproved. The decline, Fox...",
+   "published": "2026-10-15T03:01:10+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-15T04:48:10.464894+00:00"
+  },
+  {
+   "id": "b7075966b36a29ea",
+   "title": "Presidential Message on the Birthday of President Dwight D. Eisenhower",
+   "url": "https://www.whitehouse.gov/briefings-statements/2026/10/presidential-message-on-the-birthday-of-president-dwight-d-eisenhower-c6b1/",
+   "summary": "On this day, we mark the 136th birthday of President Dwight David Eisenhower\u2014a visionary leader, respected warrior, distinguished statesman, and noble public servant. &#160;In command of great armies&#160;and in the White House, he met every trial with steadiness, courage, and resolve, earning the enduring trust of the American People and the lasting gratitude of the [&#8230;]\nThe post Presidential Message on the Birthday of President Dwight D. Eisenhower appeared first on The White House.",
+   "published": "2026-10-15T02:17:50+00:00",
+   "source": "WhiteHouse.gov News",
+   "source_id": "whitehouse",
+   "bias_note": "official/primary-source",
+   "first_seen": "2026-10-15T04:48:09.924871+00:00"
+  },
+  {
+   "id": "009969b768f443de",
+   "title": "White House punches back at Chicago Mayor Johnson over reparations demands",
+   "url": "https://www.foxnews.com/media/white-house-slams-chicago-mayor-brandon-johnson-progressive-mayor-hits-trump-wealth-reparations",
+   "summary": "Chicago Mayor Brandon Johnson alleged Trump enriched the ultra-rich while ignoring descendants of the formerly enslaved, drawing a White House rebuke.",
+   "published": "2026-10-15T01:08:22+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-10-15T04:48:09.818731+00:00"
+  },
+  {
+   "id": "c8da790a249caf89",
+   "title": "Watchdog group challenges legality of Kushner\u2019s role in Trump administration",
+   "url": "https://thehill.com/regulation/court-battles/6149653-crew-sues-jared-kushner/",
+   "summary": "A watchdog group in a lawsuit on Wednesday challenged the legality of Jared Kushner\u2019s role in his father-in-law\u2019s administration. \u201cPrimarily, this suit seeks to bar Kushner from occupying his government position and exercising government authority in violation of the Appointments Clause,\u201d the lawsuit, from Citizens for Responsibility and Ethics in Washington (CREW), reads. \u201cIf not...",
+   "published": "2026-10-15T00:59:27+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-15T04:48:10.464957+00:00"
+  },
+  {
+   "id": "dc6e8f9771de98e3",
+   "title": "Trump torches Democrats at Arizona rally, warns they will \u2018destroy our country\u2019 ahead of midterms",
+   "url": "https://www.foxnews.com/politics/trump-torches-democrats-arizona-rally-warns-destroy-country-ahead-midterms",
+   "summary": "Trump rallied for Andy Biggs in Bullhead City, blasting Dem Gov. Katie Hobbs and urging Arizona voters to turn the state red in honor of Charlie Kirk.",
+   "published": "2026-10-15T00:06:31+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-10-15T04:48:09.800064+00:00"
+  },
+  {
+   "id": "25d4dd72b10f571b",
+   "title": "Trump announces Taiwan's plans to buy US gas",
+   "url": "https://thehill.com/newsletters/energy-environment/6149640-taiwan-buys-alaska-gas/",
+   "summary": "{beacon} Energy &#038; Environment Energy &#038; Environment &#8202; The Big Story  Trump announces Taiwan's plans to buy US gas President Trump announced Tuesday that Taiwan has agreed to purchase 30 percent of gas from the Alaska pipeline over the next 20 years. \u00a9 Photo Credit: AP Photo/Alex Brandon Speaking at a campaign rally in Wasilla,...",
+   "published": "2026-10-14T23:45:37+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-15T04:48:10.464966+00:00"
+  },
+  {
+   "id": "05b683aa7c3a70a5",
+   "title": "Rogan warns Trump's voters feel betrayed by Iran war with 'no easy way out'",
+   "url": "https://www.foxnews.com/media/rogan-warns-trumps-voters-feel-betrayed-iran-war-no-easy-way-out",
+   "summary": "Joe Rogan told Michael Douglas the Iran war has infuriated President Donald Trump&apos;s voters who believed they were electing a president to prevent new conflicts.",
+   "published": "2026-10-14T23:36:45+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-10-15T04:48:09.818781+00:00"
+  },
+  {
+   "id": "79f54501e76b346b",
+   "title": "Federal agents seize phone of Rep Ilhan Omar in raid tied to immigration fraud probe",
+   "url": "https://www.foxnews.com/politics/federal-agents-seize-phone-rep-ilhan-omar-raid-tied-immigration-fraud-probe",
+   "summary": "Federal agents raided Ilhan Omar&apos;s D.C. home and seized her cellphone as part of a criminal fraud investigation into her immigration paperwork.",
+   "published": "2026-10-14T23:18:07+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-10-15T04:48:09.800075+00:00"
+  },
+  {
+   "id": "d97a98ee1865b626",
+   "title": "Lisa Cook's lawyers call Trump's investigation committee 'demonstrably biased'",
+   "url": "https://thehill.com/business/6149573-cook-challenges-trump-inquiry-bias/",
+   "summary": "Lawyers for Federal Reserve board of governors member Lisa Cook called President Trump\u2019s investigation committee into her \u201cdemonstrably biased.\u201d \"A hearing with demonstrably biased members, unspecified additional allegations, and an unclear schedule for the disclosure of any additional evidence \u2013 with no explanation for why it was not previously produced \u2013 is not a process...",
+   "published": "2026-10-14T23:16:51+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-15T04:48:10.464976+00:00"
+  },
   {
    "id": "694b8f7993ef6255",
    "title": "The Memo: Crisis and chaos hit Ukraine as questions multiply over Trump\u2019s role",
@@ -10297,94 +10429,6 @@
    "source_id": "npr-politics",
    "bias_note": "center",
    "first_seen": "2026-10-01T13:25:41.106267+00:00"
-  },
-  {
-   "id": "bba7bc03dad63fc4",
-   "title": "Becerra, Hilton tangle over \u2018Trump, Trump, Trump\u2019 in California governor debate",
-   "url": "https://thehill.com/homenews/6122170-becerra-hilton-california-governor-debate/",
-   "summary": "Former Health Secretary Xavier Becerra (D) and Republican Steve Hilton, a former Fox News host, clashed on the debate stage Wednesday as they jostle in a contentious race to replace California Gov. Gavin Newsom (D). The rivals sparred over the economy, immigration and healthcare in an hourlong CNN debate, the first and only scheduled just...",
-   "published": "2026-10-01T04:13:57+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-01T06:03:21.833908+00:00"
-  },
-  {
-   "id": "3f0ff7023c006d4e",
-   "title": "Steve Hilton, Xavier Becerra clash in testy California governor\u2019s race debate",
-   "url": "https://www.theguardian.com/us-news/2026/oct/01/steve-hilton-xavier-becerra-clash-california-governor-race-debate",
-   "summary": "The candidates running to replace Gavin Newsom sparred over taxes, immigration and regulating AIXavier Becerra and Steve Hilton, the candidates running to be California\u2019s next governor, clashed Wednesday over taxes, immigration and regulating artificial intelligence in a testy debate held days before voters begin receiving their ballots in the heavily Democratic state.Hilton, the former Fox News host endorsed by Donald Trump, used the hourlong matchup, hosted by CNN, to argue that Becerra, a former congressman who served as health and human services secretary during the Biden administration, w",
-   "published": "2026-10-01T04:02:58+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-10-01T06:03:21.648922+00:00"
-  },
-  {
-   "id": "99deeded4e5c01b2",
-   "title": "Senate confirms insider Keith Sonderling to lead Department of Labor",
-   "url": "https://thehill.com/homenews/6122151-senate-confirms-keith-sonderling-labor-secretary/",
-   "summary": "The Senate voted 47-41 Wednesday night to confirm Keith Sonderling, acting Secretary of Labor, to the post permanently \u2014 filling a seat in President Trump\u2019s cabinet that has been officially empty since April.\u00a0 All Republicans present voted for Sonderling\u2019s nomination, and all Democrats voted against it, but the nomination only needed a majority to succeed....",
-   "published": "2026-10-01T03:28:57+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-01T06:03:21.833917+00:00"
-  },
-  {
-   "id": "b961a1723a66aaf2",
-   "title": "Rivals for California governor clash over homelessness, Trump in only debate as ballots go to voters",
-   "url": "https://abcnews.com/Politics/wireStory/rivals-california-governor-clash-homelessness-trump-debate-ballots-136904053",
-   "summary": "The candidates for California governor &mdash; Democrat Xavier Becerra and Republican Steve Hilton &mdash; clashed virtually nonstop in the sole televised debate in their contest for California governor",
-   "published": "2026-10-01T03:16:05+00:00",
-   "source": "ABC News Politics",
-   "source_id": "abc-politics",
-   "bias_note": "center",
-   "first_seen": "2026-10-01T06:03:24.800384+00:00"
-  },
-  {
-   "id": "214ce72cab240dbd",
-   "title": "Trump plugs $54 billion natural gas project in Alaska, flanked by a senator in a tight race",
-   "url": "https://abcnews.com/Politics/wireStory/trump-plugs-54-billion-natural-gas-project-alaska-136887916",
-   "summary": "President Donald Trump said South Korea plans to invest about $54 billion in a natural gas project in Alaska",
-   "published": "2026-10-01T03:15:31+00:00",
-   "source": "ABC News Politics",
-   "source_id": "abc-politics",
-   "bias_note": "center",
-   "first_seen": "2026-10-01T06:03:24.800373+00:00"
-  },
-  {
-   "id": "c2be1156aae3b6c4",
-   "title": "Democrats UNANIMOUSLY Vote AGAINST the Stop Insider Trading Act",
-   "url": "https://www.whitehouse.gov/releases/2026/09/democrats-unanimously-vote-against-the-stop-insider-trading-act/",
-   "summary": "President Trump stands with the American people\u2014 no lawmaker, regardless of party or seniority, should utilize insider information for personal profit. In his State of the Union Address to Congress earlier this year, President Trump called for the passage of the Stop Insider Trading Act without delay to ensure that Members of Congress cannot profit [&#8230;]\nThe post Democrats UNANIMOUSLY Vote AGAINST the Stop Insider Trading Act appeared first on The White House.",
-   "published": "2026-10-01T03:00:00+00:00",
-   "source": "WhiteHouse.gov News",
-   "source_id": "whitehouse",
-   "bias_note": "official/primary-source",
-   "first_seen": "2026-10-01T17:18:03.811877+00:00"
-  },
-  {
-   "id": "1e1020cdac739f16",
-   "title": "White House blocks CNN from pool duty despite judge\u2019s order",
-   "url": "https://thehill.com/homenews/6122096-white-house-blocks-cnn-pool-trump/",
-   "summary": "The White House plans to keep CNN journalists from carrying out the network\u2019s previously scheduled duty providing television pool coverage of President Trump on Thursday, a source familiar with the situation confirmed to The Hill. The administration will prevent CNN from providing its scheduled pool coverage, the source said Wednesday, despite a ruling from a...",
-   "published": "2026-10-01T02:19:23+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-01T06:03:21.833944+00:00"
-  },
-  {
-   "id": "7dbc30d1f6e521f3",
-   "title": "Kristi Noem, former Trump homeland security chief, files for divorce",
-   "url": "https://www.theguardian.com/us-news/2026/sep/30/kristi-noem-divorce",
-   "summary": "Noem cites irreconcilable differences in filing that comes after husband Bryon Noem involved in tabloid scandalKristi Noem, who was fired by Donald Trump after a rumbustious stint as homeland security secretary, is divorcing her husband, Bryon Noem, after 34 years of marriage, citing \u201cirreconcilable differences\u201d.The divorce claim \u201cfor settlement purposes only\u201d was disclosed in court records filed in Hamlin county, South Dakota, the state of which Noem was previously governor. Continue reading...",
-   "published": "2026-09-30T23:58:01+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-10-01T06:03:21.649040+00:00"
   }
  ]
 }
