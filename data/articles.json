@@ -1,7 +1,194 @@
 {
- "updated": "2026-10-16T15:17:36.200022+00:00",
- "count": 962,
+ "updated": "2026-10-16T18:07:03.674767+00:00",
+ "count": 969,
  "articles": [
+  {
+   "id": "52942496d9d008eb",
+   "title": "Katie Zacharia fired after five days as White House press secretary \u2013 reports",
+   "url": "https://www.theguardian.com/us-news/2026/oct/16/katie-zacharia-fired-press-secretary",
+   "summary": "Zacharia hosted widely panned first briefing on Tuesday and faced scrutiny after admitting she didn\u2019t pass bar examKatie Zacharia was fired as the White House press secretary on Friday, just five days after she assumed the role, according to media reports.Zacharia had a rocky start to her tenure as press secretary, hosting a widely panned first briefing on Tuesday. She had also faced questions over her legal credentials after admitting she did not pass the bar exam. Continue reading...",
+   "published": "2026-10-16T17:50:51+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-10-16T18:07:02.827217+00:00"
+  },
+  {
+   "id": "f803da47160fb522",
+   "title": "Trump casts doubt on press secretary Katie Zacharia's future",
+   "url": "https://www.pbs.org/newshour/politics/trump-casts-doubt-on-press-secretary-katie-zacharias-future",
+   "summary": "Trump said he'd spoken to Zacharia and that he felt she didn't deserve what he called negative media coverage.",
+   "published": "2026-10-16T17:49:14+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-10-16T18:07:03.034140+00:00"
+  },
+  {
+   "id": "6c1686cd0e3269c0",
+   "title": "Musk settles election lottery lawsuits over $1 million voter giveaways",
+   "url": "https://thehill.com/policy/technology/6154068-musk-settles-voter-lottery-lawsuits/",
+   "summary": "Tech mogul Elon Musk agreed to settle two lawsuits over his $1 million check handouts to battleground voters in the 2024 election, according to court filings published Thursday. The suits, filed in the Western District of Texas, accused the Tesla and SpaceX CEO of defrauding voters when his America PAC offered a $1 million giveaway...",
+   "published": "2026-10-16T17:32:58+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-16T18:07:02.970248+00:00"
+  },
+  {
+   "id": "e8927b62f8d96b21",
+   "title": "Can voters learn to stop worrying and love Big AI?",
+   "url": "https://thehill.com/opinion/campaign/6153051-trump-ai-safety-pact/",
+   "summary": "Republican lawmakers and presidential administration policies regarding AI regulation and data centers are clashing with voter concerns and internal party divisions during recent electoral contests.",
+   "published": "2026-10-16T17:30:00+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-16T18:07:02.970253+00:00"
+  },
+  {
+   "id": "7d5d7049533f1b54",
+   "title": "Trump says he told Zacharia to 'reconsider' press secretary role",
+   "url": "https://thehill.com/homenews/administration/6154278-donald-trump-katie-zacharia-press-secretary-role/",
+   "summary": "President Trump told reporters Friday that he told Katie Zacharia that she should \"reconsider\" her role as White House press secretary after her rocky start to the job this week.  \"I said, 'Honestly, if I were you, I'd reconsider,'\" Trump told reporters, referring to a conversation he said he had with Zacharia earlier.  \"I said,...",
+   "published": "2026-10-16T17:29:36+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-16T18:07:02.970255+00:00"
+  },
+  {
+   "id": "65b0b2adf30ed70f",
+   "title": "Trump's new press secretary out of the job just days after rocky debut",
+   "url": "https://www.foxnews.com/politics/trump-casts-doubt-new-press-secretarys-future-after-rocky-white-house-debut",
+   "summary": "Katie Zacharia has been fired as White House Press Secretary.",
+   "published": "2026-10-16T17:23:14+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-10-16T18:07:02.437324+00:00"
+  },
+  {
+   "id": "8c14aa83a637b6f2",
+   "title": "Judge tosses Trump administration lawsuit over New York City 'sanctuary' laws",
+   "url": "https://thehill.com/homenews/administration/6154032-judge-dismisses-nyc-immigration-lawsuit/",
+   "summary": "A federal judge dismissed a lawsuit brought by the Trump administration to block New York City laws that limit cooperation with federal immigration enforcement, saying the government lacked a valid basis to sue. U.S. District \u200bJudge Ramon Reyes in Brooklyn said the Trump administration cannot challenge a \u2060city law that restricts police from detaining immigrants...",
+   "published": "2026-10-16T16:59:41+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-16T18:07:02.970261+00:00"
+  },
+  {
+   "id": "f30bcb1ca5cd3304",
+   "title": "Main Trump legal fund $1.9M in debt",
+   "url": "https://thehill.com/regulation/court-battles/6153944-donald-trump-legal-fund-debt/",
+   "summary": "President Trump\u2019s primary legal fund is more than $1.9 million in debt, according to its latest filing with the Federal Election Commission (FEC). Save America PAC, which Trump formed after he lost the 2020 presidential election, spent more than $5.4 million in the third quarter and had spent more than $14 million from the start...",
+   "published": "2026-10-16T16:51:02+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-16T18:07:02.970284+00:00"
+  },
+  {
+   "id": "e33506e64e21d2f2",
+   "title": "White House personnel drama puts Trump on defense",
+   "url": "https://thehill.com/newsletters/1230-report/6154099-susie-wiles-katie-zacharia-donald-trump-white-house-drama-ukraine-starlink-gop-midterms/",
+   "summary": "Plus: \ud83d\udee1\ufe0fUkraine Starlink slowdown puts Pentagon in a jam {beacon} &#8202; It\u2019s Friday. Just more than two weeks until we change the clocks back to standard time. Anyone else ready for that \u201cextra hour\u201d of sleep? \ud83d\ude34 &#8202; In today's issue: Trump defends Wiles amid turmoil GOP demands answers on Ukraine  Hegseth's execution livestream plan...",
+   "published": "2026-10-16T16:37:54+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-16T18:07:02.970290+00:00"
+  },
+  {
+   "id": "06e768b20018fda7",
+   "title": "President Trump Returns to Georgia with a Record of Results",
+   "url": "https://www.whitehouse.gov/releases/2026/10/president-trump-returns-to-georgia-with-a-record-of-results/",
+   "summary": "Today, President Donald J. Trump returns to the Peach State with a proven record of America First results that put Georgia workers, families, seniors, and communities first. Under the leadership of President Trump and Republicans, Georgians are seeing historic tax relief, a surge of private investment and job creation, lower energy costs, support for farmers, [&#8230;]\nThe post President Trump Returns to Georgia with a Record of Results appeared first on The White House.",
+   "published": "2026-10-16T16:36:43+00:00",
+   "source": "WhiteHouse.gov News",
+   "source_id": "whitehouse",
+   "bias_note": "official/primary-source",
+   "first_seen": "2026-10-16T18:07:02.488876+00:00"
+  },
+  {
+   "id": "620215ec4274b7e8",
+   "title": "Are dark days ahead for Republicans after the midterm elections?",
+   "url": "https://thehill.com/opinion/campaign/6152116-trump-midterms-republican-turnout/",
+   "summary": "President Donald Trump faces potential backlash from Republican voters during the midterms, which could lead to increased Congressional scrutiny from Democrats if they win control of the House and Senate.",
+   "published": "2026-10-16T16:30:00+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-16T18:07:02.970292+00:00"
+  },
+  {
+   "id": "5dfd775c664f7ab6",
+   "title": "Trump wants the midterms to be all about him. Based on Democrats' ads, they are happy to oblige",
+   "url": "https://www.pbs.org/newshour/politics/trump-wants-the-midterms-to-be-all-about-him-based-on-democrats-ads-they-are-happy-to-oblige",
+   "summary": "Many of the Democrats' ads accuse Republican opponents of siding with the president over voters, particularly on issues like tariffs and the Iran war, which they blame for jacking up costs.",
+   "published": "2026-10-16T16:28:02+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-10-16T18:07:03.034145+00:00"
+  },
+  {
+   "id": "33314cc013a87199",
+   "title": "Trump urges new press secretary to \u2018reconsider\u2019 taking job: \u2018Is this for you, Katie?\u2019",
+   "url": "https://www.theguardian.com/us-news/2026/oct/16/white-house-press-secretary-katie-zacharia-fox-news",
+   "summary": "Katie Zacharia had a rough start as she fumbled first press conference and faced questions from media about her professional backgroundUS politics live \u2013 latest updatesDonald Trump has urged Katie Zacharia, his new White House press secretary, to \u201creconsider\u201d taking the job after she faced intense scrutiny from news outlets, including the rightwing cable network Fox News.Speaking with reporters outside the White House on Friday, the US president said Zacharia had been \u201ctreated very badly by the media\u201d after she stumbled through a 14-minute press conference on Tuesday and questions arose over h",
+   "published": "2026-10-16T16:24:57+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-10-16T18:07:02.827224+00:00"
+  },
+  {
+   "id": "1e36a4d65655a2ab",
+   "title": "Zacharia says Trump didn't ask whether she passed bar exam",
+   "url": "https://thehill.com/homenews/administration/6153893-katie-zacharia-law-career-speculation-trump-questions-white-house-press-secretary/",
+   "summary": "White House press secretary Katie Zacharia weighed in on the controversy surrounding her law career Friday, saying President Trump did not ask questions about whether she passed the bar exam when she was appointed to her role. When asked by Fox News about reporting that she did not pass the test, Zacharia said, \"Those questions...",
+   "published": "2026-10-16T16:18:00+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-16T18:07:02.970295+00:00"
+  },
+  {
+   "id": "e65e715a9afbd297",
+   "title": "Americans back Trump's decision against livestreaming Nidal Hasan's firing squad execution",
+   "url": "https://www.foxnews.com/politics/americans-back-trumps-decision-against-livestreaming-nidal-hasans-firing-squad-execution",
+   "summary": "Trump canceled the Nidal Hasan firing squad execution livestream, but victims&apos; families will still be able to witness the Fort Hood shooter&apos;s scheduled death.",
+   "published": "2026-10-16T16:04:34+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-10-16T18:07:02.437341+00:00"
+  },
+  {
+   "id": "72961817270dfb67",
+   "title": "Ilhan Omar's sister skips book tour event amid week of chaos following raid on progressive's DC home",
+   "url": "https://www.foxnews.com/politics/ilhan-omar-sister-skips-book-tour-event-amid-week-chaos-following-raid-progressive-dc-home",
+   "summary": "Sahra Noor skipped a scheduled book tour event in Rochester, Minnesota, after reportedly being subpoenaed in the Ilhan Omar immigration fraud probe.",
+   "published": "2026-10-16T15:48:57+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-10-16T18:07:02.437346+00:00"
+  },
+  {
+   "id": "bff1b7c4ae74576d",
+   "title": "Of course Trump is helping Russia in Ukraine \u2013 he\u2019s a master of the art of betrayal | Jonathan Freedland",
+   "url": "https://www.theguardian.com/commentisfree/2026/oct/16/donald-trump-russia-ukraine-protect-world",
+   "summary": "The old certainties have gone. We will have to spend whatever it takes to protect ourselves in this new and dangerous worldDonald Trump must find it oddly frustrating. He keeps showing the world exactly who he is, and yet the world keeps refusing to believe it. As clearly as he can, he is announcing that he is not the leader of the free world, that he is not even a reliable member of the democratic west, that he is in fact an ally of its enemies \u2013 but the west, including Britain, either doesn\u2019t fully get the message or can\u2019t quite bring itself to draw the obvious conclusion.Trump had another g",
+   "published": "2026-10-16T15:30:10+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-10-16T18:07:02.827256+00:00"
+  },
   {
    "id": "816daa62b59c69ca",
    "title": "Make America protect children again: EPA's silence betrays the MAHA promise",
@@ -56,6 +243,17 @@
    "source_id": "thehill",
    "bias_note": "center",
    "first_seen": "2026-10-16T15:17:35.361494+00:00"
+  },
+  {
+   "id": "076f06b57b9368f4",
+   "title": "\u2018Unsafe\u2019 conditions at Texas ICE facility put immigrants at risk of injury or death, lawsuit says",
+   "url": "https://www.theguardian.com/us-news/2026/oct/16/texas-ice-facility-immigrants-risks-lawsuit",
+   "summary": "Court filing alleges \u2018physical abuse by guards\u2019, \u2018filthy living conditions\u2019 and disease outbreaks at Camp East MontanaHow has Trump\u2019s immigration agenda affected the US midterms? Send us your questionsAttorneys and experts are raising the alarm that immigrants at Camp East Montana, the sprawling desert detention camp on the Fort Bliss military base in west Texas, face a risk of serious injury or death because of ongoing, extreme health and safety hazards there, according to a fresh court filing, the Guardian can reveal.The allegedly dangerous conditions persist at the tent jail, the largest im",
+   "published": "2026-10-16T14:13:53+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-10-16T18:07:02.827247+00:00"
   },
   {
    "id": "2c061ca2e70dc69a",
@@ -10462,127 +10660,6 @@
    "source_id": "thehill",
    "bias_note": "center",
    "first_seen": "2026-10-02T19:22:06.013078+00:00"
-  },
-  {
-   "id": "325fb20ec578386c",
-   "title": "Kennedy Center Honors to be held at Capital One Arena amid fight over adding Trump's name",
-   "url": "https://www.pbs.org/newshour/politics/kennedy-center-honors-to-be-held-at-capital-one-arena-amid-fight-over-adding-trumps-name",
-   "summary": "The 49th annual awards are set to take place at Washington's downtown arena, a Kennedy Center spokesperson said Friday. Few other details were immediately available, and an explanation for the change wasn't given.",
-   "published": "2026-10-02T17:40:10+00:00",
-   "source": "PBS NewsHour Politics",
-   "source_id": "pbs-politics",
-   "bias_note": "center",
-   "first_seen": "2026-10-02T19:22:06.297878+00:00"
-  },
-  {
-   "id": "e4ebd262d49bd352",
-   "title": "Obama judge halts Trump firing bid as decades-old legal authority tees up possible major reversal",
-   "url": "https://www.foxnews.com/politics/obama-judge-halts-trump-firing-bid-decades-old-legal-authority-tees-up-possible-major-reversal",
-   "summary": "President Donald Trump&apos;s firing of court-appointed U.S. attorney Roger Rogoff was blocked by Judge Stanley Bastian, sparking a separation of powers clash.",
-   "published": "2026-10-02T17:35:12+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-10-02T19:22:05.289640+00:00"
-  },
-  {
-   "id": "d857d0c31e5fa515",
-   "title": "Vance set to rally in Alaska as battleground Senate race tightens",
-   "url": "https://thehill.com/homenews/campaign/6126416-vance-rally-alaska-senate-race/",
-   "summary": "Vice President Vance is headed to Alaska for a midterm rally against the backdrop of the red state\u2019s highly competitive Senate race. The Trump 47 Committee, a joint fundraising group connected to President Trump\u2019s Save America PAC and the Republican National Committee (RNC), will host the Monday rally in Fairbanks, the RNC announced Friday.\u00a0 With...",
-   "published": "2026-10-02T17:30:25+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-02T19:22:06.013107+00:00"
-  },
-  {
-   "id": "bb73d3f726b7097c",
-   "title": "Top GOP groups retreat from North Carolina Senate race as hopes fade",
-   "url": "https://www.politico.com/news/2026/10/02/republicans-slf-scale-back-north-carolina-senate-spending-01104964",
-   "summary": "The Senate Leadership Fund\u2019s decision to pause future spending is the latest evidence Republicans are not confident Michael Whatley can win in a state President Donald Trump carried three times.",
-   "published": "2026-10-02T17:03:21+00:00",
-   "source": "Politico",
-   "source_id": "politico",
-   "bias_note": "center",
-   "first_seen": "2026-10-02T19:22:05.938430+00:00"
-  },
-  {
-   "id": "2237f28e4b018930",
-   "title": "President Trump has his camera off for G7 leader zoom",
-   "url": "https://thehill.com/homenews/6126304-g7-oil-market-stabilization-plan/",
-   "summary": "President Trump participated in a video-call meeting with leaders of the Group of Seven (G7) countries and the International Energy Agency (IEA) on Friday, but his camera was off while other leaders appeared on camera.\u00a0 Fatih Birol, executive director of the IEA, said in a post on the social platform X that leaders met to...",
-   "published": "2026-10-02T16:47:20+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-02T19:22:06.013121+00:00"
-  },
-  {
-   "id": "ec3b5ac6c484d406",
-   "title": "Hochul, James raise heat on Cornell as rape investigation widens",
-   "url": "https://thehill.com/newsletters/1230-report/6126297-new-york-cornell-rape-criminal-investigation-hochul-james-donald-trump-midterms-economy/",
-   "summary": "Plus: \ud83d\udc5fTrump chases GOP midterm momentum {beacon} &#8202; It\u2019s Friday. Daylight saving time ends in less than a month unless Congress acts on pending legislation. Tell us, are you pro-daylight or standard time? \ud83d\udd52 &#8202; In today's issue: Cornell rape case now active criminal probe Trump takes midterm push to Alabama, Ohio Jobs stumble as...",
-   "published": "2026-10-02T16:43:14+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-02T19:22:06.013128+00:00"
-  },
-  {
-   "id": "80e85d9f0e0f5598",
-   "title": "Trump's motorcade neared 100 mph en route to Oklahoma after helicopter, airplane ruled out",
-   "url": "https://thehill.com/homenews/administration/6126278-trump-drives-texas-oklahoma-100-mph/",
-   "summary": "President Trump\u2019s motorcade put the pedal to the metal Thursday as stormy weather in the South spurred the president to drive from rallies in Texas to Oklahoma rather than fly. Trump took the motorcade from his event at the Peterbilt Motors manufacturing plant in Denton, Texas to his second event in Durant, Oklahoma. The locations...",
-   "published": "2026-10-02T16:32:11+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-02T16:32:56.575682+00:00"
-  },
-  {
-   "id": "6a69443b703c5bb9",
-   "title": "WATCH LIVE: Trump holds rally in Alabama as he tries to boost midterm enthusiasm",
-   "url": "https://www.pbs.org/newshour/politics/watch-live-trump-holds-rally-in-alabama-as-he-tries-to-boost-up-midterm-enthusiasm",
-   "summary": "Republicans have expressed growing pessimism about their chances in the election, which will determine control of Congress, as the president has repeatedly dismissed concerns about high costs and gas prices as his unpopular war in Iran drags on.",
-   "published": "2026-10-02T16:25:25+00:00",
-   "source": "PBS NewsHour Politics",
-   "source_id": "pbs-politics",
-   "bias_note": "center",
-   "first_seen": "2026-10-02T16:32:56.633155+00:00"
-  },
-  {
-   "id": "334def10a1067e0a",
-   "title": "G7 nations agree to release 100 million barrels of oil, including diesel",
-   "url": "https://www.pbs.org/newshour/world/g7-nations-agree-to-release-100-million-barrels-of-oil-including-diesel",
-   "summary": "President Donald Trump and his Republican Party face pressure to address surging prices ahead of the Nov. 3 midterm elections, and Trump announced the action Friday on social media.",
-   "published": "2026-10-02T16:16:28+00:00",
-   "source": "PBS NewsHour Politics",
-   "source_id": "pbs-politics",
-   "bias_note": "center",
-   "first_seen": "2026-10-02T16:32:56.633161+00:00"
-  },
-  {
-   "id": "6edf34b4e3904a14",
-   "title": "A Democratic upset is brewing in Alaska\u2019s governor\u2019s race as Trump\u2019s popularity craters",
-   "url": "https://www.theguardian.com/us-news/2026/oct/02/alaska-governor-candidate-jonathan-kreiss-tomkins",
-   "summary": "Support for 37-year-old Jonathan Kreiss-Tomkins could upend the governor\u2019s race in the heavily Republican stateThis July, Jonathan Kreiss-Tomkins spent four days and 450 miles (725km) wending his way down the Yukon River in a 24-ft Alweld skiff, a flat-bottomed aluminum boat built for shallow Alaska rivers.Starting in Koyukon Athabascan country, he passed through Indigenous Deg Hit\u2019an communities like Anvik, before ending among the Yup\u2019ik villages of the lower river, Russian Mission and Pilot Station among them. The boat carried him through 11 villages \u2013 some only reachable by water or small p",
-   "published": "2026-10-02T16:00:11+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-10-02T16:32:56.385543+00:00"
-  },
-  {
-   "id": "949c934b7e5a5230",
-   "title": "Trump campaign insider reveals strategy behind midterm blitz that White House hopes pays off big",
-   "url": "https://www.foxnews.com/politics/trump-campaign-insider-reveals-strategy-midterm-blitz-white-house-hopes-pays-off-big",
-   "summary": "Donald Trump&apos;s 32-state rally tour through deep red states has a hidden strategy that pundits are missing, says a veteran campaign strategist.",
-   "published": "2026-10-02T15:19:55+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-10-02T16:32:56.106325+00:00"
   }
  ]
 }
