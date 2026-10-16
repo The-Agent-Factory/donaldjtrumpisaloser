@@ -1,7 +1,95 @@
 {
- "updated": "2026-10-16T00:27:07.642962+00:00",
- "count": 952,
+ "updated": "2026-10-16T07:15:51.358137+00:00",
+ "count": 955,
  "articles": [
+  {
+   "id": "df07da0ea7d918ec",
+   "title": "Trump admin sued over alleged illegal collection of sensitive voter data from 47 states",
+   "url": "https://www.foxnews.com/politics/trump-admin-sued-alleged-illegal-collection-sensitive-voter-data-47-states",
+   "summary": "A lawsuit alleges DHS collected voter files from 47 states and combined them with commercial datasets, violating federal privacy safeguards.",
+   "published": "2026-10-16T06:47:45+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-10-16T07:15:49.201815+00:00"
+  },
+  {
+   "id": "3bcd19347769cd67",
+   "title": "Is JD Vance campaigning for the midterms \u2026 or 2028? \u2013 podcast",
+   "url": "https://www.theguardian.com/politics/audio/2026/oct/16/jd-vance-campaign-midterms-or-2028-podcast",
+   "summary": "The US vice-president is following the Donald Trump playbook, attacking the Democrats, attempting to make jokes and even swearing more. Jonathan Freedland talks to Arwa Mahdawi about why Vance is making such an effort to court votersBuy your tickets to the Guardian\u2019s post-midterm live event, hosted by Jonathan FreedlandWatch Jonathan Freedland on our new Politics Weekly YouTube channelSend your questions and feedback to politicsweeklyamerica@theguardian.comWatch Today in Focus\u2019 episode on the Trump administration investigation into Rep. Ilhan OmarRead David Smith\u2019s piece on Katie Zacharia\u2019s fi",
+   "published": "2026-10-16T04:00:52+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-10-16T07:15:50.017158+00:00"
+  },
+  {
+   "id": "254e6119b1b17c5c",
+   "title": "FBI returns 'Most Wanted' fraudster to US after India arrest in alleged $600K SNAP food stamp scheme",
+   "url": "https://www.foxnews.com/us/fbi-returns-most-wanted-fraudster-us-after-india-arrest-alleged-600k-snap-food-stamp-fraud-scheme",
+   "summary": "FBI Director Kash Patel announced Manjit Singh Bedi, accused of stealing over $600,000 in SNAP benefits in Tacoma, has been returned from India.",
+   "published": "2026-10-16T03:29:29+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-10-16T07:15:49.269644+00:00"
+  },
+  {
+   "id": "cab977fd686c4273",
+   "title": "Katie Zacharia addresses brevity of first press briefing, defends legal credentials after criticism",
+   "url": "https://www.foxnews.com/media/katie-zacharia-addresses-brevity-first-press-briefing-defends-legal-credentials-criticism",
+   "summary": "Katie Zacharia defended her debut White House press briefing and addressed California bar exam scrutiny during interview with Sean Hannity.",
+   "published": "2026-10-16T03:01:19+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-10-16T07:15:49.269656+00:00"
+  },
+  {
+   "id": "598acf0f11fc4343",
+   "title": "Zacharia confirms she did not pass bar exam",
+   "url": "https://thehill.com/homenews/administration/6152937-zacharia-bar-exam-white-house/",
+   "summary": "White House press secretary Katie Zacharia said late Thursday that she did not pass the bar exam after her legal background prior to joining the Trump administration was called into question. Zacharia, who has previously claimed to be a lawyer and was described as an \u201cattorney\u201d by President Trump, faced scrutiny in her first week...",
+   "published": "2026-10-16T02:56:42+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-16T07:15:50.273962+00:00"
+  },
+  {
+   "id": "26a7a49c1a0904f4",
+   "title": "Massie: Trump should fire Hegseth before he is impeached",
+   "url": "https://thehill.com/homenews/house/6152919-massie-calls-trump-fire-hegseth/",
+   "summary": "Rep. Thomas Massie (R-Ky.) suggested that President Trump should remove Defense Secretary Pete Hegseth from his position before the House votes to impeach him. The Kentucky Republican, who often finds himself in the crosshairs of Trump for frequently breaking with the party, was responding to a report claiming that the president was considering firing the...",
+   "published": "2026-10-16T02:38:59+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-16T07:15:50.273968+00:00"
+  },
+  {
+   "id": "2f69bc5c6a3090b3",
+   "title": "Collins, Jackson trade jabs in final Maine Senate debate: 3 takeaways",
+   "url": "https://thehill.com/homenews/campaign/6152820-susan-collins-troy-jackson-debate-takeaways/",
+   "summary": "Sen. Susan Collins (R-Maine) faced off against Democratic candidate Troy Jackson on Thursday in the final Senate debate before Maine voters head to the polls. The two traded jabs over President Trump, campaign financing, immigration reform and their voting record as the Senate race enters its final stretch. Collins stressed her bipartisan approach to voting...",
+   "published": "2026-10-16T01:08:02+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-16T07:15:50.273971+00:00"
+  },
+  {
+   "id": "4c3e534a3fd613a6",
+   "title": "Noem out of Shield of America\u2019s role, State Department confirms",
+   "url": "https://thehill.com/homenews/administration/6152805-kristi-noem-shield-americas-envoy-departure/",
+   "summary": "Former Homeland Security Secretary Kristi Noem is no longer serving as the Trump administration\u2019s special envoy to the \"Shield of the Americas\" coalition, a spokesperson confirmed to NewsNation, The Hill\u2019s broadcasting partner. State Department spokesperson Tommy Pigott said in an interview Thursday evening with NewsNation\u2019s Kellie Meyer that the ousted secretary\u2019s time had come to...",
+   "published": "2026-10-16T00:32:39+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-16T07:15:50.273985+00:00"
+  },
   {
    "id": "125302455194d842",
    "title": "FDA advances peptide push to White House",
@@ -10418,61 +10506,6 @@
    "source_id": "propublica",
    "bias_note": "investigative",
    "first_seen": "2026-10-02T12:44:09.582502+00:00"
-  },
-  {
-   "id": "570a55f84ecd994d",
-   "title": "Trump admin wants to require tax filers to disclose citizenship status to IRS",
-   "url": "https://www.foxnews.com/politics/trump-admin-wants-require-tax-filers-disclose-citizenship-status-irs",
-   "summary": "A Trump administration proposal would require tax filers to certify their immigration status to the IRS, which critics argue could be used as a tool for immigration enforcement.",
-   "published": "2026-10-02T05:11:35+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-10-02T05:46:22.546623+00:00"
-  },
-  {
-   "id": "d5b57452de6fa185",
-   "title": "Trump admin says it has no plans for ICE at polls. Activists are preparing, anyway",
-   "url": "https://abcnews.com/Politics/wireStory/trump-administration-plans-ice-officers-polls-activists-preparing-136939860",
-   "summary": "As midterm elections approach, some voters are worried about immigration enforcement officers at polling places",
-   "published": "2026-10-02T04:48:57+00:00",
-   "source": "ABC News Politics",
-   "source_id": "abc-politics",
-   "bias_note": "center",
-   "first_seen": "2026-10-02T05:46:23.246553+00:00"
-  },
-  {
-   "id": "b5ae2d88f2c4dcc5",
-   "title": "Adam Hamilton on faith, Trump and the fight for Kansas",
-   "url": "https://www.politico.com/video/2026/10/01/adam-hamilton-on-faith-trump-and-the-fight-for-kansas-2188689",
-   "summary": "",
-   "published": "2026-10-02T03:59:00+00:00",
-   "source": "Politico",
-   "source_id": "politico",
-   "bias_note": "center",
-   "first_seen": "2026-10-02T05:46:22.941872+00:00"
-  },
-  {
-   "id": "2d40cb46244f48c3",
-   "title": "Trump quips Paxton is \u2018pain in the ass,\u2019 \u2018a little controversial\u2019",
-   "url": "https://thehill.com/homenews/administration/6124986-trump-paxton-talarico-texas-senate-race/",
-   "summary": "President Trump quipped that Texas Senate GOP candidate Ken Paxton was \u201ca pain in the ass\u201d and acknowledged he was \u201ca little controversial\u201d during several stops in the Lone Star State and Oklahoma \u2014 unusually candid remarks about one of his own endorsees just weeks out from the November elections. \u201cWhen I was being hit...",
-   "published": "2026-10-02T03:17:24+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-02T05:46:22.978276+00:00"
-  },
-  {
-   "id": "cda1d78562c6cbef",
-   "title": "DOJ says UCLA law school illegally used race in their admissions",
-   "url": "https://thehill.com/regulation/court-battles/6124974-doj-accuses-ucla-law-discrimination/",
-   "summary": "The Department of Justice (DOJ) on Thursday accused the law school at the University of California, Los Angeles, (UCLA) of discriminating against white and Asian students in its admissions process.\u00a0 The Trump administration has made similar allegations against the admissions processes at UCLA\u2019s medical school and the law schools at Duke University and the University...",
-   "published": "2026-10-02T02:54:50+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-02T05:46:22.978284+00:00"
   }
  ]
 }
