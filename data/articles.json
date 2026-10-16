@@ -1,7 +1,106 @@
 {
- "updated": "2026-10-16T13:18:03.128973+00:00",
- "count": 956,
+ "updated": "2026-10-16T15:17:36.200022+00:00",
+ "count": 962,
  "articles": [
+  {
+   "id": "816daa62b59c69ca",
+   "title": "Make America protect children again: EPA's silence betrays the MAHA promise",
+   "url": "https://thehill.com/opinion/energy-environment/6152338-protect-children-maha-agenda/",
+   "summary": "If the EPA under the current administration will not act to protect children, parents should vote\u00a0to oust the treacherous perpetrators of widespread poisoning from their positions of power.",
+   "published": "2026-10-16T15:00:00+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-16T15:17:35.361438+00:00"
+  },
+  {
+   "id": "0c1a14d530b7f3f7",
+   "title": "Trump will rally Georgia Republicans despite party divisions in battleground state",
+   "url": "https://www.pbs.org/newshour/politics/trump-will-rally-georgia-republicans-despite-party-divisions-in-battleground-state",
+   "summary": "President Donald Trump's midterm campaign blitz arrives in Georgia on Friday for a rally with top Republican candidates in a state that has long been the epicenter of the president's false claims about election fraud.",
+   "published": "2026-10-16T14:57:37+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-10-16T15:17:35.443048+00:00"
+  },
+  {
+   "id": "657b14f5db66abcf",
+   "title": "Bolton: Zelensky lecturing Trump won't end well",
+   "url": "https://thehill.com/policy/international/6153675-bolton-criticizes-zelensky-trump/",
+   "summary": "John Bolton, President Trump\u2019s former national security adviser, said Thursday that Ukrainian President Volodymyr Zelensky lecturing the president won\u2019t end well for him, \u201cgiven Trump's difficult political position here at home.\u201d Appearing on NewsNation\u2019s \u201cOn Balance,\u201d Bolton told host Leland Vittert that Zelensky\u2019s criticism of Trump would \u201cend well\u201d for him. \u201cLet's face it, everything...",
+   "published": "2026-10-16T14:35:56+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-16T15:17:35.361461+00:00"
+  },
+  {
+   "id": "588f65aacdb127fe",
+   "title": "Trump should try to mediate Turkish-Israeli tensions in the Horn of Africa",
+   "url": "https://thehill.com/opinion/national-security/6148364-israel-turkey-horn-africa/",
+   "summary": "Tensions could explode into a new war between any two of the countries that are at loggerheads there, and that could in turn draw in both of those powerful states.",
+   "published": "2026-10-16T14:30:00+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-16T15:17:35.361476+00:00"
+  },
+  {
+   "id": "7f8d32358d6d4b41",
+   "title": "Zacharia on China: 'They don\u2019t even have proper toilets'",
+   "url": "https://thehill.com/homenews/administration/6153270-zacharia-on-china-they-dont-even-have-proper-toilets/",
+   "summary": "White House press secretary Katie Zacharia took a jab at China, saying the country lacked proper toilets, less than a week into the job where she's already come under fire over her qualifications and performance. \u201cI remember this very distinctly having just come from China, thinking, how is China the next country on the horizon?...",
+   "published": "2026-10-16T14:19:21+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-16T15:17:35.361494+00:00"
+  },
+  {
+   "id": "2c061ca2e70dc69a",
+   "title": "Hannity takes Zacharia to task over legal credentials",
+   "url": "https://thehill.com/homenews/media/6153414-sean-hannity-katie-zacharia-legal-credentials-briefing/",
+   "summary": "Fox News host Sean Hannity pressed new White House press secretary Katie Zacharia on her first briefing with reporters this week and her claiming to be an attorney despite not passing the bar exam. Hannity began his interview of Zacharia on Thursday evening saying, \"I know this is a widely viewed interview for you,\" in...",
+   "published": "2026-10-16T14:02:49+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-16T15:17:35.361500+00:00"
+  },
+  {
+   "id": "dc82a0ff4ac78d81",
+   "title": "Trump's attempt to erase race from the Census will harm children",
+   "url": "https://thehill.com/opinion/civil-rights/6151873-census-rule-threatens-child-data/",
+   "summary": "Serving communities with good governance requires knowing what is actually happening on the ground.",
+   "published": "2026-10-16T14:00:00+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-16T15:17:35.361502+00:00"
+  },
+  {
+   "id": "60a12d5e1fcd9672",
+   "title": "Cook Political Report shifts 11 House seats away from GOP",
+   "url": "https://thehill.com/homenews/campaign/6153418-cook-political-report-11-house-districts-shift-democratic/",
+   "summary": "Cook Political Report, a nonpartisan election handicapper, shifted 11 more House seats toward Democrats this week, many in red states as the midterms inch closer. Cook has moved dozens of House seats away from Republicans in recent weeks as the political environment improves for Democrats, driven by President Trump\u2019s unpopularity in the polls and growing...",
+   "published": "2026-10-16T13:56:33+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-16T15:17:35.361513+00:00"
+  },
+  {
+   "id": "f61d404c5047e1e8",
+   "title": "Trump: Zelensky 'not a good guy for us to deal with'",
+   "url": "https://thehill.com/homenews/administration/6153353-trump-criticizes-zelensky-ukraine/",
+   "summary": "President Trump hit back at Ukrainian President Volodymyr Zelensky, saying he was \u201cnot a good guy for us to deal with.\u201d In an interview on Newsmax\u2019s \u201cFinnerty,\u201d Trump was asked about Ukraine resuming attacks on Russian energy targets after the president asked Zelensky to stop such strikes. \u201cZelensky is not a good guy for us...",
+   "published": "2026-10-16T13:40:30+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-16T15:17:35.361518+00:00"
+  },
   {
    "id": "4b3bd39220c19fdc",
    "title": "Live updates: Trump returns to deep red South with Georgia visit",
@@ -10484,39 +10583,6 @@
    "source_id": "foxnews-politics",
    "bias_note": "right-leaning",
    "first_seen": "2026-10-02T16:32:56.106325+00:00"
-  },
-  {
-   "id": "9dbb0ae4c3099a62",
-   "title": "Live updates: Hochul calls Cornell probe 'a failure'; Trump brings red state campaign blitz to Alabama",
-   "url": "https://thehill.com/homenews/administration/6124876-live-updates-trump-alabama-rally-jobs-report-cornell-case/",
-   "summary": "President Trump will hold a midterm rally in Mobile, Ala., Friday evening after making similar appearances in Oklahoma and Texas just the day prior. It's the latest stop in Trump's multiday campaign blitz as Republicans are locked in close races ahead of November's midterms \u2014 and both the president's and his party's approval ratings have...",
-   "published": "2026-10-02T15:05:38+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-02T16:32:56.575761+00:00"
-  },
-  {
-   "id": "bbc2d2d51e2c0461",
-   "title": "DOJ moves to boot federal judges from immigration cases over NYT interview",
-   "url": "https://www.foxnews.com/politics/doj-moves-boot-federal-judges-immigration-cases-nyt-interview",
-   "summary": "The Justice Department filed a judicial misconduct complaint against seven Minnesota federal judges over a New York Times immigration interview.",
-   "published": "2026-10-02T14:54:50+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-10-02T16:32:56.106336+00:00"
-  },
-  {
-   "id": "2ccb16db9cf85e18",
-   "title": "Disappointing 29,000 jobs added in September as unemployment ticks up",
-   "url": "https://www.pbs.org/newshour/economy/disappointing-29000-jobs-added-in-september-as-unemployment-ticks-up",
-   "summary": "Friday's jobs report is the last one that will come out before the Nov. 3 elections that will determine whether President Donald Trump's Republicans maintain full control of Congress.",
-   "published": "2026-10-02T13:48:29+00:00",
-   "source": "PBS NewsHour Politics",
-   "source_id": "pbs-politics",
-   "bias_note": "center",
-   "first_seen": "2026-10-02T16:32:56.633164+00:00"
   }
  ]
 }
