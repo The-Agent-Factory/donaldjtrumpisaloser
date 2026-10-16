@@ -1,7 +1,150 @@
 {
- "updated": "2026-10-16T18:07:03.674767+00:00",
- "count": 969,
+ "updated": "2026-10-16T21:16:54.910550+00:00",
+ "count": 964,
  "articles": [
+  {
+   "id": "4158db7b5beb775d",
+   "title": "Unauthorized drones banned along US-Mexico border: FAA",
+   "url": "https://thehill.com/homenews/administration/6155022-us-mexico-border-drone-ban/",
+   "summary": "The Federal Aviation Administration (FAA) said Friday it is restricting unauthorized drones along the \u200bU.S.-Mexico border. This move comes as the government ramps up efforts to address concerns about illegal drug shipments across the border, Reuters reported Friday. It is a temporary flight restriction that bars any unauthorized drone activity up to 400 feet above...",
+   "published": "2026-10-16T20:55:59+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-16T21:16:54.375810+00:00"
+  },
+  {
+   "id": "478212e472169907",
+   "title": "Judge tosses Timothy Busfield's indictment on child sex abuse charges",
+   "url": "https://www.foxnews.com/entertainment/judge-tosses-timothy-busfields-indictment-child-sex-abuse-charges",
+   "summary": "District Court Judge Joseph Montano granted Busfield&apos;s motion to throw out the grand jury indictment on Friday. Prosecutors can refile.",
+   "published": "2026-10-16T20:52:31+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-10-16T21:16:53.789018+00:00"
+  },
+  {
+   "id": "c6a1a38deaf928c5",
+   "title": "Who could replace Katie Zacharia as White House press secretary?",
+   "url": "https://www.theguardian.com/us-news/2026/oct/16/who-replace-katie-zacharia-white-house-press-secretary",
+   "summary": "Her abrupt firing five days after assuming the position reopened the contest for one of the most prominent roles in the Trump administrationThe White House is without a press secretary again after the ousting of Katie Zacharia, just five days into her appointment as Donald Trump\u2019s spokesperson.Zacharia\u2019s departure comes just months after Karoline Leavitt unexpectedly resigned as the White House press secretary to focus on her family. Continue reading...",
+   "published": "2026-10-16T20:41:12+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-10-16T21:16:54.232573+00:00"
+  },
+  {
+   "id": "337a13c419f7fbc9",
+   "title": "Katie Zacharia is out\u00a0as press secretary, White House says",
+   "url": "https://www.npr.org/2026/10/16/nx-s1-6005302/katie-zacharia-is-out-as-press-secretary-white-house-says",
+   "summary": "Katie Zacharia is \"transitioning out\" of her role as press secretary, according to a White House official not authorized to speak on the record, marking a stunning turn of events for the spokeswoman.",
+   "published": "2026-10-16T20:29:40+00:00",
+   "source": "NPR Politics",
+   "source_id": "npr-politics",
+   "bias_note": "center",
+   "first_seen": "2026-10-16T21:16:54.208374+00:00"
+  },
+  {
+   "id": "aba35d52849cb0e7",
+   "title": "Trump hosted a dinner with \u2013 wait for it \u2013 Stephen A Smith, Kid Rock and Bill Maher",
+   "url": "https://www.foxnews.com/outkick-sports/trump-hosted-dinner-stephen-smith-kid-rock-bill-maher",
+   "summary": "Trump hosted Kid Rock, Bill Maher, and Stephen A. Smith for a dinner that Kid Rock called &quot;epic&quot; during his &quot;Fox &amp; Friends&quot; appearance Friday.",
+   "published": "2026-10-16T20:03:22+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-10-16T21:16:53.789060+00:00"
+  },
+  {
+   "id": "d5e327699d391754",
+   "title": "Trump claims neither he nor Musk caused Ukraine Starlink outage",
+   "url": "https://thehill.com/homenews/administration/6154786-trump-denies-starlink-outage-cause/",
+   "summary": "President Trump claimed on Friday that neither he nor SpaceX founder Elon Musk caused Ukraine\u2019s Starlink outage earlier this week as the president clashed with Ukrainian President Volodymyr Zelensky over resumed strikes on Russian oil refineries. \u201cI didn\u2019t do that. No, we didn\u2019t do that at all. In fact, I don\u2019t even think it was...",
+   "published": "2026-10-16T19:39:12+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-16T21:16:54.375857+00:00"
+  },
+  {
+   "id": "7e9029a6480fdedb",
+   "title": "Trump-Vance Administration Leads Nationwide Coalition in Fighting War on Fraud",
+   "url": "https://www.whitehouse.gov/releases/2026/10/trump-vance-administration-leads-nationwide-coalition-in-fighting-war-on-fraud/",
+   "summary": "President Donald J. Trump and Vice President JD Vance are aggressively shutting down the waste, fraud, and abuse that has drained billions from American taxpayers. As head of the White House Task Force to Eliminate Fraud, Vice President Vance this week called on officials at every level of government to join him in a pledge [&#8230;]\nThe post Trump-Vance Administration Leads Nationwide Coalition in Fighting War on Fraud appeared first on The White House.",
+   "published": "2026-10-16T19:25:01+00:00",
+   "source": "WhiteHouse.gov News",
+   "source_id": "whitehouse",
+   "bias_note": "official/primary-source",
+   "first_seen": "2026-10-16T21:16:53.835608+00:00"
+  },
+  {
+   "id": "d300ec3243ac2494",
+   "title": "Trump says he will advise Katie Zacharia to reconsider shortly before she was fired - video",
+   "url": "https://www.theguardian.com/us-news/video/2026/oct/16/trump-katie-zacharia-to-reconsider-shortly-before-she-was-fired-video",
+   "summary": "Katie Zacharia, the new White House press secretary, has been fired from her role after just five days. Moments before the firing, Donald Trump told reporters he would suggest Zacharia to 'reconsider' the job, following days of intense media scrutiny around her legal credentialsKatie Zacharia fired after five days as White House press secretary Continue reading...",
+   "published": "2026-10-16T19:12:56+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-10-16T21:16:54.232669+00:00"
+  },
+  {
+   "id": "0689ddf03b353063",
+   "title": "Biden judge rejects Obama CIA chief's legal bid against Trump over one key problem",
+   "url": "https://www.foxnews.com/politics/biden-judge-rejects-obama-cia-chiefs-legal-bid-against-trump-over-one-key-problem",
+   "summary": "John Brennan&apos;s lawsuit against Trump and senior officials was dismissed, but grand jury investigations into the former CIA director continue.",
+   "published": "2026-10-16T19:09:46+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-10-16T21:16:53.770639+00:00"
+  },
+  {
+   "id": "bfdd5e7e87661ad3",
+   "title": "\u2018Buck\u2019 stops at Walz: Flanagan ducks Minnesota fraud blame as GOP rival exposes glaring contradiction",
+   "url": "https://www.foxnews.com/politics/buck-stops-walz-flanagan-ducks-minnesota-fraud-blame-gop-rival-exposes-glaring-contradiction",
+   "summary": "Michele Tafoya, the Republican nominee, hammered Democratic Lt. Gov. Peggy Flanagan over Minnesota&apos;s $9 billion fraud scandal during their debate.",
+   "published": "2026-10-16T18:53:24+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-10-16T21:16:53.770655+00:00"
+  },
+  {
+   "id": "639ceb8df6409d87",
+   "title": "Scaramucci on Zacharia's reported firing: 'Records are made to be broken'",
+   "url": "https://thehill.com/homenews/administration/6154556-anthony-scaramucci-katie-zacharia-donald-trump-white-house-tenure/",
+   "summary": "Anthony Scaramucci weighed in on Katie Zacharia\u2019s departure as White House press secretary Friday, noting her tenure was less than his as communications director at just five days in the role. \u201cRecords are made to be broken,\u201d he wrote on social platform X. \u201cBut I take no pleasure in other people\u2019s pain.\u201d Scaramucci famously served...",
+   "published": "2026-10-16T18:45:07+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-16T21:16:54.375903+00:00"
+  },
+  {
+   "id": "c425e58b52c5090d",
+   "title": "Watch live: Trump takes campaign blitz to Georgia",
+   "url": "https://thehill.com/video-clips/6154181-watch-live-donald-trump-georgia-campaign-rally/",
+   "summary": "President Trump heads to Georgia Friday afternoon as Republicans look to gain ground in a closely watched Senate race with less than three weeks until the midterms. Trump is expected to rally support for Rep. Mike Collins (R-Ga.), who is challenging incumbent Sen. Jon Ossoff (D). The president will also appear alongside Republican gubernatorial nominee...",
+   "published": "2026-10-16T18:36:08+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-16T21:16:54.375906+00:00"
+  },
+  {
+   "id": "557bd5e54ced4bef",
+   "title": "Katie Zacharia is 'transitioning out' as press secretary, White House says",
+   "url": "https://www.npr.org/2026/10/16/nx-s1-6005317/trump-casts-doubt-on-press-secretarys-future",
+   "summary": "Katie Zacharia's first official day was on Monday.",
+   "published": "2026-10-16T18:08:33+00:00",
+   "source": "NPR Politics",
+   "source_id": "npr-politics",
+   "bias_note": "center",
+   "first_seen": "2026-10-16T21:16:54.208380+00:00"
+  },
   {
    "id": "52942496d9d008eb",
    "title": "Katie Zacharia fired after five days as White House press secretary \u2013 reports",
@@ -10462,204 +10605,6 @@
    "source_id": "thehill",
    "bias_note": "center",
    "first_seen": "2026-10-02T23:49:40.982622+00:00"
-  },
-  {
-   "id": "c6e32ee41668c456",
-   "title": "Judge halts contentious border construction in and near Texas\u2019s Big Bend National Park",
-   "url": "https://thehill.com/policy/energy-environment/6127037-trump-administration-border-halted-texas/",
-   "summary": "A federal judge on Friday halted contentious Trump administration border construction plans in Texas\u2019s Big Bend region.  Judge Kathleen Cardone, an appointee of former President George W. Bush, wrote that the administration can\u2019t \u201cbuild border barrier or related infrastructure, or engage in any construction or ground disturbing activities\u201d in the region. \u201cThe Court finds that Plaintiffs...",
-   "published": "2026-10-02T21:09:48+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-02T23:49:40.982629+00:00"
-  },
-  {
-   "id": "281488a018f024a4",
-   "title": "Trump shrugs off South Korea's uncertainty on $54B Alaska energy investment",
-   "url": "https://thehill.com/homenews/administration/6126997-trump-south-korea-alaska-lng/",
-   "summary": "President Trump brushed off questions Friday over whether he jumped the gun in announcing that South Korea would fund a natural gas pipeline in Alaska, which South Korean officials have said is still under discussion. \"Well, I didn't jump the gun. I mean, they were there, and they were represented,\" Trump told reporters before departing...",
-   "published": "2026-10-02T21:05:47+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-02T23:49:40.982631+00:00"
-  },
-  {
-   "id": "6e5a496366e87775",
-   "title": "Trump says he's 'worried' about Whatley in North Carolina",
-   "url": "https://thehill.com/homenews/campaign/6126981-trump-worried-whatley-roy-cooper/",
-   "summary": "President Trump said he was worried about North Carolina GOP Senate nominee Michael Whatley\u2019s election chances as the Senate Republican super PAC began canceling reservations in the state Friday.\u00a0 \u201cI think he\u2019s a great man, and I am worried about him,\u201d Trump told reporters on the South Lawn en route to a campaign rally in...",
-   "published": "2026-10-02T21:04:20+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-02T23:49:40.982636+00:00"
-  },
-  {
-   "id": "758cb9d35dbe45f7",
-   "title": "Karine Jean-Pierre admits Biden admin failed on economic, age messaging, but claims Trump making same mistake",
-   "url": "https://www.foxnews.com/media/karine-jean-pierre-admits-biden-admin-failed-economic-age-messaging-claims-trump-making-same-mistake",
-   "summary": "Karine Jean-Pierre argued President Donald Trump is repeating former President Joe Biden&apos;s messaging failures on the economy, warning that grocery and gas prices remain undefeated.",
-   "published": "2026-10-02T20:59:25+00:00",
-   "source": "Fox News Latest",
-   "source_id": "foxnews-latest",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-10-02T23:49:40.050856+00:00"
-  },
-  {
-   "id": "cdad8a0f0561a071",
-   "title": "Trump says US won't ban diesel exports",
-   "url": "https://thehill.com/policy/energy-environment/6126914-g7-releases-massive-fuel-stock/",
-   "summary": "President Trump said Friday that he will not ban exports of diesel after the Group of Seven (G7) major economies announced that they would release fuel from their stocks. \u201cEurope has a lot of diesel, and they're going to be making a major world contribution, and so are we, and we're not going to be...",
-   "published": "2026-10-02T20:43:59+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-02T23:49:40.982654+00:00"
-  },
-  {
-   "id": "6ff10422c1f95681",
-   "title": "National Manufacturing Day, 2026",
-   "url": "https://www.whitehouse.gov/presidential-actions/2026/10/national-manufacturing-day-2026/",
-   "summary": "BY THE PRESIDENT OF THE UNITED STATES OF AMERICA A PROCLAMATION For 250 years, American workers have been the driving force behind our Nation&#8217;s strength, prosperity, and industrial might.&#160; Their skill, ingenuity, and determination have fueled our economy and carried American manufacturing to new heights.&#160; On National Manufacturing Day, we honor the men and women [&#8230;]\nThe post National Manufacturing Day, 2026 appeared first on The White House.",
-   "published": "2026-10-02T19:29:58+00:00",
-   "source": "WhiteHouse.gov News",
-   "source_id": "whitehouse",
-   "bias_note": "official/primary-source",
-   "first_seen": "2026-10-02T23:49:40.161978+00:00"
-  },
-  {
-   "id": "7132a7bbbb8b70d4",
-   "title": "Wynonna Judd calls out Rosie O\u2019Donnell after political comments leave country star \u2018in shock\u2019",
-   "url": "https://www.foxnews.com/entertainment/wynonna-judd-calls-out-rosie-odonnell-political-comments-leave-country-star-shock",
-   "summary": "Wynonna Judd pushed back after longtime friend Rosie O&apos;Donnell labeled her a Trump supporter, calling the claim a &quot;complete assumption.&quot;",
-   "published": "2026-10-02T19:29:34+00:00",
-   "source": "Fox News Latest",
-   "source_id": "foxnews-latest",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-10-02T23:49:40.050904+00:00"
-  },
-  {
-   "id": "6d9bd12d5e647626",
-   "title": "Republicans pull funding of Trump-backed Senate candidate in critical North Carolina race",
-   "url": "https://www.theguardian.com/us-news/2026/oct/02/republican-pac-funding-north-carolina-senate-michael-whatley",
-   "summary": "Senate Leadership Fund is redirecting ad spending from Michael Whatley\u2019s campaign to support other candidatesA major Republican political action committee pulled the plug on financial support for its Senate candidate in North Carolina, Michael Whatley, according to multiple reports, as the party begins to triage resources amid increasingly dire midterm polling.The Senate Leadership Fund (SLF), the campaign arm of the Senate majority leader, John Thune, has withdrawn its ad spending in North Carolina to redirect support to other candidates, Semafor reported on Friday. The New York Times, CNN an",
-   "published": "2026-10-02T19:23:09+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-10-02T23:49:40.719442+00:00"
-  },
-  {
-   "id": "9438bd408cc75d54",
-   "title": "Kennedy Center Honors awards moved to new venue amid Trump\u2019s onslaught",
-   "url": "https://www.theguardian.com/us-news/2026/oct/02/kennedy-center-honors-awards-venue-moved",
-   "summary": "Ceremony will not be hosted at its traditional home for the first time since awards began in 1978The Kennedy Center Honors will take place away from its traditional home this year for the first time in its history as the John F Kennedy Center for the Performing Arts remains in jeopardy amid Donald Trump\u2019s ongoing battle to have it named after himself.The Capital One Arena in Washington DC is now set to host the ceremony on 7 December, a Kennedy Center spokespersonsaid. The list of honorees this year has not yet been announced. Continue reading...",
-   "published": "2026-10-02T19:22:37+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-10-02T23:49:40.719450+00:00"
-  },
-  {
-   "id": "b258e189708be4c6",
-   "title": "Seth Meyers, John Oliver tell Jimmy Kimmel he's their 'bulletproof vest' when it comes to Trump",
-   "url": "https://www.foxnews.com/media/seth-meyers-john-oliver-tell-jimmy-kimmel-hes-bulletproof-vest-when-comes-trump",
-   "summary": "Seth Meyers and John Oliver told Jimmy Kimmel he&apos;s their &quot;bulletproof vest&quot; against President Donald Trump, saying he draws all of the president&apos;s ire on late night.",
-   "published": "2026-10-02T19:00:17+00:00",
-   "source": "Fox News Latest",
-   "source_id": "foxnews-latest",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-10-02T19:22:05.335656+00:00"
-  },
-  {
-   "id": "e46cf894fa7c75d3",
-   "title": "Grassley calls on Trump administration to ban kratom 'NOW'",
-   "url": "https://thehill.com/homenews/senate/6126476-grassley-urges-trump-kratom-rule/",
-   "summary": "Sen. Chuck Grassley (R-Iowa) on Friday called on the Trump administration to finalize its proposed rule limiting the sale of kratom, a plant with opioid-like properties that can be bought over the counter. \"All Kratom is deadly it should NOT be sold at gas stations/vape stores/ANYWHERE Admin needs 2 put out final 7OH rule NOW...",
-   "published": "2026-10-02T18:43:42+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-02T19:22:06.013062+00:00"
-  },
-  {
-   "id": "fa5354d1f8c7ed16",
-   "title": "Pro-Trump Influencer Benny Johnson is being sued for defamation by ICE protesters",
-   "url": "https://www.npr.org/2026/10/02/nx-s1-5989413/benny-johnson-defamation-lawsuit-ice-protesters",
-   "summary": "The lawsuit says the prominent conservative podcaster falsely claimed the protesters were assaulting ICE officers during demonstrations at an ICE facility in Illinois last year.",
-   "published": "2026-10-02T18:43:30+00:00",
-   "source": "NPR Politics",
-   "source_id": "npr-politics",
-   "bias_note": "center",
-   "first_seen": "2026-10-02T19:22:05.703399+00:00"
-  },
-  {
-   "id": "ee47c37baa076271",
-   "title": "Presidential Message on Down Syndrome Awareness Month",
-   "url": "https://www.whitehouse.gov/briefings-statements/2026/10/presidential-message-on-down-syndrome-awareness-month-6778/",
-   "summary": "Every child is a gift from God, created in His image and likeness, bringing hope, love, and a future filled with promise to our Nation and the world.&#160; This Down Syndrome Awareness Month, I join millions of Americans in celebrating the lives, accomplishments, and contributions of people with Down syndrome and honor the families and [&#8230;]\nThe post Presidential Message on Down Syndrome Awareness Month appeared first on The White House.",
-   "published": "2026-10-02T18:30:00+00:00",
-   "source": "WhiteHouse.gov News",
-   "source_id": "whitehouse",
-   "bias_note": "official/primary-source",
-   "first_seen": "2026-10-05T19:32:37.813735+00:00"
-  },
-  {
-   "id": "afa97951d7de0551",
-   "title": "Presidential Message on National Cybersecurity Awareness Month",
-   "url": "https://www.whitehouse.gov/briefings-statements/2026/10/presidential-message-on-national-cybersecurity-awareness-month/",
-   "summary": "In an age of rapid digital advancement, cyberspace has emerged as the new frontier of American innovation, prosperity, and strength.&#160; As new technologies open doors to discovery and opportunity that were once unimaginable, a secure cyberspace is essential to ensuring that America continues to lead the world in finance, military power, emerging technology, and manufacturing.&#160; [&#8230;]\nThe post Presidential Message on National Cybersecurity Awareness Month appeared first on The White House.",
-   "published": "2026-10-02T18:28:12+00:00",
-   "source": "WhiteHouse.gov News",
-   "source_id": "whitehouse",
-   "bias_note": "official/primary-source",
-   "first_seen": "2026-10-02T19:22:05.410281+00:00"
-  },
-  {
-   "id": "085309dc1d4d8b57",
-   "title": "Presidential Message on National Domestic Violence Awareness Month",
-   "url": "https://www.whitehouse.gov/briefings-statements/2026/10/presidential-message-on-national-domestic-violence-awareness-month/",
-   "summary": "In communities across our great Nation, domestic violence destroys families, harms innocent children, and leaves lasting pain in our neighborhoods.&#160; For America to be strong, children must feel safe in their homes, spouses and significant others must be respected, and it must be a universal truth that violence in any form is unacceptable.&#160; This National [&#8230;]\nThe post Presidential Message on National Domestic Violence Awareness Month appeared first on The White House.",
-   "published": "2026-10-02T18:25:08+00:00",
-   "source": "WhiteHouse.gov News",
-   "source_id": "whitehouse",
-   "bias_note": "official/primary-source",
-   "first_seen": "2026-10-02T19:22:05.410287+00:00"
-  },
-  {
-   "id": "e0dbec0679d0bb7e",
-   "title": "Presidential Message on Down Syndrome Awareness Month",
-   "url": "https://www.whitehouse.gov/briefings-statements/2026/10/presidential-message-on-down-syndrome-awareness-month-b663/",
-   "summary": "From the moment a child is conceived, they are a gift from God, created in His image and likeness, bringing hope, love, and a future filled with promise to our Nation and the world.&#160; This Down Syndrome Awareness Month, I join millions of Americans in celebrating the lives, accomplishments, and contributions of people with Down [&#8230;]\nThe post Presidential Message on Down Syndrome Awareness Month appeared first on The White House.",
-   "published": "2026-10-02T18:21:53+00:00",
-   "source": "WhiteHouse.gov News",
-   "source_id": "whitehouse",
-   "bias_note": "official/primary-source",
-   "first_seen": "2026-10-02T19:22:05.410289+00:00"
-  },
-  {
-   "id": "2a41479abcbcbddc",
-   "title": "Presidential Message on National Breast Cancer Awareness Month",
-   "url": "https://www.whitehouse.gov/briefings-statements/2026/10/presidential-message-on-national-breast-cancer-awareness-month-a680/",
-   "summary": "During National Breast Cancer Awareness Month, we celebrate the resilience and courage of our Nation\u2019s four million breast cancer survivors, extend our unwavering support to those currently in the fight, and honor the memory of beloved family members and friends lost to this terrible disease.&#160; In an instant, a breast cancer diagnosis forever changes the [&#8230;]\nThe post Presidential Message on National Breast Cancer Awareness Month appeared first on The White House.",
-   "published": "2026-10-02T18:20:21+00:00",
-   "source": "WhiteHouse.gov News",
-   "source_id": "whitehouse",
-   "bias_note": "official/primary-source",
-   "first_seen": "2026-10-02T19:22:05.410292+00:00"
-  },
-  {
-   "id": "7c38416e83adf0ad",
-   "title": "Justice Department sues Maryland over federal agent mask ban",
-   "url": "https://thehill.com/homenews/administration/6126569-justice-department-sues-maryland-over-federal-agent-mask-ban/",
-   "summary": "The Justice Department sued Maryland on Thursday over a new law barring federal law enforcement officers from wearing masks and requiring them to identify themselves while working in the Old Line State. The complaint, filed the same day the law took effect, argues that Maryland and two of its largest counties are illegally attempting to...",
-   "published": "2026-10-02T18:14:15+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-02T19:22:06.013078+00:00"
   }
  ]
 }
