@@ -1,7 +1,62 @@
 {
- "updated": "2026-10-17T14:06:00.230472+00:00",
+ "updated": "2026-10-17T15:42:48.987414+00:00",
  "count": 974,
  "articles": [
+  {
+   "id": "f1eaa5e00da7d229",
+   "title": "George Santos: 'I\u2019d jump to serve' as White House press secretary",
+   "url": "https://thehill.com/homenews/house/6155846-george-santos-press-secretary/",
+   "summary": "Former Rep. George Santos (R-Fla.) pitched himself on Friday to fill the vacancy left by White House press secretary Katie Zacharia.\u00a0 \u201cHey I\u2019m not technically open for a job because I have one already\u2026. butttttttt\u2026 I\u2019d jump to serve POTUS as press secretary in a heart beat. Just saying,\u201d the former Republican lawmaker wrote on...",
+   "published": "2026-10-17T15:02:11+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-17T15:42:48.074498+00:00"
+  },
+  {
+   "id": "1fe3e3dbce21e977",
+   "title": "Final Trump arch plans submitted to city omit proposed military complex",
+   "url": "https://thehill.com/homenews/administration/6155776-trump-arch-plans-omit-military-complex/",
+   "summary": "Final site plans for President Trump\u2019s proposed, 250-foot-tall triumphal arch do not mention the military features he previously said he would add to the project, according to documentation the Interior Department submitted to the National Capital Planning Commission.   The president announced in late September the structure, slated to be built between Arlington National Cemetery...",
+   "published": "2026-10-17T14:45:12+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-17T15:42:48.074516+00:00"
+  },
+  {
+   "id": "e39233503569adc3",
+   "title": "Sullivan walks the line with Trump in Alaska Senate race",
+   "url": "https://www.politico.com/news/2026/10/17/alaska-senate-sullivan-trump-peltola-01125231",
+   "summary": "Sen. Dan Sullivan in an interview with POLITICO declined to put distance between himself and President Donald Trump.",
+   "published": "2026-10-17T14:45:00+00:00",
+   "source": "Politico",
+   "source_id": "politico",
+   "bias_note": "center",
+   "first_seen": "2026-10-17T15:42:47.942790+00:00"
+  },
+  {
+   "id": "f4290472ac1a332c",
+   "title": "Elon Musk agrees to settle lawsuits over 2024 election lottery",
+   "url": "https://www.theguardian.com/technology/2026/oct/17/elon-musk-2024-million-dollar-promise-lawsuit",
+   "summary": "Trump-boosting billionaire was sued over promise to give away $1m per day to random signatories of petitionElon Musk and his \u2060America Pac political action committee said recently that they agreed to settle two \u2060proposed class \u2060actions \u200balleging the billionaire entrepreneur defrauded residents in closely contested states before the \u20602024 US election by promising voters a lottery-style daily $1m giveaway.The plaintiffs, Musk and America Pac \u200btold the \u200cjudge overseeing the two \u200crelated lawsuits in federal court in Austin, Texas, \u200con Thursday that they have reached settlements subject to court app",
+   "published": "2026-10-17T14:42:11+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-10-17T15:42:47.897204+00:00"
+  },
+  {
+   "id": "d54d98ee7a50c084",
+   "title": "Zelensky on Trump waiving Russia sanctions: 'This Act could have helped enormously'",
+   "url": "https://thehill.com/policy/international/6155800-zelensky-condemns-trump-russia-sanctions-waiver/",
+   "summary": "Ukrainian President Volodymyr Zelensky decried President Trump\u2019s late-night decision to waive sanctions and tariffs against Russia days before they were set to take effect under a new law. \u201cAt a time when the Russians have carried out such a massive attack on our energy sector, a decision was unfortunately made in America to completely disregard...",
+   "published": "2026-10-17T14:08:22+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-17T15:42:48.074523+00:00"
+  },
   {
    "id": "d716705a1d9605b5",
    "title": "Trump is hitting the campaign trail. But he's missing from GOP ads.",
@@ -10660,61 +10715,6 @@
    "source_id": "thehill",
    "bias_note": "center",
    "first_seen": "2026-10-03T16:26:39.282586+00:00"
-  },
-  {
-   "id": "5f42c1bc9102e0b1",
-   "title": "TSA to prohibit airport security officers from sitting down while checking travelers\u2019 IDs",
-   "url": "https://www.theguardian.com/us-news/2026/oct/03/tsa-rule-change",
-   "summary": "TSA says rule change is meant to keep officers \u2018alert\u2019, but union says it ignores safety and \u2018common decency\u2019US airport security officers who verify boarding passes and IDs ahead of security checkpoints will no longer be allowed to sit down while working.The Transportation Security Administration (TSA) was moving forward with this change in policy to keep officers \u201calert\u201d, the agency confirmed recently. Continue reading...",
-   "published": "2026-10-03T15:36:18+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-10-03T16:26:37.889488+00:00"
-  },
-  {
-   "id": "34da2af0aa2a0045",
-   "title": "Newsom slaps 25% tax on private detention centers in sweeping pushback against key Trump policy",
-   "url": "https://www.foxnews.com/politics/newsom-slaps-25-percent-tax-private-detention-centers-sweeping-pushback-against-trump-immigration-agenda",
-   "summary": "Gavin Newsom signed a 25% tax on private detention centers in California, targeting every ICE facility in the state and their profits directly.",
-   "published": "2026-10-03T15:30:21+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-10-03T16:26:37.065316+00:00"
-  },
-  {
-   "id": "b33be4ec97dbbdda",
-   "title": "Trump thanks man who helped save Flydubai flight: 'What a job he did, he's a hero'",
-   "url": "https://thehill.com/homenews/administration/6127540-trump-praises-yaniv-hayoun/",
-   "summary": "President Trump on Friday morning thanked the Israeli plumber, Yaniv Hayoun, who intervened after a pilot stabbed his co-pilot and attempted to crash a Flydubai flight this week.\u00a0 In a video message shared on Truth Social, the president praised Hayoun, saying he \u201cdid an amazing job.\u201d \u201cHe\u2019s my kind of guy,\u201d he continued. \u201cHe can...",
-   "published": "2026-10-03T15:19:26+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-03T16:26:39.282622+00:00"
-  },
-  {
-   "id": "975efecd96f7b411",
-   "title": "Voters favor Democrats on key issues but lack faith in either party to solve problems: AP-NORC poll",
-   "url": "https://abcnews.com/Politics/wireStory/voters-favor-democrats-key-issues-lack-faith-party-136969703",
-   "summary": "An AP-NORC poll finds that voters are deeply dissatisfied with President Donald Trump and his Republican Party heading into the Nov. 3 elections",
-   "published": "2026-10-03T14:54:44+00:00",
-   "source": "ABC News Politics",
-   "source_id": "abc-politics",
-   "bias_note": "center",
-   "first_seen": "2026-10-03T15:04:52.218458+00:00"
-  },
-  {
-   "id": "25e639e36618ca5f",
-   "title": "Trump's attempted assassin sent mysterious texts about 3D printer leading up to Butler, Pa. shooting: report",
-   "url": "https://www.foxnews.com/us/trumps-attempted-assassin-sent-mysterious-texts-3d-printer-leading-butler-pa-shooting-report",
-   "summary": "FBI records obtained by Judicial Watch reveal Thomas Matthew Crooks sent cryptic coded texts and took drone photos of Pittsburgh stadiums before the attack",
-   "published": "2026-10-03T14:31:48+00:00",
-   "source": "Fox News Latest",
-   "source_id": "foxnews-latest",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-10-03T15:04:50.501250+00:00"
   }
  ]
 }
