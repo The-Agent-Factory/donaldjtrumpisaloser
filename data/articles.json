@@ -1,7 +1,62 @@
 {
- "updated": "2026-10-17T18:32:39.421853+00:00",
- "count": 976,
+ "updated": "2026-10-17T22:24:14.078091+00:00",
+ "count": 970,
  "articles": [
+  {
+   "id": "88b25179c7df122f",
+   "title": "Sunday shows preview: Trump-Zelensky feud escalates; Controversies hit White House before midterms",
+   "url": "https://thehill.com/homenews/sunday-talk-shows/6156133-trump-russia-sanctions-backlash/",
+   "summary": "President Trump\u2019s new executive order on Friday evening sparked a new wave of bipartisan backlash to his administration\u2019s recent easing of Russian sanctions.\u00a0 The order halted the implementation of new penalties on Russia set to go into effect under a sweeping legislative package signed into law by the president last month.  It followed Trump\u2019s controversial...",
+   "published": "2026-10-17T22:19:54+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-17T22:24:06.863610+00:00"
+  },
+  {
+   "id": "4e2c4307da976a8f",
+   "title": "Trump touts his power at Kentucky rally to energize voters ahead of midterm elections",
+   "url": "https://abcnews.com/Politics/wireStory/trump-touts-power-kentucky-rally-energize-voters-ahead-137351144",
+   "summary": "President Donald Trump is emphasizing his influence during his second term at a rally in Kentucky",
+   "published": "2026-10-17T21:47:28+00:00",
+   "source": "ABC News Politics",
+   "source_id": "abc-politics",
+   "bias_note": "center",
+   "first_seen": "2026-10-17T22:24:13.883975+00:00"
+  },
+  {
+   "id": "b45d95c780637cd3",
+   "title": "Joy Behar wants Trump back on \u2018The View\u2019 despite saying he\u2019s \u2018not long for this world\u2019",
+   "url": "https://www.foxnews.com/media/joy-behar-wants-trump-back-view-despite-saying-hes-not-long-this-world",
+   "summary": "Joy Behar invited Trump back to &quot;The View&quot; while claiming he&apos;s &quot;not long for this world,&quot; prompting a sharp response from the White House team.",
+   "published": "2026-10-17T20:00:39+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-10-17T22:24:01.059152+00:00"
+  },
+  {
+   "id": "6a9d90e688bff151",
+   "title": "Stephen A. Smith calls dinner with Trump, Bill Maher, Kid Rock 'shocking'",
+   "url": "https://thehill.com/blogs/in-the-know/6156054-stephen-a-smith-kid-rock-maher-trump/",
+   "summary": "Commentator Stephen A. Smith said he was shocked President Trump hosted him, left-leaning comedian Bill Maher and conservative country star Kid Rock at the White House earlier this week, adding the gathering lasted more than four hours. \u201cIt was shocking. I certainly didn\u2019t expect that amount of time,\u201d Smith told CNN's Laura Coates Friday night....",
+   "published": "2026-10-17T19:51:37+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-17T22:24:06.863650+00:00"
+  },
+  {
+   "id": "6a19be371c18a329",
+   "title": "Zelensky says Ukraine is 'ready to negotiate'",
+   "url": "https://thehill.com/policy/international/6156034-zelensky-open-us-negotiations/",
+   "summary": "Ukrainian President Volodymyr Zelensky on Saturday expressed his openness to engaging in U.S.-led negotiations to end the yearslong Russia-Ukraine war after President Trump placed a hold on Russian sanctions days before they were set to go into effect.  \u201cThe American negotiating track will continue,\u201d Zelensky wrote on the social platform X. \u201cWe\u2019re counting on them...",
+   "published": "2026-10-17T18:46:21+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-17T22:24:06.863675+00:00"
+  },
   {
    "id": "2159ba065a0446fc",
    "title": "Terror groups are handing Venezuela\u2019s critical minerals over to China",
@@ -10616,127 +10671,6 @@
    "source_id": "foxnews-politics",
    "bias_note": "right-leaning",
    "first_seen": "2026-10-04T08:30:09.024584+00:00"
-  },
-  {
-   "id": "3e66975a9e31846a",
-   "title": "Hegseth indicates some US troops could be redeployed from Europe to Western Hemisphere",
-   "url": "https://thehill.com/policy/defense/6127801-hegseth-redeploys-troops-western-hemisphere/",
-   "summary": "Defense Secretary Pete Hegseth indicated on Saturday that some U.S. service members could be redeployed from Europe to the Western Hemisphere as the Trump administration ramps up its deadly campaign against drug cartels in South America.  \u201cWell, we're definitely expanding our presence and our footprint in Central and South America with partners, and because of...",
-   "published": "2026-10-03T21:47:46+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-04T00:42:07.567138+00:00"
-  },
-  {
-   "id": "b4e69329eb9eabf6",
-   "title": "Episcopal bishop who urged Trump to \u2018have mercy\u2019 to resign post in Washington DC",
-   "url": "https://www.theguardian.com/us-news/2026/oct/03/mariann-budde-episcopal-bishop-trump",
-   "summary": "Mariann Budde gained national attention for calling on US president to consider immigrants and LGBTQ+ peopleRev Mariann Edgar Budde, the Episcopal bishop of Washington DC who gained national attention when she called on Donald Trump to \u201chave mercy\u201d on the country\u2019s immigrants and LGBTQ+ community after his second inauguration, is resigning.Budde shared in her resignation letter that she will be leaving her post on 3 June 2028 after the consecration and ordination of the new diocesan bishop. Continue reading...",
-   "published": "2026-10-03T21:21:18+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-10-04T00:42:07.421393+00:00"
-  },
-  {
-   "id": "30388e2877c434c1",
-   "title": "Head Start fight reaches tipping point as advocates push back against proposed Trump changes",
-   "url": "https://thehill.com/homenews/education/6126823-head-start-programs-trump-reforms-hhs/",
-   "summary": "The Trump administration is moving ahead with big changes to Head Start, the federal early childhood education program that serves low-income families, to the outcry of advocates who say the proposals will limit access to the program, currently serving 700,000 students.   Interested parties have until Tuesday to submit their thoughts to the federal government on...",
-   "published": "2026-10-03T21:00:00+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-03T21:22:30.488212+00:00"
-  },
-  {
-   "id": "d7900e70a080d742",
-   "title": "Trump rallies in Ohio to boost Jon Husted in a tight Senate race against Sherrod Brown",
-   "url": "https://www.pbs.org/newshour/politics/trump-rallies-in-ohio-to-boost-jon-husted-in-a-tight-senate-race-against-sherrod-brown",
-   "summary": "Saturday's rally is just outside Dayton, Ohio, where he'll stump for key candidates in competitive races for the House, Senate and the governor's mansion in Columbus.",
-   "published": "2026-10-03T20:53:07+00:00",
-   "source": "PBS NewsHour Politics",
-   "source_id": "pbs-politics",
-   "bias_note": "center",
-   "first_seen": "2026-10-03T21:22:30.621085+00:00"
-  },
-  {
-   "id": "4e9a3e32d5cf0b63",
-   "title": "Sunday shows preview: Trump boosts midterm candidates in final stretch; Supreme Court opens new term",
-   "url": "https://thehill.com/homenews/sunday-talk-shows/6127755-trump-midterm-campaign-iran-war/",
-   "summary": "With a month until the midterm elections, President Trump is hitting the campaign trail in an effort to ramp up voter turnout across traditionally red states, as rising costs and a deeply unpopular Iran war leave the GOP scrambling to protect its majority in Congress. Trump\u2019s October campaign blitz will feature stops in Oklahoma, Alabama,...",
-   "published": "2026-10-03T20:37:40+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-03T21:22:30.488219+00:00"
-  },
-  {
-   "id": "59a748ed9c1cb0aa",
-   "title": "Trump rallies in Ohio to boost Jon Husted in a tight Senate race against Sherrod Brown",
-   "url": "https://abcnews.com/Politics/wireStory/trump-rallies-ohio-boost-jon-husted-tight-senate-136977581",
-   "summary": "President Donald Trump is taking his midterm tour to Ohio, a battleground state with a crucial Senate race",
-   "published": "2026-10-03T20:24:08+00:00",
-   "source": "ABC News Politics",
-   "source_id": "abc-politics",
-   "bias_note": "center",
-   "first_seen": "2026-10-03T21:22:31.177771+00:00"
-  },
-  {
-   "id": "48516b1108929d4e",
-   "title": "Trump urges calls to Arkansas senator in push for permanent daylight saving time",
-   "url": "https://www.theguardian.com/us-news/2026/oct/03/trump-tom-cotton-daylight-saving-time",
-   "summary": "President appeared to share phone number of Tom Cotton for people to call to push him to support measureDonald Trump on Saturday put pressure on the US senator Tom Cotton of Arkansas to support a bill to make daylight saving time permanent, urging Americans to call what appeared to be the personal cellphone number of his fellow Republican and the chair of the Senate intelligence committee.The Sunshine Protection Act passed the House in July, but it faces roadblocks in the Senate, where some Republicans are strongly opposed to it. Proponents, including the president and his administration, argu",
-   "published": "2026-10-03T20:13:17+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-10-03T21:22:30.165347+00:00"
-  },
-  {
-   "id": "1acd4426f95d040e",
-   "title": "Trump, Cotton tussle over daylight savings after cell phone number leak",
-   "url": "https://thehill.com/homenews/administration/6127691-trump-cotton-fued-daylight-savings-posts/",
-   "summary": "President Trump repeatedly berated Sen. Tom Cotton (R-Ark.) on Saturday over his stance on a daylight savings bill after posting the Republican Congress member's cell phone number on social media.  In a morning Truth Social post, the president encouraged his supporters to call the senator and urge him to back legislation that would make daylight...",
-   "published": "2026-10-03T19:53:57+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-03T21:22:30.488221+00:00"
-  },
-  {
-   "id": "dfa18f8076878726",
-   "title": "White House defends media outlet bans, now citing 'professionalism' standards",
-   "url": "https://thehill.com/regulation/court-battles/6127654-white-house-defends-press-ban-professionalism/",
-   "summary": "Trump administration lawyers are fighting back against CNN, MS NOW and Politico's attempt to prevent the White House from enforcing futures bans against them \u2014 with the Justice Department (DOJ) now arguing the three outlets failed to meet \u201cprofessional\" standards. \u201cThe President concluded that they have failed to maintain basic minimum \u2018standards of professionalism and...",
-   "published": "2026-10-03T19:22:07+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-03T21:22:30.488225+00:00"
-  },
-  {
-   "id": "9b6a6617a4c68953",
-   "title": "Trump drops Republican Senator's phone number in social post over fury on stalled bill",
-   "url": "https://www.foxnews.com/politics/trump-drops-republican-senators-phone-number-social-post-fury-stalled-bill",
-   "summary": "President Donald Trump posted Tom Cotton&apos;s alleged cell phone number on Truth Social, urging Arkansas voters to pressure him on daylight saving time.",
-   "published": "2026-10-03T19:02:11+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-10-03T21:22:29.582010+00:00"
-  },
-  {
-   "id": "a62a58774e815885",
-   "title": "Firebrand GOP rep: Democrats side with Iran 'simply because they hate' Trump",
-   "url": "https://www.foxnews.com/politics/firebrand-gop-rep-democrats-side-iran-simply-because-hate-trump",
-   "summary": "Rep. Randy Fine discusses the rationale for backing the conflict in Iran, explains the meaning of an America First foreign policy, and denounces Rep. Ilhan Omar on immigration fraud",
-   "published": "2026-10-03T18:34:34+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-10-03T21:22:29.582021+00:00"
   }
  ]
 }
