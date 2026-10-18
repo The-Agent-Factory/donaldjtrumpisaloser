@@ -1,7 +1,106 @@
 {
- "updated": "2026-10-18T04:41:07.043141+00:00",
- "count": 972,
+ "updated": "2026-10-18T11:15:42.515707+00:00",
+ "count": 973,
  "articles": [
+  {
+   "id": "29270cb81029bb3a",
+   "title": "Trump's chief of staff almost skipped screening that detected aggressive cancer",
+   "url": "https://www.foxnews.com/health/trumps-chief-staff-almost-skipped-screening-detected-aggressive-cancer",
+   "summary": "White House chief of staff Susie Wiles discusses how her doctor&apos;s insistence on an early mammogram caught her aggressive breast cancer in time.",
+   "published": "2026-10-18T11:00:13+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-10-18T11:15:41.350989+00:00"
+  },
+  {
+   "id": "6450dd51bea7ed34",
+   "title": "MIKE DAVIS: Justice Department must be wrapping up Rep. Ilhan Omar's Christmas present",
+   "url": "https://www.foxnews.com/opinion/mike-davis-justice-department-wrapping-rep-ilhan-omar-christmas-present",
+   "summary": "The federal warrant for Ilhan Omar&apos;s DC home raid was reportedly signed by a judge who donated to Hillary Clinton, undermining claims of political revenge.",
+   "published": "2026-10-18T10:36:38+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-10-18T11:15:41.351007+00:00"
+  },
+  {
+   "id": "a66da920b895afb9",
+   "title": "How Trump\u2019s justice department is testing separation of powers before the US midterms",
+   "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/18/trump-justice-department-us-midterms",
+   "summary": "From the attorney general stumping for Republican candidates to federal agents raiding the home of a Democratic congresswoman up for re-election, the department is violating long-standing normsDonald Trump\u2019s justice department has aggressively inserted itself into the midterm elections in the contest\u2019s final weeks, shattering the department\u2019s longstanding practice of political neutrality and leaving little doubt about the department\u2019s willingness to help should the president attempt to subvert elections where his party is forecasted to lose seats and ultimately control of Congress.In the last ",
+   "published": "2026-10-18T10:00:57+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-10-18T11:15:41.804294+00:00"
+  },
+  {
+   "id": "7b1f2a2ba62c878f",
+   "title": "If Trump fells 430 trees in the middle of a golf course, do they make a sound?",
+   "url": "https://www.theguardian.com/commentisfree/2026/oct/18/trump-golf-course-washington-dc",
+   "summary": "In attempting to turn a public space in DC into an enclave for elites, Trump is moving the US capital closer to GracelandWhen is a tree not a tree? When it\u2019s an obstacle to a par-3. If a tree falls in the middle of a golf course, does it make a sound? Yeah, probably. I wasn\u2019t there, but I have to assume, based on my limited knowledge of the laws of physics.What I do know is that Donald Trump\u2019s crusade to clear more than 400 trees for the purposes of redeveloping East Potomac Golf Links into a championship-level course isn\u2019t happening. For now.Dave Schilling is a Los Angeles-based writer and hu",
+   "published": "2026-10-18T10:00:56+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-10-18T11:15:41.804345+00:00"
+  },
+  {
+   "id": "4f3dd1e81e53dd2e",
+   "title": "Republicans warn that Pentagon funds will hinge on Trump getting tougher with Russia",
+   "url": "https://thehill.com/homenews/house/6155127-gop-pentagon-funding-trump-russia/",
+   "summary": "A growing chorus of House Republicans is warning President Trump that they\u2019re ready to block additional Pentagon funding unless the administration gets tougher on Russia.  Behind Defense Secretary Pete Hegseth, the administration is pushing Republicans on Capitol Hill to approve at least $350 billion in new military spending as part of a partisan reconciliation package...",
+   "published": "2026-10-18T10:00:00+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-18T11:15:41.917400+00:00"
+  },
+  {
+   "id": "a2e1eccb2fb11a49",
+   "title": "Democrats want to curb Trump\u2019s power with House majority. This is their greatest tool",
+   "url": "https://thehill.com/homenews/house/6154578-appropriations-committee-oversight-strategy/",
+   "summary": "House Democrats are eyeing their power over federal spending as one of their strongest tools to push back against President Trump\u2019s agenda if they win back the majority in November. A Democratic takeover would put Rep. Rosa DeLauro (D-Conn.) in line to chair the powerful House Appropriations Committee, giving Democrats greater sway over the annual...",
+   "published": "2026-10-18T10:00:00+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-18T11:15:41.917409+00:00"
+  },
+  {
+   "id": "9f8fe99b4968c6bf",
+   "title": "Can Ken Paxton outrun a trail of scandal to win US Senate seat in ruby-red Texas?",
+   "url": "https://www.theguardian.com/us-news/2026/oct/18/ken-paxton-texas-senate-scandal-midterms",
+   "summary": "The Republican state attorney general appears uniquely ill-chosen as a candidate \u2013 but he is a political survivor who could yet frustrate Democratic dreamsDepending how you look at the situation, it is either predictable that Ken Paxton, Texas\u2019s attorney general and Republican candidate for US Senate, is struggling in the polls \u2013 or impressive that he is not doing worse. Beloved by hardcore Maga voters and regarded with skepticism by the broader voting public, Paxton is also puzzlingly bland. Recently, Donald Trump told a crowd of supporters that the 63-year-old Paxton \u201cmay not dress right, he",
+   "published": "2026-10-18T09:00:56+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-10-18T11:15:41.804305+00:00"
+  },
+  {
+   "id": "3c7a97a4080fa348",
+   "title": "Becoming a lawyer could get cheaper and faster under looming Trump admin shakeup",
+   "url": "https://www.foxnews.com/politics/becoming-lawyer-cheaper-faster-trump-admin-shakeup",
+   "summary": "As the Trump admin weighs stripping the American Bar Association&apos;s law school accrediting arm of federal recognition, experts say the move could open the door to new types of legal education.",
+   "published": "2026-10-18T09:00:10+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-10-18T11:15:41.331870+00:00"
+  },
+  {
+   "id": "a6720e996ce70ef3",
+   "title": "With an ad aimed at Trump, this Republican exposed GOP angst about Latino voters",
+   "url": "https://www.npr.org/2026/10/18/nx-s1-5978762/maria-elvira-salazar-immigration-trump",
+   "summary": "Rep. Mar\u00eda Elvira Salazar filmed an ad warning the president that he's \"gone too far\" on immigration. It reflected concern among some Republicans that their gains with Latino voters could be at risk.",
+   "published": "2026-10-18T09:00:00+00:00",
+   "source": "NPR Politics",
+   "source_id": "npr-politics",
+   "bias_note": "center",
+   "first_seen": "2026-10-18T11:15:41.769634+00:00"
+  },
   {
    "id": "40390e93c300c8e8",
    "title": "Shapiro launches super PAC as presidential speculation mounts",
@@ -10605,94 +10704,6 @@
    "source_id": "foxnews-politics",
    "bias_note": "right-leaning",
    "first_seen": "2026-10-04T15:23:45.835302+00:00"
-  },
-  {
-   "id": "341f2f86122acbaa",
-   "title": "The desperate, failed attempt to keep one Florida district Black",
-   "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/04/florida-20th-congressional-district-black-vote",
-   "summary": "Efforts to consolidate the Black vote here were frustrated, handing the Democratic nomination to a white party insiderA major plot line of the hyper-partisan, mid-decade redistricting arms races \u2013 launched at the urging of Donald Trump \u2013 has been the elimination of traditionally Black congressional seats in the south. In the midst of that battle, a subplot emerged: a challenge to one of those Black seats from inside the Democratic caucus itself as the veteran congresswoman Debbie Wasserman Schultz, whose own district was splintered, chose to seek re-election in Florida\u2019s 20th congressional dis",
-   "published": "2026-10-04T11:00:28+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-10-05T14:49:48.559831+00:00"
-  },
-  {
-   "id": "3743fdde7bc8ce98",
-   "title": "Trump sets off on midterm blitz \u2013 are his trademark rallies a liability for Republicans?",
-   "url": "https://www.theguardian.com/us-news/2026/oct/04/trump-midterm-rallies-campaign-republicans",
-   "summary": "Rallies have been mainstay of president\u2019s brand but even some in his own party fear voters are sick of the sight of him\u201cGet your asses in that car.\u201d That was Donald Trump\u2019s order, he later recalled, to his motorcade after foul weather grounded Air Force One in Texas on Thursday. The 85-mile dash to Oklahoma at nearly 100mph was proof that nothing can keep Trump from a Trump rally.Which might not be the good news for Republicans it once was. As the US president embarked on a 32-day campaign blitz aimed at helping them defend narrow congressional majorities in next month\u2019s midterms, some fear th",
-   "published": "2026-10-04T11:00:28+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-10-05T14:49:48.559837+00:00"
-  },
-  {
-   "id": "d9f0e74fa2c2564d",
-   "title": "Trump wants control of South America. If Bolsonaro Jr wins in Brazil, that could become a reality | Steve Bloomfield",
-   "url": "https://www.theguardian.com/commentisfree/2026/oct/04/donald-trump-western-hemisphere-brazil-elections-lula-bolsonaro",
-   "summary": "The US president has taken credit for far-right victories across Latin America, but those wins have had more to do with fears of gang crime than his meddlingDonald Trump has enjoyed very few foreign policy victories since returning to power. From failed wars to failed peace processes, his second term in office has been marked by one costly blunder on the world stage after another. In Latin America, though, the US president has a different story to tell.His administration\u2019s national security strategy outlined how the US wanted to \u201crestore American preeminence in the Western Hemisphere\u201d. It was ",
-   "published": "2026-10-04T11:00:25+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-10-04T15:23:46.367753+00:00"
-  },
-  {
-   "id": "a46b31f30360e5be",
-   "title": "MS Now connects \u2018blue dots\u2019 at Texas fan event: \u2018I always feel hope when I watch them\u2019",
-   "url": "https://www.theguardian.com/media/2026/oct/04/ms-now-fan-event-texas",
-   "summary": "Network at receiving end of White House press ban recently chose red state to host fan event as part of broader outreachIn 2024, Donald Trump and JD Vance carried Tarrant county, Texas, by 42,125 votes. So why, on the afternoon of 26 September, was the arena at the University of Texas-Arlington filled with nearly 5,000 super fans cheering for liberal media darlings Rachel Maddow and Lawrence O\u2019Donnell like they were rock stars?After two years of hosting the network\u2019s annual fan event in dark blue New York City, MS Now (formerly MSNBC) got wind that something was happening in Texas. The state, ",
-   "published": "2026-10-04T10:00:26+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-10-05T05:48:50.157487+00:00"
-  },
-  {
-   "id": "da276e24f12b7ddd",
-   "title": "Trump's nominee for Hostage Affairs envoy faces scrutiny on controversial Russia plan",
-   "url": "https://thehill.com/policy/international/6124543-trump-hostage-affairs-coale-belarus-russia-ukraine/",
-   "summary": "President Trump is tapping his charismatic, straight-talking former lawyer, who has helped free hundreds of political prisoners from Belarus, to serve as the U.S. official charged with bringing home unjustly detained Americans abroad.  John Coale, who serves as special envoy to Belarus, has detailed \u201cvodka infused\u201d negotiations with that country\u2019s authoritarian leader, Alexander Lukashenko, to...",
-   "published": "2026-10-04T10:00:00+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-04T15:23:46.461620+00:00"
-  },
-  {
-   "id": "d43e1a7700770198",
-   "title": "Trump funnels millions from massive war chest into key House, Senate races: Here's where",
-   "url": "https://thehill.com/homenews/campaign/6126950-trump-funnels-millions-from-massive-war-chest-into-key-house-senate-races-heres-where/",
-   "summary": "President Trump\u2019s super PAC and affiliates have injected tens of millions of dollars into pivotal Senate and House races just one month from Election Day as the GOP looks to keep control of Congress.  Trump\u2019s MAGA Inc. and several affiliated groups \u2014 No Going Back PAC Inc. and Safety &#38; Affordability PAC Inc. \u2014 have reported some of their...",
-   "published": "2026-10-04T10:00:00+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-04T15:23:46.461623+00:00"
-  },
-  {
-   "id": "b678bc12b90eeadf",
-   "title": "U.S. Leads International Coalition to Endorse Kyoto Vision for a Golden Age of Science",
-   "url": "https://www.whitehouse.gov/releases/2026/10/us-leads-international-coalition-to-endorse-kyoto-vision-for-a-golden-age-of-science/",
-   "summary": "KYOTO, JAPAN \u2014 At the 23rd Annual Meeting of the Science and Technology in Society (STS) Forum convened in Kyoto, the United States and 16 countries endorsed the Kyoto Vision for a Golden Age of Science. The joint declaration reflects a shared ambition\u00a0\u00a0to renew and strengthen our science ecosystems and usher in a golden age [&#8230;]\nThe post U.S. Leads International Coalition to Endorse Kyoto Vision for a Golden Age of Science appeared first on The White House.",
-   "published": "2026-10-04T09:14:42+00:00",
-   "source": "WhiteHouse.gov News",
-   "source_id": "whitehouse",
-   "bias_note": "official/primary-source",
-   "first_seen": "2026-10-04T15:23:45.906371+00:00"
-  },
-  {
-   "id": "127a6313e4f51941",
-   "title": "How an Uzbek truck driver\u2019s fatal crash exposed troubling fraud trend in Middle America: \u2018Chameleon carriers\u2019",
-   "url": "https://www.foxnews.com/politics/uzbek-truck-driver-fatal-crash-exposed-troubling-fraud-trend-middle-america-chameleon-carriers",
-   "summary": "Uzbek-linked trucking companies in southwest Ohio face scrutiny over CDL fraud, English proficiency violations and fatal semi-truck crashes on U.S. roads.",
-   "published": "2026-10-04T09:00:02+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-10-04T15:23:45.835331+00:00"
   }
  ]
 }
