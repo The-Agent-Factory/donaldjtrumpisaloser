@@ -1,7 +1,95 @@
 {
- "updated": "2026-10-18T14:21:01.198660+00:00",
- "count": 965,
+ "updated": "2026-10-18T15:55:24.562574+00:00",
+ "count": 973,
  "articles": [
+  {
+   "id": "3d4a49c03b1bec33",
+   "title": "Trump endorses Netanyahu ahead of Israeli elections",
+   "url": "https://thehill.com/homenews/administration/6156511-trump-calls-netanyahu-peace-partner/",
+   "summary": "President Trump on Sunday endorsed Israeli Prime Minister Benjamin Netanyahu as he seeks another term less than a week before Israel holds its elections. Trump directed a Truth Social post to \"the Great People of Israel\" and called \"Bibi\" Netanyahu \"a Great Warrior Prime Minister, and an even greater Partner for Peace in combatting the...",
+   "published": "2026-10-18T15:45:21+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-18T15:55:23.735343+00:00"
+  },
+  {
+   "id": "a7e85a39eb78ada2",
+   "title": "Wright defends waiving sanctions: 'It's not an economic lifeline for Russia'",
+   "url": "https://thehill.com/homenews/administration/6156515-wright-defends-trump-russia-sanctions-waiver/",
+   "summary": "Energy Secretary Chris Wright on Sunday backed President Trump\u2019s move to waive sanctions against Russia under a new legislation package, insisting that it is \u201cnot an economic lifeline\u201d for Russia. \"This is an incentive to Russia that if they can reduce the conflict with Ukraine, [if] they can get an energy ceasefire or reduce the...",
+   "published": "2026-10-18T15:32:35+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-18T15:55:23.735360+00:00"
+  },
+  {
+   "id": "3f96c3408c3aed2d",
+   "title": "Vance faces tough questions on Iran war, immigration and more in CBS town hall",
+   "url": "https://www.pbs.org/newshour/politics/vance-faces-tough-questions-on-iran-war-immigration-and-more-in-cbs-town-hall",
+   "summary": "The string of sharp queries, some from voters who said they had supported him and President Donald Trump, previewed the rocky path Vance may face trying to answer for the administration's record if he runs for president himself in 2028.",
+   "published": "2026-10-18T15:25:44+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-10-18T15:55:23.905786+00:00"
+  },
+  {
+   "id": "4576c90d59f1030e",
+   "title": "'No Kings' protesters rally across the US \u2013 video",
+   "url": "https://www.theguardian.com/us-news/video/2026/oct/18/no-kings-protesters-rally-across-the-us-video",
+   "summary": "Protesters held rallies across the US as part of the 'No Kings' movement, voicing opposition to the Trump administration and calling for early voting ahead of November's midterm elections. The rallies coincide with heightened legal battles surrounding voting rules, including a recent federal lawsuit filed against California regarding mail-in ballots and warnings from the justice department concerning ballot processing. Current opinion polls suggest Democrats will win the House of Representatives in the upcoming midterms, while the Senate remains too close to call Continue reading...",
+   "published": "2026-10-18T15:20:57+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-10-18T15:55:23.513315+00:00"
+  },
+  {
+   "id": "164aa696c884743e",
+   "title": "Trump intel chief warns AI firms on hacks, says new department is the 'cop on the beat'",
+   "url": "https://www.foxnews.com/media/trump-intel-chief-warns-ai-firms-hacks-says-new-department-cop-beat",
+   "summary": "President Donald Trump&apos;s intelligence chief warns AI companies they&apos;re responsible when products hack websites as new guardrails are developed.",
+   "published": "2026-10-18T15:20:02+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-10-18T15:55:22.521147+00:00"
+  },
+  {
+   "id": "3ffbcd63e7b6dcb4",
+   "title": "Rogers says he worries about 'optics' of U.S.-Russia diesel deal, US cannot not give Putin 'an inch'",
+   "url": "https://thehill.com/homenews/campaign/6156420-rogers-skeptical-russia-diesel-deal/",
+   "summary": "Michigan Senate candidate Mike Rogers (R) on Sunday said he's worried about the \"optics\" of the U.S.'s deal with Russia to export diesel and added that the U.S. cannot give Russian President Vladimir Putin \"an inch.\" Rogers told CNN's Dana Bash on \"State of the Union\" that President Trump is \"trying to do something to...",
+   "published": "2026-10-18T14:54:30+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-18T15:55:23.735385+00:00"
+  },
+  {
+   "id": "ed4598aa42cc6a0d",
+   "title": "Obama backs Ilhan Omar amid probe, accuses Trump admin of 'appalling' targeting in lengthy statement",
+   "url": "https://www.foxnews.com/politics/obama-backs-ilhan-omar-amid-probe-accuses-trump-admin-appalling-targeting-lengthy-statement",
+   "summary": "Barack Obama accused the Trump administration of politically targeting Rep. Ilhan Omar, alleging efforts to strip her citizenship and deport her.",
+   "published": "2026-10-18T14:38:26+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-10-18T15:55:22.429967+00:00"
+  },
+  {
+   "id": "d2eb7039b8c858dc",
+   "title": "Homan says investigators have a 'strong case' against Omar",
+   "url": "https://thehill.com/homenews/administration/6156445-homan-omar-immigration-fraud-probe/",
+   "summary": "White House border czar Tom Homan said federal investigators have a \u201cstrong case\u201d in the ongoing criminal investigation into Rep. Ilhan Omar (D-Minn.) for possible immigration fraud after federal agents raided her home last week. In an interview with Fox News on Saturday, Homan said he was informed by investigators that they have been following...",
+   "published": "2026-10-18T14:26:13+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-18T15:55:23.735396+00:00"
+  },
   {
    "id": "6979ac6f4e965f84",
    "title": "What role does the White House Press Secretary play in the Trump era?",
