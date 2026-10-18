@@ -1,7 +1,73 @@
 {
- "updated": "2026-10-18T11:15:42.515707+00:00",
- "count": 973,
+ "updated": "2026-10-18T14:21:01.198660+00:00",
+ "count": 965,
  "articles": [
+  {
+   "id": "6979ac6f4e965f84",
+   "title": "What role does the White House Press Secretary play in the Trump era?",
+   "url": "https://www.npr.org/2026/10/18/nx-s1-6005279/what-role-does-the-white-house-press-secretary-play-in-the-trump-era",
+   "summary": "NPR's Ayesha Rascoe asks Adm. John Kirby, who had spokesperson roles in the Obama and Biden administrations, about the utility of the role of the White House Press Secretary.",
+   "published": "2026-10-18T12:01:03+00:00",
+   "source": "NPR Politics",
+   "source_id": "npr-politics",
+   "bias_note": "center",
+   "first_seen": "2026-10-18T14:20:59.756817+00:00"
+  },
+  {
+   "id": "ed68c640a28435d8",
+   "title": "Politics chat: Zelenskyy on Trump, Democrats bring in the money for midterms",
+   "url": "https://www.npr.org/2026/10/18/nx-s1-6005192/politics-chat-zelenskyy-on-trump-democrats-bring-in-the-money-for-midterms",
+   "summary": "From Russia to AI to Iran, President Trump has taken political stances that put him at odds with much of the electorate.",
+   "published": "2026-10-18T12:01:01+00:00",
+   "source": "NPR Politics",
+   "source_id": "npr-politics",
+   "bias_note": "center",
+   "first_seen": "2026-10-18T14:20:59.756823+00:00"
+  },
+  {
+   "id": "90e93dae573b4e5a",
+   "title": "Trump suspends federal diesel taxes to help farmers, but states issue warnings",
+   "url": "https://www.npr.org/2026/10/18/nx-s1-5996662/trump-suspends-federal-diesel-taxes-to-help-farmers-but-states-issue-warnings",
+   "summary": "President Trump's executive order suspending federal taxes on diesel is aimed at helping farmers but it's more complicated than it sounds and states are warning drivers they may owe taxes later.",
+   "published": "2026-10-18T12:00:57+00:00",
+   "source": "NPR Politics",
+   "source_id": "npr-politics",
+   "bias_note": "center",
+   "first_seen": "2026-10-18T14:20:59.756826+00:00"
+  },
+  {
+   "id": "f02916c08241f3f3",
+   "title": "Trump tries different approach with Russia to bring Americans relief amid ongoing war with Ukraine",
+   "url": "https://www.foxnews.com/politics/trump-tries-different-approach-russia-bring-americans-relief-amid-ongoing-war-ukraine",
+   "summary": "Trump&apos;s Russian diesel deal faces bipartisan pushback as analysts question whether easing sanctions on Vladimir Putin will lower prices or aid peace.",
+   "published": "2026-10-18T12:00:13+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-10-18T14:20:59.545462+00:00"
+  },
+  {
+   "id": "009f0ebde59cc26e",
+   "title": "Small business owners are doing OK \u2013 but will that help Trump overcome his low approval ratings?",
+   "url": "https://www.theguardian.com/business/2026/oct/18/small-business-owners-trump-economy",
+   "summary": "Overall, economic sentiment for Trump is poor, but small businesses seem fairly confident, according to several surveysThere are 34m small businesses in the United States. They employ approximately half of the country\u2019s workers and generate about half of the country\u2019s GDP. They\u2019re an important voting block. So how are they feeling about the economy as we head into November\u2019s midterm elections? Overall, economic sentiment for Donald Trump is poor but small business \u2013 admittedly a diverse demographic that\u2019s hard to poll \u2013 seems fairly confident. A number of recently published surveys and reports",
+   "published": "2026-10-18T12:00:02+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-10-18T14:20:59.873392+00:00"
+  },
+  {
+   "id": "cd7b58d353bead6d",
+   "title": "Trump's 'Humpty Dumpty' approach to human rights",
+   "url": "https://thehill.com/opinion/white-house/6152165-state-department-policy-shift/",
+   "summary": "The administration insists that policies intended to expand opportunities for historically marginalized groups are themselves discriminatory, a sharp departure from past bipartisan approaches to civil rights.",
+   "published": "2026-10-18T12:00:00+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-18T14:21:00.058152+00:00"
+  },
   {
    "id": "29270cb81029bb3a",
    "title": "Trump's chief of staff almost skipped screening that detected aggressive cancer",
@@ -10550,160 +10616,6 @@
    "source_id": "thehill",
    "bias_note": "center",
    "first_seen": "2026-10-04T19:40:53.745442+00:00"
-  },
-  {
-   "id": "433e1ccca2654776",
-   "title": "Trump announces 'Super Intelligence Force' led by DNI Jay Clayton",
-   "url": "https://thehill.com/homenews/administration/6128176-trump-creates-super-intelligence-force/",
-   "summary": "President Trump on Sunday morning announced the creation of \"Super IntelligenceForce\" amid his push to keep the U.S. in the lead on artificial intelligence development after warnings from the technology's researchers. The task force will be led by Director of National Intelligence Jay Clayton, whom The Wall Street Journal reported is expected to be named...",
-   "published": "2026-10-04T14:14:23+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-04T15:23:46.461578+00:00"
-  },
-  {
-   "id": "234cf8cf6a949a87",
-   "title": "JD Vance flexing Maha connections as he eyes 2028 election",
-   "url": "https://www.theguardian.com/us-news/2026/oct/04/jd-vance-maha-2028-election",
-   "summary": "Considered Republican frontrunner for presidential election, Vance is cozying up to the movement \u2013 as it splitsJD Vance, widely considered to be the Republican frontrunner for the presidential election in 2028, is aligning himself with the Make America Healthy Again (Maha) movement as some say it is shedding its grassroots supporters in favor of political and corporate interests.The US vice-president has positioned himself as the inheritor of Make America Great Again (Maga), and attaching himself to Maha, which many in the Trump administration believe helped to win the 2024 election, signals a",
-   "published": "2026-10-04T14:00:32+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-10-04T15:23:46.367703+00:00"
-  },
-  {
-   "id": "18c6ba2e33d16ee2",
-   "title": "Before Cornell turmoil, successive US administrations seesawed in attitudes towards campus assaults",
-   "url": "https://www.theguardian.com/law/2026/oct/04/cornell-campus-sexual-assault-political-administrations",
-   "summary": "Democratic and Republican administrations have taken different tacks in addressing campus sexual assaultAmid renewed concerns about sexual assault on US college campuses following allegations that a student was gang-raped at a Cornell University fraternity, the Trump administration last week formally reversed measures from recent Democratic presidents concerning how schools should investigate such claims.A federal judge had already in January 2025 struck down Biden-era regulations that expanded Title IX, the federal law prohibiting sex discrimination in education. The Democratic president trie",
-   "published": "2026-10-04T14:00:31+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-10-04T15:23:46.367710+00:00"
-  },
-  {
-   "id": "9dcbaaab940e582d",
-   "title": "Trump names intelligence chief Jay Clayton as new White House AI czar",
-   "url": "https://www.theguardian.com/us-news/2026/oct/04/trump-jay-clayton-white-house-ai-czar",
-   "summary": "Calyton said AI was a \u2018gamechanger\u2019 but it also posed \u2018a threat\u2019 during his DNI Senate confirmation hearing Donald Trump on Sunday named Jay Clayton, the director of national intelligence, to serve also as the new White House AI czar.Clayton, who leads the US\u2019s 18 intelligence agencies, previously served as the top federal prosecutor in Manhattan and led the Securities and Exchange Commission during Trump\u2019s first term. Continue reading...",
-   "published": "2026-10-04T13:44:50+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-10-04T15:23:46.367733+00:00"
-  },
-  {
-   "id": "ac8112f85c0536a9",
-   "title": "Jon Gruden fires up Trump rally crowd in Ohio as if delivering a locker room speech then delivers endorsement",
-   "url": "https://www.foxnews.com/outkick-sports/jon-gruden-fires-trump-rally-crowd-ohio-locker-room-speech-endorsement",
-   "summary": "Jon Gruden took the stage at Trump&apos;s Ohio rally to endorse former University of Dayton teammate Jon Husted, urging the crowd to vote early Tuesday.",
-   "published": "2026-10-04T13:27:43+00:00",
-   "source": "Fox News Latest",
-   "source_id": "foxnews-latest",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-10-04T15:23:45.874106+00:00"
-  },
-  {
-   "id": "b242f078c4533a7d",
-   "title": "Cornell president promises reforms after alleged gang rape",
-   "url": "https://thehill.com/homenews/education/6128142-cornell-president-promises-reforms/",
-   "summary": "Cornell University President Michael Kotlikoff on Saturday promised reforms at his school in the wake of allegations of a gang rape that put the university in the national spotlight. \u201cI believe we, as an administration, and we as a community, must do better. We must do everything we can to prevent what happened to Jane...",
-   "published": "2026-10-04T13:13:35+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-04T15:23:46.461599+00:00"
-  },
-  {
-   "id": "b84555c58b177f55",
-   "title": "Dems hand GOP fresh midterm weapon by opposing widely used voter ID",
-   "url": "https://www.foxnews.com/politics/dems-hand-gop-fresh-midterm-weapon-opposing-widely-used-voter-id",
-   "summary": "Senate Democrats blocked a voter ID and insider trading ban bill as Chuck Schumer&apos;s caucus faces accusations from Republicans of denying Trump a win.",
-   "published": "2026-10-04T13:00:56+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-10-04T15:23:45.835282+00:00"
-  },
-  {
-   "id": "d5427239318f631f",
-   "title": "Trump launching 'Super Intelligence Force' to ensure American dominance",
-   "url": "https://www.foxnews.com/politics/trump-launching-super-intelligence-force-ensure-american-dominance",
-   "summary": "President Donald Trump said his new &quot;Super Intelligence Force&quot; will engage tech companies, religious groups and infrastructure providers to lead in superintelligence.",
-   "published": "2026-10-04T12:44:52+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-10-04T15:23:45.835290+00:00"
-  },
-  {
-   "id": "30128293e6490aac",
-   "title": "Live updates: Trump set for Nebraska trip after Ohio rally; Alito, Cornell victim's attorney to appear on Sunday shows",
-   "url": "https://thehill.com/homenews/administration/6127907-trump-nebraska-gop-midterms-cornell-case-alito/",
-   "summary": "President Trump held a rally in a Dayton, Ohio-area suburb on Saturday night, where he promised a GOP win in the midterm elections. The rally was part of a red state swing for the president, with just a month to go before the midterms as recent polling shows promising signs for Democrats in their quest...",
-   "published": "2026-10-04T12:43:56+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-04T15:23:46.461602+00:00"
-  },
-  {
-   "id": "b812338b4679d031",
-   "title": "Trump vows GOP midterm victory: 'We're going to shove it up their a--'",
-   "url": "https://thehill.com/homenews/campaign/6128086-trump-vows-gop-win-midterms/",
-   "summary": "President Trump on Saturday pressed his supporters to go to the polls for next month\u2019s midterms, promising a \u201cbig\u201d GOP victory if they do so. \u201cYou got to get out and vote. You got to get out. You got to vote for these guys,\u201d Trump told a crowd of supporters at a rally in Ohio...",
-   "published": "2026-10-04T12:18:08+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-04T15:23:46.461606+00:00"
-  },
-  {
-   "id": "46b1dcfefc5074ef",
-   "title": "Politics chat: Midterm polls, Senate races, Trump in Texas",
-   "url": "https://www.npr.org/2026/10/04/nx-s1-5985905/politics-chat-midterm-polls-senate-races-trump-in-texas",
-   "summary": "As polls come out with increasing frequency closer to the midterm election, how much credence should voters give them? Meanwhile, President Trump continues campaigning for GOP candidates.",
-   "published": "2026-10-04T12:06:04+00:00",
-   "source": "NPR Politics",
-   "source_id": "npr-politics",
-   "bias_note": "center",
-   "first_seen": "2026-10-04T15:23:46.293051+00:00"
-  },
-  {
-   "id": "e4a1a50ddc81c785",
-   "title": "GOP rising star helped topple Trump-backed incumbent. Now he's caught leadership's eye",
-   "url": "https://www.foxnews.com/politics/gop-rising-star-helped-topple-trump-backed-incumbent-now-hes-caught-leaderships-eye",
-   "summary": "Mike Haridopolos is emerging as a behind-the-scenes force on the East Coast, helping secure billions for NASA and Kennedy Space Center&apos;s future.",
-   "published": "2026-10-04T12:00:36+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-10-04T15:23:45.835299+00:00"
-  },
-  {
-   "id": "6b2ef6d7495dd52e",
-   "title": "Congressional hearings are no longer a check on power \u2014 they're now a circus",
-   "url": "https://thehill.com/opinion/congress-blog/6126730-congressional-oversight-deteriorates-partisan/",
-   "summary": "Unfortunately, despite a vast expansion of executive branch authority, Congress seems prepared to let partisan advantage trump comity, cooperation and the public\u2019s right to know. And with Republicans now controlling Congress and the White House, reform seems out of reach.",
-   "published": "2026-10-04T12:00:00+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-04T15:23:46.461610+00:00"
-  },
-  {
-   "id": "4b080b2f9692df15",
-   "title": "Trump says polls 'don't account for one thing,' as he pledges to defeat communists 'once and for all'",
-   "url": "https://www.foxnews.com/politics/trump-says-polls-dont-account-one-thing-pledges-defeat-communists-once-all",
-   "summary": "President Donald Trump told a cheering Dayton, Ohio, rally crowd that polls don&apos;t account for him campaigning as Republicans face a tough House path.",
-   "published": "2026-10-04T11:25:22+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-10-04T15:23:45.835302+00:00"
   }
  ]
 }
