@@ -1,7 +1,205 @@
 {
- "updated": "2026-10-18T15:55:24.562574+00:00",
- "count": 973,
+ "updated": "2026-10-18T18:40:03.419633+00:00",
+ "count": 982,
  "articles": [
+  {
+   "id": "f3a5ffeba5b8f1e8",
+   "title": "Trump endorses embattled Israeli Prime Minister Benjamin Netanyahu for reelection",
+   "url": "https://abcnews.com/Politics/wireStory/trump-endorses-embattled-israeli-prime-minister-benjamin-netanyahu-137361719",
+   "summary": "President Donald Trump has endorsed embattled Israeli Prime Minister Benjamin Netanyahu for late in his reelection campaign",
+   "published": "2026-10-18T18:10:17+00:00",
+   "source": "ABC News Politics",
+   "source_id": "abc-politics",
+   "bias_note": "center",
+   "first_seen": "2026-10-18T18:40:03.139992+00:00"
+  },
+  {
+   "id": "40de10380ebe47a2",
+   "title": "Tim Walz says he takes responsibility for Minnesota fraud by not running for re-election",
+   "url": "https://www.foxnews.com/media/tim-walz-takes-responsibility-minnesota-fraud-not-running-re-election-scandal-gift-gop",
+   "summary": "Tim Walz says he decided not to seek re-election over Minnesota&apos;s fraud scandal, calling it a &quot;gift&quot; to Republicans seeking to cut social programs.",
+   "published": "2026-10-18T18:00:49+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-10-18T18:40:01.778329+00:00"
+  },
+  {
+   "id": "7a3504851844ffc3",
+   "title": "I worked for 3 White House press secretaries \u2014 here's some advice for the next one",
+   "url": "https://thehill.com/opinion/white-house/6155486-lessons-jim-brady-reagan-white-house/",
+   "summary": "Former Reagan White House staffer Mark Weinberg offers advice to the incoming U.S. press secretary by reflecting on the lessons learned from predecessors Jim Brady, Larry Speakes, and Marlin Fitzwater.",
+   "published": "2026-10-18T18:00:00+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-18T18:40:02.560055+00:00"
+  },
+  {
+   "id": "06d0ca949da7a32f",
+   "title": "Trump announces plan for new East Potomac Links golf course",
+   "url": "https://thehill.com/policy/energy-environment/6156714-trump-plans-east-potomac-golf/",
+   "summary": "President Trump on Sunday announced a plan for a new golf course at East Potomac Park in Washington, D.C. \u201cI am pleased to announce that the Department of the Interior, under the auspices of Secretary Doug Burgum, and in conjunction with famed Golf Course Architect, Tom Fazio, has developed a plan to build a World...",
+   "published": "2026-10-18T17:58:45+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-18T18:40:02.560066+00:00"
+  },
+  {
+   "id": "7fa2074a6584cf33",
+   "title": "Zelensky says 'of course' Ukraine trusts the US, hopes Trump will 'change his decisions'",
+   "url": "https://thehill.com/policy/international/6156570-zelensky-hopes-trump-changes-decision/",
+   "summary": "Ukrainian President Volodymyr Zelensky on Sunday said \"of course\" his country trusts the U.S. but hopes President Trump will \"change his decisions\" after greenlighting a diesel deal with Russia. \"Of course we trust America,\" he told \"Meet the Press\" host Kristen Welker on NBC News. \"We trust bipartisan support and we trust President of the...",
+   "published": "2026-10-18T17:55:18+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-18T18:40:02.560070+00:00"
+  },
+  {
+   "id": "d1f88b857072b534",
+   "title": "Live updates: Obama condemns Omar investigation; Ukraine attacks St Petersburg oil depot",
+   "url": "https://thehill.com/homenews/administration/6156403-live-updates-ukraine-attacks-st-petersburg-oil-depot/",
+   "summary": "Former President Obama has weighed in on the federal government\u2019s criminal investigation into Rep. Ilhan Omar (D-Minn.) over accusations of immigration fraud, accusing the Trump administration of targeting its political opponents. His remarks come nearly a week after federal agents raided Omar\u2019s Washington, D.C., home and seized her phone as part of a criminal investigation...",
+   "published": "2026-10-18T17:23:04+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-18T18:40:02.560076+00:00"
+  },
+  {
+   "id": "f16ebbf1b4463c1a",
+   "title": "Wright says Trump administration has not broken promise to lower gas prices amid Iran war",
+   "url": "https://thehill.com/policy/energy-environment/6156548-wright-defends-gas-prices/",
+   "summary": "Energy Secretary Chris Wright on Sunday said the Trump administration has not broken its promise to lower gas prices as the Iran war stretches into its eighth month. CNN's Dana Bash asked Wright on \"State of the Union\" about his predictions early in the conflict that gas prices would decline \"within weeks, not months,\" and,...",
+   "published": "2026-10-18T17:18:52+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-18T18:40:02.560079+00:00"
+  },
+  {
+   "id": "c9c02875c2fe36b5",
+   "title": "Trump \u2018border czar\u2019 says Ilhan Omar could be \u2018of course\u2019 denaturalized and deported",
+   "url": "https://www.theguardian.com/us-news/2026/oct/18/tom-homan-trump-ilhan-omar-citizenship-deportation",
+   "summary": "Officials allege congresswoman, whose home was raided by federal agents, or family violated law to obtain citizenshipTom Homan, Donald Trump\u2019s \u201cborder czar\u201d, has said that the Republican presidential administration could \u201cof course\u201d strip Democratic congresswoman Ilhan Omar of her citizenship and deport her.Homan\u2019s comments during a Saturday appearance on Fox News were the first remarks explicitly mentioning denaturalization and deportation in connection with Omar that were attributed by name to a top Trump administration official since federal agents raided the Minnesota US House representati",
+   "published": "2026-10-18T17:16:02+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-10-18T18:40:02.266732+00:00"
+  },
+  {
+   "id": "c2fc4d740341b2c4",
+   "title": "Slotkin wants GOP prosecutions to deter young people from Trump administration jobs",
+   "url": "https://www.foxnews.com/politics/slotkin-wants-gop-prosecutions-deter-young-people-trump-administration-jobs",
+   "summary": "Elissa Slotkin said she wants young people to fear legal problems before joining the Trump administration, sparking fierce online backlash..",
+   "published": "2026-10-18T17:04:11+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-10-18T18:40:01.751431+00:00"
+  },
+  {
+   "id": "1ef3e9b53171958f",
+   "title": "Bessent: Zelensky 'should be careful' with 'reckless' comments that US slowed down Starlink",
+   "url": "https://thehill.com/policy/defense/6156614-bessent-warns-zelensky-starlink/",
+   "summary": "Treasury Secretary Scott Bessent said Sunday that Ukrainian President Volodymyr Zelensky \u201cshould be careful\u201d with \u201creckless\u201d comments about the U.S. slowing down Starlink. \u201cPresident Trump and Secretary [of State Marco] Rubio have categorically said that no one in the Trump administration did that. And I think it is very reckless for President Zelensky to make...",
+   "published": "2026-10-18T16:48:46+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-18T18:40:02.560094+00:00"
+  },
+  {
+   "id": "ebc00dd6259fa59c",
+   "title": "Trump says he will close historic D.C. golf course for 15 months of renovations",
+   "url": "https://www.pbs.org/newshour/politics/trump-says-he-will-close-historic-d-c-golf-course-for-15-months-of-renovations",
+   "summary": "A judge last week, however, ordered a halt to his redevelopment plans until at least Oct. 26 after scolding the government for starting a large-scale tree removal at the course over a holiday weekend while providing little notice to the court or the plaintiffs trying to stop the makeover.",
+   "published": "2026-10-18T16:46:41+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-10-18T18:40:02.713894+00:00"
+  },
+  {
+   "id": "457b25aff0842f0e",
+   "title": "Trump says Netanyahu needs to be re-elected, or else US will have to 'finish the job\u2019 against Iran alone",
+   "url": "https://www.foxnews.com/politics/trump-says-netanyahu-needs-reelected-else-us-finish-job-against-iran-alone",
+   "summary": "Trump called Benjamin Netanyahu a &quot;great warrior&quot; and urged Israeli voters to back Likud in the Oct. 27 Knesset elections amid the war on Iran.",
+   "published": "2026-10-18T16:42:02+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-10-18T18:40:01.751440+00:00"
+  },
+  {
+   "id": "c656ecc3f3ddd158",
+   "title": "Zelenskyy thanks Trump for resumed intelligence sharing after US Starlink \u2018message\u2019",
+   "url": "https://www.theguardian.com/world/2026/oct/18/killed-injured-russia-ukraine-strikes-power-infrastructure",
+   "summary": "Two people killed and at least 17 injured as Russia and Ukraine continue to trade strikes on power infrastructureVolodymyr Zelenskyy on Sunday thanked the Trump administration for resuming intelligence sharing between the two countries, but maintained the US had intentionally throttled its Starlink satellite internet access so that Donald Trump could send a \u201cmessage\u201d in his ongoing feud with the Ukrainian president.In an interview on NBC, Zelenskyy said the US had \u201cunblocked\u201d intelligence on impending Russian ballistic missile strikes, which have pounded the country\u2019s energy infrastructure as ",
+   "published": "2026-10-18T16:37:52+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-10-18T18:40:02.266767+00:00"
+  },
+  {
+   "id": "aec8a42852197a6b",
+   "title": "Obama: Omar investigation should \u2018outrage all Americans\u2019",
+   "url": "https://thehill.com/homenews/administration/6156602-obama-trump-targets-omar-probe/",
+   "summary": "Former President Obama has weighed in on the federal government\u2019s criminal investigation into Rep. Ilhan Omar (D-Minn.) over accusations of immigration fraud, accusing the Trump administration of targeting its political opponents. In a lengthy post on the social platform X, Obama claimed the probe was an attempt to strip Omar of her U.S. citizenship and...",
+   "published": "2026-10-18T16:35:11+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-18T18:40:02.560099+00:00"
+  },
+  {
+   "id": "13ae2790ff73703d",
+   "title": "Nicola Jennings on Trump\u2019s new White House press secretary \u2013 cartoon",
+   "url": "https://www.theguardian.com/commentisfree/picture/2026/oct/18/nicola-jennings-donald-trump-new-white-house-press-secretary-cartoon",
+   "summary": "Continue reading...",
+   "published": "2026-10-18T16:28:31+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-10-18T18:40:02.266788+00:00"
+  },
+  {
+   "id": "16ae84244711cb52",
+   "title": "Bernie Sanders admits Democrats failed working-class voters on economics, driving them to Donald Trump",
+   "url": "https://www.foxnews.com/media/bernie-sanders-admits-democrats-failed-working-class-voters-economics-driving-donald-trump",
+   "summary": "The Vermont senator pointed to trade deals that cost millions of manufacturing jobs as a key reason for voter disillusionment.",
+   "published": "2026-10-18T16:25:35+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-10-18T18:40:01.778435+00:00"
+  },
+  {
+   "id": "7488f5655fb7c89d",
+   "title": "Trump endorses embattled Israeli Prime Minister Benjamin Netanyahu for reelection",
+   "url": "https://www.pbs.org/newshour/politics/trump-endorses-embattled-israeli-prime-minister-benjamin-netanyahu-for-reelection",
+   "summary": "Israelis are set to vote Oct. 27, in the first national elections since Hamas attacked Israel on Oct. 7, 2023.",
+   "published": "2026-10-18T16:18:14+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-10-18T18:40:02.713900+00:00"
+  },
+  {
+   "id": "237b3c9863ed23f4",
+   "title": "Pence calls on Trump to restore sanctions, scrap Russia diesel deal",
+   "url": "https://thehill.com/homenews/administration/6156538-pence-condemns-trump-putin-agreement/",
+   "summary": "Former Vice President Mike Pence on Sunday called for President Trump to restore sanctions on Russia and condemned his recent diesel agreement with President Vladimir Putin.\u00a0 \u201cPresident Trump\u2019s decision to waive sanctions against Russia as Putin continues his brutal war of aggression against Ukraine dishonors the legacy of the late Senator Lindsey Graham and is...",
+   "published": "2026-10-18T16:01:18+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-18T18:40:02.560104+00:00"
+  },
   {
    "id": "3d4a49c03b1bec33",
    "title": "Trump endorses Netanyahu ahead of Israeli elections",
@@ -10605,105 +10803,6 @@
    "source_id": "foxnews-politics",
    "bias_note": "right-leaning",
    "first_seen": "2026-10-04T19:40:51.683879+00:00"
-  },
-  {
-   "id": "e3b234ade77f0d87",
-   "title": "Trump names national intelligence chief Jay Clayton as new AI czar",
-   "url": "https://www.npr.org/2026/10/04/nx-s1-5990781/jay-clayton-ai-czar-trump",
-   "summary": "Trump said Clayton will lead the White House's new \"Super Intelligence Force,\" which will coordinate government engagement with artificial intelligence.",
-   "published": "2026-10-04T18:36:48+00:00",
-   "source": "NPR Politics",
-   "source_id": "npr-politics",
-   "bias_note": "center",
-   "first_seen": "2026-10-04T19:40:52.114313+00:00"
-  },
-  {
-   "id": "531837e8865035c9",
-   "title": "Photos show elections in Brazil where Lula faces Trump ally Fl\u00e1vio Bolsonaro for president",
-   "url": "https://abcnews.com/Politics/wireStory/photos-show-elections-brazil-lula-faces-trump-ally-136988359",
-   "summary": "Brazilians vote Sunday as President Luiz In&aacute;cio Lula da Silva seeks a fourth term against Sen. Fl&aacute;vio Bolsonaro, son of former President Jair Bolsonaro. An Oct. 25 runoff follows if no candidate wins more than 50% of valid votes.",
-   "published": "2026-10-04T18:34:21+00:00",
-   "source": "ABC News Politics",
-   "source_id": "abc-politics",
-   "bias_note": "center",
-   "first_seen": "2026-10-04T19:40:54.690004+00:00"
-  },
-  {
-   "id": "0e8529ae7d177ba2",
-   "title": "Emanuel urges Democrats to prioritize ethics reform over potential third Trump impeachment",
-   "url": "https://thehill.com/homenews/campaign/6128366-emanuel-pushes-democrats-ethics-reform/",
-   "summary": "Former Chicago Mayor Rahm Emanuel (D) on Sunday pushed Democrats to focus on ethics reform instead of a third impeachment of President Trump if they win back power in Congress after the midterm elections. \u201cI'm for the investigations. Hold this administration accountable, which is what the Republican Congress and Senate has refused to do, which...",
-   "published": "2026-10-04T18:09:38+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-04T19:40:53.745402+00:00"
-  },
-  {
-   "id": "f9eddeb0cf4a4924",
-   "title": "Latino voters swing back to Democrats ahead of midterm elections: poll",
-   "url": "https://www.foxnews.com/politics/latino-voters-swing-back-democrats-ahead-midterm-elections-poll",
-   "summary": "NBC News polling shows 69% of Latino voters disapprove of Trump as Democrats hold a 24-point edge ahead of the 2026 midterm elections races.",
-   "published": "2026-10-04T16:32:55+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-10-04T19:40:51.683895+00:00"
-  },
-  {
-   "id": "48574409dcb0f73f",
-   "title": "Trump names national intelligence director Jay Clayton to lead a new federal AI task force",
-   "url": "https://www.pbs.org/newshour/politics/trump-names-national-intelligence-director-jay-clayton-to-lead-a-new-federal-ai-task-force",
-   "summary": "The announcement comes after Trump hosted top executives of AI companies at the White House last week and said they had signed a voluntary accord that would effectively self-police the development of the technology.",
-   "published": "2026-10-04T16:31:42+00:00",
-   "source": "PBS NewsHour Politics",
-   "source_id": "pbs-politics",
-   "bias_note": "center",
-   "first_seen": "2026-10-04T19:40:54.036374+00:00"
-  },
-  {
-   "id": "7659c5f2c01b776b",
-   "title": "Alito on Trump's praise of him, criticism of fellow justices: 'I put all of that out of my mind'",
-   "url": "https://thehill.com/regulation/court-battles/6128234-alito-fox-news-interview-trump/",
-   "summary": "Supreme Court Justice Samuel Alito said in a rare televised interview Sunday on Fox News that he tries not to pay too much attention to President Trump's frequent praise of him \u2014 and recent criticism of some of his fellow justices on the bench. \"I put all of that out of my mind. I trust...",
-   "published": "2026-10-04T16:15:23+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-04T19:40:53.745428+00:00"
-  },
-  {
-   "id": "fd774a90ec8e1280",
-   "title": "\u2018Phantom\u2019 Obamacare accounts spark new crackdown as Oz targets broker fraud",
-   "url": "https://www.foxnews.com/politics/phantom-obamacare-accounts-spark-new-crackdown-oz-targets-broker-fraud",
-   "summary": "CMS Administrator Dr. Mehmet Oz says 1.1 million Obamacare recipients lacked social security numbers as 750,000 phantom accounts are terminated.",
-   "published": "2026-10-04T16:00:25+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-10-04T19:40:51.683900+00:00"
-  },
-  {
-   "id": "254dbe5997e3447b",
-   "title": "Your child may have been automatically enrolled for a Trump account: What to know",
-   "url": "https://thehill.com/business/personal-finance/6124370-your-child-may-have-been-automatically-enrolled-for-a-trump-account-what-to-know/",
-   "summary": "More than 60 million children have now been auto-enrolled in Trump accounts, according to the administration.",
-   "published": "2026-10-04T16:00:00+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-04T19:40:53.745439+00:00"
-  },
-  {
-   "id": "c630b7faa604e2dc",
-   "title": "Supreme Court opens new term with shaky Trump relationship",
-   "url": "https://thehill.com/regulation/court-battles/6127197-supreme-court-new-term-trump/",
-   "summary": "The Supreme Court justices return to the bench Monday for their new term, and their docket is already filling up with new confrontations on President Trump\u2019s immigration agenda, among other major cases. The term begins at a moment when the court\u2019s public approval stands near record lows and in the shadow of a\u00a0fraught relationship between Trump...",
-   "published": "2026-10-04T16:00:00+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-04T19:40:53.745442+00:00"
   }
  ]
 }
