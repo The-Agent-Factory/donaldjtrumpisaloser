@@ -1,7 +1,117 @@
 {
- "updated": "2026-10-18T18:40:03.419633+00:00",
- "count": 982,
+ "updated": "2026-10-18T22:27:12.829257+00:00",
+ "count": 984,
  "articles": [
+  {
+   "id": "944f39f3a671f7d8",
+   "title": "Trump says DC golf course \u2018restoration\u2019 to start despite judge\u2019s order to pause plans",
+   "url": "https://www.theguardian.com/us-news/2026/oct/18/trump-dc-golf-course-renovation",
+   "summary": "Judge orders government to notify her by 8pm ET Sunday whether its position changed from Friday\u2019s court filing Donald Trump posted on Truth Social on Sunday that \u201crestoration work will begin\u201d on 15 November to a historic public golf course in Washington DC despite a federal judge\u2019s court order to pause his plans over environmental and historic preservation concerns.US district judge Ana Reyes had ruled earlier this year that the federal government must give notice before any substantive construction work on the East Potomac golf course could proceed, and last week issued an order halting the r",
+   "published": "2026-10-18T21:44:21+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-10-18T22:27:11.566385+00:00"
+  },
+  {
+   "id": "18b89e55738725d3",
+   "title": "Bessent says there was no sanctions relief for Russia after U.S. diesel deal",
+   "url": "https://thehill.com/homenews/administration/6156573-bessent-refutes-sanctions-relief/",
+   "summary": "Treasury Secretary Scott Bessent on Sunday said President Trump did not provide Russia with sanctions relief by waiving sanctions against Russia set to take effect soon, after signing off on a deal that allows Russia to permit diesel into the U.S. and global marketplace. NBC News's Kristen Welker on \"Meet the Press\" pressed Bessent on...",
+   "published": "2026-10-18T21:05:37+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-18T22:27:11.925729+00:00"
+  },
+  {
+   "id": "cc7729738f3f655c",
+   "title": "Congress reacts to executive order exempting Russia from economic sanctions",
+   "url": "https://www.npr.org/2026/10/18/nx-s1-6007363/congress-reacts-to-executive-order-exempting-russia-from-economic-sanctions",
+   "summary": "NPR's Eric McDaniel reports on how Congress has reacted to President Trump's executive order exempting Russia from economic sanctions.",
+   "published": "2026-10-18T21:00:11+00:00",
+   "source": "NPR Politics",
+   "source_id": "npr-politics",
+   "bias_note": "center",
+   "first_seen": "2026-10-18T22:27:11.429251+00:00"
+  },
+  {
+   "id": "95690deffcbaff8c",
+   "title": "With Ken Paxton's race faltering, GOP looks for someone to blame",
+   "url": "https://thehill.com/homenews/campaign/6155048-ken-paxton-republicans-texas-senate-race-trump/",
+   "summary": "Texas's Senate race is devolving into a blame game among Republicans weeks out from Election Day as the party's nominee Ken Paxton faces a stream of negative headlines and Democrats grow increasingly confident about flipping the state.   Republican tensions spilled into the public on Thursday when President Trump lashed out at incumbent Sen. John Cornyn (R-Texas) and...",
+   "published": "2026-10-18T21:00:00+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-18T22:27:11.925736+00:00"
+  },
+  {
+   "id": "b834476079a19dcf",
+   "title": "This Week on the Hill: Michigan Senate debate, Trump rallies and Obama hits the trail",
+   "url": "https://thehill.com/newsletters/this-week-on-the-hill/6155364-trump-obama-midterm-election-rallies-debates/",
+   "summary": "With just more than two weeks until Election Day, candidates are stepping up their campaigns in a final push to win over voters. In Michigan, Democratic progressive Senate candidate Abdul El-Sayed and former Republican Rep. Mike Rogers are set to face off Wednesday in a televised debate, hosted by WXYZ-TV. The two candidates are competing...",
+   "published": "2026-10-18T21:00:00+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-18T22:27:11.925738+00:00"
+  },
+  {
+   "id": "0700e1f4920ee09c",
+   "title": "Latino voters helped put Trump back in the White House. What's their next move?",
+   "url": "https://www.pbs.org/newshour/politics/latino-voters-helped-put-trump-back-in-the-white-house-whats-their-next-move",
+   "summary": "The path to a U.S. House majority runs through heavily Latino districts in states such as Arizona, Colorado and Texas, where Democrats are counting on disaffected Trump supporters to swing back their way.",
+   "published": "2026-10-18T20:46:52+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-10-18T22:27:12.104657+00:00"
+  },
+  {
+   "id": "9556235eaaa2a804",
+   "title": "Mulvaney predicts Wiles is in a 'powerful place' in the White House but will leave after midterms",
+   "url": "https://thehill.com/homenews/administration/6156830-mulvaney-expects-wiles-departure/",
+   "summary": "Former White House chief of staff Mick Mulvaney said he expects current chief of staff Susie Wiles to leave her post after the midterm elections, but her departure would be on her own terms after reports suggested she may have lost President Trump\u2019s confidence. \u201cIf she leaves, and I think she probably will, it\u2019s not...",
+   "published": "2026-10-18T19:49:47+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-18T22:27:11.925760+00:00"
+  },
+  {
+   "id": "84198dad12ea7aca",
+   "title": "Rubio heads to Central Asia as some wonder if he's keeping the most pressing matters at a distance",
+   "url": "https://www.pbs.org/newshour/politics/rubio-heads-to-central-asia-as-some-wonder-if-hes-keeping-the-most-pressing-matters-at-a-distance",
+   "summary": "This tour is intended to promote U.S. economic and security ties with Central and South Asia. But it has only tangential links to the Trump administration's current main foreign policy dilemmas in the Middle East and with the Russia-Ukraine war.",
+   "published": "2026-10-18T19:49:23+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-10-18T22:27:12.104662+00:00"
+  },
+  {
+   "id": "f1da54f82d32dfa0",
+   "title": "Bessent: Dropping oil prices before 2026 ends 'will depend' on Iran conflict",
+   "url": "https://thehill.com/policy/energy-environment/6156572-bessent-oil-prices-iran-conflict/",
+   "summary": "Treasury Secretary Scott Bessent said Sunday that oil prices could go down before the end of the year, but it will depend on the Iran war. NBC News's \"Meet the Press\" host Kristen Welker asked Bessent about the chances of lower prices by the start of 2027, adding President Trump's assertion that \"this is his...",
+   "published": "2026-10-18T18:58:55+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-18T22:27:11.925763+00:00"
+  },
+  {
+   "id": "d7b46c2fb274b1e6",
+   "title": "Homan says Ilhan Omar could be stripped of naturalization, deported if immigration fraud is proven",
+   "url": "https://www.foxnews.com/media/homan-says-ilhan-omar-could-stripped-naturalization-deported-immigration-fraud-proven",
+   "summary": "Border czar Tom Homan says Ilhan Omar could face denaturalization and deportation if it is confirmed she committed immigration fraud.",
+   "published": "2026-10-18T18:43:40+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-10-18T22:27:10.743581+00:00"
+  },
   {
    "id": "f3a5ffeba5b8f1e8",
    "title": "Trump endorses embattled Israeli Prime Minister Benjamin Netanyahu for reelection",
@@ -10715,94 +10825,6 @@
    "source_id": "guardian-uspolitics",
    "bias_note": "left-leaning",
    "first_seen": "2026-10-05T05:48:50.157414+00:00"
-  },
-  {
-   "id": "46cead8e2d70358c",
-   "title": "North Korea missile could put Guam in range as Kim rebuffs Trump outreach: expert",
-   "url": "https://www.foxnews.com/world/north-korea-missile-could-put-guam-range-kim-rebuffs-trump-outreach-expert",
-   "summary": "North Korea&apos;s intermediate-range missile test puts Guam and parts of Alaska within range, an expert says, as President Trump touts his relationship with Kim Jong Un.",
-   "published": "2026-10-04T21:08:50+00:00",
-   "source": "Fox News Latest",
-   "source_id": "foxnews-latest",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-10-04T23:14:38.316409+00:00"
-  },
-  {
-   "id": "83bb1df5a70f1e96",
-   "title": "Trump takes red state midterm blitz to Nebraska as GOP frets over Senate race",
-   "url": "https://thehill.com/homenews/campaign/6127091-trump-nebraska-senate-rally-ricketts-osborn/",
-   "summary": "President Trump is headed to deep-red Nebraska as Republicans ready for a close Senate race against independent Dan Osborn, who\u2019s backed by Democrats aiming to keep the seat out of GOP hands. Incumbent Sen. Pete Ricketts (R-Neb.), who won the 2024 special election to fill out the remainder of former Sen. Ben Sasse\u2019s (R-Neb.) term,...",
-   "published": "2026-10-04T21:00:00+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-04T23:14:38.688604+00:00"
-  },
-  {
-   "id": "4ea6be05a8979a92",
-   "title": "Democratic rep: Administration 'has failed to present a strategy' in Iran war",
-   "url": "https://thehill.com/homenews/house/6128484-schneider-criticizes-trump-iran-strategy/",
-   "summary": "Democratic Rep. Brad Schneider (Ill.) on Sunday criticized the Trump administration\u2019s handling of the Iran war, saying officials have not explained their strategy for the conflict. \u201cWe need to explain to the American people what the goals are in trying to prevent, and we have to prevent Iran from ever getting a nuclear weapon, but...",
-   "published": "2026-10-04T20:53:23+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-04T23:14:38.688612+00:00"
-  },
-  {
-   "id": "5ed0a015388f4f9d",
-   "title": "Ivanka Trump reflects on 'incredibly special' family milestone spanning 4 generations",
-   "url": "https://www.foxnews.com/lifestyle/ivanka-trump-reflects-incredibly-special-family-milestone-spanning-4-generations",
-   "summary": "Ivanka Trump shared details and sentiments from her grandmother Marie Zeln\u00ed\u010dkov\u00e1&apos;s 100th birthday celebration as four generations gathered at her Miami home.",
-   "published": "2026-10-04T20:33:55+00:00",
-   "source": "Fox News Latest",
-   "source_id": "foxnews-latest",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-10-04T23:14:38.316425+00:00"
-  },
-  {
-   "id": "464d449c59d00cff",
-   "title": "Trump's 2024 support from Hispanic voters dips in new poll",
-   "url": "https://thehill.com/homenews/administration/6128414-trump-hispanic-support-plummeted/",
-   "summary": "President Trump\u2019s support among Hispanic voters has plummeted from 2024, according to a new poll. Just 27 percent of 800 Hispanic respondents to the NBC News/Telemundo survey approved of Trump, while 69 percent disapproved of the president. Nearly 6 in 10 Hispanic voters disapproved of Trump\u2019s handling of border security, and almost 7 in 10...",
-   "published": "2026-10-04T19:40:20+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-04T23:14:38.688629+00:00"
-  },
-  {
-   "id": "24909fe071b6efe7",
-   "title": "Trump\u2019s gains among Latino voters slip ahead of midterms",
-   "url": "https://www.politico.com/news/2026/10/04/trump-latino-voters-slip-midterms-01106273",
-   "summary": "New polls show Democrats ahead among Latino voters as Trump draws low marks on the economy and immigration enforcement.",
-   "published": "2026-10-04T19:37:09+00:00",
-   "source": "Politico",
-   "source_id": "politico",
-   "bias_note": "center",
-   "first_seen": "2026-10-04T19:40:52.520831+00:00"
-  },
-  {
-   "id": "5cfdb468c01ed202",
-   "title": "Trump shares meme labeling Obama, not Nixon, as 'most corrupt president'",
-   "url": "https://thehill.com/homenews/administration/6128392-trump-compares-obama-nixon-corruption/",
-   "summary": "President Trump on Sunday continued his pattern of blasting former President Obama, sharing a meme stating that he, not former President Nixon, was the country\u2019s \u201cmost corrupt\u201d president. Trump posted a split screen of Obama and Nixon\u2019s presidential portraits to Truth Social, with the photo including the caption, \u201cOne of these men is the most...",
-   "published": "2026-10-04T19:11:23+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-04T19:40:53.745397+00:00"
-  },
-  {
-   "id": "5a09509ca3e9e436",
-   "title": "Rahm Emanuel urges Dems not to impeach Trump if they win the House",
-   "url": "https://www.foxnews.com/politics/rahm-emanuel-urges-dems-not-impeach-trump-win-house",
-   "summary": "Rahm Emanuel warns Democrats against impeaching Trump if they win the House, pushing for a comprehensive ethics package instead of a &quot;food fight.&quot;",
-   "published": "2026-10-04T18:45:01+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-10-04T19:40:51.683879+00:00"
   }
  ]
 }
