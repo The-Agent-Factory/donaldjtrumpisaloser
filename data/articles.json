@@ -1,7 +1,150 @@
 {
- "updated": "2026-10-19T17:22:03.442182+00:00",
- "count": 996,
+ "updated": "2026-10-19T19:58:41.424431+00:00",
+ "count": 997,
  "articles": [
+  {
+   "id": "160f353a02f59b6e",
+   "title": "Trump says security cameras installed at Reflecting Pool, threatens to jail future vandals",
+   "url": "https://thehill.com/homenews/administration/6158770-trump-installs-reflecting-pool-cameras/",
+   "summary": "President Trump said security cameras have been installed at the Lincoln Memorial Reflecting Pool and warned possible future vandals they would face jail time. \u201cThis will be different, but any Vandals that try to prove the point otherwise, will GO TO JAIL! We are watching very closely, and security cameras have been installed. Reports are...",
+   "published": "2026-10-19T19:23:16+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-19T19:58:40.381631+00:00"
+  },
+  {
+   "id": "d95a845e44591297",
+   "title": "Max Miller comes out against Trump waiving Russia sanctions",
+   "url": "https://thehill.com/homenews/house/6158588-miller-opposes-trump-russia-sanctions-waiver/",
+   "summary": "Rep. Max Miller (R-Ohio) on Monday said he opposes President Trump's waiver on Russian sanctions after striking a deal with the Kremlin to permit diesel into the U.S. and global marketplace amid the energy shortage brought on by the Iran war. \"The Administration should not waive sanctions passed by Congress to punish Russia for its...",
+   "published": "2026-10-19T19:22:59+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-19T19:58:40.381637+00:00"
+  },
+  {
+   "id": "e8c07bb6cef20c76",
+   "title": "WATCH: Trump and first lady unveil new task force on women's health research",
+   "url": "https://www.pbs.org/newshour/politics/watch-trump-and-first-lady-unveil-new-task-force-on-womens-health-research",
+   "summary": "President Donald Trump on Monday directed the federal government to bolster federal research into women's health, a move pushed by his wife, first lady Melania Trump.",
+   "published": "2026-10-19T19:16:22+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-10-19T19:58:40.585695+00:00"
+  },
+  {
+   "id": "004da38f6c191a26",
+   "title": "Democratic senator: Zelensky says Ukraine doesn\u2019t have full access to Starshield, intelligence sharing",
+   "url": "https://thehill.com/homenews/senate/6158647-bipartisan-outrage-ukraine-starshield-access/",
+   "summary": "Sen. Richard Blumenthal (D-Conn.) said Ukrainian President Volodymyr Zelensky told senators Ukraine still does not have full access to the critical satellite-based Starshield network or U.S. intelligence sharing amid growing tensions with President Trump. Zelensky provided the update to a bipartisan group of senators on a call hosted by Sen. Thom Tillis (R-N.C.). \u201cJoined Senator...",
+   "published": "2026-10-19T18:58:41+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-19T19:58:40.381669+00:00"
+  },
+  {
+   "id": "c692de5228352068",
+   "title": "Mahmoud Khalil takes legal fight to Supreme Court",
+   "url": "https://thehill.com/regulation/court-battles/6158605-mahmoud-khalil-legal-fight-supreme-court-appeal/",
+   "summary": "Mahmoud Khalil, the Columbia University demonstrator who became a flash point in\u00a0the Trump administration\u2019s crackdown on pro-Palestinian foreign college students, asked the Supreme Court on Monday to take up his case, his lawyers said.\u00a0 Khalil was jailed for months last year, and he has long asserted his detention was retaliation for his protected speech.\u00a0 The...",
+   "published": "2026-10-19T18:53:54+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-19T19:58:40.381691+00:00"
+  },
+  {
+   "id": "952abfc86ac83afe",
+   "title": "DoJ charges 28 green card holders in California over alleged voter fraud",
+   "url": "https://www.theguardian.com/us-news/2026/oct/19/california-illegal-voting-charges-doj",
+   "summary": "Crackdown marks latest escalation in the Trump justice department\u2019s push to target alleged noncitizen votingThe US Department of Justice has filed criminal charges against 28 green card holders in California accused of fraudulently registering to vote and casting illegal ballots.The crackdown marks another escalation in the federal government\u2019s ongoing efforts against alleged noncitizen voting, efforts that Democrats and voting rights groups say are part of a strategy by the Trump administration to sow doubt in the results of the upcoming midterm elections. Continue reading...",
+   "published": "2026-10-19T18:52:06+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-10-19T19:58:40.134550+00:00"
+  },
+  {
+   "id": "79af0c75f429e958",
+   "title": "FEMA officials weigh changes including less DC 'centralization' and 'realigning' some staff",
+   "url": "https://thehill.com/policy/energy-environment/6158619-trump-fema-reforms/",
+   "summary": "The Trump administration is eyeing changes to the structure of the Federal Emergency Management Agency (FEMA), including less \"centralization in Washington, D.C.,\" according to two recent memos obtained by The Hill. One, sent out by FEMA Administrator Cameron Hamilton last week, said the agency \u201cmust reduce unnecessary centralization in Washington, D.C. and strengthen the roles...",
+   "published": "2026-10-19T18:45:25+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-19T19:58:40.381695+00:00"
+  },
+  {
+   "id": "ba68d55a4d408c54",
+   "title": "Jon Stewart signs on to host 'The Daily Show' through 2028",
+   "url": "https://thehill.com/blogs/in-the-know/6158000-jon-stewart-signs-on-to-host-the-daily-show-through-2028/",
+   "summary": "Jon Stewart is staying with \"The Daily Show\" through the next White House race. Comedy Central announced Monday that Stewart will extend his once-a-week hosting duties through December 2028. The 63-year-old comedian hosts \"The Daily Show\" on Mondays and also serves as its executive producer. A rotating lineup of comics and TV personalities host the...",
+   "published": "2026-10-19T18:30:00+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-19T19:58:40.381701+00:00"
+  },
+  {
+   "id": "f1b1b1be790cc0a4",
+   "title": "Walz-era fraud scandal takes center stage as Klobuchar, GOP rival clash in debate: 'Why didn't you do more?'",
+   "url": "https://www.foxnews.com/politics/walz-era-fraud-scandal-takes-center-stage-klobuchar-gop-rival-clash-debate-why-didnt-you-do-more",
+   "summary": "Democratic Sen. Amy Klobuchar and Lisa Demuth clashed over Minnesota&apos;s massive fraud scandal in their first gubernatorial debate to replace Tim Walz.",
+   "published": "2026-10-19T18:29:19+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-10-19T19:58:39.118329+00:00"
+  },
+  {
+   "id": "88e595b18aeecbed",
+   "title": "Iowa is testing whether Democrats can win rural voters",
+   "url": "https://www.pbs.org/newshour/politics/iowa-is-testing-whether-democrats-can-win-rural-voters",
+   "summary": "Economic concerns such as tariffs and rising gas prices may give Democrats an opening in November's midterms. But rural voters remain skeptical of large-scale support for Democrats.",
+   "published": "2026-10-19T18:12:04+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-10-19T19:58:40.585707+00:00"
+  },
+  {
+   "id": "8b8e253a6cc4d39b",
+   "title": "President Trump Delivers Historic Wins for Kansas Workers, Families, Farmers, and Rural Communities",
+   "url": "https://www.whitehouse.gov/releases/2026/10/president-trump-delivers-historic-wins-for-kansas-workers-families-farmers-and-rural-communities/",
+   "summary": "Today, President Donald J. Trump returns to Kansas to showcase his proven record of results that put Kansas workers, families, seniors, farmers, and communities first. Under the leadership of President Trump and Republicans, Kansans are benefiting from historic tax relief, surging private investment and job creation, stronger rural healthcare, major support for farmers and ranchers, [&#8230;]\nThe post President Trump Delivers Historic Wins for Kansas Workers, Families, Farmers, and Rural Communities appeared first on The White House.",
+   "published": "2026-10-19T18:00:25+00:00",
+   "source": "WhiteHouse.gov News",
+   "source_id": "whitehouse",
+   "bias_note": "official/primary-source",
+   "first_seen": "2026-10-19T19:58:39.377947+00:00"
+  },
+  {
+   "id": "9259dca46a4c190e",
+   "title": "Trump threatened by judge with sanctions if he doesn\u2019t sit for deposition in $10 billion BBC defamation suit",
+   "url": "https://www.foxnews.com/media/trump-threatened-judge-sanctions-he-doesnt-sit-deposition-10-billion-bbc-defamation-suit",
+   "summary": "The BBC filed a motion to compel Donald Trump&apos;s deposition in his $10 billion defamation lawsuit, and a magistrate judge now warns of sanctions.",
+   "published": "2026-10-19T17:27:38+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-10-19T19:58:39.219469+00:00"
+  },
+  {
+   "id": "c435b0723edcca6a",
+   "title": "The Guardian view on Trump and Putin: Ukraine\u2019s future is not theirs to bargain away | Editorial",
+   "url": "https://www.theguardian.com/commentisfree/2026/oct/19/the-guardian-view-on-trump-and-putin-ukraines-future-is-not-theirs-to-bargain-away",
+   "summary": "Russia wants America and China to decide Ukraine\u2019s future without Kyiv. Europe must challenge this dangerous return to diplomacy of the strong for the strongDoes Vladimir Putin know exactly how to play Donald&nbsp;Trump? The history of chummy phone calls, high-profile meetings and attempts to bring Russia in from the cold certainly suggests that Moscow\u2019s thuggish ruler has a hold on this American president. If Mr&nbsp;Trump agrees to negotiate Ukraine\u2019s future with Mr&nbsp;Putin and China\u2019s Xi Jinping without Ukraine at the&nbsp;table, he will have handed the Russian leader a victory before ta",
+   "published": "2026-10-19T17:25:02+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-10-19T19:58:40.134575+00:00"
+  },
   {
    "id": "ba2dbd670ddee19e",
    "title": "Judge presses Justice Department on East Potomac takeover despite Trump attacks",
@@ -10825,138 +10968,6 @@
    "source_id": "thehill",
    "bias_note": "center",
    "first_seen": "2026-10-05T22:42:17.731839+00:00"
-  },
-  {
-   "id": "fe9d2ddb674d898c",
-   "title": "Sen. Tillis says his vote for Hegseth was 'biggest regret of my career' in new book",
-   "url": "https://www.pbs.org/newshour/politics/sen-tillis-says-his-vote-for-hegseth-was-biggest-regret-of-my-career-in-new-book",
-   "summary": "Republican Sen. Thom Tillis says in a new book that his deciding vote to confirm Defense Secretary Pete Hegseth in January 2025 is the \"biggest regret of my career\" and that he also \"should've stopped\" Robert F. Kennedy Jr. from becoming Health and Human Services secretary in the early days of President Donald Trump's second term.",
-   "published": "2026-10-05T19:40:52+00:00",
-   "source": "PBS NewsHour Politics",
-   "source_id": "pbs-politics",
-   "bias_note": "center",
-   "first_seen": "2026-10-05T22:42:17.864193+00:00"
-  },
-  {
-   "id": "ae6aa17ebe5ebdc4",
-   "title": "Politico reportedly barred from traveling with Trump amid administration\u2019s crackdown on White House coverage \u2013 live",
-   "url": "https://www.theguardian.com/us-news/live/2026/oct/05/donald-trump-nebraska-midterms-republicans-white-house-media-latest-news-updates",
-   "summary": "White House did not let Politico on Air Force One, CNN reports; a federal judge had put a temporary block on Trump\u2019s overall ban on Politico, CNN and MS Now Sign up for the Breaking News US emailSend us your questions about how the Iran war will affect US voters in the midtermsAs the supreme court hears oral arguments this morning, it\u2019s worth noting that if the justices side with Boulder or decide that the case is not in their jurisdiction, then it would continue in state court.But if the fossil fuel industry convinces the justices, the decision could apply not only to the Boulder case, but al",
-   "published": "2026-10-05T19:29:47+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-10-05T19:32:38.446058+00:00"
-  },
-  {
-   "id": "350debedcb14e695",
-   "title": "Live updates: Supreme Court weighs energy firms' fight against climate suits; Trump heads to Nebraska",
-   "url": "https://thehill.com/homenews/administration/6129056-live-updates-supreme-court-trump-nebraska-midterm-elections/",
-   "summary": "The Supreme Court opened its new term Monday with oral arguments in a major climate case that could determine the future of state and local efforts to recover damages from fossil fuel companies over their role in global warming. Suncor v. Boulder is an appeal of a Colorado Supreme Court decision that allowed claims of...",
-   "published": "2026-10-05T19:29:08+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-05T19:32:39.819044+00:00"
-  },
-  {
-   "id": "e1887209b4e0ebd1",
-   "title": "Trump rallies in city where alleged MS-13 \u2018assassination squad\u2019 leader was busted",
-   "url": "https://www.foxnews.com/politics/trump-rallies-city-where-alleged-ms-13-assassination-squad-leader-busted",
-   "summary": "President Donald Trump heads to Grand Island, Nebraska, for a rally in the city where an alleged MS-13 hit squad leader was arrested last year.",
-   "published": "2026-10-05T19:25:13+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-10-05T19:32:37.691777+00:00"
-  },
-  {
-   "id": "c78279718c5bb864",
-   "title": "Vanity Fair's 'new establishment' list names Vance as Trump 'heir' and Rubio as 'spare'",
-   "url": "https://thehill.com/homenews/administration/6130078-vanity-fair-establishment-list-2026/",
-   "summary": "Vanity Fair on Monday released its \"New Establishment 2026\" list and included several Trump administration officials, referring to Vice President Vance as the \"MAGA heir\" but naming Secretary of State Marco Rubio as the \"MAGA spare.\" The outlet wrote that Vance \"had reason for optimism\" following President Trump's return to the White House in January...",
-   "published": "2026-10-05T19:21:03+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-05T19:32:39.819079+00:00"
-  },
-  {
-   "id": "f3756c49e76d5b37",
-   "title": "Trump administration announces new additions to hospital price transparency regulations",
-   "url": "https://thehill.com/policy/healthcare/6129722-trump-amends-hospital-price-rules/",
-   "summary": "The Trump administration on Monday announced new amendments to the hospital price transparency rules enacted during President Trump's first term, aimed at making pricing data more accessible and understandable for patients. The rule finalized by the Department of Health and Human Services (HHS), the Employee Benefits Security Administration (ERISA) and the Internal Revenue Service (IRS)...",
-   "published": "2026-10-05T18:51:42+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-05T19:32:39.819119+00:00"
-  },
-  {
-   "id": "14a39b573632896e",
-   "title": "WATCH: Trump administration issues final rule on transparency in healthcare coverage",
-   "url": "https://www.pbs.org/newshour/health/watch-trump-administration-issues-final-rule-on-transparency-in-healthcare-coverage",
-   "summary": "At a news conference, Health and Human Services Secretary Robert F. Kennedy Jr. said the new rule provides a \"clear view of what healthcare actually costs.\"",
-   "published": "2026-10-05T18:50:04+00:00",
-   "source": "PBS NewsHour Politics",
-   "source_id": "pbs-politics",
-   "bias_note": "center",
-   "first_seen": "2026-10-05T19:32:40.114305+00:00"
-  },
-  {
-   "id": "a8c884ddd594657c",
-   "title": "Blanche defends DOJ's plan to send 1,000 monitors to polls on Election Day",
-   "url": "https://thehill.com/homenews/administration/6130081-blanche-defends-doj-election-monitors/",
-   "summary": "Attorney General Todd Blanche on Sunday defended the Department of Justice's (DOJ) plan to send 1,000 election monitors to polling places on Election Day. The federal government has monitored elections since the 1960s and the DOJ will assure federal law is being enforced properly, Blanche told Shannon Bream on \"Fox News Sunday.\" \u201cThey\u2019re not going...",
-   "published": "2026-10-05T18:47:30+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-05T19:32:39.819126+00:00"
-  },
-  {
-   "id": "1d0beaa3bc2e9cc9",
-   "title": "Trump on protesters at site of proposed arch: 'Do these people not have jobs?'",
-   "url": "https://thehill.com/homenews/administration/6129992-donald-trump-triumphal-arch-protest-response/",
-   "summary": "President Trump on Sunday criticized protesters who gathered in Washington last week to oppose his triumphal arch project. \"Do these people not have jobs?\u201d Trump wrote in a post on Truth Social. The president also shared images of the demonstrators \u2014 including one photo with Sen. Tammy Duckworth (D-Ill.) \u2014\u00a0who have pushed back against the...",
-   "published": "2026-10-05T18:16:05+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-05T19:32:39.819131+00:00"
-  },
-  {
-   "id": "d010bf2f5ea4376b",
-   "title": "Biden's 'anti-MAGA task force' sparked internal alarm across DOJ, new report shows",
-   "url": "https://www.foxnews.com/politics/bidens-anti-maga-task-force-sparked-internal-alarm-across-doj-new-report-shows",
-   "summary": "Merrick Garland&apos;s school board memo triggered internal revolt at the Department of Justice, with one official dubbing it the &quot;Anti-MAGA Task Force.&quot;",
-   "published": "2026-10-05T18:09:45+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-10-05T19:32:37.691824+00:00"
-  },
-  {
-   "id": "ad6cdc8b13c30ae0",
-   "title": "House GOP bill moves to close whistleblower gaps exposed by Minnesota Medicaid fraud scandal",
-   "url": "https://www.foxnews.com/politics/house-gop-bill-moves-close-whistleblower-gaps-exposed-minnesota-medicaid-fraud-scandal",
-   "summary": "A new House GOP bill would shield Medicaid whistleblowers from retaliation after Minnesota workers alleged firings and surveillance for flagging fraud.",
-   "published": "2026-10-05T18:08:28+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-10-05T19:32:37.691831+00:00"
-  },
-  {
-   "id": "42ea168c3774d346",
-   "title": "White House blocks Politico from Air Force One",
-   "url": "https://thehill.com/homenews/media/6129970-trump-bans-politico-air-force-one/",
-   "summary": "The White House on Monday will prohibit Politico from boarding Air Force One and fulfilling its pool duties covering President Trump. Journalists from the outlet will not be allowed on the plane, CNN first reported, meaning there will be no print representative providing reports on the president's statements and movements for the day. Politico is...",
-   "published": "2026-10-05T17:52:59+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-05T19:32:39.819135+00:00"
   }
  ]
 }
