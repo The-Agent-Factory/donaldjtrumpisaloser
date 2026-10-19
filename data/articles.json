@@ -1,7 +1,172 @@
 {
- "updated": "2026-10-19T19:58:41.424431+00:00",
+ "updated": "2026-10-19T23:45:23.690637+00:00",
  "count": 997,
  "articles": [
+  {
+   "id": "9b340737d36abca4",
+   "title": "Kansas man mapped rooftops near Trump speech site, threatened to shoot president: DOJ",
+   "url": "https://www.foxnews.com/us/kansas-man-mapped-rooftops-near-trump-speech-site-threatened-shoot-president-doj",
+   "summary": "Jaden Read allegedly posted Facebook threats to shoot President Donald Trump and claimed he mapped rooftops near the planned Wichita, Kansas, speech.",
+   "published": "2026-10-19T22:59:12+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-10-19T23:45:21.895543+00:00"
+  },
+  {
+   "id": "fe8618e7ca148fc4",
+   "title": "Trump borrows from far right to blame unrest in France on immigration",
+   "url": "https://www.theguardian.com/us-news/2026/oct/19/trump-france-protests",
+   "summary": "President ignores school conditions and cost of living and says he warned Macron \u2018the whole world was coming in\u2019Explainer: why are people protesting across Europe?Donald Trump and JD Vance deployed a familiar US playbook on Europe, claiming that immigrants were responsible for rioting in France that began as student protests against crumbling schools and the high cost of living.The nationwide protests on Saturday were called over rising fuel prices and falling purchasing power, and in several cities they escalated into clashes with police that left a historic town hall torched and led to 1,800",
+   "published": "2026-10-19T22:48:35+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-10-19T23:45:22.529089+00:00"
+  },
+  {
+   "id": "d5ccad625fbaf568",
+   "title": "News Wrap: Federal judge clashes with DOJ over D.C. golf course",
+   "url": "https://www.pbs.org/newshour/show/news-wrap-federal-judge-clashes-with-doj-over-d-c-golf-course",
+   "summary": "In our news wrap Monday, a federal judge clashed with Justice Department lawyers in the latest legal standoff over the fate of a Washington, D.C. golf course, the Supreme Court will review a Reconstruction-era ban on home distilleries and Israeli authorities say they've arrested at least ten people in connection with recent settler attacks in the occupied West Bank.",
+   "published": "2026-10-19T22:40:37+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-10-19T23:45:22.937675+00:00"
+  },
+  {
+   "id": "72847b45ad9ad482",
+   "title": "Zelensky rolls the dice on combative Trump pressure campaign",
+   "url": "https://thehill.com/policy/international/6159291-zelensky-bets-trump-pressure-campaign-russia/",
+   "summary": "Ukrainian President Volodymyr Zelensky is making a high-stakes bet that a combative public pressure campaign targeting President Trump \u2014 in coordination with his allies in Congress \u2014 will push the president to reverse course on concessions to Russia.  Zelensky, under intense strain from relentless Russian strikes and depleted air defenses, has lashed out at Trump...",
+   "published": "2026-10-19T22:32:59+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-19T23:45:22.739461+00:00"
+  },
+  {
+   "id": "463d4647c8c8e8e7",
+   "title": "Tamara Keith and Carrie Dann on Trump's approval rating hitting a record low",
+   "url": "https://www.pbs.org/newshour/show/tamara-keith-and-carrie-dann-on-trumps-approval-rating-hitting-a-record-low",
+   "summary": "NPR's Tamara Keith and Carrie Dann of the Cook Political Report with Amy Walter join Geoff Bennett to discuss the latest political news, including a new poll putting President Trump's approval rating at a record low, the amount of money being spent on Senate races, Trump escalating his feud with Ukraine's president and Trump's attempts to remake Washington.",
+   "published": "2026-10-19T22:30:45+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-10-19T23:45:22.937691+00:00"
+  },
+  {
+   "id": "c03c51339a4eaafb",
+   "title": "Trump establishes new women's health divisions",
+   "url": "https://thehill.com/newsletters/healthcare/6159244-trump-establishes-new-womens-health-divisions/",
+   "summary": "Presented by {beacon} Healthcare Healthcare   PRESENTED BY  The Big Story  Trump establishes new women's health divisions  President Trump on Monday signed an executive order creating new executive offices dedicated to bolster research into women's health, crediting first lady Melania Trump for pushing the issue.  \u00a9 AP Photo/Alex Brandon \u201cToday we\u2019re taking historic action to...",
+   "published": "2026-10-19T22:03:43+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-19T23:45:22.739482+00:00"
+  },
+  {
+   "id": "bcf41b5cded56c47",
+   "title": "Beleaguered Macron cites US-Iran war as factor in protests amid Trump, Vance criticism",
+   "url": "https://www.foxnews.com/world/beleaguered-macron-cites-us-iran-war-factor-protests-amid-trump-vance-criticism",
+   "summary": "French President Emmanuel Macron cited the Iran war and its impact on fuel and living costs while addressing the ongoing protests and unrest across France.",
+   "published": "2026-10-19T22:02:58+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-10-19T23:45:21.895571+00:00"
+  },
+  {
+   "id": "c7d48745a86f8a79",
+   "title": "Trump calls on New Mexico to change its name to 'New America'",
+   "url": "https://thehill.com/homenews/administration/6159125-trump-calls-new-mexico-new-america/",
+   "summary": "President Trump called on New Mexico to change its name to \u201cNew America\u201d following his decision to alter the names of the Gulf of Mexico and Lake Ontario to include \u201cAmerica.\u201d \u201cNew Mexico should immediately change its name to New America. We are not Mexico, we are the United States of America,\u201d the president wrote...",
+   "published": "2026-10-19T21:59:36+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-19T23:45:22.739488+00:00"
+  },
+  {
+   "id": "4b9cd8c2b7382e0b",
+   "title": "Judge chastises Trump administration plan to push ahead overhaul of DC golf course",
+   "url": "https://www.npr.org/2026/10/19/nx-s1-6007746/golf-course-potomac-white-house-tree-removal",
+   "summary": "The Trump administration wants to turn a historic public golf course into championship links. Despite a judge's order, hundreds of trees were cut down to make way for the renovation.",
+   "published": "2026-10-19T21:56:37+00:00",
+   "source": "NPR Politics",
+   "source_id": "npr-politics",
+   "bias_note": "center",
+   "first_seen": "2026-10-19T23:45:22.510029+00:00"
+  },
+  {
+   "id": "fafb2effd2c061c5",
+   "title": "Interior will hold first offshore mining lease sale",
+   "url": "https://thehill.com/newsletters/energy-environment/6159155-interior-will-hold-first-offshore-mining-lease-sale/",
+   "summary": "{beacon} Energy &#038; Environment Energy &#038; Environment &#8202; The Big Story  Interior will hold first offshore mining lease sale  The Trump administration is officially moving ahead with a decision to lease ocean tracts off the coast of American Samoa for deep-sea mining. \u00a9 Fili Sagapolutele, Associated Press file The decision, announced Monday, would represent the...",
+   "published": "2026-10-19T21:51:09+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-19T23:45:22.739506+00:00"
+  },
+  {
+   "id": "22f155e2fb6103c3",
+   "title": "The Senate map driving Trump\u2019s late-stage travel blitz",
+   "url": "https://thehill.com/homenews/administration/6159184-trump-senate-midterm-travel/",
+   "summary": "President Trump\u2019s focus with two weeks to go before the midterms is squarely on the Senate, as he travels to a series of red states, some of which are threatening to turn blue. The president\u2019s travel schedule has included stops in states seen as deep red such as Alabama, Oklahoma and Tennessee, as well as...",
+   "published": "2026-10-19T21:48:39+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-19T23:45:22.739511+00:00"
+  },
+  {
+   "id": "1997154ebd7e1488",
+   "title": "Trump set to return to Texas for midterm rally",
+   "url": "https://thehill.com/homenews/campaign/6159173-trump-waco-texas-rally/",
+   "summary": "President Trump will head back to Texas exactly one week before Election Day, underscoring the competitive nature of the red state's battleground races. The Republican National Committee announced Monday that Trump will campaign in Waco, Texas, on Oct. 27. The trip will mark Trump\u2019s third visit to the Lone Star State this month alone and...",
+   "published": "2026-10-19T21:47:58+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-19T23:45:22.739516+00:00"
+  },
+  {
+   "id": "e89cb32fcd9f9fbe",
+   "title": "Trump gives contentious New York pipeline a Defense Production Act boost",
+   "url": "https://thehill.com/policy/energy-environment/6159109-trump-boosts-constitution-pipeline/",
+   "summary": "The Trump administration is giving a defense-related boost to a contentious pipeline in the Northeast U.S. The Energy Department said Monday that it would give up to $42 million from the Defense Production Act for the Constitution Pipeline project that would transport natural gas from Pennsylvania to New York. The pipeline project was scrapped in...",
+   "published": "2026-10-19T21:29:41+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-19T23:45:22.739548+00:00"
+  },
+  {
+   "id": "dc91cb31a2a4d4dc",
+   "title": "Trump renews push to rename New Mexico \u2018New America,\u2019 touts higher home values and incomes",
+   "url": "https://www.foxnews.com/politics/trump-renews-push-rename-new-mexico-new-america-touts-higher-home-values-incomes",
+   "summary": "President Trump urged New Mexico to rename itself &quot;New America,&quot; claiming the change would boost home values and incomes, while taking a swipe at state elections.",
+   "published": "2026-10-19T20:16:02+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-10-19T23:45:21.874022+00:00"
+  },
+  {
+   "id": "60f9205055d76529",
+   "title": "Citing ProPublica, Lawmakers Introduce Bill to Help U.S. Citizens Sue ICE for Wrongful Detentions",
+   "url": "https://www.propublica.org/article/american-citizens-wrongfully-detained-ice-bill",
+   "summary": "The post Citing ProPublica, Lawmakers Introduce Bill to Help U.S. Citizens Sue ICE for Wrongful Detentions appeared first on ProPublica.",
+   "published": "2026-10-19T20:15:00+00:00",
+   "source": "ProPublica",
+   "source_id": "propublica",
+   "bias_note": "investigative",
+   "first_seen": "2026-10-19T23:45:23.312894+00:00"
+  },
   {
    "id": "160f353a02f59b6e",
    "title": "Trump says security cameras installed at Reflecting Pool, threatens to jail future vandals",
@@ -10803,171 +10968,6 @@
    "source_id": "whitehouse",
    "bias_note": "official/primary-source",
    "first_seen": "2026-10-06T06:28:01.326392+00:00"
-  },
-  {
-   "id": "3c3826f5f56059a5",
-   "title": "Debra Messing ditches Democrat for Trump-backed Republican as she sounds alarm over New York",
-   "url": "https://www.foxnews.com/entertainment/debra-messing-ditches-democrat-trump-backed-republican-sounds-alarm-new-york",
-   "summary": "Debra Messing endorsed Republican Bruce Blakeman for New York governor, citing affordability, congestion pricing and the city&apos;s economic decline.",
-   "published": "2026-10-05T23:22:03+00:00",
-   "source": "Fox News Latest",
-   "source_id": "foxnews-latest",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-10-06T06:28:01.296885+00:00"
-  },
-  {
-   "id": "f3904af9ee12de5c",
-   "title": "Trump hurls anti-trans slurs at Graham's opponent as South Carolina race tightens",
-   "url": "https://thehill.com/homenews/administration/6130651-trump-slur-graham-senate-race/",
-   "summary": "President Trump on Monday used an anti-transgender slur several times against Sen. Darline Graham's (R-S.C.) Democratic opponent Dr. Annie Andrews, as the race for South Carolina's Senate seat tightens. \"Annie 'T------' Andrews is running against our wonderful Darline Graham for the Senate in South Carolina,\" Trump wrote on Truth Social. The president evoked Graham's late...",
-   "published": "2026-10-05T23:04:25+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-06T06:28:01.563067+00:00"
-  },
-  {
-   "id": "49c8f838cc105dcd",
-   "title": "News Wrap: Cornell students protest handling of alleged rape",
-   "url": "https://www.pbs.org/newshour/show/news-wrap-cornell-students-protest-handling-of-alleged-rape",
-   "summary": "In our news wrap Monday, students at Cornell are staging protests over the university's handling of an alleged fraternity house gang rape in 2024, President Trump said a threat linked to Iran was the reason the U.S. withdrew its bombers from the Fairford airbase in the UK and Dennis Hastert, the disgraced former House Speaker who later went to prison, has died.",
-   "published": "2026-10-05T22:45:10+00:00",
-   "source": "PBS NewsHour Politics",
-   "source_id": "pbs-politics",
-   "bias_note": "center",
-   "first_seen": "2026-10-06T06:28:01.745995+00:00"
-  },
-  {
-   "id": "c8a4e78d0686de9f",
-   "title": "The Memo: Experts seek to calm panic over mysterious Russia \u2018plague\u2019 case",
-   "url": "https://thehill.com/homenews/analysis/6130693-russia-pneumonic-plague-fear/",
-   "summary": "A new cloud of anxiety is hovering over the public amid reports of an infectious disease, a laboratory accident and a death. The fact that the story comes out of Russia heightens American concerns rather than assuages them, raising dark talk of bioweapons, artificial intelligence and Kremlin secrecy. Even President Trump has weighed in. \u201cI...",
-   "published": "2026-10-05T22:30:57+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-05T22:42:17.731757+00:00"
-  },
-  {
-   "id": "ac8d07fac5be75d9",
-   "title": "Tamara Keith and Amy Walter on Trump's payout promises",
-   "url": "https://www.pbs.org/newshour/show/tamara-keith-and-amy-walter-on-trumps-payout-promises",
-   "summary": "NPR's Tamara Keith and Amy Walter of the Cook Political Report with Amy Walter join Geoff Bennett to discuss the latest political news, including President Trump continuing to promise payouts to voters if Republicans win in the midterms, the GOP spending campaign money and playing defense in typically Republican districts and the White House again barring a media outlet from the press pool.",
-   "published": "2026-10-05T22:25:09+00:00",
-   "source": "PBS NewsHour Politics",
-   "source_id": "pbs-politics",
-   "bias_note": "center",
-   "first_seen": "2026-10-06T06:28:01.746034+00:00"
-  },
-  {
-   "id": "c331f4aaf953b1cd",
-   "title": "The Iran war is unpopular, but will it cost Trump the midterms? Our reporters answer your questions",
-   "url": "https://www.theguardian.com/community/live/2026/oct/05/reader-q-a-iran-war-trump-midterms-reporter-answers",
-   "summary": "The war with Iran is reshaping America ahead of the midterms \u2013 how will it affect US voters at the polls? Join us for a live conversation on Oct. 6 at 12pm EDT with political and global correspondentsSign in or sign up to join the conversationWelcome to our latest US midterms live Q&amp;A \u2013 just over a month away from election day on Nov. 3.The war with Iran has had major implications for Americans\u2019 wallets, government spending and US foreign policy. It\u2019s has also been an important factor in reshaping the political landscape as the war enters its eighth month, with the 2026 US midterms quickly",
-   "published": "2026-10-05T22:10:54+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-10-05T22:42:17.477728+00:00"
-  },
-  {
-   "id": "e054b38a69bde2f8",
-   "title": "Watch live: Trump rallies Nebraska voters with GOP on defense",
-   "url": "https://thehill.com/homenews/campaign/6130114-watch-live-donald-trump-nebraska-rally-midterms-pete-ricketts/",
-   "summary": "President Trump will rally voters in Nebraska Monday evening, as Republicans look to shore up support in a state where an unexpectedly competitive Senate race has put the GOP on defense. Sen. Pete Ricketts (R-Neb.) is facing independent Dan Osborn, who came within 7 points of Sen. Deb Fischer (R-Neb.) in 2024 and is now...",
-   "published": "2026-10-05T22:00:00+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-05T22:42:17.731780+00:00"
-  },
-  {
-   "id": "6636dd281e2ff056",
-   "title": "Biden-era FBI tracked Trump family travel and Wiles\u2019 calls with lawyers in secret probe: docs",
-   "url": "https://www.foxnews.com/politics/biden-era-fbi-tracked-trump-family-travel-wiles-calls-lawyers-secret-probe-docs",
-   "summary": "Declassified records reveal the Biden-era FBI tracked Melania and Barron Trump&apos;s travel while planning the Mar-a-Lago classified documents search.",
-   "published": "2026-10-05T21:39:47+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-10-05T22:42:16.884382+00:00"
-  },
-  {
-   "id": "978d9cfcf13521ea",
-   "title": "Trump's deportation agenda haunts him in 2 high-profile House races",
-   "url": "https://thehill.com/homenews/administration/6130511-trump-deportations-impact-house-races-florida-texas/",
-   "summary": "President Trump\u2019s deportation agenda is haunting him in two key House races as polls show Latino voters turning on the president and Republicans a month out from the midterm elections.\u00a0 The issue is acutely playing out in Florida\u2019s 27th and Texas\u2019s 15th congressional districts, where incumbent Reps. Maria Elvira Salazar (R-Fla.) and Monica De La...",
-   "published": "2026-10-05T21:39:10+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-05T22:42:17.731791+00:00"
-  },
-  {
-   "id": "cd366b627c95523c",
-   "title": "Trump says Russia plague reports concerning: Microbes 'stronger and smarter'",
-   "url": "https://thehill.com/homenews/6130523-donald-trump-russia-pneumonic-plague/",
-   "summary": "President Trump said Monday he is concerned about the suspected plague case in Russia, saying the U.S. is \u201clooking at it very strongly.\u201d The State Department said Monday it was monitoring the suspected case of pneumonic plague in Irkutsk Oblast, Russia. \u201cI hate to see them having it,\u201d Trump told reporters before departing the White...",
-   "published": "2026-10-05T21:25:18+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-05T22:42:17.731812+00:00"
-  },
-  {
-   "id": "01d08f01d4c7d80e",
-   "title": "Trump DOJ sues university where illegal immigrants can get $15K tuition rate while some Americans pay $42K",
-   "url": "https://www.foxnews.com/media/trump-doj-sues-university-illegal-immigrants-15k-tuition-rate-americans-pay-42k",
-   "summary": "The Justice Department alleges the University of Delaware charges undocumented students $15,740 while out-of-state U.S. citizens pay roughly $42,470.",
-   "published": "2026-10-05T21:13:55+00:00",
-   "source": "Fox News Latest",
-   "source_id": "foxnews-latest",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-10-05T22:42:16.962735+00:00"
-  },
-  {
-   "id": "332e3bbd6086d624",
-   "title": "Trump says he will 'certainly look at' establishing US military base in Lithuania",
-   "url": "https://thehill.com/policy/defense/6130439-trump-considers-lithuania-military-base/",
-   "summary": "President Trump said Monday he will \u201ccertainly look at\u201d establishing a U.S. military base in Lithuania a week after the country\u2019s prime minister said he would welcome U.S. service members into the Baltic state.\u00a0 \u201cThey\u2019re friends of mine; they're great people, so we'll certainly look at it. They are great people,\u201d the president said when...",
-   "published": "2026-10-05T21:10:55+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-05T22:42:17.731815+00:00"
-  },
-  {
-   "id": "dea8e1aa54a31a86",
-   "title": "Trump administration proposes new crypto rules",
-   "url": "https://thehill.com/newsletters/business-economy/6130465-trump-administration-proposes-new-crypto-rules/",
-   "summary": "Presented by PolitiSizeIT {beacon} Business &#038; Economy Business &#038; Economy PRESENTED BY  The Big Story  Trump admin proposes new crypto rules The Commodity Futures Trading Commission (CFTC) unveiled new proposals Monday for regulating cryptocurrency markets, after an effort to pass digital asset legislation through Congress came up short last month.  \u00a9 Greg Nash The Commodity...",
-   "published": "2026-10-05T21:01:06+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-05T22:42:17.731826+00:00"
-  },
-  {
-   "id": "f4d6e076161c1f3a",
-   "title": "Trump calls for media outlets to be \u2018arrested\u2019 over rally coverage",
-   "url": "https://thehill.com/homenews/administration/6130397-trump-media-arrests-ohio-rally/",
-   "summary": "President Trump said Monday that reporters from The New York Times and other media outlets should be \u201carrested\u201d over their coverage of his Saturday rally in Ohio. \u201cThe Ohio Arena was already full to the brim \u2014 And yet these people were still trying to get in,\u201d Trump wrote on Truth Social, sharing a video...",
-   "published": "2026-10-05T20:49:00+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-05T22:42:17.731837+00:00"
-  },
-  {
-   "id": "37a3d23c3f18410c",
-   "title": "Trump: Refinery disruptions, not Hormuz, are driving gas prices",
-   "url": "https://thehill.com/homenews/administration/6130291-trump-claims-refinery-disruptions-raise-gas-prices/",
-   "summary": "President Trump on Monday claimed that disruptions to oil refineries are driving up the soaring cost of gas, not Iran's closure of the Strait of Hormuz following the start of the U.S.-Israeli conflict with its regime. \"What's driving up Gasoline is no longer the Strait of Hormuz, because Record Numbers of Barrels are coming out...",
-   "published": "2026-10-05T20:43:34+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-05T22:42:17.731839+00:00"
   }
  ]
 }
