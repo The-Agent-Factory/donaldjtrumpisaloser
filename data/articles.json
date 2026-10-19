@@ -1,7 +1,183 @@
 {
- "updated": "2026-10-19T13:28:00.701992+00:00",
- "count": 994,
+ "updated": "2026-10-19T17:22:03.442182+00:00",
+ "count": 996,
  "articles": [
+  {
+   "id": "ba2dbd670ddee19e",
+   "title": "Judge presses Justice Department on East Potomac takeover despite Trump attacks",
+   "url": "https://thehill.com/regulation/court-battles/6158276-judge-questions-trump-east-potomac-park/",
+   "summary": "A federal judge on Monday pressed lawyers for the federal government about President Trump\u2019s plan to shut down and renovate East Potomac Park next month despite a previous court order barring any future work at the property while a lawsuit to stop it plays out. \u00a0\u00a0 Trump in a Truth Social post just minutes before...",
+   "published": "2026-10-19T17:16:14+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-19T17:22:02.282566+00:00"
+  },
+  {
+   "id": "8113b3ad5a8893b1",
+   "title": "Justice Department charges more than 2 dozen foreign nationals in California sweep targeting noncitizen voters",
+   "url": "https://www.pbs.org/newshour/politics/justice-department-charges-more-than-2-dozen-foreign-nationals-in-california-sweep-targeting-noncitizen-voters",
+   "summary": "Last week, the Justice Department sued the state and later warned that local election workers who knowingly process or tabulate ballots submitted by noncitizen voters are at risk of potential prosecution.",
+   "published": "2026-10-19T16:53:36+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-10-19T17:22:02.691438+00:00"
+  },
+  {
+   "id": "ee5241bb0ae18dc5",
+   "title": "Manchin bucks Schumer, throws support behind Republican Democrats want to oust",
+   "url": "https://www.foxnews.com/politics/manchin-bucks-schumer-throws-support-behind-republican-democrats-want-oust",
+   "summary": "Joe Manchin is campaigning for Senate Republican Susan Collins in Maine, calling her bipartisan and declaring she is &quot;not a Trump senator.&quot;",
+   "published": "2026-10-19T16:46:15+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-10-19T17:22:01.661790+00:00"
+  },
+  {
+   "id": "88385f9290180167",
+   "title": "Trump's golf course showdown tees off in DC",
+   "url": "https://thehill.com/newsletters/1230-report/6158144-donald-trump-east-potomac-park-court-battle-gop-russia-midterms/",
+   "summary": "Plus: \ud83d\ude12 GOP backlash over Russia grows {beacon} &#8202; It\u2019s Monday. New week, fresh start and another chance to convince ourselves we've got it all together. &#8202; In today's issue: DC golf course plans hit resistance GOP backlash over Russia grows Affordability concerns hinder Trump message Hegseth's future on the line   Programming note: Hello!...",
+   "published": "2026-10-19T16:41:21+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-19T17:22:02.282616+00:00"
+  },
+  {
+   "id": "ca8667a5b7bec4a0",
+   "title": "Most Americans think Trump is using presidency to enrich himself, poll finds",
+   "url": "https://www.theguardian.com/us-news/2026/oct/19/trump-presidency-rich-poll",
+   "summary": "Poll finds 66% of Americans think Trump is using position for monetary gain as his approval rating hits a new lowMost Americans think Donald Trump is using the presidency to enrich himself, according to a new poll, as the US president\u2019s approval rating falls to a new low ahead of November\u2019s midterm elections.A new Washington Post-ABC poll put Trump\u2019s approval rating at 33% as he continues to crisscross the country as part of his campaign blitz for embattled Republicans. Continue reading...",
+   "published": "2026-10-19T16:41:15+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-10-19T17:22:02.139319+00:00"
+  },
+  {
+   "id": "a1d54e8e374d5936",
+   "title": "Hatch Act complaint filed against Carr, Burgum and Lutnick",
+   "url": "https://thehill.com/regulation/court-battles/6158122-hatch-act-complaint-trump-officials/",
+   "summary": "Democracy Defenders Fund and Reporters Without Borders filed a Hatch Act complaint against three Trump administration officials for campaigning in Alaska with Sen. Dan Sullivan (R-Alaska) earlier this month. The complaint asks the U.S. Office of Special Counsel to investigate appearances and brief remarks delivered at Sullivan\u2019s rally by Federal Communication Commission (FCC) Chair Brendan...",
+   "published": "2026-10-19T16:36:44+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-19T17:22:02.282623+00:00"
+  },
+  {
+   "id": "e76aad327cefa52f",
+   "title": "Trump's new pitch for Republican candidates? They're really good looking",
+   "url": "https://www.pbs.org/newshour/politics/trumps-new-pitch-for-republican-candidates-theyre-really-good-looking",
+   "summary": "Aesthetics have long been part of the president's measuring stick, either as a source of praise or target for ridicule.",
+   "published": "2026-10-19T16:01:16+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-10-19T17:22:02.691443+00:00"
+  },
+  {
+   "id": "85f1d68c924182c3",
+   "title": "Trump\u2019s midterm message to his base. It\u2019s an American Golden Age, just not for you.",
+   "url": "https://thehill.com/opinion/white-house/6157060-american-golden-age-con/",
+   "summary": "In an opinion piece, Joslin Joseph argues that Donald Trump's administration prioritizes corporate and wealthy interests during its current economic era while leaving his core supporters to bear the financial burdens.",
+   "published": "2026-10-19T16:00:00+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-19T17:22:02.282639+00:00"
+  },
+  {
+   "id": "f7361041716ebce9",
+   "title": "Trump creates new women\u2019s health division within NIH",
+   "url": "https://thehill.com/policy/healthcare/6158037-trump-signs-womens-health-order/",
+   "summary": "President Trump signed an executive order Monday to bolster federal research surrounding women\u2019s health, crediting first lady Melania Trump for pushing the issue. The order established the Women\u2019s Health Division at the National Institutes of Health and a White House Women\u2019s Health Task Force. The task force will be led by White House chief of...",
+   "published": "2026-10-19T15:55:01+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-19T17:22:02.282662+00:00"
+  },
+  {
+   "id": "f1063db8f0c16c52",
+   "title": "WATCH LIVE: Trump heads to rally in Kansas as Republican voters' frustrations deepen",
+   "url": "https://www.pbs.org/newshour/politics/watch-live-trump-heads-to-rally-in-kansas-as-republican-voters-frustrations-deepen",
+   "summary": "President Donald Trump is heading to Kansas on Monday and Iowa later in the week, the latest in a series of stops where he's trying to energize his base in the final weeks before the midterm elections. The economic strain is becoming a growing political concern for Republicans in states they have long dominated.",
+   "published": "2026-10-19T15:44:52+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-10-19T17:22:02.691447+00:00"
+  },
+  {
+   "id": "f0f2c7e593980d86",
+   "title": "First Lady Melania Trump Champions New U.S. Women\u2019s Health Initiative",
+   "url": "https://www.whitehouse.gov/briefings-statements/2026/10/first-lady-melania-trump-champions-new-u-s-womens-health-initiative/",
+   "summary": "First Lady Melania Trump advanced a landmark program to improve women\u2019s health through a new executive order that strengthens research, prevention, diagnosis, treatment, and care for girls and women throughout every stage of life. \u201cPrevious generations fought for women&#8217;s rights. Our generation will fight to discover the cures that will ensure a woman can live [&#8230;]\nThe post First Lady Melania Trump Champions New U.S. Women\u2019s Health Initiative appeared first on The White House.",
+   "published": "2026-10-19T15:35:08+00:00",
+   "source": "WhiteHouse.gov News",
+   "source_id": "whitehouse",
+   "bias_note": "official/primary-source",
+   "first_seen": "2026-10-19T17:22:01.772464+00:00"
+  },
+  {
+   "id": "3a4c94df0d59e00e",
+   "title": "Advancing Women\u2019s Health to Improve Outcomes in All Phases of Life",
+   "url": "https://www.whitehouse.gov/presidential-actions/2026/10/advancing-womens-health-to-improve-outcomes-in-all-phases-of-life/",
+   "summary": "By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered: Section 1.\u00a0 Purpose and Policy.\u00a0 My Administration is committed to advancing women&#8217;s health and ensuring that medical research, diagnosis, prevention, and treatment reflect the highest quality scientific evidence, with the goal [&#8230;]\nThe post Advancing Women&#8217;s Health to Improve Outcomes in All Phases of Life appeared first on The White House.",
+   "published": "2026-10-19T15:25:57+00:00",
+   "source": "WhiteHouse.gov News",
+   "source_id": "whitehouse",
+   "bias_note": "official/primary-source",
+   "first_seen": "2026-10-19T17:22:01.772469+00:00"
+  },
+  {
+   "id": "c4e4e8aec1995945",
+   "title": "Fact Sheet: President Donald J. Trump and First Lady Melania Trump Advance Women\u2019s Health to Improve Outcomes in All Phases of Life",
+   "url": "https://www.whitehouse.gov/fact-sheets/2026/10/fact-sheet-president-donald-j-trump-and-first-lady-melania-trump-advance-womens-health-to-improve-outcomes-in-all-phases-of-life/",
+   "summary": "PRIORITIZING SOLUTIONS FOR WOMEN\u2019S HEALTH:\u00a0Today, President Donald J. Trump signed an Executive Order, led by First Lady Melania Trump, to strengthen research, prevention, diagnosis, treatment, and care for women and girls throughout every stage of life. ENSURING AMERICAN WOMEN RECEIVE THE BEST SCIENTIFICALLY-SUPPORTED MEDICAL ADVICE IN THE WORLD:&#160;President Trump is prioritizing the health and longevity [&#8230;]\nThe post Fact Sheet: President Donald J. Trump and First Lady Melania Trump Advance Women\u2019s Health to Improve Outcomes in All Phases of Life appeared first on The White House.",
+   "published": "2026-10-19T15:24:43+00:00",
+   "source": "WhiteHouse.gov News",
+   "source_id": "whitehouse",
+   "bias_note": "official/primary-source",
+   "first_seen": "2026-10-19T17:22:01.772472+00:00"
+  },
+  {
+   "id": "e5ac5482f7bd007a",
+   "title": "Trump takes border crackdown to deep-red state as shock Senate battle threatens GOP stronghold",
+   "url": "https://www.foxnews.com/politics/trump-takes-border-crackdown-deep-red-state-shock-senate-battle-threatens-gop-stronghold",
+   "summary": "Donald Trump heads to Kansas to rally near Wichita, touting his immigration agenda as ICE arrests and deportation efforts ramp up across the state.",
+   "published": "2026-10-19T15:23:49+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-10-19T17:22:01.661811+00:00"
+  },
+  {
+   "id": "a2f90089f1f0f10d",
+   "title": "DOJ official defends Trump's noncitizen voter probe on '60 Minutes,' accuses show of editing out her answers",
+   "url": "https://www.foxnews.com/media/doj-official-defends-trumps-noncitizen-voter-probe-60-minutes-accuses-show-editing-out-her-answers",
+   "summary": "Harmeet Dhillon pushed back on claims the Trump administration is sowing election distrust, saying thousands of noncitizen voting cases are under review.",
+   "published": "2026-10-19T14:27:02+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-10-19T17:22:01.704658+00:00"
+  },
+  {
+   "id": "db49c3c0f0bfb1ed",
+   "title": "Obama's lengthy reaction to Omar investigation triggers instant backlash: 'Spare me'",
+   "url": "https://www.foxnews.com/politics/obamas-lengthy-reaction-omar-investigation-triggers-instant-backlash-spare-me",
+   "summary": "Barack Obama&apos;s vocal defense of Ilhan Omar drew fierce conservative backlash citing his own administration&apos;s IRS targeting of Tea Party groups.",
+   "published": "2026-10-19T13:34:08+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-10-19T17:22:01.661814+00:00"
+  },
   {
    "id": "42f83f3ab73362df",
    "title": "Trump approval hits record low in new survey",
@@ -10781,160 +10957,6 @@
    "source_id": "thehill",
    "bias_note": "center",
    "first_seen": "2026-10-05T19:32:39.819135+00:00"
-  },
-  {
-   "id": "8f48c6b9757b87d5",
-   "title": "Jack Smith seen sporting 'No Kings' T-shirt at Power to the People festival",
-   "url": "https://thehill.com/blogs/in-the-know/6129885-jack-smith-no-kings-power-to-the-people-bruce-springsteen-foo-fighters/",
-   "summary": "Jack Smith is apparently swapping the suit and tie he wears when testifying at the Capitol for a \"No Kings\" T-shirt. The former special counsel was eyed over the weekend sporting a tee from a Bruce Springsteen concert tour bearing the pointed message while attending a music festival featuring some of President Trump's most vocal...",
-   "published": "2026-10-05T17:18:00+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-05T19:32:39.819157+00:00"
-  },
-  {
-   "id": "c101eb8a25d6a746",
-   "title": "President Trump and Republicans Are Delivering Real Results for Nebraska",
-   "url": "https://www.whitehouse.gov/releases/2026/10/president-trump-and-republicans-are-delivering-real-results-for-nebraska/",
-   "summary": "Today, President Donald J. Trump travels to Grand Island, Nebraska. Under President Trump and Republican leadership, families in the Cornhusker State are keeping more of what they earn, farmers and ranchers are getting direct support, private investment is expanding production, and crime is falling in the state\u2019s largest cities. Historic Tax Relief for Nebraskans President [&#8230;]\nThe post President Trump and Republicans Are Delivering Real Results for Nebraska appeared first on The White House.",
-   "published": "2026-10-05T17:02:29+00:00",
-   "source": "WhiteHouse.gov News",
-   "source_id": "whitehouse",
-   "bias_note": "official/primary-source",
-   "first_seen": "2026-10-05T19:32:37.813729+00:00"
-  },
-  {
-   "id": "25feb7e5475440d0",
-   "title": "Republican Ken Paxton admits forces in DC control his Texas Senate campaign",
-   "url": "https://www.theguardian.com/us-news/2026/oct/05/ken-paxton-texas-senate-campaign-control",
-   "summary": "\u2018I don\u2019t control message or what we\u2019re doing,\u2019 scandal- hit state attorney general reportedly says at private eventKen Paxton, the Texas attorney general chosen by Donald Trump to run as the Republican candidate for a Senate seat, admitted in private that his campaign was being controlled by outside forces in Washington DC.Paxton, who is locked in a competitive race with the progressive Democrat James Talarico, told people at a fundraising event in September that he had never felt such little control over his campaign because of outside influence. Continue reading...",
-   "published": "2026-10-05T16:01:45+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-10-05T19:32:38.446088+00:00"
-  },
-  {
-   "id": "f431e1a325e2beb8",
-   "title": "Former press secretary Karoline Leavitt lands her next gig: Fox News contributor",
-   "url": "https://abcnews.com/Politics/wireStory/former-press-secretary-karoline-leavitt-lands-gig-fox-137004427",
-   "summary": "Former White House press secretary Karoline Leavitt is joining Fox News as an on-air contributor starting November 1",
-   "published": "2026-10-05T15:48:14+00:00",
-   "source": "ABC News Politics",
-   "source_id": "abc-politics",
-   "bias_note": "center",
-   "first_seen": "2026-10-05T19:32:40.675731+00:00"
-  },
-  {
-   "id": "13fc9fdb9b4b3816",
-   "title": "Medicaid provider allegedly billed $165K for dead patient's rides among fraud exposed in explosive report",
-   "url": "https://www.foxnews.com/politics/medicaid-provider-allegedly-billed-165k-dead-patients-rides-among-fraud-exposed-explosive-report",
-   "summary": "A Colorado provider allegedly billed Medicaid hundreds of thousands for ghost rides and a dead patient as a new report exposes billions in healthcare fraud.",
-   "published": "2026-10-05T15:39:23+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-10-05T19:32:37.691848+00:00"
-  },
-  {
-   "id": "254ba8772fe7a1a1",
-   "title": "Former White House press secretary Karoline Leavitt lands her next gig as Fox News contributor",
-   "url": "https://www.pbs.org/newshour/politics/former-white-house-press-secretary-karoline-leavitt-lands-her-next-gig-as-fox-news-contributor",
-   "summary": "Leavitt follows Kayleigh McEnany, the former press secretary who joined Fox in 2021.",
-   "published": "2026-10-05T15:33:34+00:00",
-   "source": "PBS NewsHour Politics",
-   "source_id": "pbs-politics",
-   "bias_note": "center",
-   "first_seen": "2026-10-05T19:32:40.114338+00:00"
-  },
-  {
-   "id": "f773cad1e7e13234",
-   "title": "Trump uses taxpayer money for propaganda ads",
-   "url": "https://thehill.com/opinion/white-house/6127192-trump-using-taxpayer-money-ads/",
-   "summary": "People For the American Way president Svante Myrick criticized President Donald Trump for allegedly using $20 million in taxpayer funds designated for border security to run political advertisements.",
-   "published": "2026-10-05T14:30:00+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-05T14:49:48.680806+00:00"
-  },
-  {
-   "id": "106b596665071435",
-   "title": "WATCH LIVE: Trump campaigns with Ricketts in Nebraska, where ranchers have beef with his import plan",
-   "url": "https://www.pbs.org/newshour/politics/watch-live-trump-campaigns-with-ricketts-in-nebraska-where-ranchers-have-beef-with-his-import-plan",
-   "summary": "The Trump administration's plan to allow more imports of foreign beef has particularly roiled the agriculture-rich state of Nebraska.",
-   "published": "2026-10-05T14:09:24+00:00",
-   "source": "PBS NewsHour Politics",
-   "source_id": "pbs-politics",
-   "bias_note": "center",
-   "first_seen": "2026-10-05T14:49:48.842221+00:00"
-  },
-  {
-   "id": "5b21d37b7b64f146",
-   "title": "De Niro calls Trump a 'coward,' 'piece of s---'",
-   "url": "https://thehill.com/blogs/in-the-know/6129254-de-niro-trump-new-york-hands-off-our-vote-rally/",
-   "summary": "Robert De Niro is slamming President Trump, calling the commander in chief a \"coward\" and \"piece of s---\" in expletive-laden remarks and urging voters to \"take back the power\" in next month's elections. \"Power to the people isn't just a slogan \u2014 it's the founding principle of our nation, guaranteed by the Constitution,\" the \"Irishman\"...",
-   "published": "2026-10-05T13:59:20+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-05T14:49:48.680863+00:00"
-  },
-  {
-   "id": "80822e5896f7fbc3",
-   "title": "Trump\u2019s former press secretary Karoline Leavitt to join Fox News",
-   "url": "https://www.theguardian.com/us-news/2026/oct/05/karoline-leavitt-joins-fox-news",
-   "summary": "Youngest press secretary in White House history left earlier this year after the birth of her second childKaroline Leavitt, who stepped down as White House press secretary in August, is joining Fox News as an on-air contributor, according to the New York Times, citing a network announcement.Leavitt, 29, who was the youngest press secretary in White House history, left the administration after the birth of her second child earlier this year. She said at the time that she planned to spend more time with her family and take a role with the Trump-aligned Super Pac Maga Inc. Continue reading...",
-   "published": "2026-10-05T13:51:49+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-10-05T14:49:48.559732+00:00"
-  },
-  {
-   "id": "ca6f2e6e6ff273fa",
-   "title": "Karoline Leavitt joins Fox News as contributor after leaving White House press secretary role",
-   "url": "https://www.foxnews.com/media/karoline-leavitt-joins-fox-news-contributor-leaving-white-house-press-secretary-role",
-   "summary": "Karoline Leavitt is joining Fox News Channel as a contributor starting in November, bringing her experience as the youngest White House press secretary in history.",
-   "published": "2026-10-05T13:51:29+00:00",
-   "source": "Fox News Latest",
-   "source_id": "foxnews-latest",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-10-05T14:49:48.002940+00:00"
-  },
-  {
-   "id": "4333ee59cabd645c",
-   "title": "Former Republican House Speaker Dennis Hastert dead at 84",
-   "url": "https://www.foxnews.com/politics/former-republican-house-speaker-dennis-hastert-dead-84",
-   "summary": "Former Republican Rep. Dennis Hastert, the longest-serving GOP House Speaker, died at 84 after a career marred by his bank fraud conviction.",
-   "published": "2026-10-05T13:51:26+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-10-05T14:49:47.979616+00:00"
-  },
-  {
-   "id": "414681d2d6487c48",
-   "title": "Karoline Leavitt joining Fox News",
-   "url": "https://thehill.com/homenews/media/6129163-karoline-leavitt-joining-fox-news/",
-   "summary": "Karoline Leavitt, President Trump's former White House press secretary is set to join Fox News next month as a contributor. Leavitt, the only person to serve as the president's top spokesperson during his second term, will join a number of other former Trump administration officials and allies at the network, according to The New York...",
-   "published": "2026-10-05T13:39:08+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-05T14:49:48.680930+00:00"
-  },
-  {
-   "id": "459f1d59e22fd3e9",
-   "title": "Trump takes aim at the free press ahead of midterms",
-   "url": "https://thehill.com/opinion/white-house/6127712-trump-attacks-free-press-midterms/",
-   "summary": "President Trump and Defense Secretary Pete Hegseth have faced criticism for actions perceived as undermining the freedom of the press and withholding information regarding the ongoing war in Iran.",
-   "published": "2026-10-05T13:30:00+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-05T14:49:48.680933+00:00"
   }
  ]
 }
