@@ -1,7 +1,238 @@
 {
- "updated": "2026-10-19T04:49:05.732064+00:00",
- "count": 983,
+ "updated": "2026-10-19T13:28:00.701992+00:00",
+ "count": 994,
  "articles": [
+  {
+   "id": "42f83f3ab73362df",
+   "title": "Trump approval hits record low in new survey",
+   "url": "https://thehill.com/homenews/administration/6157404-donald-trump-sinking-approval-survey-midterms/",
+   "summary": "President Trump's approval rating hit a record low in a new survey, with just over two weeks until voters decide which party will control Congress next year. The Washington Post-ABC News-Ipsos poll, released Sunday, shows Trump sitting at 33 percent approval. The rating is 4 points lower than a previous poll conducted in July, 8...",
+   "published": "2026-10-19T13:12:07+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-19T13:27:59.661595+00:00"
+  },
+  {
+   "id": "32e40af032d2fc34",
+   "title": "LEE CARTER: 2026 election could all come down to just one type of voter",
+   "url": "https://www.foxnews.com/opinion/lee-carter-2026-election-come-down-one-type-voter",
+   "summary": "Trump won voters who skipped 2020 and 2022 by 14 points, suggesting voter turnout could matter far more than party persuasion in the 2026 midterms.",
+   "published": "2026-10-19T13:00:34+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-10-19T13:27:57.228477+00:00"
+  },
+  {
+   "id": "588cd184f2db3117",
+   "title": "Majority of Americans think Donald Trump is using presidency to enrich himself, new poll finds \u2013 live",
+   "url": "https://www.theguardian.com/us-news/live/2026/oct/19/donald-trump-kansas-roger-marshall-golf-ukraine-midterms-latest-news-updates",
+   "summary": "Trump\u2019s approval rating reaches new low; 66% of Americans think Trump is using position of power for monetary gain, including 34% of RepublicansSign up for US Breaking News emailA new Washington Post-ABC poll shows that Donald Trump\u2019s approval rating has reached a new low \u2013 33%.This comes, just over two weeks away from the November midterms, as the president continues crisscrossing the country as part of his campaign blitz for embattled Republicans. Continue reading...",
+   "published": "2026-10-19T13:00:04+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-10-19T13:27:57.780621+00:00"
+  },
+  {
+   "id": "befc081521e561b2",
+   "title": "Wicker calls on Trump, Zelensky to broker deal to stop strikes on Russian energy infrastructure",
+   "url": "https://thehill.com/homenews/senate/6157442-wicker-urges-donald-trump-zelensky-deal/",
+   "summary": "Senate Armed Services Committee Chairman Roger Wicker (R-Miss.) is calling on President Trump and Ukrainian President Volodymyr Zelensky to reach a deal to suspend Kyiv's strikes on Russian petroleum facilities, which Trump has blamed for high domestic gas prices. Trump earlier this month unilaterally declared a ceasefire on striking important energy targets in Russia and...",
+   "published": "2026-10-19T12:43:38+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-19T13:27:59.661631+00:00"
+  },
+  {
+   "id": "a576f74fa76a040b",
+   "title": "Live updates: GOP airs frustration over Russia sanctions waiver; Trump heads to Kansas",
+   "url": "https://thehill.com/homenews/administration/6156709-live-updates-trump-russia-sanctions-gop-midterms/",
+   "summary": "President Trump is defending his decision to delay new sanctions on Russia, arguing he does not want to drive Moscow away from the negotiating table as he works to end the war in Ukraine. The move, however, is drawing increasing scrutiny from Republicans. Sens. Darline Graham (R-S.C.) and Thom Tillis (R-N.C.) have been the most...",
+   "published": "2026-10-19T12:42:22+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-19T13:27:59.661636+00:00"
+  },
+  {
+   "id": "5743e8442addea2e",
+   "title": "Darline Graham: 'I would choose to keep the pressure on Russia'",
+   "url": "https://thehill.com/homenews/senate/6157363-darline-graham-russia-ukraine-pressure-trump-gop/",
+   "summary": "Sen. Darline Graham (R-S.C.) said she would rather keep sanctions on Russia after President Trump signed an executive order to waive the penalties. \u201cThe president and I share the same goal, which is to end the war, get gas and diesel prices down, and the sanctions bill is one of the tools we can use...",
+   "published": "2026-10-19T12:13:43+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-19T13:27:59.661647+00:00"
+  },
+  {
+   "id": "01a912cf1b8e63ef",
+   "title": "Third Ebola case in Kenya highlights US failures amid Trump cuts to key services",
+   "url": "https://www.theguardian.com/world/2026/oct/19/ebola-cases-kenya-us-quarantine",
+   "summary": "Opposition to US-led quarantine center in Kenya follows sweeping funding cuts and withdrawal from WHOA third person in Kenya has tested positive for Bundibugyo ebolavirus in the country\u2019s first-ever cluster of Ebola cases, as the second-largest outbreak in history kills more than 4,300 and sickens more than 9,000 people in the region.It highlights the diminished role the US has played in the worsening Ebola outbreak by building a controversial quarantine center in Kenya, pulling back health support globally, and banning travelers from certain countries. All of this has also reduced the ability",
+   "published": "2026-10-19T12:00:01+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-10-19T13:27:57.780631+00:00"
+  },
+  {
+   "id": "d771c05f13dd7528",
+   "title": "Don't let history repeat: The next Congress must end the Iran War",
+   "url": "https://thehill.com/opinion/campaign/6155154-congress-must-end-iran-war/",
+   "summary": "The next Congress must stop the war if President Trump hasn\u2019t done so before January. But that won\u2019t happen unless voters elect representatives on Nov. 3 with enough principle and spine to credibly threaten to remove him.",
+   "published": "2026-10-19T12:00:00+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-19T13:27:59.661653+00:00"
+  },
+  {
+   "id": "9391af473e7d01e6",
+   "title": "Trump heads to unlikely battleground as GOP fights to hold Senate and more top headlines",
+   "url": "https://www.foxnews.com/us/trump-heads-unlikely-battleground-gop-hold-senate-more-top-headlines",
+   "summary": "Get all the stories you need-to-know from the most powerful name in news delivered first thing every morning to your inbox.",
+   "published": "2026-10-19T11:25:37+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-10-19T13:27:57.228507+00:00"
+  },
+  {
+   "id": "a0b2416a47175dd3",
+   "title": "Judge refuses DOJ\u2019s demand to step aside from golf course hearing",
+   "url": "https://thehill.com/regulation/court-battles/6157323-judge-ana-reyes-donald-trump-east-potomac-park-tree-clearing-case/",
+   "summary": "A federal judge refused the Justice Department\u2019s (DOJ) demand to step aside from a key hearing on Monday over the future of East Potomac Park, which President Trump wants to renovate into a championship-style golf course.  The Trump administration has accused U.S. District Judge Ana Reyes of bias after she yelled at a government attorney last week...",
+   "published": "2026-10-19T11:18:05+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-19T13:27:59.661664+00:00"
+  },
+  {
+   "id": "842187f2cc10f727",
+   "title": "Trump tests GOP resolve on Russia, Ukraine",
+   "url": "https://thehill.com/newsletters/morning-report/6157316-donald-trump-gop-frustration-russia-ukraine/",
+   "summary": "In today's issue: \u25aa Zelensky raises pressure \u25aa No Kings protest as early vote starts \u25aa Experts see weak measles messaging \u25aa Trump endorses Netanyahu Republicans are growing increasingly frustrated over President Trump\u2019s recent moves that have advantaged Russia on the battlefield at the cost of the U.S.\u2019s ally Ukraine, but whether they can force the...",
+   "published": "2026-10-19T11:10:37+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-19T13:27:59.661670+00:00"
+  },
+  {
+   "id": "ca36cc38e89b87f1",
+   "title": "Saudi Arabia is learning the hard way: they can\u2019t count on Trump for protection | Mohamad Bazzi",
+   "url": "https://www.theguardian.com/commentisfree/2026/oct/19/saudi-arabia-trump-relationship",
+   "summary": "After Houthis escalated their attacks on Saudi Arabia, the US turned down calls from MBS for helpFor years, Saudi Arabia\u2019s crown prince, Mohammed bin Salman, cultivated a close relationship with Donald Trump and his son-in-law and former top adviser, Jared Kushner. The prince understood the president\u2019s transactional approach to power: he signed deals to buy billions of dollars\u2019 worth of US weapons and invested billions more in American companies.Days after Trump returned to the White House in January 2025, Prince Mohammed pledged to expand investment and trade with the US by $600bn over four y",
+   "published": "2026-10-19T11:00:55+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-10-19T13:27:57.780671+00:00"
+  },
+  {
+   "id": "e614232ec98ee01b",
+   "title": "Rep. Don Beyer, D-Va., on Trump waiving sanctions on Russia",
+   "url": "https://www.npr.org/2026/10/19/nx-s1-6007354/rep-don-beyer-d-va-on-trump-waiving-sanctions-on-russia",
+   "summary": "NPR's Leila Fadel asks Democratic Rep. Don Beyer of Virginia  about President Trump's decision to waive new sanctions on Russia.",
+   "published": "2026-10-19T10:37:56+00:00",
+   "source": "NPR Politics",
+   "source_id": "npr-politics",
+   "bias_note": "center",
+   "first_seen": "2026-10-19T13:27:57.681483+00:00"
+  },
+  {
+   "id": "cd6b17ebe18775b8",
+   "title": "Sticker tycoon. Trump cheerleader. Rapper. Congressman?",
+   "url": "https://www.theguardian.com/us-news/2026/oct/19/republican-anthony-constantino-new-york-house-midterms",
+   "summary": "Anthony Constantino wants to fill Elise Stefanik\u2019s seat in New York. But his lead in the formerly Trump-loving district is narrowingThe boss of a New York-based sticker company, whose staunch support for Donald Trump prompted him to record a Maga-themed rap album and call for an extension of Mount Rushmore to add the president\u2019s face, is running for Congress.Anthony Constantino, who began a brief pro boxing career at age 40, is the Republican candidate for GOP congresswoman Elise Stefanik\u2019s seat in New York\u2019s 21st district. Continue reading...",
+   "published": "2026-10-19T10:00:06+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-10-19T13:27:57.780637+00:00"
+  },
+  {
+   "id": "cd7fb89f52a63b0e",
+   "title": "Before, during, after: Outside groups race to counter any election interference by Trump",
+   "url": "https://thehill.com/homenews/campaign/6154952-outside-groups-midterm-election-interference/",
+   "summary": "Outside good-government groups are scrambling this month to secure the midterm results, bracing for the possibility that the Trump administration will interfere in the process to keep Republicans in power. The campaign, which features a who\u2019s who of pro-democracy advocates, comes in direct response to vows by President Trump and top Cabinet officials that the...",
+   "published": "2026-10-19T10:00:00+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-19T13:27:59.661679+00:00"
+  },
+  {
+   "id": "cc1fd10f14ad81ee",
+   "title": "Early childhood educators fear tougher working conditions amid Trump proposals",
+   "url": "https://thehill.com/homenews/education/6154587-head-start-deregulation-concerns/",
+   "summary": "Early childhood educators are sounding the alarm at changes proposed by the Trump administration to loosen regulations on the industry such as staff-to-child ratios.   Advocates are on the edge of their seats after the public comment period closed on a proposal from the administration that would take a unified Head Start, a program that...",
+   "published": "2026-10-19T10:00:00+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-19T13:27:59.661682+00:00"
+  },
+  {
+   "id": "2d56991742dfcbae",
+   "title": "He Tried to Set Limits on His State\u2019s School Vouchers. Billionaires Helped Bankroll a Campaign to Unseat Him.",
+   "url": "https://www.propublica.org/article/west-virginia-school-choice-billionaires-vernon-criss",
+   "summary": "The post He Tried to Set Limits on His State\u2019s School Vouchers. Billionaires Helped Bankroll a Campaign to Unseat Him. appeared first on ProPublica.",
+   "published": "2026-10-19T10:00:00+00:00",
+   "source": "ProPublica",
+   "source_id": "propublica",
+   "bias_note": "investigative",
+   "first_seen": "2026-10-19T13:28:00.185692+00:00"
+  },
+  {
+   "id": "2b56a2d95364dca9",
+   "title": "Ken Paxton\u2019s Anti-Abortion Influence Already Extended Beyond Texas. He Could Take It Further in the Senate.",
+   "url": "https://www.propublica.org/article/ken-paxton-texas-abortion-senate",
+   "summary": "The post Ken Paxton\u2019s Anti-Abortion Influence Already Extended Beyond Texas. He Could Take It Further in the Senate. appeared first on ProPublica.",
+   "published": "2026-10-19T09:30:00+00:00",
+   "source": "ProPublica",
+   "source_id": "propublica",
+   "bias_note": "investigative",
+   "first_seen": "2026-10-19T13:28:00.185698+00:00"
+  },
+  {
+   "id": "6af66fd74ce03b76",
+   "title": "US gave us no warning of Russian strikes on Kyiv power plants, Zelenskyy says",
+   "url": "https://www.theguardian.com/world/2026/oct/19/no-us-warning-russian-strikes-kyiv-power-plants-zelenskyy-ukraine-trump",
+   "summary": "Ukrainian president accuses Washington of \u2018denial of reality\u2019 in ongoing row with Trump over apparent support for MoscowUkraine did not receive a warning from the US about an impending Russian missile attack on Sunday evening, Volodymyr Zelenskyy has said, reviving concerns that Washington is withholding intelligence in order to bully Kyiv into capitulating to Moscow.Yuri Ihnat, a spokesperson for the Ukrainian Air Force, said on television on Monday morning that Ukraine had not received a warning before a Russian missile barrage hit power plants in Kyiv at around 11pm. Earlier, a Ukrainian go",
+   "published": "2026-10-19T09:03:55+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-10-19T13:27:57.780665+00:00"
+  },
+  {
+   "id": "802d34dd046a5e0f",
+   "title": "SCHOEN, COOPERMAN: Democrats could be riding a midterm wave. These numbers should terrify the GOP",
+   "url": "https://www.foxnews.com/opinion/schoen-cooperman-democrats-riding-midterm-wave-numbers-terrify-gop",
+   "summary": "Trump&apos;s approval below 40% and inflation concerns fuel Democratic momentum, but Republicans retain cash advantages ahead of the 2026 midterm elections.",
+   "published": "2026-10-19T09:00:43+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-10-19T13:27:57.228610+00:00"
+  },
+  {
+   "id": "5c0b74bd4c0715dd",
+   "title": "This Cybersecurity Agency Is Supposed to Protect U.S. Elections. Officials Fear It\u2019s Been Compromised by Trump.",
+   "url": "https://www.propublica.org/article/cisa-election-security-donald-trump",
+   "summary": "The post This Cybersecurity Agency Is Supposed to Protect U.S. Elections. Officials Fear It\u2019s Been Compromised by Trump. appeared first on ProPublica.",
+   "published": "2026-10-19T09:00:00+00:00",
+   "source": "ProPublica",
+   "source_id": "propublica",
+   "bias_note": "investigative",
+   "first_seen": "2026-10-19T13:28:00.185700+00:00"
+  },
   {
    "id": "bfa150e117b7f557",
    "title": "What does a White House press secretary do?",
@@ -10704,116 +10935,6 @@
    "source_id": "thehill",
    "bias_note": "center",
    "first_seen": "2026-10-05T14:49:48.680933+00:00"
-  },
-  {
-   "id": "2ea75775078b3e34",
-   "title": "Tillis warns of \u2018risk\u2019 Trump will lash out if Republicans have bad night in midterms",
-   "url": "https://thehill.com/homenews/senate/6129187-thom-tillis-donald-trump-midterm-elections/",
-   "summary": "Sen. Thom Tillis (R-N.C.) says there\u2019s a \u201crisk\u201d that President Trump will lash out if Republicans lose control of the House and possibly the Senate as well in next month\u2019s election. Asked by Ross Douthat during an interview with CBS\u2019s \u201c60 Minutes\u201d whether he had concerns about Trump\u2019s reaction if Republicans have a \u201cbad night\u201d...",
-   "published": "2026-10-05T13:24:59+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-05T14:49:48.680938+00:00"
-  },
-  {
-   "id": "ebdfc1483db8408d",
-   "title": "Trump administration monitoring suspected Russian plague outbreak",
-   "url": "https://thehill.com/policy/healthcare/6129162-white-house-monitors-russia-plague/",
-   "summary": "The Trump administration is monitoring a suspected case of the plague in Russia, the State Department told The Hill\u2019s sister network NewsNation. \u201cWe are aware of \u200breports of a fatal case of suspected pneumonic plague in Irkutsk Oblast, Russia. We are monitoring the situation closely with the [Centers for Disease Control and Prevention (CDC)] and...",
-   "published": "2026-10-05T13:21:08+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-05T14:49:48.680943+00:00"
-  },
-  {
-   "id": "29b11a72a6b00d1a",
-   "title": "Jeffries says House Democrats aiming to repeat 2018 sweep by flipping Trump districts",
-   "url": "https://www.pbs.org/newshour/politics/jeffries-says-house-democrats-aiming-to-repeat-2018-sweep-by-flipping-trump-districts",
-   "summary": "The Democratic Party is working to expand the map by going on offense in Republican-held districts, while President Donald Trump hits the trail in a red-state sprint to boost voter enthusiasm and shore up support from his base.",
-   "published": "2026-10-05T13:18:12+00:00",
-   "source": "PBS NewsHour Politics",
-   "source_id": "pbs-politics",
-   "bias_note": "center",
-   "first_seen": "2026-10-05T14:49:48.842230+00:00"
-  },
-  {
-   "id": "132e004479c4cc20",
-   "title": "The surprising, cut-throat race for Los Angeles mayor",
-   "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/05/the-surprising-cut-throat-race-for-los-angeles-mayor",
-   "summary": "Karen Bass is fighting for her political life as progressives battle to lead the US\u2019s second-largest cityKaren Bass has never lost an election. But this fall, she faces the fight of her political life.Bass has roughly a month to convince voters that she should be elected to a second term as the mayor of Los Angeles. Given Angelenos\u2019 broad dissatisfaction with the direction of the city, approval ratings on par with Donald Trump\u2019s and a wave of anti-establishment sentiment sweeping American politics, she has a formidable challenge in city council member Nithya Raman. Continue reading...",
-   "published": "2026-10-05T13:00:25+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-10-05T14:49:48.559743+00:00"
-  },
-  {
-   "id": "b3badf2ccbbdbd9c",
-   "title": "After 47 years of confronting Iran, does America have a strategy for ending this war?",
-   "url": "https://www.foxnews.com/opinion/after-47-years-confronting-iran-does-america-have-strategy-ending-war",
-   "summary": "Trump told the United Nations Iran must make a deal or face destruction, but seven months of war have yet to produce a clear political end state.",
-   "published": "2026-10-05T11:00:33+00:00",
-   "source": "Fox News Latest",
-   "source_id": "foxnews-latest",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-10-05T14:49:48.003032+00:00"
-  },
-  {
-   "id": "80a0073d18ae8e08",
-   "title": "Trump\u2019s recent statements on the economy are even more bonkers than usual | Steven Greenhouse",
-   "url": "https://www.theguardian.com/commentisfree/2026/oct/05/trump-us-economy-comments",
-   "summary": "Our \u2018genius\u2019 president is revealing his ignorance of economics, fueling concerns about the threat he poses to the worldDonald Trump recently made a bold claim about his abilities, writing on Truth Social: \u201cThe only control or \u2018guardrails\u2019 that AI needs is a STRONG AND SMART (High IQ!) PRESIDENT, and the U.S.A. has that, in spades!\u201dBut in the days before and after that post, Trump made one mind-boggling statement after another, including one that raised the possibility of cutting off all trade with dozens of the US\u2019s trading partners. The president\u2019s statements had many experts questioning not ",
-   "published": "2026-10-05T10:00:53+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-10-05T14:49:48.559782+00:00"
-  },
-  {
-   "id": "3eb252e0bbc81f4f",
-   "title": "How ProPublica Reporters Became Private School Owners in 24 Hours",
-   "url": "https://www.propublica.org/article/propublica-reporters-private-school-owners",
-   "summary": "The post How ProPublica Reporters Became Private School Owners in 24 Hours appeared first on ProPublica.",
-   "published": "2026-10-05T10:00:00+00:00",
-   "source": "ProPublica",
-   "source_id": "propublica",
-   "bias_note": "investigative",
-   "first_seen": "2026-10-05T14:49:49.070186+00:00"
-  },
-  {
-   "id": "916454614773ccf6",
-   "title": "Oklahoma Oil Company Plugs Disposal Well That Posed Threat to City\u2019s Drinking Water",
-   "url": "https://www.propublica.org/article/enid-oklahoma-oil-disposal-well-plugged",
-   "summary": "The post Oklahoma Oil Company Plugs Disposal Well That Posed Threat to City\u2019s Drinking Water appeared first on ProPublica.",
-   "published": "2026-10-05T09:00:00+00:00",
-   "source": "ProPublica",
-   "source_id": "propublica",
-   "bias_note": "investigative",
-   "first_seen": "2026-10-05T14:49:49.070192+00:00"
-  },
-  {
-   "id": "e6f6b20b4ab84605",
-   "title": "Monday briefing: You asked, we answered \u2013 how will the US midterms go?",
-   "url": "https://www.theguardian.com/world/2026/oct/05/monday-briefing-first-edition-us-midterms-donald-trump-washington",
-   "summary": "In today\u2019s newsletter: As Americans get ready to vote on whether the Republican party remains in control of Congress, our Washington editor talks about the disconnect between Trump and his supportersGood morning. Later today, Donald Trump will be in the state of Nebraska to rev up supporters as he kicks off a campaign blitz of rallies ahead of the midterm elections on 3 November.If his early speeches are anything to go by, cornhuskers can anticipate poll denial, accusations of veganism and an expletive ratio that my nine-year-old would love. And Nebraskans may love it, too: aside from one \u201cblu",
-   "published": "2026-10-05T05:44:42+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-10-05T14:49:48.559750+00:00"
-  },
-  {
-   "id": "013d2e7af5e6233a",
-   "title": "Trump heads to Nebraska on Monday, where his plans for imports have angered ranchers",
-   "url": "https://abcnews.com/Politics/wireStory/trump-heads-nebraska-monday-plan-import-beef-angered-136995164",
-   "summary": "President Donald Trump is campaigning in Nebraska on Monday alongside GOP Sen. Pete Ricketts",
-   "published": "2026-10-05T04:58:54+00:00",
-   "source": "ABC News Politics",
-   "source_id": "abc-politics",
-   "bias_note": "center",
-   "first_seen": "2026-10-05T05:48:51.630346+00:00"
   }
  ]
 }
