@@ -1,7 +1,205 @@
 {
- "updated": "2026-10-20T04:57:28.826075+00:00",
- "count": 995,
+ "updated": "2026-10-20T11:45:55.282519+00:00",
+ "count": 1005,
  "articles": [
+  {
+   "id": "b43780c23f729902",
+   "title": "DOJ charges 28 with voting crimes. And, TikTok ignored staff's child safety concerns",
+   "url": "https://www.npr.org/2026/10/20/g-s1-148877/up-first-newsletter-california-elections-doj-midterms-trump-tiktok",
+   "summary": "The Justice Department has charged 28 people in California with voting crimes as Election Day nears. And, TikTok staff raised child safety concerns with executives, who failed to act, court records show.",
+   "published": "2026-10-20T11:04:49+00:00",
+   "source": "NPR Politics",
+   "source_id": "npr-politics",
+   "bias_note": "center",
+   "first_seen": "2026-10-20T11:45:54.422254+00:00"
+  },
+  {
+   "id": "70ae5d92faf66b76",
+   "title": "Midwest pro-Trump state could hold key to Republicans' midterm hopes",
+   "url": "https://www.foxnews.com/politics/midwest-pro-trump-state-could-hold-key-republicans-midterm-hopes",
+   "summary": "Tom Emmer warns Iowa GOP supporters that turnout will decide whether House Republicans keep their majority as three districts face tough races.",
+   "published": "2026-10-20T11:00:47+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-10-20T11:45:53.964659+00:00"
+  },
+  {
+   "id": "7b0934a7fde109bd",
+   "title": "Trump puts fraudsters on notice with $25M whistleblower program offering cash for tips that deliver",
+   "url": "https://www.foxnews.com/politics/trump-puts-fraudsters-notice-25m-whistleblower-program-offering-cash-tips-deliver",
+   "summary": "President Donald Trump and Vice President JD Vance will unveil a $25 million fraud whistleblower program offering up to $30,000 for tips leading to convictions.",
+   "published": "2026-10-20T10:01:04+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-10-20T11:45:53.964667+00:00"
+  },
+  {
+   "id": "8bbc97749d6adaf2",
+   "title": "Voters prepare to weigh-in on Trump's economy as costs continue to surge",
+   "url": "https://www.foxnews.com/politics/voters-prepare-weigh-trumps-economy-costs-continue-surge-2-weeks-before-midterms",
+   "summary": "Gas prices surged 9.1% in September as consumer prices rose 3.7% annually, putting Trump&apos;s promise to lower costs to the test before midterms.",
+   "published": "2026-10-20T10:00:43+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-10-20T11:45:53.964671+00:00"
+  },
+  {
+   "id": "e182a3facfde1b06",
+   "title": "Kansas Senate race on a knife edge as Democrats aim to end 94 years of Republican dominance",
+   "url": "https://www.theguardian.com/us-news/2026/oct/20/kansas-senate-race-democrat-adam-hamilton",
+   "summary": "Kansas has not sent a Democrat to the Senate since 1932 \u2013 does Adam Hamilton have the courage, brain and heart to cause an extraordinary upset?Just two years after Donald Trump won Kansas by 16 points in his fight to regain the White House, Republicans in the state are scrambling to retain their dominance. The battle for one of its two seats in the US Senate is too close to call, setting the stage for a potentially extraordinary upset.Some recent polls even put Democrat Adam Hamilton on course for a historic victory. Kansans have not sent a representative of the party to the US Senate since 19",
+   "published": "2026-10-20T10:00:34+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-10-20T11:45:54.460942+00:00"
+  },
+  {
+   "id": "78dd3677f6b5d1f6",
+   "title": "We can stop Trump\u2019s assault on the international criminal court | Kenneth Roth",
+   "url": "https://www.theguardian.com/commentisfree/2026/oct/20/trump-icc-sanctions-opinion",
+   "summary": "Here\u2019s what we need to do to stand up for international lawMany applauded when Navi Pillay was awarded the Nobel peace prize. The South African human rights lawyer had chaired the UN commission of inquiry that found Israel to have committed genocide in Gaza and served for five years as a judge on the international criminal court (ICC).Donald Trump responded a few hours later by imposing sanctions on the ICC. He chose a moment for celebrating the rule of law to try to undermine it.Kenneth Roth is a Guardian US columnist, a senior fellow at Yale University and a former executive director of Huma",
+   "published": "2026-10-20T10:00:34+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-10-20T11:45:54.461023+00:00"
+  },
+  {
+   "id": "20dcbff3f9d40783",
+   "title": "Elissa Slotkin tells students like me not to work in government. Don\u2019t listen to her",
+   "url": "https://www.foxnews.com/opinion/elissa-slotkin-tells-students-not-work-government-dont-listen",
+   "summary": "Elissa Slotkin&apos;s University of Chicago remarks targeted young conservatives considering Trump administration roles, raising the stakes for midterms.",
+   "published": "2026-10-20T10:00:06+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-10-20T11:45:54.015205+00:00"
+  },
+  {
+   "id": "fa4730796f73c6e9",
+   "title": "How Democrats could make Trump's Education Department overhaul much harder",
+   "url": "https://thehill.com/homenews/education/6158427-democratic-house-senate-education-department/",
+   "summary": "Democrats are preparing to use all the tools at their disposal to halt the dismantling of the Education Department (ED) if they win the House or Senate in November.   President Trump, like many other Republicans, has long called for the department to be abolished, and his administration has slashed its workforce and created interagency...",
+   "published": "2026-10-20T10:00:00+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-20T11:45:54.653921+00:00"
+  },
+  {
+   "id": "7c471bd83cf1567c",
+   "title": "Corruption charges once propelled MAGA. Now they may doom it",
+   "url": "https://thehill.com/homenews/analysis/6159025-trump-populism-perot-influence/",
+   "summary": "You can find the origins of the MAGA movement, now hurtling toward its rendezvous with the midterm electorate, in many places.  The most obvious, straight-line antecedent is, of course, the Tea Party revolt of 2009 and 2010. The bipartisan backlash against the bailouts of Wall Street and Detroit fused with the conservative outrage at ObamaCare...",
+   "published": "2026-10-20T10:00:00+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-20T11:45:54.653940+00:00"
+  },
+  {
+   "id": "7b886f94e4405a3e",
+   "title": "JB Pritzker is turning midterm money into potential 2028 leverage",
+   "url": "https://thehill.com/homenews/campaign/6159156-pritzker-leads-midterm-money-war/",
+   "summary": "Illinois Gov. JB Pritzker (D) may be trailing some of his potential 2028 Democratic presidential rivals in the early polling of the race.\u00a0 But as he mulls a White House bid, the\u00a0billionaire governor is leading the midterms money war, pouring millions of dollars into Democratic campaigns. It\u2019s a move that could pay political dividends for...",
+   "published": "2026-10-20T10:00:00+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-20T11:45:54.653946+00:00"
+  },
+  {
+   "id": "ce9d7bb93fe2a098",
+   "title": "The Memo: Trump plan for golf course becomes battle over court's power",
+   "url": "https://thehill.com/homenews/analysis/6159286-trump-dc-golf-course-battle/",
+   "summary": "A battle over a Washington golf course has turned into a fiery showdown over the powers of the Trump administration to do as it wishes and the power of the courts to constrain it. At issue is the East Potomac Golf Links, an unglamorous but busy municipal course roughly 2 miles from the White House....",
+   "published": "2026-10-20T10:00:00+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-20T11:45:54.653949+00:00"
+  },
+  {
+   "id": "05b0a95121bb686e",
+   "title": "Mark Kelly climbs ranks of Democratic hopefuls, as he barnstorms country",
+   "url": "https://thehill.com/homenews/senate/6159329-mark-kelly-potential-democratic-presidential-candidate/",
+   "summary": "Sen. Mark Kelly (D-Ariz.) is climbing the ranks of potential 2028 Democratic White House hopefuls as he travels extensively around the country this year to meet voters and raise millions of dollars for Democratic candidates in key battleground states. Kelly will have campaigned for Democratic candidates in nearly 20 states by the end of the...",
+   "published": "2026-10-20T10:00:00+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-20T11:45:54.653953+00:00"
+  },
+  {
+   "id": "b11fa8e6f27a3b56",
+   "title": "MORNING GLORY: Minnesota's massive fraud scandal could deliver a stunning Senate upset",
+   "url": "https://www.foxnews.com/opinion/morning-glory-minnesotas-massive-fraud-scandal-deliver-stunning-senate-upset",
+   "summary": "Michele Tafoya&apos;s debate takedown of Peggy Flanagan over Minnesota&apos;s estimated $9 billion fraud scandal has reshaped the Minnesota Senate race.",
+   "published": "2026-10-20T09:00:52+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-10-20T11:45:54.015227+00:00"
+  },
+  {
+   "id": "90835477e5b6af09",
+   "title": "Ilhan Omar's sister questioned by feds after dramatic DC home raid",
+   "url": "https://www.foxnews.com/politics/ilhan-omars-sister-questioned-feds-after-dramatic-dc-home-raid",
+   "summary": "Ilhan Omar&apos;s older sister Sahra Noor was questioned by federal investigators in connection with the immigration fraud probe following the DHS raid.",
+   "published": "2026-10-20T09:00:33+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-10-20T11:45:53.964676+00:00"
+  },
+  {
+   "id": "cfe19c9a3b85683b",
+   "title": "Top Trump ally warns Republican Party 'dead' if it loses key voting bloc ahead of midterms",
+   "url": "https://www.foxnews.com/politics/top-trump-ally-warns-republican-party-dead-loses-key-voting-bloc-ahead-midterms",
+   "summary": "A top Senate Republican warns the GOP could be &quot;dead as a party&quot; if working-class voters abandon Republicans over economy and gas price woes.",
+   "published": "2026-10-20T09:00:29+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-10-20T11:45:53.964679+00:00"
+  },
+  {
+   "id": "5219d4ed9ca6109d",
+   "title": "The far left wants to kill the tech that can create Trump\u2019s golden age",
+   "url": "https://www.foxnews.com/opinion/far-left-wants-kill-tech-create-trumps-golden-age",
+   "summary": "Bernie Sanders wants to nationalize 50% of the AI industry and jail scientists, while Trump and Elon Musk push for a technological golden age.",
+   "published": "2026-10-20T09:00:12+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-10-20T11:45:54.015250+00:00"
+  },
+  {
+   "id": "fb98dcce3635a841",
+   "title": "How Trump\u2019s FBI Purge Saved Lindsey Graham and James Clyburn From a Bribery Investigation",
+   "url": "https://www.propublica.org/article/navatek-lindsey-graham-jim-clyburn-fbi-anti-corruption-bribery",
+   "summary": "The post How Trump\u2019s FBI Purge Saved Lindsey Graham and James Clyburn From a Bribery Investigation appeared first on ProPublica.",
+   "published": "2026-10-20T09:00:00+00:00",
+   "source": "ProPublica",
+   "source_id": "propublica",
+   "bias_note": "investigative",
+   "first_seen": "2026-10-20T11:45:54.952858+00:00"
+  },
+  {
+   "id": "6bbe5cc0d2a66344",
+   "title": "JD Vance declines to endorse Netanyahu for reelection, says he's focusing on midterms",
+   "url": "https://abcnews.com/Politics/wireStory/jd-vance-declines-endorse-netanyahu-reelection-focusing-midterms-137401417",
+   "summary": "Vice President JD Vance has declined to endorse Israeli President Benjamin Netanyahu for reelection a day after President Donald Trump endorsed the embattled Israeli leader",
+   "published": "2026-10-20T05:29:33+00:00",
+   "source": "ABC News Politics",
+   "source_id": "abc-politics",
+   "bias_note": "center",
+   "first_seen": "2026-10-20T11:45:55.115606+00:00"
+  },
   {
    "id": "4c65791a54bbed0c",
    "title": "UNC settles Trump admin probes into alleged campus antisemitism, race-based admissions",
@@ -10858,94 +11056,6 @@
    "source_id": "guardian-uspolitics",
    "bias_note": "left-leaning",
    "first_seen": "2026-10-06T15:15:24.766518+00:00"
-  },
-  {
-   "id": "bcfeca4f07247a9f",
-   "title": "A history of presidents naming things after themselves (It's short. They rarely do)",
-   "url": "https://www.npr.org/2026/10/06/nx-s1-5986321/kennedy-center-trump-naming-washington",
-   "summary": "While Trump pushes to get his name on the Kennedy Center and other public sites, history shows that sitting presidents have almost always avoided putting their brands on government assets.",
-   "published": "2026-10-06T11:00:00+00:00",
-   "source": "NPR Politics",
-   "source_id": "npr-politics",
-   "bias_note": "center",
-   "first_seen": "2026-10-06T15:15:24.638279+00:00"
-  },
-  {
-   "id": "faf372004c630cfa",
-   "title": "Battle over daylight saving time erupts as push to stop changing clocks hits Senate wall",
-   "url": "https://www.foxnews.com/politics/battle-over-daylight-saving-time-erupts-push-stop-changing-clocks-hits-senate-wall",
-   "summary": "President Donald Trump shared Tom Cotton&apos;s phone number to pressure the senator on the &quot;Sunshine Protection Act,&quot; but Cotton warns of dark winter mornings.",
-   "published": "2026-10-06T10:15:03+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-10-06T15:15:24.397437+00:00"
-  },
-  {
-   "id": "0dd50da289978fec",
-   "title": "President Trump endorses Wyoming's secretary of state for US House of Representatives",
-   "url": "https://www.foxnews.com/politics/president-trump-endorses-wyomings-secretary-state-us-house-representatives",
-   "summary": "President Donald Trump endorses Wyoming Secretary of State Chuck Gray for the U.S. House of Representatives ahead of the midterm election.",
-   "published": "2026-10-06T10:11:38+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-10-06T15:15:24.397440+00:00"
-  },
-  {
-   "id": "f01b54a00c728805",
-   "title": "More Than 500 U.S. Citizens Have Been Detained, Including Handcuffed or Held at Gunpoint, in Trump\u2019s Immigration Crackdown",
-   "url": "https://projects.propublica.org/american-citizens-detained-dhs-civil-rights/",
-   "summary": "The post More Than 500 U.S. Citizens Have Been Detained, Including Handcuffed or Held at Gunpoint, in Trump\u2019s Immigration Crackdown appeared first on ProPublica.",
-   "published": "2026-10-06T10:00:00+00:00",
-   "source": "ProPublica",
-   "source_id": "propublica",
-   "bias_note": "investigative",
-   "first_seen": "2026-10-06T15:15:26.692697+00:00"
-  },
-  {
-   "id": "9c81a4a3beb00566",
-   "title": "Disney, ABC battle Trump's FCC in court over free speech protections",
-   "url": "https://www.npr.org/2026/10/06/nx-s1-5991831/disney-battles-fcc",
-   "summary": "President Trump has repeatedly called for Disney's ABC to fire late night comedian Jimmy Kimmel, for mocking him. Trump has also routinely denounced ABC's The View, accusing it of being unfair.",
-   "published": "2026-10-06T09:17:00+00:00",
-   "source": "NPR Politics",
-   "source_id": "npr-politics",
-   "bias_note": "center",
-   "first_seen": "2026-10-06T15:15:24.638294+00:00"
-  },
-  {
-   "id": "61c7cb686f9449d4",
-   "title": "Democrats' advantage is clear with less than a month to go in the midterm elections",
-   "url": "https://www.npr.org/2026/10/06/nx-s1-5989694/midterm-elections-control-congress",
-   "summary": "President Trump is facing low approval ratings, and voters are blaming him for rising costs. Republicans are likely to pay the price at the ballot box next month.",
-   "published": "2026-10-06T09:00:00+00:00",
-   "source": "NPR Politics",
-   "source_id": "npr-politics",
-   "bias_note": "center",
-   "first_seen": "2026-10-06T15:15:24.638301+00:00"
-  },
-  {
-   "id": "e3c0d8e310b2b47b",
-   "title": "As Trump focuses the FBI on immigration, counterintelligence is falling behind",
-   "url": "https://www.npr.org/2026/10/06/g-s1-145511/fbi-trump-counterintelligence-units-cuts",
-   "summary": "The cuts come as a consequence of President Trump and FBI Director Kash Patel's focus on violent crime and immigration, leaving other priorities understaffed.",
-   "published": "2026-10-06T09:00:00+00:00",
-   "source": "NPR Politics",
-   "source_id": "npr-politics",
-   "bias_note": "center",
-   "first_seen": "2026-10-06T15:15:24.638303+00:00"
-  },
-  {
-   "id": "7a14ca8d0bb02b47",
-   "title": "Our Reporter Spent 10 Weeks Gambling on DraftKings. Here Are 5 Things He Learned.",
-   "url": "https://www.propublica.org/article/sports-gambling-draftkings-takeaways",
-   "summary": "The post Our Reporter Spent 10 Weeks Gambling on DraftKings. Here Are 5 Things He Learned. appeared first on ProPublica.",
-   "published": "2026-10-06T09:00:00+00:00",
-   "source": "ProPublica",
-   "source_id": "propublica",
-   "bias_note": "investigative",
-   "first_seen": "2026-10-06T15:15:26.692702+00:00"
   }
  ]
 }
