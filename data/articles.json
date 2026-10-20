@@ -1,7 +1,139 @@
 {
- "updated": "2026-10-20T11:45:55.282519+00:00",
- "count": 1005,
+ "updated": "2026-10-20T15:34:42.580657+00:00",
+ "count": 997,
  "articles": [
+  {
+   "id": "daa612b9cd6f470d",
+   "title": "Farmers to get one-time payments from $8 billion program, Trump says: What to know",
+   "url": "https://thehill.com/business/agriculture/6160126-farmers-to-get-one-time-payments-from-8-billion-program-trump-says-what-to-know/",
+   "summary": "President Trump on Monday announced a program meant to give farmers one-time payments to help \"offset diesel costs\" this harvest season, but it likely won't have an immediate impact.",
+   "published": "2026-10-20T15:31:53+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-20T15:34:41.609899+00:00"
+  },
+  {
+   "id": "831fa77c687414ee",
+   "title": "Gimmick or giveback? Even some Trump supporters don't expect to get $5,000 checks after midterms",
+   "url": "https://www.pbs.org/newshour/politics/gimmick-or-giveback-even-some-trump-supporters-dont-expect-to-get-5000-checks-after-midterms",
+   "summary": "The offering of government checks has become a go-to tactic for President Donald Trump when he faces a political jam.",
+   "published": "2026-10-20T15:27:05+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-10-20T15:34:41.973256+00:00"
+  },
+  {
+   "id": "2e829d8824e8e6cf",
+   "title": "Trump continues midterm campaign blitz in North Carolina \u2013 US politics live",
+   "url": "https://www.theguardian.com/us-news/live/2026/oct/20/donald-trump-midterms-republicans-democrats-north-carolina-latest-updates",
+   "summary": "President to stump for Michael Whatley, who is facing an uphill battle against Democrat Roy Cooper for the Senate, as elections are just two weeks awaySign up for the Breaking News US emailRepresentative Eugene Vindman, the Democratic congressman from Virginia, has slammed Marco Rubio\u2019s recent comments that the US is not witholding intelligence from Ukraine.\u201cHe [Rubio] is lying and so is the president when they say that they are not restricting intelligence in violation of the law,\u201d Vindman said in an interview with CNN. \u201cThere was a law that was passed in 2024 \u2013 the National Defense Authoriza",
+   "published": "2026-10-20T15:24:38+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-10-20T15:34:40.162597+00:00"
+  },
+  {
+   "id": "fa1d3ae003082924",
+   "title": "Jon Stewart: Trump waiving Russia sanctions 'insane' and 'incoherent'",
+   "url": "https://thehill.com/blogs/in-the-know/6160240-jon-stewart-trump-russia-sanctions-diesel-deal-daily-show/",
+   "summary": "Jon Stewart blasted President Trump for waiving sanctions on Russia to allow more of its diesel to come to market, calling the move \"insane\" and \"incoherent.\" The president signed an executive order last week that waived the sanctions bill he signed into law in September. The legislative package, which was passed by Congress with bipartisan...",
+   "published": "2026-10-20T15:13:45+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-20T15:34:41.609952+00:00"
+  },
+  {
+   "id": "390a751ccf964d42",
+   "title": "Vance says he thinks Trump will endorse him if he runs",
+   "url": "https://thehill.com/homenews/campaign/6160228-vance-trump-endorsement-speculation/",
+   "summary": "Vice President Vance said on Monday that if he runs for the GOP presidential nomination in 2028, President Trump \u201cwould endorse\u201d him amid speculation over whether he will announce a bid. \u201cI think I would get his endorsement, but I also think there's something to be said for people actually running their own race,\u201d Vance...",
+   "published": "2026-10-20T15:03:30+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-20T15:34:41.609967+00:00"
+  },
+  {
+   "id": "134a139504afb178",
+   "title": "The high cost of Trump\u2019s backward fuel policy",
+   "url": "https://thehill.com/opinion/white-house/6158816-fuel-efficiency-rollback-costs/",
+   "summary": "American consumers will pay dearly for this misguided decision.",
+   "published": "2026-10-20T15:00:00+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-20T15:34:41.609970+00:00"
+  },
+  {
+   "id": "fdc6c2f9e3b9a569",
+   "title": "Trump\u2019s obsession with Ilhan Omar has reached a dangerous new level | Arwa Mahdawi",
+   "url": "https://www.theguardian.com/commentisfree/2026/oct/20/trumps-obsession-with-ilhan-omar-has-reached-a-dangerous-new-level",
+   "summary": "The administration seems intent on stripping the congresswoman of her US citizenship and deporting her. It\u2019s a terrible abuse of powerWhat do you think it is about Ilhan Omar, exactly, that seems to get under Donald Trump\u2019s tangerine-tinted skin? The president has claimed he has a problem with the progressive Democratic congresswoman because she is \u201cunpatriotic\u201d to the US and \u201cdisrespectful \u2026 to Israel\u201d. However, the extent of his animus towards Omar, the first Somali American in Congress, suggests there\u2019s more to it. Trump has insisted he is \u201cthe least racist person there is anywhere in the w",
+   "published": "2026-10-20T14:56:35+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-10-20T15:34:40.162645+00:00"
+  },
+  {
+   "id": "7d87ebfb1346056f",
+   "title": "How President Trump Ended the Border Invasion and Restored American Sovereignty",
+   "url": "https://www.whitehouse.gov/releases/2026/10/how-president-trump-ended-the-border-invasion-and-restored-american-sovereignty/",
+   "summary": "President Donald J. Trump was returned to office with a clear mandate to end the invasion that Democrats allowed to overwhelm communities, drain public resources, and endanger public safety. In less than two years, the Trump Administration has delivered the largest reduction in the illegal alien population in modern history, driven illegal crossings to an [&#8230;]\nThe post How President Trump Ended the Border Invasion and Restored American Sovereignty appeared first on The White House.",
+   "published": "2026-10-20T14:51:09+00:00",
+   "source": "WhiteHouse.gov News",
+   "source_id": "whitehouse",
+   "bias_note": "official/primary-source",
+   "first_seen": "2026-10-20T15:34:39.458964+00:00"
+  },
+  {
+   "id": "1ee01d5b6c4f52b3",
+   "title": "Trump uses antisemitic slur at Kansas rally",
+   "url": "https://thehill.com/homenews/campaign/6160002-trump-uses-antisemitic-slur/",
+   "summary": "President Trump used an antisemitic slur at a rally in Kansas on Monday while defending Sen. Roger Marshall (R-Kan.) over revelations he sued his patients for unpaid medical bills. Trump has defended Marshall for going after the unpaid bills, saying he was \u201cmandated by law\u201d to do so. \u201cHe was mandated by law to request,...",
+   "published": "2026-10-20T14:26:22+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-20T15:34:41.609989+00:00"
+  },
+  {
+   "id": "a1657e4d269d86b3",
+   "title": "These numbers show just how fraudulent Notre Dame has been during the Marcus Freeman era",
+   "url": "https://www.foxnews.com/outkick-sports/numbers-show-fraudulent-notre-dame-marcus-freeman-era",
+   "summary": "Marcus Freeman&apos;s 44-11 regular season record hides a stunning stat: only five wins against ranked opponents, two of which were service academies.",
+   "published": "2026-10-20T13:07:26+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-10-20T15:34:39.338996+00:00"
+  },
+  {
+   "id": "882829a576a287a3",
+   "title": "Fox News Power Rankings: Trump country at a crossroads",
+   "url": "https://www.foxnews.com/politics/fox-news-power-rankings-trump-country-crossroads",
+   "summary": "Rural voters are wavering on the GOP as cost of living, unemployment and AI data centers reshape the political landscape in heartland states.",
+   "published": "2026-10-20T13:00:03+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-10-20T15:34:39.201311+00:00"
+  },
+  {
+   "id": "c5b737aaf1f8ebd1",
+   "title": "DOJ sends grand jury subpoenas to Philadelphia DA Krasner after judge's referral, sources say",
+   "url": "https://www.foxnews.com/politics/doj-sends-grand-jury-subpoenas-philadelphia-da-krasner-after-judges-referral-sources-say",
+   "summary": "Grand jury subpoenas target Philadelphia District Attorney Larry Krasner&apos;s office after a federal judge referred him to the DOJ for investigation.",
+   "published": "2026-10-20T12:49:16+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-10-20T15:34:39.201318+00:00"
+  },
   {
    "id": "b43780c23f729902",
    "title": "DOJ charges 28 with voting crimes. And, TikTok ignored staff's child safety concerns",
@@ -188,6 +320,17 @@
    "source_id": "propublica",
    "bias_note": "investigative",
    "first_seen": "2026-10-20T11:45:54.952858+00:00"
+  },
+  {
+   "id": "9f62dfac9ac0cde0",
+   "title": "Retiring Republican Senator warns GOP: Trump's coalition may not last",
+   "url": "https://www.politico.com/video/2026/10/20/retiring-republican-senator-warns-gop-trumps-coalition-may-not-last-2204947",
+   "summary": "",
+   "published": "2026-10-20T09:00:00+00:00",
+   "source": "Politico",
+   "source_id": "politico",
+   "bias_note": "center",
+   "first_seen": "2026-10-20T15:34:40.309416+00:00"
   },
   {
    "id": "6bbe5cc0d2a66344",
@@ -10825,237 +10968,6 @@
    "source_id": "guardian-uspolitics",
    "bias_note": "left-leaning",
    "first_seen": "2026-10-06T17:03:59.985735+00:00"
-  },
-  {
-   "id": "edf9f0be206bf890",
-   "title": "Aviation security has an over-screening problem",
-   "url": "https://thehill.com/opinion/national-security/6130478-tsa-horizon-25-security-strategy/",
-   "summary": "The 25th anniversary of 9/11 is now behind us.\u00a0Though the effects continue, recent proposals by the Transportation Security Administration (TSA), described in its Horizon 25 Strategy, suggest that more changes are coming.\u00a0What remains to be seen is whether such changes will keep the nation\u2019s air space safe.",
-   "published": "2026-10-06T15:30:00+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-06T17:04:00.124554+00:00"
-  },
-  {
-   "id": "f91eb0a66efcbc8f",
-   "title": "Judge blocks Trump administration move to fine migrants",
-   "url": "https://thehill.com/regulation/court-battles/6131425-boston-judge-blocks-migrant-fines/",
-   "summary": "A federal judge in Boston on Monday blocked the Trump administration's effort to fine migrants up to $1.8 million for failing to leave the U.S. after receiving their final order to deport. U.S. District Judge George O'Toole ruled that the administration unlawfully imposed the fines and wrote that migrants in the \"economically precarious position\" of...",
-   "published": "2026-10-06T15:16:50+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-06T17:04:00.124568+00:00"
-  },
-  {
-   "id": "755e8909a10fbb5c",
-   "title": "Cotton's opponent: 'Not once' has daylight savings come up on campaign trail",
-   "url": "https://thehill.com/homenews/campaign/6131527-trump-criticizes-arkansas-senator-cotton/",
-   "summary": "Sen. Tom Cotton\u2019s (R-Ark.) Democratic opponent Hallie Shoffner said on Tuesday that \u201cnot once\u201d has daylight savings come up on the campaign trail, after President Trump aired his frustration over stalled legislation that would make daylight saving time permanent. In an interview on MS NOW, Shoffner stated that, \u201cI'll tell you, over the 450 days...",
-   "published": "2026-10-06T15:11:29+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-06T15:15:26.089054+00:00"
-  },
-  {
-   "id": "4993d87bef238343",
-   "title": "White House pushes back on characterization of Trump\u2019s Iran comments on LA, San Diego",
-   "url": "https://thehill.com/homenews/6131434-white-house-trump-comments-iran-california-cities/",
-   "summary": "The White House pushed back on critics\u2019 characterization of President Trump\u2019s comments at a rally on Monday evening suggesting Iran could \u201ctake out\u201d Los Angeles and San Diego.  \u201cThe media freakout over President Trump\u2019s comments is not rooted in reality,\u201d White House communications director Steven Cheung wrote in a post on X on Tuesday.  \u201cHe...",
-   "published": "2026-10-06T14:49:42+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-06T15:15:26.089098+00:00"
-  },
-  {
-   "id": "8a77c091bf25e446",
-   "title": "Republican candidate for San Diego House district criticizes Trump comments on Iran \u2013 US politics live",
-   "url": "https://www.theguardian.com/us-news/live/2026/oct/06/donald-trump-ads-diesel-baltimore-midterms-media-latest-news-updates",
-   "summary": "Jim Desmond pushes back after president says losing Los Angeles and San Diego would be \u2018small price to pay\u2019Q&amp;A: The Iran war is unpopular, but will it cost Trump the midterms? Our reporters answer your questionsSign up for Breaking News US emailTwo media giants, Paramount and Warner Bros Discovery, have completed their $110bn merger, creating a new entertainment powerhouse, Skydance.The deal, fiercely contested by several state attorneys general over potential antitrust concerns, formally closed on Tuesday. Continue reading...",
-   "published": "2026-10-06T14:46:30+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-10-06T15:15:24.766478+00:00"
-  },
-  {
-   "id": "03bcebbd861464e6",
-   "title": "JD Vance and Ted Cruz are fighting for control of the GOP. The problem? Neither is called Trump | Arwa Mahdawi",
-   "url": "https://www.theguardian.com/commentisfree/2026/oct/06/jd-vance-ted-cruz-fighting-control-gop-trump-midterms",
-   "summary": "Having seemingly written off the midterms, the Republican bigwigs are making their pitches for 2028. But the current commander-in-chief could be looking closer to homeThe US midterm elections are a month away and it\u2019s looking rough for the Republicans. I wouldn\u2019t discount devious schemes behind the scenes, but, on the face of it, the president and his entourage seem to be flailing. Donald Trump is desperately dangling money in front of voters and promising \u201ca big surprise\u201d. Meanwhile, the vice-president, JD Vance, and the GOP senator Ted Cruz seem more concerned with fighting over who will be ",
-   "published": "2026-10-06T14:46:05+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-10-06T15:15:24.766526+00:00"
-  },
-  {
-   "id": "49ef2abab1956677",
-   "title": "Trump creates California controversy; Vance, Cruz get personal: Live discussion",
-   "url": "https://thehill.com/homenews/campaign/fight-for-2028/6131335-trump-creates-california-controversy-vance-cruz-get-personal-live-discussion/",
-   "summary": "The gloves are coming off in the fight for 2028 as President Trump courts controversy with comments that Iran could \u201ctake out\u201d Los Angeles or San Diego if it obtains nuclear weapons. California Gov. Gavin Newsom, a potential presidential candidate, led the charge against Trump. Meanwhile, Sen. Ted Cruz (R-Texas) and Vice President Vance took...",
-   "published": "2026-10-06T14:26:37+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-06T15:15:26.089109+00:00"
-  },
-  {
-   "id": "a1a78fa75700a409",
-   "title": "Alito says Supreme Court can't stem rise of emergency appeals, 'not pleased' with Trump's rhetoric",
-   "url": "https://www.pbs.org/newshour/politics/alito-says-supreme-court-cant-stem-rise-of-emergency-appeals-not-pleased-with-trumps-rhetoric",
-   "summary": "The justice told The Associated Press in a rare interview that the rhetoric about the court from Trump and his administration doesn't sit well with him.",
-   "published": "2026-10-06T14:25:51+00:00",
-   "source": "PBS NewsHour Politics",
-   "source_id": "pbs-politics",
-   "bias_note": "center",
-   "first_seen": "2026-10-06T15:15:26.384333+00:00"
-  },
-  {
-   "id": "caa68434ed27525f",
-   "title": "86 percent think taxpayer-funded, campaign-style Trump ads inappropriate: Survey",
-   "url": "https://thehill.com/homenews/administration/6131379-donald-trump-taxpayer-tv-ads-disapproval-survey/",
-   "summary": "An overwhelming majority of Americans in a new poll released Monday said the Trump administration\u2019s use of taxpayer dollars to fund campaign-style TV advertisements was inappropriate. The Reuters/Ipsos survey found that 86 percent of U.S. adults disapproved of the use of taxpayer money for the $20 million ad campaign, with only 9 percent in support...",
-   "published": "2026-10-06T14:16:26+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-06T15:15:26.089114+00:00"
-  },
-  {
-   "id": "430a31afe957fa6c",
-   "title": "DOJ files record number of cases to strip Americans of citizenship",
-   "url": "https://thehill.com/homenews/administration/6131387-doj-strips-citizenship-record/",
-   "summary": "The Department of Justice (DOJ) has filed a record number of cases to strip Americans of citizenship, the department said Monday. In a Monday press release, the department said it unveiled on Monday the filing of denaturalization actions targeting 40 people \u201caccused of serious offenses.\u201d The filings occurred in a number of U.S. district courts,...",
-   "published": "2026-10-06T14:15:00+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-06T15:15:26.089119+00:00"
-  },
-  {
-   "id": "cc27d207c0f1ee6e",
-   "title": "Tillis: 'Almost statistically impossible' for Republicans to win House in midterms",
-   "url": "https://thehill.com/homenews/senate/6131351-thom-tillis-republicans-house-midterm-elections/",
-   "summary": "Sen. Thom Tillis (R-N.C.) said Monday it is \u201calmost statistically impossible\u201d for the Republican Party to retain control of the House in the 2026 midterm elections. Appearing on MS NOW\u2019s \u201cThe Beat,\u201d host Ari Melber asked the senator about divisions within the GOP driven by President Trump. \u201cI'm supporting the president because he's the head...",
-   "published": "2026-10-06T14:12:04+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-06T15:15:26.089123+00:00"
-  },
-  {
-   "id": "8a20e3108fc15b35",
-   "title": "Trump responds to concerns over suspected plague case in Russia, saying US 'willing to help'",
-   "url": "https://www.foxnews.com/politics/trump-responds-concerns-suspected-plague-case-russia-saying-us-willing-help",
-   "summary": "President Donald Trump declares that the United States is &quot;willing to help&quot; amid the scare regarding the death of a person who worked at an anti-plague facility in Russia.",
-   "published": "2026-10-06T14:03:15+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-10-06T15:15:24.397416+00:00"
-  },
-  {
-   "id": "6dc34fdbc1836c9d",
-   "title": "US justice department moves to strip citizenship of 40 naturalized citizens",
-   "url": "https://www.theguardian.com/us-news/2026/oct/06/trump-justice-department-denaturalize-citizens-crimes",
-   "summary": "Officials file \u2018denaturalization actions\u2019 against people accused of crimes in what they call \u2018largest\u2019 such initiativeDonald Trump\u2019s justice department has moved to strip the citizenship of 40 naturalized citizens accused of crimes in what authorities describe as \u201cthe largest\u201d such initiative over a single period during his administration.US justice department officials on Monday announced the filing of \u201cdenaturalization actions\u201d against more than three dozen people alleged to have committed such offenses as \u201cacting as an agent for a foreign government, committing voluntary manslaughter, and a",
-   "published": "2026-10-06T13:53:41+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-10-06T15:15:24.766492+00:00"
-  },
-  {
-   "id": "ec8255477ec963e8",
-   "title": "Cornell faculty prepare no-confidence vote against administration",
-   "url": "https://thehill.com/homenews/education/6131322-cornell-faculty-no-confidence-vote/",
-   "summary": "Cornell faculty has prepared a no-confidence vote against the university administration amid criticism over the school's handling of the alleged gang rape in 2024.\u00a0 The no-confidence resolution is led by Paul Ortiz, a professor of labor history at Cornell, and will be reviewed by members of the Cornell University Faculty Senate on October 14. \"The...",
-   "published": "2026-10-06T13:52:11+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-06T15:15:26.089136+00:00"
-  },
-  {
-   "id": "49cd6326f3f54524",
-   "title": "Phil Collins says Trump 'sees everything as a deal': 'Very scary time'",
-   "url": "https://thehill.com/blogs/in-the-know/6131321-phil-collins-piers-morgan-trump/",
-   "summary": "Phil Collins is knocking President Trump as \"nasty,\" saying that the commander in chief \"plays politics like a businessman,\" even though handling U.S. and international relations isn't \"really a business at all.\" \"It's diplomacy,\" Collins said in a recent interview on \"Piers Morgan Uncensored.\" \"Sometimes you can lose, but still come out winning,\" the \"In...",
-   "published": "2026-10-06T13:52:00+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-06T15:15:26.089139+00:00"
-  },
-  {
-   "id": "53092ea42727dcce",
-   "title": "NYT columnist thrashed online for suggesting Trump is to blame for alleged Cornell gang rape",
-   "url": "https://www.foxnews.com/politics/nyt-columnist-thrashed-online-suggesting-trump-blame-alleged-cornell-gang-rape",
-   "summary": "New York Times columnist Michelle Cottle blamed Trump for the culture behind an alleged Cornell University gang rape that occurred under Biden.",
-   "published": "2026-10-06T13:17:36+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-10-06T15:15:24.397422+00:00"
-  },
-  {
-   "id": "ff3eb3ceef3dbd9b",
-   "title": "Millions saved by blocking dead people payouts as Trump Treasury drops hammer on federal fraud",
-   "url": "https://www.foxnews.com/politics/millions-saved-blocking-dead-people-payouts-trump-treasury-drops-hammer-federal-fraud",
-   "summary": "Treasury&apos;s &quot;Do Not Pay&quot; program screened over 1.1 billion payments worth $3.7 trillion, catching 13,500 improper payments to deceased people.",
-   "published": "2026-10-06T13:00:50+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-10-06T15:15:24.397425+00:00"
-  },
-  {
-   "id": "bad040d02ca91c83",
-   "title": "Trump 2.0 is targeting US protesters with \u2018antifa\u2019 charges. Activists started a union to fight back",
-   "url": "https://www.theguardian.com/us-news/2026/oct/06/trump-protesters-antifa-defendants-union",
-   "summary": "NSPM-7 Defendants Union plans to offer legal clinics, media training and more to people facing prosecution for protestDar\u00edo S\u00e1nchez is facing state charges related to a protest he did not attend. Indictments against the 33-year-old Texas middle school teacher have changed three times. He has also been arrested and released three times, most recently for an online search for how to replace an old Game Boy battery; police alleged he was seeking information on explosives.\u201cI\u2019ve seen my case as one manifestation of all the different ways the Trump administration is going after people \u2013 regardless o",
-   "published": "2026-10-06T13:00:15+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-10-06T15:15:24.766501+00:00"
-  },
-  {
-   "id": "0e727cd673e65064",
-   "title": "Veteran conservative lawyer quits Trump\u2019s interior department and warns of \u2018assault on the rule of law\u2019",
-   "url": "https://www.theguardian.com/us-news/2026/oct/06/veteran-conservative-quits-trumps-interior-department",
-   "summary": "John Murdock had been working for the agency for 18 years and his resignation comes during an exodus of longtime federal workers and scientists An 18-year veteran of the US Department of the Interior has resigned in protest from the sprawling federal agency, denouncing \u201ca deeply troubling assault on the rule of the law\u201d that took place at the department under Donald Trump.John Murdock, an attorney and self-described conservative Christian, began working for the agency\u2019s legal office in 2002. In his resignation letter, first sent to his supervisor earlier this year and obtained exclusively by t",
-   "published": "2026-10-06T13:00:15+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-10-06T15:15:24.766509+00:00"
-  },
-  {
-   "id": "1a66e783381b1e90",
-   "title": "James Carville warns Dems against impeaching Trump if they win control in midterms",
-   "url": "https://www.foxnews.com/media/james-carville-warns-dems-against-impeaching-trump-win-control-midterms",
-   "summary": "James Carville warned the Supreme Court shields Trump from consequences while Al Hunt calls impeachment a &quot;waste of energy&quot; that won&apos;t succeed.",
-   "published": "2026-10-06T12:43:28+00:00",
-   "source": "Fox News Latest",
-   "source_id": "foxnews-latest",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-10-06T15:15:24.415636+00:00"
-  },
-  {
-   "id": "76a77bd1cb4fe50b",
-   "title": "US, Israeli and European far-right figures to gather for conference in Israel",
-   "url": "https://www.theguardian.com/us-news/2026/oct/06/us-israel-far-right-conference",
-   "summary": "Trump\u2019s counter-terrorism \u2018czar\u2019, Sebastian Gorka, was scheduled to speak at conference but White House says he will no longer attendA National Conservatism (NatCon) conference beginning today in Jerusalem advertises a talk from the Trump administration\u2019s anti-terrorism czar alongside speeches from far-right Israeli politicians, European figures who have faced disciplinary action over alleged antisemitism, and Christian nationalist and far-right figures from the United States.The Jerusalem event is perhaps the most significant recent gathering to feature large contingents of Israeli nationalis",
-   "published": "2026-10-06T12:21:01+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-10-06T15:15:24.766518+00:00"
   }
  ]
 }
