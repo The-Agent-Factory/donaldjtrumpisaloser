@@ -1,7 +1,73 @@
 {
- "updated": "2026-10-21T00:39:40.050877+00:00",
- "count": 992,
+ "updated": "2026-10-21T07:44:16.476609+00:00",
+ "count": 993,
  "articles": [
+  {
+   "id": "51df4085e72593be",
+   "title": "A 'golden age' vs. 'we're working on it': Trump, Vance give different economy pitches",
+   "url": "https://abcnews.com/Politics/wireStory/golden-age-working-trump-vance-give-pitches-economy-137435843",
+   "summary": "When Vice President JD Vance speaks on the campaign trail about the high costs Americans are facing, he often says he understands that people are hurting",
+   "published": "2026-10-21T07:22:15+00:00",
+   "source": "ABC News Politics",
+   "source_id": "abc-politics",
+   "bias_note": "center",
+   "first_seen": "2026-10-21T07:44:16.152715+00:00"
+  },
+  {
+   "id": "da7eaf346086c48a",
+   "title": "DHS launches nationwide ICE operation targeting illegal immigrants accused of SNAP food stamp fraud",
+   "url": "https://www.foxnews.com/us/dhs-launches-nationwide-ice-operation-targeting-illegal-immigrants-accused-snap-food-stamp-fraud",
+   "summary": "The Department of Homeland Security launched a nationwide ICE operation arresting illegal immigrants accused of fraudulently obtaining SNAP benefits.",
+   "published": "2026-10-21T03:54:50+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-10-21T07:44:14.510414+00:00"
+  },
+  {
+   "id": "4ec5caee751891ba",
+   "title": "Some on DOJ's 20,000 \"likely\" noncitizen list in Calif. appear to be U.S.-born",
+   "url": "https://www.npr.org/2026/10/20/nx-s1-6009873/california-doj-voter-rolls-noncitizens",
+   "summary": "Election officials in Los Angeles County say their preliminary analysis of the federal government's list of 20,000 \"likely\" noncitizens registered to vote in California shows the list is \"unreliable.\"",
+   "published": "2026-10-21T02:15:50+00:00",
+   "source": "NPR Politics",
+   "source_id": "npr-politics",
+   "bias_note": "center",
+   "first_seen": "2026-10-21T07:44:14.979062+00:00"
+  },
+  {
+   "id": "3997f07e5aba738e",
+   "title": "The Secret Terms of Trump\u2019s Venezuelan Oil Deal",
+   "url": "https://www.propublica.org/article/trump-venezuela-oil-agreement-terms",
+   "summary": "The post The Secret Terms of Trump\u2019s Venezuelan Oil Deal appeared first on ProPublica.",
+   "published": "2026-10-21T01:53:00+00:00",
+   "source": "ProPublica",
+   "source_id": "propublica",
+   "bias_note": "investigative",
+   "first_seen": "2026-10-21T07:44:15.863559+00:00"
+  },
+  {
+   "id": "057ac20d38435091",
+   "title": "Trump says Pentagon will invest $1.5 billion into North Carolina chip production",
+   "url": "https://thehill.com/homenews/administration/6161642-trump-pentagon-semiconductor-investment/",
+   "summary": "President Trump on Tuesday announced a $1.5 billion dollar investment from the Pentagon to expand semiconductor production in North Carolina, as the administration pushes to reshore manufacturing to the U.S. \u201cThe Department of War will be investing $1.5 billion dollars to produce cutting-edge semiconductor chips right here in North Carolina,\u201d Trump said while speaking at...",
+   "published": "2026-10-21T01:26:11+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-21T07:44:15.495836+00:00"
+  },
+  {
+   "id": "8466f224a51b848d",
+   "title": "Trump snaps at White House reporter: 'Are you a sick person?'",
+   "url": "https://thehill.com/homenews/media/6161621-trump-snaps-at-white-house-reporter-are-you-a-sick-person/",
+   "summary": "President Trump snapped at a reporter in the Oval Office on Tuesday, telling him to be \u201cquiet.\u201d As the president took questions from journalists in the Oval Office earlier Tuesday, one reporter appeared to begin asking about changes to East Potomac Park that include a new golf course. \u201cOn the golf course, sir, you own...",
+   "published": "2026-10-21T00:51:22+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-21T07:44:15.495846+00:00"
+  },
   {
    "id": "a5ec0beb631c4559",
    "title": "Americans who moved to Europe after Trump win now say they regret leaving",
@@ -10858,61 +10924,6 @@
    "source_id": "propublica",
    "bias_note": "investigative",
    "first_seen": "2026-10-07T17:26:36.396526+00:00"
-  },
-  {
-   "id": "4d6057c8f027ae00",
-   "title": "Federal judge blocks Trump administration fines of up to $1.8M for migrants",
-   "url": "https://www.foxnews.com/politics/federal-judge-blocks-trump-administration-fines-up-1-8m-migrants",
-   "summary": "A federal judge blocked the Trump administration&apos;s migrant fines of up to $1.8 million, ruling DHS unlawfully imposed civil penalties for ignoring final deportation orders.",
-   "published": "2026-10-07T06:44:11+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-10-07T08:45:56.269505+00:00"
-  },
-  {
-   "id": "974d3b58fa33c8b4",
-   "title": "Debra Messing says cost of living, subway violence pushed her to back Trump-endorsed Republican",
-   "url": "https://www.foxnews.com/entertainment/debra-messing-cost-living-subway-violence-pushed-back-trump-endorsed-republican",
-   "summary": "Debra Messing explains why affordability, public safety, and congestion pricing concerns led her to back Republican Bruce Blakeman for governor.",
-   "published": "2026-10-07T02:09:46+00:00",
-   "source": "Fox News Latest",
-   "source_id": "foxnews-latest",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-10-07T08:45:56.312204+00:00"
-  },
-  {
-   "id": "c7d80e1560da7dbd",
-   "title": "\u2018Not exactly his favorite senator\u2019: Susan Collins distances herself from Trump in Maine debate",
-   "url": "https://www.theguardian.com/us-news/2026/oct/06/susan-collins-maine-debate-senate",
-   "summary": "Republican challenged by Democrat Troy Jackson in critical Senate race says she opposes Iran war and Canada tariffsSusan Collins, the Republican senator for Maine, pointedly distanced herself from Donald Trump in a televised debate with Democratic challenger Troy Jackson on Tuesday, as she sought to present an image of independence in a state that has voted against Trump three times.Proclaiming herself as not the US president\u2019s \u201cfavorite senator\u201d, Collins made the highly unusual boast for a Republican that she had voted with Joe Biden, a Democrat, more than 90% of the time when he was presiden",
-   "published": "2026-10-07T01:43:25+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-10-07T08:45:57.331628+00:00"
-  },
-  {
-   "id": "052df57b3b69db64",
-   "title": "Collins, Jackson clash in first Maine Senate debate: 3 takeaways",
-   "url": "https://thehill.com/homenews/campaign/6132984-maine-senate-debate-collins-jackson/",
-   "summary": "Republican Sen. Susan Collins and Democrat Troy Jackson faced off Tuesday in the first debate of their neck-and-neck Senate race in Maine.\u00a0 A rare Republican to win statewide in blue-leaning Maine, five-term Collins used the debate stage to spotlight times she\u2019s bucked her party, from her pro-choice position to her vote against President Trump\u2019s signature...",
-   "published": "2026-10-07T01:34:17+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-07T01:36:29.037350+00:00"
-  },
-  {
-   "id": "225347921350299c",
-   "title": "Hurricane Isaias threatens Georgia vs. Alabama SEC showdown as Trump plans Tuscaloosa visit",
-   "url": "https://www.foxnews.com/outkick-sports/hurricane-isaias-threatens-georgia-vs-alabama-sec-showdown-trump-plans-tuscaloosa-visit",
-   "summary": "Hurricane Isaias threatens the SEC showdown between Georgia and Alabama in Tuscaloosa while Trump plans to attend and Secret Service prepares.",
-   "published": "2026-10-07T01:01:23+00:00",
-   "source": "Fox News Latest",
-   "source_id": "foxnews-latest",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-10-07T01:36:27.901222+00:00"
   }
  ]
 }
