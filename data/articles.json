@@ -1,7 +1,238 @@
 {
- "updated": "2026-10-21T07:44:16.476609+00:00",
- "count": 993,
+ "updated": "2026-10-21T13:52:14.689630+00:00",
+ "count": 1009,
  "articles": [
+  {
+   "id": "8415cbe120c1e768",
+   "title": "Warren Sapp gets into confrontation with Florida State fan during tailgate, Tim McGraw's bronzer & Dale art",
+   "url": "https://www.foxnews.com/outkick-sports/warren-sapp-confrontation-florida-state-fan-tailgate-tim-mcgraw-bronzer-dale-art",
+   "summary": "Danica Patrick praised Trump as a great storyteller after riding in The Beast, but Katie Couric couldn&apos;t let it go",
+   "published": "2026-10-21T13:35:50+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-10-21T13:52:11.715715+00:00"
+  },
+  {
+   "id": "88dd6684d6f6ddf8",
+   "title": "Thousands of California public employees set to strike over contract",
+   "url": "https://www.theguardian.com/us-news/2026/oct/21/california-nurses-teachers-strike",
+   "summary": "SEIU Local 1000, representing nurses and teachers, pushing for higher wages, telework and affordable healthcareThousands of California state workers were set to strike on Wednesday, rallying outside government buildings in several cities, as tensions boiled over lapsed contract negotiations with Governor Gavin Newsom\u2019s administration.SEIU Local 1000, a union that represents roughly 100,000 public employees, including nurses and teachers, has been pushing for higher wages, flexible telework and affordable healthcare. Continue reading...",
+   "published": "2026-10-21T13:20:00+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-10-21T13:52:12.096375+00:00"
+  },
+  {
+   "id": "0ae74849b12dd382",
+   "title": "Trump hails Russia\u2019s release of US teacher amid Witkoff\u2019s visit \u2013 live",
+   "url": "https://www.theguardian.com/us-news/live/2026/oct/21/donald-trump-south-carolina-data-centers-midterms-ukraine-witkoff-russia-latest-news-updates",
+   "summary": "US was not required to give anything in return for Stephen Hubbard\u2019s release \u2018out of respect for President Trump\u2019, he claimsSign up for Breaking News US emailSend us your questions about immigration and the midtermsMeanwhile, as my colleague Jakub Krupa reports, French president Emmanuel Macron blasted \u201cunacceptable\u201d and \u201cstupid\u201d comments on the protests and riots in France from foreign leaders, accusing them of \u201ccampaigning at our expense\u201d. This comes after Donald Trump has explicitly linked the protests to mass migration, without any evidence to support his claims. Continue reading...",
+   "published": "2026-10-21T13:14:30+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-10-21T13:52:12.096384+00:00"
+  },
+  {
+   "id": "4e3a0918e1ee8ccd",
+   "title": "Live updates: Trump lauds Russia's release of American; Vance to campaign with Ramaswamy in Ohio",
+   "url": "https://thehill.com/homenews/administration/6161584-trump-midterm-tour-clemson/",
+   "summary": "President Trump on Wednesday morning praised Russia's release of American teacher Stephen Hubbard after four years of wrongful imprisonment. \"Stephen is on his way back home and will soon be with his family. The United States, out of respect for President Trump, was not required to give anything in return - an unprecedented situation for...",
+   "published": "2026-10-21T12:55:16+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-21T13:52:13.923143+00:00"
+  },
+  {
+   "id": "ce94cfc988804ac2",
+   "title": "Trump: Implementing Russia sanctions would have halted Stephen Hubbard release talks",
+   "url": "https://thehill.com/homenews/administration/6161902-donald-trump-stephen-hubbard-russia-sanctions-waiver/",
+   "summary": "President Trump defended his waiver of Russian sanctions, saying it would have halted negotiations with Russian President Vladimir Putin regarding the release of Stephen Hubbard, a retired schoolteacher who was arrested by Russian authorities when it invaded Ukraine.\u00a0 \u201cNumerous people, who requested that sanctions be immediately imposed on Russia, have called to apologize to President...",
+   "published": "2026-10-21T12:51:47+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-21T13:52:13.923154+00:00"
+  },
+  {
+   "id": "c89663b1351c6e2c",
+   "title": "Who is Stephen Hubbard, imprisoned American released by Russia?",
+   "url": "https://thehill.com/policy/international/6161825-stephen-hubbard-released-russia-mercenary-charges/",
+   "summary": "Russia on Wednesday released American teacher Stephen Hubbard, who was serving a seven-year prison sentence after prosecutors accused him of working with Ukraine as a mercenary following the Russian invasion that launched the war between both countries. President Trump announced the development on Truth Social after U.S. special envoy Steve Witkoff said Hubbard was released...",
+   "published": "2026-10-21T12:50:51+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-21T13:52:13.923157+00:00"
+  },
+  {
+   "id": "7022f9d18ea8eac5",
+   "title": "Vance-led task force set to unveil charges against 40-plus defendants in alleged $40M SNAP fraud",
+   "url": "https://www.foxnews.com/politics/vance-led-task-force-unveil-charges-40-plus-defendants-alleged-40m-snap-fraud",
+   "summary": "The Vance-led anti-fraud task force is expected to announce criminal charges against over 40 defendants in an alleged $40 million SNAP scheme.",
+   "published": "2026-10-21T12:37:58+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-10-21T13:52:11.693914+00:00"
+  },
+  {
+   "id": "ff7cc9b1f66f3fc7",
+   "title": "Is Trump a RINO?",
+   "url": "https://thehill.com/opinion/white-house/6160872-trump-abandoning-republican-principles/",
+   "summary": "True conservatives are realizing that Trump is using the Republican Party for his own convenience.",
+   "published": "2026-10-21T12:30:00+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-21T13:52:13.923191+00:00"
+  },
+  {
+   "id": "dac797507ad12d87",
+   "title": "State attorneys general step up plans to counter Trump\u2019s meddling in midterms",
+   "url": "https://www.theguardian.com/us-news/2026/oct/21/midterms-attorney-general-trump-election-interference",
+   "summary": "Coordination by Democratic officials overseeing elections includes Zoom calls and in-person tabletop exercisesDemocratic state attorneys general, other top state officials and civic groups have accelerated planning to thwart any federal meddling in the November midterm elections by Donald Trump as he continues his false charges of widespread voting fraud and veiled threats of interfering in the process.Since early this year, 24 Democratic attorneys general have expanded coordination with about a dozen Democratic secretaries of state and several civic groups using weekly Zoom calls and in-perso",
+   "published": "2026-10-21T12:11:54+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-10-21T13:52:12.096411+00:00"
+  },
+  {
+   "id": "4d7c346bcce5ded1",
+   "title": "Trump leans into unprecedented power ahead of midterm elections",
+   "url": "https://www.npr.org/2026/10/21/nx-s1-6009395/trump-power-midterm-elections",
+   "summary": "Less than two weeks before the election, Trump continues to crash through barriers that he wouldn't dare cross in his first term.",
+   "published": "2026-10-21T12:09:41+00:00",
+   "source": "NPR Politics",
+   "source_id": "npr-politics",
+   "bias_note": "center",
+   "first_seen": "2026-10-21T13:52:12.047439+00:00"
+  },
+  {
+   "id": "fe412fc5d59d4883",
+   "title": "Why judges are growing more skeptical of Trump\u2019s Justice Department",
+   "url": "https://thehill.com/newsletters/the-gavel/6161222-trump-administration-justice-department-judicial-trust/",
+   "summary": "A federal judge pressed Department of Justice (DOJ) lawyers this week on whether she should believe them or President Trump when it comes to the administration's plans for a golf course in the nation's capital.   \"I don't know what to do when I keep getting different stories from the government,\" U.S. District Judge Ana...",
+   "published": "2026-10-21T12:00:00+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-21T13:52:13.923207+00:00"
+  },
+  {
+   "id": "bfb65044a5aa2edb",
+   "title": "DOJ's noncitizen voter list is unreliable, officials say. And, U.S. pollution rises",
+   "url": "https://www.npr.org/2026/10/21/g-s1-149068/up-first-newsletter-california-voter-roll-united-nations-emissions-us-crimes-ukraine-russia",
+   "summary": "The Justice Department's \"likely\" noncitizen voter list in California is \"unreliable,\" according to officials. And, the United Nations reports a major increase in U.S. climate pollution.",
+   "published": "2026-10-21T11:46:59+00:00",
+   "source": "NPR Politics",
+   "source_id": "npr-politics",
+   "bias_note": "center",
+   "first_seen": "2026-10-21T13:52:12.047447+00:00"
+  },
+  {
+   "id": "3e987a9b7da537ff",
+   "title": "Kid Rock says supporting Trump came at a cost in Hollywood, but he's not backing down",
+   "url": "https://www.foxnews.com/entertainment/kid-rock-says-supporting-trump-came-cost-hollywood-not-backing-down",
+   "summary": "Kid Rock tells Fox News Digital supporting Trump cost him corporate deals and late-night TV spots but says his freedom of speech matters more than Hollywood access.",
+   "published": "2026-10-21T11:00:24+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-10-21T13:52:11.715770+00:00"
+  },
+  {
+   "id": "c24681d8b37402b0",
+   "title": "How Saudi Arabia's defense vulnerabilities could become Trump's problem amid Houthi onslaught",
+   "url": "https://www.foxnews.com/politics/saudi-arabia-defense-vulnerabilities-trump-problem-houthi-onslaught",
+   "summary": "Saudi Arabia seeks foreign allies to counter Houthi missiles and drones as Trump weighs whether to launch direct U.S. military strikes on Yemen.",
+   "published": "2026-10-21T11:00:05+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-10-21T13:52:11.693922+00:00"
+  },
+  {
+   "id": "b83640cd04457a77",
+   "title": "\u201cThe River Can\u2019t Be Trusted\u201d",
+   "url": "https://www.propublica.org/article/wildfire-flood-risk-ruidoso-new-mexico",
+   "summary": "The post \u201cThe River Can\u2019t Be Trusted\u201d appeared first on ProPublica.",
+   "published": "2026-10-21T10:00:00+00:00",
+   "source": "ProPublica",
+   "source_id": "propublica",
+   "bias_note": "investigative",
+   "first_seen": "2026-10-21T13:52:14.392005+00:00"
+  },
+  {
+   "id": "77d5fe11d8ee42af",
+   "title": "Town Leaders Said They Were Prepared for Floods. First Responders Disagree.",
+   "url": "https://www.propublica.org/article/ruidoso-flood-emergency-response-water-rescue",
+   "summary": "The post Town Leaders Said They Were Prepared for Floods. First Responders Disagree. appeared first on ProPublica.",
+   "published": "2026-10-21T09:55:00+00:00",
+   "source": "ProPublica",
+   "source_id": "propublica",
+   "bias_note": "investigative",
+   "first_seen": "2026-10-21T13:52:14.392010+00:00"
+  },
+  {
+   "id": "5ad86ceba85a6dd2",
+   "title": "Russia releases American teacher imprisoned on Ukraine mercenary charges after Trump pressed Putin",
+   "url": "https://www.foxnews.com/world/stephen-hubbard-russia-american-prisoner-release",
+   "summary": "American Stephen Hubbard has been released from Russian custody after Trump urged Putin to free the retired teacher imprisoned on Ukraine mercenary charges.",
+   "published": "2026-10-21T09:43:13+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-10-21T13:52:11.715807+00:00"
+  },
+  {
+   "id": "fd5d90770dfcf389",
+   "title": "Trump's MOAB threat could put Iran's deepest bunkers in America's crosshairs",
+   "url": "https://www.foxnews.com/opinion/trumps-moab-threat-could-put-irans-deepest-bunkers-americas-crosshairs",
+   "summary": "Trump&apos;s MOAB threat puts Iran&apos;s IRGC on notice as Central Command eyes high-value targets, including suspicious construction at Pickaxe mountain.",
+   "published": "2026-10-21T09:00:31+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-10-21T13:52:11.715821+00:00"
+  },
+  {
+   "id": "49370680481cb3bc",
+   "title": "Rick Jackson is the GOP\u2019s best hope in Georgia right now",
+   "url": "https://www.politico.com/news/2026/10/21/rick-jackson-georgia-trump-midterms-01128445",
+   "summary": "President Donald Trump and his unpopular brand may drag the candidate for governor down with the moderate and independent voters.",
+   "published": "2026-10-21T09:00:00+00:00",
+   "source": "Politico",
+   "source_id": "politico",
+   "bias_note": "center",
+   "first_seen": "2026-10-21T13:52:12.204521+00:00"
+  },
+  {
+   "id": "9115040fc12a664a",
+   "title": "Why Republicans frustrated with Trump's policies continue to support the party",
+   "url": "https://www.npr.org/2026/10/21/nx-s1-6009279/why-republicans-frustrated-with-trumps-policies-continue-to-support-the-party",
+   "summary": "NPR's Steve Inskeep asks Bloomberg politics columnist Ron Brownstein what motivates Republicans angry with the Trump administration to continue voting for the Republican party.",
+   "published": "2026-10-21T08:41:34+00:00",
+   "source": "NPR Politics",
+   "source_id": "npr-politics",
+   "bias_note": "center",
+   "first_seen": "2026-10-21T13:52:12.047449+00:00"
+  },
+  {
+   "id": "2290be10bf6535d7",
+   "title": "Trump to campaign for Sen. Darline Graham despite disagreement on Russia sanctions",
+   "url": "https://www.npr.org/2026/10/21/nx-s1-6009283/trump-to-campaign-for-sen-darline-graham-despite-disagreement-on-russia-sanctions",
+   "summary": "President Trump is expected to campaign with Sen. Darline Graham on Wednesday even as the two are not in agreement on how to best pressure Russia to end the war in Ukraine.",
+   "published": "2026-10-21T08:41:12+00:00",
+   "source": "NPR Politics",
+   "source_id": "npr-politics",
+   "bias_note": "center",
+   "first_seen": "2026-10-21T13:52:12.047451+00:00"
+  },
   {
    "id": "51df4085e72593be",
    "title": "A 'golden age' vs. 'we're working on it': Trump, Vance give different economy pitches",
@@ -10869,61 +11100,6 @@
    "source_id": "pbs-politics",
    "bias_note": "center",
    "first_seen": "2026-10-07T17:26:36.162165+00:00"
-  },
-  {
-   "id": "88b633574434711f",
-   "title": "Newsom again calls for Trump\u2019s removal under 25th Amendment, White House hits back",
-   "url": "https://www.foxnews.com/politics/newsom-calls-trumps-removal-25th-amendment-white-house-hits-back",
-   "summary": "California Gov. Gavin Newsom called Trump &quot;mentally ill&quot; and demanded the 25th Amendment after the president&apos;s remarks about Los Angeles and San Diego.",
-   "published": "2026-10-07T11:53:18+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-10-07T17:26:35.601462+00:00"
-  },
-  {
-   "id": "43e23f7e264a2a54",
-   "title": "Daylight Saving Time fight isn't over as House GOP presses Senate to end clock-turning forever",
-   "url": "https://www.foxnews.com/politics/trumps-daylight-saving-push-gets-new-pressure-campaign-from-house-gop-leaders",
-   "summary": "Trump shared Tom Cotton&apos;s cell phone number after the Arkansas senator opposed the Sunshine Protection Act for permanent daylight saving time.",
-   "published": "2026-10-07T10:30:25+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-10-07T17:26:35.601479+00:00"
-  },
-  {
-   "id": "1bcf2fde906d4425",
-   "title": "Skepticism mires Trump\u2019s Iowa steel plant project: \u2018Promises are not the same as jobs\u2019",
-   "url": "https://www.theguardian.com/business/2026/oct/07/trump-steel-plant-iowa-skepticism",
-   "summary": "The project has sparked doubts over whether the plant will be built and delivered as promised, given Trump\u2019s recordDonald Trump has long sought to portray himself as a man of steel, from the White House photoshopping Trump to look like Superman, to enacting tariffs on steel and approving the sale of US Steel to Japan\u2019s Nippon Steel with a \u201dgolden\u201d share given to the US government.Most recently, the Trump administration announced plans to construct the largest steel plant in the US, a $15bn plant in Lee county, Iowa, to be built by India-based Mesabi Metallics. Continue reading...",
-   "published": "2026-10-07T10:00:40+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-10-07T23:08:56.400395+00:00"
-  },
-  {
-   "id": "c8c9c6f223738890",
-   "title": "Ex-Obama spy chief prepped for anti-Trump trial by Biden-era special counsel's team, new records reveal",
-   "url": "https://www.foxnews.com/politics/ex-obama-spy-chief-prepped-anti-trump-trial-biden-era-special-counsels-team-records-reveal",
-   "summary": "Declassified FBI memo reveals Jack Smith&apos;s team met with Trump-critic and former CIA Director John Brennan to discuss Trump&apos;s case, despite Smith telling GOP lawmakers he had never met Brennan before.",
-   "published": "2026-10-07T09:30:39+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-10-07T17:26:35.601490+00:00"
-  },
-  {
-   "id": "846c7eff33b86319",
-   "title": "Homeless Shelters Around Phoenix Are Full. His Phone Is the Unofficial Hotline for Struggling Families.",
-   "url": "https://www.propublica.org/article/arizona-homeless-austin-davis-az-hugs",
-   "summary": "The post Homeless Shelters Around Phoenix Are Full. His Phone Is the Unofficial Hotline for Struggling Families. appeared first on ProPublica.",
-   "published": "2026-10-07T09:00:00+00:00",
-   "source": "ProPublica",
-   "source_id": "propublica",
-   "bias_note": "investigative",
-   "first_seen": "2026-10-07T17:26:36.396526+00:00"
   }
  ]
 }
