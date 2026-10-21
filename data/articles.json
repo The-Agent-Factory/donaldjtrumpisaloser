@@ -1,7 +1,128 @@
 {
- "updated": "2026-10-20T21:41:15.588416+00:00",
- "count": 995,
+ "updated": "2026-10-21T00:39:40.050877+00:00",
+ "count": 992,
  "articles": [
+  {
+   "id": "a5ec0beb631c4559",
+   "title": "Americans who moved to Europe after Trump win now say they regret leaving",
+   "url": "https://www.foxnews.com/media/americans-who-moved-europe-after-trump-win-now-say-regret-leaving",
+   "summary": "American expats who fled Trump&apos;s America now voice frustration with Europe&apos;s lower quality of life, bureaucracy, and hostility toward American culture.",
+   "published": "2026-10-21T00:30:40+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-10-21T00:39:38.729724+00:00"
+  },
+  {
+   "id": "fae31820d09e63a4",
+   "title": "Ana Navarro clashes with 'The View' co-hosts, declares there's 'no way in hell' she would meet with Trump",
+   "url": "https://www.foxnews.com/media/ana-navarro-clashes-the-view-co-hosts-declares-theres-no-way-hell-she-would-meet-trump",
+   "summary": "&quot;The View&quot; co-host Ana Navarro declared she would never meet with President Donald Trump as the panel debated a recent dinner he had with Bill Maher and others.",
+   "published": "2026-10-20T23:48:38+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-10-21T00:39:38.729755+00:00"
+  },
+  {
+   "id": "17b5ae3c9cd50369",
+   "title": "Trump administration launches national kidney care plan",
+   "url": "https://thehill.com/newsletters/healthcare/6161527-trump-administration-national-kidney-care-plan/",
+   "summary": "Click in for more news from The Hill {beacon} Healthcare Healthcare &#8202; The Big Story  Trump launches national kidney care plan The Trump administration launched the Kidney Care National Plan Tuesday, aiming to improve structural kidney care deficiencies the Health and Human Services (HHS) Department says lead to higher costs and lower quality. \u00a9 Rich Pedroncelli,...",
+   "published": "2026-10-20T23:13:12+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-21T00:39:39.420375+00:00"
+  },
+  {
+   "id": "79f1edce0d557975",
+   "title": "ADL condemns Trump\u2019s antisemitic slur but fails to mention him by name",
+   "url": "https://www.theguardian.com/us-news/2026/oct/20/trump-kansas-rally-antisemitic-slur-anti-defamation-league",
+   "summary": "Anti-Defamation League post decries \u2018shylock\u2019 slur but does not explain that president used it at Kansas rally on MondayThe Anti-Defamation League (ADL) denounced the use of the term \u201cshylock\u201d as antisemitic on Tuesday, without explaining that the slur had been used a day earlier by Donald Trump in a speech in Kansas.Trump used the slur during a Monday night rally in support of Republican senator Roger Marshall, who is locked in a closer-than-expected re-election fight against Democratic challenger Adam Hamilton. Marshall, a doctor, as been criticized for filing lawsuits against more than 700 ",
+   "published": "2026-10-20T23:06:41+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-10-21T00:39:39.051517+00:00"
+  },
+  {
+   "id": "26433ff1e033e6b9",
+   "title": "How the Kansas Senate race became surprisingly competitive",
+   "url": "https://www.pbs.org/newshour/show/how-the-kansas-senate-race-became-surprisingly-competitive",
+   "summary": "At a rally in Kansas on Monday, President Trump looked to boost Republican Sen. Roger Marshall in his reelection bid. Marshall faces a surprisingly close race with his Democratic challenger, Pastor Adam Hamilton. William Brangham discusses the Senate race with Jared Cerullo of PBS Kansas, the host of the weekly current affairs show, \"Kansas Week.\"",
+   "published": "2026-10-20T22:40:30+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-10-21T00:39:39.478932+00:00"
+  },
+  {
+   "id": "b124e17556d80845",
+   "title": "White House relies on existing laws to regulate AI",
+   "url": "https://thehill.com/newsletters/technology/6161499-white-house-relies-on-existing-laws-to-regulate-ai/",
+   "summary": "{beacon} Technology Technology &#8202; The Big Story  Can existing laws take on AI? Trump is betting on it. The Trump administration is relying on existing criminal and civil laws to hold artificial intelligence developers accountable in an age of unpredictable AI agents. But legal experts are uncertain whether this will be enough. \u00a9 UPI Photo...",
+   "published": "2026-10-20T22:37:24+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-21T00:39:39.420383+00:00"
+  },
+  {
+   "id": "4aa40e70d863c2fc",
+   "title": "Beef producers could play a big role in this year's midterm elections",
+   "url": "https://www.npr.org/2026/10/20/nx-s1-6000194/beef-producers-could-play-a-big-role-in-this-years-midterm-elections",
+   "summary": "Trump's policies have complicated his support among beef producers, a key constituency in states where tight Senate races could sway control of the body.",
+   "published": "2026-10-20T22:35:55+00:00",
+   "source": "NPR Politics",
+   "source_id": "npr-politics",
+   "bias_note": "center",
+   "first_seen": "2026-10-21T00:39:39.006296+00:00"
+  },
+  {
+   "id": "e1bf75dd5909100d",
+   "title": "Inside Philadelphia's preparations for Election Day",
+   "url": "https://www.pbs.org/newshour/show/inside-philadelphias-preparations-for-election-day",
+   "summary": "In the final sprint to Election Day, more than 12 million votes have already been cast nationwide. That includes more than 65,000 in Philadelphia. The city's voting processes have drawn President Trump's ire for more than a decade. In partnership with the Pulitzer Center, Lisa Desjardins takes a closer look at how officials in Philadelphia prepare for voting.",
+   "published": "2026-10-20T22:35:17+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-10-21T00:39:39.478937+00:00"
+  },
+  {
+   "id": "110ff0abff0bd8ab",
+   "title": "Judge Trump called a \u2018lunatic\u2019 abruptly backs off demand after showdown with DOJ No. 3",
+   "url": "https://www.foxnews.com/politics/judge-trump-called-lunatic-abruptly-backs-off-demand-showdown-doj-3",
+   "summary": "Judge Ana Reyes reversed her Rule 11 demand against DOJ attorneys during a nearly seven-hour hearing over the East Potomac Golf Links dispute.",
+   "published": "2026-10-20T22:08:05+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-10-21T00:39:38.712284+00:00"
+  },
+  {
+   "id": "8a9d49cef4693af1",
+   "title": "Michael Bloomberg spends $80m on Democrats as Trump moves $400m to Republican candidates",
+   "url": "https://www.theguardian.com/us-news/2026/oct/20/michael-bloomberg-donation-democrats-midterms",
+   "summary": "Billionaire ex-mayor of New York City is focusing funds on House races to help Democrats retake majority in midtermsUS politics live \u2013 latest updatesThe billionaire Michael Bloomberg will spend $80m to help Democratic candidates in the midterm elections, US media reported on Tuesday, a significant infusion of cash for a party that has recently struggled with fundraising as it seeks to win control of Congress.The reported donations came as Donald Trump announced on Tuesday he intended to spend a total of $400m to aid Republican candidates, with $300m already disbursed. Continue reading...",
+   "published": "2026-10-20T22:07:28+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-10-21T00:39:39.051526+00:00"
+  },
+  {
+   "id": "2250ff8235a696b6",
+   "title": "WATCH: Trump holds GOP midterm rally in battleground North Carolina",
+   "url": "https://www.pbs.org/newshour/politics/watch-live-trump-holds-gop-midterm-rally-in-north-carolina",
+   "summary": "The rally comes after the Senate Republicans' top campaign spending group pulled back in North Carolina.",
+   "published": "2026-10-20T22:06:34+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-10-21T00:39:39.478941+00:00"
+  },
   {
    "id": "9608bf61d1dbd988",
    "title": "Trump bets existing laws can police AI. Will they be enough?",
@@ -10792,160 +10913,6 @@
    "source_id": "foxnews-latest",
    "bias_note": "right-leaning",
    "first_seen": "2026-10-07T01:36:27.901222+00:00"
-  },
-  {
-   "id": "8f0c40a69d076b1f",
-   "title": "Trump says Putin call coming \u2018very soon\u2019 as US tracks suspected plague death in Russia",
-   "url": "https://www.foxnews.com/politics/trump-says-putin-call-coming-very-soon-us-tracks-suspected-plague-death-russia",
-   "summary": "President Donald Trump says he&apos;ll speak with Vladimir Putin &quot;very soon&quot; as his administration tracks a suspected pneumonic plague death in Siberia.",
-   "published": "2026-10-07T00:08:29+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-10-07T01:36:27.825376+00:00"
-  },
-  {
-   "id": "c19feb2b8f2470ff",
-   "title": "ABC and Trump's FCC battle in federal court over free speech and jurisdiction issues",
-   "url": "https://www.pbs.org/newshour/politics/abc-and-trumps-fcc-battle-in-federal-court-over-free-speech-and-jurisdiction-issues",
-   "summary": "A lawyer for ABC on Tuesday asked a federal judge to prevent the Trump administration from conducting an unusual, early review of its broadcast licenses, likening it to a looming execution by guillotine that was already chilling the network's editorial decisions just weeks before the U.S. midterm elections.",
-   "published": "2026-10-06T23:51:58+00:00",
-   "source": "PBS NewsHour Politics",
-   "source_id": "pbs-politics",
-   "bias_note": "center",
-   "first_seen": "2026-10-07T01:36:29.215536+00:00"
-  },
-  {
-   "id": "031eab1f7eaf39f9",
-   "title": "Trump says Reflecting Pool repairs are near complete, refill to come 'this week'",
-   "url": "https://thehill.com/homenews/administration/6132811-trump-lincoln-memorial-pool-repairs/",
-   "summary": "President Trump said Tuesday repairs to the Lincoln Memorial Reflecting Pool are close to complete and should be refilled with water \"this week,\" but still touted unfounded claims of vandalism. \"I think they're going to fill it up this week,\" Trump said in a video shared by the Rapid Respond 47 account on the social...",
-   "published": "2026-10-06T23:12:17+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-07T01:36:29.037394+00:00"
-  },
-  {
-   "id": "fcf6e62969c23b06",
-   "title": "US tries new Sudan strategy as war fueled by 'external actors' drags on",
-   "url": "https://thehill.com/policy/international/6132824-sudan-arms-embargo-us-united-nations/",
-   "summary": "The Trump administration is signaling a change in course on Sudan, facing months of failed diplomacy to achieve a ceasefire in the more than three-year conflict, a fight largely between two main warring factions but supported by a constellation of international backers. The U.S. is pushing at the United Nations Security Council a proposal to...",
-   "published": "2026-10-06T22:57:00+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-07T01:36:29.037398+00:00"
-  },
-  {
-   "id": "f3d5beea4b58740c",
-   "title": "News Wrap: Cornell says Sally Yates will review handling of sexual assault reports",
-   "url": "https://www.pbs.org/newshour/show/news-wrap-cornell-says-sally-yates-will-review-handling-of-sexual-assault-reports",
-   "summary": "In our news wrap Tuesday, Cornell named former Deputy Attorney General Sally Yates to lead an independent review of how the school handles sexual assault reports on campus, lawyers for Christa Pike said she's awake and speaking after surviving a botched execution attempt last week and President Trump is facing backlash after he suggested that Iran could \"take out\" two cities in California.",
-   "published": "2026-10-06T22:45:39+00:00",
-   "source": "PBS NewsHour Politics",
-   "source_id": "pbs-politics",
-   "bias_note": "center",
-   "first_seen": "2026-10-07T01:36:29.215564+00:00"
-  },
-  {
-   "id": "100de08253c3a746",
-   "title": "Examining the DOJ's effort to prosecute non-citizens accused of voting",
-   "url": "https://www.pbs.org/newshour/show/examining-the-dojs-effort-to-prosecute-non-citizens-accused-of-voting",
-   "summary": "Ahead of the midterm elections, the Department of Justice is leading a high-profile effort to catch and prosecute people they say illegally cast ballots, sometimes holding televised press conferences to make the announcements. But there is no evidence to support President Trump's false claims of widespread voter fraud that skews election results. Justice correspondent Ali Rogin reports.",
-   "published": "2026-10-06T22:40:35+00:00",
-   "source": "PBS NewsHour Politics",
-   "source_id": "pbs-politics",
-   "bias_note": "center",
-   "first_seen": "2026-10-07T01:36:29.215569+00:00"
-  },
-  {
-   "id": "21aac323c7b10739",
-   "title": "Haitian student's suicide reveals human toll of immigration crackdown",
-   "url": "https://www.pbs.org/newshour/show/haitian-students-suicide-reveals-human-toll-of-immigration-crackdown",
-   "summary": "Over the weekend, the family of Pierre Damas Bel laid him to rest. The 20-year-old Haitian student lost his legal immigration status in July after the Supreme Court cleared the way for the Trump administration to end temporary protections for hundreds of thousands of Haitians. Bel died by suicide a month after immigration authorities required him to wear an ankle monitor. William Brangham reports.",
-   "published": "2026-10-06T22:35:34+00:00",
-   "source": "PBS NewsHour Politics",
-   "source_id": "pbs-politics",
-   "bias_note": "center",
-   "first_seen": "2026-10-07T01:36:29.215572+00:00"
-  },
-  {
-   "id": "cfabaa58a4a53669",
-   "title": "Trump admin revamps price transparency",
-   "url": "https://thehill.com/newsletters/healthcare/6132791-trump-admin-revamps-price-transparency/",
-   "summary": "Click in for more news from The Hill {beacon} Healthcare Healthcare &#8202; The Big Story  HHS revamps price transparency rules The Trump administration is revamping its transparency rules, trying to make health insurers clearly publish the prices they negotiate with doctors and hospitals.  \u00a9 iStock The rule finalized by the Department of Health and Human...",
-   "published": "2026-10-06T22:28:50+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-07T01:36:29.037420+00:00"
-  },
-  {
-   "id": "ea97efffb1bb8c65",
-   "title": "Brett McGurk chronicles negotiations to free Oct. 7 hostages in 'Brink'",
-   "url": "https://www.pbs.org/newshour/show/brett-mcgurk-chronicles-negotiations-to-free-oct-7-hostages-in-brink",
-   "summary": "Brett McGurk served under four presidential administrations, ultimately working as President Biden's lead on foreign policy in the Middle East. During that time, Hamas attacked Israel, killing over a thousand people and taking hundreds hostage. Amna Nawaz sat down with McGurk to discuss the negotiations he led to secure the hostages' release and new book, \"Brink.\"",
-   "published": "2026-10-06T22:25:26+00:00",
-   "source": "PBS NewsHour Politics",
-   "source_id": "pbs-politics",
-   "bias_note": "center",
-   "first_seen": "2026-10-07T01:36:29.215589+00:00"
-  },
-  {
-   "id": "3d06db226674607d",
-   "title": "Trump: Government will take massive stake in 'next generation' submarine shipyard",
-   "url": "https://thehill.com/policy/defense/6132760-trump-taxpayers-stake-maryland-shipyard/",
-   "summary": "President Trump said Tuesday that American taxpayers will get a 40 percent stake in the planned shipyard in Sparrows Point, Md., an unincorporated industrial area in Baltimore County, which he visited Tuesday. \u201cIn the ultimate proof of our commitment to ensuring shipyards enduring success American taxpayers will receive 40 percent stake in the new shipyard,\u201d...",
-   "published": "2026-10-06T22:20:56+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-07T01:36:29.037425+00:00"
-  },
-  {
-   "id": "886e8532f1993389",
-   "title": "Transgender Washington state resident accused of fueling deadly Canadian school massacre that killed 8: DOJ",
-   "url": "https://www.foxnews.com/us/transgender-washington-state-resident-accused-fueling-deadly-canadian-school-massacre-killed-8-doj",
-   "summary": "James Cody Bryant allegedly sent money, offered advice and agreed to livestream the Tumbler Ridge school shooting instead of alerting law enforcement.",
-   "published": "2026-10-06T22:02:36+00:00",
-   "source": "Fox News Latest",
-   "source_id": "foxnews-latest",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-10-07T01:36:27.901347+00:00"
-  },
-  {
-   "id": "2cb3fd0e312f7139",
-   "title": "Appeals panel wrestles with block of RFK Jr.'s vaccine panel appointments",
-   "url": "https://thehill.com/policy/healthcare/6132695-appeals-court-considers-kennedy-acip-block/",
-   "summary": "The Trump administration told a federal appeals panel Tuesday that a lower court erred in blocking Health Secretary Robert F. Kennedy Jr.\u2019s handpicked appointees from serving\u00a0on a key vaccine advisory panel.\u00a0 Justice Department attorney Matthew Zorn told the 1st U.S. Circuit Court of Appeals that a district court judge did not have the authority to...",
-   "published": "2026-10-06T22:01:39+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-07T01:36:29.037444+00:00"
-  },
-  {
-   "id": "06def723d81f70d8",
-   "title": "Trump boosts dyed diesel availability amid high prices",
-   "url": "https://thehill.com/newsletters/energy-environment/6132691-trump-boosts-dyed-diesel-availability-amid-high-prices/",
-   "summary": "{beacon} Energy &#038; Environment Energy &#038; Environment &#8202; The Big Story  Trump seeks to make more diesel available President Trump on Monday night moved to make more diesel available in a bid to lower fuel prices. \u00a9 AP Photo/Nick Ingram \u201cI\u2019m going to sign a historic executive order to officially waive the off-road requirement and...",
-   "published": "2026-10-06T22:01:00+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-07T01:36:29.037449+00:00"
-  },
-  {
-   "id": "316e0bc41702dea3",
-   "title": "Trump announces $6.6bn defense shipyard owned by top Republican donor\u2019s firm",
-   "url": "https://www.theguardian.com/us-news/2026/oct/06/trump-shipyard-anduril-baltimore",
-   "summary": "Baltimore project to be partly funded by US government but owned by defense firm Anduril, founded by Palmer LuckeyDonald Trump on Tuesday announced the opening of a new $6.6bn shipbuilding factory in Baltimore, partly funded by the US government but owned by Anduril Industries, a politically connected defense company.Trump\u2019s appearance at a currently unused shipyard in Sparrows Point is a boost to Anduril, whose founder, Palmer Luckey, is a major GOP campaign fundraiser. Luckey has hosted campaign fundraisers for at least 20 Republican politicians, including Trump, the Guardian reported in Aug",
-   "published": "2026-10-06T21:46:33+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-10-07T01:36:28.614847+00:00"
   }
  ]
 }
