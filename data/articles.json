@@ -1,7 +1,139 @@
 {
- "updated": "2026-10-21T13:52:14.689630+00:00",
- "count": 1009,
+ "updated": "2026-10-21T15:51:57.242179+00:00",
+ "count": 1016,
  "articles": [
+  {
+   "id": "ed22f801a87587e6",
+   "title": "Supreme Court upholds pause on Trump's anti-trans prison policy",
+   "url": "https://www.npr.org/2026/10/21/nx-s1-5993878/supreme-court-trump-trans-prison-policy",
+   "summary": "The Supreme Court ruled Wednesday that the Trump administration has to continue providing gender-affirming care to inmates in federal prisons as litigation on efforts to change the policy continues.",
+   "published": "2026-10-21T15:46:27+00:00",
+   "source": "NPR Politics",
+   "source_id": "npr-politics",
+   "bias_note": "center",
+   "first_seen": "2026-10-21T15:51:55.978212+00:00"
+  },
+  {
+   "id": "5469ad5a41268845",
+   "title": "Colorado Marijuana Regulators Failed to Protect Consumers From Potential Contamination, Audit Finds",
+   "url": "https://www.propublica.org/article/colorado-marijuana-enforcement-division-audit-findings",
+   "summary": "The post Colorado Marijuana Regulators Failed to Protect Consumers From Potential Contamination, Audit Finds appeared first on ProPublica.",
+   "published": "2026-10-21T15:35:00+00:00",
+   "source": "ProPublica",
+   "source_id": "propublica",
+   "bias_note": "investigative",
+   "first_seen": "2026-10-21T15:51:56.621004+00:00"
+  },
+  {
+   "id": "532206f0d40a0aa8",
+   "title": "DOJ, judge clash over Trump's East Potomac Golf Links takeover",
+   "url": "https://thehill.com/newsletters/the-gavel/the-gavel-live-briefing/6162738-doj-judge-east-potomac-park-clash/",
+   "summary": "Trust is breaking down between the Department of Justice (DOJ) and the judge who is weighing the president's takeover of a public golf course in the nation's capital. Join legal affairs editor Zach Schonfeld and legal affairs reporter Sophie Brams as they discuss the tensions at East Potomac Park and how judges across the country...",
+   "published": "2026-10-21T15:33:11+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-21T15:51:56.278961+00:00"
+  },
+  {
+   "id": "872474740afa65d2",
+   "title": "Supreme Court won\u2019t revive Trump administration\u2019s transgender inmate policy; Thomas, Alito dissent",
+   "url": "https://thehill.com/regulation/court-battles/6162801-supreme-court-trump-transgender-inmate-treatment/",
+   "summary": "The Supreme Court refused the Trump administration\u2019s bid to stop providing transgender inmates hormone treatments and certain surgeries on Wednesday, declining to lift a lower judge\u2019s block over the dissents of two conservative justices. The Bureau of Prisons (BOP) policy would taper treatments for inmates currently receiving them, and officials would also need to stop providing...",
+   "published": "2026-10-21T15:26:38+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-21T15:51:56.278984+00:00"
+  },
+  {
+   "id": "e89e20b46e5c4839",
+   "title": "Ilhan Omar finally emerges after DC raid with video pleading for cash to fight Trump",
+   "url": "https://www.foxnews.com/politics/ilhan-omar-emerges-dc-raid-video-pleading-cash-fight-trump",
+   "summary": "Ilhan Omar&apos;s campaign video breaks her silence after the DHS raid on her D.C. home, accusing Trump of trying to intimidate political enemies.",
+   "published": "2026-10-21T15:14:14+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-10-21T15:51:55.089436+00:00"
+  },
+  {
+   "id": "76582721af83b882",
+   "title": "The US midterm races that will decide control of Congress \u2013 mapped",
+   "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/02/midterm-races-control-congress-charts-visuals",
+   "summary": "These graphics explain what the Democrats would need to do to flip the Senate and House of RepresentativesA turning point in Donald Trump\u2019s second term will soon arrive. On 3 November, voters across the US will decide whether to keep the president\u2019s Republican allies in control of Congress, or return Democrats to the majority.Many indicators of voter sentiment suggest the Democrats are favored to take back control of the House of Representatives, and potentially the Senate. Winning either would be a significant victory for the party and give it the power to block Trump\u2019s legislative agenda and",
+   "published": "2026-10-21T14:50:28+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-10-21T15:51:56.060612+00:00"
+  },
+  {
+   "id": "13efabee1b4956b6",
+   "title": "'The President is not popular': GOP candidate cuts apparent AI prompt from website",
+   "url": "https://thehill.com/homenews/campaign/6162245-eric-pratt-ai-prompt-minnesota-2nd-district/",
+   "summary": "A Republican candidate in Minnesota has deleted a phrase from his campaign website stating that President Trump is unpopular, a mention that appeared to be a prompt given to AI to generate a message for the candidate. Eric Pratt, running in Minnesota's 2nd Congressional District, initially included an instructional phrase about how to craft a...",
+   "published": "2026-10-21T14:41:11+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-21T15:51:56.279049+00:00"
+  },
+  {
+   "id": "e45ba5adc18b23b6",
+   "title": "Trump approval at new lows in polling days before midterms",
+   "url": "https://thehill.com/homenews/administration/6162347-trump-approval-rating-midterm-lows/",
+   "summary": "President Trump\u2019s approval ratings have hit new lows shortly before this year's midterms, according to fresh polls from The New York Times/Siena University and CNN. In the Times/Siena poll, 36 percent of respondents said they either \u201cstrongly approve\u201d or \u201csomewhat approve\u201d of Trump\u2019s job performance, while another 59 percent said they either \u201csomewhat disapprove\u201d or...",
+   "published": "2026-10-21T14:29:15+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-21T15:51:56.279058+00:00"
+  },
+  {
+   "id": "ffc2904e972d2748",
+   "title": "Trump\u2019s approval rating drops to 36% two weeks before midterms, poll finds",
+   "url": "https://www.theguardian.com/us-news/2026/oct/21/trump-approval-rating-midterms-poll",
+   "summary": "Voters disapprove of Trump\u2019s handling of economy and cost of living, says poll in new low recorded by NY Times/SienaDonald Trump\u2019s approval rating sank to 36% just two weeks before the midterm elections, the lowest recorded in a poll by the New York Times/Siena College, with most respondents expressing frustration over his handling of the US economy, cost of living and Iran war.In an October survey of approximately 3,494 likely voters, 59% said they disapproved of Trump\u2019s handling of his job, and 52% said they planned to vote for the Democratic candidate in the upcoming election. Continue read",
+   "published": "2026-10-21T14:27:44+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-10-21T15:51:56.060622+00:00"
+  },
+  {
+   "id": "a0f65ad5a88b0068",
+   "title": "Trump says he's requiring data centers to provide their own electricity",
+   "url": "https://thehill.com/homenews/administration/6161874-trump-mandates-data-center-power/",
+   "summary": "President Trump said Wednesday he will require data centers to provide their own electricity and give \"any excess\" energy to neighboring communities to prevent rising electrical costs. \"As the President of the United States, I have been watching Data Centers very closely, and have come to a very strong conclusion,\" Trump wrote on Truth Social....",
+   "published": "2026-10-21T14:26:05+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-21T15:51:56.279062+00:00"
+  },
+  {
+   "id": "95fec1ed09a1ba8f",
+   "title": "Trump delivers $1 billion to Marines to relieve decades-long suffering of American heroes and their families",
+   "url": "https://www.foxnews.com/politics/trump-delivers-1-billion-marines-relieve-decades-long-suffering-american-heroes-families",
+   "summary": "Trump announced nearly $1 billion in Camp Lejeune toxic water settlements at a North Carolina rally, ordering the DOJ to resolve all remaining claims.",
+   "published": "2026-10-21T13:54:07+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-10-21T15:51:55.089460+00:00"
+  },
+  {
+   "id": "52eb57ebf5cc80d8",
+   "title": "Danica Patrick dusts off her election firesuit and sends America a message about Donald Trump",
+   "url": "https://www.foxnews.com/outkick-sports/danica-patrick-dusts-off-election-firesuit-sends-america-message-donald-trump",
+   "summary": "Danica Patrick posted a passionate Instagram message urging Americans to vote in the midterms to help Trump make the most of his presidency.",
+   "published": "2026-10-21T13:48:45+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-10-21T15:51:55.137275+00:00"
+  },
   {
    "id": "8415cbe120c1e768",
    "title": "Warren Sapp gets into confrontation with Florida State fan during tailgate, Tim McGraw's bronzer & Dale art",
@@ -155,6 +287,17 @@
    "source_id": "foxnews-politics",
    "bias_note": "right-leaning",
    "first_seen": "2026-10-21T13:52:11.693922+00:00"
+  },
+  {
+   "id": "1303acd37389280e",
+   "title": "\u2018Hunted like animals\u2019: inside Trump\u2019s war on the people who build America",
+   "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/21/trump-ice-construction-worker-deportation",
+   "summary": "Lorenzo Salgado Araujo was a house framer before he was killed by ICE agents. Countless other Latino builders in Texas live in fear of a similar fateEvery morning long before dawn, while America sleeps, legions of Texas construction workers grab their fluorescent vests and hard hats, sling ladders and tools into their trucks, and head down the highway for another day of grueling labour under the blistering sun.Elsewhere, before the first flush of daylight settles over Texas\u2019s concrete sprawl, a separate army gets on the move in a fleet of shiny unmarked SUVs. They hover at gas stations, prowl ",
+   "published": "2026-10-21T10:00:02+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-10-21T15:51:56.060696+00:00"
   },
   {
    "id": "b83640cd04457a77",
@@ -11034,72 +11177,6 @@
    "source_id": "thehill",
    "bias_note": "center",
    "first_seen": "2026-10-07T17:26:36.104623+00:00"
-  },
-  {
-   "id": "bc2a8606b9a7476e",
-   "title": "Michigan\u2019s Mike Rogers says trade war with Canada needs to end",
-   "url": "https://www.politico.com/news/2026/10/07/mike-rogers-canada-trade-war-01109815",
-   "summary": "Weeks after he called for an end to the war with Iran, the GOP Senate candidate is breaking with the Trump administration again.",
-   "published": "2026-10-07T15:18:30+00:00",
-   "source": "Politico",
-   "source_id": "politico",
-   "bias_note": "center",
-   "first_seen": "2026-10-07T17:26:35.964090+00:00"
-  },
-  {
-   "id": "b263052649643203",
-   "title": "Biden's 'weaponized' Mar-a-Lago raid slammed by White House as declassified docs reveal FBI's legal doubts",
-   "url": "https://www.foxnews.com/politics/bidens-weaponized-mar-a-lago-raid-slammed-white-house-declassified-docs-reveal-fbis-legal-doubts",
-   "summary": "Declassified emails reveal the FBI&apos;s Washington Field Office told the DOJ it lacked probable cause for the Mar-a-Lago raid weeks before it happened.",
-   "published": "2026-10-07T15:13:01+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-10-07T17:26:35.601417+00:00"
-  },
-  {
-   "id": "558eb726b338e58b",
-   "title": "\u2018Take out\u2019 Los Angeles and San Diego? Trump is beyond irresponsible | Ted Widmer",
-   "url": "https://www.theguardian.com/commentisfree/2026/oct/07/trump-speech-los-angeles-san-diego",
-   "summary": "We appear to be entering a new era, in which political desperation at home leads to increasingly unhinged threats abroadDonald Trump was in Nebraska on Monday, and though his long rally speech had elements of a performance, this was no Bruce Springsteen album. He offered another dark meditation on a world spiraling out of control, one in which the destruction of American cities is increasingly a possibility, unless Americans trust him to use the vast powers of the presidency to annihilate his foes.The president drew fury when he suggested that Iran could launch a nuclear attack and \u201ctake out\u201d ",
-   "published": "2026-10-07T15:00:53+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-10-07T17:26:35.837909+00:00"
-  },
-  {
-   "id": "d91260c2c2ca5a7c",
-   "title": "Trump reveals surprise American taxpayer stake in new $6.6B submarine deal",
-   "url": "https://www.foxnews.com/politics/trump-reveals-surprise-american-taxpayer-stake-new-6-6b-submarine-deal",
-   "summary": "President Donald Trump announced a 40% taxpayer stake in Anduril&apos;s Arsenal-2 shipyard subsidiary, adding government ownership to the $6.6 billion deal.",
-   "published": "2026-10-07T14:49:06+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-10-07T17:26:35.601423+00:00"
-  },
-  {
-   "id": "e471971a9b196585",
-   "title": "Dems\u2019 latest Trump attack backfires as frequent critics refuse to play along",
-   "url": "https://www.foxnews.com/politics/dems-latest-trump-attack-backfires-frequent-critics-refuse-play-along",
-   "summary": "CNN&apos;s Daniel Dale and other media figures pushed back on claims that Trump suggested Iran should attack Los Angeles and San Diego at a rally.",
-   "published": "2026-10-07T14:35:21+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-10-07T17:26:35.601439+00:00"
-  },
-  {
-   "id": "ed08d38e674df229",
-   "title": "What happened in the first Maine Senate debate between Collins and Jackson",
-   "url": "https://www.pbs.org/newshour/politics/what-happened-in-the-first-maine-senate-debate-between-collins-and-jackson",
-   "summary": "Republican Sen. Susan Collins distanced herself from President Donald Trump during her first Maine Senate debate with Democrat Troy Jackson, arguing she has maintained her political independence by repeatedly voting against Trump's agenda and saying that she's \"not exactly his favorite senator.\"",
-   "published": "2026-10-07T14:13:29+00:00",
-   "source": "PBS NewsHour Politics",
-   "source_id": "pbs-politics",
-   "bias_note": "center",
-   "first_seen": "2026-10-07T17:26:36.162165+00:00"
   }
  ]
 }
