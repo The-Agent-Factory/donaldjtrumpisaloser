@@ -1,7 +1,128 @@
 {
- "updated": "2026-10-21T23:24:29.987738+00:00",
- "count": 1007,
+ "updated": "2026-10-22T04:57:06.067571+00:00",
+ "count": 1004,
  "articles": [
+  {
+   "id": "39e23258abdad328",
+   "title": "Mass firings vow sparks clash with Klobuchar over Walz fraud legacy",
+   "url": "https://www.foxnews.com/politics/mass-firings-vow-sparks-clash-klobuchar-walz-fraud-legacy",
+   "summary": "Republican House Speaker Lisa Demuth vowed to fire all state commissioners on day one while Sen. Amy Klobuchar called the pledge absurd in debate.",
+   "published": "2026-10-22T02:52:48+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-10-22T04:57:05.202106+00:00"
+  },
+  {
+   "id": "8facb9418fffa959",
+   "title": "Trump dominates El-Sayed's attacks against Rogers, but GOP rival offers unexpected policy split",
+   "url": "https://www.foxnews.com/politics/trump-dominates-el-sayeds-attacks-against-rogers-gop-rival-offers-unexpected-policy-split",
+   "summary": "Donald Trump was invoked 18 times as Abdul El-Sayed branded Mike Rogers a &quot;sock puppet&quot; and declared &quot;MAGA bingo&quot; in the Michigan Senate debate.",
+   "published": "2026-10-22T02:51:58+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-10-22T04:57:05.202114+00:00"
+  },
+  {
+   "id": "07f994a184b5e3b1",
+   "title": "WHCA condemns removal of journalist from White House pool",
+   "url": "https://thehill.com/media/6164506-whca-condemns-trump-retaliation/",
+   "summary": "White House Correspondents\u2019 Association (WHCA) President Jacqui Heinrich on Wednesday condemned the White House\u2019s decision to restrict a journalist\u2019s access to cover President Trump after the president lashed out at him in the Oval Office earlier this week.  Andrew Feinberg, a correspondent for The Independent, was scheduled to serve as the print pool reporter on...",
+   "published": "2026-10-22T02:43:50+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-22T04:57:05.519488+00:00"
+  },
+  {
+   "id": "98911dfec5049bf7",
+   "title": "Ilhan Omar says US agents seized 17 items in raid designed to \u2018freak\u2019 her out",
+   "url": "https://www.theguardian.com/us-news/2026/oct/21/ilhan-omar-congresswoman-raid-trump",
+   "summary": "Democrat, in first interview since pre-dawn raid, denies immigration fraud and says \u2018I have a legal right to be a member of Congress\u2019The Minnesota congresswoman Ilhan Omar denied allegations of immigration fraud in a Wednesday appearance on MS Now, her first interview since federal agents raided her residence last week.Those in Donald Trump\u2019s orbit \u2013 cabinet officials and rightwing influencers alike \u2013 have promoted baseless theories about the Democratic congresswoman, accusing Omar of being in a sham marriage with her brother and fudging details of her immigration paperwork. Continue reading..",
+   "published": "2026-10-22T01:54:12+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-10-22T04:57:05.387130+00:00"
+  },
+  {
+   "id": "d99da781b0c80345",
+   "title": "Ilhan Omar believes Trump raid on home was meant to 'intimidate and scare people' from voting",
+   "url": "https://www.foxnews.com/media/ilhan-omar-believes-trump-raid-home-meant-intimidate-scare-people-voting",
+   "summary": "Rep. Ilhan Omar, D-Minn., claimed the raid on her D.C. home was designed to intimidate voters ahead of midterm elections and appease Trump supporters.",
+   "published": "2026-10-22T01:42:53+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-10-22T04:57:05.224291+00:00"
+  },
+  {
+   "id": "5de82ddd3b04b00d",
+   "title": "Omar said she will have to move due to threats following federal raid",
+   "url": "https://thehill.com/homenews/house/6164465-omar-to-move-dc-residence/",
+   "summary": "Rep. Ilhan Omar (D-Minn.) said she will have to move out of her apartment in Washington, D.C., because of threats she\u2019s received after federal agents executed a search warrant at her residence last week as part of an immigration fraud probe.\u00a0 \u201cObviously, I can\u2019t continue to live there \u2026 Because our address has been public...",
+   "published": "2026-10-22T01:38:25+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-22T04:57:05.519516+00:00"
+  },
+  {
+   "id": "1f5f6f9d6a5d91cb",
+   "title": "\u2018Man, I loved that\u2019: Trump cheers South Carolina rally attender who hit protester",
+   "url": "https://www.theguardian.com/us-news/2026/oct/21/trump-south-carolina-rally-darline-graham",
+   "summary": "President was reportedly heckled at least nine times during campaign event for Darline GrahamMultiple protesters were removed from Donald Trump\u2019s rally at South Carolina\u2019s Clemson University on Wednesday, including one who was apparently punched by a rally attender \u2013 to the US president\u2019s delight.\u201cThat was great, man. Wow. Man, I loved that. I watched that,\u201d Trump said. \u201cThat was incredible. Wow. That was unbelievable. Is everybody OK? Continue reading...",
+   "published": "2026-10-22T01:23:04+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-10-22T04:57:05.387139+00:00"
+  },
+  {
+   "id": "37a4390756b0a72d",
+   "title": "Stephen A Smith defends White House dinner with Trump",
+   "url": "https://www.foxnews.com/media/stephen-smith-defends-white-house-dinner-trump",
+   "summary": "Stephen A. Smith told &quot;The View&quot; co-hosts he won&apos;t apologize for his White House dinner meeting with Trump, Bill Maher and Kid Rock last week.",
+   "published": "2026-10-22T00:58:00+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-10-22T04:57:05.224331+00:00"
+  },
+  {
+   "id": "1cf31f3545c797a7",
+   "title": "Democrats sue Trump administration over 'threats and intimidation' ahead of election",
+   "url": "https://thehill.com/regulation/court-battles/6164426-democrats-sue-trump-doj-voter-rolls/",
+   "summary": "Democratic leaders and election groups filed a lawsuit against President Trump and the Justice Department (DOJ) on Tuesday, seeking to block federal officials from pressuring states to remove voters from their rolls ahead of the November midterm elections.\u00a0 The 44-page complaint, filed in the U.S. District Court for the District of Columbia, accuses the DOJ...",
+   "published": "2026-10-22T00:56:13+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-22T04:57:05.519523+00:00"
+  },
+  {
+   "id": "a0fe527cea7c1d14",
+   "title": "The Justice Department begins notifying counties where it wants to monitor elections",
+   "url": "https://www.npr.org/2026/10/21/nx-s1-6009896/justice-department-monitors",
+   "summary": "The department has long deployed election monitors, but the Trump administration's unprecedented steps to try to wrestle control over elections have led to new concerns about DOJ monitoring this year.",
+   "published": "2026-10-22T00:18:47+00:00",
+   "source": "NPR Politics",
+   "source_id": "npr-politics",
+   "bias_note": "center",
+   "first_seen": "2026-10-22T04:57:05.334317+00:00"
+  },
+  {
+   "id": "0b990a9f684c435b",
+   "title": "Greene says El-Sayed could win Senate seat if Trump attacks Iran again",
+   "url": "https://thehill.com/homenews/campaign/6164392-greene-warns-trump-iran-strikes/",
+   "summary": "Former Rep. Marjorie Taylor Greene (D-Ga.) lashed out at President Trump\u2019s military operations against Iran on Wednesday, warning a further escalation could cost Republicans in the November elections.  \u201cIf Trump is dumb enough to attack Iran again before the midterms, @AbdulElSayed will win the senate seat in Michigan,\u201d Greene wrote on social media Wednesday. \u201cIt\u2019s...",
+   "published": "2026-10-22T00:01:41+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-22T04:57:05.519543+00:00"
+  },
   {
    "id": "e472a8bc3b65ada9",
    "title": "Trump to hold rally in Mississippi",
@@ -10924,160 +11045,6 @@
    "source_id": "npr-politics",
    "bias_note": "center",
    "first_seen": "2026-10-08T13:38:07.280163+00:00"
-  },
-  {
-   "id": "b3756cb4c1ad02df",
-   "title": "FDA says its review of abortion pill will continue into next year",
-   "url": "https://abcnews.com/Politics/wireStory/fda-review-abortion-pill-continue-year-137085064",
-   "summary": "The Food and Drug Administration says its ongoing safety review of the nation&rsquo;s main abortion pill will continue into next year",
-   "published": "2026-10-08T04:10:18+00:00",
-   "source": "ABC News Politics",
-   "source_id": "abc-politics",
-   "bias_note": "center",
-   "first_seen": "2026-10-08T06:12:25.724356+00:00"
-  },
-  {
-   "id": "3508deed04cf8ce1",
-   "title": "Trump interrupted by protesters as he fights to rally Texas voters",
-   "url": "https://abcnews.com/Politics/wireStory/trump-interrupted-protesters-fights-rally-texas-voters-paxton-137082289",
-   "summary": "President Donald Trump fought to rally Texas voters behind Senate candidate Ken Paxton as a series of protests disrupted his rally in San Antonio",
-   "published": "2026-10-08T03:53:49+00:00",
-   "source": "ABC News Politics",
-   "source_id": "abc-politics",
-   "bias_note": "center",
-   "first_seen": "2026-10-08T06:12:25.724350+00:00"
-  },
-  {
-   "id": "3b601430afba7f02",
-   "title": "Trump proposes Camp David-style presidential retreat at his private Florida golf club",
-   "url": "https://abcnews.com/Politics/wireStory/trump-proposes-camp-david-style-presidential-retreat-private-137080794",
-   "summary": "President Donald Trump says he wants to turn part of his private West Palm Beach golf club into a retreat for future presidents and their guests, similar to Camp David near Washington",
-   "published": "2026-10-08T03:30:16+00:00",
-   "source": "ABC News Politics",
-   "source_id": "abc-politics",
-   "bias_note": "center",
-   "first_seen": "2026-10-08T06:12:25.724342+00:00"
-  },
-  {
-   "id": "f3062cc69ec7d509",
-   "title": "Former MLB pitcher Roger Clemens to receive Medal of Freedom, Trump says",
-   "url": "https://thehill.com/homenews/6135542-roger-clemens-medal-of-freedom-trump/",
-   "summary": "President Trump said he will award controversial baseball legend Roger Clemens the Presidential Medal of Freedom, saying the honor is a \u201cbig step up\u201d from the MLB\u2019s Hall of Fame \u2014 which has repeatedly declined to recognize him. \u201cI\u2019m pleased to announce that we are taking it into our own hands. Forget about the Hall...",
-   "published": "2026-10-08T03:25:59+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-08T06:12:24.883575+00:00"
-  },
-  {
-   "id": "8c7b0255910461f5",
-   "title": "Trump reups beef with 'ungrateful' Cuellar for staying Democrat after pardon",
-   "url": "https://thehill.com/homenews/administration/6135540-trump-cuellar-pardon-tijerina-texas-midterms/",
-   "summary": "President Trump ripped into Rep. Henry Cuellar (D-Texas) Wednesday evening for not switching parties after receiving a presidential pardon in 2025, the latest development in a feud that has intensified since the Democrat announced his reelection bid. In a Truth Social post ahead of a campaign rally in San Antonio, the president said he did...",
-   "published": "2026-10-08T03:15:20+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-08T06:12:24.883581+00:00"
-  },
-  {
-   "id": "69c24bbd2b92dfec",
-   "title": "Disaster relief funding is creeping into Trump's midterm rhetoric. Critics say it has no place there",
-   "url": "https://abcnews.com/Politics/wireStory/disaster-relief-funding-creeping-trumps-midterm-rhetoric-critics-137076581",
-   "summary": "President Donald Trump has turned emergency relief into a campaign talking point as a major hurricane approaches the U.S. Gulf Coast",
-   "published": "2026-10-08T02:58:24+00:00",
-   "source": "ABC News Politics",
-   "source_id": "abc-politics",
-   "bias_note": "center",
-   "first_seen": "2026-10-08T06:12:25.724353+00:00"
-  },
-  {
-   "id": "6592b61b75c48260",
-   "title": "Donald Trump\u2019s Texas rally rocked by repeated protests",
-   "url": "https://www.theguardian.com/us-news/2026/oct/08/donald-trumps-texas-rally-rocked-by-repeated-protests",
-   "summary": "Trump briefly stepped away from the microphone after one protester appeared to approach the stageDonald Trump\u2019s latest campaign rally was rocked by repeated protests on Wednesday as the US president urged Texas voters to back embattled Senate candidate Ken Paxton.At least half a dozen demonstrators interrupted the US president during his remarks in San Antonio, with some led away by police. One was physically assaulted by an older Trump supporter as he tried to leave the arena. Continue reading...",
-   "published": "2026-10-08T02:36:58+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-10-08T06:12:24.580861+00:00"
-  },
-  {
-   "id": "82ea10868d681bcf",
-   "title": "FDA: Mifepristone review won't be done until March",
-   "url": "https://thehill.com/policy/healthcare/6135515-fda-mifepristone-abortion-pill-review-delay/",
-   "summary": "The Food and Drug Administration (FDA) won\u2019t publish its safety review of the abortion drug mifepristone until March, it disclosed in a Wednesday court filing, adding that it won\u2019t impose any new restrictions on the pill before that point. The revelations are likely to further anger anti-abortion activists, who have been losing patience with the...",
-   "published": "2026-10-08T02:33:30+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-08T06:12:24.883603+00:00"
-  },
-  {
-   "id": "c562360b2a01d774",
-   "title": "Ken Paxton calls out James Talarico's 11-day absence at Trump rally, prompting response from campaign",
-   "url": "https://www.foxnews.com/politics/ken-paxton-calls-james-talarico-11-day-absence-trump-rally-prompting-response-campaign",
-   "summary": "Ken Paxton led a &quot;Where is Talarico?&quot; chant at Trump&apos;s San Antonio rally, but James Talarico&apos;s campaign says the Democrat has been sick with the flu.",
-   "published": "2026-10-08T01:35:13+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-10-08T06:12:23.621516+00:00"
-  },
-  {
-   "id": "eda12a76d88bb078",
-   "title": "Establishment of a Committee of Inquiry to Investigate Allegations of False Statements by Lisa DeNell Cook",
-   "url": "https://www.whitehouse.gov/presidential-actions/2026/10/establishment-of-a-committee-of-inquiry-to-investigate-allegations-of-false-statements-by-lisa-denell-cook/",
-   "summary": "MEMORANDUM FOR THE ATTORNEY GENERAL THE COUNSEL TO THE PRESIDENT THE ASSISTANT TO THE PRESIDENT FOR ECONOMIC POLICY THE DIRECTOR OF THE OFFICE OF GOVERNMENT ETHICS THE CHAIRMAN OF THE EQUAL EMPLOYMENT OPPORTUNITY COMMISSION By the authority vested in me as President by the Constitution and the laws of the United States of America, I [&#8230;]\nThe post Establishment of a Committee of Inquiry to Investigate Allegations of False Statements by Lisa DeNell Cook appeared first on The White House.",
-   "published": "2026-10-08T01:00:00+00:00",
-   "source": "WhiteHouse.gov News",
-   "source_id": "whitehouse",
-   "bias_note": "official/primary-source",
-   "first_seen": "2026-10-09T17:01:11.966317+00:00"
-  },
-  {
-   "id": "a25be6ccdc0c8276",
-   "title": "Trump doubles down on California comments: 'Let them hit San Diego, let them hit Los Angeles'",
-   "url": "https://thehill.com/homenews/administration/6135448-trump-threatened-la-san-diego/",
-   "summary": "President Trump doubled down on his comments suggesting Iran could hit Los Angeles and San Diego during a rally in Texas on Wednesday, adding that the U.S. would not let such a scenario play out. \"You want to see trauma? You want to see problems? And I said it the other day, let them hit...",
-   "published": "2026-10-08T00:57:34+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-08T06:12:24.883618+00:00"
-  },
-  {
-   "id": "57e2038801368366",
-   "title": "Trump to award National Medal of Science to Elon Musk",
-   "url": "https://thehill.com/homenews/administration/6135421-trump-awards-national-medal-science/",
-   "summary": "President Trump will award the National Medal of Science to Elon Musk and other prominent tech executives Thursday, a White House official confirmed to The Hill\u2019s broadcast partner, NewsNation.\u00a0 Musk, the head of SpaceX and Tesla, will receive this high honor at the White House\u2019s \u201cScience: A New Golden Age\u201d summit. Three other tech leaders...",
-   "published": "2026-10-08T00:47:58+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-08T06:12:24.883623+00:00"
-  },
-  {
-   "id": "8df8da213cf51bb6",
-   "title": "Trump Accounts Put 70 Million Kids on the Path to Financial Freedom",
-   "url": "https://www.whitehouse.gov/releases/2026/10/a-financial-stake-in-the-future-for-nearly-70-million-american-children-trump-accounts-made-it-possible/",
-   "summary": "Trump Accounts\u2014tax-advantaged investment accounts for kids\u2014are a game-changing tool designed to help every American child build savings and a stronger financial future. With automatic enrollment now complete, the Trump Administration has made it easier than ever for families to participate and give their children a jump-start on the American Dream. Nearly 70 million Trump Accounts [&#8230;]\nThe post Trump Accounts Put 70 Million Kids on the Path to Financial Freedom appeared first on The White House.",
-   "published": "2026-10-08T00:28:12+00:00",
-   "source": "WhiteHouse.gov News",
-   "source_id": "whitehouse",
-   "bias_note": "official/primary-source",
-   "first_seen": "2026-10-08T06:12:23.950566+00:00"
-  },
-  {
-   "id": "1bec2bb2ec7ce7df",
-   "title": "Marlon Humphrey says meeting President Trump inspired him to vote in the next election",
-   "url": "https://www.foxnews.com/outkick-sports/marlon-humphrey-meeting-president-trump-inspired-vote-next-election",
-   "summary": "Marlon Humphrey rode in Trump&apos;s presidential motorcade near Baltimore and says the experience has inspired him to vote for the first time ever.",
-   "published": "2026-10-07T23:32:40+00:00",
-   "source": "Fox News Latest",
-   "source_id": "foxnews-latest",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-10-08T06:12:23.670669+00:00"
   }
  ]
 }
