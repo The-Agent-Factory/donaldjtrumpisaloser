@@ -1,7 +1,205 @@
 {
- "updated": "2026-10-23T07:37:20.882415+00:00",
- "count": 1027,
+ "updated": "2026-10-23T13:30:57.276194+00:00",
+ "count": 1042,
  "articles": [
+  {
+   "id": "458875e0f1fb3b51",
+   "title": "Ilhan Omar hit with expulsion threat as GOP lawmaker vows to boot her from Congress over DOJ probe",
+   "url": "https://www.foxnews.com/politics/ilhan-omar-hit-expulsion-threat-gop-lawmaker-vows-boot-her-from-congress-over-doj-probe",
+   "summary": "Rep. Randy Fine says he plans to pursue House expulsion of Rep. Ilhan Omar if the Justice Department finds her guilty of immigration fraud.",
+   "published": "2026-10-23T13:27:34+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-10-23T13:30:54.918606+00:00"
+  },
+  {
+   "id": "65ab9c791ffbdf2f",
+   "title": "First Lady Melania Trump Secures Ceasefire Between Russia and Ukraine, Localized to Oleshky",
+   "url": "https://www.whitehouse.gov/briefings-statements/2026/10/first-lady-melania-trump-secures-ceasefire-between-russia-and-ukraine-localized-to-oleshky/",
+   "summary": "First Lady Melania Trump successfully secured a ceasefire between Russia and Ukraine, localized to the city of Oleshky. Both nations agreed to temporarily stop all military action in Oleshky to allow for humanitarian aid to enter and to prepare a civilian evacuation through a designated safe passageway. The localized ceasefire will begin on October 29, [&#8230;]\nThe post First Lady Melania Trump Secures Ceasefire Between Russia and Ukraine, Localized to Oleshky appeared first on The White House.",
+   "published": "2026-10-23T13:16:54+00:00",
+   "source": "WhiteHouse.gov News",
+   "source_id": "whitehouse",
+   "bias_note": "official/primary-source",
+   "first_seen": "2026-10-23T13:30:54.966031+00:00"
+  },
+  {
+   "id": "a580c2639aed4b4f",
+   "title": "Trump to rally in Florida after stoking Ramaswamy ad furor \u2013 US politics live",
+   "url": "https://www.theguardian.com/us-news/live/2026/oct/23/trump-florida-midterms-ramaswamy-latest-updates",
+   "summary": "Trump to campaign for gubernatorial candidate Byron Donalds, who has distanced himself from president; Trump doubled down on support for RamaswamySign up for the Breaking News US emailA data leak from Germany\u2019s far-right German Alternative f\u00fcr Deutschland (AfD) has revealed the extent of efforts by the party to court Donald Trump and other leading figures in the Maga movement, stretching back more than a decade.The trove reveals the pains the AfD took in wooing the president, whom they saw from the beginning as a potential ally, with senior party officials agonising over the wording of an obse",
+   "published": "2026-10-23T13:15:09+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-10-23T13:30:55.408867+00:00"
+  },
+  {
+   "id": "1cfaf6dd6876903a",
+   "title": "Live updates: Trump pushes effort to lower gas prices, leans into Ramaswamy ad controversy",
+   "url": "https://thehill.com/homenews/administration/6167503-live-updates-donald-trump-midterm-elections/",
+   "summary": "President Trump will rally voters closer to home on Friday afternoon, with a campaign stop in Fort Myers, Florida, as long-awaited midterm elections approach. He'll be there to boost Rep. Byron Donalds (R-Fla.), who's running for governor, and Sen. Ashley Moody (R-Fla.), who is running for a full Senate term. Trump invoked the Defense Production...",
+   "published": "2026-10-23T13:09:57+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-23T13:30:56.604840+00:00"
+  },
+  {
+   "id": "7ad8fea869cbf55e",
+   "title": "Stephen Moore: It'd be appropriate for Republicans to say 'I feel your pain' on economy",
+   "url": "https://thehill.com/blogs/blog-briefing-room/6167487-republicans-acknowledge-economic-grievances/",
+   "summary": "Steve Moore, a former senior economic adviser to President Trump, said Thursday that while the U.S. economy is \u201cthe strongest in the world,\u201d it would be appropriate for Republicans to acknowledge the grievances of the people. \u201cI think maybe to borrow a line from Bill Clinton, I feel your pain would be an appropriate thing...",
+   "published": "2026-10-23T13:03:54+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-23T13:30:56.604851+00:00"
+  },
+  {
+   "id": "17ae08f7054814a1",
+   "title": "Trump suggests Omar resign 'immediately' over 'fake name'",
+   "url": "https://thehill.com/homenews/administration/6167516-trump-demands-omar-resignation-name/",
+   "summary": "President Trump called on Rep. Ilhan Omar (D-Minn.) to \u201cIMMEDIATELY resign\u201d and accused her of using a fake name in a Truth Social post on Thursday evening.  \u201cPlease inform the Speaker of the House of Representatives, James Michael Johnson, that the Dumocrat Party has just conceded her seat,\u201d Trump wrote. \u201cIlhan Nur Said Elmi, her...",
+   "published": "2026-10-23T13:02:40+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-23T13:30:56.604857+00:00"
+  },
+  {
+   "id": "ae83ea2b1ba51723",
+   "title": "Minnesota officials say US government stopped sharing evidence on fatal ICE shootings",
+   "url": "https://www.theguardian.com/us-news/2026/oct/23/minnesota-federal-government-fatal-ice-shootings",
+   "summary": "State authorities investigating killings of Renee Good and Alex Pretti said federal officials paused transfer of evidenceThe federal government has stopped sharing evidence with Minnesota authorities who are investigating the killings of Renee Good and Alex Pretti by federal officers during a violent anti-immigration, anti-protest crackdown in the state earlier this year, state officials said in recent court filings.Minnesota officials sued the Trump administration in March for access to materials they said they needed to independently investigate the shootings. Continue reading...",
+   "published": "2026-10-23T12:46:47+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-10-23T13:30:55.408874+00:00"
+  },
+  {
+   "id": "9a7d5b46b0a6d0d1",
+   "title": "Presidential Message on the World Series",
+   "url": "https://www.whitehouse.gov/briefings-statements/2026/10/presidential-message-on-the-world-series/",
+   "summary": "This week, Americans across our great country are coming together to celebrate the 2026 World Series, the crown jewel of our Nation\u2019s favorite pastime.&#160; Baseball has long held a cherished place in our culture, and now, the Fall Classic once again unites us around this storied game. For nearly two centuries, baseball has shaped the [&#8230;]\nThe post Presidential Message on the World Series appeared first on The White House.",
+   "published": "2026-10-23T12:22:50+00:00",
+   "source": "WhiteHouse.gov News",
+   "source_id": "whitehouse",
+   "bias_note": "official/primary-source",
+   "first_seen": "2026-10-23T13:30:54.966039+00:00"
+  },
+  {
+   "id": "f1b3ea18d95c119c",
+   "title": "Trump\u2019s top border official defends Big Bend border wall plan despite mounting opposition",
+   "url": "https://www.theguardian.com/us-news/2026/oct/23/trump-border-official-big-bend-border-wall",
+   "summary": "CBP commissioner Rodney Scott says $46bn Texas project is justified amid court-ordered pause on wall\u2019s constructionThe Trump administration\u2019s top border official defended plans to build a wall and other infrastructure in the Big Bend of Texas despite mounting opposition against the project and a court-ordered pause on construction, saying his goal of fortifying the country\u2019s borders was \u201cnon-negotiable\u201d.Rodney Scott, the commissioner of US Customs and Border Protection (CBP), said the $46bn wall project was justified despite a bipartisan coalition of landowners, local businesses and environmen",
+   "published": "2026-10-23T12:18:25+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-10-23T13:30:55.408881+00:00"
+  },
+  {
+   "id": "9aa9577e143ee6b4",
+   "title": "Could Hillary Clinton\u2019s Supreme Court expansion push backfire on Democrats?",
+   "url": "https://thehill.com/newsletters/whole-hog-politics/whole-hog-politics-live-briefing/6167461-hillary-clinton-supreme-court-expansion-live-discussion/",
+   "summary": "Hillary Clinton is calling on Democrats to add four new justices to the Supreme Court if they take power. But is she giving Republicans a potent campaign issue? Plus, a look at the unrest gripping France and what it could mean for the U.S. as a whole. Finally, the latest from the midterms, the DOJ...",
+   "published": "2026-10-23T12:13:15+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-23T13:30:56.604882+00:00"
+  },
+  {
+   "id": "6682f12dc982967e",
+   "title": "Trump says Reflecting Pool 85 percent full: 'Looking really good'",
+   "url": "https://thehill.com/homenews/administration/6167459-reflecting-pool-vandalism-cameras-installed/",
+   "summary": "President Trump said early Friday morning that the Lincoln Memorial Reflecting Pool was 85 percent full and \u201clooking really good\u201d after months of a multimillion-dollar renovation project.  The president also alleged in a Truth Social post shared shortly before 1 a.m. that the pool \u201chasn\u2019t worked properly since 1922.\u201d \u201cWe have cameras set up to...",
+   "published": "2026-10-23T11:54:04+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-23T13:30:56.604904+00:00"
+  },
+  {
+   "id": "de27596696765c7d",
+   "title": "The mega-Maga contender in deep-red Florida who doesn\u2019t want to talk about Trump",
+   "url": "https://www.theguardian.com/us-news/2026/oct/23/byron-donalds-florida-trump",
+   "summary": "Byron Donalds removed mentions of the president from his website and has barely uttered his name \u2013 will his ploy prove successful in a tight governor\u2019s race?It took Byron Donalds, addressing a wildly supportive crowd at a rally in Florida\u2019s bluest county, some time to list those he blamed for any \u201caffordability\u201d issues they might be experiencing.Joe Biden, and the radical policies of the Democrats, were at fault, the Republican nominee for Florida governor insisted in his stump speech at Broward county\u2019s Green Glades West ranch, even though neither has wielded power in Washington for almost tw",
+   "published": "2026-10-23T11:22:38+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-10-23T13:30:55.408887+00:00"
+  },
+  {
+   "id": "676bfadc26ed9503",
+   "title": "Leaked trove reveals extent of far-right AfD\u2019s efforts to court Trump and Maga allies",
+   "url": "https://www.theguardian.com/us-news/2026/oct/23/trump-afd-maga-allies",
+   "summary": "Exclusive: Documents show German party\u2019s scramble to request support after president\u2019s 2016 election win and co-leader\u2019s pursuit of Steve BannonA data leak from Germany\u2019s far-right German Alternative f\u00fcr Deutschland (AfD) has revealed the extent of efforts by the party to court Donald Trump and other leading figures in the Maga movement, stretching back more than a decade.The trove reveals the pains the AfD took in wooing the president, whom they saw from the beginning as a potential ally, with senior party officials agonising over the wording of an obsequious congratulatory telegram when he w",
+   "published": "2026-10-23T11:07:00+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-10-23T13:30:55.408893+00:00"
+  },
+  {
+   "id": "1cfc7300b4a8bd04",
+   "title": "White House blasts Biden border policies ahead of Trump Florida visit, citing brutal hammer killing",
+   "url": "https://www.foxnews.com/politics/white-house-blasts-biden-border-policies-ahead-trump-florida-visit-citing-brutal-hammer-killing",
+   "summary": "President Donald Trump&apos;s Fort Myers rally spotlights the brazen hammer killing of a Florida mother by a Haitian national the White House says was released under Biden&apos;s border policies.",
+   "published": "2026-10-23T11:00:04+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-10-23T13:30:54.885312+00:00"
+  },
+  {
+   "id": "4b5df12b2c871b1e",
+   "title": "Trump's midterm campaign tour stops in Iowa",
+   "url": "https://www.npr.org/2026/10/23/nx-s1-6009838/trumps-midterm-campaign-tour-stops-in-iowa",
+   "summary": "Republicans are facing a tough fight in Iowa. President Trump's campaign tour stopped in the state in hopes of rallying voters.",
+   "published": "2026-10-23T10:36:09+00:00",
+   "source": "NPR Politics",
+   "source_id": "npr-politics",
+   "bias_note": "center",
+   "first_seen": "2026-10-23T13:30:55.351118+00:00"
+  },
+  {
+   "id": "0ee2880cfc00dad0",
+   "title": "The Trump-Putin love story\u2019s next chapter: selling out Ukraine | Sidney Blumenthal",
+   "url": "https://www.theguardian.com/commentisfree/2026/oct/23/trump-putin-ukraine",
+   "summary": "The US president is portraying Zelenskyy as the villain as he strives for Russia\u2019s approvalIf Donald Trump could, he would fly to Munich to sign away Ukraine to Vladimir Putin, and return to wave the document as \u201cpeace in our time\u201d, hoping to claim at least the second Fifa peace prize.Whatever the complicated motives of Neville Chamberlain, his well-grounded fear after the carnage of a world war of another apocalypse and his wishful thinking that Hitler would be satiated after carving up Czechoslovakia, Chamberlain had not sent his son-in-law and former golf partner and real estate partner in ",
+   "published": "2026-10-23T10:00:31+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-10-23T13:30:55.408920+00:00"
+  },
+  {
+   "id": "6bff8e8fa9a51f52",
+   "title": "JONATHAN TURLEY: Chris Hayes had Ilhan Omar in the hot seat \u2014 and failed to ask these 10 questions",
+   "url": "https://www.foxnews.com/opinion/jonathan-turley-chris-hayes-ilhan-omar-hot-seat-failed-ask-10-questions",
+   "summary": "Chris Hayes on MS NOW laughed through immigration fraud questions and never pressed Ilhan Omar on DNA evidence, her birth name or marriage claims.",
+   "published": "2026-10-23T10:00:30+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-10-23T13:30:54.918733+00:00"
+  },
+  {
+   "id": "7c24f53bdea228d1",
+   "title": "Trump sidelines sweeping Russia sanctions as GOP allies warn pressure on Putin is slipping",
+   "url": "https://www.foxnews.com/politics/trump-sidelines-sweeping-russia-sanctions-gop-allies-warn-pressure-putin-slipping",
+   "summary": "Trump waived most new Russia sanctions from the Graham Act, drawing sharp Republican criticism over whether Vladimir Putin believes the threats.",
+   "published": "2026-10-23T10:00:17+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-10-23T13:30:54.885319+00:00"
+  },
   {
    "id": "7f792d1847d389e9",
    "title": "Trump pushback, Biden 'disaster' and gender surprise: 5 key moments from Kansas Senate debate",
@@ -12,6 +210,72 @@
    "source_id": "foxnews-politics",
    "bias_note": "right-leaning",
    "first_seen": "2026-10-22T11:59:50.270929+00:00"
+  },
+  {
+   "id": "f430c373105ea2a4",
+   "title": "America must reverse Trump\u2019s moral squalor | Robert Reich",
+   "url": "https://www.theguardian.com/commentisfree/2026/oct/23/trump-moral-squalor",
+   "summary": "The president shows a unique disregard for the opinions, norms and ideals of the nation \u2013 and, for that matter, humanityThe Democrats\u2019 focus on affordability seems to be a winning strategy (we\u2019ll know for sure in a little over two weeks). But we mustn\u2019t lose sight of the moral squalor at the core of the Trump regime and the necessity of ending it.It\u2019s that moral squalor \u2013 the utter disregard for the opinions, norms and ideals of the nation and, for that matter, of humanity \u2013 that uniquely marks Trump and the reprobates he has attracted to Washington. It has also poisoned much of the Republican",
+   "published": "2026-10-23T09:00:05+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-10-23T13:30:55.408926+00:00"
+  },
+  {
+   "id": "28ef46f67f16b537",
+   "title": "Poll: Trump is mobilizing more Democrats against him than Republicans for him",
+   "url": "https://www.politico.com/news/2026/10/23/poll-trump-midterms-gop-loyalty-01133479",
+   "summary": "A new POLITICO Poll shows that even some of the president\u2019s most loyal supporters are willing to put winning first.",
+   "published": "2026-10-23T09:00:00+00:00",
+   "source": "Politico",
+   "source_id": "politico",
+   "bias_note": "center",
+   "first_seen": "2026-10-23T13:30:55.543938+00:00"
+  },
+  {
+   "id": "7b0900eb825de3ed",
+   "title": "Meet Trump\u2019s favorite House Republican candidate",
+   "url": "https://www.politico.com/news/2026/10/23/trump-feely-friends-arizona-battleground-01133434",
+   "summary": "The president is trying to save his longtime friend and golf buddy Jay Feely, who\u2019s locked in a tough race against Democrat Amish Shah.",
+   "published": "2026-10-23T09:00:00+00:00",
+   "source": "Politico",
+   "source_id": "politico",
+   "bias_note": "center",
+   "first_seen": "2026-10-23T13:30:55.543961+00:00"
+  },
+  {
+   "id": "839784e79f8c018f",
+   "title": "Bird Flu Is Raging on a Mink Farm. It Could Spark a Human Pandemic, Experts Say, but Officials Won\u2019t Act.",
+   "url": "https://www.propublica.org/article/bird-flu-mink-farm-utah-human-risk",
+   "summary": "The post Bird Flu Is Raging on a Mink Farm. It Could Spark a Human Pandemic, Experts Say, but Officials Won\u2019t Act. appeared first on ProPublica.",
+   "published": "2026-10-23T09:00:00+00:00",
+   "source": "ProPublica",
+   "source_id": "propublica",
+   "bias_note": "investigative",
+   "first_seen": "2026-10-23T13:30:56.915562+00:00"
+  },
+  {
+   "id": "167290a75b667a67",
+   "title": "Trump must sit for a deposition in his BBC defamation lawsuit, judge rules",
+   "url": "https://www.npr.org/2026/10/23/nx-s1-6012695/trump-must-sit-for-a-deposition-in-his-bbc-defamation-lawsuit-judge-rules",
+   "summary": "A magistrate judge orders President Trump to sit for a deposition in a case he's brought against the BBC for defamation.",
+   "published": "2026-10-23T08:41:38+00:00",
+   "source": "NPR Politics",
+   "source_id": "npr-politics",
+   "bias_note": "center",
+   "first_seen": "2026-10-23T13:30:55.351129+00:00"
+  },
+  {
+   "id": "5067fc631566e3b6",
+   "title": "Trump's MAGA faithful send warning to Republicans ahead of high-stakes midterm elections",
+   "url": "https://www.foxnews.com/politics/trumps-maga-faithful-send-warning-republicans-ahead-high-stakes-midterm-elections",
+   "summary": "Trump supporters at his Sioux City rally back Republicans but voice growing frustration over high prices, the Iran war and Election Day turnout.",
+   "published": "2026-10-23T08:00:38+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-10-23T13:30:54.885329+00:00"
   },
   {
    "id": "3de8bd9cc17bf195",
@@ -11199,105 +11463,6 @@
    "source_id": "pbs-politics",
    "bias_note": "center",
    "first_seen": "2026-10-09T17:01:12.841219+00:00"
-  },
-  {
-   "id": "a9091c2611392e0c",
-   "title": "How Texas landowners are fighting back against Trump's border wall",
-   "url": "https://abcnews.com/Politics/wireStory/texas-landowners-fighting-back-trumps-border-wall-137122443",
-   "summary": "The Trump administration is pushing forward with a $46 billion border wall from the Pacific Ocean to the Gulf of Mexico",
-   "published": "2026-10-09T10:23:48+00:00",
-   "source": "ABC News Politics",
-   "source_id": "abc-politics",
-   "bias_note": "center",
-   "first_seen": "2026-10-09T17:01:13.427623+00:00"
-  },
-  {
-   "id": "0ade8fbdc1c5f9a6",
-   "title": "Autism providers warn foster kids at risk from unintended consequences of Trump's Medicaid fraud crackdown",
-   "url": "https://www.foxnews.com/politics/autism-providers-warn-foster-kids-risk-unintended-consequences-trumps-medicaid-fraud-crackdown",
-   "summary": "Georgia foster families face losing autism therapy access as providers warn the government&apos;s Medicaid cuts go too far in the name of fraud prevention.",
-   "published": "2026-10-09T10:00:35+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-10-09T17:01:11.746008+00:00"
-  },
-  {
-   "id": "4fcc61903603bbff",
-   "title": "A national verdict on Trump 2.0 is coming. Nine midterm voters share where they stand",
-   "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/09/midterm-voters-biggest-issues-trump",
-   "summary": "From cost of living to the Iran war, these are the issues that matter most to US voters across the political spectrumUS voters are about to deliver their first national verdict on the second presidency of Donald Trump. On 3 November, millions of Americans will vote in midterm elections to decide control of the House of Representatives and Senate, as well as the governorships in 36 states. The results could have a huge impact on Trump\u2019s final two years in office.Today, the Guardian launches its 2026 midterm voter panel. Our reporters have interviewed nine voters across the country and the polit",
-   "published": "2026-10-09T10:00:25+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-10-09T22:42:36.195434+00:00"
-  },
-  {
-   "id": "a6ea886b82bd9654",
-   "title": "Ken Paxton\u2019s Security for Travel Cost Taxpayers Millions. Just 1 in 6 of His Trips Had a Stated Business Purpose.",
-   "url": "https://www.propublica.org/article/ken-paxton-travel-security-costs",
-   "summary": "The post Ken Paxton\u2019s Security for Travel Cost Taxpayers Millions. Just 1 in 6 of His Trips Had a Stated Business Purpose. appeared first on ProPublica.",
-   "published": "2026-10-09T10:00:00+00:00",
-   "source": "ProPublica",
-   "source_id": "propublica",
-   "bias_note": "investigative",
-   "first_seen": "2026-10-09T17:01:13.168330+00:00"
-  },
-  {
-   "id": "237f4a98270fc703",
-   "title": "An Arizona County\u2019s \u201cHousing Hub\u201d Is a Dead End for Many Homeless Families",
-   "url": "https://www.propublica.org/article/maricopa-county-homeless-hub-hotline-shelters",
-   "summary": "The post An Arizona County\u2019s \u201cHousing Hub\u201d Is a Dead End for Many Homeless Families appeared first on ProPublica.",
-   "published": "2026-10-09T09:30:00+00:00",
-   "source": "ProPublica",
-   "source_id": "propublica",
-   "bias_note": "investigative",
-   "first_seen": "2026-10-09T17:01:13.168337+00:00"
-  },
-  {
-   "id": "4a53084d8a053ed0",
-   "title": "Poll: 1 in 4 Trump voters say GOP candidates should break from the president",
-   "url": "https://www.politico.com/news/2026/10/09/poll-trump-voters-candidate-breaks-battlegrounds-01112449",
-   "summary": "It\u2019s notable that so many who backed the president are ready for Republicans to take that leap, amid an unpopular war in Iran and high costs of living.",
-   "published": "2026-10-09T09:00:00+00:00",
-   "source": "Politico",
-   "source_id": "politico",
-   "bias_note": "center",
-   "first_seen": "2026-10-09T09:11:09.816003+00:00"
-  },
-  {
-   "id": "181658451ffd28ad",
-   "title": "We\u2019re Investigating Prior Authorization. Help ProPublica Understand Your Health Insurance Denial.",
-   "url": "https://www.propublica.org/getinvolved/propublica-health-insurance-prior-authorization-reporting",
-   "summary": "The post We\u2019re Investigating Prior Authorization. Help ProPublica Understand Your Health Insurance Denial. appeared first on ProPublica.",
-   "published": "2026-10-09T09:00:00+00:00",
-   "source": "ProPublica",
-   "source_id": "propublica",
-   "bias_note": "investigative",
-   "first_seen": "2026-10-09T09:11:10.629649+00:00"
-  },
-  {
-   "id": "c387668a5b8c4f0b",
-   "title": "\u2018We don\u2019t know where the bottom is:\u2019 Republicans fret races in Trump country",
-   "url": "https://www.politico.com/news/2026/10/09/house-gop-panic-deep-red-seats-trump-01113006",
-   "summary": "GOP internal polling revealed key House seats that Trump won comfortably in 2024 are now competitive.",
-   "published": "2026-10-09T08:45:00+00:00",
-   "source": "Politico",
-   "source_id": "politico",
-   "bias_note": "center",
-   "first_seen": "2026-10-09T09:11:09.816009+00:00"
-  },
-  {
-   "id": "8ffcabd8a822b601",
-   "title": "Trump's War in Iran in spotlight ahead of midterms",
-   "url": "https://www.npr.org/2026/10/09/nx-s1-5995532/trumps-war-in-iran-in-spotlight-ahead-of-midterms",
-   "summary": "After President Trump slapped down reports that he is considered renewed strikes against Iran ahead of the midterms, the politics of the war he started are in the spotlight.",
-   "published": "2026-10-09T08:23:40+00:00",
-   "source": "NPR Politics",
-   "source_id": "npr-politics",
-   "bias_note": "center",
-   "first_seen": "2026-10-09T09:11:09.412311+00:00"
   }
  ]
 }
