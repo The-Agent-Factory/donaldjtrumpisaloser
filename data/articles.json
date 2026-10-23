@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-23T00:42:18.659883+00:00",
- "count": 1026,
+ "updated": "2026-10-23T07:37:20.882415+00:00",
+ "count": 1027,
  "articles": [
   {
    "id": "7f792d1847d389e9",
@@ -12,6 +12,116 @@
    "source_id": "foxnews-politics",
    "bias_note": "right-leaning",
    "first_seen": "2026-10-22T11:59:50.270929+00:00"
+  },
+  {
+   "id": "3de8bd9cc17bf195",
+   "title": "Immigrants seeking US citizenship targeted in Trump administration's illegal voting crackdown",
+   "url": "https://abcnews.com/Politics/wireStory/immigrants-seeking-us-citizenship-targeted-trump-administrations-illegal-137499722",
+   "summary": "Most of the immigrants targeted by federal authorities in California this week for alleged voter fraud had applied for U.S. citizenship and now face charges related to lying on forms or during interviews",
+   "published": "2026-10-23T06:51:17+00:00",
+   "source": "ABC News Politics",
+   "source_id": "abc-politics",
+   "bias_note": "center",
+   "first_seen": "2026-10-23T07:37:20.673155+00:00"
+  },
+  {
+   "id": "fcb2760722c44d20",
+   "title": "Blanche won't rule out DOJ blocking election certification in 'doomsday' scenario",
+   "url": "https://www.foxnews.com/politics/blanche-wont-rule-out-doj-blocking-election-certification-doomsday-scenario",
+   "summary": "Attorney General Todd Blanche refused to rule out Department of Justice intervention in midterm election certification, citing hypothetical &quot;doomsday&quot; scenarios.",
+   "published": "2026-10-23T04:53:19+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-10-23T07:37:19.339131+00:00"
+  },
+  {
+   "id": "285d91730b99f214",
+   "title": "What will Trump do if he loses in November? Your questions answered \u2013 podcast",
+   "url": "https://www.theguardian.com/politics/audio/2026/oct/23/us-midterm-elections-donald-trump-your-questions-answered-podcast",
+   "summary": "Will Donald Trump accept a \u2018blue wave\u2019 if it happens? Have young people turned away from centrist politics for ever? Will the US ever recover its image on the world stage? Jonathan Freedland is joined by the Guardian US columnist Moira Donegan to answer these questions and moreBuy your tickets to the Guardian\u2019s post-midterms live event, hosted by Jonathan FreedlandWatch Jonathan Freedland on our new Politics Weekly YouTube channelSend your questions and feedback to politicsweeklyamerica@theguardian.comWatch Stateside\u2019s episode on attacks on voter rights in the US Continue reading...",
+   "published": "2026-10-23T04:00:05+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-10-23T07:37:19.638955+00:00"
+  },
+  {
+   "id": "d7935601c5b3f3b4",
+   "title": "DOJ asks appeals court to intervene for California mail-in ballot lawsuit",
+   "url": "https://thehill.com/regulation/court-battles/6167264-doj-blocks-california-mail-in-ballots/",
+   "summary": "The Department of Justice (DOJ) on Thursday asked an appeals court to intervene in its lawsuit against California to temporarily block the state from counting more than 20,000 mail-in ballots cast by what the Trump administration claims are from non-U.S. citizens. The request, made to the Ninth U.S. Circuit Court of Appeals, came before a...",
+   "published": "2026-10-23T03:12:45+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-23T07:37:19.873324+00:00"
+  },
+  {
+   "id": "65d8daa098e6393f",
+   "title": "Trump announces he'll use Defense Production Act to increase domestic gas production",
+   "url": "https://thehill.com/homenews/administration/6167274-trump-invokes-defense-production-act/",
+   "summary": "President Trump invoked the Defense Production Act on Thursday, announcing that the government would be spending $150 million toward boosting domestic gas and diesel production as the White House looks to ease consumer pain at the gas pump. The announcement was made in a presidential memorandum earlier on Thursday, but the president detailed the exact...",
+   "published": "2026-10-23T02:54:59+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-23T07:37:19.873332+00:00"
+  },
+  {
+   "id": "82c9b2be908efc84",
+   "title": "Trump, Musk, Zelenskyy: who is blaming who in the Ukraine-Starlink row?",
+   "url": "https://www.theguardian.com/world/2026/oct/23/trump-musk-zelenskyy-who-is-blaming-who-in-ukraine-starlink-row",
+   "summary": "A war of words has erupted over who is responsible for the restrictions on Starshield access in UkraineA war of words has erupted between the Trump administration, officials in Kyiv and Elon Musk over who is to blame for limiting Ukraine\u2019s access to Space X\u2019s military-grade version of Starlink.The restrictions to Starshield have rendered many of the drones used by Kyiv to strike behind the frontlines inoperable and hampered air defence systems that stop Russian attacks, according to Ukrainian officials. Continue reading...",
+   "published": "2026-10-23T02:16:26+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-10-23T07:37:19.638967+00:00"
+  },
+  {
+   "id": "c46cbfa8b7bcefdc",
+   "title": "Trump on controversial Acton ad: \u2018Why would you shield somebody from that?\u2019",
+   "url": "https://thehill.com/homenews/campaign/6167221-trump-supports-ramaswamy-controversial-advertisement/",
+   "summary": "President Trump reiterated his support for Ohio gubernatorial candidate Vivek Ramswamy\u2019s (R) controversial ad that recently aired featuring Democratic opponent Amy Acton\u2019s mother calling her a \"liar.\" \u201cWhy would you shield somebody from that?\u201d\u00a0Trump asked his supporters at a rally in Sioux City, Iowa Thursday night. The president said Ramaswamy had reached out to him...",
+   "published": "2026-10-23T01:59:00+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-23T07:37:19.873355+00:00"
+  },
+  {
+   "id": "ac853f5f9dd56c73",
+   "title": "Department of Justice opens criminal investigation into Corey Lewandowski",
+   "url": "https://www.theguardian.com/us-news/2026/oct/22/corey-lewandowski-trump-criminal-investigation",
+   "summary": "Ex-Trump adviser and former top aide for homeland security alleged to have profited off government roleCorey Lewandowski, a former political adviser to Donald Trump and \u2060top aide at the Department \u2060of Homeland Security, \u200bis under criminal investigation over allegations he profited off his role in the US government, three US officials and a fourth person familiar with the matter told Reuters \u2060on Thursday.The investigation began with a criminal referral to the justice department from the internal watchdog at DHS, according to the four people. The DHS inspector general\u2019s office has been investiga",
+   "published": "2026-10-23T00:55:02+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-10-23T07:37:19.638995+00:00"
+  },
+  {
+   "id": "13351e46de5bb63d",
+   "title": "RFK Jr. adviser Calley Means resigns amid growing MAHA discontent over lack of progress",
+   "url": "https://www.pbs.org/newshour/politics/rfk-jr-adviser-calley-means-resigns-amid-growing-maha-discontent-over-lack-of-progress",
+   "summary": "Calley Means, a top adviser to Health Secretary Robert F. Kennedy Jr. and a chief advocate for the Make America Healthy Again movement, resigned from his position with the Trump administration Thursday.",
+   "published": "2026-10-23T00:51:44+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-10-23T07:37:20.215145+00:00"
+  },
+  {
+   "id": "1274d165e34e9c83",
+   "title": "Rollins: Trump administration going 'full-bore ahead' on Forest Service reorganization",
+   "url": "https://thehill.com/homenews/administration/6167143-trump-forest-service-restructuring-agriculture-secretary/",
+   "summary": "Agriculture Secretary Brooke reiterated Thursday the Trump administration\u2019s commitment to major restructuring at the U.S. Forest Service despite legal hurdles.\u00a0 \u201cWe are full-bore ahead in the reorganization,\u201d Rollins said during a media call, according to The Associated Press. \u201cWe believe in it more today than we ever have \u2014 taking the USDA to our constituents,...",
+   "published": "2026-10-23T00:44:57+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-23T07:37:19.873362+00:00"
   },
   {
    "id": "25db6346e5173ca1",
@@ -11188,105 +11298,6 @@
    "source_id": "npr-politics",
    "bias_note": "center",
    "first_seen": "2026-10-09T09:11:09.412311+00:00"
-  },
-  {
-   "id": "67ce4b7ba8672d32",
-   "title": "Trump's memorial arch faces new lawsuit from Arlington County, Virginia",
-   "url": "https://abcnews.com/Politics/wireStory/trumps-memorial-arch-faces-new-lawsuit-arlington-county-137117287",
-   "summary": "The Arlington County Board in Virginia has filed a lawsuit opposing the construction of the Triumphal Arch, becoming the first governmental body to take legal action against President Donald Trump&rsquo;s planned monument",
-   "published": "2026-10-09T06:44:25+00:00",
-   "source": "ABC News Politics",
-   "source_id": "abc-politics",
-   "bias_note": "center",
-   "first_seen": "2026-10-09T09:11:10.878757+00:00"
-  },
-  {
-   "id": "d7860f9ef97866ea",
-   "title": "US midterms: key takeaways from Senate debates in Michigan, Georgia and Maine",
-   "url": "https://www.theguardian.com/us-news/2026/oct/09/us-midterms-michigan-georgia-maine-senate-debate-key-takeaways",
-   "summary": "Candidates traded personal attacks and clashed over a range of issues in closely watched US Senate debates on Thursday, with control of Congress at stakeWith just weeks left in the contentious midterm election campaign, candidates in a trio of highly-competitive Senate races debated Thursday night, clashing over the economy, tariffs, the Iran war and abortion rights, with control of the upper chamber at stake.In Georgia, incumbent Democratic senator Jon Ossoff faced GOP representative Mike Collins. In Michigan, Democrat Abdul Al-Sayed and Republican Mike Rogers debated over the state\u2019s open Se",
-   "published": "2026-10-09T04:48:13+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-10-09T09:11:09.660218+00:00"
-  },
-  {
-   "id": "608312cecc498de0",
-   "title": "Mamdani demands Trump release illegal immigrant shot by ICE agent as protests erupt in the Bronx",
-   "url": "https://www.foxnews.com/us/mamdani-demands-trump-release-illegal-immigrant-shot-ice-agent-protests-erupt-bronx",
-   "summary": "Mayor Zohran Mamdani demanded President Donald Trump release the man shot and injured by an ICE agent on Thursday in an incident that set off protests across New York City.",
-   "published": "2026-10-09T04:40:09+00:00",
-   "source": "Fox News Latest",
-   "source_id": "foxnews-latest",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-10-09T09:11:09.099490+00:00"
-  },
-  {
-   "id": "1b5d4750c517cb43",
-   "title": "Is a \u2018blue tsunami\u2019 going to wipe out Republicans? \u2013 podcast",
-   "url": "https://www.theguardian.com/politics/audio/2026/oct/09/is-a-blue-tsunami-going-to-wipe-out-republicans-podcast",
-   "summary": "Polling out this week suggests the Democrats could do something no one thought possible even a few months ago: take back the US Senate. Despite this, Donald Trump is telling crowds at rallies across the country that the Republicans will \u2018win big\u2019.This week, Jonathan Freedland speaks to David Nir of the Downballot about why Democrats are feeling so hopeful in deep red statesWatch Jonathan Freedland on our new Politics Weekly YouTube channelSend your questions and feedback to politicsweeklyamerica@theguardian.comWatch Aditya Chakrabortty\u2019s new series, Radical Thinking, on YouTube, or listen to i",
-   "published": "2026-10-09T04:00:37+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-10-09T09:11:09.660246+00:00"
-  },
-  {
-   "id": "6d1a9fbef2a4be59",
-   "title": "Byron Donalds says he is not a \u2018yes man\u2019 to Trump",
-   "url": "https://www.politico.com/video/2026/10/08/byron-donalds-says-he-is-not-a-yes-man-to-trump-2194998",
-   "summary": "",
-   "published": "2026-10-09T03:59:00+00:00",
-   "source": "Politico",
-   "source_id": "politico",
-   "bias_note": "center",
-   "first_seen": "2026-10-09T09:11:09.816011+00:00"
-  },
-  {
-   "id": "6351a89e2405065f",
-   "title": "Arlington County sues to block Trump arch after project gets key approval",
-   "url": "https://thehill.com/regulation/court-battles/6138098-arlington-county-trump-arch-lawsuit/",
-   "summary": "Arlington County has filed a lawsuit to block President Trump\u2019s proposed triumphal arch following the project's approval by the U.S. Commission of Fine Arts in April.\u00a0 The lawsuit opposed the construction of the proposed 250-foot arch, citing concerns about the project\u2019s impact on tourism and safety to local residents. \u201cUsing the Arch to store large...",
-   "published": "2026-10-09T02:46:56+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-09T09:11:09.965297+00:00"
-  },
-  {
-   "id": "6e59afe4ff82829a",
-   "title": "Trump says Minnesotans should 'fight back' against Somali immigrants",
-   "url": "https://thehill.com/homenews/administration/6138039-trump-somali-immigrants-minnesota/",
-   "summary": "President Trump said Thursday that Minnesotans should \u201cfight back\u201d against Somali immigrants following previous attacks against the group. \u201cThe once Great State of Minnesota is being taken over by Somali Immigrants. There is Violence, Murder, and Mayhem all over the State,\u201d Trump wrote on Truth Social. \u201cThe people of Minnesota must fight back.\u201d He added...",
-   "published": "2026-10-09T01:39:17+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-09T09:11:09.965322+00:00"
-  },
-  {
-   "id": "492f110ce8546eea",
-   "title": "Federal grand jury hears evidence in probe of former Trump aide Cassidy Hutchinson's Jan 6 testimony: source",
-   "url": "https://www.foxnews.com/politics/federal-grand-jury-hears-evidence-probe-former-trump-aide-cassidy-hutchinson-jan-6-testimony",
-   "summary": "A federal grand jury heard evidence about possible false statements Cassidy Hutchinson made to the Jan. 6 House select committee on the Capitol riot.",
-   "published": "2026-10-09T01:33:15+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-10-09T09:11:09.082628+00:00"
-  },
-  {
-   "id": "ae1978664d3457cb",
-   "title": "Execution TV? Pete Hegseth has taken the once \u2018greatest democracy\u2019 to a horrific new low | Paul Daley",
-   "url": "https://www.theguardian.com/commentisfree/2026/oct/09/nidal-hasan-execution-pete-hegseth-us-military-tv-democracy",
-   "summary": "A proposal to livestream the killing of Nidal Hasan by firing squad opens a window ever wider to the Trump administration\u2019s complete moral vacuityMore fool me! Here I was thinking nothing that America\u2019s Trump administration could do or say, no matter how politically and morally bankrupt, no matter how venal or violent, was capable of shocking me any longer.Then I woke to today\u2019s news that one of the Trump cabinet\u2019s bigger boofheads \u2013 the uber Christian nationalist, crusader-fantasist and \u201csecretary of war\u201d Pete Hegseth had announced that America would have a public firing squad execution of mu",
-   "published": "2026-10-09T01:19:07+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-10-09T09:11:09.660274+00:00"
   }
  ]
 }
