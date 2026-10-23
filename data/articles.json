@@ -1,7 +1,106 @@
 {
- "updated": "2026-10-23T13:30:57.276194+00:00",
- "count": 1042,
+ "updated": "2026-10-23T15:39:56.312075+00:00",
+ "count": 1045,
  "articles": [
+  {
+   "id": "fb90662ce52d49ce",
+   "title": "Justice Department sues to block Alaska results if Sullivan loses",
+   "url": "https://thehill.com/homenews/campaign/6168331-justice-department-sues-to-block-alaska-results-if-sullivan-loses/",
+   "summary": "The Trump administration has filed a lawsuit that aims to block certification of the Senate election in Alaska if incumbent Republican Sen. Dan Sullivan loses his reelection bid.  The lawsuit, filed Thursday in the U.S. District Court for the district of Alaska, argues that a win for Democrat Mary Peltola could be blocked by the...",
+   "published": "2026-10-23T15:35:47+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-23T15:39:55.758738+00:00"
+  },
+  {
+   "id": "dad49274a1e11bef",
+   "title": "Trump's affinity for Putin harms US interests",
+   "url": "https://thehill.com/opinion/international/6165812-trump-zelensky-conflict/",
+   "summary": "Journalist Bernard Goldberg criticizes President Donald Trump's perceived affinity for Vladimir Putin and his stance on the war in Ukraine, arguing that such diplomacy undermines American values and harms both nations.",
+   "published": "2026-10-23T15:30:00+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-23T15:39:55.758760+00:00"
+  },
+  {
+   "id": "546f184245ee83d0",
+   "title": "Trump administration files lawsuit to block possible Democratic win in Alaska Senate race",
+   "url": "https://www.pbs.org/newshour/politics/trump-administration-files-lawsuit-to-block-possible-democratic-win-in-alaska-senate-race",
+   "summary": "This move has sparked concerns about a lengthy battle between the U.S. government and states over election certification.",
+   "published": "2026-10-23T15:14:18+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-10-23T15:39:55.879680+00:00"
+  },
+  {
+   "id": "c2ef352622881fc6",
+   "title": "Melania Trump brokers localized Russia-Ukraine ceasefire, White House says",
+   "url": "https://thehill.com/policy/international/6167822-melania-trump-oleshky-ceasefire/",
+   "summary": "First lady Melania Trump has secured a localized ceasefire between Russia and Ukraine in the front-line city of Oleshky, the White House said in a press release Friday morning. The ceasefire will begin Thursday with both nations agreeing to temporarily stop all military action in the city \u201cto allow for humanitarian aid to enter and...",
+   "published": "2026-10-23T15:02:40+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-23T15:39:55.758780+00:00"
+  },
+  {
+   "id": "60a3dfae1da43b9b",
+   "title": "US supreme court sides with Republicans on rejecting student IDs in New Hampshire midterms",
+   "url": "https://www.theguardian.com/us-news/2026/oct/23/supreme-court-student-ids-new-hampshire-midterms",
+   "summary": "Voting rights advocates say directive would disenfranchise young and low-income voters, but Republicans say it\u2019s needed to combat voter fraudUS politics live \u2013 latest updatesThe US supreme court has cleared the way for New Hampshire to prohibit student IDs as a form of voter identification ahead of November\u2019s midterm elections.In a brief unsigned order, justices sided with a Republican National Committee (RNC)-backed appeal on the matter. They cited a longstanding rule that lower federal courts should not \u201calter election rules\u201d too close to election day. Continue reading...",
+   "published": "2026-10-23T14:51:46+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-10-23T15:39:54.492964+00:00"
+  },
+  {
+   "id": "d9fc3d0e3c423d74",
+   "title": "LeBron James doubles down with sneaky golf hip turns during national anthem after Trump's 'total disgrace' dig",
+   "url": "https://www.foxnews.com/outkick-sports/lebron-james-doubles-sneaky-golf-hip-turns-national-anthem-trump-total-disgrace-dig",
+   "summary": "LeBron James responded to Trump&apos;s Truth Social attack with more golf swing hip turns during the national anthem before the 76ers-Cavaliers game.",
+   "published": "2026-10-23T14:45:24+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-10-23T15:39:54.165211+00:00"
+  },
+  {
+   "id": "1f1b92fa83b6d559",
+   "title": "Trump election advisers donate Bosnia consulting fee to presidential library",
+   "url": "https://thehill.com/homenews/administration/6168014-trump-advisers-donate-library-fees/",
+   "summary": "President Trump\u2019s political advisers James Blair and Chris LaCivita confirmed Friday they donated their full fee from their consulting work for a pro-Russian political party in Bosnia-Herzegovina to Trump\u2019s presidential library.\u00a0 \u201cYes, it\u2019s true we donated our full fee.\u00a0I love the President and am eternally grateful for the opportunities he has provided me,\u201d Blair said...",
+   "published": "2026-10-23T14:36:20+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-23T15:39:55.758862+00:00"
+  },
+  {
+   "id": "32473a2eb93b5018",
+   "title": "Being pro-Trump has been \u2018easy radio\u2019 for conservative hosts like Jesse Kelly. Those days are ending.",
+   "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/23/jesse-kelly-conservative-radio-trump",
+   "summary": "Conservative media personalities who have long benefited from boosting the president will be forced to wrestle with the likely fallout of Republican losses in next month\u2019s US midterm electionsNothing lasts forever. Jesse Kelly knows his meteoric rise through conservative radio will end one day \u2013 just like Donald Trump\u2019s power over the Republican party.Every day, the 6ft 8in Kelly walks a tightrope between sycophancy and criticism of the US president: the same fine line many rightwing hosts have attempted to tread throughout Trump\u2019s rise, fall, and then resurrection from the political graveyard",
+   "published": "2026-10-23T14:00:29+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-10-23T15:39:54.492982+00:00"
+  },
+  {
+   "id": "3f7b9bbc613b9354",
+   "title": "The Kremlin says a first tanker of Russian diesel sets sail for the U.S. despite Ukraine's protests",
+   "url": "https://www.pbs.org/newshour/world/the-kremlin-says-a-first-tanker-of-russian-diesel-sets-sail-for-the-u-s-despite-ukraines-protests",
+   "summary": "A first tanker carrying Russian diesel to the United States under a new import agreement has set sail, the Kremlin said Friday, two weeks after President Donald Trump said he struck a deal with President Vladimir Putin despite Moscow's invasion of Ukraine.",
+   "published": "2026-10-23T13:52:53+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-10-23T15:39:55.879686+00:00"
+  },
   {
    "id": "458875e0f1fb3b51",
    "title": "Ilhan Omar hit with expulsion threat as GOP lawmaker vows to boot her from Congress over DOJ probe",
@@ -11397,72 +11496,6 @@
    "source_id": "foxnews-politics",
    "bias_note": "right-leaning",
    "first_seen": "2026-10-09T17:01:11.745928+00:00"
-  },
-  {
-   "id": "87aa997a42ec207a",
-   "title": "Nobel winner Navi Pillay gives sarcastic nod to Trump in initial remarks",
-   "url": "https://thehill.com/policy/international/6138816-nobel-winner-navi-pillay-donald-trump-comments/",
-   "summary": "Navi Pillay, the winner of this year\u2019s Nobel Peace Prize, took a playful jab at President Trump after learning she had received the honor Friday. \u201cIf you clap a little bit more, I may share this prize with Trump,\u201d Pillay said, according to a video clip shared from the moment she heard the news in...",
-   "published": "2026-10-09T15:23:35+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-09T17:01:12.664986+00:00"
-  },
-  {
-   "id": "ba38f5664f9b71c0",
-   "title": "'Thrill killer' and desert executioner \u2014 meet the dozens of criminals Dem AG backed for parole: 'No brainer'",
-   "url": "https://www.foxnews.com/politics/thrill-killer-desert-executioner-dozens-criminals-dem-ag-backed-parole-no-brainer",
-   "summary": "Aaron Ford voted to pardon or reduce sentences for 30 convicted murderers, records show, as he campaigns to unseat Gov. Joe Lombardo in Nevada.",
-   "published": "2026-10-09T15:21:44+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-10-09T17:01:11.745943+00:00"
-  },
-  {
-   "id": "9dbbf1b45645c076",
-   "title": "Trump establishes 'committee of inquiry' for Federal Reserve member Lisa Cook",
-   "url": "https://thehill.com/homenews/administration/6138879-trump-cook-mortgage-investigation/",
-   "summary": "President Trump established a committee Friday to investigate whether Federal Reserve board of governors member Lisa Cook \u201cmade false statements in connection with one or more mortgage instruments.\u201d The \u201ccommittee of inquiry\u201d will hold an in-person hearing next month to consider the allegations and evidence against her. The committee is made up of the assistant...",
-   "published": "2026-10-09T15:19:48+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-09T17:01:12.665008+00:00"
-  },
-  {
-   "id": "a968758cb78c3402",
-   "title": "Pretend Orban is on the ballot \u2014 he offered handouts, too",
-   "url": "https://thehill.com/opinion/white-house/6137051-orban-style-taxpayer-giveaways/",
-   "summary": "Whether it\u2019s Trump, Orb\u00e1n or Vance, opening the fiscal purse to appease a grumbling public is a classic move made by history\u2019s practitioners of clientelism.",
-   "published": "2026-10-09T15:00:00+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-09T17:01:12.665028+00:00"
-  },
-  {
-   "id": "6ff74bade7adfbab",
-   "title": "Talarico disappearance has Dem volunteers worrying and Trump asking, 'What is going on?'",
-   "url": "https://www.foxnews.com/politics/talarico-disappearance-has-dem-volunteers-worrying-trump-asking-what-going-on",
-   "summary": "Trump called James Talarico &quot;MISSING IN ACTION&quot; as the Texas Democrat&apos;s nearly two-week campaign trail absence sparks concerns about losing momentum.",
-   "published": "2026-10-09T14:56:34+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-10-09T17:01:11.745949+00:00"
-  },
-  {
-   "id": "fa2d58911ef19ef7",
-   "title": "ICE officer shoots a man while making an arrest in New York, officials say",
-   "url": "https://www.pbs.org/newshour/politics/ice-officer-shoots-a-man-while-making-an-arrest-in-new-york-officials-say",
-   "summary": "A federal immigration officer shot a Dominican man in the neck as he drove in a car with a 5-year-old boy Thursday afternoon, officials said. The Department of Homeland Security said it was seeking to arrest the man in a \"targeted enforcement operation,\" but protesters and local officials decried it as an example of the dangers of the Trump administration's immigration crackdown.",
-   "published": "2026-10-09T14:23:42+00:00",
-   "source": "PBS NewsHour Politics",
-   "source_id": "pbs-politics",
-   "bias_note": "center",
-   "first_seen": "2026-10-09T17:01:12.841219+00:00"
   }
  ]
 }
