@@ -1,7 +1,95 @@
 {
- "updated": "2026-10-23T23:11:31.854512+00:00",
- "count": 1044,
+ "updated": "2026-10-24T04:43:46.274199+00:00",
+ "count": 1040,
  "articles": [
+  {
+   "id": "e3634b0a67b64834",
+   "title": "Peltola calls Alaska lawsuit a 'desperate attempt' for GOP to 'cling to power'",
+   "url": "https://thehill.com/blogs/ballot-box/6169725-peltola-slams-alaska-doj-lawsuit-sullivan/",
+   "summary": "Alaska Senate candidate Mary Peltola (D) responded to the Justice Department's (DOJ) lawsuit seeking to block her state from certifying its election results should her Republican challenger lose, saying Friday the move was \"frivolous.\" \u201cThis is clearly corruption. This is clearly a very desperate attempt to cling to power, using his allies in Washington, D.C....",
+   "published": "2026-10-24T01:53:56+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-24T04:43:45.466428+00:00"
+  },
+  {
+   "id": "f977513137741e5b",
+   "title": "Ainsley Earhardt and Sean Hannity celebrate upcoming wedding surrounded by family and friends at Mar-a-Lago",
+   "url": "https://www.foxnews.com/media/ainsley-earhardt-sean-hannity-celebrate-upcoming-wedding-surrounded-family-friends-mar-a-lago",
+   "summary": "Fox News hosts Ainsley Earhardt and Sean Hannity celebrated their upcoming wedding on Friday with a gathering of family, close friends and longtime colleagues at Mar-a-Lago in Palm Beach, Florida.",
+   "published": "2026-10-24T01:28:35+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-10-24T04:43:44.640014+00:00"
+  },
+  {
+   "id": "ed7adddd60cf5c94",
+   "title": "Rubio tells Cubans \u2018now is the time\u2019 to act to see political change",
+   "url": "https://www.theguardian.com/us-news/2026/oct/23/marco-rubio-cuba-trump",
+   "summary": "US secretary of state makes comments after Trump tells US rally warships could intervene on return from IranMarco Rubio urged Cubans seeking political change in their country to act, saying \u201cnow is the time\u201d moments after Donald Trump told a Friday rally for candidates in south Florida that US warships could intervene in Cuba on their way back from the Iran war.The US secretary of state, in his social media post addressed \u201cto those who seek to create positive change\u201d, urged Cubans to capitalize on Trump\u2019s plans. \u201cThe disappointment of failed promises, corruption, and the privileged lives of on",
+   "published": "2026-10-24T00:30:02+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-10-24T04:43:45.314449+00:00"
+  },
+  {
+   "id": "f916f3ec4c118092",
+   "title": "Vanessa Trump 'finally cancer-free,' she says after health battle in emotional video with daughter Kai",
+   "url": "https://www.foxnews.com/lifestyle/vanessa-trump-finally-cancer-free-after-health-battle-emotional-video-daughter-kai",
+   "summary": "Months after revealing her breast cancer diagnosis in April, Vanessa Trump announces she is cancer-free in an emotional video with daughter Kai Trump.",
+   "published": "2026-10-23T23:54:55+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-10-24T04:43:44.640043+00:00"
+  },
+  {
+   "id": "95edad54a9cf22ae",
+   "title": "Rollins says USDA is 'full-bore ahead' on Forest Service reorganization",
+   "url": "https://www.pbs.org/newshour/politics/rollins-says-usda-is-full-bore-ahead-on-forest-service-reorganization",
+   "summary": "The Trump administration wants to move Forest Service headquarters from Washington to Salt Lake City, shutter 23 research stations, and close many regional offices and replace them with state offices.",
+   "published": "2026-10-23T23:52:37+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-10-24T04:43:45.647358+00:00"
+  },
+  {
+   "id": "c5334bbdeb1fbfd9",
+   "title": "Rubio urges Cubans to work with CIA to bring political change to communist-run island",
+   "url": "https://www.foxnews.com/world/rubio-urges-cubans-work-cia-bring-political-change-communist-run-island",
+   "summary": "Secretary of State Marco Rubio urged Cubans to form a &quot;discrete partnership with the CIA&quot; as Trump floated sending him to Cuba to cut a deal.",
+   "published": "2026-10-23T23:43:20+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-10-24T04:43:44.640053+00:00"
+  },
+  {
+   "id": "d406f1f6ed98491c",
+   "title": "Kennedy rolls out US-caught seafood labeling, Seafood.gov",
+   "url": "https://thehill.com/homenews/administration/6169656-trump-rfk-unveil-us-seafood-label/",
+   "summary": "The Trump administration unveiled new initiatives for U.S. fishermen Friday, including a new government website known as Seafood.gov. At a rally in Fort Myers, Fla., Health and Human Services (HHS) Secretary Robert F. Kennedy Jr. announced the creation of a voluntary label made for U.S.-caught fish, which the Food and Drug Administration (FDA) began offering...",
+   "published": "2026-10-23T23:40:48+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-24T04:43:45.466436+00:00"
+  },
+  {
+   "id": "e8c537eb9c9f7d9d",
+   "title": "Trump says NFL 'could've probably postponed' Paris game as France protests stretch police thin",
+   "url": "https://www.foxnews.com/outkick-sports/trump-says-nfl-could-probably-postponed-paris-game-france-protests-stretch-police-thin",
+   "summary": "President Donald Trump says the NFL could have postponed the Steelers-Saints Paris game as mass protests stretch police and security resources.",
+   "published": "2026-10-23T23:26:23+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-10-24T04:43:44.640056+00:00"
+  },
   {
    "id": "a31c94efc4b5c52d",
    "title": "ESPN posts propagandistic headline about Trump, LeBron and national anthem",
@@ -11353,138 +11441,6 @@
    "source_id": "guardian-uspolitics",
    "bias_note": "left-leaning",
    "first_seen": "2026-10-10T12:39:00.135379+00:00"
-  },
-  {
-   "id": "aafe839eddd27974",
-   "title": "Federal judge: DOJ cannot request states' voter lists for eligibility database",
-   "url": "https://thehill.com/regulation/court-battles/6140273-judge-blocks-doj-voter-rolls-program/",
-   "summary": "A federal judge struck down on Friday the Justice Department\u2019s nationwide effort to collect voter registration records and identify suspected non-U.S. citizens, blocking the Trump administration from continuing the program even in states that voluntarily cooperated. U.S. District Judge Sparkle Sooknanan in Washington ruled the department exceeded its legal authority and violated federal privacy laws...",
-   "published": "2026-10-10T03:13:42+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-10T05:59:05.600301+00:00"
-  },
-  {
-   "id": "7b7edbab5831ea64",
-   "title": "Trump asks Supreme Court to look at 2016 election lawsuit against Clinton: Report",
-   "url": "https://thehill.com/homenews/administration/6140233-trump-supreme-court-clinton-lawsuit-appeal/",
-   "summary": "President Trump asked the Supreme Court on Friday to reopen his dismissed lawsuit against former Secretary of State Hillary Clinton, reviving claims that she and other political adversaries orchestrated an effort to sabotage his 2016 presidential campaign by tying it to Russia. Trump filed the appeal after a federal judge dismissed his case and ordered...",
-   "published": "2026-10-10T02:47:13+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-10T05:59:05.600308+00:00"
-  },
-  {
-   "id": "3b987b583c532698",
-   "title": "Trump rallies New York crowd for Republican Bruce Blakeman's bid to replace Gov. Kathy Hochul",
-   "url": "https://www.foxnews.com/politics/trump-rallies-new-york-crowd-republican-bruce-blakemans-bid-replace-gov-kathy-hochul",
-   "summary": "President Donald Trump rallied Syracuse supporters behind Bruce Blakeman&apos;s bid to unseat Gov. Kathy Hochul, promising tax cuts and cheaper energy for New York families.",
-   "published": "2026-10-10T02:42:49+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-10-10T05:59:04.973586+00:00"
-  },
-  {
-   "id": "dc6a6a6ea2f981fa",
-   "title": "Trump fumes over Nobel peace prize snub and criticizes Norway",
-   "url": "https://www.theguardian.com/us-news/2026/oct/09/trump-nobel-peace-prize",
-   "summary": "President complains about not winning prize in year he started war with Iran and says: \u2018We will not forget, Norway\u2019Donald Trump complained Friday about not winning the Nobel peace prize for 2026, a year in which he started a war with Iran.At what was supposed to be a rally for other Republican candidates in Syracuse, New York, the US president devoted a long portion of his speech airing his grievances with the Nobel committee. Continue reading...",
-   "published": "2026-10-10T01:57:03+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-10-10T05:59:05.426359+00:00"
-  },
-  {
-   "id": "734fa7f9becba640",
-   "title": "Trump brings Mike Tyson on stage at Syracuse rally, jokes that he is Bruce Blakeman's personal security",
-   "url": "https://www.foxnews.com/outkick-sports/trump-brings-mike-tyson-stage-syracuse-rally-jokes-bruce-blakeman-personal-security",
-   "summary": "Trump brought Mike Tyson on Air Force One to a Syracuse rally for Bruce Blakeman, the Republican running to unseat New York Gov. Kathy Hochul.",
-   "published": "2026-10-10T01:45:43+00:00",
-   "source": "Fox News Latest",
-   "source_id": "foxnews-latest",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-10-10T05:59:04.993696+00:00"
-  },
-  {
-   "id": "731bd19d97570e90",
-   "title": "Gov Kathy Hochul signs New York onto Trump's school choice program despite teachers union opposition",
-   "url": "https://www.foxnews.com/media/gov-kathy-hochul-signs-new-york-trump-school-choice-program-despite-teachers-union-opposition",
-   "summary": "New York Gov. Kathy Hochul joined President Donald Trump&apos;s Education Freedom Tax Credit despite fierce opposition from teachers unions and a petition to reject it.",
-   "published": "2026-10-10T01:03:12+00:00",
-   "source": "Fox News Latest",
-   "source_id": "foxnews-latest",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-10-10T05:59:04.993701+00:00"
-  },
-  {
-   "id": "66e6cbcc17c72bf0",
-   "title": "James Talarico resurfaces after extended absence as his campaign pushes back",
-   "url": "https://www.foxnews.com/politics/james-talarico-resurfaces-after-12-day-absence-sparked-campaign-trail-attacks",
-   "summary": "James Talarico resurfaces at Austin City Limits after a 12-day absence that drew sharp attacks from Trump and Ken Paxton on the campaign trail.",
-   "published": "2026-10-10T00:41:11+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-10-10T05:59:04.973594+00:00"
-  },
-  {
-   "id": "83b1ce2134afbbbb",
-   "title": "Trump gives raw reaction after finding out about Mike Ditka's death: 'A tough cookie'",
-   "url": "https://www.foxnews.com/outkick-sports/trump-raw-reaction-mike-ditka-death-tough-cookie",
-   "summary": "Trump called Mike Ditka &quot;a tough cookie&quot; and &quot;a winner&quot; after learning of the Hall of Fame Chicago Bears coach&apos;s death on the South Lawn Friday.",
-   "published": "2026-10-10T00:13:38+00:00",
-   "source": "Fox News Latest",
-   "source_id": "foxnews-latest",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-10-10T05:59:04.993722+00:00"
-  },
-  {
-   "id": "ae015a3e0ac91951",
-   "title": "GOP priorities alienate MAHA supporters",
-   "url": "https://thehill.com/newsletters/healthcare/6140164-gop-priorities-alienate-maha-supporters/",
-   "summary": "Click in for more news from The Hill {beacon} Healthcare Healthcare &#8202; The Big Story  GOP priorities alienate MAHA supporters Supporters of the \u201cMake America Healthy Again\u201d (MAHA) agenda are feeling betrayed by the Republican Party as the administration cozies up to industry insiders and lawmakers support legislation contrary to their values.  \u00a9 AP Photo/Jacquelyn...",
-   "published": "2026-10-10T00:08:52+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-10T05:59:05.600320+00:00"
-  },
-  {
-   "id": "62c2e05aebf20a43",
-   "title": "Zelensky decries US-Russia diesel deal: 'Gifts to Putin will not bring peace'",
-   "url": "https://thehill.com/policy/energy-environment/6140146-zelensky-blasts-trump-russia-diesel-deal/",
-   "summary": "Ukrainian President Volodymyr Zelensky lambasted President Trump\u2019s Friday deal allowing Russia to supply the U.S. and global market with diesel, arguing the move would give the Kremlin more money to fund its war in Ukraine and undermine peace efforts. \u201cGifts to Putin will not bring peace or any benefit to the civilized world,\u201d Zelensky wrote...",
-   "published": "2026-10-10T00:07:02+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-10T05:59:05.600326+00:00"
-  },
-  {
-   "id": "119448293e4fed32",
-   "title": "Presidential Message on Leif Erikson Day",
-   "url": "https://www.whitehouse.gov/briefings-statements/2026/10/presidential-message-on-leif-erikson-day/",
-   "summary": "Half a millennium before legendary American hero Christopher Columbus set foot in the New World, Norse explorer Leif Erikson made history as the first European to arrive on the North American continent.&#160; This Leif Erikson Day, we celebrate his exceptional legacy of bravery, daring, and exploration as we build upon our extraordinary relationships with our [&#8230;]\nThe post Presidential Message on Leif Erikson Day appeared first on The White House.",
-   "published": "2026-10-09T23:48:59+00:00",
-   "source": "WhiteHouse.gov News",
-   "source_id": "whitehouse",
-   "bias_note": "official/primary-source",
-   "first_seen": "2026-10-10T05:59:05.023559+00:00"
-  },
-  {
-   "id": "504e0e5c81705118",
-   "title": "Zelenskyy furious as Trump announces deal to buy Russian diesel",
-   "url": "https://www.theguardian.com/us-news/2026/oct/09/trump-putin-russian-diesel-ukraine",
-   "summary": "President says deal essential to lower US fuel prices but move set to create fresh crisis with Ukraine and Nato alliesDonald Trump was on a fresh collision course with the Ukrainian president, Volodymyr Zelenskyy, and European allies on Friday after a stunning agreement to buy Russian diesel, upending years of US and western pressure on the Kremlin to end its four-and-a-half year war against Ukraine.Zelenskyy reacted furiously to Trump\u2019s announcement of the deal with President Vladimir Putin of Russia, calling it \u201cabsolutely terrible\u201d and \u201cnot fair and not honest\u201d. Continue reading...",
-   "published": "2026-10-09T23:39:31+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-10-10T05:59:05.426367+00:00"
   }
  ]
 }
