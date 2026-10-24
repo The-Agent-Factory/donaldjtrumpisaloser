@@ -1,7 +1,117 @@
 {
- "updated": "2026-10-24T18:49:29.610457+00:00",
- "count": 1050,
+ "updated": "2026-10-24T22:31:54.481638+00:00",
+ "count": 1051,
  "articles": [
+  {
+   "id": "08c2854425f2c987",
+   "title": "Barack Obama to rally for Abdul El-Sayed in Michigan before key US Senate race \u2013 US politics live",
+   "url": "https://www.theguardian.com/us-news/live/2026/oct/24/obama-abdul-el-sayed-midterms-rally-michigan-live-updates",
+   "summary": "The former Democratic president is showing major support in Detroit for the progressive Michigan candidate in final days before US midterm electionsSign up for Breaking News US emailDonald Trump voted in West Palm Beach, Florida today, telling reporters at the polls that he voted straight Republican on his ballot. Trump has historically mailed-in his ballot rather than voting in-person.Speaking from the polling site, Trump defended an ad from Ohio gubernatorial candidate Vivek Ramaswamy, his administration\u2019s lawsuit seeking to block certification of the Alaska Senate race if Repubican senator ",
+   "published": "2026-10-24T22:20:32+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-10-24T22:31:53.232054+00:00"
+  },
+  {
+   "id": "5be7c3f323fb0022",
+   "title": "Blanche: DOJ lawsuit not trying to 'stop the certification of Alaska's election'",
+   "url": "https://thehill.com/homenews/campaign/6170303-blanche-denies-alaska-election/",
+   "summary": "Attorney General Todd Blanche said Saturday that the Justice Department is not trying to stop the certification of Alaska\u2019s election, referring to a lawsuit filed this week which claimed to \u201cprotect the integrity\u201d of the election. The lawsuit, filed Thursday in the U.S. District Court for the district of Alaska,\u00a0claims that the inclusion of a candidate...",
+   "published": "2026-10-24T22:13:22+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-24T22:31:53.536182+00:00"
+  },
+  {
+   "id": "2c93a7da21e3250a",
+   "title": "Trump casts his midterm ballot early in Florida",
+   "url": "https://www.pbs.org/newshour/politics/trump-casts-his-midterm-ballot-early-in-florida",
+   "summary": "Trump has been criticized in the past for voting by mail despite his long history of railing against that method of submitting ballots.",
+   "published": "2026-10-24T21:29:15+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-10-24T22:31:53.761008+00:00"
+  },
+  {
+   "id": "1c8d6ccad88a0eed",
+   "title": "Obama on Trump White House: \u2018Like Saddam Hussein opened a Cheesecake Factory\u2019",
+   "url": "https://thehill.com/homenews/6170280-obama-jokes-trump-ohio-midterm-rally/",
+   "summary": "President Obama delivered a harsh assessment Saturday of President Trump's many Washington renovation projects while rallying supporters for Ohio Democratic midterm candidates former Sen. Sherrod Brown and Amy Acton. \u201cHe seems very focused on home renovations. He should be on HGTV,\u201d Obama said of Trump's over $900 million worth of White House construction efforts. \u201cWhat\u2019s...",
+   "published": "2026-10-24T21:13:31+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-24T22:31:53.536192+00:00"
+  },
+  {
+   "id": "512983b528f2affe",
+   "title": "Pentagon drafts Iran attack plans as Tehran threatens aggressive retaliation",
+   "url": "https://thehill.com/policy/defense/6169634-us-military-iran-strikes-infrastructure/",
+   "summary": "The U.S. military has drawn up options to potentially attack Iran after the U.S. midterm elections, possibly renewing the conflict that has lasted over eight months.  The U.S. Central Command (Centcom), which oversees U.S. forces in the Middle East, has plans ready to conduct follow-up strikes against Iran if there\u2019s authorization from the White House,...",
+   "published": "2026-10-24T21:00:00+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-24T22:31:53.536197+00:00"
+  },
+  {
+   "id": "917c17255d096a5a",
+   "title": "Sunday shows preview: Trump's DOJ keeps close eye on election results; Last-minute campaigning heats up",
+   "url": "https://thehill.com/homenews/sunday-talk-shows/6170232-sunday-shows-doj-elections-trump-roll/",
+   "summary": "With less than two weeks to go before the midterms, the Trump administration is ramping up its warnings about voter fraud and is not ruling out the prospect of weighing in on states' election certification efforts. The Justice Department (DOJ) reportedly sent letters Friday to California election officials, directing them to identify potential noncitizens on...",
+   "published": "2026-10-24T20:38:56+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-24T22:31:53.536200+00:00"
+  },
+  {
+   "id": "001429a178c54a52",
+   "title": "Melania Trump's advisor reveals how she bridged Putin, Zelenskyy to broker frontline Ukraine truce",
+   "url": "https://www.foxnews.com/media/melania-trumps-advisor-reveals-how-she-bridged-putin-zelenskyy-broker-front-line-ukraine-truce",
+   "summary": "First lady Melania Trump &quot;single-handedly&quot; brokered a humanitarian ceasefire in Oleshky, Ukraine, her senior advisor says, as Russia extends the truce.",
+   "published": "2026-10-24T20:04:44+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-10-24T22:31:52.510715+00:00"
+  },
+  {
+   "id": "88537d5415ef1eca",
+   "title": "Bill Maher fires back at liberal critics over second Trump dinner",
+   "url": "https://www.foxnews.com/media/bill-maher-fires-back-liberal-critics-over-second-trump-dinner",
+   "summary": "Bill Maher fired back at critics during his &quot;Real Time&quot; monologue after attending a second White House dinner with Trump, Stephen A. Smith and Kid Rock.",
+   "published": "2026-10-24T19:33:44+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-10-24T22:31:52.510740+00:00"
+  },
+  {
+   "id": "a98bb2af16679bc4",
+   "title": "Republican billionaire Rick Jackson is walking a Trump tightrope in his quest to lead Georgia",
+   "url": "https://www.pbs.org/newshour/politics/republican-billionaire-rick-jackson-is-walking-a-trump-tightrope-in-his-quest-to-lead-georgia",
+   "summary": "Jackson's path differs from Donald Trump's, and the 72-year-old healthcare magnate and investor brings a vastly different persona to his first campaign. Unlike Trump, who was born to wealth, Jackson spent his early years bouncing through foster homes before launching his first company as a young man.",
+   "published": "2026-10-24T19:04:00+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-10-24T22:31:53.761014+00:00"
+  },
+  {
+   "id": "5761347f632cb410",
+   "title": "Trump's former campaign manager on GOP ahead of midterms: 'It's ugly'",
+   "url": "https://thehill.com/homenews/campaign/6170199-stepien-midterm-elections-republicans/",
+   "summary": "President Trump\u2019s former campaign manager is joining a growing list predicting midterm doom for Republicans, highlighting recent allegations of government corruption as a key reason. Bill Stepien, who managed Trump\u2019s 2020 campaign and had a stint as White House political director in the president\u2019s first term, told CNN\u2019s Abby Phillip that recent scandals in the...",
+   "published": "2026-10-24T18:55:51+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-24T22:31:53.536227+00:00"
+  },
   {
    "id": "5f663fc57ba8b7d6",
    "title": "Dream, Valkyries stay off court for fourth WNBA Finals national anthem as some fans remain seated",
@@ -11452,105 +11562,6 @@
    "source_id": "foxnews-politics",
    "bias_note": "right-leaning",
    "first_seen": "2026-10-10T23:36:35.870760+00:00"
-  },
-  {
-   "id": "25e804ad7d09dc2b",
-   "title": "Bipartisan bill barring U.S. purchase of Russian oil on the horizon: Fitzpatrick",
-   "url": "https://thehill.com/homenews/house/6140830-fitzpatrick-bill-block-russian-oil/",
-   "summary": "Rep. Brian Fitzpatrick (R-Pa.) announced on Saturday he would be introducing a bipartisan bill aimed at stopping President Trump from lifting sanctions on Russian oil amid global fuel shortages. \u201cWe will be introducing bipartisan legislation to block any and all purchases of Russian oil. It will be called the \u2018Ronald Reagan Peace Through Strength Act,\u2019\u201d...",
-   "published": "2026-10-10T22:02:33+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-10T23:36:36.910533+00:00"
-  },
-  {
-   "id": "d6c0a0860e6d3ffc",
-   "title": "Trump's economic strategy resemble similar policies in East Asia",
-   "url": "https://www.npr.org/2026/10/10/nx-s1-5992884/trumps-economic-strategy-resemble-similar-policies-in-east-asia",
-   "summary": "Much of the Trump administration's economic policy has been inspired by successful industrial policies successful in East Asia, including those of competitor, China. Will those policies work in the U.S.?",
-   "published": "2026-10-10T21:40:18+00:00",
-   "source": "NPR Politics",
-   "source_id": "npr-politics",
-   "bias_note": "center",
-   "first_seen": "2026-10-10T23:36:36.397633+00:00"
-  },
-  {
-   "id": "41750ff4c0012c97",
-   "title": "Midterms could decide Johnson\u2019s fate as GOP fights to hold House",
-   "url": "https://thehill.com/homenews/house/6140039-mike-johnson-political-future-midterms/",
-   "summary": "Questions surrounding Speaker Mike Johnson\u2019s (R-La.) political future are in the spotlight after he floated the possibility of returning to Louisiana if Republicans lose the House in November. The GOP is facing harsh political headwinds ahead of Election Day, as Democrats seek to capitalize on voter frustration over the economy and President Trump\u2019s low approval...",
-   "published": "2026-10-10T21:00:00+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-10T23:36:36.910588+00:00"
-  },
-  {
-   "id": "45b03a1f1db7ddea",
-   "title": "Despair after 200-year-old \u2018grandmother\u2019 tree toppled for Trump\u2019s border wall: \u2018It crushes your heart\u2019",
-   "url": "https://www.theguardian.com/us-news/2026/oct/10/cottonwood-tree-toppling-trump-mexico-border-wall-arizona",
-   "summary": "Protesters spent months occupying an ancient cottonwood. Then a tense standoff with US border patrol came to a headA 200-year-old cottonwood tree near the US-Mexico border, known as the \u201cgrandmother\u201d, has been destroyed to make way for the construction of Donald Trump\u2019s border wall, despite a months-long effort by protesters trying to save it.In late July, land defenders began a tree-sit in the ghost town of Lochiel, Arizona, taking turns occupying a platform high in the tree\u2019s canopy. The group remained there for more than 70 days. Continue reading...",
-   "published": "2026-10-10T20:57:32+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-10-10T23:36:36.629699+00:00"
-  },
-  {
-   "id": "0116892687c78aa8",
-   "title": "Sunday shows preview: Trump admin's Russia deal, public execution plan spark pre-midterm backlash",
-   "url": "https://thehill.com/homenews/sunday-talk-shows/6140761-trump-russian-deal-executions-sunday-shows/",
-   "summary": "President Trump struck a deal to lift sanctions on Russian diesel Friday, allowing the Kremlin to supply 300,000 tons of diesel to the U.S. and the global marketplace, sparking a feud between him and Ukrainian President Volodymyr Zelensky. The deal served to remedy rising energy prices fueled by the U.S.'s ongoing military operations in Iran...",
-   "published": "2026-10-10T20:50:27+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-10T23:36:36.910590+00:00"
-  },
-  {
-   "id": "4a8b3a65ec233662",
-   "title": "The State of American Manufacturing",
-   "url": "https://www.whitehouse.gov/research/2026/10/the-state-of-american-manufacturing/",
-   "summary": "The Council of Economic Advisers (CEA) evaluated President Trump\u2019s impact on the manufacturing sector\u2014 reviewing his second term to date. Reviewing a wide range of evidence, the data demonstrates that the manufacturing sector is seeing robust growth with the Trump Administration\u2019s pro-growth policies. Manufacturing jobs are reshoring in America after the Biden Administration shipped over [&#8230;]\nThe post The State of American Manufacturing appeared first on The White House.",
-   "published": "2026-10-10T20:46:32+00:00",
-   "source": "WhiteHouse.gov News",
-   "source_id": "whitehouse",
-   "bias_note": "official/primary-source",
-   "first_seen": "2026-10-10T23:36:35.997427+00:00"
-  },
-  {
-   "id": "61e7ba5b3e297412",
-   "title": "Trump calls for Ukraine to replace Zelenskyy after clash over Russia diesel deal: 'Get a new president'",
-   "url": "https://www.foxnews.com/politics/trump-calls-ukraine-replace-zelenskyy-clash-russia-diesel-deal-get-new-president",
-   "summary": "President Donald Trump demanded Volodymyr Zelenskyy stop striking Russian oil refineries, warning the attacks worsen global diesel and fuel supplies.",
-   "published": "2026-10-10T19:54:36+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-10-10T23:36:35.870772+00:00"
-  },
-  {
-   "id": "f4ad7da921338cee",
-   "title": "Mike Tyson predicts \u2018Donald Trump will win\u2019 midterms before joining president for New York rally",
-   "url": "https://www.foxnews.com/outkick-sports/mike-tyson-predicts-donald-trump-will-win-midterms-joining-president-new-york-rally",
-   "summary": "Mike Tyson visited the White House and predicted a Trump midterm elections victory before joining the president at a rally in Syracuse, New York.",
-   "published": "2026-10-10T19:49:04+00:00",
-   "source": "Fox News Latest",
-   "source_id": "foxnews-latest",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-10-10T23:36:35.888500+00:00"
-  },
-  {
-   "id": "7afeaba50197a1ec",
-   "title": "Watch as OutKick's Trey Wallace braves Hurricane Isaias' before Alabama-Georgia showdown in Tuscaloosa",
-   "url": "https://www.foxnews.com/outkick-sports/outkick-trey-wallace-braves-hurricane-isaias-alabama-georgia-showdown-tuscaloosa",
-   "summary": "Trump&apos;s attendance was halted and kickoff conditions shifted as Hurricane Isaias bears down on the Alabama-Georgia game at Bryant-Denny Stadium.",
-   "published": "2026-10-10T19:22:00+00:00",
-   "source": "Fox News Latest",
-   "source_id": "foxnews-latest",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-10-10T23:36:35.888514+00:00"
   }
  ]
 }
