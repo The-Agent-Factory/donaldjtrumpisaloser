@@ -1,7 +1,172 @@
 {
- "updated": "2026-10-24T04:43:46.274199+00:00",
- "count": 1040,
+ "updated": "2026-10-24T11:10:02.495145+00:00",
+ "count": 1047,
  "articles": [
+  {
+   "id": "32f29f422533d0ac",
+   "title": "Canada is feeling the pain from Trump's tariffs \u2014 but the trade fight didn't start overnight",
+   "url": "https://www.foxnews.com/politics/canada-feeling-pain-trumps-tariffs-trade-fight-didnt-start-overnight",
+   "summary": "President Donald Trump&apos;s trade showdown with Canada targets dairy, lumber and market access, reviving decades-old tensions between allied economies.",
+   "published": "2026-10-24T11:00:54+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-10-24T11:10:00.640849+00:00"
+  },
+  {
+   "id": "8296231e000ca060",
+   "title": "Trump officials warn decades-long decline among American men could carry national security consequences",
+   "url": "https://www.foxnews.com/politics/trump-officials-warn-decades-long-decline-american-men-could-carry-national-security-consequences",
+   "summary": "President Donald Trump&apos;s administration develops testosterone screening for troops as an HHS official warns 77% of young Americans can&apos;t serve.",
+   "published": "2026-10-24T11:00:39+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-10-24T11:10:00.640865+00:00"
+  },
+  {
+   "id": "8c3c0d77cfdcb5be",
+   "title": "New Trump rule allows hunters to bait bears in Alaska with doughnuts, bacon and more",
+   "url": "https://www.theguardian.com/us-news/2026/oct/24/trump-administration-alaska-bear-hunting-bait",
+   "summary": "Critics decry Trump administration rule that lets hunters lure bears with human foods on federal lands in AlaskaA new Trump administration rule allows hunters to bait bears on federal lands in Alaska with bacon, doughnuts, meat scraps or other human foods typically used to help kill the trophy animals at close range.Opponents say the practice will cause bears to be more aggressive around humans, and allege that the rule change is a political gift to largely rightwing trophy hunters. The rule replaces a 2024 Biden administration rule that banned the practice, and environmental groups criticized",
+   "published": "2026-10-24T11:00:32+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-10-24T11:10:01.178458+00:00"
+  },
+  {
+   "id": "77816b9882b3e252",
+   "title": "Trump makes Alaska the latest frontier in his election power grab",
+   "url": "https://www.politico.com/news/2026/10/24/trump-alaska-election-justice-department-01134590",
+   "summary": "The move by the Justice Department to try and preemptively block Alaska\u2019s Senate results if Republican Sen. Dan Sullivan loses stunned officials in both parties.",
+   "published": "2026-10-24T11:00:00+00:00",
+   "source": "Politico",
+   "source_id": "politico",
+   "bias_note": "center",
+   "first_seen": "2026-10-24T11:10:01.298401+00:00"
+  },
+  {
+   "id": "2995e6b6cbc02f27",
+   "title": "Tom Kean had everything going for him. Then the Republican New Jersey congressman disappeared",
+   "url": "https://www.theguardian.com/us-news/2026/oct/24/tom-kean-new-jersey-rebecca-bennett",
+   "summary": "Even with a multimillion-dollar war chest, the US representative faces a stiff fight for his seat from Democrat Rebecca BennettThe stars above New Jersey seemed aligned for Tom Kean Jr.The Republican congressman had a war chest of more than $2.4m in February, an endorsement from Donald Trump and a district whose lines were redrawn in 2022 to benefit his party. He was an established political figure with widespread name recognition, thanks to his father\u2019s stint as a well-regarded governor of New Jersey. Continue reading...",
+   "published": "2026-10-24T10:00:31+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-10-24T11:10:01.178470+00:00"
+  },
+  {
+   "id": "d85526dcf9189ee7",
+   "title": "Minnesota candidate \u2018stress tests\u2019 state\u2019s new fraud law \u2014 what she found raised major red flags",
+   "url": "https://www.foxnews.com/politics/minnesota-candidate-stress-tests-states-new-fraud-law-what-she-found-raised-major-red-flags",
+   "summary": "Heidi Heino says she stress-tested Minnesota&apos;s inspector general law against Feeding Our Future and found critical gaps in fraud prevention safeguards.",
+   "published": "2026-10-24T10:00:07+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-10-24T11:10:00.587714+00:00"
+  },
+  {
+   "id": "cf55815874d4ffee",
+   "title": "Why a blue wave might miss Minnesota's Senate race",
+   "url": "https://thehill.com/homenews/campaign/6169517-minnesota-senate-flanagan-tafoya/",
+   "summary": "Political headwinds are blowing in Democrats\u2019 favor nationally, with high gas prices and President Trump\u2019s record-low approval rating creating a difficult midterm environment for Republicans.  But in Minnesota\u2019s open Senate race to replace retiring Sen. Tina Smith (D), Democrats are facing an unexpectedly competitive race.  Lt. Gov. Peggy Flanagan (D) holds a slim lead over...",
+   "published": "2026-10-24T10:00:00+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-24T11:10:01.445595+00:00"
+  },
+  {
+   "id": "af260cec8945cb41",
+   "title": "Trump\u2019s $8 billion farm lifeline won\u2019t fully solve farmers\u2019 diesel problem",
+   "url": "https://thehill.com/business/6169485-trump-farm-relief-diesel-prices/",
+   "summary": "The Trump administration\u2019s $8 billion relief program for farmers is throwing a lifeline to the industry, but producers are still facing lower margins due to high diesel prices amid the Iran war \u2014 and experts say the move might only buy time for solving deeper challenges.\u00a0 Through the initiative announced earlier this week, farmers will...",
+   "published": "2026-10-24T10:00:00+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-24T11:10:01.445604+00:00"
+  },
+  {
+   "id": "5f49a3d8cf00fffc",
+   "title": "GREGG JARRETT: Ilhan Omar could face indictment, denaturalization and deportation",
+   "url": "https://www.foxnews.com/opinion/gregg-jarrett-ilhan-omar-could-face-indictment-denaturalization-deportation",
+   "summary": "Minn. Rep. Ilhan Omar faces a federal probe into alleged identity fraud, marriage fraud, and false statements that could possibly lead to denaturalization and deportation.",
+   "published": "2026-10-24T09:50:51+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-10-24T11:10:00.640885+00:00"
+  },
+  {
+   "id": "0c5f17bb3e461bf5",
+   "title": "California must respond to DOJ's emergency request over ballots mailed to alleged noncitizens, court rules",
+   "url": "https://www.foxnews.com/politics/california-must-respond-dojs-emergency-request-over-ballots-mailed-alleged-noncitizens-court-rules",
+   "summary": "The DOJ says roughly 20,000 noncitizens received mail-in ballots in California and is demanding the state sequester those votes before they are processed.",
+   "published": "2026-10-24T09:21:53+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-10-24T11:10:00.587725+00:00"
+  },
+  {
+   "id": "c40227fa59912ce5",
+   "title": "Vance front and center in Republican midterms push \u2013 is this a dry run for a White House bid?",
+   "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/24/jd-vance-trump-midterms-white-house",
+   "summary": "Vice-president\u2019s visibility has risen as Trump\u2019s popularity wanes, but path to inherit Maga throne is more complicated than it may seemA day after JD Vance suggested Donald Trump would endorse him if he runs for president, the vice-president shifted awkwardly in the Oval Office as his boss was asked about the remark.\u201cHe\u2019s a very talented person, and he\u2019s a very good person,\u201d Trump said of the man standing behind him, with a forced smile this week. \u201cBut we\u2019ve literally \u2013 I don\u2019t think we\u2019ve ever talked about,\u201d the president claimed, leaving the assertion unconfirmed. Continue reading...",
+   "published": "2026-10-24T09:00:28+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-10-24T11:10:01.178476+00:00"
+  },
+  {
+   "id": "196d00e3b2bd5294",
+   "title": "Virginia Dems cast doubt on prosecution of colleague after embracing criminal allegations against Trump",
+   "url": "https://www.foxnews.com/politics/virginia-dems-cast-doubt-prosecution-colleague-embracing-criminal-allegations-trump",
+   "summary": "Virginia Democrats who called allegations and investigations into Trump justified now stress the presumption of innocence after one of their own faces federal charges.",
+   "published": "2026-10-24T09:00:15+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-10-24T11:10:00.587728+00:00"
+  },
+  {
+   "id": "0191c53fe9f7ea08",
+   "title": "New York state woman charged with voting illegally says she recently learned she wasn\u2019t a citizen",
+   "url": "https://abcnews.com/Politics/wireStory/new-york-state-woman-charged-voting-illegally-recently-137524152",
+   "summary": "An upstate New York woman has been charged with voting illegally in one of the latest arrests touted by the Trump administration as it hunts for noncitizen voters ahead of the midterm elections",
+   "published": "2026-10-24T05:01:26+00:00",
+   "source": "ABC News Politics",
+   "source_id": "abc-politics",
+   "bias_note": "center",
+   "first_seen": "2026-10-24T11:10:02.251589+00:00"
+  },
+  {
+   "id": "75c9522bb6506dff",
+   "title": "As Trump fights over what America owes, slavery descendants organize for the future",
+   "url": "https://abcnews.com/Politics/wireStory/trump-fights-america-owes-slavery-descendants-organize-future-137531524",
+   "summary": "Robin Rue Simmons has been working to address the legacy of slavery in the United States",
+   "published": "2026-10-24T05:00:36+00:00",
+   "source": "ABC News Politics",
+   "source_id": "abc-politics",
+   "bias_note": "center",
+   "first_seen": "2026-10-24T11:10:02.251572+00:00"
+  },
+  {
+   "id": "fa96a5b83e460546",
+   "title": "As Trump\u2019s time runs out, this could be his most dangerous legacy: a world divided into three | Steve Bloomfield",
+   "url": "https://www.theguardian.com/commentisfree/2026/oct/24/donald-trump-world-three-summit-vladimir-putin-xi-jinping",
+   "summary": "We\u2019ve heard much about the end of the west. At the proposed summit between Trump, Putin and Xi, those fears could crystalliseIn the final two years of a US presidency, when Congress has been lost, approval ratings have sunk like a stone and their party has started to think about who\u2019s coming next, the person occupying the Oval Office can feel their power draining away. Domestic legislation, particularly in an era where bipartisan cooperation is almost nonexistent, grinds to a halt. But as the days tick by until the end, and as presidents begin to think about their legacy, there is one part of ",
+   "published": "2026-10-24T05:00:24+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-10-24T11:10:01.178502+00:00"
+  },
   {
    "id": "e3634b0a67b64834",
    "title": "Peltola calls Alaska lawsuit a 'desperate attempt' for GOP to 'cling to power'",
@@ -11353,94 +11518,6 @@
    "source_id": "thehill",
    "bias_note": "center",
    "first_seen": "2026-10-10T12:39:00.381783+00:00"
-  },
-  {
-   "id": "66548c2ca75d52fb",
-   "title": "\u2018People are pissed\u2019: union decries TSA\u2019s removal of chairs for checkpoint staff",
-   "url": "https://www.theguardian.com/us-news/2026/oct/10/tsa-union-agency-checkpoints-chairs",
-   "summary": "Order for workers to remain standing to \u2018reinforce professionalism\u2019 draws rebuke amid plunging moraleUnion officials have launched a campaign to allow airport security staff to sit once more after the Trump administration unilaterally removed all the chairs for Transportation Security Administration (TSA) staff at checkpoints.\u201cPeople are pissed,\u201d said Johnny Jones, secretary-treasurer of American Federation of Government Employees (AFGE) TSA council 100 and president of AFGE local 1040, which represents TSA workers in Dallas-Fort Worth. Continue reading...",
-   "published": "2026-10-10T11:00:55+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-10-10T12:39:00.135363+00:00"
-  },
-  {
-   "id": "1eef6b77596bd95b",
-   "title": "\u2018Donroe\u2019 Doctrine and conservative victories squeeze cartels in Latin America",
-   "url": "https://www.foxnews.com/opinion/donroe-doctrine-conservative-victories-squeeze-cartels-latin-america",
-   "summary": "The Sinaloa cartel and CJNG are rapidly adapting as Trump&apos;s Shield of the Americas coalition squeezes drug trafficking routes across the hemisphere.",
-   "published": "2026-10-10T11:00:03+00:00",
-   "source": "Fox News Latest",
-   "source_id": "foxnews-latest",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-10-10T12:38:59.558420+00:00"
-  },
-  {
-   "id": "b0f80d99774e1446",
-   "title": "Ohio dog park shooting over Trump argument could end with two self-defense claims, or none: legal expert",
-   "url": "https://www.foxnews.com/us/ohio-dog-park-shooting-trump-argument-self-defense-claims-legal-expert",
-   "summary": "Both men in the Ohio dog park shootout over Donald Trump could claim self-defense or neither could, a legal expert says, creating a rare puzzle.",
-   "published": "2026-10-10T10:00:28+00:00",
-   "source": "Fox News Latest",
-   "source_id": "foxnews-latest",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-10-10T12:38:59.558453+00:00"
-  },
-  {
-   "id": "b47ea9dac1626a97",
-   "title": "You\u2019d never guess the crazy things cash welfare paid for. Nebraska is shutting that down",
-   "url": "https://www.foxnews.com/opinion/youd-never-guess-crazy-things-cash-welfare-paid-nebraska-shutting-down",
-   "summary": "Nebraska and Florida are blocking cash welfare spending on alcohol, porn, tattoos and more, following Trump administration guidance on TANF reform.",
-   "published": "2026-10-10T10:00:03+00:00",
-   "source": "Fox News Latest",
-   "source_id": "foxnews-latest",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-10-10T12:38:59.558467+00:00"
-  },
-  {
-   "id": "2e3cf6f7d6803cb1",
-   "title": "What to know about 7-OH, MGPI, the synthetic kratom extracts known as 'gas station opioid'",
-   "url": "https://thehill.com/policy/healthcare/6140069-kratom-extracts-federal-authorities/",
-   "summary": "Federal authorities and lawmakers are cracking down on synthetic concentrates of kratom, an herbal product sold legally over the counter in most states, as concerns rise over their risk to public health.\u00a0 The Drug Enforcement Administration (DEA) signaled heightened concerns about kratom-derived extracts earlier this year when it announced plans to\u00a0temporarily ban products containing concentrations...",
-   "published": "2026-10-10T10:00:00+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-10T12:39:00.381793+00:00"
-  },
-  {
-   "id": "71e6ddfe4dc5287a",
-   "title": "As Trump\u2019s Wall Closes in, DHS Intimidates a Border Tribe With Surveillance, Masked Agents and Drones",
-   "url": "https://www.propublica.org/article/tohono-oodham-nation-arizona-border-wall",
-   "summary": "The post As Trump\u2019s Wall Closes in, DHS Intimidates a Border Tribe With Surveillance, Masked Agents and Drones appeared first on ProPublica.",
-   "published": "2026-10-10T10:00:00+00:00",
-   "source": "ProPublica",
-   "source_id": "propublica",
-   "bias_note": "investigative",
-   "first_seen": "2026-10-10T12:39:00.627353+00:00"
-  },
-  {
-   "id": "aa06d8a19064d19f",
-   "title": "Watch: Inside Our $22K Sports Betting Experiment",
-   "url": "https://www.propublica.org/article/sports-betting-problem-gambling-draftkings-fanduel",
-   "summary": "The post Watch: Inside Our $22K Sports Betting Experiment appeared first on ProPublica.",
-   "published": "2026-10-10T09:00:00+00:00",
-   "source": "ProPublica",
-   "source_id": "propublica",
-   "bias_note": "investigative",
-   "first_seen": "2026-10-10T12:39:00.627358+00:00"
-  },
-  {
-   "id": "5c1d78c7d5449b13",
-   "title": "\u2018Gaza is a moral tear in the universe\u2019: Naomi Klein and Astra Taylor | Radical Thinking with Aditya Chakrabortty \u2013 podcast",
-   "url": "https://www.theguardian.com/politics/audio/2026/oct/10/gaza-is-a-moral-tear-in-the-universe-naomi-klein-and-astra-taylor-radical-thinking-with-aditya-chakrabortty-podcast",
-   "summary": "Are we really living through \u2018end times fascism\u2019? Naomi Klein and Astra Taylor think so.In a new series from the Guardian, the pair speak to Radical Thinking with Aditya Chakrabortty in an extended interview. From Trump 2.0 and the rise of the tech billionaire to Gaza and the climate emergency, Klein and Taylor argue we are not just lurching from crisis to crisis but are in a new and dangerous moment in history. But they haven\u2019t given up hope of a fightbackRadical Thinking will be published every Saturday in the Politics Weekly feedYou can watch the full interview with Naomi Klein and Astra Ta",
-   "published": "2026-10-10T06:45:50+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-10-10T12:39:00.135379+00:00"
   }
  ]
 }
