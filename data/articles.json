@@ -1,7 +1,40 @@
 {
- "updated": "2026-10-24T14:19:59.525659+00:00",
- "count": 1047,
+ "updated": "2026-10-24T16:01:27.475358+00:00",
+ "count": 1046,
  "articles": [
+  {
+   "id": "c02688715cb76731",
+   "title": "Bill Maher to Karoline Leavitt: 'I don't give a s\u2014', 'I like the ballroom'",
+   "url": "https://thehill.com/homenews/administration/6170078-maher-trump-ballroom-leavitt/",
+   "summary": "Bill Maher, a left leaning comedian and talk show host, told former White House Press Secretary Karoline Leavitt he actually likes President Trump\u2019s proposed ballroom in the East Wing, despite frequent criticism from Democrats. \u201cI don't give a s\u2014 about any of this. I like the ballroom. America does need a ballroom,\u201d Maher told Leavitt...",
+   "published": "2026-10-24T15:56:10+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-24T16:01:25.956522+00:00"
+  },
+  {
+   "id": "d14adea952ef0a6b",
+   "title": "Trump joins Hannity-Earhardt wedding rehearsal dinner at Mar-a-Lago",
+   "url": "https://thehill.com/homenews/media/6170046-hannity-earhardt-mar-a-lago-wedding-rehearsal/",
+   "summary": "Fox News hosts Sean Hannity and Ainsley Earhardt held their wedding rehearsal dinner on Friday evening at President Trump\u2019s Mar-a-Lago club in Palm Beach, Fla. Both Trump and first lady Melania Trump were in attendance, as well as other top Trump administration officials, according to Fox News. The president is expected to attend the couple\u2019s...",
+   "published": "2026-10-24T15:12:32+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-24T16:01:25.956531+00:00"
+  },
+  {
+   "id": "d40de761d73bf70d",
+   "title": "DOJ orders some California counties to set aside ballots from suspected noncitizens",
+   "url": "https://www.pbs.org/newshour/politics/doj-orders-some-california-counties-to-set-aside-ballots-from-suspected-noncitizens",
+   "summary": "The letters are the latest escalation in a legal battle between California and President Donald Trump's Department of Justice, which has recently focused on the state in its efforts to root out noncitizen voting ahead of the midterm elections.",
+   "published": "2026-10-24T14:49:32+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-10-24T16:01:26.411546+00:00"
+  },
   {
    "id": "4b4bb1b303065201",
    "title": "'SNL' Weekend Update anchor calls Republicans slurs, mocks Charlie Kirk in stand-up special",
@@ -3367,6 +3400,17 @@
    "source_id": "thehill",
    "bias_note": "center",
    "first_seen": "2026-10-20T21:41:14.613122+00:00"
+  },
+  {
+   "id": "66700f7509438a01",
+   "title": "White House Appoints 2026-2027 Class of White House Fellows",
+   "url": "https://www.whitehouse.gov/releases/2026/10/white-house-press-release-white-house-appoints-2026-2027-class-of-white-house-fellows/",
+   "summary": "Today, the President&#8217;s Commission on White House Fellows announced the appointment of 11 exceptional Americans who will serve as White House Fellows for a one-year term. The 2026-2027 Class of White House Fellows represents a cross-section of professions including law enforcement, business, academia, and five branches of the military. The White House Fellows program was [&#8230;]\nThe post White House Appoints 2026-2027 Class of White House Fellows appeared first on The White House.",
+   "published": "2026-10-20T21:30:00+00:00",
+   "source": "WhiteHouse.gov News",
+   "source_id": "whitehouse",
+   "bias_note": "official/primary-source",
+   "first_seen": "2026-10-24T16:01:24.877508+00:00"
   },
   {
    "id": "02d9109e2fa17bc5",
@@ -11463,61 +11507,6 @@
    "source_id": "foxnews-politics",
    "bias_note": "right-leaning",
    "first_seen": "2026-10-10T18:40:25.208338+00:00"
-  },
-  {
-   "id": "2af6029a8b266320",
-   "title": "The Memo: Guilfoyle furor rises as Trump stops short of expressing support",
-   "url": "https://thehill.com/homenews/analysis/6140076-trump-guilfoyle-controversy-response-column/",
-   "summary": "The uproar isn\u2019t dying down over U.S. Ambassador to Greece Kimberly Guilfoyle and her reported request to have a MAGA donor pay down her personal credit card debt. President Trump, when asked about the matter as he prepared to leave for New York Friday, was conspicuously noncommittal. \u201cI just heard about it: Too bad,\u201d Trump...",
-   "published": "2026-10-10T16:00:00+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-10T16:08:03.485831+00:00"
-  },
-  {
-   "id": "ddd6d3f68f649080",
-   "title": "Katie Zacharia hits ground running, promises Trump diesel deal delivers cheaper gas for Americans",
-   "url": "https://www.foxnews.com/media/incoming-press-chief-hits-ground-running-promises-trump-diesel-deal-delivers-cheaper-gas-americans",
-   "summary": "Katie Zacharia says Trump&apos;s diesel deal with Vladimir Putin will lower gas and grocery prices as she prepares to take the White House podium Monday.",
-   "published": "2026-10-10T15:53:59+00:00",
-   "source": "Fox News Latest",
-   "source_id": "foxnews-latest",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-10-10T16:07:58.224928+00:00"
-  },
-  {
-   "id": "7d8aaf6c5beb0d67",
-   "title": "ABC News quietly republishes gutted version of story on Trump sons it had deleted without explanation",
-   "url": "https://www.foxnews.com/media/abc-news-quietly-republishes-gutted-version-story-trump-sons-had-deleted-without-explanation",
-   "summary": "ABC News issued an editor&apos;s note admitting errors in its report on Donald Trump Jr. and Eric Trump&apos;s investments tied to Pentagon contracts.",
-   "published": "2026-10-10T15:18:55+00:00",
-   "source": "Fox News Latest",
-   "source_id": "foxnews-latest",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-10-10T16:07:58.224946+00:00"
-  },
-  {
-   "id": "3292f7f8dac8bc8a",
-   "title": "A replica of Donald Trump\u2019s Oval Office goes for the gold in Washington DC",
-   "url": "https://www.theguardian.com/us-news/2026/oct/10/donald-trump-oval-office-replica",
-   "summary": "The tourist attraction just unveiled an elaborate, full-scale overhaul to match Trump\u2019s second-term aestheticSitting behind a replica Resolute Desk, nine-year-old Sydney Wright posed for the camera like a future US president. \u201cI love it,\u201d she smiled. And what about the dazzling gold appliqu\u00e9s, gold leaf and gold trim surrounding her? \u201cIt\u2019s cool.\u201dSydney was among a steady stream of visitors on Thursday to The People\u2019s House: A White House Experience, an interactive museum \u2013 with an orientation film narrated by The West Wing star Martin Sheen \u2013 at 1700 Pennsylvania Avenue, just 150 yards from th",
-   "published": "2026-10-10T15:00:00+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-10-10T16:08:03.161831+00:00"
-  },
-  {
-   "id": "495ff983bc7e7e8e",
-   "title": "Ukraine hit by deadly Russian strikes as \u2018thanks\u2019 for Trump diesel deal, Zelenskyy says",
-   "url": "https://www.theguardian.com/world/2026/oct/10/ukraine-russia-strikes-war-trump-diesel-deal-zelenskyy",
-   "summary": "Ukrainian president says money from fuel sales will intensify war as European leaders reiterate support for KyivRussia launched deadly strikes on civilians in Ukraine as \u201cthanks\u201d for a deal cut by Donald Trump with Vladimir Putin to buy large quantities of Russian diesel, Volodymyr Zelenskyy has said, accusing Washington of helping fund Moscow\u2019s war.The Ukrainian president has expressed repeated outrage at the agreement announced by Trump on Friday, which the US president said was needed to reduce diesel prices, and comes ahead of November midterm elections where the cost of fuel is a key vote",
-   "published": "2026-10-10T14:45:15+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-10-10T16:08:03.161839+00:00"
   }
  ]
 }
