@@ -1,7 +1,95 @@
 {
- "updated": "2026-10-24T11:10:02.495145+00:00",
+ "updated": "2026-10-24T14:19:59.525659+00:00",
  "count": 1047,
  "articles": [
+  {
+   "id": "4b4bb1b303065201",
+   "title": "'SNL' Weekend Update anchor calls Republicans slurs, mocks Charlie Kirk in stand-up special",
+   "url": "https://www.foxnews.com/media/snl-weekend-update-anchor-calls-republicans-slurs-mocks-charlie-kirk-stand-up-special",
+   "summary": "Michael Che&apos;s Netflix special opens with jokes about Charlie Kirk&apos;s killing and repeatedly uses the R-word to mock President Donald Trump and MAGA supporters.",
+   "published": "2026-10-24T14:00:47+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-10-24T14:19:58.435581+00:00"
+  },
+  {
+   "id": "f48571913b30d254",
+   "title": "Government contractor arrested for allegedly leaking national defense information",
+   "url": "https://thehill.com/policy/defense/6169997-contractor-arrested-leaking-defense-info/",
+   "summary": "Federal authorities arrested a government contractor and charged him with leaking classified national defense information, the Department of Justice (DOJ) announced on Friday. FBI investigators have accused 42-year-old Ian Brinksman, an employee of a third-party company which provided services to a government agency, of leaking national defense information to his girlfriend, who writes an online...",
+   "published": "2026-10-24T13:58:43+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-24T14:19:58.845633+00:00"
+  },
+  {
+   "id": "f150fa535f204260",
+   "title": "Trump hints that White House press area may be moved to another location",
+   "url": "https://thehill.com/homenews/administration/6169992-trump-denies-press-room-swimming-pool/",
+   "summary": "President Trump pushed back Saturday morning against reports he was considering replacing the White House press briefing room with an indoor swimming pool but said he was considering moving media \u201cto a less obnoxious location.\u201d On Tuesday, The New York Times reported Trump expressed to aides he would like to bring back an indoor pool...",
+   "published": "2026-10-24T13:51:47+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-24T14:19:58.845642+00:00"
+  },
+  {
+   "id": "98bf146421ad5c3d",
+   "title": "Trump's war on drug cartels could gain powerful new ally after pivotal election",
+   "url": "https://www.foxnews.com/politics/trumps-war-drug-cartels-could-gain-powerful-new-ally-after-pivotal-election",
+   "summary": "Eduardo Bolsonaro says Brazil would join Trump&apos;s Shield of the Americas anti-cartel coalition if brother Fl\u00e1vio Bolsonaro wins the Oct. 25 runoff.",
+   "published": "2026-10-24T13:30:45+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-10-24T14:19:58.417061+00:00"
+  },
+  {
+   "id": "05b13cb4b3e548ba",
+   "title": "DOJ demands California counties identify noncitizen voters: Reports",
+   "url": "https://thehill.com/homenews/administration/6169959-doj-warns-california-election-officials/",
+   "summary": "The Department of Justice (DOJ) on Friday sent letters to election officials in every California county asking that they identify potential noncitizens on their voter rolls, according to several reports.\u00a0 The letter warned local officials would \u201crisk significant federal scrutiny\u201d if they failed to comply with this request, The New York Times reported, citing a...",
+   "published": "2026-10-24T13:10:41+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-24T14:19:58.845650+00:00"
+  },
+  {
+   "id": "89fdf6fc23042da3",
+   "title": "Live Updates: Obama, Harris to campaign for Democrats in 3 battleground states; Trump travels to Georgia",
+   "url": "https://thehill.com/homenews/administration/6169684-live-updates-obama-harris-to-campaign-for-democrats-in-3-battleground-states-trump-travels-to-georgia/",
+   "summary": "President Trump has held rallies throughout the week in Iowa, Kansas, Florida and more, but leaders of the Democratic Party are set to hold a midterm blitz of their own on Saturday ahead of Election Day. Former President Obama is expected to make two Midwest trips to Cleveland, Ohio and Detroit, Mich. to help move...",
+   "published": "2026-10-24T13:00:00+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-24T14:19:58.845654+00:00"
+  },
+  {
+   "id": "e7b568d6913e5536",
+   "title": "Week in Politics: Ramaswamy's Ohio ad; Trump greenlights DOJ to sue over Alaska Senate",
+   "url": "https://www.npr.org/2026/10/24/nx-s1-6012100/week-in-politics-ramaswamys-ohio-ad-trump-greenlights-doj-to-sue-over-alaska-senate",
+   "summary": "Ohio GOP gubernatorial candidate Vivek Ramaswamy refuses to withdrawal an explosive attack ad, and President Trump greenlights the DOJ to file a lawsuit about Alaska's senate race.",
+   "published": "2026-10-24T11:42:06+00:00",
+   "source": "NPR Politics",
+   "source_id": "npr-politics",
+   "bias_note": "center",
+   "first_seen": "2026-10-24T14:19:58.684380+00:00"
+  },
+  {
+   "id": "cc7b4b770b1f2449",
+   "title": "ICC prosecutor says court making \u2018significant progress\u2019 despite US sanctions",
+   "url": "https://www.theguardian.com/law/2026/oct/24/icc-deputy-prosecutor-nazhat-shameem-khan-marco-rubio-us-sanctions",
+   "summary": "Nazhat Shameem Khan claims some staff are facing \u2018banking difficulties\u2019 but their work is unaffectedThe deputy prosecutor of the international criminal court has said new US sanctions are beginning to take effect on its staff but insisted they have not hindered the court\u2019s work.The US secretary of state, Marco Rubio, announced the sanctions this month, accusing the ICC \u2013 a frequent target of the Trump administration \u2013 of being a \u201crogue court\u201d and declaring: \u201cEither the ICC will end its threats, or we will end the ICC.\u201d Continue reading...",
+   "published": "2026-10-24T11:35:22+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-10-24T14:19:58.702631+00:00"
+  },
   {
    "id": "32f29f422533d0ac",
    "title": "Canada is feeling the pain from Trump's tariffs \u2014 but the trade fight didn't start overnight",
@@ -11430,94 +11518,6 @@
    "source_id": "guardian-uspolitics",
    "bias_note": "left-leaning",
    "first_seen": "2026-10-10T16:08:03.161839+00:00"
-  },
-  {
-   "id": "46f969edd2543f18",
-   "title": "Kalshi investigating suspicious bets tied to White house press secretary pick: Report",
-   "url": "https://thehill.com/policy/technology/6140504-kalshi-investigates-press-secretary-bets/",
-   "summary": "Prediction market Kalshi has opened an investigation into suspicious bets related to President Trump\u2019s selection of his next press secretary, The Wall Street Journal reported.  The company said that it was looking into at least three trades placed on its platform shortly before news outlets began announcing the appointment of Katie Zacharia to the White...",
-   "published": "2026-10-10T14:09:42+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-10T16:08:03.485861+00:00"
-  },
-  {
-   "id": "b2ddef1a1ba8ead5",
-   "title": "Key American industry seeing blue-collar jobs boom as Trump's re-shoring policies pay off",
-   "url": "https://www.foxnews.com/politics/key-american-industry-seeing-blue-collar-jobs-boom-trump-reshoring-policies-pay",
-   "summary": "First on Fox: A CEA report says 72,000 manufacturing jobs were added in 2026 as reshoring and tariff policies reversed Biden-era offshoring.",
-   "published": "2026-10-10T14:00:00+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-10-10T16:07:58.145922+00:00"
-  },
-  {
-   "id": "aff6673df2e4727f",
-   "title": "Trump's Medicaid cuts strip refugees and other legal immigrants of their health coverage",
-   "url": "https://abcnews.com/Politics/wireStory/trumps-medicaid-cuts-strip-refugees-legal-immigrants-health-137157076",
-   "summary": "The Trump administration has cut Medicaid coverage for hundreds of thousands of legal immigrants, including refugees and trafficking victims",
-   "published": "2026-10-10T13:34:05+00:00",
-   "source": "ABC News Politics",
-   "source_id": "abc-politics",
-   "bias_note": "center",
-   "first_seen": "2026-10-10T16:08:11.210424+00:00"
-  },
-  {
-   "id": "93323d226c918d3a",
-   "title": "Paige Spiranac needs to embrace full integrity golf after putting incident, Trump's new hire & Ditka!",
-   "url": "https://www.foxnews.com/outkick-sports/paige-spiranac-embrace-full-integrity-golf-putting-incident-trumps-new-hire-ditka",
-   "summary": "Screencaps, America&apos;s best daily column, dives into golf&apos;s integrity crisis after Paige Spiranac&apos;s missed putt exposes amateur stroke shaving.",
-   "published": "2026-10-10T13:18:27+00:00",
-   "source": "Fox News Latest",
-   "source_id": "foxnews-latest",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-10-10T16:07:58.225022+00:00"
-  },
-  {
-   "id": "ece638335c0e1ea4",
-   "title": "Democrats explode over Trump's Russia diesel deal",
-   "url": "https://thehill.com/homenews/administration/6140462-democrats-slam-trump-putin-diesel-deal/",
-   "summary": "Democratic lawmakers pushed back Friday on President Trump\u2019s decision to lift sanctions on Russian oil amid global fuel shortages during U.S. military operations against Iran and the Russia-Ukraine war.\u00a0 The deal will permit Russian President Vladimir Putin\u2019s government to supply 300,000 tons of diesel to the U.S. and the global marketplace. \u201cI have just concluded...",
-   "published": "2026-10-10T13:02:54+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-10T16:08:03.485871+00:00"
-  },
-  {
-   "id": "e1920b7b7cfcc764",
-   "title": "Live updates: Trump headlines rally in Tennessee; Debate continues over Hasan's execution livestream",
-   "url": "https://thehill.com/homenews/administration/6140148-live-updates-trump-tennessee-rally-execution-livestream/",
-   "summary": "President Trump confirmed Friday that he would no longer be attending the University of Georgia vs. University of Alabama football game in Tuscaloosa due to Hurricane Isaias, but still plans on traveling to Tennessee for a midterm rally. \u201cI will go to Tennessee, where we have quickly called a Big Rally in order to get...",
-   "published": "2026-10-10T13:00:00+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-10T16:08:03.485879+00:00"
-  },
-  {
-   "id": "1c496cbb1e2940f0",
-   "title": "The storm is here: Georgia-Alabama set to write latest chapter after chaotic week around Hurricane Isaias",
-   "url": "https://www.foxnews.com/outkick-sports/storm-here-georgia-alabama-set-write-latest-chapter-after-chaotic-week-around-hurricane-isaias",
-   "summary": "Hurricane Isaias forced Trump to cancel his Alabama trip, but the Georgia vs. Alabama SEC showdown at Bryant Denny Stadium rolls on tonight.",
-   "published": "2026-10-10T12:55:10+00:00",
-   "source": "Fox News Latest",
-   "source_id": "foxnews-latest",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-10-10T16:07:58.225040+00:00"
-  },
-  {
-   "id": "679cc1c42ce8e008",
-   "title": "Trump: I 'should have won' Nobel Peace Prize, award is 'forever discredited'",
-   "url": "https://thehill.com/homenews/administration/6140425-trump-nobel-peace-prize-criticism/",
-   "summary": "President Trump argued Friday that he should have been awarded the Nobel Peace Prize over this year\u2019s Nobel laureate, former International Criminal Court (ICC) judge Navi Pillay.  The president, who has long coveted the honor, was gifted the award by last year\u2019s recipient, Venezuelan opposition leader Mar\u00eda Corina Machado.  In a late evening Truth Social...",
-   "published": "2026-10-10T11:55:40+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-10T12:39:00.381783+00:00"
   }
  ]
 }
