@@ -1,7 +1,95 @@
 {
- "updated": "2026-10-25T04:50:10.242431+00:00",
- "count": 1053,
+ "updated": "2026-10-25T11:40:07.661889+00:00",
+ "count": 1054,
  "articles": [
+  {
+   "id": "bbd2602bb89efbd0",
+   "title": "MIKE DAVIS: Shocking $6M verdict shows why DOJ must investigate MIT",
+   "url": "https://www.foxnews.com/opinion/mike-davis-shocking-6m-verdict-shows-why-doj-must-investigate-mit",
+   "summary": "A jury awarded David Sabatini $6 million after rejecting sexual-misconduct claims that ended his MIT career and shuttered his Whitehead lab.",
+   "published": "2026-10-25T11:17:14+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-10-25T11:40:05.943430+00:00"
+  },
+  {
+   "id": "ab8b36b45ebb7c6a",
+   "title": "Trump administration has pushed off 13% of Americans enrolled in food stamps",
+   "url": "https://www.theguardian.com/us-news/2026/oct/25/trump-food-stamp-cuts",
+   "summary": "Stakeholders concerned more people at risk of food insecurity after One Big Beautiful Act took effectEnrollment in the Supplemental Nutrition Assistance Program (Snap) has decreased significantly over the past year in the US following restrictions imposed by the Trump administration, which has forced more people to seek help from food banks or go hungry, stakeholders say.The number of people who receive food stamps has dropped from 41.6 million in July 2025, before the One Big Beautiful Act took effect, to 36.5 million in June 2026, a 13% decrease, according to the latest data from the US Depa",
+   "published": "2026-10-25T11:00:02+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-10-25T11:40:06.509366+00:00"
+  },
+  {
+   "id": "0bdaedba0f8bf082",
+   "title": "\u2018Brilliant James\u2019 helped return Trump to the White House. Can he conquer the midterms?",
+   "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/25/james-blair-trump-strategist-midterms-republicans",
+   "summary": "James Blair\u2019s data-driven approach delivered victory in 2024 but president\u2019s unpopularity and idiosyncratic style do not bode well this timeThey are both young, bald and fathers of four. They are also the brains behind Donald Trump. But while Stephen Miller is infamous as the US president\u2019s ideological enforcer, James Blair could, in the words of Time magazine, \u201cbe the most important person in Donald Trump\u2019s Washington you\u2019ve never heard of\u201d.That imbalance is deceptive, however. Blair has sufficiently impressed Trump to earn the nickname \u201cBrilliant James\u201d. And a well-positioned source told the",
+   "published": "2026-10-25T11:00:02+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-10-25T11:40:06.509378+00:00"
+  },
+  {
+   "id": "2a2fd8795ebef228",
+   "title": "\u2018Talking to every single person matters\u2019: \u2018prairie populists\u2019 canvass the rural US heartland to win in midterms",
+   "url": "https://www.theguardian.com/us-news/2026/oct/25/prairie-populists-midwest-prairie-states-midterm-elections",
+   "summary": "Democratic and independent candidates stump the US midwest and prairie states, hoping to win over Republican strongholdsIn this final stretch of the US midterm elections, Democrats and independents could win back communities and towns across America\u2019s rural heartlands through a combination of resurgent \u201cprairie populism\u201d, local despair over the impact of Donald Trump\u2019s agenda and an old-fashioned tenet of shoe-leather politics: showing up everywhere.When Dan Osborn rolled into one of the most rural counties in Nebraska earlier this month, he started walking into businesses in the tiny main dra",
+   "published": "2026-10-25T10:00:02+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-10-25T11:40:06.509386+00:00"
+  },
+  {
+   "id": "419000b3f4248297",
+   "title": "The next wave of Trump cases headed toward the Supreme Court",
+   "url": "https://thehill.com/regulation/court-battles/6169487-supreme-court-trump-administration-petitions/",
+   "summary": "The Supreme Court is already confronting President Trump\u2019s agenda this term, but a lot more is still coming. The administration is petitioning the justices to take up 13 additional cases, The Hill\u2019s analysis of the court\u2019s docket shows. \u00a0 Unlike lower courts, the justices choose which cases they hear. They\u2019re still taking up cases for...",
+   "published": "2026-10-25T10:00:00+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-25T11:40:06.800241+00:00"
+  },
+  {
+   "id": "1c63d68124411f2c",
+   "title": "Newsom amasses fundraising machine that could power 2028 bid",
+   "url": "https://thehill.com/policy/technology/6169492-gavin-newsom-fundraising-network-midterm-elections/",
+   "summary": "If California Gov. Gavin Newsom enters the 2028 presidential race, as many Democrats expect, he\u2019ll walk in with an asset other White House hopefuls will inarguably envy: A small-dollar fundraising and organizing machine powered by a massive and ever-growing contact list of potential supporters across the country. Even before last year\u2019s successful Proposition 50 redistricting...",
+   "published": "2026-10-25T10:00:00+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-25T11:40:06.800264+00:00"
+  },
+  {
+   "id": "468ec6289fca6c45",
+   "title": "Alarming fraud trend puts small-town mosque with industry and foreign govt ties in focus: \u2018Our motherland now\u2019",
+   "url": "https://www.foxnews.com/politics/alarming-fraud-trend-puts-small-town-mosque-industry-foreign-govt-ties-focus-our-motherland-now",
+   "summary": "Fox News Digital found Uzbek trucking companies donated hundreds of thousands to the Islamic Center of Maineville despite serious safety violations.",
+   "published": "2026-10-25T09:00:28+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-10-25T11:40:05.846351+00:00"
+  },
+  {
+   "id": "9b02a3c534ee378b",
+   "title": "Leavitt says Trump is defying midterm headwinds as he barnstorms country",
+   "url": "https://www.foxnews.com/politics/leavitt-says-trump-defying-midterm-headwinds-he-barnstorms-country",
+   "summary": "Karoline Leavitt reveals Trump&apos;s blunt strategy to combat negative approval ratings and rally MAGA voters who typically skip midterm cycles.",
+   "published": "2026-10-25T09:00:14+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-10-25T11:40:05.846360+00:00"
+  },
   {
    "id": "663e020113688cb9",
    "title": "A Texas Cop Signed on to Help ICE Deport His Neighbors. It Tore the Town Apart.",
@@ -11507,83 +11595,6 @@
    "source_id": "thehill",
    "bias_note": "center",
    "first_seen": "2026-10-11T12:58:35.317383+00:00"
-  },
-  {
-   "id": "269f72aaab7253fb",
-   "title": "Did Trump get one thing right about Greenland?",
-   "url": "https://www.theguardian.com/world/2026/oct/11/did-trump-get-one-thing-right-about-greenland",
-   "summary": "Threatening an ally is a terrible idea, but there\u2019s no denying the Arctic\u2019s increasing strategic importanceOne of Donald Trump\u2019s more diabolical talents is his ability to land on the right things in the wrong way. Since his first term, Trump has been obsessed with the Arctic \u2013 Greenland in particular \u2013 something that has puzzled and enraged many, particularly in Europe. He first brought up the idea of buying the icy landmass from Denmark in 2019. Right after re-election, he began ramping up his rhetoric about acquiring it \u201cone way or another\u201d, threatening the Nato alliance and the foundations ",
-   "published": "2026-10-11T11:00:25+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-10-11T12:58:34.166504+00:00"
-  },
-  {
-   "id": "6b499fecc6c88e6a",
-   "title": "\u2018When you look at the numbers, we win\u2019: the prophetic Texas pastor poised to take Jasmine Crockett\u2019s House seat",
-   "url": "https://www.theguardian.com/us-news/2026/oct/11/rev-dr-frederick-douglass-haynes-iii-texas-house",
-   "summary": "Rev Dr Frederick Douglass Haynes III is reclaiming a faith-based politics to counter Trump-allied white evangelicalsIt was that point in the evening: dinner plates were cleared; speeches had run long; people were chatting, milling or eyeing the exit. But then the Rev Dr Frederick Douglass Haynes III took the stage. Bald, bearded, bespectacled and dressed in black, he delivered a mix of fiery sermon and performance poetry. Soon the guests were back in their seats \u2013 rapt, listening, clapping and whooping.Haynes\u2019s rolling cadence was evocative of the pulpit but the political message was far from ",
-   "published": "2026-10-11T10:00:23+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-10-11T18:58:05.684822+00:00"
-  },
-  {
-   "id": "9259c9e8820f7c80",
-   "title": "MAP IT: DOJ illegal voting crackdown sweeps 17 states as razor-thin elections face scrutiny",
-   "url": "https://www.foxnews.com/politics/map-doj-illegal-voting-crackdown-sweeps-17-states-razor-thin-elections-face-scrutiny",
-   "summary": "The Justice Department charged 64 foreign nationals across 17 states with noncitizen voting and voter registration fraud in roughly five weeks.",
-   "published": "2026-10-11T10:00:12+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-10-11T12:58:33.704201+00:00"
-  },
-  {
-   "id": "a91c8dd0b9f9b7b1",
-   "title": "GOP sees House prospects grow bleaker as districts shift to blue",
-   "url": "https://thehill.com/homenews/house/6140021-gop-house-majority-threatened/",
-   "summary": "Less than a month out from the midterm elections, the landscape for House Republicans grows grimmer by the day. President Trump\u2019s approval ratings are low and sinking. The GOP\u2019s emergency redistricting campaign has fallen short of its goals. And the volatile economy has voters on edge and thirsty for change.  The combination has created a...",
-   "published": "2026-10-11T10:00:00+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-11T12:58:35.317401+00:00"
-  },
-  {
-   "id": "5413d19103671413",
-   "title": "The Memo: As Trump lavishes cash on voters, ethics experts raise alarm",
-   "url": "https://thehill.com/homenews/analysis/6139169-gop-midterm-check-proposal/",
-   "summary": "President Trump is doing everything he can to win favor with a dissatisfied electorate before the midterms \u2014 including promising money. Speaking in San Antonio on Wednesday evening, Trump repeated his pledge to send $5,000 to every adult American if the GOP retains its narrow majorities in the House and the Senate. Skeptics roll their...",
-   "published": "2026-10-11T10:00:00+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-11T12:58:35.317411+00:00"
-  },
-  {
-   "id": "b39b237aaaa4d12e",
-   "title": "Reshaped civil rights mission at Justice Department transforms its work, workforce",
-   "url": "https://www.npr.org/2026/10/11/g-s1-145063/justice-department-civil-rights-transformed",
-   "summary": "Harmeet Dhillon has pushed out hundreds of longtime attorneys, replaced many with inexperienced ideological allies, and used the division's enforcement powers to pursue the president's agenda.",
-   "published": "2026-10-11T09:00:00+00:00",
-   "source": "NPR Politics",
-   "source_id": "npr-politics",
-   "bias_note": "center",
-   "first_seen": "2026-10-11T12:58:33.940389+00:00"
-  },
-  {
-   "id": "65b45fff56cfd7f9",
-   "title": "In one of the country's most competitive districts, a Democrat tries to keep her seat",
-   "url": "https://www.npr.org/2026/10/11/nx-s1-5968691/midterm-elections-washington-congressional-district",
-   "summary": "In a highly competitive Washington congressional race, the incumbent Democrat has angered part of her party base and the Trump-backed Republican challenger faces backlash against the party in power.",
-   "published": "2026-10-11T09:00:00+00:00",
-   "source": "NPR Politics",
-   "source_id": "npr-politics",
-   "bias_note": "center",
-   "first_seen": "2026-10-11T12:58:33.940392+00:00"
   }
  ]
 }
