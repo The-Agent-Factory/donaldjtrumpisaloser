@@ -1,7 +1,62 @@
 {
- "updated": "2026-10-25T14:53:40.624387+00:00",
+ "updated": "2026-10-25T16:29:31.889198+00:00",
  "count": 1051,
  "articles": [
+  {
+   "id": "dc8cfa107c82963c",
+   "title": "Trump immigration win could strengthen admin's hand in looming Supreme Court fight",
+   "url": "https://www.foxnews.com/politics/trump-immigration-win-could-strengthen-admins-hand-looming-supreme-court-fight",
+   "summary": "The Fifth Circuit Friday ruled illegal immigrants never formally admitted to the U.S. have no constitutional right to individualized bond hearings.",
+   "published": "2026-10-25T16:00:14+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-10-25T16:29:29.922928+00:00"
+  },
+  {
+   "id": "77d761ab80f3d997",
+   "title": "Trump fails to change economic headwinds facing GOP candidates",
+   "url": "https://thehill.com/homenews/state-watch/6169590-trump-economy-election-headwinds/",
+   "summary": "Gas, diesel and food prices are high and expected to remain elevated through Election Day, creating a strong political headwind for Republicans who are at serious risk of losing control of the House and possibly the Senate, as well. President Trump's diesel deal with Russia has had little lasting impact on fuel prices, according to...",
+   "published": "2026-10-25T16:00:00+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-25T16:29:30.898977+00:00"
+  },
+  {
+   "id": "e842222816c19204",
+   "title": "California election officials frustrated, rattled by DOJ demand to sequester 'noncitizen' ballots",
+   "url": "https://www.pbs.org/newshour/politics/california-election-officials-frustrated-rattled-by-doj-demand-to-sequester-noncitizen-ballots",
+   "summary": "The administration has insisted that immigrants voting is a major problem nationwide, when in fact it is quite rare, as even its own investigations have shown.",
+   "published": "2026-10-25T15:17:21+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-10-25T16:29:31.136986+00:00"
+  },
+  {
+   "id": "9a9a10f8383533c1",
+   "title": "Scaramucci compares Ramaswamy to pigs in \u2018Animal Farm,' predicts loss",
+   "url": "https://thehill.com/homenews/state-watch/6170719-scaramucci-animal-farm-ramaswamy/",
+   "summary": "Former White House communications director Anthony Scaramucci on Sunday compared Ohio gubernatorial candidate Vivek Ramaswamy (R) to the pig characters in the George Orwell novel \"Animal Farm\" and predicted that the candidate will lose to opponent Amy Acton (D). \"Vivek Ramswamy has disgraced himself,\" Scaramucci wrote on the social platform X. \"Ramaswamy started with soaring...",
+   "published": "2026-10-25T15:00:01+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-25T16:29:30.898997+00:00"
+  },
+  {
+   "id": "718f2d73c83e51ae",
+   "title": "President Trump Secures Major Deals to Unleash American Energy and Cut Gas Prices at the Pump",
+   "url": "https://www.whitehouse.gov/releases/2026/10/president-trump-secures-major-deals-to-unleash-american-energy-and-cut-gas-prices-at-the-pump/",
+   "summary": "Gas and diesel prices will soon drop rapidly thanks to President Donald J. Trump\u2019s bold actions to unleash American Energy. On day one, the Trump Administration began dismantling the failed Biden-era anti-energy policies, cutting red tape, and ending the Democrats\u2019 Green New Scam agenda. Today, under President Trump\u2019s leadership, America is producing record amounts of [&#8230;]\nThe post President Trump Secures Major Deals to Unleash American Energy and Cut Gas Prices at the Pump appeared first on The White House.",
+   "published": "2026-10-25T14:56:24+00:00",
+   "source": "WhiteHouse.gov News",
+   "source_id": "whitehouse",
+   "bias_note": "official/primary-source",
+   "first_seen": "2026-10-25T16:29:30.147664+00:00"
+  },
   {
    "id": "8bc1c3e7b0cc74bb",
    "title": "Blanche: Alaska Senate race is 'not a fair fight' to Trump",
@@ -11507,61 +11562,6 @@
    "source_id": "foxnews-latest",
    "bias_note": "right-leaning",
    "first_seen": "2026-10-11T18:58:05.263344+00:00"
-  },
-  {
-   "id": "322c420f5d496154",
-   "title": "Emmer says he's 'so happy' Trump will decide whether to stream public execution",
-   "url": "https://thehill.com/homenews/house/6141241-emmer-supports-trump-execution-streaming-decision/",
-   "summary": "House Majority Whip Tom Emmer (R-Minn.) on Sunday said he is \"so happy\" that President Trump will decide on whether to livestream the execution by firing squad of convicted Fort Hood shooter Nidal Hasan. \"I am so happy that we have a president, a chief executive in this country, who will make a decision which...",
-   "published": "2026-10-11T16:28:13+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-11T16:34:55.984175+00:00"
-  },
-  {
-   "id": "c1b5d275bf646baa",
-   "title": "The Guardian view on the US, Russia and the international criminal court: Trump\u2019s assault on the rule of law intensifies | Editorial",
-   "url": "https://www.theguardian.com/commentisfree/2026/oct/11/the-guardian-view-on-the-us-russia-and-the-international-criminal-court-trumps-assault-on-the-rule-of-law-intensifies",
-   "summary": "A fuel deal with Vladimir Putin, and sanctions against the legal institution, ram home the president\u2019s belief that might is rightOn Friday, Donald Trump drove home his belief that might is right and the rule of law is an obstacle rather than an essential foundation stone of international order. First came the escalated assault on the international criminal court (ICC), sanctioning the body itself. Then he announced a deal with Russia to&nbsp;buy diesel.The US has long chafed at the notion of being bound&nbsp;by the rule of law that it espoused publicly. That&nbsp;hypocrisy now appears as a les",
-   "published": "2026-10-11T16:25:39+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-10-11T18:58:05.684785+00:00"
-  },
-  {
-   "id": "6710ac7228dd26d8",
-   "title": "Zelensky says critics blaming him for Russia-Ukraine war 'can't find a key how to stop Putin'",
-   "url": "https://thehill.com/policy/international/6141238-zelensky-critics-russia-ukraine-war-stop-putin/",
-   "summary": "Ukrainian President Volodymyr Zelenksy on Sunday pushed back on critics saying he should step down and allow his country to hold elections, saying they \"can't find a key [for] how to stop\" Russian President Vladimir Putin. ABC's Jonathan Karl asked Zelensky on \"This Week\" about Trump's criticism, in which he told reporters on Friday that...",
-   "published": "2026-10-11T16:07:40+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-11T16:34:55.984182+00:00"
-  },
-  {
-   "id": "665961b7b54b0924",
-   "title": "Trump, Vance blitz Ohio as Democrats look to flip governor's mansion",
-   "url": "https://thehill.com/homenews/campaign/6139956-ohio-governor-election-ramaswamy-acton/",
-   "summary": "The red-leaning Buckeye State governor\u2019s mansion could flip for the first time in two decades as Democrat Amy Acton narrowly leads Republican Vivek Ramaswamy in recent polls of their bitter midterm battle.  A new CNN poll on Thursday showed Acton up 8 percentage points over Ramaswamy, after a New York Times/Siena poll found Acton ahead...",
-   "published": "2026-10-11T16:00:00+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-11T16:34:55.984191+00:00"
-  },
-  {
-   "id": "425a28bdae887da9",
-   "title": "Trump\u2019s deal with Putin will have little impact on US diesel prices, experts warn",
-   "url": "https://www.theguardian.com/us-news/2026/oct/11/trump-russia-diesel-deal-putin-little-impact-prices",
-   "summary": "Analysts say fuel will take weeks to ship and is too small to affect prices, with the full deal unlikely to be met given damage to Russian refineriesZelenskyy rejects Trump claim of Ukraine-Russia \u2018energy ceasefire\u2019Donald Trump\u2019s deal with Vladimir Putin to temporarily lift sanctions on US imports of Russian diesel will have little \u201cmeaningful\u201d effect on motorists and businesses in the US and overseas, energy and foreign policy analysts have predicted.The US president infuriated Volodymyr Zelenskyy when he announced the deal on Friday, writing on Truth Social that the agreement with his Russia",
-   "published": "2026-10-11T15:56:25+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-10-11T16:34:54.543129+00:00"
   }
  ]
 }
