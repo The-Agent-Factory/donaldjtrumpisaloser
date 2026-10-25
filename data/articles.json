@@ -1,7 +1,139 @@
 {
- "updated": "2026-10-25T11:40:07.661889+00:00",
- "count": 1054,
+ "updated": "2026-10-25T14:53:40.624387+00:00",
+ "count": 1051,
  "articles": [
+  {
+   "id": "8bc1c3e7b0cc74bb",
+   "title": "Blanche: Alaska Senate race is 'not a fair fight' to Trump",
+   "url": "https://thehill.com/homenews/state-watch/6170732-trump-alaska-senate-lawsuit/",
+   "summary": "Attorney General Todd Blanche on Sunday said President Trump doesn\u2019t consider Alaska\u2019s Senate race to be a fair contest because of the controversial appearance on the ballot of a candidate with the same name as incumbent Sen. Dan Sullivan (R), which he argued could confuse voters and potentially cost Republicans the seat. Speaking on CNN\u2019s...",
+   "published": "2026-10-25T14:42:49+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-25T14:53:39.801005+00:00"
+  },
+  {
+   "id": "69aefe5d872381aa",
+   "title": "Obama, in Midwest, assails 'cruelty' and indecency from Trump and his allies in the midterm campaign",
+   "url": "https://www.pbs.org/newshour/politics/obama-in-midwest-assails-cruelty-and-indecency-from-trump-and-his-allies-in-the-midterm-campaign",
+   "summary": "Obama remains the Democratic Party's best motivator nearly a decade after leaving the White House. And he's taking his star power on the road in the final days of the midterm elections, which will help determine the balance of power in American politics on Nov. 3.",
+   "published": "2026-10-25T14:35:09+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-10-25T14:53:40.126507+00:00"
+  },
+  {
+   "id": "898cfb580145a061",
+   "title": "How Trump learned to stop worrying and love space science",
+   "url": "https://thehill.com/opinion/technology/6168963-trump-saves-nasa-venus-probes/",
+   "summary": "He recognizes a cool thing when he sees it.",
+   "published": "2026-10-25T14:00:00+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-25T14:53:39.801013+00:00"
+  },
+  {
+   "id": "7cfa6f4e22574667",
+   "title": "Trump calls Murkowski a 'disgrace' to Alaska, criticizes ranked choice voting",
+   "url": "https://thehill.com/homenews/state-watch/6170659-trump-attacks-murkowski-ranked-choice-voting/",
+   "summary": "President Trump went after Sen. Lisa Murkowski (R-Alaska) and Alaska\u2019s ranked choice voting system on Saturday. \u201cThe Republicans\u2019 Worst Senator, by far, Lisa Murkowski, of the Great State of Alaska (A State for which I produced, on a continuing basis, Billions and Billions of Dollars, and which Crooked Joe Biden and the Dumocrats had totally...",
+   "published": "2026-10-25T13:53:24+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-25T14:53:39.801019+00:00"
+  },
+  {
+   "id": "a4dafb4ffd3d8ff3",
+   "title": "Volkswagen to build $4bn Audi SUV factory in US despite job cuts at home",
+   "url": "https://www.theguardian.com/business/2026/oct/25/volkswagen-to-build-4bn-audi-suv-factory-in-us-despite-job-cuts-at-home",
+   "summary": "VW investment, creating 4,500 jobs in Georgia, comes amid Trump\u2019s damaging tariffs, intense Chinese competition and costly shift towards EVsAudi has said it will spend $4bn (\u00a33bn) to build its first factory in the US, as its parent company, Volkswagen, struggles with the impact of steep tariffs imposed by Donald Trump.The German brand\u2019s chief executive, Gernot D\u00f6llner, joined Trump on stage at a campaign rally on Saturday night to announce the factory in Macon, Georgia, in an unusual move by a big European brand just days before the US midterm elections. Continue reading...",
+   "published": "2026-10-25T13:43:19+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-10-25T14:53:39.528481+00:00"
+  },
+  {
+   "id": "a83ae1e254402450",
+   "title": "NFL overcomes civil unrest, Trump concerns and calls to postpone as Steelers and Saints kick off in Paris",
+   "url": "https://www.foxnews.com/outkick-sports/nfl-overcomes-civil-unrest-trump-concerns-calls-postpone-steelers-saints-kick-off-paris",
+   "summary": "The NFL kicked off at Stade de France despite Paris protests and calls from Trump to postpone the Pittsburgh Steelers and New Orleans Saints game.",
+   "published": "2026-10-25T13:33:21+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-10-25T14:53:39.158638+00:00"
+  },
+  {
+   "id": "d66f90e44328c004",
+   "title": "Trump's midterm swing brings him to Michigan as Republicans aim to undermine El-Sayed in Senate race",
+   "url": "https://abcnews.com/Politics/wireStory/trumps-midterm-swing-brings-michigan-republicans-aim-undermine-137550585",
+   "summary": "President Donald Trump's busy midterm campaign schedule is bringing him to Michigan, where Republicans hope to claim an open Senate seat on Election Day",
+   "published": "2026-10-25T13:15:36+00:00",
+   "source": "ABC News Politics",
+   "source_id": "abc-politics",
+   "bias_note": "center",
+   "first_seen": "2026-10-25T14:53:40.358241+00:00"
+  },
+  {
+   "id": "6fbd1125a9f6a4ac",
+   "title": "She voted for Trump every time. Then came cancer and the bills",
+   "url": "https://abcnews.com/Politics/wireStory/voted-trump-time-cancer-bills-137550700",
+   "summary": "Cindy Banda faces mounting medical bills after battling breast cancer",
+   "published": "2026-10-25T13:15:00+00:00",
+   "source": "ABC News Politics",
+   "source_id": "abc-politics",
+   "bias_note": "center",
+   "first_seen": "2026-10-25T14:53:40.358188+00:00"
+  },
+  {
+   "id": "7a98029d149b90b4",
+   "title": "Live updates: Trump heads to Michigan; Blanche defends DOJ's Alaska lawsuit",
+   "url": "https://thehill.com/homenews/administration/6170651-live-updates-trump-michigan-todd-blanche-doj-lawsuits/",
+   "summary": "With less than two weeks to go before the midterms, the Trump administration is ramping up its warnings about voter fraud and is not ruling out the prospect of weighing in on states\u2019 election certification efforts. The Justice Department (DOJ) reportedly sent letters Friday to California election officials, directing them to identify potential noncitizens on...",
+   "published": "2026-10-25T13:07:23+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-25T14:53:39.801043+00:00"
+  },
+  {
+   "id": "25c539d6879b5c6b",
+   "title": "How to build a police state | William Wheeler",
+   "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/25/trump-bukele-el-salvador-police-state",
+   "summary": "To understand where Trump is trying to take the US, we should look to the authoritarian playbook of his favorite ally: El Salvador\u2019s Nayib BukeleOne afternoon last year, Donald Trump welcomed \u201ca friend\u201d to the White House \u2013 El Salvador\u2019s Nayib Bukele, the world\u2019s most popular authoritarian. \u201cI knew him as a very young man,\u201d the US president said before the cameras. \u201cHe\u2019s done a fantastic job. Mr President, it\u2019s an honor to have you.\u201dSince March 2022, when gangs in El Salvador murdered 87 people over a weekend, Bukele has maintained a state of emergency in which key civil liberties are suspende",
+   "published": "2026-10-25T13:00:03+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-10-25T14:53:39.528491+00:00"
+  },
+  {
+   "id": "e359cae60f71c3bc",
+   "title": "FDR made it a blue bastion \u2013 now it\u2019s Trump\u2019s stronghold in California. Is it forever lost?",
+   "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/25/democrats-california-shasta-county-trump",
+   "summary": "Shasta has embraced the Maga movement with gusto \u2013 can Democrats ever win back the rural, working-class voters they once relied upon? A crucial election was approaching and the country was desperate. Despite promises that economic conditions were improving, nearly a quarter of the US was out of work as voters headed to the polls in 1932.It was the darkest time since the civil war, a period so dire that in California\u2019s capital people fought each other for work. In early 1931, a crowd of 200 men scuffled over a handful of temporary jobs moving back-breaking loads of granite, the Sacramento Bee r",
+   "published": "2026-10-25T13:00:03+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-10-25T14:53:39.528498+00:00"
+  },
+  {
+   "id": "8efbff5b5c87e0af",
+   "title": "Trump announces new Audi factory at Georgia campaign rally",
+   "url": "https://thehill.com/homenews/state-watch/6170630-trump-announces-audi-factory-georgia/",
+   "summary": "President Trump announced a new Audi factory while campaigning in Georgia on Saturday, a move that arrived almost a week before November's midterms. \u201cToday, I'm thrilled to announce a massive auto manufacturing investment in the great state of Georgia by a fantastic company,\u201d Trump said during the Saturday rally.  \u201cAudi has just committed to invest...",
+   "published": "2026-10-25T12:20:06+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-25T14:53:39.801059+00:00"
+  },
   {
    "id": "bbd2602bb89efbd0",
    "title": "MIKE DAVIS: Shocking $6M verdict shows why DOJ must investigate MIT",
@@ -11430,171 +11562,6 @@
    "source_id": "guardian-uspolitics",
    "bias_note": "left-leaning",
    "first_seen": "2026-10-11T16:34:54.543129+00:00"
-  },
-  {
-   "id": "6db08bd806e9fb23",
-   "title": "Trump announces immediate energy ceasefire between Russia and Ukraine",
-   "url": "https://www.foxnews.com/politics/trump-announces-immediate-energy-ceasefire-between-russia-ukraine",
-   "summary": "President Donald Trump declared an immediate energy ceasefire, but his recent deal easing Russian diesel exports drew sharp criticism from Kyiv.",
-   "published": "2026-10-11T14:51:55+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-10-11T16:34:53.738837+00:00"
-  },
-  {
-   "id": "c6cb34d5401b252e",
-   "title": "Trump claims energy ceasefire reached between Russia and Ukraine",
-   "url": "https://thehill.com/homenews/administration/6141275-trump-russia-ukraine-energy-ceasefire/",
-   "summary": "President Trump on Sunday claimed an energy ceasefire deal has been reached between Russia and Ukraine, days after his administration announced a deal to acquire diesel from Russia while lifting sanctions. \"Effective immediately, there is an ENERGY CEASEFIRE in the War between Russia and Ukraine,\" Trump wrote on Truth Social. \"Both parties have agreed. Do...",
-   "published": "2026-10-11T14:51:16+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-11T16:34:55.984231+00:00"
-  },
-  {
-   "id": "49e958669b09cc24",
-   "title": "Murphy takes fight against Iran war to Middle East",
-   "url": "https://thehill.com/policy/defense/6141289-senator-murphy-middle-east-trip/",
-   "summary": "Sen. Chris Murphy (D-Conn.), this past week took his fight against the Iran war to the Middle East, seeking to expose damages caused by the conflict that he has repeatedly accused the Trump administration of trying to cover up.  Murphy, who sits on the powerful Senate Foreign Relations and Appropriations committees, traveled to Qatar and...",
-   "published": "2026-10-11T14:39:44+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-11T16:34:55.984233+00:00"
-  },
-  {
-   "id": "ef63a926f638b779",
-   "title": "Guilfoyle told Greek businessman \u2018I\u2019m going to make you a lot of f---ing money\u2019: Report",
-   "url": "https://thehill.com/homenews/administration/6141253-ambassador-alleged-greek-luxury-travel/",
-   "summary": "The Trump administration is reportedly weighing whether to remove U.S. ambassador to Greece Kimberly Guilfoyle from her role as new allegations emerge that wealthy Greek businessmen paid for her luxury travel while she used her diplomatic position to lobby their business interests. According to a new report from the Wall Street Journal, senior Trump administration...",
-   "published": "2026-10-11T14:16:17+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-11T16:34:55.984249+00:00"
-  },
-  {
-   "id": "1e2e3ed0f2f86b7c",
-   "title": "Trump urges John Fetterman to switch parties: \u2018I\u2019d love to see him as a Republican\u2019",
-   "url": "https://www.theguardian.com/us-news/2026/oct/11/trump-john-fetterman",
-   "summary": "Comments were among the most direct overtures by Trump to woo Democratic senator into his Republican partyDonald Trump on Saturday openly encouraged Democratic US senator John Fetterman to switch parties and become a Republican just weeks before the federal midterm elections could reshape control of Congress.\u201cI\u2019d love to see him as a Republican,\u201d the presidents told reporters at Joint Base Andrews as he returned to Washington DC from a rally in Tennessee. \u201cHe does better as a Republican than he does as a Democrat.\u201dGuardian staff contributed reporting Continue reading...",
-   "published": "2026-10-11T13:25:44+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-10-11T16:34:54.543137+00:00"
-  },
-  {
-   "id": "98ab2a94f25deaae",
-   "title": "Republicans face midterm backlash from factory workers squeezed out of jobs by Trump's tariffs",
-   "url": "https://abcnews.com/Politics/wireStory/republicans-face-midterm-backlash-factory-workers-squeezed-jobs-137171571",
-   "summary": "President Donald Trump's tariffs are turning factory workers against his Republican Party over fears the import taxes could lead to fewer jobs instead of the manufacturing renaissance he promised",
-   "published": "2026-10-11T13:10:54+00:00",
-   "source": "ABC News Politics",
-   "source_id": "abc-politics",
-   "bias_note": "center",
-   "first_seen": "2026-10-11T16:34:56.873618+00:00"
-  },
-  {
-   "id": "849b623d298b07c4",
-   "title": "Hollywood jobs flee overseas as Congress scrambles to stop production exodus \u2014 with Trump's blessing",
-   "url": "https://www.foxnews.com/politics/hollywood-jobs-flee-overseas-congress-scrambles-stop-production-exodus-trumps-blessing",
-   "summary": "A bipartisan bill aims to create a federal film tax credit to stop movie and TV production from fleeing overseas to Europe and Canada.",
-   "published": "2026-10-11T13:00:14+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-10-11T16:34:53.738863+00:00"
-  },
-  {
-   "id": "ebe658c3161a35cc",
-   "title": "Trump names Katie Bailey as White House legislative affairs director",
-   "url": "https://thehill.com/homenews/administration/6141177-trump-names-katie-bailey-legislative-director/",
-   "summary": "President Trump on Saturday named Katie Bailey as the White House's legislative affairs director, months after former director James Braid vacated the role ahead of the November midterm elections. Trump wrote on Truth Social that Bailey, as deputy director, \"has already delivered strong results\" in assisting with the confirmations of Homeland Security Secretary Markwayne Mullin,...",
-   "published": "2026-10-11T12:44:42+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-11T12:58:35.317341+00:00"
-  },
-  {
-   "id": "1f6046aceb1b6916",
-   "title": "Live updates: Zelensky set for Sunday interview amid backlash to Trump's Russia diesel deal",
-   "url": "https://thehill.com/homenews/administration/6140988-live-updates-zelensky-set-for-sunday-interview-amid-backlash-to-trumps-russia-diesel-deal/",
-   "summary": "Ukrainian President Volodymyr Zelensky is scheduled to appear on ABC's \"This Week\" Sunday morning following President Trump's Friday announcement of a deal to lift sanctions on Russian diesel, which sparked a war of words between the U.S. and Ukraine presidents. The move, allowing the Kremlin to supply 300,000 tons of diesel to the U.S. and...",
-   "published": "2026-10-11T12:29:15+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-11T12:58:35.317351+00:00"
-  },
-  {
-   "id": "1998a0d8bfbef81c",
-   "title": "Justice Department investigates TV networks, citing possible anti-trust violations",
-   "url": "https://www.npr.org/2026/10/11/nx-s1-5997574/the-doj-is-investigating-5-tv-networks-for-suspending-pool-coverage-of-trump",
-   "summary": "The move escalates Trump's fight with the press amid court battle over barring CNN, Politico and MS NOW from the White House.",
-   "published": "2026-10-11T12:04:00+00:00",
-   "source": "NPR Politics",
-   "source_id": "npr-politics",
-   "bias_note": "center",
-   "first_seen": "2026-10-11T18:58:05.664951+00:00"
-  },
-  {
-   "id": "8ff3d20cec3e8e38",
-   "title": "Politics chat: Trump announces fuel deal with Russia. What does it mean for sanctions?",
-   "url": "https://www.npr.org/2026/10/11/nx-s1-5996550/politics-chat-trump-announces-fuel-deal-with-russia-what-does-it-mean-for-sanctions",
-   "summary": "President Trump announced a deal to import Russian fuel to the U.S. We look at what this means for the sanctions he recently signed off on against Russia, as well as the U.S.'s support for Ukraine.",
-   "published": "2026-10-11T12:03:56+00:00",
-   "source": "NPR Politics",
-   "source_id": "npr-politics",
-   "bias_note": "center",
-   "first_seen": "2026-10-11T12:58:33.940381+00:00"
-  },
-  {
-   "id": "18c89880fbcc3f67",
-   "title": "US maternity wards face wave of closures as Medicaid cuts kick in",
-   "url": "https://www.theguardian.com/us-news/2026/oct/11/medicaid-cuts-maternity-wards",
-   "summary": "Trump\u2019s \u2018big, beautiful bill\u2019 spending cuts will be fully felt next year, but hospitals are already feeling the squeezeMaternity wards across the United States are facing a wave of closures as cuts to federal Medicaid funding take effect, experts have warned.According to analysis by the non-profit Protect Our Care, 52 maternity wards have closed since the HR1 bill was announced in July 2025, with a further eight having announced their upcoming closure. Continue reading...",
-   "published": "2026-10-11T12:00:26+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-10-11T12:58:34.166443+00:00"
-  },
-  {
-   "id": "ceea6758ab9566fa",
-   "title": "\u2018Big Balls\u2019 of DOGE fame gives exclusive look at new Trump mission to overhaul government",
-   "url": "https://www.foxnews.com/politics/big-balls-doge-fame-gives-exclusive-look-new-trump-mission-overhaul-government",
-   "summary": "Edward Coristine reveals plans to make passport applications fully digital through America.gov, the AI-powered platform replacing thousands of sites.",
-   "published": "2026-10-11T12:00:13+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-10-11T12:58:33.704185+00:00"
-  },
-  {
-   "id": "cbb39ac79f4392be",
-   "title": "Trump is waging all-out war against journalists",
-   "url": "https://thehill.com/opinion/white-house/6139752-trump-media-lawfare-threat/",
-   "summary": "Shortly before returning to office after the 2024 race, Trump proclaimed, \u201cLAWFARE IS DEAD.\u201d But these days, lawfare is flourishing as never before.",
-   "published": "2026-10-11T12:00:00+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-11T12:58:35.317376+00:00"
-  },
-  {
-   "id": "c938696492909546",
-   "title": "DOJ investigating 5 major TV networks over response to White House press ban",
-   "url": "https://thehill.com/homenews/administration/6141115-doj-investigates-tv-networks-boycott/",
-   "summary": "The Justice Department (DOJ) is investigating five major TV networks for alleged antitrust violations after the outlets briefly pulled their pool coverage. Sources told The New York Times on Saturday that the DOJ is investigating ABC, CBS, CNN, NBC and Fox News for pulling their coverage days after a federal judge halted President Trump's ban...",
-   "published": "2026-10-11T11:44:56+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-11T12:58:35.317383+00:00"
   }
  ]
 }
