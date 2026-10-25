@@ -1,7 +1,150 @@
 {
- "updated": "2026-10-25T16:29:31.889198+00:00",
- "count": 1051,
+ "updated": "2026-10-25T20:55:33.401261+00:00",
+ "count": 1052,
  "articles": [
+  {
+   "id": "85fc2618f9d8bd29",
+   "title": "Iowa\u2019s Senate rivals pitch independence from their parties",
+   "url": "https://www.politico.com/news/2026/10/25/iowa-senate-hinson-turek-independence-01134978",
+   "summary": "Ashley Hinson qualified her pledge to be Trump\u2019s strongest ally, while Josh Turek praised the president\u2019s border record.",
+   "published": "2026-10-25T20:04:23+00:00",
+   "source": "Politico",
+   "source_id": "politico",
+   "bias_note": "center",
+   "first_seen": "2026-10-25T20:55:32.175212+00:00"
+  },
+  {
+   "id": "dde60b899eee8401",
+   "title": "Trump accuses Fox News of giving too much airtime to GOP opponents",
+   "url": "https://thehill.com/homenews/administration/6171084-trump-accuses-fox-news-of-giving-too-much-airtime-to-gop-opponents/",
+   "summary": "President Trump on Sunday blasted Fox News for giving too much airtime to Democratic candidates ahead of the midterm elections, arguing that the network\u2019s coverage was bringing too much attention to Republican opponents that could hurt them in tight races. \u201cFoxNews is spending far too much time putting on the OPPONENTS of Republican Party Candidates,...",
+   "published": "2026-10-25T19:53:53+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-25T20:55:32.260037+00:00"
+  },
+  {
+   "id": "c0ee3ffdcfef8320",
+   "title": "Judge asked to compel Trump administration to disclose emails and texts about Kennedy Center plans",
+   "url": "https://www.pbs.org/newshour/politics/judge-asked-to-compel-trump-administration-to-disclose-emails-and-texts-about-kennedy-center-plans",
+   "summary": "A list of records in the Kennedy Center's possession suggests that Trump has been in \"near-constant contact\" with the center's management, either directly or through intermediaries, plaintiffs' lawyers said in a court filing on Sunday.",
+   "published": "2026-10-25T19:49:52+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-10-25T20:55:32.698550+00:00"
+  },
+  {
+   "id": "0759682b11bd21ae",
+   "title": "Blanche says Trump isn't trying to meddle with Alaska election results by suing over Senate race",
+   "url": "https://www.pbs.org/newshour/politics/blanche-says-trump-isnt-trying-to-meddle-with-alaska-election-results-by-suing-over-senate-race",
+   "summary": "Blanche told CNN's \"State of the Union\" that President Donald Trump, who said Friday that he was \"the one that said do it,\" is not trying to overturn state election results \"in any way, shape or form\" on the cusp of the Nov. 3 election.",
+   "published": "2026-10-25T18:19:27+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-10-25T20:55:32.698555+00:00"
+  },
+  {
+   "id": "4e625f0b356dbc89",
+   "title": "Hassett says the economy is 'best we've ever seen'",
+   "url": "https://thehill.com/homenews/administration/6170922-hassett-economy-midterms/",
+   "summary": "Kevin Hassett, the director of the National Economic Council (NEC), on Sunday said the economy is the \"best we've ever seen\" as the Trump administration and Republicans make their final pitches heading into the midterm elections. \"So the great big picture about the economy is that it's about the best economy we've ever seen,\" Hassett...",
+   "published": "2026-10-25T18:18:07+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-25T20:55:32.260082+00:00"
+  },
+  {
+   "id": "2bffbe594fc03002",
+   "title": "MAPPED: The states Trump and top Democrats are targeting before Election Day",
+   "url": "https://www.foxnews.com/politics/mapped-states-trump-top-democrats-targeting-election-day",
+   "summary": "With Election Day less than two weeks away, Trump rallied in Florida, Georgia and Michigan as both parties deploy top surrogates to battlegrounds.",
+   "published": "2026-10-25T18:15:23+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-10-25T20:55:31.591889+00:00"
+  },
+  {
+   "id": "1cf14335a9c11b4e",
+   "title": "Blanche says Trump isn't trying to meddle with Alaska election results by suing over Senate race",
+   "url": "https://abcnews.com/Politics/wireStory/blanche-trump-meddle-alaska-election-results-suing-senate-137555745",
+   "summary": "Attorney General Todd Blanche is defending the Trump administration&rsquo;s lawsuit to block certification of Alaska's Senate results if incumbent Republican Dan Sullivan loses the race",
+   "published": "2026-10-25T18:11:02+00:00",
+   "source": "ABC News Politics",
+   "source_id": "abc-politics",
+   "bias_note": "center",
+   "first_seen": "2026-10-25T20:55:33.129481+00:00"
+  },
+  {
+   "id": "fe2d871b9314028e",
+   "title": "Blanche defends DOJ lawsuit blocking Alaska Senate results if Republican loses",
+   "url": "https://www.npr.org/2026/10/25/nx-s1-6016212/blanche-defends-doj-lawsuit-blocking-alaska-senate-results-if-republican-loses",
+   "summary": "Attorney General Todd Blanche defended the Justice Department's suit over Alaska's Senate race in an interview on CNN.",
+   "published": "2026-10-25T17:50:35+00:00",
+   "source": "NPR Politics",
+   "source_id": "npr-politics",
+   "bias_note": "center",
+   "first_seen": "2026-10-25T20:55:32.008860+00:00"
+  },
+  {
+   "id": "c1803d560f493f8a",
+   "title": "Trump reveals dire warning to Macron as violent unrest spreads across Europe",
+   "url": "https://www.foxnews.com/media/trump-reveals-dire-warning-macron-violent-unrest-spreads-across-europe",
+   "summary": "Trump says he warned Emmanuel Macron that immigration policies were &quot;destroying France&quot; as nearly 1,000 protesters were arrested on Saturday.",
+   "published": "2026-10-25T17:27:42+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-10-25T20:55:31.614485+00:00"
+  },
+  {
+   "id": "e9f07fd629efc825",
+   "title": "DOJ flooded with thousands of fraud tips after cash incentive launch, Trump official says",
+   "url": "https://www.foxnews.com/media/doj-flooded-thousands-fraud-tips-after-cash-incentive-launch-trump-official-says",
+   "summary": "The Justice Department&apos;s fraud whistleblower program received thousands of tips in days, as Colin McDonald reveals a novel upfront payment approach.",
+   "published": "2026-10-25T17:07:11+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-10-25T20:55:31.614496+00:00"
+  },
+  {
+   "id": "8947aef730b8ac0c",
+   "title": "Blanche accuses 'Face the Nation' host of 'misleading' description of Alaska election lawsuit",
+   "url": "https://thehill.com/homenews/state-watch/6170778-doj-alaska-election-lawsuit/",
+   "summary": "Attorney General Todd Blanche on Sunday accused CBS News's \"Face the Nation\" host Margaret Brennan of giving a \"misleading\" description of the Alaska Senate race, where two candidates with similar names will appear on the ballot. Brennan said the Department of Justice (DOJ) sued Alaska preemptively to block the certification of the results if Sen....",
+   "published": "2026-10-25T17:00:31+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-25T20:55:32.260114+00:00"
+  },
+  {
+   "id": "545b7ee43d193adc",
+   "title": "Blanche defends DoJ\u2019s pre-emptive suit to block Alaska Senate results certification",
+   "url": "https://www.theguardian.com/us-news/2026/oct/25/todd-blanche-doj-lawsuit-alaska-senate-election-results",
+   "summary": "US attorney general calls CNN \u2018crazy\u2019 for suggesting Trump\u2019s attempt to overturn election could lead to January 6 repeatSign up for The Stakes 2026: your weekly guide to the US midtermsTodd Blanche, Donald Trump\u2019s attorney general, lashed out during an interview on Sunday while defending the justice department\u2019s pre-emptive lawsuit to block certification of Alaska\u2019s US Senate results if the GOP incumbent loses, calling a TV host\u2019s question \u201ccrazy\u201d.The testy repartee unfolded on CNN\u2019s State of the Union over the DoJ\u2019s unprecedented legal action, which alleges that there could be \u201cvoter confusio",
+   "published": "2026-10-25T16:48:41+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-10-25T20:55:32.069612+00:00"
+  },
+  {
+   "id": "d04fec882c0289cd",
+   "title": "Axelrod: Trump\u2019s \u2018I don\u2019t give a damn\u2019 remark on gas prices is no winning message",
+   "url": "https://thehill.com/homenews/6170798-axelrod-criticizes-trump-gas-prices/",
+   "summary": "Democratic strategist David Axelrod called out President Trump on Saturday, following Trump's remarks at an evening rally where he told supporters he \"did not give a damn\" about high fuel prices because \u201cwe\u2019re making a freaking fortune\" on oil. \u201cHE's making money like he's never made before. And he doesn't give a damn about high...",
+   "published": "2026-10-25T16:29:30+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-25T20:55:32.260141+00:00"
+  },
   {
    "id": "dc8cfa107c82963c",
    "title": "Trump immigration win could strengthen admin's hand in looming Supreme Court fight",
@@ -11430,138 +11573,6 @@
    "source_id": "whitehouse",
    "bias_note": "official/primary-source",
    "first_seen": "2026-10-13T21:18:43.715530+00:00"
-  },
-  {
-   "id": "3881744252c73927",
-   "title": "GOP senator calls for FCC probe of ABC News over Trump sons-Anduril 'political hit job'",
-   "url": "https://www.foxnews.com/media/gop-senator-calls-fcc-probe-abc-news-trump-sons-anduril-political-hit-job",
-   "summary": "Sen. Bernie Moreno urged the FCC to investigate ABC News over a retracted report linking Donald Trump Jr. and Anduril Industries to government contracts.",
-   "published": "2026-10-11T20:43:19+00:00",
-   "source": "Fox News Latest",
-   "source_id": "foxnews-latest",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-10-11T23:42:43.889811+00:00"
-  },
-  {
-   "id": "95a2300d12e73e68",
-   "title": "Tillis: Trump's Russia deal 'is tarnishing Lindsey Graham's efforts' at sanctions",
-   "url": "https://thehill.com/homenews/senate/6141694-tillis-slams-trump-russia-diesel/",
-   "summary": "Sen. Thom Tillis (R-N.C.) slammed President Trump\u2019s deal with Russia for diesel Sunday amid the energy struggles the U.S. is experiencing. \u201cThe president needs to move forward with the sanctions bill that we sent him. This agreement with pursing Russian oil is essentially, I think, tarnishing [Sen.] Lindsey Graham's [(R-S.C.)] efforts to try and get...",
-   "published": "2026-10-11T20:20:45+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-11T23:42:45.938525+00:00"
-  },
-  {
-   "id": "f2bcbb9da01f40fc",
-   "title": "Bipartisan group of senators calls on Trump to 'reverse course' on Russian diesel plan",
-   "url": "https://www.pbs.org/newshour/politics/bipartisan-group-of-senators-calls-on-trump-to-reverse-course-on-russian-diesel-plan",
-   "summary": "Four Republican senators and two Democratic senators signed onto the statement released Sunday in protesting the deal. They said the administration failed to consult with Congress or submit any explanation to justify its decision as required by statute.",
-   "published": "2026-10-11T20:18:14+00:00",
-   "source": "PBS NewsHour Politics",
-   "source_id": "pbs-politics",
-   "bias_note": "center",
-   "first_seen": "2026-10-11T23:42:46.002760+00:00"
-  },
-  {
-   "id": "7f879a39e0fd14c0",
-   "title": "In Springfield, Ohio, Trump must settle the MAGA vs Chamber of Commerce war",
-   "url": "https://www.foxnews.com/opinion/springfield-ohio-trump-settle-maga-vs-chamber-commerce-war",
-   "summary": "Springfield, Ohio, small business owners reveal what they need from Vivek Ramaswamy and John Husted on taxes, regulations, and immigration reform.",
-   "published": "2026-10-11T19:41:04+00:00",
-   "source": "Fox News Latest",
-   "source_id": "foxnews-latest",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-10-11T23:42:43.889871+00:00"
-  },
-  {
-   "id": "7f2addbd9c4a91b9",
-   "title": "Backlash grows against Russia diesel deal as Trump claims Ukraine energy ceasefire",
-   "url": "https://thehill.com/policy/energy-environment/6141263-bipartisan-backlash-russian-fuel/",
-   "summary": "President Trump's deal with Russia to permit the country's diesel into the U.S. and global marketplace saw growing backlash on Sunday, before the president announced an energy ceasefire between Ukraine and Russia. The deal will have Russia \"immediately release 300,000 tons of diesel to address concerns over rising energy costs due to the global fuel...",
-   "published": "2026-10-11T19:24:27+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-11T23:42:45.938538+00:00"
-  },
-  {
-   "id": "2dda878faf9dddce",
-   "title": "Russia strikes Ukrainian power plant after Trump claims energy ceasefire",
-   "url": "https://thehill.com/policy/international/6141601-russia-strikes-ukraine-power-plant/",
-   "summary": "Russia struck a power plant in eastern Ukraine, contradicting President Trump\u2019s announcement earlier Sunday that both countries agreed to an \"energy ceasefire.\" A local official who spoke with ABC News said that a thermal power plant in the city of Kharkiv was hit twice and on fire. Ukrainian President Voldoymyr Zelensky\u00a0confirmed the attack, along with...",
-   "published": "2026-10-11T19:22:29+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-11T23:42:45.938543+00:00"
-  },
-  {
-   "id": "bb557c77d144a6ba",
-   "title": "Massie backs Trump's diesel deal with Russia in rare move",
-   "url": "https://thehill.com/homenews/house/6141586-massie-backs-trump-russia-diesel/",
-   "summary": "Rep. Thomas Massie (R-Ky.) on Sunday backed President Trump\u2019s deal with Russia for diesel, in spite of past conflict between the two politicians. \u201cIn 2022 I voted against Russia sanctions, pointing out that U.S. citizens would suffer from higher prices. Glad to see Trump came around to that reality this week. We should lift sanctions...",
-   "published": "2026-10-11T19:12:55+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-11T23:42:45.938548+00:00"
-  },
-  {
-   "id": "2738f5d126ba57de",
-   "title": "Trump and Rubio weigh firing Kimberly Guilfoyle after reports of improper conduct",
-   "url": "https://www.theguardian.com/us-news/2026/oct/11/trump-rubio-weigh-firing-kimberly-guilfoyle",
-   "summary": "Senior official says president and US secretary of state are \u2018extremely pissed off\u2019 by conduct of US envoy to GreeceDonald Trump and Marco Rubio, the secretary of state, are considering firing US ambassador to Greece Kimberly Guilfoyle after a series of reports alleging she has engaged in improper and possibly illegal conduct before and during her tenure in Athens.A senior US official said Sunday that Trump and Rubio are \u201cextremely pissed off\u201d by Guilfoyle\u2019s reported conduct and would likely decide on what action to take this week after Monday\u2019s federal holiday. Continue reading...",
-   "published": "2026-10-11T18:34:10+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-10-11T18:58:05.684745+00:00"
-  },
-  {
-   "id": "a3f228cc82c4f94a",
-   "title": "Zelensky 'awaiting details' from US on Russia-Ukraine energy ceasefire claimed by Trump",
-   "url": "https://thehill.com/policy/international/6141551-ukraine-reacts-trump-russia-deal/",
-   "summary": "Ukrainian President Volodymyr Zelensky said Sunday that Kyiv is awaiting details from Washington about an energy ceasefire with Russia announced by President Trump, casting uncertainty over an agreement the president claimed had already taken effect. \u201cUkraine supports the ceasefire, and it\u2019s important for Russia to support it as well. We are awaiting details from the...",
-   "published": "2026-10-11T18:30:39+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-11T18:58:05.912537+00:00"
-  },
-  {
-   "id": "68542c94dd656041",
-   "title": "Abdul El-Sayed: Democrats must \u2018win by massive numbers\u2019 to fend off Trump election denial",
-   "url": "https://www.theguardian.com/us-news/2026/oct/11/abdul-el-sayed-democrats-must-win-by-massive-numbers",
-   "summary": "Democratic Senate candidate\u2019s remarks come as Trump has long baselessly claimed his 2020 election loss was stolenDemocrats must \u201cwin by massive numbers\u201d during November\u2019s federal midterm elections because Donald Trump and his Republican allies are bound to try to sow doubt about the integrity of the results, Democratic Senate candidate Abdul El-Sayed of Michigan said on Sunday.El-Sayed\u2019s comments on NBC\u2019s Meet the Press came with the Democrats favored to win control of the House of Representatives during the 3 November midterms \u2013 and polls show that the party could also win Senate seats in sta",
-   "published": "2026-10-11T17:23:28+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-10-11T18:58:05.684755+00:00"
-  },
-  {
-   "id": "8fac10456ebcc3ed",
-   "title": "Mullin says livestreaming Hasan execution is part of 'restoring American values'",
-   "url": "https://thehill.com/homenews/administration/6141440-mullin-backs-hasan-execution-livestream/",
-   "summary": "Department of Homeland Security (DHS) Secretary Markwayne Mullin stood behind the Trump administration\u2019s decision to livestream the military execution of convicted Fort Hood shooter Nidal Hasan, despite growing bipartisan criticism over the plan. In an interview with CBS News\u2019s \u201cFace the Nation\u201d on Sunday, Mullin dismissed concerns coming from across party lines that publicizing Hasan\u2019s...",
-   "published": "2026-10-11T16:46:48+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-11T18:58:05.912574+00:00"
-  },
-  {
-   "id": "0f458be390f90275",
-   "title": "'Catfish Girl' Hannah Barron plays the hits with bowfishing influencer content in her bikini",
-   "url": "https://www.foxnews.com/outkick-sports/catfish-girl-hannah-barron-plays-hits-bowfishing-influencer-content-bikini",
-   "summary": "Hannah Barron brought back her viral bowfishing content paired with her new bikini line, proving the outdoor influencer knows how to play the hits.",
-   "published": "2026-10-11T16:32:32+00:00",
-   "source": "Fox News Latest",
-   "source_id": "foxnews-latest",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-10-11T18:58:05.263344+00:00"
   }
  ]
 }
