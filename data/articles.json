@@ -1,7 +1,205 @@
 {
- "updated": "2026-10-26T17:09:44.675661+00:00",
- "count": 1072,
+ "updated": "2026-10-26T21:02:52.552732+00:00",
+ "count": 1075,
  "articles": [
+  {
+   "id": "2a76aa16b87d18a3",
+   "title": "Nicki Minaj's role in Trump's political circle divides fans",
+   "url": "https://thehill.com/homenews/campaign/6173145-nicki-minajs-role-in-trumps-political-circle-divides-fans/",
+   "summary": "In 2020, during his first term, Minaj said she would not \u201cjump on the Donald Trump bandwagon.\"",
+   "published": "2026-10-26T20:53:31+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-26T21:02:51.770916+00:00"
+  },
+  {
+   "id": "020da2787a7e9240",
+   "title": "Lula mobilized millions to win Brazil's election, while Bolsonaro contests loss and Trump cries foul",
+   "url": "https://abcnews.com/Politics/wireStory/lula-mobilized-millions-win-brazils-election-bolsonaro-contests-137581442",
+   "summary": "Brazilian President Luiz In&aacute;cio Lula da Silva has won reelection in Brazil's presidential runoff",
+   "published": "2026-10-26T20:32:28+00:00",
+   "source": "ABC News Politics",
+   "source_id": "abc-politics",
+   "bias_note": "center",
+   "first_seen": "2026-10-26T21:02:52.317763+00:00"
+  },
+  {
+   "id": "ecfa546f0501842c",
+   "title": "Catholic bishops say White House prayer photo with Trump was used politically",
+   "url": "https://www.pbs.org/newshour/politics/catholic-bishops-say-white-house-prayer-photo-with-trump-was-used-politically",
+   "summary": "Two Catholic bishops have expressed regret that they agreed to a White House meeting that produced a publicly distributed photo of them praying with President Donald Trump.",
+   "published": "2026-10-26T20:02:13+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-10-26T21:02:52.019852+00:00"
+  },
+  {
+   "id": "39ca5d95d9ef4923",
+   "title": "ROBERT F KENNEDY JR, DR MEHMET OZ: 250 hospitals join the fight for healthier food",
+   "url": "https://www.foxnews.com/opinion/robert-f-kennedy-jr-dr-mehmet-oz-250-hospitals-join-fight-healthier-food",
+   "summary": "Over 250 hospitals joined the Make Hospital Food Healthier Pledge to cut processed food and added sugar from patient meals under Trump&apos;s health agenda.",
+   "published": "2026-10-26T20:00:32+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-10-26T21:02:51.181266+00:00"
+  },
+  {
+   "id": "8132e57e8be7a86f",
+   "title": "6 citizens sue Trump over media ban, saying it deprives them of news as audience stakeholders",
+   "url": "https://www.pbs.org/newshour/politics/6-citizens-sue-trump-over-media-ban-saying-it-deprives-them-of-news-as-audience-stakeholders",
+   "summary": "In the increasingly bitter legal standoff between President Donald Trump and media outlets whose reporting he dislikes, a new and crucial third party has emerged: citizens who watch and read the news and need it to do their jobs.",
+   "published": "2026-10-26T19:36:22+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-10-26T21:02:52.019865+00:00"
+  },
+  {
+   "id": "f24183a1a565ca57",
+   "title": "Democrats, world leaders congratulate Trump critic Lula on reelection in Brazil",
+   "url": "https://thehill.com/policy/international/6172962-lula-wins-brazilian-presidency/",
+   "summary": "Democratic lawmakers in the U.S. and leaders around the world congratulated Brazilian President Luiz In\u00e1cio Lula da Silva, commonly known as Lula, for winning an unprecedented fourth term Sunday. Lula, an outspoken critic of President Trump, defeated Fl\u00e1vio Bolsonaro in Sunday\u2019s runoff election. Bolsonaro is the son of Brazil\u2019s former far-right leader Jair Bolsonaro, who\u00a0is...",
+   "published": "2026-10-26T18:59:57+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-26T21:02:51.770985+00:00"
+  },
+  {
+   "id": "985688b367be0f72",
+   "title": "Obama judge rules Trump DOJ illegally fired James Comey's daughter, rejects sweeping Article II claim",
+   "url": "https://www.foxnews.com/politics/obama-judge-rules-trump-doj-illegally-fired-james-comeys-daughter-rejects-sweeping-article-ii-claim",
+   "summary": "The Trump Justice Department fired Maurene Comey without cause, but a federal judge ruled it violated the Civil Service Reform Act and ordered backpay.",
+   "published": "2026-10-26T18:41:05+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-10-26T21:02:51.163069+00:00"
+  },
+  {
+   "id": "658a40ed2174abd4",
+   "title": "Judge says DOJ illegally fired the daughter of former FBI director Comey",
+   "url": "https://www.npr.org/2026/10/26/g-s1-149960/judge-maurene-comey-illegal-dismissal",
+   "summary": "Maurene Comey served as a federal prosecutor in Manhattan for around a decade. A judicial ruling finding her dismissal unlawful adds to concerns of politically motivated firings at the DOJ.",
+   "published": "2026-10-26T18:38:01+00:00",
+   "source": "NPR Politics",
+   "source_id": "npr-politics",
+   "bias_note": "center",
+   "first_seen": "2026-10-26T21:02:51.554328+00:00"
+  },
+  {
+   "id": "27d10e2812e214d3",
+   "title": "President Trump Puts Mississippi First with Historic Tax Cuts, Surging Investment, and Stronger Communities",
+   "url": "https://www.whitehouse.gov/releases/2026/10/president-trump-puts-mississippi-first-with-historic-tax-cuts-surging-investment-and-stronger-communities/",
+   "summary": "Today, President Donald J. Trump returns to the Magnolia State to highlight a proven record of results that put Mississippi workers, families, seniors, farmers, and communities first. Under the leadership of President Trump and Republicans, Mississippians are benefiting from historic tax relief, surging private investment and job creation, stronger rural healthcare, major support for farmers, [&#8230;]\nThe post President Trump Puts Mississippi First with Historic Tax Cuts, Surging Investment, and Stronger Communities appeared first on The White House.",
+   "published": "2026-10-26T18:22:39+00:00",
+   "source": "WhiteHouse.gov News",
+   "source_id": "whitehouse",
+   "bias_note": "official/primary-source",
+   "first_seen": "2026-10-26T21:02:51.305776+00:00"
+  },
+  {
+   "id": "905ff8b91b1683bd",
+   "title": "Schiff accuses DOJ of trying to 'subvert' elections as GOP alleges same-name candidate meant to confuse voters",
+   "url": "https://www.foxnews.com/politics/schiff-accuses-doj-trying-subvert-elections-gop-alleges-same-name-candidate-meant-confuse-voters",
+   "summary": "Adam Schiff accuses Trump&apos;s DOJ of trying to subvert Alaska&apos;s Senate election over a namesake Dan Sullivan candidacy that could confuse voters.",
+   "published": "2026-10-26T18:10:40+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-10-26T21:02:51.163077+00:00"
+  },
+  {
+   "id": "6584ddfeccd3e6d0",
+   "title": "Vance, Harris top early 2028 White House race polling",
+   "url": "https://thehill.com/homenews/campaign/6173025-vance-harris-white-house-polling/",
+   "summary": "Vice President Vance and Secretary of State Marco Rubio are at the top of early polling for the GOP presidential nod in 2028, while former Vice President Kamala Harris leads a wide-open Democratic field.\u00a0 A New York Times/Siena University survey released last week found Vance with 33 percent support from Republican primary voters, 10 points...",
+   "published": "2026-10-26T17:58:01+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-26T21:02:51.770991+00:00"
+  },
+  {
+   "id": "6f013b9295e1adb6",
+   "title": "Trump's not on the ballot but swing state voters still cast ballots with MAGA in mind",
+   "url": "https://www.foxnews.com/politics/trumps-not-ballot-swing-state-voters-still-cast-ballots-maga-mind",
+   "summary": "Pennsylvania voters say they&apos;re voting Democratic in the midterms to rein in Donald Trump, even though some admit they don&apos;t trust the party.",
+   "published": "2026-10-26T17:55:39+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-10-26T21:02:51.163081+00:00"
+  },
+  {
+   "id": "5b7c55513e876992",
+   "title": "6 citizens sue Trump over White House bans on news outlets",
+   "url": "https://thehill.com/regulation/court-battles/6172985-citizens-sue-trump-white-house-bans/",
+   "summary": "Six individual citizens \u2014 a civics teacher, a legal journalist, a student journalist, a human rights advocate, a historian and a media watchdog \u2014 are suing the president and Trump administration officials over the White House\u2019s bans and restrictions on the press, according to the lawsuit filed Monday. The complaint, which named President Trump alongside...",
+   "published": "2026-10-26T17:55:12+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-26T21:02:51.770997+00:00"
+  },
+  {
+   "id": "a7b41504a28b2791",
+   "title": "Massie says he'll move to impeach Hegseth if he's not gone after midterms",
+   "url": "https://thehill.com/homenews/house/6172957-massie-hegseth-impeachment-midterms/",
+   "summary": "Republican Rep. Thomas Massie (Ky.), on Monday indicated he would reintroduce articles of impeachment against Defense Secretary Pete Hegseth should he remain at the Pentagon after Congress returns to Washington, D.C., following the November midterm elections. Massie, who kicked off the impeachment process against Hegseth in September over the war in Iran, wrote on social...",
+   "published": "2026-10-26T17:37:05+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-26T21:02:51.771003+00:00"
+  },
+  {
+   "id": "f965fa28583a8a00",
+   "title": "Trump heads to Mississippi as the two parties prepare for final sprint ahead of midterm Election Day",
+   "url": "https://abcnews.com/Politics/wireStory/trump-heads-mississippi-parties-prepare-final-sprint-ahead-137576849",
+   "summary": "President Donald Trump is heading to Mississippi, as he continues a closing midterm campaign blitz that highlights Republicans&rsquo; challenges ahead of an election that could drastically shift power in Washington and statehouses across the country",
+   "published": "2026-10-26T17:30:54+00:00",
+   "source": "ABC News Politics",
+   "source_id": "abc-politics",
+   "bias_note": "center",
+   "first_seen": "2026-10-26T21:02:52.317769+00:00"
+  },
+  {
+   "id": "7a3ee04f94a30ed2",
+   "title": "Mike Rogers deflects as Kristen Welker presses him on if he's 'MAGA'",
+   "url": "https://thehill.com/opinion/lindseys-lens/6172912-rogers-dodges-maga-question/",
+   "summary": "Rogers wants Trump\u2019s endorsement without necessarily owning Trump\u2019s agenda, and so from now until Election Day, it seems the strategy is deflect, deflect, deflect.",
+   "published": "2026-10-26T17:17:26+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-26T21:02:51.771021+00:00"
+  },
+  {
+   "id": "1daf1afcbff3c828",
+   "title": "House Democrats call for special counsel to investigate Trump's ties to Epstein",
+   "url": "https://thehill.com/homenews/house/6172897-house-democrats-trump-epstein-special-counsel/",
+   "summary": "Democrats on the House Judiciary Committee are calling for a special counsel to investigate President Trump\u2019s alleged ties to convicted sex offender Jeffrey Epstein, in a report released Monday.\u00a0 Democrats claimed that out of the 11 women who have tied Trump to Epstein\u2019s crimes of sexual abuse and exploitation, five of them have \u201cdirectly accused...",
+   "published": "2026-10-26T17:15:26+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-26T21:02:51.771026+00:00"
+  },
+  {
+   "id": "d601a801b72763fa",
+   "title": "Trump DOJ illegally fired ex-FBI director's daughter, Maurene Comey, as a federal prosecutor, judge rules",
+   "url": "https://www.pbs.org/newshour/politics/trump-doj-illegally-fired-ex-fbi-directors-daughter-maurene-comey-as-a-federal-prosecutor-judge-rules",
+   "summary": "The judge noted that Comey had worked on some of the nation's highest-profile cases and consistently received stellar reviews.",
+   "published": "2026-10-26T17:11:17+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-10-26T21:02:52.019875+00:00"
+  },
   {
    "id": "75b0edcf8c6437c9",
    "title": "Greene says 'Trump has become a curse to Republican candidates' ahead of election day",
@@ -23,6 +221,17 @@
    "source_id": "thehill",
    "bias_note": "center",
    "first_seen": "2026-10-26T17:09:43.458490+00:00"
+  },
+  {
+   "id": "c861d058055c548e",
+   "title": "From Coast to Coast, President Trump Is Putting American Industry Back on the Map",
+   "url": "https://www.whitehouse.gov/releases/2026/10/from-coast-to-coast-president-trump-is-putting-american-industry-back-on-the-map/",
+   "summary": "President Donald J. Trump is delivering an America First surge of manufacturing, energy, agriculture, semiconductor, shipbuilding, and national security investments that are bringing production home, expanding domestic capacity, and locking in American jobs. These commitments build on the trillions in private investment the Trump Administration has secured since taking office \u2014 proving that when America [&#8230;]\nThe post From Coast to Coast, President Trump Is Putting American Industry Back on the Map appeared first on The White House.",
+   "published": "2026-10-26T17:06:13+00:00",
+   "source": "WhiteHouse.gov News",
+   "source_id": "whitehouse",
+   "bias_note": "official/primary-source",
+   "first_seen": "2026-10-26T21:02:51.305781+00:00"
   },
   {
    "id": "917fc28c29fb0837",
@@ -78,6 +287,17 @@
    "source_id": "thehill",
    "bias_note": "center",
    "first_seen": "2026-10-26T17:09:43.458515+00:00"
+  },
+  {
+   "id": "a382704f9e64c8e1",
+   "title": "Maurene Comey was illegally fired as federal prosecutor, judge rules",
+   "url": "https://www.theguardian.com/us-news/2026/oct/26/maureen-comey-firing-judge-ruling",
+   "summary": "Daughter of ex-FBI director James Comey, a Trump foe, was dismissed in 2025 despite her work being widely praisedMaurene Comey, the daughter of the former FBI director James Comey, was unlawfully fired from her job as a federal prosecutor in New York last year, a federal judge ruled on Monday.Judge Jesse Furman said that Comey, who was an assistant US attorney for a decade, was illegally fired in July 2025 despite her work on some of the nation\u2019s highest-profile cases and consistently receiving \u201cthe highest accolades from supervisors and peers alike\u201d. Continue reading...",
+   "published": "2026-10-26T16:31:05+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-10-26T21:02:51.611931+00:00"
   },
   {
    "id": "fed7fc9be1a3b8bb",
@@ -11606,193 +11826,6 @@
    "source_id": "thehill",
    "bias_note": "center",
    "first_seen": "2026-10-12T23:01:59.058661+00:00"
-  },
-  {
-   "id": "d7c077d02d62a991",
-   "title": "Watch live: Trump rallies in Ohio, seeking to boost GOP in midterm battles",
-   "url": "https://thehill.com/homenews/6143708-watch-live-donald-trump-ohio-rally-husted-ramaswamy-2026-midterms/",
-   "summary": "President Trump is returning to Ohio Monday evening, as Republicans fight to defend two key seats in a state that has emerged as an unexpected midterm battleground. He is expected to campaign alongside Sen. Jon Husted (R-Ohio), just days after Vice President Vance rallied voters in the Buckeye State. The visits come as Husted trails...",
-   "published": "2026-10-12T21:00:00+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-12T23:01:59.058673+00:00"
-  },
-  {
-   "id": "d76a4baae67f795f",
-   "title": "Mailers promoting a socialist candidate in Ohio Senate race have links to MAGA super PAC vendor",
-   "url": "https://www.pbs.org/newshour/politics/mailers-promoting-a-socialist-candidate-in-ohio-senate-race-have-links-to-maga-super-pac-vendor",
-   "summary": "The mailers are sponsored by Enough Promises Ohio PAC and began arriving in voters' mailboxes in recent days.",
-   "published": "2026-10-12T20:55:09+00:00",
-   "source": "PBS NewsHour Politics",
-   "source_id": "pbs-politics",
-   "bias_note": "center",
-   "first_seen": "2026-10-12T23:01:59.266116+00:00"
-  },
-  {
-   "id": "5ab465816c2d5c86",
-   "title": "Bisignano vows Social Security will last another 90 years",
-   "url": "https://thehill.com/newsletters/business-economy/6143939-bisignano-vows-social-security-will-last-another-90-years/",
-   "summary": "Welcome to The Hill's Business &#038; Economy newsletter {beacon} Business &#038; Economy Business &#038; Economy &#8202; The Big Story  Bisignano vows Social Security will last another 90 years Frank Bisignano, the commissioner of the Social Security Administration (SSA), said Monday the program will last another 90 years.  \u00a9 AP Photo/Mariam Zuhaib \u201cThis is a long...",
-   "published": "2026-10-12T20:38:25+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-12T23:01:59.058678+00:00"
-  },
-  {
-   "id": "f8f7d6d0dc5d3aa9",
-   "title": "US military archbishop: Streamed execution threatens to 'imitate the terrorists'",
-   "url": "https://thehill.com/policy/defense/6143724-archbishop-opposes-hasan-execution-stream/",
-   "summary": "Archbishop Timothy P. Broglio, head of the Archdiocese for the Military Services, on Monday said he does not approve of the Trump administration\u2019s decision to livestream the military execution of convicted Fort Hood shooter Nidal Hasan, warning that it could \"imitate the terrorists.\" Broglio said in a statement released by the Archdiocese for the Military...",
-   "published": "2026-10-12T20:09:12+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-12T20:10:20.774487+00:00"
-  },
-  {
-   "id": "6ca6bfea0116bec5",
-   "title": "Federal judge orders Trump administration to halt work for a day on historic D.C. golf course",
-   "url": "https://www.pbs.org/newshour/politics/federal-judge-orders-trump-administration-to-halt-work-for-a-day-on-historic-d-c-golf-course",
-   "summary": "U.S. District Judge Ana Reyes on Monday ordered a 24-hour halt to tree-cutting at the East Potomac Golf Course, a historic D.C. golf course that has been part of President Donald Trump's plans to remake the city.",
-   "published": "2026-10-12T19:31:53+00:00",
-   "source": "PBS NewsHour Politics",
-   "source_id": "pbs-politics",
-   "bias_note": "center",
-   "first_seen": "2026-10-12T20:10:21.265413+00:00"
-  },
-  {
-   "id": "3749b06c1662d973",
-   "title": "Trump set to rally in Georgia to support Collins in Senate race",
-   "url": "https://thehill.com/homenews/campaign/6143646-trump-georgia-senarte-rally-collins-ossoff/",
-   "summary": "The Republican National Convention confirmed the president will travel to Georgia on Oct. 16 for a rally.",
-   "published": "2026-10-12T19:17:52+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-12T20:10:20.774529+00:00"
-  },
-  {
-   "id": "0ca4b33e5dc607e1",
-   "title": "Zelensky unleashes on Trump as Russia diesel deal rallies Ukraine\u2019s supporters",
-   "url": "https://thehill.com/policy/international/6143601-zelensky-trump-russia-diesel-deal/",
-   "summary": "Kyiv\u2019s allies, including those in President Trump\u2019s circle, are rallying around Ukrainian President Volodymyr Zelensky, pushing back against Trump\u2019s diesel deal with Russia and threats to cut off weapons and intelligence sharing to Ukraine.  Zelensky, buoyed by the support, has unleashed criticism against Trump, calling the president \u201cweak\u201d for making a deal with Russian President...",
-   "published": "2026-10-12T19:09:02+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-12T20:10:20.774540+00:00"
-  },
-  {
-   "id": "f1ab9c8e26868404",
-   "title": "Judge orders the Trump administration to cancel taxpayer-funded TV ads",
-   "url": "https://www.pbs.org/newshour/politics/judge-orders-the-trump-administration-to-cancel-taxpayer-funded-tv-ads",
-   "summary": "President Donald Trump must cancel any remaining television commercials paid for with millions of dollars in taxpayer money to promote his political message, a federal judge ordered Sunday night.",
-   "published": "2026-10-12T19:00:14+00:00",
-   "source": "PBS NewsHour Politics",
-   "source_id": "pbs-politics",
-   "bias_note": "center",
-   "first_seen": "2026-10-12T20:10:21.265426+00:00"
-  },
-  {
-   "id": "87eafea9e4647f92",
-   "title": "Democrats hammer Trump for late-election raid on Omar\u2019s home",
-   "url": "https://thehill.com/homenews/house/6143543-democrats-condemn-omar-investigation-timing/",
-   "summary": "Democrats are up in arms this week after federal agents raided the home of Rep. Ilhan Omar (D-Minn.), accusing the Trump administration of weaponizing the government to go after political adversaries. The Democrats are particularly piqued that the operation, conducted Monday morning by agents of U.S. Immigration and Customs Enforcement (ICE), took place just weeks...",
-   "published": "2026-10-12T18:55:26+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-12T20:10:20.774553+00:00"
-  },
-  {
-   "id": "72025a10c271d163",
-   "title": "Bill Maher reveals he's having dinner with Trump again, says he was 'really nice' by text",
-   "url": "https://www.foxnews.com/media/bill-maher-reveals-dinner-trump-says-really-nice-text",
-   "summary": "Liberal comedian Bill Maher revealed on his &quot;Club Random&quot; podcast that President Donald Trump invited him back for another White House dinner.",
-   "published": "2026-10-12T18:36:38+00:00",
-   "source": "Fox News Latest",
-   "source_id": "foxnews-latest",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-10-12T20:10:19.303300+00:00"
-  },
-  {
-   "id": "30f7cab09c33db92",
-   "title": "Democrat rips 'insanely corrupt' raid on Omar's home",
-   "url": "https://thehill.com/homenews/administration/6143427-beyer-calls-omar-raid-corrupt/",
-   "summary": "Rep. Don Beyer (D-Va.) slammed the federal raid on Rep. Ilhan Omar\u2019s (D-Minn.) home as \u201cinsanely corrupt\u201d in a post on social media Monday. \u201cAs [President] Trump\u2019s popularity craters amid rising prices and his deeply unpopular war, everything he does is an attempt to distract his remaining followers,\u201d Beyer wrote in a post on the...",
-   "published": "2026-10-12T18:18:25+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-12T20:10:20.774577+00:00"
-  },
-  {
-   "id": "59493b4f3a6a46ac",
-   "title": "Biden-appointed judge with history of fiery Trump clashes erupts at DOJ: 'You've lost all credibility!'",
-   "url": "https://www.foxnews.com/politics/biden-appointed-judge-history-fiery-trump-clashes-erupts-doj-lost-all-credibility",
-   "summary": "Judge Ana Reyes screamed at government lawyers over 430 trees cut down at East Potomac Golf Links, demanding answers about late Friday notification.",
-   "published": "2026-10-12T18:07:28+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-10-12T20:10:19.202346+00:00"
-  },
-  {
-   "id": "2d2aae1637742cf2",
-   "title": "Democrats rebuke federal raid of Ilhan Omar\u2019s home: \u2018rogue abuse of power\u2019",
-   "url": "https://www.theguardian.com/us-news/2026/oct/12/democrats-reaction-ilhan-omar-federal-raid-home-trump",
-   "summary": "Top House Democrats question the \u2018corrupt weaponization\u2019 of federal government against Trump\u2019s adversariesIlhan Omar\u2019s Democratic colleagues have condemned federal agents\u2019 search of the Minnesota congresswoman\u2019s home on Monday morning, describing it as \u201cdeeply disturbing\u201d and emblematic of the Trump administration\u2019s \u201ccorrupt weaponization\u201d of the US government.House Democratic leaders, including minority leader Hakeem Jeffries, party whip Katherine Clark and caucus chair Pete Aguilar, issued a joint statement excoriating the president for the search. Continue reading...",
-   "published": "2026-10-12T17:57:28+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-10-12T20:10:20.367773+00:00"
-  },
-  {
-   "id": "b92a04fb4cfa3f9e",
-   "title": "Republican lawmakers break with Trump on diesel deal with Russia",
-   "url": "https://www.foxnews.com/politics/republican-lawmakers-break-trump-diesel-deal-russia",
-   "summary": "Some Republican lawmakers voiced staunch opposition after United States President Donald Trump announced a diesel agreement with Russia.",
-   "published": "2026-10-12T17:44:40+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-10-12T20:10:19.202353+00:00"
-  },
-  {
-   "id": "f2ac98522d6cd108",
-   "title": "Many GOP states have imposed voting rules mirroring Trump's midterm proposals",
-   "url": "https://www.pbs.org/newshour/politics/many-gop-states-have-imposed-voting-rules-mirroring-trumps-midterm-proposals",
-   "summary": "Nearly 40 laws are taking effect for the first time in this year's midterms, mostly in Republican-controlled states. Many of them mirror changes President Donald Trump tried but failed to implement at the national level.",
-   "published": "2026-10-12T17:27:25+00:00",
-   "source": "PBS NewsHour Politics",
-   "source_id": "pbs-politics",
-   "bias_note": "center",
-   "first_seen": "2026-10-12T20:10:21.265434+00:00"
-  },
-  {
-   "id": "780f22ebbdf014f0",
-   "title": "Many GOP states have imposed new voting rules this year, some mirroring Trump's midterm proposals",
-   "url": "https://abcnews.com/Politics/wireStory/gop-states-imposed-new-voting-rules-year-mirroring-137188408",
-   "summary": "Voters in more than 20 states will be faced this year with new laws for registering to vote and casting ballots",
-   "published": "2026-10-12T17:23:34+00:00",
-   "source": "ABC News Politics",
-   "source_id": "abc-politics",
-   "bias_note": "center",
-   "first_seen": "2026-10-12T20:10:22.029835+00:00"
-  },
-  {
-   "id": "80c57603dc061160",
-   "title": "Agents search Rep. Omar's D.C. home; DOJ says it's part of criminal investigation",
-   "url": "https://www.npr.org/2026/10/12/nx-s1-5998856/federal-agents-search-congressperson-home-dc-doj",
-   "summary": "The Justice Department says the search is part of an \"ongoing federal investigation,\" while Omar calls it \"an attempt to target political enemies.\"",
-   "published": "2026-10-12T17:17:17+00:00",
-   "source": "NPR Politics",
-   "source_id": "npr-politics",
-   "bias_note": "center",
-   "first_seen": "2026-10-13T16:04:01.247983+00:00"
   }
  ]
 }
