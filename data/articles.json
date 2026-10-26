@@ -1,7 +1,106 @@
 {
- "updated": "2026-10-25T20:55:33.401261+00:00",
- "count": 1052,
+ "updated": "2026-10-26T00:26:03.328497+00:00",
+ "count": 1053,
  "articles": [
+  {
+   "id": "0dfbb02e7a39c074",
+   "title": "Tillis says it's 'appropriate to take a look at' Alaska ballot with two Dan Sullivans running",
+   "url": "https://thehill.com/homenews/campaign/6170783-thom-tillis-look-at-alaska-ballot-with-two-dan-sullivans-running/",
+   "summary": "Sen. Thom Tillis (R-N.C.) on Sunday said it was \"appropriate to take a look at\" the outcome of the Alaska Senate race with two candidates with similar names on the ballot, which prompted a Department of Justice (DOJ) lawsuit. \"Alaska has a candidate who just coincidentally happens to be the same name as my friend...",
+   "published": "2026-10-25T23:46:52+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-26T00:26:02.264821+00:00"
+  },
+  {
+   "id": "c808a6c0198afe25",
+   "title": "Trump says El-Sayed should have to pass through metal detector to enter Senate",
+   "url": "https://thehill.com/homenews/administration/6171296-donald-trump-abdul-el-sayed-pass-through-metal-detector-to-enter-senate/",
+   "summary": "President Trump called out Michigan Senate candidate Abdul El-Sayed on Sunday, saying he should have to pass through a metal detector to enter the Senate building.\u00a0 \u201cAnyone with that record of support for jihadists would be screened and unable to get a seat on an airplane. They certainly should not give him a seat in...",
+   "published": "2026-10-25T22:52:30+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-26T00:26:02.264832+00:00"
+  },
+  {
+   "id": "db37df6aa9a40aa4",
+   "title": "Trump rallies for Mike Rogers \u2013 and Nicki Minaj\u2019s derriere \u2013 in Michigan",
+   "url": "https://www.theguardian.com/us-news/2026/oct/25/trump-nicki-minaj-mike-rogers-michigan-rally",
+   "summary": "Trump again congratulated Ohio senator\u2019s rear end before his cheeky comment about rapper being \u2018hard to miss\u2019Donald Trump reiterated his apparent love for buxom bums during a rally in Michigan on Sunday where he encouraged the crowd to compliment rapper Nicki Minaj\u2019s behind.Trump\u2019s cheeky comments about Minaj\u2019s derriere came as he explained his recent observation on the Republican Ohio senator Jon Husted\u2019s rear end. Earlier in October, Trump said of the former college football player: \u201cI don\u2019t do this with men very often. I started examining his body, because I didn\u2019t know he was a great athle",
+   "published": "2026-10-25T22:36:59+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-10-26T00:26:01.985502+00:00"
+  },
+  {
+   "id": "5c8574d08f3db61e",
+   "title": "Tillis accuses California of being 'guilty' of ballot harvesting: 'They have a system there that is ripe for abuse'",
+   "url": "https://thehill.com/homenews/senate/6170781-thom-tillis-accuses-california-of-ballot-harvesting/",
+   "summary": "Sen. Thom Tillis (R-N.C.) on Sunday accused the state of California of being \"guilty\" of ballot harvesting, claiming that the Golden State has \"a system there that is ripe for abuse.\" \"Face the Nation\" host Margaret Brennan asked about the Department of Justice's (DOJ) legal battle with the state over potential noncitizens on their voter...",
+   "published": "2026-10-25T22:18:13+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-26T00:26:02.264837+00:00"
+  },
+  {
+   "id": "1474b37cce130986",
+   "title": "Appeals court resists DOJ's bid to immediately segregate 20k California ballots",
+   "url": "https://thehill.com/regulation/court-battles/6171263-appeals-court-denies-emergency-california-hearing/",
+   "summary": "A federal appeals court appeared unlikely to immediately agree to the Trump administration\u2019s bid to segregate 20,000 California ballots it says are likely noncitizen voters, expressing skepticism at a rare Sunday hearing that a trial judge needs to move quicker. \u201cI don't see how we have jurisdiction,\u201d said U.S. Circuit Judge Mark Bennett.\u00a0 The Justice Department (DOJ) sued...",
+   "published": "2026-10-25T22:02:13+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-26T00:26:02.264843+00:00"
+  },
+  {
+   "id": "fcb81dc0bad97166",
+   "title": "Catholic bishops regret White House prayer photo with Trump, say it was used politically",
+   "url": "https://abcnews.com/Politics/wireStory/catholic-bishops-regret-white-house-prayer-photo-trump-137557990",
+   "summary": "Two Catholic bishops have expressed regret that they agreed to a White House meeting that produced a publicly distributed photo of them praying with President Donald Trump",
+   "published": "2026-10-25T21:54:06+00:00",
+   "source": "ABC News Politics",
+   "source_id": "abc-politics",
+   "bias_note": "center",
+   "first_seen": "2026-10-26T00:26:03.124477+00:00"
+  },
+  {
+   "id": "72a889c4ad5420a4",
+   "title": "Trump escalates rhetoric against El-Sayed as he tries to undermine Democrat in Michigan Senate race",
+   "url": "https://www.pbs.org/newshour/politics/trump-escalates-rhetoric-against-el-sayed-as-he-tries-to-undermine-democrat-in-michigan-senate-race",
+   "summary": "The Republican president has been attacking El-Sayed's faith throughout the campaign and claiming his past statements and background show a sympathy for extremists.",
+   "published": "2026-10-25T21:50:29+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-10-26T00:26:02.504107+00:00"
+  },
+  {
+   "id": "bc72c11b81e408e9",
+   "title": "Rogers dodges questions on MAGA label, Trump tariffs",
+   "url": "https://thehill.com/homenews/campaign/6171235-rogers-dodges-magar-label-interview/",
+   "summary": "Former Rep. Mike Rogers (R-Mich.) dodged questions on whether he identifies as a MAGA-Republican and avoided clarifying his position on President Trump\u2019s controversial tariffs against Canada ahead of his competitive race against Democrat Abdul El-Sayed in Michigan\u2019s Senate race.\u00a0\u00a0 During a Sunday appearance on NBC\u2019s \u201cMeet the Press,\u201d Rogers was asked if he considered himself...",
+   "published": "2026-10-25T21:44:53+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-26T00:26:02.264848+00:00"
+  },
+  {
+   "id": "ee2f636285c6cf3f",
+   "title": "This week on the Hill: Trump, Obama lead final push before Election Day",
+   "url": "https://thehill.com/newsletters/this-week-on-the-hill/6169610-trump-obama-midterm-election-campaign/",
+   "summary": "It\u2019s the final full week before Election Day, and candidates are ramping up their campaigns with rallies, high-profile surrogates and a last round of debates. After a week of daily campaign events across the United States, President Trump is set to visit Corinth, Miss., on Monday, in support of Republican Sen. Cindy Hyde-Smith (Miss.). He...",
+   "published": "2026-10-25T21:00:00+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-26T00:26:02.264864+00:00"
+  },
   {
    "id": "85fc2618f9d8bd29",
    "title": "Iowa\u2019s Senate rivals pitch independence from their parties",
@@ -11485,94 +11584,6 @@
    "source_id": "thehill",
    "bias_note": "center",
    "first_seen": "2026-10-12T06:05:32.947601+00:00"
-  },
-  {
-   "id": "1dab89155621abec",
-   "title": "Judge orders cancellation of Trump\u2019s government-funded ads",
-   "url": "https://thehill.com/regulation/court-battles/6141904-judge-blocks-trump-ads/",
-   "summary": "A federal judge on Sunday told the Trump administration its new ads featuring the president are likely unlawful and\u00a0must stop \u2014 including any set to be aired later in the day.\u00a0 The administration had indicated the ad campaign is set to end on Sunday, so there was no need for the judge to intervene.\u00a0 In...",
-   "published": "2026-10-12T00:20:38+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-12T06:05:32.947607+00:00"
-  },
-  {
-   "id": "3d08f5d8df5c5da4",
-   "title": "Minnesota homecoming shooting suspect out on bond after gunfire sends football fans fleeing",
-   "url": "https://www.foxnews.com/us/minnesota-homecoming-shooting-suspect-bond-gunfire-sends-football-fans-fleeing",
-   "summary": "Adam Abdihakeem Adam posted bond two days after his arrest in the Eden Prairie homecoming shooting, drawing sharp criticism from President Donald Trump&apos;s team.",
-   "published": "2026-10-11T23:25:53+00:00",
-   "source": "Fox News Latest",
-   "source_id": "foxnews-latest",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-10-11T23:42:43.889727+00:00"
-  },
-  {
-   "id": "69595df3b42687dc",
-   "title": "Trump and Rubio weigh firing Kimberly Guilfoyle as misconduct and donor bailout allegations mount",
-   "url": "https://www.foxnews.com/politics/trump-rubio-weigh-firing-kimberly-guilfoyle-misconduct-donor-bailout-allegations-mount",
-   "summary": "Kimberly Guilfoyle faces mounting allegations in Greece as JD Vance and Marco Rubio weigh in on the embattled ambassador&apos;s growing controversies.",
-   "published": "2026-10-11T22:55:22+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-10-11T23:42:43.842364+00:00"
-  },
-  {
-   "id": "08cb571284d701f0",
-   "title": "Lawmakers in bipartisan statement push back on Trump over Russian oil",
-   "url": "https://thehill.com/homenews/senate/6141837-senate-lawmakers-condemn-russian-oil-deal/",
-   "summary": "A bipartisan group of seven lawmakers on the Senate Foreign Relations Committee condemned President Trump\u2019s recent deal with Russian President Vladimir Putin, which would lift sanctions on Russia and permit the flow of its oil into the global economy.\u00a0 \u201cCongress explicitly banned Russian energy imports in 2022 to prevent American dollars from financing Putin\u2019s brutal...",
-   "published": "2026-10-11T22:54:10+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-11T23:42:45.938480+00:00"
-  },
-  {
-   "id": "56d8829cef76e183",
-   "title": "Trump Russia deal could fuel Putin's war, ex-NATO commander warns as Zelenskyy says 'nyet'",
-   "url": "https://www.foxnews.com/world/trump-russia-deal-could-fuel-putins-war-ex-nato-commander-warns-zelenskyy-says-nyet",
-   "summary": "Donald Trump&apos;s energy ceasefire could hand Vladimir Putin fresh revenue to fuel Russia&apos;s war in Ukraine, former NATO commander Breedlove warns.",
-   "published": "2026-10-11T21:56:55+00:00",
-   "source": "Fox News Latest",
-   "source_id": "foxnews-latest",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-10-11T23:42:43.889770+00:00"
-  },
-  {
-   "id": "06daf636c421d273",
-   "title": "Trump claims Russia and Ukraine agree to 'energy ceasefire' despite continued attacks",
-   "url": "https://www.pbs.org/newshour/world/trump-claims-russia-and-ukraine-agree-to-energy-ceasefire-despite-continued-attacks",
-   "summary": "Moscow did not immediately comment. Ukrainian President Volodymyr Zelenskyy said that while his country \"welcomed\" the announcement by Trump as \"good news for everyone,\" Russia was still hitting energy infrastructure in Kyiv and in the city of Kharkiv.",
-   "published": "2026-10-11T21:25:24+00:00",
-   "source": "PBS NewsHour Politics",
-   "source_id": "pbs-politics",
-   "bias_note": "center",
-   "first_seen": "2026-10-11T23:42:46.002756+00:00"
-  },
-  {
-   "id": "2107fa369ab93a57",
-   "title": "This week on the Hill: Midterm debates, Trump Alaska trip take center stage",
-   "url": "https://thehill.com/newsletters/this-week-on-the-hill/6139807-midterm-elections-debates-trump-alaska/",
-   "summary": "Senate and House debates return to center stage this week as candidates nationwide make their cases to voters less than a month before Election Day. The spotlight turns to contests in Iowa, Maine and New York, as both parties fight for control of Congress. President Trump, meanwhile, is set to campaign about as far from...",
-   "published": "2026-10-11T21:00:00+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-11T23:42:45.938506+00:00"
-  },
-  {
-   "id": "4ef56b4c78f981d3",
-   "title": "Presidential Message on General Pulaski Memorial Day",
-   "url": "https://www.whitehouse.gov/briefings-statements/2026/10/presidential-message-on-general-pulaski-memorial-day/",
-   "summary": "Today, we honor the heroic life and legacy of Brigadier General Casimir Pulaski\u2014a son of Poland turned American warrior, a father of Independence, and a martyr of Liberty, whose courage breathed life into the Continental Army, advancing the sacred cause of freedom during the Revolutionary War. Born in Warsaw, Poland, in 1745, Casimir Pulaski proved [&#8230;]\nThe post Presidential Message on General Pulaski Memorial Day appeared first on The White House.",
-   "published": "2026-10-11T21:00:00+00:00",
-   "source": "WhiteHouse.gov News",
-   "source_id": "whitehouse",
-   "bias_note": "official/primary-source",
-   "first_seen": "2026-10-13T21:18:43.715530+00:00"
   }
  ]
 }
