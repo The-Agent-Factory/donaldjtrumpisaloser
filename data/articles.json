@@ -1,7 +1,216 @@
 {
- "updated": "2026-10-26T15:14:38.269943+00:00",
- "count": 1060,
+ "updated": "2026-10-26T17:09:44.675661+00:00",
+ "count": 1072,
  "articles": [
+  {
+   "id": "75b0edcf8c6437c9",
+   "title": "Greene says 'Trump has become a curse to Republican candidates' ahead of election day",
+   "url": "https://thehill.com/homenews/administration/6172800-greene-criticizes-trump-midterms/",
+   "summary": "Former Rep. Marjorie Taylor Greene (R-Ga.) criticized President Trump on Sunday, saying he had \u201cbecome a curse to Republican candidates\u201d ahead the November midterm elections where the GOP are projected to lose the House.\u00a0 \u201cHe has no idea how bad he is doing in GA. And to threaten our state that he would refuse to...",
+   "published": "2026-10-26T17:07:16+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-26T17:09:43.458484+00:00"
+  },
+  {
+   "id": "d67146c335b6a020",
+   "title": "'Cheesecake Factory': Obama trashes Trump despite numerous failures",
+   "url": "https://thehill.com/opinion/robbys-radar/6172875-obama-trump-cheesecake-factory/",
+   "summary": "Who does Obama think he is?",
+   "published": "2026-10-26T17:06:34+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-26T17:09:43.458490+00:00"
+  },
+  {
+   "id": "917fc28c29fb0837",
+   "title": "Trump isn't done overhauling the White House \u2014 and his next move could hit the media where it works",
+   "url": "https://www.foxnews.com/politics/trump-isnt-done-overhauling-white-house-his-next-move-could-hit-media-where-works",
+   "summary": "Trump says he&apos;s considering relocating the White House press corps to a different location but denies plans to replace the briefing room with an indoor pool.",
+   "published": "2026-10-26T17:05:15+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-10-26T17:09:42.061809+00:00"
+  },
+  {
+   "id": "9ee3d5bf35bbe405",
+   "title": "Trump administration sued over refugee policy changes",
+   "url": "https://thehill.com/regulation/court-battles/6172794-advocacy-groups-sue-trump-refugee-policy/",
+   "summary": "Advocacy groups are suing the Trump administration over three policies they say have left refugees in \u201clegal limbo\u201d by blocking them from obtaining green cards and speeding up the process for terminating their lawful status. The class-action lawsuit, filed on Monday in Massachusetts, accuses the Department of Homeland Security (DHS) and U.S. Citizenship and Immigration...",
+   "published": "2026-10-26T17:02:12+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-26T17:09:43.458495+00:00"
+  },
+  {
+   "id": "b05e7d4da059bd85",
+   "title": "Pentagon presses Congress to keep measure changing name to 'Department of War'",
+   "url": "https://thehill.com/policy/defense/6172772-pentagon-pushes-department-war-name/",
+   "summary": "The Pentagon is pressing Congress to keep measures in the annual defense policy bill that would formally authorize the name change from Department of Defense to \"Department of War.\" \u201cPresident Donald Trump and Secretary of War Pete Hegseth had the conviction to say so plainly. Many in Washington would have left the name alone. The...",
+   "published": "2026-10-26T16:40:17+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-26T17:09:43.458509+00:00"
+  },
+  {
+   "id": "a7e41632869e9a9c",
+   "title": "Democrats, Tillis say Congress may investigate banks and ports for Russian diesel imports",
+   "url": "https://thehill.com/policy/energy-environment/6172712-tillis-russia-diesel-deal/",
+   "summary": "Democrats and outgoing Republican Sen. Thom Tillis (N.C.) are telling banks and ports that Congress may investigate imports of Russian diesel after President Trump said the U.S. would import the fuel. In letters to major banks and several U.S. port authorities, the lawmakers wrote that \u201cany importation of Russian diesel into the U.S. raises significant...",
+   "published": "2026-10-26T16:35:33+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-26T17:09:43.458512+00:00"
+  },
+  {
+   "id": "4911203f4f392bf9",
+   "title": "Trump, Vance go deep red 8 days out",
+   "url": "https://thehill.com/newsletters/1230-report/6172719-trump-vance-go-deep-red-8-days-out/",
+   "summary": "Plus: Trump, El-Sayed trade barbs {beacon} &#8202; It\u2019s Monday. Brazil's election was the big news overnight, but there's plenty to get caught up on in the U.S. today. Shall we? &#8202; In today's issue: Trump, Vance go deep red  El-Sayed, Trump trade barbs Minaj backs third Trump term  Jeffries warns Hegseth of impeachment  Programming note: Hello! I'm Elliott...",
+   "published": "2026-10-26T16:31:33+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-26T17:09:43.458515+00:00"
+  },
+  {
+   "id": "fed7fc9be1a3b8bb",
+   "title": "John Oliver on extremism and bigotry among Republicans: \u2018This party is at a crossroads\u2019",
+   "url": "https://www.theguardian.com/tv-and-radio/2026/oct/26/john-oliver-last-week-tonight-midterms-republicans",
+   "summary": "Last Week Tonight host looked into the rise of bigotry and neo-nazism within the party before critical midterm racesWith just a week to go until the US midterm elections, John Oliver used the entirety of his latest Last Week Tonight episode to focus on a \u201cworrying trend that\u2019s been on the rise\u201d within the Republican party, which has \u201cfound itself answering some uncomfortable questions about Nazi references\u201d, from a New York congressional candidate posting a photo of his grandfather in his Nazi uniform to mega-donor Elon Musk\u2019s infamous apparent Nazi salute at a Trump rally in 2025.\u201cEverything ",
+   "published": "2026-10-26T16:30:08+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-10-26T17:09:43.080361+00:00"
+  },
+  {
+   "id": "4ced7faa7074826f",
+   "title": "Judge rules James Comey's daughter unlawfully fired as federal prosecutor",
+   "url": "https://thehill.com/regulation/court-battles/6172624-maurene-comey-justice-department-unlawful-firing/",
+   "summary": "A federal judge ruled Monday that the Department of Justice (DOJ) unlawfully fired and must provide back pay to Maurene Comey, former FBI Director James Comey\u2019s daughter who was terminated as a prosecutor last year. U.S. District Judge Jesse Furman rejected the Trump administration\u2019s arguments that it had constitutional authority to fire her.  \u201cDefendants\u2019 argument is contrary...",
+   "published": "2026-10-26T16:17:54+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-26T17:09:43.458524+00:00"
+  },
+  {
+   "id": "76c83b0a8defa82a",
+   "title": "Trump's brutal Truth Social attack on Bill Maher after dinner sparks confusion online",
+   "url": "https://www.foxnews.com/media/trumps-brutal-truth-social-attack-bill-maher-after-dinner-sparks-confusion-online",
+   "summary": "President Donald Trump called Bill Maher a &quot;complete and total loser&quot; on Truth Social, after the two met for a dinner at the White House earlier this month.",
+   "published": "2026-10-26T16:17:24+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-10-26T17:09:42.127777+00:00"
+  },
+  {
+   "id": "678e38db796ffb9f",
+   "title": "Trump calls Bill Maher a \u2018total loser\u2019 in 1,300-word Truth Social rant",
+   "url": "https://www.theguardian.com/us-news/2026/oct/26/trump-bill-maher-truth-social-rant",
+   "summary": "Trump lashes out on Maher after the host interviewed former White House press secretary Karoline LeavittDonald Trump launched a 1,300-word social media rant against the late-night US TV host Bill Maher on Sunday evening, calling him a \u201cTOTAL LOSER\u201d in a fresh assault on the media.\u201cLet\u2019s talk about this COMPLETE AND TOTAL LOSER, Bill Maher,\u201d the US president wrote. \u201cHe\u2019s got a Low Rated Show on equally Low Rated HBO, which was once, long ago, a Network of Quality and Excitement \u2013 But that\u2019s all gone.\u201d Continue reading...",
+   "published": "2026-10-26T16:11:30+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-10-26T17:09:43.080371+00:00"
+  },
+  {
+   "id": "d9af3acff9b877f8",
+   "title": "World leaders scoff at Trump mulling Orb\u00e1n as UN secretary-general",
+   "url": "https://thehill.com/policy/international/6172596-world-leaders-scoff-orban-unsg/",
+   "summary": "World leaders scoffed at President Trump reportedly mulling the idea of nominating his ally former Hungarian Prime Minister Viktor Orb\u00e1n as the United Nations secretary-general. Polish Prime Minister Donald Tusk called the possibility \u201cfunny,\u201d adding \u201cjust a moment ago, he was a candidate for president of the European Commission,\u201d according to Politico. He was referring...",
+   "published": "2026-10-26T16:10:31+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-26T17:09:43.458528+00:00"
+  },
+  {
+   "id": "221149d3d47bdd35",
+   "title": "Billy Crystal: Trump's Kennedy Center moves 'so selfish and so petty'",
+   "url": "https://thehill.com/blogs/in-the-know/6172595-billy-crystal-trumps-kennedy-center/",
+   "summary": "Billy Crystal \u2014 the recipient of two of the Kennedy Center's most prestigious awards \u2014 says what's happening at the Washington performing arts institution amid President Trump's legal battle \"really hurts.\" \"I'm one of the few who has been awarded the Mark Twain Prize and the Kennedy Honor with an elite group of people that...",
+   "published": "2026-10-26T16:07:36+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-26T17:09:43.458531+00:00"
+  },
+  {
+   "id": "960ad5bbc40461c7",
+   "title": "Trump to return to South Carolina days ahead of election",
+   "url": "https://thehill.com/homenews/state-watch/6172625-trump-rock-hill-sc-rnc-graham-whatley/",
+   "summary": "The Republican National Committee announced Monday that President Trump will campaign in Rock Hill, S.C., on Thursday, marking his second trip to the Palmetto State within the span of a week. Trump campaigned last week in Clemson, in an effort to boost Sen. Darline Graham (R-S.C.) in her race against Democrat Annie Andrews. The campaign...",
+   "published": "2026-10-26T16:07:34+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-26T17:09:43.458533+00:00"
+  },
+  {
+   "id": "8fce2d708adb5b9f",
+   "title": "Nicki Minaj tells Trump she would support him if he could run for president again \u2013 video",
+   "url": "https://www.theguardian.com/us-news/video/2026/oct/26/nicki-minaj-joins-trump-rally-michigan-midterms-video",
+   "summary": "Rapper Nicki Minaj joined Donald Trump at a campaign rally in Michigan on 25 October 2026, a final stretch before the 2026 midterm elections, and doubled down her support for the president, saying she would back him again. Trump has recently seemed to concede that he's constitutionally prohibited from serving a third term Continue reading...",
+   "published": "2026-10-26T15:48:27+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-10-26T17:09:43.080468+00:00"
+  },
+  {
+   "id": "364a84731964ad8b",
+   "title": "Trump-appointed judge slams door on DOJ as court losses pile up days ahead of midterms",
+   "url": "https://www.foxnews.com/politics/trump-appointed-judge-slams-door-doj-court-losses-pile-up-days-ahead-midterms",
+   "summary": "A judge President Donald Trump appointed dismissed the DOJ&apos;s lawsuit against Utah Lt. Gov. Deidre Henderson over state voter data with prejudice.",
+   "published": "2026-10-26T15:44:25+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-10-26T17:09:42.061823+00:00"
+  },
+  {
+   "id": "0376997b8d3ddf26",
+   "title": "6 citizens sue Trump, saying media ban deprives them of news as audience stakeholders",
+   "url": "https://abcnews.com/Politics/wireStory/6-citizens-sue-trump-media-ban-deprives-news-137574277",
+   "summary": "A new lawsuit against President Donald Trump's media ban stakes a claim for the public itself",
+   "published": "2026-10-26T15:30:45+00:00",
+   "source": "ABC News Politics",
+   "source_id": "abc-politics",
+   "bias_note": "center",
+   "first_seen": "2026-10-26T17:09:44.447865+00:00"
+  },
+  {
+   "id": "e6275ea0a281d9d7",
+   "title": "Trump promised to stop inflation. Now Republicans may pay the price in the midterm elections",
+   "url": "https://www.pbs.org/newshour/politics/trump-promised-to-stop-inflation-now-republicans-may-pay-the-price-in-the-midterm-elections",
+   "summary": "Voters blame Trump, pointing to the Republican president's tariff policies and the war he started with Iran.",
+   "published": "2026-10-26T15:27:02+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-10-26T17:09:43.855132+00:00"
+  },
+  {
+   "id": "056b091b9b322db2",
+   "title": "Catholic bishops accuse Trump White House of turning prayer into campaign photo op",
+   "url": "https://www.theguardian.com/us-news/2026/oct/26/catholic-bishops-trump-white-house-prayer",
+   "summary": "Two bishops express regret after the White House posts photos and video of a prayer with them in the Oval OfficeTwo Catholic bishops who bowed their heads with Donald Trump in the Oval Office now say they regret it, accusing the White House of turning a private prayer into a campaign photo opportunity before next week\u2019s US elections.Archbishop Jeffrey Grob of Milwaukee and Bishop William Joensen of Des Moines, who were among the 12 bishops who met administration officials last Thursday, issued separate statements of regret over the weekend. Continue reading...",
+   "published": "2026-10-26T15:05:34+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-10-26T17:09:43.080377+00:00"
+  },
   {
    "id": "96d5cd2d2927b1a4",
    "title": "White House Halloween party to feature Trump Accounts coloring books, Be Best cards",
@@ -11584,83 +11793,6 @@
    "source_id": "npr-politics",
    "bias_note": "center",
    "first_seen": "2026-10-13T16:04:01.247983+00:00"
-  },
-  {
-   "id": "069469ae126ecafe",
-   "title": "House Democratic leaders condemn the search of congresswoman's home as an 'abuse of power'",
-   "url": "https://www.pbs.org/newshour/politics/house-democratic-leaders-condemn-the-search-of-congresswomans-home-as-an-abuse-of-power",
-   "summary": "\"For years, Donald Trump and far-right extremists have relentlessly targeted Congresswoman Omar with vile personal attacks and baseless accusations,\" House Democratic leaders said in a statement.",
-   "published": "2026-10-12T16:56:33+00:00",
-   "source": "PBS NewsHour Politics",
-   "source_id": "pbs-politics",
-   "bias_note": "center",
-   "first_seen": "2026-10-12T20:10:21.265436+00:00"
-  },
-  {
-   "id": "052db8e9ffad57a1",
-   "title": "Judge halts tree removal at Washington golf course Trump eyes for expansion",
-   "url": "https://www.theguardian.com/us-news/2026/oct/12/order-halt-tree-removal-washington-dc-golf-course-trump",
-   "summary": "Ana Reyes demands Trump officials explain East Potomac tree cutting and says it will likely cause \u2018irreparable harm\u2019US district judge Ana Reyes on Monday ordered a 24-hour halt to tree cutting at the historic East Potomac golf course while she decides on an emergency order from plaintiffs concerned that Donald Trump\u2019s plans for the course are moving forward despite a pending court case challenging them.\u201cTree removal for routine maintenance is not exempt from this order,\u201d Reyes\u2019 wrote. \u201cPlaintiffs are likely to suffer immediate and irreparable harm in the absence of preliminary relief. Continue",
-   "published": "2026-10-12T16:55:37+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-10-12T20:10:20.367800+00:00"
-  },
-  {
-   "id": "4d9dfd9fd028fe0c",
-   "title": "Omar says she won't 'be silenced' after federal agents search her home, blasting Trump for 'intimidation' campaign",
-   "url": "https://www.pbs.org/newshour/politics/omar-says-she-wont-be-silenced-after-federal-agents-search-her-home-blasting-trump-for-intimidation-campaign",
-   "summary": "The search of the Minnesota congresswoman's home so close to next month's midterm contests that will determine control of the House and the Senate was swiftly condemned by top Democrats in Congress and raised questions about the timing given longstanding Justice Department protocol to avoid overt investigative steps involving political candidates in the direct run-up to an election.",
-   "published": "2026-10-12T16:35:15+00:00",
-   "source": "PBS NewsHour Politics",
-   "source_id": "pbs-politics",
-   "bias_note": "center",
-   "first_seen": "2026-10-12T20:10:21.265439+00:00"
-  },
-  {
-   "id": "c7f7a7ba087291a5",
-   "title": "If the US livestreams an execution, it will be an act of terror | Brief letters",
-   "url": "https://www.theguardian.com/us-news/2026/oct/12/if-the-us-livestreams-an-execution-it-will-be-an-act-of-terror",
-   "summary": "Pete Hegseth | Pre-loved | Marlborough man | Canterbury tale | Newt kids on the blockPete Hegseth, the US defence secretary, has authorised the livestreaming of an execution by firing squad (Report, 9 October). Morally this is no different from a terrorist group posting a video of a beheading. It marks yet another step in the brutalising of American society under the second Trump administration. Britain stopped holding public executions in 1868.John BoalerCalne, Wiltshire\u2022 I find nearly all the \u201cpre-\u201d expressions irritating, but the term pre-loved (Letters, 7 October) is, in this one instance,",
-   "published": "2026-10-12T16:33:53+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-10-12T20:10:20.367819+00:00"
-  },
-  {
-   "id": "fcef6a84d3550170",
-   "title": "AP report: Trump, Rubio weigh firing Kimberly Guilfoyle after mounting reports of improper conduct",
-   "url": "https://www.pbs.org/newshour/world/ap-report-trump-rubio-weigh-firing-kimberly-guilfoyle-after-mounting-reports-of-improper-conduct",
-   "summary": "Guilfoyle has not addressed the reports directly, but in a statement released late Sunday, her lawyers denied she had done anything wrong and claimed that the money she was seeking from the Trump donor was payment for services \u2014 public appearances and speaking engagements that predate her ambassadorial nomination \u2014 that had not been paid.",
-   "published": "2026-10-12T16:24:47+00:00",
-   "source": "PBS NewsHour Politics",
-   "source_id": "pbs-politics",
-   "bias_note": "center",
-   "first_seen": "2026-10-12T20:10:21.265446+00:00"
-  },
-  {
-   "id": "c42c4b941125c2d3",
-   "title": "Ilhan Omar says she will not be silenced after federal agents raid her home",
-   "url": "https://www.theguardian.com/us-news/2026/oct/12/federal-agents-ilhan-omar-home-raid",
-   "summary": "Trump and key allies have accused Omar of immigration fraud, and have called to expel her from the countryFederal agents searched Representative Ilhan Omar\u2019s home on Monday morning as part of a criminal investigation, according to the Department of Justice and reports in the Associated Press and Fox News.In a social media post later on Monday, Omar criticized the raid as an attempt by the Trump administration \u201cto target political enemies and weaponize law enforcement\u201d and said she would \u201cnot be silenced\u201d. Continue reading...",
-   "published": "2026-10-12T16:20:42+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-10-12T20:10:20.367824+00:00"
-  },
-  {
-   "id": "d60432275bbbed23",
-   "title": "Live updates: DC judge scolds Trump administration for East Potomac Park tree cutting; feds search Ilhan Omar's home",
-   "url": "https://thehill.com/homenews/administration/6141784-live-updates-trump-ohio-midterm-elections-russia-diesel-iran/",
-   "summary": "U.S. District Judge Ana Reyes scolded Trump administration lawyers on Monday for failing to provide sufficient notice before cutting down hundreds of trees in East Potomac Park over the weekend. The tree work quickly prompted an emergency order to halt progress and a morning hearing. The home of Rep. Ilhan Omar (D-Minn.) in Washington, D.C.,...",
-   "published": "2026-10-12T15:29:41+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-12T15:36:26.703859+00:00"
   }
  ]
 }
