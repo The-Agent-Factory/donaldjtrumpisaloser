@@ -1,7 +1,84 @@
 {
- "updated": "2026-10-27T01:30:16.766171+00:00",
- "count": 1083,
+ "updated": "2026-10-27T07:57:12.724475+00:00",
+ "count": 1086,
  "articles": [
+  {
+   "id": "3af7a3b869ac2fad",
+   "title": "How Trump\u2019s \u2018little detour\u2019 to Iran became a roadblock in the midterm elections",
+   "url": "https://abcnews.com/Politics/wireStory/trumps-detour-iran-roadblock-midterm-elections-137593812",
+   "summary": "When President Donald Trump launched his war on Iran, he said it would last a matter of weeks",
+   "published": "2026-10-27T06:46:29+00:00",
+   "source": "ABC News Politics",
+   "source_id": "abc-politics",
+   "bias_note": "center",
+   "first_seen": "2026-10-27T07:57:12.412463+00:00"
+  },
+  {
+   "id": "858627f11a8153c2",
+   "title": "Trump and Rubio plan to visit oil tanker carrying Venezuelan crude in Texas",
+   "url": "https://abcnews.com/Politics/wireStory/trump-rubio-plan-visit-oil-tanker-carrying-venezuelan-137592774",
+   "summary": "President Donald Trump and Secretary of State Marco Rubio plan to showcase a newly arrived oil tanker filled with Venezuelan crude in Texas on Tuesday",
+   "published": "2026-10-27T06:30:28+00:00",
+   "source": "ABC News Politics",
+   "source_id": "abc-politics",
+   "bias_note": "center",
+   "first_seen": "2026-10-27T07:57:12.412469+00:00"
+  },
+  {
+   "id": "a1592e13da01e6c5",
+   "title": "Trump campaigns in Mississippi, highlighting Republicans' challenges",
+   "url": "https://www.npr.org/2026/10/27/nx-s1-6019090/trump-campaign-mississippi",
+   "summary": "President Trump campaigned Monday in Mississippi, as he continued a closing midterm rally blitz that has highlighted Republicans' challenges ahead of an election that could drastically shift power in Washington.",
+   "published": "2026-10-27T05:22:24+00:00",
+   "source": "NPR Politics",
+   "source_id": "npr-politics",
+   "bias_note": "center",
+   "first_seen": "2026-10-27T07:57:11.462703+00:00"
+  },
+  {
+   "id": "74de870718014159",
+   "title": "Trump announces $250M-plus initiative to recruit, retain nursing home nurses",
+   "url": "https://thehill.com/policy/healthcare/6173980-trump-announces-nursing-home-initiative/",
+   "summary": "President Trump announced Monday an initiative worth hundreds of millions of dollars to recruit and retain nursing home nurses. \u201cThe Trump Administration is proud to announce a 250 MILLION DOLLAR PLUS initiative to RECRUIT and RETAIN Nurses for Nursing Homes!\u201d Trump said in a Truth Social post Monday evening. \u201cThis Federal and State Initiative will...",
+   "published": "2026-10-27T03:20:36+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-27T07:57:11.799207+00:00"
+  },
+  {
+   "id": "783b45db32b82b5f",
+   "title": "Judge extends tree-cutting block at East Potomac Park",
+   "url": "https://thehill.com/regulation/court-battles/6173951-judge-blocks-east-potomac-tree-cutting/",
+   "summary": "A federal judge on Monday extended a tree-cutting block at East Potomac Park, where President Trump has claimed there will be a new golf course in the future,\u00a0 U.S. District Judge Ana Reyes granted a preliminary injunction for a preservationist group and golfers restricting the Trump administration from cutting trees at the park, stating in...",
+   "published": "2026-10-27T02:36:22+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-27T07:57:11.799216+00:00"
+  },
+  {
+   "id": "cd3582f48d5d7e91",
+   "title": "Raskin says oil companies will face consequences for importing Russian diesel",
+   "url": "https://thehill.com/homenews/house/6173911-raskin-warns-oil-companies-diesel/",
+   "summary": "Rep. Jamie Raskin (D-Md.), the ranking member on the House Judiciary Committee, said that oil companies will face repercussions if they import Russian diesel, comments that come shortly after President Trump announced a diesel deal with Moscow. In a Monday letter addressed to energy companies, Raskin said oil companies are going to \u201cbe held accountable\u201d...",
+   "published": "2026-10-27T01:49:19+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-27T07:57:11.799222+00:00"
+  },
+  {
+   "id": "7aef1a59265f6456",
+   "title": "Trump administration asks Washington to set aside hundreds of ballots from suspected noncitizen voters",
+   "url": "https://www.theguardian.com/us-news/2026/oct/26/trump-washington-ballots-aside-noncitizen-voters",
+   "summary": "This is the latest sign of the administration\u2019s attempts to challenge states with competitive midterm races that could determine control of CongressThe Trump administration on Monday asked Washington state to set aside any ballots received from more than 400 people it alleges are registered to vote without US citizenship, less than two weeks after making a similar demand in California.The announcement is the latest sign of the administration\u2019s attempts to sow doubts about the election or its outcome in states with races that will help determine control of the US Senate and House. Continue read",
+   "published": "2026-10-27T01:26:57+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-10-27T07:57:11.526253+00:00"
+  },
   {
    "id": "76f086fbda4992e3",
    "title": "White House defends Trump after archbishop calls prayer moment 'manipulated' ahead of midterms",
@@ -11870,50 +11947,6 @@
    "source_id": "propublica",
    "bias_note": "investigative",
    "first_seen": "2026-10-13T16:04:03.557117+00:00"
-  },
-  {
-   "id": "cfce427d8bce92e3",
-   "title": "Protester punched in face by Trump supporter, mocked by president at Ohio rally: 'Gotta go on a diet'",
-   "url": "https://www.foxnews.com/politics/protester-punched-face-trump-supporter-mocked-president-ohio-rally-gotta-go-diet",
-   "summary": "A supporter of President Donald Trump punched a heckler wearing a &quot;Release the Epstein Files&quot; shirt at the president&apos;s Youngstown, Ohio, rally.",
-   "published": "2026-10-13T04:57:26+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-10-13T06:50:59.209182+00:00"
-  },
-  {
-   "id": "0b65fa9e768d2f5a",
-   "title": "Trump attacks immigrants from Somalia and Haiti while rallying in Ohio for Republican candidates",
-   "url": "https://abcnews.com/Politics/wireStory/trump-attacks-immigrants-somalia-haiti-rallying-ohio-republican-137204857",
-   "summary": "President Donald Trump has tried to boost Republican Sen. Jon Husted&rsquo;s reelection campaign by attacking Black immigrants during a rally in Ohio",
-   "published": "2026-10-13T03:30:27+00:00",
-   "source": "ABC News Politics",
-   "source_id": "abc-politics",
-   "bias_note": "center",
-   "first_seen": "2026-10-13T06:51:01.469579+00:00"
-  },
-  {
-   "id": "e19669e6b487d9ab",
-   "title": "Mamdani: citizenship \u2018should not be weaponized\u2019 against Omar",
-   "url": "https://thehill.com/homenews/house/6144397-mamdani-slams-omar-home-raid/",
-   "summary": "New York City Mayor Zohran Mamdani (D) on Monday slammed the federal search of Rep. Ilhan Omar's (D-Minn.) Washington, D.C., home, saying that her citizenship \"should not be weaponized\" against her. Agents with Homeland Security Investigations (HSI) \u2014 the investigative arm of Immigration and Customs Enforcement (ICE) \u2014 carried out the search, a Justice Department...",
-   "published": "2026-10-13T01:56:27+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-13T06:51:00.728042+00:00"
-  },
-  {
-   "id": "f9f8147954e01b76",
-   "title": "Trump repeatedly attacks Minnesota, Omar during Ohio campaign stop",
-   "url": "https://thehill.com/homenews/6144416-trump-attacks-omar-ohio/",
-   "summary": "President Trump repeatedly brought up Minnesota and Rep. Ilhan Omar (D-Minn.) on Monday night while stumping for Republicans in Ohio ahead of the midterms. Federal agents searched the home of Omar, a Somali-born American citizen, on Monday as part of a federal criminal investigation into Omar. \u201cJust look at what's happening in the once great...",
-   "published": "2026-10-13T01:48:31+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-13T06:51:00.728049+00:00"
   }
  ]
 }
