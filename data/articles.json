@@ -1,7 +1,106 @@
 {
- "updated": "2026-10-27T14:35:20.805280+00:00",
- "count": 1088,
+ "updated": "2026-10-27T16:15:34.130430+00:00",
+ "count": 1087,
  "articles": [
+  {
+   "id": "51f03712c335b90d",
+   "title": "Trump plans to loosen methane rules for low-producing, high-emitting oil wells",
+   "url": "https://thehill.com/policy/energy-environment/6175227-trump-methane-regs-oil-gas-wells-energy-costs/",
+   "summary": "The Trump administration is planning to loosen regulations on methane emissions from the oil and gas sector, and particularly for low-producing, high-emitting oil and gas wells. President Trump will announce a proposed rule to roll back those regulations at a Tuesday night rally in Texas, an administration official confirmed. The draft rule would be expected...",
+   "published": "2026-10-27T16:10:59+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-27T16:15:33.320851+00:00"
+  },
+  {
+   "id": "7b8357210f720b38",
+   "title": "Medical schools accused of rebranding DEI programs to evade Trump administration scrutiny",
+   "url": "https://www.foxnews.com/media/medical-schools-accused-rebranding-dei-programs-evade-trump-administration-scrutiny",
+   "summary": "Medical schools are rebranding DEI offices with terms like &quot;belonging&quot; and &quot;excellence,&quot; but a new report claims the programming remains the same.",
+   "published": "2026-10-27T16:00:32+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-10-27T16:15:32.559740+00:00"
+  },
+  {
+   "id": "99d6183d143c533b",
+   "title": "Sophia Bush opens up on midterms, her new book \u2014 and why she won't say Trump's name",
+   "url": "https://thehill.com/blogs/in-the-know/6175170-sophia-bush-memoir-midterms-trump/",
+   "summary": "Don't count Sophia Bush among the performers who plan on stepping back from making their voices heard in the political world. \"What would I do? Silence myself? Take away one of my most important rights to be more palatable or more hirable to people I don't know? That's not something that I'm interested in,\" Bush...",
+   "published": "2026-10-27T15:57:54+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-27T16:15:33.320876+00:00"
+  },
+  {
+   "id": "ad39787298c36e6c",
+   "title": "Trump-appointed CDC deputy director to resign after six months on the job",
+   "url": "https://www.theguardian.com/us-news/2026/oct/27/cdc-deputy-director-resigns-jennifer-shuford",
+   "summary": "Jennifer Shuford is expected to leave her post after midterm elections \u2018to spend more time with my family\u2019The deputy director and chief medical officer of the Centers for Disease Control and Prevention (CDC) will resign after six months on the job, according to an agency email obtained by the Guardian.Dr Jennifer Shuford was appointed by Donald Trump in April as part of a four-person senior leadership team. Continue reading...",
+   "published": "2026-10-27T15:39:32+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-10-27T16:15:33.061691+00:00"
+  },
+  {
+   "id": "da0ade382d7229b6",
+   "title": "Hit Netflix show boss, Obama\u2019s former UN ambassador take shots at Trump's 'wreckage of our institutions'",
+   "url": "https://www.foxnews.com/media/hit-netflix-show-boss-obamas-former-un-ambassador-take-shots-trumps-wreckage-our-institutions",
+   "summary": "&quot;The Diplomat&quot; showrunner Debora Cahn called 2025 Washington a &quot;funeral,&quot; while Samantha Power slammed President Donald Trump&apos;s swift dismantling of USAID.",
+   "published": "2026-10-27T15:26:08+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-10-27T16:15:32.559789+00:00"
+  },
+  {
+   "id": "a60b692692438454",
+   "title": "Trump administration: Hundreds of Washington state voters may be noncitizens",
+   "url": "https://thehill.com/homenews/administration/6174832-non-citizen-voter-investigation-washington/",
+   "summary": "Federal officials on Monday called on Washington state\u2019s election officials to set aside ballots from over 400 people they say have illegally registered to vote without U.S. citizenship. The Justice Department (DOJ), in a letter to Washington Secretary of State Steve Hobbs, said it has identified 1,500 votes cast by the more than 400 people...",
+   "published": "2026-10-27T15:24:23+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-27T16:15:33.320928+00:00"
+  },
+  {
+   "id": "b7c387f15341700e",
+   "title": "Jon Stewart on the midterms: \u2018Republicans running for Congress can\u2019t defend Trump\u2019s reckless record\u2019",
+   "url": "https://www.theguardian.com/culture/2026/oct/27/jon-stewart-midterms-republicans-congress-trump",
+   "summary": "Late-night hosts discussed Trump\u2019s distraction tactics and crass comments on Nicki Minaj\u2019s derriere as he campaignsLate-night hosts mocked Donald Trump\u2019s bizarre rally with Nicki Minaj as the clock ticks down to the US midterm elections. Continue reading...",
+   "published": "2026-10-27T15:04:17+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-10-27T16:15:33.061702+00:00"
+  },
+  {
+   "id": "cb54acf805ca797f",
+   "title": "How a Cheesecake Factory jab spurred a midterm spat",
+   "url": "https://thehill.com/homenews/campaign/6174743-cheesecake-factory-2026-midterms-obama-trump/",
+   "summary": "A Cheesecake Factory jab from former President Obama quickly spiraled into a midterm spat between the GOP and Democrats as the competitive election cycle nears its end. Obama quipped during a recent campaign stop in Cleveland that President Trump has the White House \u201clooking like Saddam Hussein opened a Cheesecake Factory, it\u2019s just gold everywhere.\u201d...",
+   "published": "2026-10-27T14:41:00+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-27T16:15:33.321014+00:00"
+  },
+  {
+   "id": "d1d75632b976f272",
+   "title": "Kamala Harris calls Trump administration 'most callous and corrupt' in American history",
+   "url": "https://www.foxnews.com/politics/kamala-harris-calls-trump-administration-most-callous-corrupt-american-history",
+   "summary": "Kamala Harris called the Trump White House the &quot;most callous and corrupt&quot; administration in history while campaigning for David Crowley in Wisconsin.",
+   "published": "2026-10-27T14:37:38+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-10-27T16:15:32.500422+00:00"
+  },
   {
    "id": "cf9b0941943d0f7a",
    "title": "\u2018I\u2019m still innocent,\u2019 says Comey as Trump calls him a \u2018dirty cop\u2019 \u2013 US politics live",
@@ -11859,116 +11958,6 @@
    "source_id": "foxnews-latest",
    "bias_note": "right-leaning",
    "first_seen": "2026-10-13T18:02:23.315600+00:00"
-  },
-  {
-   "id": "2c7db322fa872033",
-   "title": "Loves Trump, lies and conspiracies: Katie Zacharia is the perfect presidential press secretary | Arwa Mahdawi",
-   "url": "https://www.theguardian.com/commentisfree/2026/oct/13/trump-lies-conspiracies-katie-zacharia-press-secretary",
-   "summary": "The Maga member believes the 2020 election was stolen and seemingly her new boss is saving the world from a cabal of satanic paedophiles. She\u2019ll fit right in thenPoor Donald Trump. His (third) wife seemingly can\u2019t bear to be near him and his (fifth) press secretary recently abandoned him to be with a baby she had only recently met.\u201cShe decided she loved her children more than she loved Donald Trump,\u201d the president lamented in August when Karoline Leavitt decided to step down a few months after giving birth. \u201cI\u2019m very upset about this. She has to go home and spend time with her children. That d",
-   "published": "2026-10-13T16:14:58+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-10-13T18:02:24.347092+00:00"
-  },
-  {
-   "id": "e9518bafb1633336",
-   "title": "Donald Trump accused of \u2018abuse of power\u2019 after Ilhan Omar home raid",
-   "url": "https://www.theguardian.com/news/audio/2026/oct/13/trump-accused-of-abuse-of-power-after-ilhan-omar-home-raid",
-   "summary": "Democrats have described a raid on the home of Congresswoman Ilhan Omar as \u2018deeply disturbing\u2019 and a \u2018rogue abuse of power\u2019 by the Trump administration. The Democratic representative for Minnesota has long been a target of highly personal attacks by Donald Trump, who claims he was not involved in ordering the Justice Department raid. Omar criticised the raid as an attempt to \u2018weaponize law enforcement\u2019 as part of a \u2018campaign of political intimidation\u2019 against her. Lucy Hough speaks to Guardian US political reporter Shrai Popat \u2013 watch on YouTube Continue reading...",
-   "published": "2026-10-13T16:01:36+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-10-13T18:02:24.347075+00:00"
-  },
-  {
-   "id": "84009ca8eef485ae",
-   "title": "Guilfoyle denies allegations as she accepts Trump admin exit",
-   "url": "https://thehill.com/homenews/administration/6145593-guilfoyle-resignation-white-house-press-secretary-katie-zacharia/",
-   "summary": "Kimberly Guilfoyle, the embattled U.S. ambassador to Greece, said Tuesday that serving in the role \u201chas been the honor of a lifetime\u201d after the White House announced she had been asked to resign. White House press secretary Katie Zacharia shared at her inaugural press briefing that the Trump administration asked Guilfoyle to resign after several...",
-   "published": "2026-10-13T15:58:52+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-13T16:04:03.009738+00:00"
-  },
-  {
-   "id": "de75db705d1e714d",
-   "title": "White House says it has asked Kimberly Guilfoyle to resign as US ambassador to Greece \u2013 live",
-   "url": "https://www.theguardian.com/us-news/live/2026/oct/13/donald-trump-ilhan-omar-katie-zacharia-alaska-midterms-latest-news-updates",
-   "summary": "Guilfoyle has been under immense scrutiny after the Wall Street Journal reported on a series of questionable acts prior to securing her role in AthensSign up for the US Breaking News emailAhead of her White House podium debut, Katie Zacharia reportedly monitored Donald Trump\u2019s public schedule every day, and monitored his Truth Social, and made sure she was on-air when she assumed he might be watching, according to Politico, citing a person familiar with the matter.That source noted that and a number of high-profile conservative anchors \u2013 including from Fox News, Newsmax and OANN \u2013 also backed ",
-   "published": "2026-10-13T15:58:38+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-10-13T16:04:01.664087+00:00"
-  },
-  {
-   "id": "d8dc2b2f12896b85",
-   "title": "Kimberly Guilfoyle steps down as US ambassador to Greece after alleged misconduct",
-   "url": "https://www.theguardian.com/us-news/2026/oct/13/kimberly-guilfoyle-ambassador-greece-step-down",
-   "summary": "White House asked Guilfoyle, who is alleged to have sought a bill payment from a Trump donor, to resign from postUS politics live \u2013 latest updatesKimberly Guilfoyle is stepping down as US ambassador to Greece after weeks of reports that she sought payment from a Trump donor in exchange for access to administration officials.The decision, announced by the White House on Tuesday morning, ends the diplomatic career of one of Donald Trump\u2019s longest-standing political allies. It came after the US president and Marco Rubio, the secretary of state, were reported to have grown furious over the allegat",
-   "published": "2026-10-13T15:50:28+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-10-13T16:04:01.664098+00:00"
-  },
-  {
-   "id": "7693dc3a58b45ac8",
-   "title": "Live updates: Trump asks Guilfoyle to quit ambassador post, as she denies allegations",
-   "url": "https://thehill.com/homenews/administration/6144742-live-updates-trump-alaska-zacharia-briefing-midterm-election-debates/",
-   "summary": "In her second day on the job, White House press secretary Katie Zacharia told reporters that the White House has asked U.S. Ambassador to Greece Kimberly Guilfoyle to resign, following multiple reports that created a scandal surrounding her post. President Trump, on departing the White House for Alaska, said about Guilfoyle, \"I didn't like what...",
-   "published": "2026-10-13T15:36:21+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-13T16:04:03.009771+00:00"
-  },
-  {
-   "id": "ef1f8afe66161258",
-   "title": "Trump: Marshall was 'mandated by law' to request payments from patients",
-   "url": "https://thehill.com/homenews/administration/6145522-trump-defends-roger-marshall/",
-   "summary": "President Trump defended Sen. Roger Marshall (R-Kan.) after a report revealed that he sued hundreds of patients for unpaid medical bills, claiming the senator was legally obligated to pursue the debts or risk facing criminal charges himself. In a lengthy Truth Social post on Monday, Trump praised the former obstetrician-gynecologist and accused his Democratic challenger,...",
-   "published": "2026-10-13T15:35:02+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-13T16:04:03.009775+00:00"
-  },
-  {
-   "id": "e22d1286b55988c3",
-   "title": "Supreme Court sides with Trump administration in lawsuit seeking records on Elon Musk's DOGE",
-   "url": "https://www.pbs.org/newshour/politics/supreme-court-sides-with-trump-administration-in-lawsuit-seeking-records-on-elon-musks-doge",
-   "summary": "The Trump administration argues that DOGE is exempt from FOIA's requirements as a presidential advisory body.",
-   "published": "2026-10-13T15:32:32+00:00",
-   "source": "PBS NewsHour Politics",
-   "source_id": "pbs-politics",
-   "bias_note": "center",
-   "first_seen": "2026-10-13T16:04:03.369276+00:00"
-  },
-  {
-   "id": "ad217184cc96506b",
-   "title": "Scaramucci quips about new press secretary Zacharia's tenure: 'The clock is running'",
-   "url": "https://thehill.com/blogs/in-the-know/6145486-white-house-press-secretary-katie-zacharia-scaramucci/",
-   "summary": "Anthony Scaramucci is weighing in on Katie Zacharia's first briefing as White House press secretary, quipping that the clock is ticking on her tenure. \"The clock is running,\" Scaramucci wrote on X on Tuesday, shortly after Zacharia wrapped her inaugural briefing at the White House as press secretary. \"Thus far 1/11th of a Scaramucci,\" he...",
-   "published": "2026-10-13T15:30:45+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-13T16:04:03.009779+00:00"
-  },
-  {
-   "id": "c4c208f51e387477",
-   "title": "Trump-linked super PAC pulls funding from 2 House Republicans as GOP fights to keep majority",
-   "url": "https://www.foxnews.com/politics/trump-linked-super-pac-pulls-funding-from-2-house-republicans-gop-fights-keep-majority",
-   "summary": "House Republicans face growing pressure as Trump-aligned MAGA Inc. pulls planned spending from Tom Kean and Marianette Miller-Meeks&apos; districts.",
-   "published": "2026-10-13T14:45:58+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-10-13T16:03:58.501516+00:00"
   }
  ]
 }
