@@ -1,7 +1,73 @@
 {
- "updated": "2026-10-28T01:26:11.628902+00:00",
- "count": 1070,
+ "updated": "2026-10-28T08:39:25.653142+00:00",
+ "count": 1061,
  "articles": [
+  {
+   "id": "d3979d1468420e3c",
+   "title": "Trump's cure for Republicans' midterm woes is more Trump. Will it work?",
+   "url": "https://abcnews.com/Politics/wireStory/trumps-cure-republicans-midterm-woes-trump-work-137628658",
+   "summary": "President Donald Trump wants midterm voters to imagine he's on the ballot and has seized the political spotlight in a way that makes such make-believe seem a bit more real",
+   "published": "2026-10-28T07:00:24+00:00",
+   "source": "ABC News Politics",
+   "source_id": "abc-politics",
+   "bias_note": "center",
+   "first_seen": "2026-10-28T08:39:25.476081+00:00"
+  },
+  {
+   "id": "ad27d4a78bd86aed",
+   "title": "Trump and Talarico hold dueling Texas rallies",
+   "url": "https://thehill.com/homenews/campaign/6176856-trump-talarico-texas-senate-rallies/",
+   "summary": "President Trump and Texas Senate candidate James Talarico (D) shared their competing visions Tuesday as the two held dueling rallies in the Lone Star State one week before the midterm elections. Trump did two rallies in Texas \u2014 the first in Corpus Christi and another in Lubbock. It\u2019s his fourth trip to Texas to support...",
+   "published": "2026-10-28T03:12:36+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-28T08:39:24.758017+00:00"
+  },
+  {
+   "id": "e41e6bcb2ac4560c",
+   "title": "Special master could evaluate Justice Department's claims of noncitizens on California voter rolls",
+   "url": "https://abcnews.com/Politics/wireStory/special-master-evaluate-justice-departments-claims-noncitizens-california-137616222",
+   "summary": "A federal judge says he is considering appointing a special master to evaluate claims by the Trump administration that California has some 20,000 noncitizens on its voter rolls",
+   "published": "2026-10-28T02:50:22+00:00",
+   "source": "ABC News Politics",
+   "source_id": "abc-politics",
+   "bias_note": "center",
+   "first_seen": "2026-10-28T08:39:25.476086+00:00"
+  },
+  {
+   "id": "aaf5ac1d141a5344",
+   "title": "Trump reups calls to put Cruz on Supreme Court in vacancy scenario",
+   "url": "https://thehill.com/homenews/administration/6176842-trump-jokes-ted-cruz-scotus/",
+   "summary": "President Trump joked Tuesday that Sen. Ted Cruz (R-Texas) would be his pick for the next Supreme Court vacancy, saying the senator could get unanimously confirmed because lawmakers in both parties would jump at the chance to get rid of him in Congress. During a midterm rally in Lubbock, Texas, the president praised Cruz as...",
+   "published": "2026-10-28T02:49:48+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-28T08:39:24.758023+00:00"
+  },
+  {
+   "id": "93269d6d49378466",
+   "title": "Federal grand jury declines to indict Cassidy Hutchinson",
+   "url": "https://thehill.com/homenews/administration/6176826-grand-jury-rejects-hutchinson-indictment/",
+   "summary": "A federal grand jury in Washington, D.C., on Tuesday rejected the Justice Department\u2019s attempt to indict former White House aide Cassidy Hutchinson over her testimony to lawmakers about President Trump\u2019s actions during the Jan. 6, 2021, attack on the Capitol. Justice Department attorney Neville Hedley told U.S. Magistrate Judge Zia Faruqui that the grand jury...",
+   "published": "2026-10-28T02:44:45+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-28T08:39:24.758028+00:00"
+  },
+  {
+   "id": "fab18d773def58c0",
+   "title": "Ex-FBI officials due back in court in Hunter Biden laptop case",
+   "url": "https://abcnews.com/Politics/wireStory/fbi-officials-charged-case-hunter-bidens-laptop-due-137593775",
+   "summary": "A federal judge has scolded the Justice Department for its unorthodox handling of a criminal case against two former FBI officials accused of making false statements to Congress about their participation in and knowledge of investigations involving Hun...",
+   "published": "2026-10-28T02:02:26+00:00",
+   "source": "ABC News Politics",
+   "source_id": "abc-politics",
+   "bias_note": "center",
+   "first_seen": "2026-10-28T08:39:25.476103+00:00"
+  },
   {
    "id": "82e45f8c1c831ea6",
    "title": "NEW SURVEY: President Trump Delivers Historic Drop in Violent Crime",
@@ -11606,171 +11672,6 @@
    "source_id": "npr-politics",
    "bias_note": "center",
    "first_seen": "2026-10-14T13:47:14.051535+00:00"
-  },
-  {
-   "id": "fb9385cfcff8ede6",
-   "title": "Judge extends order blocking Trump from banning CNN, MS NOW and Politico reporters from White House",
-   "url": "https://abcnews.com/Politics/wireStory/judge-extends-order-blocking-trump-banning-cnn-ms-137246048",
-   "summary": "A federal judge has extended an order blocking the Trump administration from banning reporters for three news outlets from the White House",
-   "published": "2026-10-14T06:58:30+00:00",
-   "source": "ABC News Politics",
-   "source_id": "abc-politics",
-   "bias_note": "center",
-   "first_seen": "2026-10-14T07:43:05.439175+00:00"
-  },
-  {
-   "id": "5ee60d2717645389",
-   "title": "Trump announces massive oil, gas and mineral exploration plans in Greenland, touts national security benefits",
-   "url": "https://www.foxnews.com/politics/trump-announces-massive-oil-gas-mineral-exploration-plans-greenland-touts-national-security-benefits",
-   "summary": "President Donald Trump announced on Truth Social that experts say Greenland&apos;s oil reserves rival almost any land, but details remain unclear.",
-   "published": "2026-10-14T06:51:07+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-10-14T07:43:04.597981+00:00"
-  },
-  {
-   "id": "cace9fae660b743e",
-   "title": "Trump urges Alaskans to vote for the \u2018real\u2019 Dan Sullivan in tight midterms battle",
-   "url": "https://www.theguardian.com/us-news/2026/oct/14/trump-urges-alaska-vote-republican-dan-sullivan-midterms-battle",
-   "summary": "Republican senator Dan S Sullivan is vying for re-election against Democrat Mary Peltola \u2013 and another candidate called Dan J SullivanDonald Trump has encouraged Alaskans to vote for the \u201creal\u201d Dan Sullivan, as he sought a breakthrough for the Republican incumbent senator in a tightly fought Senate race complicated by a rival candidate with a near-identical name.Sullivan\u2019s re-election campaign this year against Democrat Mary Peltola, a former US House lawmaker, has turned into one of the most hotly contested battles of the midterm elections, in which Democrats are hoping to seize back control ",
-   "published": "2026-10-14T05:39:04+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-10-14T07:43:04.877364+00:00"
-  },
-  {
-   "id": "9fbedd5efa4fd19d",
-   "title": "Trump administration slashes time refugees have to challenge loss of legal status",
-   "url": "https://www.foxnews.com/politics/trump-administration-slashes-time-refugees-challenge-loss-legal-status",
-   "summary": "The Department of Homeland Security reduced the number of days refugees have to challenge their legal status revocation from 30 days to just 10.",
-   "published": "2026-10-14T05:05:30+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-10-14T07:43:04.597990+00:00"
-  },
-  {
-   "id": "e8b1a20e862bcf41",
-   "title": "Judge extends White House access to banned media outlets CNN, MS Now and Politico",
-   "url": "https://www.theguardian.com/us-news/2026/oct/14/white-house-media-ban-lifted-cnn-msnow-politico",
-   "summary": "District court judge Timothy Kelly was ruling after the Trump administration blocked access to the three outlets in SeptemberA federal judge ordered the White House on Tuesday to continue allowing journalists from CNN, MS Now and Politico to access the building as the media coalition\u2019s lawsuit against the Trump administration plays out.Timothy Kelly, a district court judge, had on 24 September granted a 14-day reprieve for the news organizations, which six days earlier had been banned by the president in an extraordinary move from entering the White House grounds \u201cas a result of their constant",
-   "published": "2026-10-14T04:34:29+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-10-14T07:43:04.877373+00:00"
-  },
-  {
-   "id": "7e2ab83e2dddc99e",
-   "title": "Judge extends order allowing CNN, Politico, MS NOW White House press access",
-   "url": "https://thehill.com/regulation/court-battles/6147113-judge-extends-block-trump-media-ban/",
-   "summary": "A federal judge on Tuesday issued a longer block on President Trump\u2019s ban of three major news organizations from the White House, finding that the revocation of the outlets\u2019 hard badges likely violated their constitutional rights. U.S. District Judge Timothy Kelly wrote in a late-night ruling that the preliminary injunction was meant to preserve the...",
-   "published": "2026-10-14T03:50:15+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-14T07:43:05.049324+00:00"
-  },
-  {
-   "id": "49ff91406defe43c",
-   "title": "Hinson breaks with Trump on Russia diesel deal",
-   "url": "https://thehill.com/homenews/campaign/6147090-hinson-opposes-russia-diesel-deal/",
-   "summary": "Iowa Senate GOP candidate Ashley Hinson said on Tuesday that she didn\u2019t agree with a recent deal President Trump struck with Russia that would import 300,000 tons of diesel to the U.S. and global marketplace, taking issue with the U.S. making a deal with an adversary.   \"We need to lower gas prices in this...",
-   "published": "2026-10-14T03:13:09+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-14T07:43:05.049339+00:00"
-  },
-  {
-   "id": "e0575d3ddcf23de6",
-   "title": "Trump went all the way to Alaska in a sign of just how close its Senate race may be",
-   "url": "https://abcnews.com/Politics/wireStory/trump-alaska-sign-close-senate-race-137215586",
-   "summary": "President Donald Trump has made an unusual campaign trip with the midterm elections looming",
-   "published": "2026-10-14T03:06:20+00:00",
-   "source": "ABC News Politics",
-   "source_id": "abc-politics",
-   "bias_note": "center",
-   "first_seen": "2026-10-14T07:43:05.439185+00:00"
-  },
-  {
-   "id": "197f533380877c9d",
-   "title": "Chris Cuomo and Bannon clash over validity of upcoming midterms if Democrats win",
-   "url": "https://thehill.com/homenews/campaign/6147062-bannon-questions-election-legitimacy/",
-   "summary": "NewsNation\u2019s Chris Cuomo on Tuesday questioned former White House adviser Steve Bannon about if he will accept the outcome of the midterm elections if Democrats defeat Republicans. \u201cI want to ask you straight, here on the record,\" Cuomo began before asking Bannon if the GOP lost key races, \"will you accept the results of the...",
-   "published": "2026-10-14T02:59:09+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-14T07:43:05.049349+00:00"
-  },
-  {
-   "id": "464f346e97a437e4",
-   "title": "Ossoff, Collins clash in second Georgia Senate debate: 4 takeaways",
-   "url": "https://thehill.com/homenews/campaign/6146910-ossoff-collins-second-georgia-senate-debate-takeaways/",
-   "summary": "Sen. Jon Ossoff (D) and Rep. Mike Collins (R) traded barbs in a Tuesday night debate, tangling over the Jeffrey Epstein files, the 2020 election and more. Ossoff, the only Senate Democrat running for reelection in a state President Trump won in 2024, tied his Republican opponent to the administration\u2019s controversial tariffs and war in...",
-   "published": "2026-10-14T02:25:08+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-14T07:43:05.049358+00:00"
-  },
-  {
-   "id": "0080113496befa19",
-   "title": "Trump signs pardons for Alaska diesel mechanics onstage during rally touting major energy deals",
-   "url": "https://www.foxnews.com/politics/president-trump-signs-pardons-alaska-diesel-mechanics-onstage-rally-touting-major-energy-deals",
-   "summary": "President Donald Trump signed clemency documents onstage in Alaska while also announcing that a major natural gas pipeline secured federal permits.",
-   "published": "2026-10-14T02:13:34+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-10-14T07:43:04.598000+00:00"
-  },
-  {
-   "id": "0feb85f49e14f659",
-   "title": "Trump pardons diesel mechanics for Clean Air Act violations at Alaska rally",
-   "url": "https://thehill.com/homenews/campaign/6147032-trump-pardons-alaska-diesel-mechanics/",
-   "summary": "President Trump issued pardons at a campaign rally in Alaska on Tuesday for two diesel mechanics who were previously charged with and plead guilty to violating the Clean Air Act.\u00a0 The president signed the pardons for Zachary Czubak and Patrick Fleming on stage at the campaign event in Wasilla after he invited then up on...",
-   "published": "2026-10-14T02:12:10+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-14T07:43:05.049367+00:00"
-  },
-  {
-   "id": "a0d1ed9ef263587d",
-   "title": "Trump Energy Department issues emergency order to prevent blackouts across 13 states amid unusual October heat",
-   "url": "https://www.foxnews.com/us/trump-energy-department-issues-emergency-order-prevent-blackouts-13-states-unusual-october-heat",
-   "summary": "The Department of Energy authorized PJM Interconnection to tap backup power as unseasonably warm October temperatures strain the grid across 13 states.",
-   "published": "2026-10-14T01:49:20+00:00",
-   "source": "Fox News Latest",
-   "source_id": "foxnews-latest",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-10-14T07:43:04.615910+00:00"
-  },
-  {
-   "id": "1098b2789a446dfe",
-   "title": "Presidential Message on the Birthday of the United States Navy",
-   "url": "https://www.whitehouse.gov/briefings-statements/2026/10/presidential-message-on-the-birthday-of-the-united-states-navy/",
-   "summary": "For over 250 years, American sailors&#160;have defended our Nation upon the seas, forging the most lethal Navy in the history of the world. &#160;Today, on the birthday of the United States Navy, Icelebrate this incredible milestone with our active duty and reserve sailors, past and present, whose unparalleled expertise and extraordinary devotion to duty in [&#8230;]\nThe post Presidential Message on the Birthday of the United States Navy appeared first on The White House.",
-   "published": "2026-10-14T01:48:13+00:00",
-   "source": "WhiteHouse.gov News",
-   "source_id": "whitehouse",
-   "bias_note": "official/primary-source",
-   "first_seen": "2026-10-14T07:43:04.768579+00:00"
-  },
-  {
-   "id": "a25e3542a3bf929d",
-   "title": "Trump says Taiwan agreed to buy 30 percent of gas from Alaska pipeline",
-   "url": "https://thehill.com/homenews/6146987-taiwan-alaska-gas-pipeline-deal-trump/",
-   "summary": "President Trump announced Tuesday that Taiwan has agreed to purchase 30 percent of gas from the Alaska pipeline over the next 20 years. Speaking at a campaign rally in Wasilla, Alaska, Trump said Taiwan will invest $4.4 billion into the project on top of $50 billion already committed by South Korea. The president was quick...",
-   "published": "2026-10-14T01:31:11+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-14T07:43:05.049384+00:00"
   }
  ]
 }
