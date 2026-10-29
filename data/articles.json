@@ -1,7 +1,194 @@
 {
- "updated": "2026-10-29T17:20:04.193050+00:00",
- "count": 1033,
+ "updated": "2026-10-29T19:41:23.794256+00:00",
+ "count": 1041,
  "articles": [
+  {
+   "id": "6456c1a71db87878",
+   "title": "Washington state secretary of state fires back at DOJ over noncitizen voter claim: 'Profoundly disappointing'",
+   "url": "https://thehill.com/homenews/state-watch/6182189-washington-official-responds-doj-voter-order/",
+   "summary": "Washington Secretary of State Steve Hobbs shot back at the Justice Department (DOJ) for asking him to order his election officials to set aside ballots for hundreds of people the federal government identified as alleged non-U.S. citizens. In a Wednesday response to the DOJ\u2019s request, Hobbs said, \u201cWithout individualized proof of ineligibility, it would be...",
+   "published": "2026-10-29T19:31:22+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-29T19:41:21.984731+00:00"
+  },
+  {
+   "id": "5c7e5a4ad6d4a1df",
+   "title": "How Trump's immigration crackdown sparked a backlash that could undermine Republicans' campaigns",
+   "url": "https://www.pbs.org/newshour/politics/how-trumps-immigration-crackdown-sparked-a-backlash-that-could-undermine-republicans-campaigns",
+   "summary": "More Americans now disapprove of Trump's approach to immigration than approve of it, a striking turnaround that followed a nationwide crackdown.",
+   "published": "2026-10-29T19:23:23+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-10-29T19:41:22.305130+00:00"
+  },
+  {
+   "id": "56d1b25ce3820e7c",
+   "title": "Warren asks DOJ to investigate Bank of America over money laundering violations",
+   "url": "https://thehill.com/homenews/senate/6182064-elizabeth-warren-doj-bank-of-america-money-laundering-probe/",
+   "summary": "Democratic Sen. Elizabeth Warren (D-Mass.) on Thursday urged the Department of Justice (DOJ) to launch a criminal investigation into Bank of America for its violations of anti-money laundering laws. In a letter to Attorney General Todd Blanche, the Massachusetts Democrat called the Treasury Department\u2019s recent $1.21 billion fine of Bank of America a \u201cslap on...",
+   "published": "2026-10-29T18:57:48+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-29T19:41:21.984741+00:00"
+  },
+  {
+   "id": "14457cb2ecf2bedc",
+   "title": "Justice Department appeals ruling allowing California to count disputed ballots",
+   "url": "https://abcnews.com/Politics/wireStory/justice-department-appeals-ruling-allowing-california-count-disputed-137682646",
+   "summary": "The federal government has appealed a court decision allowing California to count ballots allegedly sent to noncitizen voters",
+   "published": "2026-10-29T18:55:57+00:00",
+   "source": "ABC News Politics",
+   "source_id": "abc-politics",
+   "bias_note": "center",
+   "first_seen": "2026-10-29T19:41:22.666570+00:00"
+  },
+  {
+   "id": "bb101f8e27fc5552",
+   "title": "Feds raid multiple Minnesota autism service providers amid Medicaid fraud investigations",
+   "url": "https://www.foxnews.com/politics/feds-raid-multiple-minnesota-autism-service-providers-amid-medicaid-fraud-investigations",
+   "summary": "Federal agents raided Minnesota autism service providers in St. Louis Park and Edina as Medicaid fraud investigations intensify across the state.",
+   "published": "2026-10-29T18:42:26+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-10-29T19:41:19.246371+00:00"
+  },
+  {
+   "id": "58532ba3cee82725",
+   "title": "Dead felon voting controversy grows as 'Betty No Last Name' surfaces in Spanberger's rights restoration push",
+   "url": "https://www.foxnews.com/politics/dead-felon-voting-controversy-grows-betty-no-last-name-surfaces-spanberger-rights-restoration-push",
+   "summary": "Virginia Gov. Abigail Spanberger&apos;s office sent a voting rights citation to &quot;Betty No Last Name,&quot; raising fraud concerns over felon restoration.",
+   "published": "2026-10-29T18:18:32+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-10-29T19:41:19.246387+00:00"
+  },
+  {
+   "id": "145cb02750f240f2",
+   "title": "Libertarians challenge Trump-backed Republicans, look to shake up midterms beyond GOP-Dem duopoly",
+   "url": "https://www.foxnews.com/politics/libertarians-challenge-trump-backed-republicans-look-shake-up-midterms-beyond-gop-dem-duopoly",
+   "summary": "Libertarian candidate Jeremy Todd is running for the U.S. House of Representatives in Kentucky&apos;s 4th Congressional District after incumbent Rep. Thomas Massie lost the GOP primary.",
+   "published": "2026-10-29T18:08:40+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-10-29T19:41:19.246391+00:00"
+  },
+  {
+   "id": "34af85effac1c89f",
+   "title": "Trump cancels Kansas midterm rally",
+   "url": "https://thehill.com/homenews/campaign/6181843-donald-trump-kansas-senate-race-rally-canceled/",
+   "summary": "President Trump will no longer travel to Kansas over the weekend to rally voters as the state\u2019s competitive Senate race enters its final stretch ahead of the midterm election. A White House official confirmed to The Hill on Thursday that the in-person event had been canceled, without providing more details about the decision. \u201cPresident Trump...",
+   "published": "2026-10-29T18:06:31+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-29T19:41:21.984787+00:00"
+  },
+  {
+   "id": "dbd4958f361118a8",
+   "title": "Trump's Justice Department pushes a spate of politically sensitive cases as midterm elections near",
+   "url": "https://www.pbs.org/newshour/politics/trumps-justice-department-pushes-a-spate-of-politically-sensitive-cases-as-midterm-elections-near",
+   "summary": "Defense lawyers and Democrats say a blitz of headline-making actions and cases is no coincidence and reeks of politics \u2014 in both the timing and the targets.",
+   "published": "2026-10-29T18:03:26+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-10-29T19:41:22.305139+00:00"
+  },
+  {
+   "id": "b69c27818d4ea308",
+   "title": "Watch live: Vance returns to Texas as GOP's Senate stakes rise",
+   "url": "https://thehill.com/video-clips/6181487-watch-live-jd-vance-texas-gop-rally-ken-paxton-senate-midterms/",
+   "summary": "Vice President Vance returns to the Lone Star State on Thursday for a final campaign push in one of the nation's most closely watched Senate races. Vance and President Trump have sought to boost support for Republican Senate nominee Ken Paxton, who is facing Democrat James Talarico, in the high-stakes contest. Decision Desk HQ rates...",
+   "published": "2026-10-29T18:00:00+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-29T19:41:21.984795+00:00"
+  },
+  {
+   "id": "e9003f7c034981fd",
+   "title": "Donald Trump\u2019s male gaze | Letter",
+   "url": "https://www.theguardian.com/science/2026/oct/29/donald-trumps-male-gaze",
+   "summary": "The US president\u2019s commentary on the beauty and brawn of various political figures is not without historical precedent, writes Randy FairAdam Gabbatt\u2019s analysis explores the seemingly odd statements that Donald Trump has made recently regarding the male anatomy of his political friends and foes (What\u2019s up with Trump\u2019s unhinged fixation on male candidates\u2019 bodies?, 23 October).These statements may seem strange, but they are not without historical precedent. The Nazis, paradoxically, feared same-sex desire while also obsessing over a hypermasculine form as the highest possible aesthetic. We have",
+   "published": "2026-10-29T17:55:10+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-10-29T19:41:21.637369+00:00"
+  },
+  {
+   "id": "e8bdd13efbfbe3a5",
+   "title": "Charles Barkley calls out LeBron James for disrespecting the national anthem with practice golf swing",
+   "url": "https://www.foxnews.com/outkick-sports/charles-barkley-calls-out-lebron-james-disrespecting-national-anthem-practice-golf-swing",
+   "summary": "Charles Barkley called LeBron James&apos; golf swing during the national anthem &quot;very disrespectful,&quot; agreeing with Trump despite dismissing his opinions.",
+   "published": "2026-10-29T17:55:08+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-10-29T19:41:19.264925+00:00"
+  },
+  {
+   "id": "36fad5689b3370a0",
+   "title": "Search More Than 500 Cases of U.S. Citizens Detained by Immigration Agents",
+   "url": "https://projects.propublica.org/american-citizens-detained-dhs-civil-rights/list",
+   "summary": "The post Search More Than 500 Cases of U.S. Citizens Detained by Immigration Agents appeared first on ProPublica.",
+   "published": "2026-10-29T17:50:00+00:00",
+   "source": "ProPublica",
+   "source_id": "propublica",
+   "bias_note": "investigative",
+   "first_seen": "2026-10-29T19:41:22.533022+00:00"
+  },
+  {
+   "id": "a70fcb99c53fa660",
+   "title": "Cuts like a knife: Canadian rocker Bryan Adams trolls Trump with new song",
+   "url": "https://www.theguardian.com/world/2026/oct/29/bryan-adams-donald-trump-song",
+   "summary": "Musician wrote a \u2018love letter\u2019 to Canada with a new album \u2013 and some pointed commentary about the US presidentLake Ontario, the vast body of water that straddles the US-Canada border, has gone by many names over the centuries: Lac Saint-Louis, Lacus Ontarius, Skaniadorio, Cataraqui Lake. But one thing it will never be called, says the Canadian rock star Bryan Adams, is Lake America.In his new song Lake Ontario, Adams takes aim at the US president, Donald Trump, accusing him of \u201cbreaking the peace\u201d between the people who live on the lake\u2019s shores.The \u2018lake of shining waters\u2019 is what the Iroquoi",
+   "published": "2026-10-29T17:49:47+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-10-29T19:41:21.637385+00:00"
+  },
+  {
+   "id": "d3e78a7999c762be",
+   "title": "Houthis hold 37 UN food workers as Trump-backed WFP chief inherits humanitarian crises across globe",
+   "url": "https://www.foxnews.com/world/houthis-hold-37-un-food-workers-trump-backed-wfp-chief-inherits-humanitarian-crises-across-globe",
+   "summary": "Luke Lindberg says 37 World Food Programme employees are detained by Houthis in Yemen, with some separated from families for nearly two years.",
+   "published": "2026-10-29T17:41:36+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-10-29T19:41:19.264938+00:00"
+  },
+  {
+   "id": "8e42e1c108bb38d3",
+   "title": "Sky-high gas prices aren't shaking Trump's MAGA faithful in oil country as supporters warn of bigger threat",
+   "url": "https://www.foxnews.com/politics/sky-high-gas-prices-arent-shaking-trumps-maga-faithful-oil-country-supporters-warn-bigger-threat",
+   "summary": "Donald Trump rallied supporters in Texas who say rising costs haven&apos;t shaken their loyalty, warning socialism and progressive policies threaten America.",
+   "published": "2026-10-29T17:35:05+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-10-29T19:41:19.246394+00:00"
+  },
+  {
+   "id": "697065aafc91fb45",
+   "title": "Trump blasts Democrats over Hegseth impeachment chatter",
+   "url": "https://thehill.com/homenews/administration/6181651-trump-blasts-democrats-hegseth-impeachment/",
+   "summary": "President Trump blasted Democrats Thursday over their ongoing calls to impeach Defense Secretary Pete Hegseth, whom they see as one of their primary targets, if the party takes control of the House.  \"I think it's terrible. All they do is they talk about impeaching everybody,\u201d the president told reporters when asked if he is worried...",
+   "published": "2026-10-29T17:20:33+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-29T19:41:21.984806+00:00"
+  },
   {
    "id": "805e8199c48b388c",
    "title": "Newsom warns Trump as California deploys election lawyers to battleground districts",
@@ -11265,105 +11452,6 @@
    "source_id": "whitehouse",
    "bias_note": "official/primary-source",
    "first_seen": "2026-10-15T21:28:20.508888+00:00"
-  },
-  {
-   "id": "c9c8ce1be7b4a9c0",
-   "title": "Fort Hood survivors praise Trump for scrapping Hasan execution livestream: \u2018We\u2019re not barbaric\u2019",
-   "url": "https://www.foxnews.com/politics/fort-hood-survivors-praise-trump-scrapping-hasan-execution-livestream-not-barbaric",
-   "summary": "Alonzo Lunsford, shot seven times by Nidal Hasan, called Trump&apos;s decision to cancel the firing squad livestream a &quot;positive move&quot; for the nation.",
-   "published": "2026-10-15T19:36:50+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-10-15T21:28:20.147940+00:00"
-  },
-  {
-   "id": "dd46f19249540356",
-   "title": "Noem 'confident Ilhan Omar will finally be held accountable'",
-   "url": "https://thehill.com/homenews/administration/6152070-kristi-noem-ilhan-omar-immigration-investigation/",
-   "summary": "Kristi Noem, the former secretary of the Department of Homeland Security (DHS), said she was assured that Rep. Ilhan Omar (D-Minn.) would be \u201cheld accountable\u201d if the lawmaker is found to have committed immigration fraud after federal agents raided her home Monday. Noem, whom President Trump fired in March after a tumultuous stint leading the...",
-   "published": "2026-10-15T19:30:58+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-15T21:28:25.480792+00:00"
-  },
-  {
-   "id": "d94e87b9832e76e9",
-   "title": "Zacharia 'tracked every news hit' to capture Trump's attention in press secretary search",
-   "url": "https://thehill.com/homenews/administration/6152072-zacharia-trump-press-secretary/",
-   "summary": "White House press secretary Katie Zacharia said Thursday that she tracked President Trump\u2019s interests and intentionally discussed them in television appearances ahead of being selected for the role. \u201cI tracked every news hit to be in accordance with what policies he was pushing for, particularly on Truth Social, since I was the senior communications adviser...",
-   "published": "2026-10-15T19:26:19+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-15T21:28:25.480802+00:00"
-  },
-  {
-   "id": "e01b9e6437548219",
-   "title": "FBI agents and analysts who were fired for working on Trump classified files probe sue to get their jobs back",
-   "url": "https://www.pbs.org/newshour/politics/fbi-agents-and-analysts-who-were-fired-for-working-on-trump-classified-files-probe-sue-to-get-their-jobs-back",
-   "summary": "The investigation resulted in a dramatic 2022 FBI search of Mar-a-Lago that recovered classified records and later produced an indictment in federal court in Florida charging then-former President Donald Trump with dozens of felony counts.",
-   "published": "2026-10-15T19:26:01+00:00",
-   "source": "PBS NewsHour Politics",
-   "source_id": "pbs-politics",
-   "bias_note": "center",
-   "first_seen": "2026-10-15T21:28:25.686089+00:00"
-  },
-  {
-   "id": "4bf46c29422d1a72",
-   "title": "Zacharia says results of bar exam were 'inconsequential'",
-   "url": "https://thehill.com/homenews/administration/6151996-zacharia-california-bar-exam-results/",
-   "summary": "White House press secretary Katie Zacharia said Thursday her California Bar exam results are \u201csomewhat inconsequential\u201d after reporting surfaced that showed she did not pass the examination.\u00a0 In an interview with the conservative outlet Real America\u2019s Voice, Zacharia said she was planning to move to China to be with her husband who was working abroad. ...",
-   "published": "2026-10-15T19:06:26+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-15T21:28:25.480807+00:00"
-  },
-  {
-   "id": "6e2852584298111b",
-   "title": "Pentagon spokesperson: Hegseth 'completely aligned' with Trump nixing execution livestream",
-   "url": "https://thehill.com/homenews/6151960-pentagon-hegseth-supports-execution-livestream-cancellation/",
-   "summary": "A spokesperson for Defense Secretary Pete Hegseth stressed Thursday that the Pentagon chief is \u201ccompletely aligned\u201d with President Trump's decision to not livestream the execution of Fort Hood shooter Nidal Malik Hasan. Trump said the planned Dec. 3 livestream execution of Hasan, a former Army major who killed 13 people in the November 2009 attack...",
-   "published": "2026-10-15T19:04:27+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-15T21:28:25.480813+00:00"
-  },
-  {
-   "id": "10dfa105944b772e",
-   "title": "Trump links Michigan Senate candidate Abdul El-Sayed to Muslim Brotherhood: 'He's a con man'",
-   "url": "https://www.foxnews.com/politics/trump-links-michigan-senate-candidate-abdul-el-sayed-muslim-brotherhood-con-man",
-   "summary": "Trump called Abdul El-Sayed &quot;100% Muslim Brotherhood&quot; as posts by the battleground Senate candidate&apos;s half-sister come under fresh scrutiny.",
-   "published": "2026-10-15T18:45:01+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-10-15T21:28:20.147944+00:00"
-  },
-  {
-   "id": "9b2c50ac7b5d3180",
-   "title": "US justice department sues California over alleged noncitizen voting",
-   "url": "https://www.theguardian.com/us-news/2026/oct/15/justice-department-sues-california-midterms",
-   "summary": "DoJ had demanded that LA county confirm citizenship of people on list in thumb drive, but officials refusedUS politics live \u2013 latest updatesSend us your questions about immigration and the midtermsThe US Department of Justice sued California on Thursday, seeking a court order to prevent the state from tabulating certain ballots cast in the midterm elections.The suit came two days after the department made a specious demand to the state. On Tuesday, the department sent election officials in Los Angeles county a thumb drive with a handwritten password purporting to contain the names of noncitize",
-   "published": "2026-10-15T18:29:50+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-10-15T21:28:25.187270+00:00"
-  },
-  {
-   "id": "c85514a43a84b5aa",
-   "title": "Democrats see voter enthusiasm in fundraising haul from small-dollar donors before the midterms",
-   "url": "https://www.pbs.org/newshour/politics/democrats-see-voter-enthusiasm-in-fundraising-haul-from-small-dollar-donors-before-the-midterms",
-   "summary": "The party has struggled with fundraising during President Donald Trump's second term, lagging behind Republicans and carrying debt into this year's campaign season.",
-   "published": "2026-10-15T17:59:10+00:00",
-   "source": "PBS NewsHour Politics",
-   "source_id": "pbs-politics",
-   "bias_note": "center",
-   "first_seen": "2026-10-15T21:28:25.686092+00:00"
   }
  ]
 }
