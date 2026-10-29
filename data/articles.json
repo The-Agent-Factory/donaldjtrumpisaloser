@@ -1,7 +1,194 @@
 {
- "updated": "2026-10-28T22:39:27.441753+00:00",
- "count": 1035,
+ "updated": "2026-10-29T05:54:28.734714+00:00",
+ "count": 1036,
  "articles": [
+  {
+   "id": "e8157739a8493ae7",
+   "title": "Justice Department announces Trump plans for golf course are in the works, course will close Nov. 15",
+   "url": "https://abcnews.com/Politics/wireStory/justice-department-announces-trump-plans-golf-works-close-137661198",
+   "summary": "The Justice Department has filed notice that President Donald Trump&rsquo;s announcements that there are plans for renovating the East Potomac Golf Course and there are plans to close the park beginning Nov. 15 are accurate",
+   "published": "2026-10-29T04:19:30+00:00",
+   "source": "ABC News Politics",
+   "source_id": "abc-politics",
+   "bias_note": "center",
+   "first_seen": "2026-10-29T05:54:28.469742+00:00"
+  },
+  {
+   "id": "535624d05fd6c55d",
+   "title": "How Trump's immigration crackdown sparked a backlash that could boomerang in the midterms",
+   "url": "https://abcnews.com/Politics/wireStory/trumps-immigration-crackdown-sparked-backlash-boomerang-midterms-137663210",
+   "summary": "Donald Trump roared back into office two years ago partly on the power of immigration",
+   "published": "2026-10-29T04:16:37+00:00",
+   "source": "ABC News Politics",
+   "source_id": "abc-politics",
+   "bias_note": "center",
+   "first_seen": "2026-10-29T05:54:28.469736+00:00"
+  },
+  {
+   "id": "9c82d69256e7b47b",
+   "title": "Hochul says Trump rallies are 'poisoning' Nicki Minaj's mind",
+   "url": "https://thehill.com/homenews/state-watch/6180077-minaj-trump-rallies-poisoning-mind/",
+   "summary": "New York Gov. Kathy Hochul (D-N.Y.) criticized rapper Nicki Minaj on Wednesday, saying President Trump's rallies were \u201cpoisoning\u201d the artist\u2019s mind.\u00a0 \u201cMaybe she oughta get outside and get offline a little more,\u201d Hochul told reporters. \u201cAnd stop going to Trump rallies, it\u2019s kinda poisoning your mind.\u201d The Empire State governor was responding to a post...",
+   "published": "2026-10-29T02:36:24+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-29T05:54:27.852002+00:00"
+  },
+  {
+   "id": "eeccf133687ee59d",
+   "title": "\u2018They mobilized a whole government response to that joke\u2019: Obama laughs off Trump attacks in rally for Ossoff",
+   "url": "https://www.theguardian.com/us-news/2026/oct/28/obama-atlanta-democrats-jon-ossoff",
+   "summary": "Former US president comes to Georgia to support Jon Ossoff for US Senate and Keisha Lance Bottoms for governorBarack Obama, speaking at a Wednesday campaign rally in suburban Atlanta, offered a closing argument for Democrats in the final week of the midterm election campaign.\u201cThese are not serious people,\u201d he said of Donald Trump and the Republican party. \u201cAnd we\u2019re all paying the price for their lack of seriousness.\u201d Continue reading...",
+   "published": "2026-10-29T02:12:23+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-10-29T05:54:27.571221+00:00"
+  },
+  {
+   "id": "ff3cd56cea4279b3",
+   "title": "Judge rebuffs Trump DoJ\u2019s bid to force California to set aside 20,000 ballots",
+   "url": "https://www.theguardian.com/us-news/2026/oct/28/federal-judge-trump-california-ballots",
+   "summary": "Justice department had demanded state segregate and not count ballots from people it claimed were non-citizensA federal judge declined to order California election officials to segregate and not count ballots from people the Trump administration claimed were non-citizens, rebuffing a legally thin request from the justice department that appeared designed to cast doubt over the results of the midterms.The ruling from US district judge David Carter, nominated to the federal bench by Bill Clinton, comes about two weeks after the justice department delivered a USB drive to election officials in Lo",
+   "published": "2026-10-29T01:54:47+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-10-29T05:54:27.571229+00:00"
+  },
+  {
+   "id": "9782879a95976c04",
+   "title": "El-Sayed responds to Stevens's fianc\u00e9e endorsing Rogers",
+   "url": "https://thehill.com/homenews/campaign/6180036-el-sayed-responds-stevens-fiance/",
+   "summary": "Michigan Senate candidate Abdul El-Sayed responded to his former primary opponent Rep. Haley Stevens\u2019s (D-Mich.) fianc\u00e9e endorsing his GOP opponent former Rep. Mike Rogers (R-Mich.). \u201cWell, I'm building a movement to take on the challenges that Donald Trump is facing. If folks have issues that are more important to them than that, that's fine,\u201d El-Sayed...",
+   "published": "2026-10-29T01:53:43+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-29T05:54:27.852020+00:00"
+  },
+  {
+   "id": "261df46e85df57a0",
+   "title": "Obama knocks White House's response to Cheesecake Factory jab: 'These are not serious people'",
+   "url": "https://thehill.com/homenews/campaign/6180017-obama-trump-cheesecake-factory-joke/",
+   "summary": "Former President Obama on Wednesday responded to uproar over a recent campaign trail jab at President Trump\u2019s White House decorations, slamming Republicans for focusing more on the joke than on the economy.  \u201cThey mobilized a whole-of-government response to that joke, not to inflation, but to that joke,\u201d Obama said during a campaign rally in Georgia....",
+   "published": "2026-10-29T01:44:14+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-29T05:54:27.852024+00:00"
+  },
+  {
+   "id": "2415b20aec48c7d8",
+   "title": "Trump calls alleged Alaska Senate spoiler scheme 'voter fraud at the highest level'",
+   "url": "https://thehill.com/homenews/administration/6180002-trump-alaska-senate-voter-fraud/",
+   "summary": "President Trump criticized Senate Democrats and former Rep. Mary Peltola\u2019s (D-Alaska) campaign on Wednesday amid allegations that the two worked together to put a spoiler candidate on the ballot in an effort to boost their party in the Alaska Senate race.\u00a0 \u201cThis is voter fraud at the highest level,\u201d Trump said while rallying in Chillicothe,...",
+   "published": "2026-10-29T01:30:50+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-29T05:54:27.852028+00:00"
+  },
+  {
+   "id": "422a9b046a52aa8d",
+   "title": "Senate Democrats drop $500K in Mississippi",
+   "url": "https://thehill.com/homenews/campaign/6179967-dscc-drops-mississippi-senate-funds/",
+   "summary": "The Democratic Senatorial Campaign Committee (DSCC) dropped $500,000 in Mississippi\u2019s Senate race supporting Scott Colom (D), who is challenging Trump-backed Sen. Cindy Hyde-Smith (R-Miss.). The new ad focused on Colom\u2019s record as a district attorney in the Magnolia State as the Democrat stated he\u2019ll \u201ctake on anyone who stands in the way of what\u2019s best...",
+   "published": "2026-10-29T01:02:27+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-29T05:54:27.852031+00:00"
+  },
+  {
+   "id": "530bd5a3d7799b97",
+   "title": "DOJ's California ballot fight rejected by another judge",
+   "url": "https://thehill.com/regulation/court-battles/6179970-judge-rejects-trump-ballot-challenge/",
+   "summary": "The Trump administration's bid to separate 20,000 mail ballots in California that it says are likely noncitizens met another defeat on Wednesday as a trial judge refused to intervene.  U.S. District Judge David Carter ruled California can continue to accept the questioned ballots like any other. \u201cThis request violates longstanding constitutional principles mandating that states have control over...",
+   "published": "2026-10-29T00:59:22+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-29T05:54:27.852035+00:00"
+  },
+  {
+   "id": "77f745bdfb4d64c1",
+   "title": "Judge denies the Justice Department's bid to stop processing California ballots",
+   "url": "https://www.npr.org/2026/10/28/nx-s1-6021478/doj-california-ballots-denied",
+   "summary": "While the judge rejected the Department of Justice's unprecedented demand in California, the case isn't over yet. The federal government immediately filed notice that it will\u00a0appeal.",
+   "published": "2026-10-29T00:52:50+00:00",
+   "source": "NPR Politics",
+   "source_id": "npr-politics",
+   "bias_note": "center",
+   "first_seen": "2026-10-29T05:54:27.499148+00:00"
+  },
+  {
+   "id": "25709352d337a69c",
+   "title": "A coming clash between Trump and Congress",
+   "url": "https://thehill.com/newsletters/defense-national-security/6179940-a-coming-clash-between-trump-and-congress/",
+   "summary": "Presented by Palantir {beacon} Defense &#038;National Security Defense &#038;National Security The Big Story  A coming clash between Trump and Congress President Trump is headed to a showdown with Democrats and members of his party after Election Day over Defense Secretary Pete Hegseth\u2019s future leadership of the Pentagon, the Iran war and the Russia-Ukraine conflict. \u00a9 Jacquelyn...",
+   "published": "2026-10-29T00:31:08+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-29T05:54:27.852038+00:00"
+  },
+  {
+   "id": "c58d1f945d8d3b23",
+   "title": "Kilmeade, Hume say Vance 'not as popular as he thinks he is' ahead of 2028",
+   "url": "https://thehill.com/homenews/campaign/6179914-vance-2028-presidential-prospects/",
+   "summary": "Fox News\u2019s Brian Kilmeade and Brit Hume shared their doubts Wednesday about Vice President Vance\u2019s prospects in the 2028 presidential race, questioning whether his close association to President Trump could hurt his chances of winning the Republican nomination. \u201cI just don\u2019t think that Vance is as popular as he thinks he is with Republicans,\u201d Kilmeade...",
+   "published": "2026-10-29T00:09:16+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-29T05:54:27.852041+00:00"
+  },
+  {
+   "id": "9dd75e159c91315e",
+   "title": "Trump calls for prosecution of Alaska Senate candidate Peltola over Sullivan name controversy",
+   "url": "https://www.pbs.org/newshour/politics/trump-calls-for-prosecution-of-alaska-senate-candidate-peltola-over-sullivan-name-controversy",
+   "summary": "President Donald Trump called for the criminal prosecution of the Democratic candidate running for Senate in Alaska on Wednesday after revelations that her campaign appeared to be involved in recruiting a candidate with the same name as Republican incumbent Dan Sullivan.",
+   "published": "2026-10-28T23:29:24+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-10-29T05:54:28.031440+00:00"
+  },
+  {
+   "id": "995fb09a52831d0f",
+   "title": "Justice Department pushes to keep Ilhan Omar search warrant under seal for now",
+   "url": "https://thehill.com/regulation/court-battles/6179804-prosecutors-oppose-omar-warrant-unsealing/",
+   "summary": "Federal prosecutors asked a judge Tuesday to reject a request from more than a dozen news organizations to immediately unseal the search warrant for Rep. Ilhan Omar\u2019s (D-Minn.) Washington, D.C., home, saying it could jeopardize the ongoing criminal investigation. A heavily redacted filing signed by Jeanine Pirro, the U.S. Attorney for the District of Columbia,...",
+   "published": "2026-10-28T23:05:11+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-29T05:54:27.852057+00:00"
+  },
+  {
+   "id": "d37326e03c173335",
+   "title": "New polls suggest surprising Democratic gains in red-state Senate races",
+   "url": "https://www.pbs.org/newshour/show/new-polls-suggest-surprising-democratic-gains-in-red-state-senate-races",
+   "summary": "President Trump headed to Ohio to rally voters in a race that could determine control of the Senate. That stop comes after dueling rallies in another key state offered a snapshot of the divisions shaping the midterm elections. Liz Landers reports.",
+   "published": "2026-10-28T22:55:56+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-10-29T05:54:28.031445+00:00"
+  },
+  {
+   "id": "96b91151f0f37e21",
+   "title": "I\u2019ve mailed off my vote in the US midterms. It will be a nail-biting watch, but easier from outside Trump\u2019s America | Eleanor Limprecht",
+   "url": "https://www.theguardian.com/commentisfree/2026/oct/29/my-mail-midterms-vote-outside-trumps-america-us-election",
+   "summary": "I\u2019m hopeful these elections will be a win for democracy rather than dictatorship, for peace rather than war, and humanity rather than hubrisRecently I made my own envelope out of a sheet of paper and sticky tape, signed it and affixed a sticker. Then I took it to my nearest Australia Post shop in Sydney and mailed it.In other words, I voted from abroad in the US midterm elections. Because my last place of residence in the US was the state of Virginia, I can register to vote and request a ballot online, but the ballot still needs to be printed, signed, sealed in an envelope made of folded paper",
+   "published": "2026-10-28T22:35:28+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-10-29T05:54:27.571254+00:00"
+  },
   {
    "id": "1aa380b9e8cf0c5b",
    "title": "Why the Peltola \u2018spoiler\u2019 controversy may be too late to shake up Alaska",
@@ -243,6 +430,17 @@
    "source_id": "foxnews-politics",
    "bias_note": "right-leaning",
    "first_seen": "2026-10-28T22:39:25.527287+00:00"
+  },
+  {
+   "id": "43f48af084897933",
+   "title": "\u2018Like Saddam opened a Cheesecake Factory\u2019: how did the restaurant end up in a Maga fight over \u2018elitism\u2019?",
+   "url": "https://www.theguardian.com/us-news/2026/oct/28/cheesecake-factory-obama-trump",
+   "summary": "Obama has been accused of \u2018snobbery\u2019 over his Trump diss, as people rush to defend the restaurant chain\u2019s \u2018affordable opulence\u2019Around lunchtime on Tuesday, a Rolls-Royce stopped at the intersection of Beverly Drive and Dayton Way in Beverly Hills, California. Local people in athleisure walked past Balenciaga, Dior and Prada boutiques, as visitors on Hollywood bus tours ogled nearby Rodeo Drive, where Burberry and Louis Vuitton shops meet at a celebrated street corner.Up the street, across from the upmarket Erewhon grocery store \u2013 home to $21 smoothies \u2013 a few diners sat outside an American lan",
+   "published": "2026-10-28T17:41:49+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-10-29T05:54:27.571301+00:00"
   },
   {
    "id": "418f14ca983c4dc3",
@@ -11199,193 +11397,6 @@
    "source_id": "foxnews-politics",
    "bias_note": "right-leaning",
    "first_seen": "2026-10-15T11:37:18.927648+00:00"
-  },
-  {
-   "id": "39dc5135278ef5b0",
-   "title": "Thursday briefing: Thanks to an erratic Trump, peace in Ukraine is still far away",
-   "url": "https://www.theguardian.com/world/2026/oct/15/thursday-briefing-thanks-to-an-erratic-trump-peace-in-ukraine-is-still-far-away",
-   "summary": "In today\u2019s newsletter: As Russia resists a ceasefire and Trump\u2019s shifting priorities unsettle allies, an end to the conflict isn\u2019t getting any closerGood morning. In his usual asinine unconventional approach to international relations, Donald Trump announced on Sunday (via Truth Social, how else) an \u201cENERGY CEASEFIRE in the War between Russia and Ukraine\u201d, apparently without checking with either side. Volodymyr Zelenskyy, who said any such deal was \u201cnews to me,\u201d nonetheless declared he was \u201cready and we will accept it\u201d. Vladimir Putin responded by blowing up some Ukrainian power plants.This ha",
-   "published": "2026-10-15T05:44:12+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-10-15T11:37:19.648230+00:00"
-  },
-  {
-   "id": "5d563064df040e73",
-   "title": "Trump wishes Pope Leo speedy recovery after lung cancer diagnosis, speaks highly of pontiff's brother",
-   "url": "https://www.foxnews.com/world/trump-wishes-pope-leo-speedy-recovery-after-lung-cancer-diagnosis-speaks-highly-pontiffs-brother",
-   "summary": "President Donald Trump revealed Pope Leo XIV&apos;s brother is a friend and avid MAGA supporter with memorabilia &quot;all over&quot; his house while wishing the pontiff well.",
-   "published": "2026-10-15T03:38:47+00:00",
-   "source": "Fox News Latest",
-   "source_id": "foxnews-latest",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-10-15T04:48:09.818695+00:00"
-  },
-  {
-   "id": "165a538672dc716a",
-   "title": "Trump on Iran talks: \u2018I don\u2019t know who the hell we\u2019re negotiating with\u2019",
-   "url": "https://thehill.com/homenews/administration/6149753-trump-montana-rally-iran-war/",
-   "summary": "President Trump said Wednesday night at a rally in Montana that he wasn\u2019t sure who U.S. officials were negotiating with in their efforts to bring an end to the Iran war.  \u201cThey don\u2019t have a navy. They don\u2019t have an air force. Their army is decimated. Their leaders are gone,\u201d the president said, referencing the...",
-   "published": "2026-10-15T03:19:33+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-15T04:48:10.464881+00:00"
-  },
-  {
-   "id": "1e649286efc33cfc",
-   "title": "Justice Department threatens California with legal action over claim of noncitizens on voter rolls",
-   "url": "https://abcnews.com/Politics/wireStory/justice-department-threatens-california-legal-action-claim-noncitizens-137262193",
-   "summary": "The Justice Department is threatening California with possible legal action over what it says are noncitizens believed to have received mail ballots for next month&rsquo;s midterm elections",
-   "published": "2026-10-15T03:12:11+00:00",
-   "source": "ABC News Politics",
-   "source_id": "abc-politics",
-   "bias_note": "center",
-   "first_seen": "2026-10-15T04:48:10.837157+00:00"
-  },
-  {
-   "id": "06b0888aca681370",
-   "title": "Trump\u2019s approval rating hits record low in Fox News poll",
-   "url": "https://thehill.com/homenews/administration/6149735-trumps-approval-rating-hits-record-low-in-fox-news-poll/",
-   "summary": "President Trump\u2019s overall approval rating hit a record low for either of his terms, according to a new Fox News survey amid growing voter dissatisfaction with his handling of key issues. The Fox News poll found 36 percent of respondents approved of Trump\u2019s overall handling of the presidency, while 64 percent disapproved. The decline, Fox...",
-   "published": "2026-10-15T03:01:10+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-15T04:48:10.464894+00:00"
-  },
-  {
-   "id": "b7075966b36a29ea",
-   "title": "Presidential Message on the Birthday of President Dwight D. Eisenhower",
-   "url": "https://www.whitehouse.gov/briefings-statements/2026/10/presidential-message-on-the-birthday-of-president-dwight-d-eisenhower-c6b1/",
-   "summary": "On this day, we mark the 136th birthday of President Dwight David Eisenhower\u2014a visionary leader, respected warrior, distinguished statesman, and noble public servant. &#160;In command of great armies&#160;and in the White House, he met every trial with steadiness, courage, and resolve, earning the enduring trust of the American People and the lasting gratitude of the [&#8230;]\nThe post Presidential Message on the Birthday of President Dwight D. Eisenhower appeared first on The White House.",
-   "published": "2026-10-15T02:17:50+00:00",
-   "source": "WhiteHouse.gov News",
-   "source_id": "whitehouse",
-   "bias_note": "official/primary-source",
-   "first_seen": "2026-10-15T04:48:09.924871+00:00"
-  },
-  {
-   "id": "009969b768f443de",
-   "title": "White House punches back at Chicago Mayor Johnson over reparations demands",
-   "url": "https://www.foxnews.com/media/white-house-slams-chicago-mayor-brandon-johnson-progressive-mayor-hits-trump-wealth-reparations",
-   "summary": "Chicago Mayor Brandon Johnson alleged Trump enriched the ultra-rich while ignoring descendants of the formerly enslaved, drawing a White House rebuke.",
-   "published": "2026-10-15T01:08:22+00:00",
-   "source": "Fox News Latest",
-   "source_id": "foxnews-latest",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-10-15T04:48:09.818731+00:00"
-  },
-  {
-   "id": "c8da790a249caf89",
-   "title": "Watchdog group challenges legality of Kushner\u2019s role in Trump administration",
-   "url": "https://thehill.com/regulation/court-battles/6149653-crew-sues-jared-kushner/",
-   "summary": "A watchdog group in a lawsuit on Wednesday challenged the legality of Jared Kushner\u2019s role in his father-in-law\u2019s administration. \u201cPrimarily, this suit seeks to bar Kushner from occupying his government position and exercising government authority in violation of the Appointments Clause,\u201d the lawsuit, from Citizens for Responsibility and Ethics in Washington (CREW), reads. \u201cIf not...",
-   "published": "2026-10-15T00:59:27+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-15T04:48:10.464957+00:00"
-  },
-  {
-   "id": "dc6e8f9771de98e3",
-   "title": "Trump torches Democrats at Arizona rally, warns they will \u2018destroy our country\u2019 ahead of midterms",
-   "url": "https://www.foxnews.com/politics/trump-torches-democrats-arizona-rally-warns-destroy-country-ahead-midterms",
-   "summary": "Trump rallied for Andy Biggs in Bullhead City, blasting Dem Gov. Katie Hobbs and urging Arizona voters to turn the state red in honor of Charlie Kirk.",
-   "published": "2026-10-15T00:06:31+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-10-15T04:48:09.800064+00:00"
-  },
-  {
-   "id": "25d4dd72b10f571b",
-   "title": "Trump announces Taiwan's plans to buy US gas",
-   "url": "https://thehill.com/newsletters/energy-environment/6149640-taiwan-buys-alaska-gas/",
-   "summary": "{beacon} Energy &#038; Environment Energy &#038; Environment &#8202; The Big Story  Trump announces Taiwan's plans to buy US gas President Trump announced Tuesday that Taiwan has agreed to purchase 30 percent of gas from the Alaska pipeline over the next 20 years. \u00a9 Photo Credit: AP Photo/Alex Brandon Speaking at a campaign rally in Wasilla,...",
-   "published": "2026-10-14T23:45:37+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-15T04:48:10.464966+00:00"
-  },
-  {
-   "id": "05b683aa7c3a70a5",
-   "title": "Rogan warns Trump's voters feel betrayed by Iran war with 'no easy way out'",
-   "url": "https://www.foxnews.com/media/rogan-warns-trumps-voters-feel-betrayed-iran-war-no-easy-way-out",
-   "summary": "Joe Rogan told Michael Douglas the Iran war has infuriated President Donald Trump&apos;s voters who believed they were electing a president to prevent new conflicts.",
-   "published": "2026-10-14T23:36:45+00:00",
-   "source": "Fox News Latest",
-   "source_id": "foxnews-latest",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-10-15T04:48:09.818781+00:00"
-  },
-  {
-   "id": "79f54501e76b346b",
-   "title": "Federal agents seize phone of Rep Ilhan Omar in raid tied to immigration fraud probe",
-   "url": "https://www.foxnews.com/politics/federal-agents-seize-phone-rep-ilhan-omar-raid-tied-immigration-fraud-probe",
-   "summary": "Federal agents raided Ilhan Omar&apos;s D.C. home and seized her cellphone as part of a criminal fraud investigation into her immigration paperwork.",
-   "published": "2026-10-14T23:18:07+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-10-15T04:48:09.800075+00:00"
-  },
-  {
-   "id": "d97a98ee1865b626",
-   "title": "Lisa Cook's lawyers call Trump's investigation committee 'demonstrably biased'",
-   "url": "https://thehill.com/business/6149573-cook-challenges-trump-inquiry-bias/",
-   "summary": "Lawyers for Federal Reserve board of governors member Lisa Cook called President Trump\u2019s investigation committee into her \u201cdemonstrably biased.\u201d \"A hearing with demonstrably biased members, unspecified additional allegations, and an unclear schedule for the disclosure of any additional evidence \u2013 with no explanation for why it was not previously produced \u2013 is not a process...",
-   "published": "2026-10-14T23:16:51+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-15T04:48:10.464976+00:00"
-  },
-  {
-   "id": "694b8f7993ef6255",
-   "title": "The Memo: Crisis and chaos hit Ukraine as questions multiply over Trump\u2019s role",
-   "url": "https://thehill.com/homenews/6149569-starshield-access-restriction-turmoil/",
-   "summary": "The war in Ukraine \u2014 and the question of the American role in it \u2014 has been thrown into a new moment of chaos and crisis. Wednesday brought a blizzard of developments: revelations that Ukraine had been abruptly restricted in its use of a satellite service which is crucial to its wartime efforts; an accusation...",
-   "published": "2026-10-14T22:50:49+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-14T23:16:38.509635+00:00"
-  },
-  {
-   "id": "a91c616e880a71be",
-   "title": "Ex-SJSU volleyball coach files new lawsuit alleging retaliation for Trump support, religion amid trans scandal",
-   "url": "https://www.foxnews.com/outkick-sports/ex-sjsu-volleyball-coach-files-new-lawsuit-alleging-retaliation-trump-support-religion-trans-scandal",
-   "summary": "Melissa Batie-Smoose&apos;s new federal lawsuit alleges Todd Kress mocked her Trump support and religious beliefs before SJSU stripped her duties.",
-   "published": "2026-10-14T22:50:36+00:00",
-   "source": "Fox News Latest",
-   "source_id": "foxnews-latest",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-10-14T23:16:37.661466+00:00"
-  },
-  {
-   "id": "887d794c873492b9",
-   "title": "FDA abortion pill review angers GOP lawmakers",
-   "url": "https://thehill.com/newsletters/healthcare/6149557-fda-abortion-pill-review-angers-gop-lawmakers/",
-   "summary": "Presented by Coalition to Strengthen Americas Healthcare {beacon} Healthcare Healthcare   PRESENTED BY  The Big Story  FDA abortion pill review angers GOP lawmakers   Congressional Republicans have some pointed questions for the Food and Drug Administration (FDA), following the agency\u2019s recent disclosure that a safety review of the abortion drug mifepristone won\u2019t be public until...",
-   "published": "2026-10-14T22:44:26+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-14T23:16:38.509644+00:00"
-  },
-  {
-   "id": "41b33cfcb66fbcda",
-   "title": "Attorney for banned outlets on legal fight over White House press access",
-   "url": "https://www.pbs.org/newshour/show/attorney-for-banned-outlets-on-legal-fight-over-white-house-press-access",
-   "summary": "A federal judge has once again ordered the White House to restore access for three news organizations President Trump banned last month over their coverage of his administration. The judge ordered full access for CNN, MS NOW and Politico while their legal challenge moves forward. Geoff Bennett discussed more with Ted Boutrous, the attorney representing the three outlets.",
-   "published": "2026-10-14T22:40:27+00:00",
-   "source": "PBS NewsHour Politics",
-   "source_id": "pbs-politics",
-   "bias_note": "center",
-   "first_seen": "2026-10-14T23:16:38.701701+00:00"
   }
  ]
 }
