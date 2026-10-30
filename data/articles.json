@@ -1,7 +1,62 @@
 {
- "updated": "2026-10-29T23:58:07.349562+00:00",
- "count": 1037,
+ "updated": "2026-10-30T05:56:02.994507+00:00",
+ "count": 1036,
  "articles": [
+  {
+   "id": "1ce111047a481a8a",
+   "title": "A midterm crossroads for both parties eyeing the beginning of the end of the Trump era",
+   "url": "https://abcnews.com/Politics/wireStory/midterm-crossroads-parties-eyeing-beginning-end-trump-era-137695844",
+   "summary": "The nation&rsquo;s major political parties are at a crossroads",
+   "published": "2026-10-30T05:09:37+00:00",
+   "source": "ABC News Politics",
+   "source_id": "abc-politics",
+   "bias_note": "center",
+   "first_seen": "2026-10-30T05:56:02.798687+00:00"
+  },
+  {
+   "id": "848ee73e23558f52",
+   "title": "Donald Trump\u2019s Texas Troubles \u2013 podcast",
+   "url": "https://www.theguardian.com/news/audio/2026/oct/30/donald-trumps-texas-troubles-podcast",
+   "summary": "Washington bureau chief David Smith reports from Texas, where the Democrats are hopeful of a stunning victory that could also signal a much wider defeat for Trump in the midtermsFor decades it would have been unthinkable, but next week the Democrats are aiming for a momentous midterms win in Texas.Washington bureau chief David Smith charts the senate race between Democrat James Talarico \u2013 a 37-year-old Presbyterian \u2013 and Republican Ken Paxton, who has been heavily backed by Donald Trump. Continue reading...",
+   "published": "2026-10-30T03:00:42+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-10-30T05:56:01.648386+00:00"
+  },
+  {
+   "id": "2ae1fb518f4c8d83",
+   "title": "Justice Department issues subpoenas to California election workers",
+   "url": "https://www.npr.org/2026/10/29/nx-s1-6022560/doj-subpoenas-california-election",
+   "summary": "Grand jury subpoenas sent to election workers in Los Angeles come amid escalating tensions between the Trump administration and California election officials over the state's voter rolls.",
+   "published": "2026-10-30T01:35:54+00:00",
+   "source": "NPR Politics",
+   "source_id": "npr-politics",
+   "bias_note": "center",
+   "first_seen": "2026-10-30T05:56:01.400661+00:00"
+  },
+  {
+   "id": "9845fb218ec12641",
+   "title": "Vivek Ramaswamy discontinues attack ad that prompted wave of revulsion",
+   "url": "https://www.theguardian.com/us-news/2026/oct/29/vivek-ramaswamy-attack-ad-ohio-governor-race-republican",
+   "summary": "Candidate for Ohio governor confirms campaign no longer airing ad that smeared rival and was defended by TrumpVivek Ramaswamy, the Republican nominee for Ohio governor, confirmed on Thursday that his campaign is no longer airing an attack ad that features the estranged mother of his Democratic opponent, Amy Acton.The ad prompted a wave of revulsion since Acton\u2019s mother, Donna Arthur, lost custody of her daughter in 1978, when her second husband, Cledith Arthur, was charged with raping her daughter between the ages of 10 and 12. Continue reading...",
+   "published": "2026-10-30T01:10:33+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-10-30T05:56:01.648398+00:00"
+  },
+  {
+   "id": "7d62568cdc3303b9",
+   "title": "Trump to join tele-rallies 19 states after midterm event cancellations",
+   "url": "https://thehill.com/homenews/campaign/6183027-trump-scheduled-virtual-rally-blitz/",
+   "summary": "The Republican National Committee (RNC) said Thursday that President Trump will appear in tele-rallies across 19 states before Election Day, an announcement which followed his two in-person event cancellations in Iowa and Kansas \"Voters across the country want to hear from President Trump before Election Day, and this 72-hour sprint will be a huge boost...",
+   "published": "2026-10-30T01:02:57+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-30T05:56:01.956226+00:00"
+  },
   {
    "id": "21c7dca38ad28c9a",
    "title": "WATCH: Trumps host Halloween celebration at the White House",
@@ -221,6 +276,17 @@
    "source_id": "pbs-politics",
    "bias_note": "center",
    "first_seen": "2026-10-29T23:58:06.538631+00:00"
+  },
+  {
+   "id": "051d757f798c333c",
+   "title": "Judge blocks Trump administration's Medicaid work requirement rule forcing proof of medical frailty",
+   "url": "https://www.pbs.org/newshour/health/judge-blocks-trump-administrations-medicaid-work-requirement-rule-forcing-proof-of-medical-frailty",
+   "summary": "Twenty-five states sued the Trump administration in June over the new Centers for Medicare and Medicaid Services guidance tied to the 2025 law known as the \"One Big Beautiful Bill.\"",
+   "published": "2026-10-29T19:53:52+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-10-30T05:56:02.147223+00:00"
   },
   {
    "id": "6456c1a71db87878",
@@ -11331,83 +11397,6 @@
    "source_id": "foxnews-politics",
    "bias_note": "right-leaning",
    "first_seen": "2026-10-16T07:15:49.201815+00:00"
-  },
-  {
-   "id": "3bcd19347769cd67",
-   "title": "Is JD Vance campaigning for the midterms \u2026 or 2028? \u2013 podcast",
-   "url": "https://www.theguardian.com/politics/audio/2026/oct/16/jd-vance-campaign-midterms-or-2028-podcast",
-   "summary": "The US vice-president is following the Donald Trump playbook, attacking the Democrats, attempting to make jokes and even swearing more. Jonathan Freedland talks to Arwa Mahdawi about why Vance is making such an effort to court votersBuy your tickets to the Guardian\u2019s post-midterm live event, hosted by Jonathan FreedlandWatch Jonathan Freedland on our new Politics Weekly YouTube channelSend your questions and feedback to politicsweeklyamerica@theguardian.comWatch Today in Focus\u2019 episode on the Trump administration investigation into Rep. Ilhan OmarRead David Smith\u2019s piece on Katie Zacharia\u2019s fi",
-   "published": "2026-10-16T04:00:52+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-10-16T07:15:50.017158+00:00"
-  },
-  {
-   "id": "254e6119b1b17c5c",
-   "title": "FBI returns 'Most Wanted' fraudster to US after India arrest in alleged $600K SNAP food stamp scheme",
-   "url": "https://www.foxnews.com/us/fbi-returns-most-wanted-fraudster-us-after-india-arrest-alleged-600k-snap-food-stamp-fraud-scheme",
-   "summary": "FBI Director Kash Patel announced Manjit Singh Bedi, accused of stealing over $600,000 in SNAP benefits in Tacoma, has been returned from India.",
-   "published": "2026-10-16T03:29:29+00:00",
-   "source": "Fox News Latest",
-   "source_id": "foxnews-latest",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-10-16T07:15:49.269644+00:00"
-  },
-  {
-   "id": "cab977fd686c4273",
-   "title": "Katie Zacharia addresses brevity of first press briefing, defends legal credentials after criticism",
-   "url": "https://www.foxnews.com/media/katie-zacharia-addresses-brevity-first-press-briefing-defends-legal-credentials-criticism",
-   "summary": "Katie Zacharia defended her debut White House press briefing and addressed California bar exam scrutiny during interview with Sean Hannity.",
-   "published": "2026-10-16T03:01:19+00:00",
-   "source": "Fox News Latest",
-   "source_id": "foxnews-latest",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-10-16T07:15:49.269656+00:00"
-  },
-  {
-   "id": "598acf0f11fc4343",
-   "title": "Zacharia confirms she did not pass bar exam",
-   "url": "https://thehill.com/homenews/administration/6152937-zacharia-bar-exam-white-house/",
-   "summary": "White House press secretary Katie Zacharia said late Thursday that she did not pass the bar exam after her legal background prior to joining the Trump administration was called into question. Zacharia, who has previously claimed to be a lawyer and was described as an \u201cattorney\u201d by President Trump, faced scrutiny in her first week...",
-   "published": "2026-10-16T02:56:42+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-16T07:15:50.273962+00:00"
-  },
-  {
-   "id": "26a7a49c1a0904f4",
-   "title": "Massie: Trump should fire Hegseth before he is impeached",
-   "url": "https://thehill.com/homenews/house/6152919-massie-calls-trump-fire-hegseth/",
-   "summary": "Rep. Thomas Massie (R-Ky.) suggested that President Trump should remove Defense Secretary Pete Hegseth from his position before the House votes to impeach him. The Kentucky Republican, who often finds himself in the crosshairs of Trump for frequently breaking with the party, was responding to a report claiming that the president was considering firing the...",
-   "published": "2026-10-16T02:38:59+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-16T07:15:50.273968+00:00"
-  },
-  {
-   "id": "2f69bc5c6a3090b3",
-   "title": "Collins, Jackson trade jabs in final Maine Senate debate: 3 takeaways",
-   "url": "https://thehill.com/homenews/campaign/6152820-susan-collins-troy-jackson-debate-takeaways/",
-   "summary": "Sen. Susan Collins (R-Maine) faced off against Democratic candidate Troy Jackson on Thursday in the final Senate debate before Maine voters head to the polls. The two traded jabs over President Trump, campaign financing, immigration reform and their voting record as the Senate race enters its final stretch. Collins stressed her bipartisan approach to voting...",
-   "published": "2026-10-16T01:08:02+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-16T07:15:50.273971+00:00"
-  },
-  {
-   "id": "4c3e534a3fd613a6",
-   "title": "Noem out of Shield of America\u2019s role, State Department confirms",
-   "url": "https://thehill.com/homenews/administration/6152805-kristi-noem-shield-americas-envoy-departure/",
-   "summary": "Former Homeland Security Secretary Kristi Noem is no longer serving as the Trump administration\u2019s special envoy to the \"Shield of the Americas\" coalition, a spokesperson confirmed to NewsNation, The Hill\u2019s broadcasting partner. State Department spokesperson Tommy Pigott said in an interview Thursday evening with NewsNation\u2019s Kellie Meyer that the ousted secretary\u2019s time had come to...",
-   "published": "2026-10-16T00:32:39+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-16T07:15:50.273985+00:00"
   }
  ]
 }
