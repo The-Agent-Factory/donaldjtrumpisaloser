@@ -1,7 +1,150 @@
 {
- "updated": "2026-10-31T05:52:13.360537+00:00",
- "count": 1018,
+ "updated": "2026-10-31T12:41:22.949533+00:00",
+ "count": 1021,
  "articles": [
+  {
+   "id": "3ba2645825a823f7",
+   "title": "SCHOEN, COOPERMAN: A red retreat for Republicans is not the same as a blue wave in 2026",
+   "url": "https://www.foxnews.com/opinion/schoen-cooperman-red-retreat-republicans-not-same-blue-wave-2026",
+   "summary": "Trump&apos;s 38% approval and a 9-point generic congressional ballot gap signal a red retreat, but Democrats lack a mandate to govern from the left.",
+   "published": "2026-10-31T12:00:56+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-10-31T12:41:21.171994+00:00"
+  },
+  {
+   "id": "e1bf93fe27283321",
+   "title": "This rightwing evangelical was one of Trump\u2019s biggest backers. Why isn\u2019t he talking about the midterms?",
+   "url": "https://www.theguardian.com/us-news/2026/oct/31/lance-wallnau-donald-trump-evangelicals",
+   "summary": "Lance Wallnau has gathered supporters to talk about Charlie Kirk and school boards \u2013 with no mention of GOPOne of Donald Trump\u2019s most influential Christian nationalist backers has privately shied away from rallying supporters for the Republican party before the midterms, instead urging them to focus their attention elsewhere \u2013 including emulating El Salvador and Poland, finding a successor for Charlie Kirk and even focusing on their own diets.At the \u201cAs One\u201d weekend for paying \u201cpartners\u201d in the Dallas-Fort Worth area earlier this month, Lance Wallnau, one of the first prominent rightwing evang",
+   "published": "2026-10-31T12:00:41+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-10-31T12:41:21.753544+00:00"
+  },
+  {
+   "id": "b3e7f31f8a3e382d",
+   "title": "Politics, norms and the DOJ's unprecedented pre-election headlines",
+   "url": "https://www.npr.org/2026/10/31/nx-s1-6020974/politics-norms-and-the-dojs-unprecedented-pre-election-headlines",
+   "summary": "The Justice Department, contrary to past norms, has stayed in the headlines in the run-up to the midterm election.",
+   "published": "2026-10-31T11:42:56+00:00",
+   "source": "NPR Politics",
+   "source_id": "npr-politics",
+   "bias_note": "center",
+   "first_seen": "2026-10-31T12:41:21.621761+00:00"
+  },
+  {
+   "id": "b9bd4efacc7fdae4",
+   "title": "Week in Politics: Trump's Midwest pivot; sharper Democratic messaging",
+   "url": "https://www.npr.org/2026/10/31/nx-s1-6019280/week-in-politics-trumps-midwest-pivot-sharper-democratic-messaging",
+   "summary": "The president heads to the midwest for two rallies he previously said were cancelled. Has his message changed this campaign season and how have Democrats sharpened their messaging?",
+   "published": "2026-10-31T11:42:51+00:00",
+   "source": "NPR Politics",
+   "source_id": "npr-politics",
+   "bias_note": "center",
+   "first_seen": "2026-10-31T12:41:21.621765+00:00"
+  },
+  {
+   "id": "dedc18260d93a05a",
+   "title": "Trump admin threatens Iran with 'consequences' as allies convene amid threats of post-election escalation",
+   "url": "https://www.foxnews.com/politics/trump-admin-threatens-iran-consequences-allies-convene-amid-threats-post-election-escalation",
+   "summary": "The Trump administration warned Iran of consequences as Marco Rubio raised energy security and Strait of Hormuz concerns at the G20 meeting.",
+   "published": "2026-10-31T11:00:54+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-10-31T12:41:21.082331+00:00"
+  },
+  {
+   "id": "d700cd3260c7ba66",
+   "title": "Election integrity, extremism and Pete Hegseth: nine voters on the US midterm election",
+   "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/31/nine-voters-us-midterms-extremism-congress-hegseth",
+   "summary": "Days away from a national verdict on Trump 2.0, we check in with nine midterm voters across the US and the political spectrumUS voters will soon deliver a national verdict on the second presidency of Donald Trump. On 3 November, millions of Americans will vote in midterm elections to decide control of the House of Representatives and Senate, as well as the governorships in 36 states and state legislatures across the country. The results could have a huge impact on Trump\u2019s final two years in office.Our reporters have interviewed nine voters across the country and the political spectrum about ex",
+   "published": "2026-10-31T11:00:44+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-10-31T12:41:21.753553+00:00"
+  },
+  {
+   "id": "3474a6c961b0ba41",
+   "title": "Trump beware: US voters are concerned about government corruption",
+   "url": "https://www.theguardian.com/us-news/2026/oct/31/trump-government-corruption-midterms-voters",
+   "summary": "Alleged self-dealing by the president and his allies doesn\u2019t look so good as corruption emerges as a key issue for midterm votersGovernment corruption a top issue for US midterm voters, exclusive poll findsVoters under 50 probably won\u2019t remember the \u201cwelfare queen\u201d. But she once embodied Republicans\u2019 claim of the underlying reason for US societal decay: the poor are a bunch of fraudsters.Ronald Reagan introduced Linda Taylor to US voters at a rally during the Republican presidential primary season in 1976. A resident of Chicago\u2019s South Side, Taylor had been arrested for welfare fraud. \u201cShe use",
+   "published": "2026-10-31T10:00:41+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-10-31T12:41:21.753577+00:00"
+  },
+  {
+   "id": "4679f08b3acd661c",
+   "title": "Trump push to oust Omar faces historic Supreme Court test, but legal experts see \u2018uncharted\u2019 twist",
+   "url": "https://www.foxnews.com/politics/trump-push-oust-omar-faces-historic-supreme-court-test-legal-experts-see-uncharted-twist",
+   "summary": "President Donald Trump&apos;s push to oust Ilhan Omar faces a key legal test, but experts say Powell v. McCormack may actually support her expulsion.",
+   "published": "2026-10-31T10:00:31+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-10-31T12:41:21.082342+00:00"
+  },
+  {
+   "id": "1530d5b3359cfb72",
+   "title": "5 races that will tell the story of the midterms",
+   "url": "https://thehill.com/homenews/analysis/6185594-midterm-elections-defining-races/",
+   "summary": "A dramatic midterm campaign is in its final days. There have been internal party tensions, deeply controversial ads, and, famously, two Dan Sullivans in Alaska's Senate race. At the center of everything, of course, is President Trump. A House majority is widely assumed to be within Democrats\u2019 grasp. The Hill\u2019s data and polling partner, Decision Desk HQ (DDHQ),...",
+   "published": "2026-10-31T10:00:00+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-31T12:41:22.004914+00:00"
+  },
+  {
+   "id": "0779b2153a516bcd",
+   "title": "Home heating costs threaten to chill GOP vote in key Senate races",
+   "url": "https://thehill.com/homenews/campaign/6183400-senate-rising-home-heating-costs/",
+   "summary": "Democrats running for Senate in Maine, Alaska and New Hampshire are zeroing in on the rising cost of home heating as winter \u2014 and Election Day \u2014 quickly approach. Republican candidates have been on defense in key Senate battlegrounds, arguing against the claim that the GOP has enabled President Trump\u2019s war in Iran, which has...",
+   "published": "2026-10-31T10:00:00+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-31T12:41:22.004921+00:00"
+  },
+  {
+   "id": "da7518839b85a717",
+   "title": "New autism study complicates Trump administration\u2019s search for cause",
+   "url": "https://thehill.com/policy/healthcare/6184086-maternal-health-autism-study/",
+   "summary": "A recently published found associations between certain maternal health conditions during pregnancy and autism diagnoses across racial and ethnic groups, underscoring how much remains unknown as the Trump administration searches for a cause of autism. Researchers from the New York University Grossman School of Medicine and the Kaiser Permanente School of Medicine published a study earlier this...",
+   "published": "2026-10-31T10:00:00+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-31T12:41:22.004928+00:00"
+  },
+  {
+   "id": "504f5f91deee7cb8",
+   "title": "Can I trust the polls? And other questions from listeners about the 2026 midterms",
+   "url": "https://www.npr.org/2026/10/31/g-s1-149981/listener-questions-npr-midterms-2026-election",
+   "summary": "Ahead of Election Day, listeners send in questions about whether debates are dead, if polls are reliable for election coverage and how Trump might work with Democrats if they win control of Congress.",
+   "published": "2026-10-31T09:00:00+00:00",
+   "source": "NPR Politics",
+   "source_id": "npr-politics",
+   "bias_note": "center",
+   "first_seen": "2026-10-31T12:41:21.621768+00:00"
+  },
+  {
+   "id": "c04370efb076a7d1",
+   "title": "Federal judge blocks Trump DOJ threats against election workers ahead of 2026 midterms",
+   "url": "https://www.foxnews.com/politics/federal-judge-blocks-trump-doj-threats-against-election-workers-ahead-2026-midterms",
+   "summary": "A federal judge blocked the Trump administration from threatening election workers with prosecution over ballots tied to suspected noncitizens.",
+   "published": "2026-10-31T05:57:05+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-10-31T12:41:21.082365+00:00"
+  },
   {
    "id": "20a68952a689145a",
    "title": "Judge blocks DOJ from threatening election officials over noncitizen voting claims",
@@ -11089,116 +11232,6 @@
    "source_id": "thehill",
    "bias_note": "center",
    "first_seen": "2026-10-17T14:05:59.393455+00:00"
-  },
-  {
-   "id": "cd2e7680a36dd038",
-   "title": "Trump administration says painting Eisenhower building would hurt landmark's history",
-   "url": "https://thehill.com/homenews/administration/6155709-eisenhower-building-landmark-painting/",
-   "summary": "The Trump administration\u2019s plan to put a coat of white paint on the exterior of the Eisenhower Executive Office Building would diminish the historic character of the 19th-century landmark, according to a draft environmental assessment published Friday. \"The unpainted exterior granite walls, including their natural detail (e.g., grey and pink hues), were hand-selected by the...",
-   "published": "2026-10-17T12:10:08+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-17T14:05:59.393467+00:00"
-  },
-  {
-   "id": "16c5c6477bba56a5",
-   "title": "Fraud, affordability and Trump policies drive friction in Minnesota Senate debate",
-   "url": "https://www.npr.org/2026/10/17/nx-s1-6004910/minn-us-senate-race",
-   "summary": "The major party candidates for Minnesota's U.S. Senate seat faced off in an hourlong debate Friday on MPR News with fraud, affordability and fallout from the Trump administration's policies as key points of friction.",
-   "published": "2026-10-17T11:43:14+00:00",
-   "source": "NPR Politics",
-   "source_id": "npr-politics",
-   "bias_note": "center",
-   "first_seen": "2026-10-17T12:14:01.357368+00:00"
-  },
-  {
-   "id": "3fb9e3b581a5b007",
-   "title": "Week in Politics: Trump's Russian diesel deal update; why the DOJ is suing California",
-   "url": "https://www.npr.org/2026/10/17/nx-s1-5998079/week-in-politics-trumps-russian-diesel-deal-update-why-the-doj-is-suing-california",
-   "summary": "We look at where things are in the deal President Trump says he made to import Russian diesel, plus the reason why the Justice Department is suing California.",
-   "published": "2026-10-17T11:43:08+00:00",
-   "source": "NPR Politics",
-   "source_id": "npr-politics",
-   "bias_note": "center",
-   "first_seen": "2026-10-17T12:14:01.357385+00:00"
-  },
-  {
-   "id": "688044c80e021818",
-   "title": "Ilhan Omar's turbulent week explained: The dueling probes that threw the Somali-born progressive into chaos",
-   "url": "https://www.foxnews.com/politics/ilhan-omars-turbulent-week-explained-dueling-probes-threw-somali-born-progressive-chaos",
-   "summary": "Federal agents raided Ilhan Omar&apos;s D.C. home, seizing her phone, computers and passport as part of a criminal probe into immigration fraud.",
-   "published": "2026-10-17T11:00:10+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-10-17T12:14:00.754765+00:00"
-  },
-  {
-   "id": "2b57b5512455f86a",
-   "title": "The Memo: Ukraine's slide into crisis sharpens questions for Trump",
-   "url": "https://thehill.com/homenews/analysis/6155440-trump-zelensky-ukraine-russia-diesel-starlink/",
-   "summary": "Tumult and doubt are hanging over the role of the United States in the war in Ukraine, 4 1/2 years after the Russian invasion. That\u2019s the bottom line after a week of high drama that roiled Washington, Kyiv and concerned political leaders in Europe. The U.S. stance is, of course, determined by President Trump, often...",
-   "published": "2026-10-17T10:00:00+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-17T12:14:01.927624+00:00"
-  },
-  {
-   "id": "4c499a267da8a576",
-   "title": "Ukraine faces grim question of whether it can take on Russia without US backing",
-   "url": "https://thehill.com/policy/defense/6154982-trump-starlink-ukraine-russia-fight/",
-   "summary": "The disruptions this week in U.S. support for Ukraine have forced Kyiv to face a grim question: Can it stay in the fight against Russia without any of President Trump\u2019s already diminished support? Ukrainian President Volodymyr Zelensky has escalated a diplomatic assault, earlier this week accusing the Trump administration of throttling its access to Elon...",
-   "published": "2026-10-17T10:00:00+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-17T12:14:01.927634+00:00"
-  },
-  {
-   "id": "ee908a959316d480",
-   "title": "Biden-appointed judge deals Trump another sanctuary city defeat in major immigration fight",
-   "url": "https://www.foxnews.com/politics/biden-appointed-judge-deals-trump-another-sanctuary-city-defeat-major-immigration-fight",
-   "summary": "A federal judge ruled Trump&apos;s lawsuit against New York City&apos;s sanctuary policies fails, citing the Tenth Amendment&apos;s anti-commandeering doctrine.",
-   "published": "2026-10-17T09:00:40+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-10-17T12:14:00.754807+00:00"
-  },
-  {
-   "id": "c2719c36fef6844a",
-   "title": "All the president\u2019s women: a familiar downward trajectory in Trump\u2019s cabinet",
-   "url": "https://www.theguardian.com/us-news/2026/oct/17/trump-female-cabinet-officials-departures",
-   "summary": "Half of Trump\u2019s female cabinet officials have been replaced by men, while men facing misconduct allegations remainDonald Trump is not, by any measure, a feminist. He has said so himself. But the president has often pointed to his hiring and promoting of women in an attempt to stave off criticism of both his policies and personal conduct over the years.During his second term, however, there is one common characteristic among most of those who have departed the Trump administration. Continue reading...",
-   "published": "2026-10-17T09:00:28+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-10-17T12:14:01.651178+00:00"
-  },
-  {
-   "id": "ea0bcaeafae23e91",
-   "title": "Trump promised a swing district blitz. He's going to a lot of very red states",
-   "url": "https://www.npr.org/2026/10/17/nx-s1-6004276/trump-travel-midterms",
-   "summary": "President Trump's midterm travel blitz ahead of Election Day includes several red states he won easily 2 years ago, showing the electoral landscape is more challenging for Republicans.",
-   "published": "2026-10-17T09:00:00+00:00",
-   "source": "NPR Politics",
-   "source_id": "npr-politics",
-   "bias_note": "center",
-   "first_seen": "2026-10-17T12:14:01.357389+00:00"
-  },
-  {
-   "id": "ce9eff0196614ba9",
-   "title": "Army expo attendees skeptical of Trump's Iran peace deal hopes: 'Beat 'em into submission'",
-   "url": "https://www.foxnews.com/politics/army-expo-attendees-skeptical-trumps-iran-peace-deal-hopes-beat-em-submission",
-   "summary": "AUSA Exposition attendees question Trump&apos;s optimism about an Iran deal, arguing military and economic sanctions must intensify before Tehran talks.",
-   "published": "2026-10-17T08:00:05+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-10-17T12:14:00.754821+00:00"
   }
  ]
 }
