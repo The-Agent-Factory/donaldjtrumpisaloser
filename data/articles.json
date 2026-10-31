@@ -1,7 +1,117 @@
 {
- "updated": "2026-10-31T12:41:22.949533+00:00",
- "count": 1021,
+ "updated": "2026-10-31T15:58:13.131885+00:00",
+ "count": 1024,
  "articles": [
+  {
+   "id": "f2e02c8423b5b1b2",
+   "title": "How Obama appointee and Trump nemesis Boasberg ended up overseeing Ilhan Omar warrant, other key cases",
+   "url": "https://www.foxnews.com/politics/obama-appointee-trump-nemesis-boasberg-overseeing-ilhan-omar-warrant-key-cases",
+   "summary": "Judge James Boasberg oversees the Ilhan Omar search warrant fight, deportation flights, and California voter rolls, raising assignment questions.",
+   "published": "2026-10-31T14:53:53+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-10-31T15:58:11.827419+00:00"
+  },
+  {
+   "id": "5b6c9121d9b67629",
+   "title": "DC, Virginia sue to block Trump's triumphal arch",
+   "url": "https://thehill.com/homenews/administration/6186090-trump-triumphal-arch-lawsuit/",
+   "summary": "Washington, D.C., and Virginia sued the National Parks Service and Interior Department to block President Trump\u2019s proposed triumphal arch on Saturday, a new court filing shows. The planned arch would resemble arches in other cities, including Paris\u2019s Arc de Triomphe, and be constructed on the border between D.C. and Virginia. In the court filing, the...",
+   "published": "2026-10-31T14:43:19+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-31T15:58:12.355472+00:00"
+  },
+  {
+   "id": "37c1197fabf30b82",
+   "title": "How Trump and his allies seek to interfere in the US midterm elections",
+   "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/31/trump-allies-interfere-us-midterm-elections",
+   "summary": "The administration\u2019s efforts have raised concerns among experts about potential disruptions after election dayDonald Trump is waging a brazen effort to interfere with voting in this year\u2019s midterm elections, escalating concerns that the federal government will try to slow down certification of election results \u2013 a strategy that could create chaos when the new Congress is seated next year.Experts are certain the administration\u2019s efforts to subvert America\u2019s elections will not work. And some have bemoaned \u201cfearmongering\u201d about far-fetched scenarios that are unlikely to go anywhere in court. Cont",
+   "published": "2026-10-31T14:00:44+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-10-31T15:58:12.219624+00:00"
+  },
+  {
+   "id": "fccdb894d7271c34",
+   "title": "Justice Department seeks to isolate Alaska ballots amid criminal probe over Senate candidate",
+   "url": "https://www.npr.org/2026/10/31/nx-s1-6024423/criminal-probe-alaska-senate-candidate",
+   "summary": "The latest developments come amid allegations, first reported by The New York Times, that Democrats recruited a spoiler candidate in the toss-up U.S. Senate race.",
+   "published": "2026-10-31T13:50:58+00:00",
+   "source": "NPR Politics",
+   "source_id": "npr-politics",
+   "bias_note": "center",
+   "first_seen": "2026-10-31T15:58:12.178508+00:00"
+  },
+  {
+   "id": "9aa9912d01f029ec",
+   "title": "Trump administration attempts to bypass restrictions on sending Afghan refugees to Afghanistan: Reports",
+   "url": "https://thehill.com/homenews/administration/6186030-trump-afghan-refugees-afghanistan/",
+   "summary": "The Trump administration is proceeding with plans to effectively deport some Afghan refugees to Afghanistan, despite concerns they could become targets of the Taliban there, according to several reports. Dozens of Afghan immigrants have been detained in Louisiana and over 150 people are expected to be deported, making this among the largest single deportations of...",
+   "published": "2026-10-31T13:26:26+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-31T15:58:12.355509+00:00"
+  },
+  {
+   "id": "a2faaae43cb6b89e",
+   "title": "Affordability, AI and Iran: Americans on the key issues guiding their midterm votes",
+   "url": "https://www.theguardian.com/us-news/2026/oct/31/americans-voters-midterm-election-key-issues",
+   "summary": "Guardian readers share their concerns and disillusionment with the political climate under Trump as elections loomMillions of Americans will head to the polls on 3 November in elections that will determine control of the Republican-held House of Representatives and Senate, as well as the governorships of 36 states.The midterms come amid mounting public frustration over issues ranging from the rising cost of living and immigration to the climate crisis, artificial intelligence, big tech and the US\u2019s overseas wars. Donald Trump\u2019s approval rating has fallen to 36%, according to a New York Times/S",
+   "published": "2026-10-31T13:00:45+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-10-31T15:58:12.219641+00:00"
+  },
+  {
+   "id": "26809fb0d03d158d",
+   "title": "Trump boosted half of US coal plants with taxpayer dollars and \u2018free passes to pollute\u2019, report says",
+   "url": "https://www.theguardian.com/us-news/2026/oct/31/trump-coal-plants-taxpayer-dollars",
+   "summary": "Environmental Defense Fund analysis shows administration handed out $950m and Clean Air Act exemptionsIt\u2019s a good time to be a coal plant in the US. The Trump administration has given support to almost half of the nation\u2019s coal plants, helping them to continue operating despite economic and regulatory headwinds, according to a new analysis by the Environmental Defense Fund.The analysis, which looked at the 184 operating coal plants that are connected to the grid, found that 90 received support from the Trump administration through \u201ccash handouts, free passes to pollute, and requirements to sta",
+   "published": "2026-10-31T13:00:42+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-10-31T15:58:12.219655+00:00"
+  },
+  {
+   "id": "2b39ee300a10649d",
+   "title": "Presidential Message on Reformation Day",
+   "url": "https://www.whitehouse.gov/briefings-statements/2026/10/presidential-message-on-reformation-day/",
+   "summary": "From the earliest days of our Republic, prayer and faith in Almighty God have stood as the foundation of our strength, the source of our unity, and the fount of our greatness.&#160; This Reformation Day, I send my best wishes to the countless Christians across our country commemorating the Protestant Reformation and its enduring message [&#8230;]\nThe post Presidential Message on Reformation Day appeared first on The White House.",
+   "published": "2026-10-31T13:00:00+00:00",
+   "source": "WhiteHouse.gov News",
+   "source_id": "whitehouse",
+   "bias_note": "official/primary-source",
+   "first_seen": "2026-10-31T15:58:11.890754+00:00"
+  },
+  {
+   "id": "6b38901368783e07",
+   "title": "Live updates: Trump telerallies planned in 19 states; Atlanta G20 meeting continues after early tensions",
+   "url": "https://thehill.com/homenews/administration/6185643-trump-tele-rally-midterm-elections-g20/",
+   "summary": "President Trump is slated to speak at telerallies across the country Saturday, marking his last scheduled campaign appearance in several key battlegrounds before Election Day next week. Trump is set to appear in virtual events in at least 19 states \u2014 Alabama, Alaska, Arizona, Colorado, Florida, Iowa, Kansas, Louisiana, Michigan, Montana, Nebraska, Nevada, New Mexico,...",
+   "published": "2026-10-31T13:00:00+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-31T15:58:12.355520+00:00"
+  },
+  {
+   "id": "fb5f43d4dde6cd82",
+   "title": "DOJ pushes to isolate Alaska ballots in Peltola probe",
+   "url": "https://thehill.com/homenews/campaign/6186007-peltola-sullivan-vote-confusion-lawsuit/",
+   "summary": "The Department of Justice (DOJ) pushed to isolate some Alaska ballots as part of a probe into whether the presence of two candidates with the same name could confuse voters in the state, a Friday court filing shows. The investigation centers around reporting by The New York Times that Democratic Senate candidate Mary Peltola\u2019s campaign...",
+   "published": "2026-10-31T12:47:30+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-31T15:58:12.355527+00:00"
+  },
   {
    "id": "3ba2645825a823f7",
    "title": "SCHOEN, COOPERMAN: A red retreat for Republicans is not the same as a blue wave in 2026",
@@ -124,6 +234,17 @@
    "first_seen": "2026-10-31T12:41:22.004928+00:00"
   },
   {
+   "id": "b141f319ec6b99e6",
+   "title": "Can Democrats win Maha voters after Trump let them down?",
+   "url": "https://www.theguardian.com/society/2026/oct/31/democrats-maha-voters",
+   "summary": "The party is hoping they can integrate the public health message with grassroots concern, but leave behind conspiracy theoriesChellie Pingree remembers when she moved to Maine as a teenager in the 1970s \u2013 she was one \u201chippie\u201d among thousands in the back-to-the-land movement, when baby boomers fled to the sticks to revitalize small organic farms.Today, she\u2019s a Democratic US Representative for Maine, but still knee-deep in the organic movement. And she\u2019s starting to see a lot of new faces \u2013 many pulled in by the Make America Healthy Again (Maha) movement, largely led by the Trump administration\u2019",
+   "published": "2026-10-31T09:00:38+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-10-31T15:58:12.219742+00:00"
+  },
+  {
    "id": "504f5f91deee7cb8",
    "title": "Can I trust the polls? And other questions from listeners about the 2026 midterms",
    "url": "https://www.npr.org/2026/10/31/g-s1-149981/listener-questions-npr-midterms-2026-election",
@@ -133,6 +254,17 @@
    "source_id": "npr-politics",
    "bias_note": "center",
    "first_seen": "2026-10-31T12:41:21.621768+00:00"
+  },
+  {
+   "id": "cf82d110ef8039eb",
+   "title": "As Trump fans the flames of a world on fire, can diplomacy take back control?",
+   "url": "https://www.theguardian.com/us-news/2026/oct/31/as-trump-fans-the-flames-of-a-world-on-fire-can-diplomacy-take-back-control",
+   "summary": "Amid the chaos, havoc and war caused by a capricious and amoral US president, countries are waking up to the dangers of being excluded and abused by AmericaNever has there been a time when the world has been more interconnected than now. What happens in the secretive inner councils in Tehran, the mountains of south-west Yemen, the steppe of the Donbas, the still bloody wasteland that is Gaza and even the elegant boulevards of Paris and Milan have a common thread.One cannot understand one set of conflicts without weaving them into another, and it is this very interdependence that is making each",
+   "published": "2026-10-31T06:00:38+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-10-31T15:58:12.219751+00:00"
   },
   {
    "id": "c04370efb076a7d1",
@@ -276,6 +408,17 @@
    "source_id": "pbs-politics",
    "bias_note": "center",
    "first_seen": "2026-10-30T23:52:25.130361+00:00"
+  },
+  {
+   "id": "3c715f9b0471b0a4",
+   "title": "Justice Department seeks to isolate Alaska ballots as criminal probe underway over Senate candidate",
+   "url": "https://www.pbs.org/newshour/politics/top-federal-prosecutor-in-alaska-says-criminal-probe-underway-over-would-be-spoiler-senate-candidate",
+   "summary": "The dueling developments came days before Tuesday's ranked choice general election, in a race headlined by two-term Republican Sen. Dan Sullivan and Democratic former U.S. Rep. Mary Peltola. The race is among a handful nationwide expected to determine control of the Senate.",
+   "published": "2026-10-30T22:12:36+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-10-31T15:58:12.656863+00:00"
   },
   {
    "id": "a14f1102d16bd286",
@@ -11122,116 +11265,6 @@
    "source_id": "thehill",
    "bias_note": "center",
    "first_seen": "2026-10-17T18:32:38.360751+00:00"
-  },
-  {
-   "id": "669bd866fd493ff9",
-   "title": "Trump's decision to waive Russian sanctions outrages Congress, but no quick counter seen",
-   "url": "https://www.pbs.org/newshour/politics/trumps-decision-to-waive-russian-sanctions-outrages-congress-but-no-quick-counter-seen",
-   "summary": "Lawmakers from both parties blasted the executive order late Friday, the latest in a series of steps that the Republican president has taken drawing the United States closer to Russia's Vladimir Putin.",
-   "published": "2026-10-17T15:57:10+00:00",
-   "source": "PBS NewsHour Politics",
-   "source_id": "pbs-politics",
-   "bias_note": "center",
-   "first_seen": "2026-10-17T18:32:38.552223+00:00"
-  },
-  {
-   "id": "f1eaa5e00da7d229",
-   "title": "George Santos: 'I\u2019d jump to serve' as White House press secretary",
-   "url": "https://thehill.com/homenews/house/6155846-george-santos-press-secretary/",
-   "summary": "Former Rep. George Santos (R-Fla.) pitched himself on Friday to fill the vacancy left by White House press secretary Katie Zacharia.\u00a0 \u201cHey I\u2019m not technically open for a job because I have one already\u2026. butttttttt\u2026 I\u2019d jump to serve POTUS as press secretary in a heart beat. Just saying,\u201d the former Republican lawmaker wrote on...",
-   "published": "2026-10-17T15:02:11+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-17T15:42:48.074498+00:00"
-  },
-  {
-   "id": "1fe3e3dbce21e977",
-   "title": "Final Trump arch plans submitted to city omit proposed military complex",
-   "url": "https://thehill.com/homenews/administration/6155776-trump-arch-plans-omit-military-complex/",
-   "summary": "Final site plans for President Trump\u2019s proposed, 250-foot-tall triumphal arch do not mention the military features he previously said he would add to the project, according to documentation the Interior Department submitted to the National Capital Planning Commission.   The president announced in late September the structure, slated to be built between Arlington National Cemetery...",
-   "published": "2026-10-17T14:45:12+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-17T15:42:48.074516+00:00"
-  },
-  {
-   "id": "e39233503569adc3",
-   "title": "Sullivan walks the line with Trump in Alaska Senate race",
-   "url": "https://www.politico.com/news/2026/10/17/alaska-senate-sullivan-trump-peltola-01125231",
-   "summary": "Sen. Dan Sullivan in an interview with POLITICO declined to put distance between himself and President Donald Trump.",
-   "published": "2026-10-17T14:45:00+00:00",
-   "source": "Politico",
-   "source_id": "politico",
-   "bias_note": "center",
-   "first_seen": "2026-10-17T15:42:47.942790+00:00"
-  },
-  {
-   "id": "f4290472ac1a332c",
-   "title": "Elon Musk agrees to settle lawsuits over 2024 election lottery",
-   "url": "https://www.theguardian.com/technology/2026/oct/17/elon-musk-2024-million-dollar-promise-lawsuit",
-   "summary": "Trump-boosting billionaire was sued over promise to give away $1m per day to random signatories of petitionElon Musk and his \u2060America Pac political action committee said recently that they agreed to settle two \u2060proposed class \u2060actions \u200balleging the billionaire entrepreneur defrauded residents in closely contested states before the \u20602024 US election by promising voters a lottery-style daily $1m giveaway.The plaintiffs, Musk and America Pac \u200btold the \u200cjudge overseeing the two \u200crelated lawsuits in federal court in Austin, Texas, \u200con Thursday that they have reached settlements subject to court app",
-   "published": "2026-10-17T14:42:11+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-10-17T15:42:47.897204+00:00"
-  },
-  {
-   "id": "d54d98ee7a50c084",
-   "title": "Zelensky on Trump waiving Russia sanctions: 'This Act could have helped enormously'",
-   "url": "https://thehill.com/policy/international/6155800-zelensky-condemns-trump-russia-sanctions-waiver/",
-   "summary": "Ukrainian President Volodymyr Zelensky decried President Trump\u2019s late-night decision to waive sanctions and tariffs against Russia days before they were set to take effect under a new law. \u201cAt a time when the Russians have carried out such a massive attack on our energy sector, a decision was unfortunately made in America to completely disregard...",
-   "published": "2026-10-17T14:08:22+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-17T15:42:48.074523+00:00"
-  },
-  {
-   "id": "d716705a1d9605b5",
-   "title": "Trump is hitting the campaign trail. But he's missing from GOP ads.",
-   "url": "https://www.politico.com/news/2026/10/17/trump-candidates-ads-midterms-01124957",
-   "summary": "Republican candidates are avoiding talking about Trump on the airwaves, even in deep-red districts where they used to feature him.",
-   "published": "2026-10-17T14:00:00+00:00",
-   "source": "Politico",
-   "source_id": "politico",
-   "bias_note": "center",
-   "first_seen": "2026-10-17T14:05:59.271959+00:00"
-  },
-  {
-   "id": "5dc59109c8cb041d",
-   "title": "GOP lawmakers bash Trump's decision to waive Russia sanctions: 'Beyond irresponsible'",
-   "url": "https://thehill.com/homenews/administration/6155725-trump-waives-russia-sanctions/",
-   "summary": "Several GOP lawmakers criticized President Trump\u2019s move to exempt Russia from the sanctions bill he signed law last month, with Sen. Thom Tillis (R- N.C.) calling the move \"beyond irresponsible.\" Trump signed an executive order Friday evening to waive sanctions against Russia in a legislative package that was meant to put pressure on the Kremlin...",
-   "published": "2026-10-17T13:23:47+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-17T14:05:59.393439+00:00"
-  },
-  {
-   "id": "96a929d21662eb87",
-   "title": "Ilhan Omar should be jailed, deported if citizenship fraud proven, Top House Republican says",
-   "url": "https://www.foxnews.com/politics/ilhan-omar-should-jailed-deported-citizenship-fraud-proven-top-house-republican-says",
-   "summary": "House Majority Whip Tom Emmer says Ilhan Omar should serve jail time and be deported if the federal investigation proves she lied on paperwork.",
-   "published": "2026-10-17T13:00:13+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-10-17T14:05:58.413044+00:00"
-  },
-  {
-   "id": "90c13074d8881400",
-   "title": "Live updates: Trump-Zelensky relationship rocky over Russia sanctions, Starlink; Obama campaigns in Michigan, Ohio",
-   "url": "https://thehill.com/homenews/administration/6155519-live-updates-trump-and-zelensky-relationship-rocky-over-russia-sanctions-starlink-obama-campaigns-in-michigan-ohio/",
-   "summary": "President Trump plans to travel back and forth Saturday between Mar-a-Lago and Highland Heights, Kentucky, where he is set to deliver remarks at 2 p.m., while former President Obama also holds campaign events in Ohio and Michigan. The former Democratic president will travel to Detroit and Cleveland in an attempt to move the needle in...",
-   "published": "2026-10-17T13:00:00+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-17T14:05:59.393455+00:00"
   }
  ]
 }
