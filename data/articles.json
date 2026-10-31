@@ -1,7 +1,194 @@
 {
- "updated": "2026-10-31T18:36:36.908107+00:00",
- "count": 1025,
+ "updated": "2026-10-31T23:25:45.408557+00:00",
+ "count": 1037,
  "articles": [
+  {
+   "id": "fdc667fffbbb4be4",
+   "title": "Virginia and D.C. sue to block construction of Trump arch",
+   "url": "https://www.npr.org/2026/10/31/nx-s1-6024694/virginia-dc-sue-trump-arch",
+   "summary": "U.S. District Court Judge Tanya Chutkin ordered both sides to talk and to agree on a proposed briefing schedule on the motion for a temporary restraining order by Saturday evening.",
+   "published": "2026-10-31T22:48:51+00:00",
+   "source": "NPR Politics",
+   "source_id": "npr-politics",
+   "bias_note": "center",
+   "first_seen": "2026-10-31T23:25:44.119396+00:00"
+  },
+  {
+   "id": "9b477d164766596a",
+   "title": "Attorneys for Alaska say 'meritless' Trump demand to set aside Senate ballots 'not even possible'",
+   "url": "https://www.pbs.org/newshour/politics/attorneys-for-alaska-say-meritless-trump-demand-to-set-aside-senate-ballots-not-even-possible",
+   "summary": "The Department of Justice on Friday added a request that the judge separate all ballots showing votes for the second Dan Sullivan until it can be determined whether voters were fooled into wasting their votes for a spoiler candidate.",
+   "published": "2026-10-31T22:22:29+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-10-31T23:25:44.759519+00:00"
+  },
+  {
+   "id": "f7135d3147fc6bc3",
+   "title": "Paxton and Talarico tussle for Texas Senate seat as Trump campaigns virtually",
+   "url": "https://www.pbs.org/newshour/politics/paxton-and-talarico-tussle-for-texas-senate-seat-as-trump-campaigns-virtually",
+   "summary": "The closing sprint in Texas comes as early voting nears its conclusion in several states. Early balloting totals were approaching 50 million heading into the weekend. About 112 million voted in total in the 2022 midterm elections.",
+   "published": "2026-10-31T22:14:59+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-10-31T23:25:44.759524+00:00"
+  },
+  {
+   "id": "d87cb2fcfc71a0a8",
+   "title": "Rubio says the US government did not facilitate Bolsonaro\u2019s flight to the US",
+   "url": "https://abcnews.com/Politics/wireStory/rubio-us-government-facilitate-bolsonaros-flight-us-137740656",
+   "summary": "U.S. Secretary of State Marco Rubio says the Trump administration did not help Fl&aacute;vio Bolsonaro leave Brazil after his election defeat",
+   "published": "2026-10-31T21:39:44+00:00",
+   "source": "ABC News Politics",
+   "source_id": "abc-politics",
+   "bias_note": "center",
+   "first_seen": "2026-10-31T23:25:45.145159+00:00"
+  },
+  {
+   "id": "d3d571117e17877f",
+   "title": "How House Democrats' 'deterrence message' on Trump jobs could backfire",
+   "url": "https://www.foxnews.com/politics/house-democrats-deterrence-message-trump-jobs-could-backfire-former-federal-prosecutor-warns",
+   "summary": "Elissa Slotkin&apos;s warning to young Americans about joining Trump&apos;s administration could hand Republicans legal ammunition under Trump v. Mazars.",
+   "published": "2026-10-31T21:36:15+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-10-31T23:25:43.443592+00:00"
+  },
+  {
+   "id": "5579866f60d4174d",
+   "title": "Judge dismisses Trump suit against Wall Street Journal over Epstein birthday letter",
+   "url": "https://www.pbs.org/newshour/politics/judge-dismisses-trump-suit-against-wall-street-journal-over-epstein-birthday-letter",
+   "summary": "U.S. District Judge Darrin Gayles in Miami dismissed the suit with prejudice, ruling that the president did not prove the defendants made defamatory statements with actual malice as required by law.",
+   "published": "2026-10-31T21:32:54+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-10-31T23:25:44.759527+00:00"
+  },
+  {
+   "id": "79463c6a033445bb",
+   "title": "What a midterm race in Kentucky says about how Democrats may do in Trump strongholds",
+   "url": "https://www.npr.org/2026/10/31/nx-s1-6023294/what-a-midterm-race-in-kentucky-says-about-how-democrats-may-do-in-trump-strongholds",
+   "summary": "Democrats are putting up a fight in midterm races this year that went for President Donald Trump by double digits in 2024. Kentucky Public Radio's Sylvia Goodman explains what we can learn from one Kentucky district.",
+   "published": "2026-10-31T21:14:36+00:00",
+   "source": "NPR Politics",
+   "source_id": "npr-politics",
+   "bias_note": "center",
+   "first_seen": "2026-10-31T23:25:44.119402+00:00"
+  },
+  {
+   "id": "a6f4d82f698bd79b",
+   "title": "Election officials worry about DOJ monitoring of Tuesday's vote",
+   "url": "https://www.npr.org/2026/10/31/nx-s1-6019312/election-officials-worry-about-doj-monitoring-of-tuesdays-vote",
+   "summary": "Some election officials have been notified that the DOJ will be monitoring their polling stations. NPR's voting correspondent Miles Parks explains what he's watching for on election day - and afterwards.",
+   "published": "2026-10-31T21:14:31+00:00",
+   "source": "NPR Politics",
+   "source_id": "npr-politics",
+   "bias_note": "center",
+   "first_seen": "2026-10-31T23:25:44.119407+00:00"
+  },
+  {
+   "id": "b0e499dd6a9a23eb",
+   "title": "Sunday shows preview: Candidates make last-minute pitches ahead of Tuesday's midterms; Economy weighs heavily on voters' minds",
+   "url": "https://thehill.com/homenews/sunday-talk-shows/6186417-sunday-shows-preview-candidates-make-last-minute-pitches-ahead-of-tuesdays-midterms-economy-weighs-heavily-on-voters-minds/",
+   "summary": "With just days to go before the midterm elections, Republicans and Democrats are making their final case to voters to turn out at the polls on Nov. 3.  President Trump made a surprise reversal this week after his last-minute decision to cancel rallies in battleground states, announcing a day later he would travel to Kansas...",
+   "published": "2026-10-31T20:54:41+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-31T23:25:44.495152+00:00"
+  },
+  {
+   "id": "6b71f2733154d341",
+   "title": "Judge dismisses Trump lawsuit against Wall Street Journal over Epstein birthday letter",
+   "url": "https://www.theguardian.com/us-news/2026/oct/31/judge-dismisses-trump-lawsuit-wall-street-journal-epstein",
+   "summary": "Ruling \u2018with prejudice\u2019 means US president may not amend or refile his lawsuit over his alleged birthday letter to Jeffrey EpsteinA US judge dismissed Donald Trump\u2019s lawsuit against the Wall Street Journal with prejudice on Saturday, according to a court filing, bringing an end to his legal challenge over the newspaper\u2019s reporting on his alleged birthday letter to Jeffrey Epstein.The decision follows an earlier dismissal in April that had allowed Trump to revise his complaint. As of Saturday, the case is dismissed with prejudice, meaning the lawsuit cannot be amended or refiled. Continue readi",
+   "published": "2026-10-31T20:31:39+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-10-31T23:25:44.201001+00:00"
+  },
+  {
+   "id": "1ff3338c96671325",
+   "title": "Kid Rock reveals what he told French President Macron after Trump unexpectedly handed him phone on golf course",
+   "url": "https://www.foxnews.com/media/kid-rock-reveals-told-french-president-macron-trump-unexpectedly-handed-phone-golf-course",
+   "summary": "Kid Rock told Bill Maher how a golf outing with Trump ended with him holding the phone mid-call with Emmanuel Macron in a viral &quot;Real Time&quot; moment.",
+   "published": "2026-10-31T20:30:25+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-10-31T23:25:43.527978+00:00"
+  },
+  {
+   "id": "9f9ae25a8baa8649",
+   "title": "Attorneys for Alaska say 'meritless' Trump demand to set aside Senate ballots 'not even possible'",
+   "url": "https://abcnews.com/Politics/wireStory/attorneys-alaska-meritless-trump-demand-set-aside-senate-137738992",
+   "summary": "Alaska&rsquo;s Republican-run state government is urging a federal judge to dismiss a lawsuit filed at President Donald Trump&rsquo;s direction to stop the certification of a possible Democratic win in that state&rsquo;s pivotal U.S. Senate race",
+   "published": "2026-10-31T20:14:48+00:00",
+   "source": "ABC News Politics",
+   "source_id": "abc-politics",
+   "bias_note": "center",
+   "first_seen": "2026-10-31T23:25:45.145164+00:00"
+  },
+  {
+   "id": "f02fdd11cf950c41",
+   "title": "Analysis: More than 40% of names on DOJ list of alleged noncitizens not on California's voter rolls",
+   "url": "https://www.pbs.org/newshour/politics/analysis-more-than-40-of-names-on-doj-list-of-alleged-noncitizens-not-on-californias-voter-rolls",
+   "summary": "It's the first outside analysis of a list that the Department of Justice has used to threaten prosecution of election officials. The analysis also found that thousands of U.S. citizens appear to be flagged as ineligible to vote on the government's list.",
+   "published": "2026-10-31T20:03:15+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-10-31T23:25:44.759531+00:00"
+  },
+  {
+   "id": "55c5d70468c00a0c",
+   "title": "Paxton and Talarico tussle for Texas Senate seat. Trump to campaign virtually instead of in person",
+   "url": "https://abcnews.com/Politics/wireStory/paxton-talarico-tussle-texas-senate-seat-trump-campaign-137737592",
+   "summary": "President Donald Trump is taking time off from the in-person campaign trail for virtual rallies",
+   "published": "2026-10-31T19:42:01+00:00",
+   "source": "ABC News Politics",
+   "source_id": "abc-politics",
+   "bias_note": "center",
+   "first_seen": "2026-10-31T23:25:45.145167+00:00"
+  },
+  {
+   "id": "ae019a957d68601e",
+   "title": "Trump prosecutions under Biden set precedent for DOJ\u2019s Alaska \u2018Decoy Dan\u2019 probe, ex-FEC chair says",
+   "url": "https://www.foxnews.com/politics/trump-prosecutions-biden-set-precedent-doj-alaska-decoy-dan-probe-ex-fec-chair-says",
+   "summary": "Hans von Spakovsky says Jack Smith&apos;s Trump indictment set the precedent for the DOJ&apos;s criminal probe into Alaska&apos;s &quot;Decoy Dan&quot; Senate race scheme.",
+   "published": "2026-10-31T19:09:02+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-10-31T23:25:43.443610+00:00"
+  },
+  {
+   "id": "2552f9646fc36a55",
+   "title": "More than 40% of names on DOJ list of alleged noncitizens not on California's voter rolls: analysis",
+   "url": "https://abcnews.com/Politics/wireStory/40-names-doj-list-alleged-noncitizens-californias-voter-137737426",
+   "summary": "More than 4 in 10 names flagged as possible noncitizen voters in California by the Trump administration can&rsquo;t even be found on the state&rsquo;s voter rolls",
+   "published": "2026-10-31T19:05:46+00:00",
+   "source": "ABC News Politics",
+   "source_id": "abc-politics",
+   "bias_note": "center",
+   "first_seen": "2026-10-31T23:25:45.145170+00:00"
+  },
+  {
+   "id": "231a6176aee650b5",
+   "title": "Lula and Milei both owe their victories to Trump",
+   "url": "https://thehill.com/opinion/international/6185055-brazil-lula-victory-us-tariffs/",
+   "summary": "Analysis of recent global elections suggests that while transactional support from the Trump administration helps allies like Javier Milei and Nasry Asfura win narrow victories, punitive measures such as those applied to Brazil resulted in the defeat of pro-Washington candidates.",
+   "published": "2026-10-31T19:00:00+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-10-31T23:25:44.495187+00:00"
+  },
   {
    "id": "6632bb6b09b67ce1",
    "title": "Virginia and D.C. sue over Trump's arch, adding to legal challenges as government wants work to begin",
@@ -11221,61 +11408,6 @@
    "source_id": "guardian-uspolitics",
    "bias_note": "left-leaning",
    "first_seen": "2026-10-18T04:41:05.856006+00:00"
-  },
-  {
-   "id": "88b25179c7df122f",
-   "title": "Sunday shows preview: Trump-Zelensky feud escalates; Controversies hit White House before midterms",
-   "url": "https://thehill.com/homenews/sunday-talk-shows/6156133-trump-russia-sanctions-backlash/",
-   "summary": "President Trump\u2019s new executive order on Friday evening sparked a new wave of bipartisan backlash to his administration\u2019s recent easing of Russian sanctions.\u00a0 The order halted the implementation of new penalties on Russia set to go into effect under a sweeping legislative package signed into law by the president last month.  It followed Trump\u2019s controversial...",
-   "published": "2026-10-17T22:19:54+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-17T22:24:06.863610+00:00"
-  },
-  {
-   "id": "4e2c4307da976a8f",
-   "title": "Trump touts his power at Kentucky rally to energize voters ahead of midterm elections",
-   "url": "https://abcnews.com/Politics/wireStory/trump-touts-power-kentucky-rally-energize-voters-ahead-137351144",
-   "summary": "President Donald Trump is emphasizing his influence during his second term at a rally in Kentucky",
-   "published": "2026-10-17T21:47:28+00:00",
-   "source": "ABC News Politics",
-   "source_id": "abc-politics",
-   "bias_note": "center",
-   "first_seen": "2026-10-17T22:24:13.883975+00:00"
-  },
-  {
-   "id": "b45d95c780637cd3",
-   "title": "Joy Behar wants Trump back on \u2018The View\u2019 despite saying he\u2019s \u2018not long for this world\u2019",
-   "url": "https://www.foxnews.com/media/joy-behar-wants-trump-back-view-despite-saying-hes-not-long-this-world",
-   "summary": "Joy Behar invited Trump back to &quot;The View&quot; while claiming he&apos;s &quot;not long for this world,&quot; prompting a sharp response from the White House team.",
-   "published": "2026-10-17T20:00:39+00:00",
-   "source": "Fox News Latest",
-   "source_id": "foxnews-latest",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-10-17T22:24:01.059152+00:00"
-  },
-  {
-   "id": "6a9d90e688bff151",
-   "title": "Stephen A. Smith calls dinner with Trump, Bill Maher, Kid Rock 'shocking'",
-   "url": "https://thehill.com/blogs/in-the-know/6156054-stephen-a-smith-kid-rock-maher-trump/",
-   "summary": "Commentator Stephen A. Smith said he was shocked President Trump hosted him, left-leaning comedian Bill Maher and conservative country star Kid Rock at the White House earlier this week, adding the gathering lasted more than four hours. \u201cIt was shocking. I certainly didn\u2019t expect that amount of time,\u201d Smith told CNN's Laura Coates Friday night....",
-   "published": "2026-10-17T19:51:37+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-17T22:24:06.863650+00:00"
-  },
-  {
-   "id": "6a19be371c18a329",
-   "title": "Zelensky says Ukraine is 'ready to negotiate'",
-   "url": "https://thehill.com/policy/international/6156034-zelensky-open-us-negotiations/",
-   "summary": "Ukrainian President Volodymyr Zelensky on Saturday expressed his openness to engaging in U.S.-led negotiations to end the yearslong Russia-Ukraine war after President Trump placed a hold on Russian sanctions days before they were set to go into effect.  \u201cThe American negotiating track will continue,\u201d Zelensky wrote on the social platform X. \u201cWe\u2019re counting on them...",
-   "published": "2026-10-17T18:46:21+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-17T22:24:06.863675+00:00"
   }
  ]
 }
