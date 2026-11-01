@@ -1,7 +1,161 @@
 {
- "updated": "2026-11-01T13:37:39.122417+00:00",
- "count": 1030,
+ "updated": "2026-11-01T17:01:42.069765+00:00",
+ "count": 1027,
  "articles": [
+  {
+   "id": "c22050776c511918",
+   "title": "Trump calls Alina Habba Milton\u2019s $50M deal \u2018obnoxious\u2019",
+   "url": "https://thehill.com/homenews/administration/6186814-trump-calls-habba-pay-outrageous/",
+   "summary": "President Trump called his former lawyer Alina Habba Mildon's alleged $50 million deal for a presidential pardon \"obnoxious and outrageous.\u201d While at a Halloween party at Mar-a-Lago in Florida, Trump had some harsh words for Mildon, who was accused in a recent New York Times report of accepting a deal worth $50 million from Venezuelan...",
+   "published": "2026-11-01T16:12:08+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-11-01T17:01:41.372952+00:00"
+  },
+  {
+   "id": "78996addd31773e1",
+   "title": "What are the races to watch in the US midterm elections and why do they matter?",
+   "url": "https://www.theguardian.com/us-news/2026/oct/26/what-are-midterm-elections",
+   "summary": "US voters will decide whether Republicans will retain control of Congress or whether Democrats will rise up to stymie Trump\u2019s agendaDonald Trump will still be US president on the morning of 4 November. But he could be facing a very different political landscape, depending on the results of the US midterm elections held the previous day.As the name implies, midterm elections fall nearly halfway through a president\u2019s term. They are often a telling referendum on the sitting president\u2019s performance, something Trump is actively encouraging by telling voters \u201cpretend I\u2019m on the ballot\u201d. In this case",
+   "published": "2026-11-01T15:55:59+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-11-01T17:01:41.226678+00:00"
+  },
+  {
+   "id": "ab1bb429beb7a96b",
+   "title": "Live updates: Democrats hold 'unity rally' in Michigan amid internal divisions; Trump campaigns in Kansas, Iowa",
+   "url": "https://thehill.com/homenews/administration/6186601-live-updates-trump-kansas-iowa-democrats-unity-rally/",
+   "summary": "The final weekend of campaigning ahead of Tuesday's midterm elections comes to a close on Sunday, with Democrats and Republicans making a final push as control of Congress hangs in the balance. Decision Desk HQ, a partner of The Hill, currently favors Democrats to retake both chambers, giving them an 83 percent chance of securing...",
+   "published": "2026-11-01T15:52:08+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-11-01T17:01:41.372969+00:00"
+  },
+  {
+   "id": "7e4b6f218f73b2f3",
+   "title": "Sullivan: 'I\u2019m going to accept the election results'",
+   "url": "https://thehill.com/homenews/senate/6186776-sullivan-accepts-alaska-election-results/",
+   "summary": "Sen. Dan Sullivan (R-Alaska) said he would accept the election results of the upcoming 2026 elections, even if he lost, following a Justice Department (DOJ) lawsuit attempting to invalidate election results if his opponent, former Rep. Mary Peltola (D-Alaska), won.\u00a0 Appearing on CNN\u2019s \u201cState of the Union,\u201d Sullivan was asked by host Jake Tapper if...",
+   "published": "2026-11-01T15:36:55+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-11-01T17:01:41.372976+00:00"
+  },
+  {
+   "id": "18a78a1e1e3fe0d3",
+   "title": "Presidential Message on All Saints\u2019 Day",
+   "url": "https://www.whitehouse.gov/briefings-statements/2026/11/presidential-message-on-all-saints-day-3b81/",
+   "summary": "On All Saints\u2019 Day, I join Christians across our Nation in honoring the men and women through the centuries whose extraordinary lives of faithfulness reveal the great goodness and love to which human beings can aspire. Every generation of Americans has understood the profound power of the example of a heroic and holy life, which [&#8230;]\nThe post Presidential Message on All Saints\u2019 Day appeared first on The White House.",
+   "published": "2026-11-01T15:24:46+00:00",
+   "source": "WhiteHouse.gov News",
+   "source_id": "whitehouse",
+   "bias_note": "official/primary-source",
+   "first_seen": "2026-11-01T17:01:40.818237+00:00"
+  },
+  {
+   "id": "b87269563dd6c20c",
+   "title": "Data analysts flag mismatches in Trump administration California voter eligibility list",
+   "url": "https://thehill.com/homenews/campaign/6186744-trump-administration-voter-list-mismatches/",
+   "summary": "Data analysts have flagged mismatches on a Trump administration list concerning California voters\u2019 eligibility and their citizenship status, according to The Associated Press. The outlet reported that over 40 percent of names that the Trump administration labeled as potential California voters who are not U.S. citizens were not on Golden State voter rolls, a Saturday...",
+   "published": "2026-11-01T15:15:32+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-11-01T17:01:41.372982+00:00"
+  },
+  {
+   "id": "8e072f3c944fbdd6",
+   "title": "Judge dismisses Trump\u2019s defamation suit against WSJ a second time",
+   "url": "https://thehill.com/regulation/court-battles/6186579-trump-journal-lawsuit-dismissed/",
+   "summary": "A federal judge on Saturday dismissed for the second time President Trump\u2019s defamation lawsuit against The Wall Street Journal in connection with an article about a letter sent to convicted sex offender Jeffrey Epstein.  Last year, the president filed a lawsuit against the Journal after it published an article detailing a 2003 letter\u00a0he\u00a0allegedly sent to...",
+   "published": "2026-11-01T15:02:52+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-11-01T17:01:41.372987+00:00"
+  },
+  {
+   "id": "3e6cba313346e830",
+   "title": "Mike Lawler flipped a New York district red in 2022. But his ties to Trump might bite him in the midterms",
+   "url": "https://www.theguardian.com/us-news/2026/nov/01/mike-lawler-new-york-midterm-elections",
+   "summary": "Republican congressman\u2019s support of many of the president\u2019s policies has infuriated some of his constituentsThe Republican congressman Mike Lawler is in danger of losing his seat next week. Again.In the last two elections, Lawler, 40, has defeated Democratic opponents in New York\u2019s 17th congressional district \u2013 one of the closest-run battlegrounds in this year\u2019s midterms \u2013 with moderate policies. Continue reading...",
+   "published": "2026-11-01T15:00:15+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-11-01T17:01:41.226707+00:00"
+  },
+  {
+   "id": "c7021fe518555a8a",
+   "title": "Trump administration promises US farmers $15 billion in weeks before the midterms",
+   "url": "https://abcnews.com/Politics/wireStory/trump-administration-promises-us-farmers-15-billion-weeks-137746731",
+   "summary": "President Donald Trump&rsquo;s administration has made $15 billion worth of promises to agriculture producers in the last few weeks of the midterm elections",
+   "published": "2026-11-01T14:50:24+00:00",
+   "source": "ABC News Politics",
+   "source_id": "abc-politics",
+   "bias_note": "center",
+   "first_seen": "2026-11-01T17:01:41.889365+00:00"
+  },
+  {
+   "id": "d45271b1d7664b52",
+   "title": "Trump's DOJ makeover hasn't changed where the political cash is flowing \u2014 and the gap is growing",
+   "url": "https://www.foxnews.com/politics/trumps-doj-makeover-hasnt-changed-where-political-cash-flowing-gap-growing",
+   "summary": "Over 75% of Department of Justice employee donations still go to Democratic committees despite Trump administration efforts to root out partisan bias.",
+   "published": "2026-11-01T14:00:20+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-11-01T17:01:40.763237+00:00"
+  },
+  {
+   "id": "9ebe53e2307448bc",
+   "title": "\u2018There\u2019s a lot of hate\u2019: rightwing racism stirs south Asian mobilization in Texas",
+   "url": "https://www.theguardian.com/us-news/2026/nov/01/texas-south-asian-racism",
+   "summary": "In state that has become \u2018ground zero\u2019 for discrimination against south Asians, experts say they are seeing voters motivated to fight backLast winter, while Pooja Sethi was canvassing to become the Democratic candidate for the Texas house of representatives, she received a text from a staff member alerting her to a post on X. The Turning Point USA influencer Savanah Hernandez \u2013 a Trump supporter known for creating videos that target immigrants \u2013 had posted a photo of Sethi\u2019s campaign banner with the caption: \u201cWelcome to politics in Texas.\u201dThe post went viral. Continue reading...",
+   "published": "2026-11-01T14:00:19+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-11-01T17:01:41.226714+00:00"
+  },
+  {
+   "id": "c09b05899b01c371",
+   "title": "The US founders made a grave error in granting presidents pardon power | James Rosen",
+   "url": "https://www.theguardian.com/commentisfree/2026/nov/01/president-trump-pardon-power",
+   "summary": "Trump\u2019s utter abuse of the power proves it. As the midterms approach, voters have not forgotten January 6From betraying Ukraine and dispatching masked agents who killed Americans to deporting US citizens and pulling out of accords controlling climate change and Iranian nuclear weapons, the list of Donald Trump\u2019s abuses is long and growing still longer, seemingly by the day.Looking back decades from now, historians will see that at the top of this shameful list is Trump\u2019s utter abuse of his pardon power. It started on the first day of his second term, when he pardoned more than 1,500 insurrecti",
+   "published": "2026-11-01T14:00:17+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-11-01T17:01:41.226735+00:00"
+  },
+  {
+   "id": "bbfb70b0c937f998",
+   "title": "Analysis: Republicans face a midterm reckoning of Trump's making",
+   "url": "https://abcnews.com/Politics/wireStory/analysis-republicans-face-midterm-reckoning-trumps-making-137746014",
+   "summary": "President Donald Trump is asking voters to pretend he&rsquo;s on the Election Day ballot again, and that's creating challenges for Republicans",
+   "published": "2026-11-01T13:56:14+00:00",
+   "source": "ABC News Politics",
+   "source_id": "abc-politics",
+   "bias_note": "center",
+   "first_seen": "2026-11-01T17:01:41.889398+00:00"
+  },
+  {
+   "id": "f2845ae30b290e51",
+   "title": "Americans forced to change clocks again as Senate stalls Trump-backed daylight saving time bill",
+   "url": "https://www.foxnews.com/politics/americans-forced-change-clocks-again-senate-stalls-trump-backed-daylight-saving-time-bill",
+   "summary": "Trump shared Sen. Tom Cotton&apos;s cellphone number to pressure him on the Daylight Saving Time bill, but the Senate still has no clear path forward.",
+   "published": "2026-11-01T13:00:20+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-11-01T17:01:40.763245+00:00"
+  },
   {
    "id": "c4361035e3b792d7",
    "title": "Trump makes war on the International Criminal Court",
@@ -11144,193 +11298,6 @@
    "source_id": "foxnews-politics",
    "bias_note": "right-leaning",
    "first_seen": "2026-10-18T18:40:01.751431+00:00"
-  },
-  {
-   "id": "1ef3e9b53171958f",
-   "title": "Bessent: Zelensky 'should be careful' with 'reckless' comments that US slowed down Starlink",
-   "url": "https://thehill.com/policy/defense/6156614-bessent-warns-zelensky-starlink/",
-   "summary": "Treasury Secretary Scott Bessent said Sunday that Ukrainian President Volodymyr Zelensky \u201cshould be careful\u201d with \u201creckless\u201d comments about the U.S. slowing down Starlink. \u201cPresident Trump and Secretary [of State Marco] Rubio have categorically said that no one in the Trump administration did that. And I think it is very reckless for President Zelensky to make...",
-   "published": "2026-10-18T16:48:46+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-18T18:40:02.560094+00:00"
-  },
-  {
-   "id": "ebc00dd6259fa59c",
-   "title": "Trump says he will close historic D.C. golf course for 15 months of renovations",
-   "url": "https://www.pbs.org/newshour/politics/trump-says-he-will-close-historic-d-c-golf-course-for-15-months-of-renovations",
-   "summary": "A judge last week, however, ordered a halt to his redevelopment plans until at least Oct. 26 after scolding the government for starting a large-scale tree removal at the course over a holiday weekend while providing little notice to the court or the plaintiffs trying to stop the makeover.",
-   "published": "2026-10-18T16:46:41+00:00",
-   "source": "PBS NewsHour Politics",
-   "source_id": "pbs-politics",
-   "bias_note": "center",
-   "first_seen": "2026-10-18T18:40:02.713894+00:00"
-  },
-  {
-   "id": "457b25aff0842f0e",
-   "title": "Trump says Netanyahu needs to be re-elected, or else US will have to 'finish the job\u2019 against Iran alone",
-   "url": "https://www.foxnews.com/politics/trump-says-netanyahu-needs-reelected-else-us-finish-job-against-iran-alone",
-   "summary": "Trump called Benjamin Netanyahu a &quot;great warrior&quot; and urged Israeli voters to back Likud in the Oct. 27 Knesset elections amid the war on Iran.",
-   "published": "2026-10-18T16:42:02+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-10-18T18:40:01.751440+00:00"
-  },
-  {
-   "id": "c656ecc3f3ddd158",
-   "title": "Zelenskyy thanks Trump for resumed intelligence sharing after US Starlink \u2018message\u2019",
-   "url": "https://www.theguardian.com/world/2026/oct/18/killed-injured-russia-ukraine-strikes-power-infrastructure",
-   "summary": "Two people killed and at least 17 injured as Russia and Ukraine continue to trade strikes on power infrastructureVolodymyr Zelenskyy on Sunday thanked the Trump administration for resuming intelligence sharing between the two countries, but maintained the US had intentionally throttled its Starlink satellite internet access so that Donald Trump could send a \u201cmessage\u201d in his ongoing feud with the Ukrainian president.In an interview on NBC, Zelenskyy said the US had \u201cunblocked\u201d intelligence on impending Russian ballistic missile strikes, which have pounded the country\u2019s energy infrastructure as ",
-   "published": "2026-10-18T16:37:52+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-10-18T18:40:02.266767+00:00"
-  },
-  {
-   "id": "aec8a42852197a6b",
-   "title": "Obama: Omar investigation should \u2018outrage all Americans\u2019",
-   "url": "https://thehill.com/homenews/administration/6156602-obama-trump-targets-omar-probe/",
-   "summary": "Former President Obama has weighed in on the federal government\u2019s criminal investigation into Rep. Ilhan Omar (D-Minn.) over accusations of immigration fraud, accusing the Trump administration of targeting its political opponents. In a lengthy post on the social platform X, Obama claimed the probe was an attempt to strip Omar of her U.S. citizenship and...",
-   "published": "2026-10-18T16:35:11+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-18T18:40:02.560099+00:00"
-  },
-  {
-   "id": "13ae2790ff73703d",
-   "title": "Nicola Jennings on Trump\u2019s new White House press secretary \u2013 cartoon",
-   "url": "https://www.theguardian.com/commentisfree/picture/2026/oct/18/nicola-jennings-donald-trump-new-white-house-press-secretary-cartoon",
-   "summary": "Continue reading...",
-   "published": "2026-10-18T16:28:31+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-10-18T18:40:02.266788+00:00"
-  },
-  {
-   "id": "16ae84244711cb52",
-   "title": "Bernie Sanders admits Democrats failed working-class voters on economics, driving them to Donald Trump",
-   "url": "https://www.foxnews.com/media/bernie-sanders-admits-democrats-failed-working-class-voters-economics-driving-donald-trump",
-   "summary": "The Vermont senator pointed to trade deals that cost millions of manufacturing jobs as a key reason for voter disillusionment.",
-   "published": "2026-10-18T16:25:35+00:00",
-   "source": "Fox News Latest",
-   "source_id": "foxnews-latest",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-10-18T18:40:01.778435+00:00"
-  },
-  {
-   "id": "7488f5655fb7c89d",
-   "title": "Trump endorses embattled Israeli Prime Minister Benjamin Netanyahu for reelection",
-   "url": "https://www.pbs.org/newshour/politics/trump-endorses-embattled-israeli-prime-minister-benjamin-netanyahu-for-reelection",
-   "summary": "Israelis are set to vote Oct. 27, in the first national elections since Hamas attacked Israel on Oct. 7, 2023.",
-   "published": "2026-10-18T16:18:14+00:00",
-   "source": "PBS NewsHour Politics",
-   "source_id": "pbs-politics",
-   "bias_note": "center",
-   "first_seen": "2026-10-18T18:40:02.713900+00:00"
-  },
-  {
-   "id": "237b3c9863ed23f4",
-   "title": "Pence calls on Trump to restore sanctions, scrap Russia diesel deal",
-   "url": "https://thehill.com/homenews/administration/6156538-pence-condemns-trump-putin-agreement/",
-   "summary": "Former Vice President Mike Pence on Sunday called for President Trump to restore sanctions on Russia and condemned his recent diesel agreement with President Vladimir Putin.\u00a0 \u201cPresident Trump\u2019s decision to waive sanctions against Russia as Putin continues his brutal war of aggression against Ukraine dishonors the legacy of the late Senator Lindsey Graham and is...",
-   "published": "2026-10-18T16:01:18+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-18T18:40:02.560104+00:00"
-  },
-  {
-   "id": "3d4a49c03b1bec33",
-   "title": "Trump endorses Netanyahu ahead of Israeli elections",
-   "url": "https://thehill.com/homenews/administration/6156511-trump-calls-netanyahu-peace-partner/",
-   "summary": "President Trump on Sunday endorsed Israeli Prime Minister Benjamin Netanyahu as he seeks another term less than a week before Israel holds its elections. Trump directed a Truth Social post to \"the Great People of Israel\" and called \"Bibi\" Netanyahu \"a Great Warrior Prime Minister, and an even greater Partner for Peace in combatting the...",
-   "published": "2026-10-18T15:45:21+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-18T15:55:23.735343+00:00"
-  },
-  {
-   "id": "a7e85a39eb78ada2",
-   "title": "Wright defends waiving sanctions: 'It's not an economic lifeline for Russia'",
-   "url": "https://thehill.com/homenews/administration/6156515-wright-defends-trump-russia-sanctions-waiver/",
-   "summary": "Energy Secretary Chris Wright on Sunday backed President Trump\u2019s move to waive sanctions against Russia under a new legislation package, insisting that it is \u201cnot an economic lifeline\u201d for Russia. \"This is an incentive to Russia that if they can reduce the conflict with Ukraine, [if] they can get an energy ceasefire or reduce the...",
-   "published": "2026-10-18T15:32:35+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-18T15:55:23.735360+00:00"
-  },
-  {
-   "id": "3f96c3408c3aed2d",
-   "title": "Vance faces tough questions on Iran war, immigration and more in CBS town hall",
-   "url": "https://www.pbs.org/newshour/politics/vance-faces-tough-questions-on-iran-war-immigration-and-more-in-cbs-town-hall",
-   "summary": "The string of sharp queries, some from voters who said they had supported him and President Donald Trump, previewed the rocky path Vance may face trying to answer for the administration's record if he runs for president himself in 2028.",
-   "published": "2026-10-18T15:25:44+00:00",
-   "source": "PBS NewsHour Politics",
-   "source_id": "pbs-politics",
-   "bias_note": "center",
-   "first_seen": "2026-10-18T15:55:23.905786+00:00"
-  },
-  {
-   "id": "4576c90d59f1030e",
-   "title": "'No Kings' protesters rally across the US \u2013 video",
-   "url": "https://www.theguardian.com/us-news/video/2026/oct/18/no-kings-protesters-rally-across-the-us-video",
-   "summary": "Protesters held rallies across the US as part of the 'No Kings' movement, voicing opposition to the Trump administration and calling for early voting ahead of November's midterm elections. The rallies coincide with heightened legal battles surrounding voting rules, including a recent federal lawsuit filed against California regarding mail-in ballots and warnings from the justice department concerning ballot processing. Current opinion polls suggest Democrats will win the House of Representatives in the upcoming midterms, while the Senate remains too close to call Continue reading...",
-   "published": "2026-10-18T15:20:57+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-10-18T15:55:23.513315+00:00"
-  },
-  {
-   "id": "164aa696c884743e",
-   "title": "Trump intel chief warns AI firms on hacks, says new department is the 'cop on the beat'",
-   "url": "https://www.foxnews.com/media/trump-intel-chief-warns-ai-firms-hacks-says-new-department-cop-beat",
-   "summary": "President Donald Trump&apos;s intelligence chief warns AI companies they&apos;re responsible when products hack websites as new guardrails are developed.",
-   "published": "2026-10-18T15:20:02+00:00",
-   "source": "Fox News Latest",
-   "source_id": "foxnews-latest",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-10-18T15:55:22.521147+00:00"
-  },
-  {
-   "id": "3ffbcd63e7b6dcb4",
-   "title": "Rogers says he worries about 'optics' of U.S.-Russia diesel deal, US cannot not give Putin 'an inch'",
-   "url": "https://thehill.com/homenews/campaign/6156420-rogers-skeptical-russia-diesel-deal/",
-   "summary": "Michigan Senate candidate Mike Rogers (R) on Sunday said he's worried about the \"optics\" of the U.S.'s deal with Russia to export diesel and added that the U.S. cannot give Russian President Vladimir Putin \"an inch.\" Rogers told CNN's Dana Bash on \"State of the Union\" that President Trump is \"trying to do something to...",
-   "published": "2026-10-18T14:54:30+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-18T15:55:23.735385+00:00"
-  },
-  {
-   "id": "ed4598aa42cc6a0d",
-   "title": "Obama backs Ilhan Omar amid probe, accuses Trump admin of 'appalling' targeting in lengthy statement",
-   "url": "https://www.foxnews.com/politics/obama-backs-ilhan-omar-amid-probe-accuses-trump-admin-appalling-targeting-lengthy-statement",
-   "summary": "Barack Obama accused the Trump administration of politically targeting Rep. Ilhan Omar, alleging efforts to strip her citizenship and deport her.",
-   "published": "2026-10-18T14:38:26+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-10-18T15:55:22.429967+00:00"
-  },
-  {
-   "id": "d2eb7039b8c858dc",
-   "title": "Homan says investigators have a 'strong case' against Omar",
-   "url": "https://thehill.com/homenews/administration/6156445-homan-omar-immigration-fraud-probe/",
-   "summary": "White House border czar Tom Homan said federal investigators have a \u201cstrong case\u201d in the ongoing criminal investigation into Rep. Ilhan Omar (D-Minn.) for possible immigration fraud after federal agents raided her home last week. In an interview with Fox News on Saturday, Homan said he was informed by investigators that they have been following...",
-   "published": "2026-10-18T14:26:13+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-18T15:55:23.735396+00:00"
   }
  ]
 }
