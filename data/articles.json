@@ -1,7 +1,106 @@
 {
- "updated": "2026-11-01T17:01:42.069765+00:00",
+ "updated": "2026-11-01T18:58:12.311862+00:00",
  "count": 1027,
  "articles": [
+  {
+   "id": "17e1160779e43130",
+   "title": "Judge dismisses Trump attempt to block Alaska Senate race results if Republican loses",
+   "url": "https://www.theguardian.com/us-news/2026/nov/01/alaska-senate-race-republican-dan-sullivan",
+   "summary": "Incumbent Dan Sullivan says he will accept election results after \u2018unprecedented intervention\u2019 by Trump\u2019s DoJA judge has dismissed the Donald Trump-backed lawsuit seeking to block certification of Alaska\u2019s US Senate race if Republican incumbent Dan Sullivan loses.Trump said on 23 October that he had ordered the justice department to file the lawsuit in a move that voting rights experts called an \u201cunprecedented intervention\u201d by the federal government with control of Congress in the balance. Continue reading...",
+   "published": "2026-11-01T18:33:23+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-11-01T18:58:10.861968+00:00"
+  },
+  {
+   "id": "9e84d347dc11ba36",
+   "title": "Ella Baron on Donald Trump and the US midterms \u2013 cartoon",
+   "url": "https://www.theguardian.com/commentisfree/picture/2026/nov/01/ella-baron-donald-trump-us-midterms-cartoon",
+   "summary": "Continue reading...",
+   "published": "2026-11-01T18:21:55+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-11-01T18:58:10.862058+00:00"
+  },
+  {
+   "id": "627294bce133cdb8",
+   "title": "Judge tosses DOJ\u2019s lawsuit over Alaska Senate race",
+   "url": "https://thehill.com/regulation/court-battles/6186982-judge-dismisses-trump-alaska-lawsuit/",
+   "summary": "A federal judge on Sunday dismissed the Trump administration\u2019s lawsuit in Alaska that sought to block certification if the second Dan Sullivan running for Senate causes voter confusion and leads Democrats to flip the seat. U.S. District Judge Sharon Gleason ruled the administration hadn\u2019t shown how she could rectify their concerns, as ballots are already...",
+   "published": "2026-11-01T18:21:24+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-11-01T18:58:11.197639+00:00"
+  },
+  {
+   "id": "7bd63480035b3bbb",
+   "title": "Three key takeaways from early voting in midterm elections",
+   "url": "https://www.theguardian.com/us-news/2026/nov/01/key-takeaways-midterm-elections-early-voting",
+   "summary": "Voting is particularly high in states with tight Senate races that could determine which party controls the chamberUS citizens are casting ballots in record numbers ahead of the midterm elections on Tuesday, another potential indication, analysts say, of voter dissatisfaction with Republicans and Donald Trump.Voting was particularly high in states that feature tight Senate races that could determine which party controls the chamber. Continue reading...",
+   "published": "2026-11-01T18:19:54+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-11-01T18:58:10.861994+00:00"
+  },
+  {
+   "id": "dcddd512458a1ece",
+   "title": "Canadian Prime Minister Carney reports progress in trade talks with Trump days before U.S. midterms",
+   "url": "https://www.pbs.org/newshour/world/canadian-prime-minister-carney-reports-progress-in-trade-talks-with-trump-days-before-u-s-midterms",
+   "summary": "Carney said the conversation built on recent discussions about the outlines of a deal that would create jobs, lower costs for families and protect Canada's languages, culture and sovereignty.",
+   "published": "2026-11-01T18:00:43+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-11-01T18:58:11.486377+00:00"
+  },
+  {
+   "id": "3b80dbee180b7694",
+   "title": "Judge tosses Trump's attempt to block Alaska Senate results if GOP incumbent loses",
+   "url": "https://www.npr.org/2026/11/01/nx-s1-6023766/doj-alaska-lawsuit-senate-race-dan-sullivan",
+   "summary": "A federal judge has dismissed a highly unusual lawsuit by the Trump administration that tried to block the certification of results from Alaska's U.S. Senate race if the Republican incumbent lost.",
+   "published": "2026-11-01T18:00:37+00:00",
+   "source": "NPR Politics",
+   "source_id": "npr-politics",
+   "bias_note": "center",
+   "first_seen": "2026-11-01T18:58:10.603718+00:00"
+  },
+  {
+   "id": "c20187d52bcdb5c9",
+   "title": "Democrat Haley Stevens endorses GOP's Mike Rogers in Michigan Senate race 2 days before election",
+   "url": "https://www.pbs.org/newshour/politics/democrat-haley-stevens-endorses-gops-mike-rogers-in-michigan-senate-race-2-days-before-election",
+   "summary": "The remarkable show of support for President Donald Trump's backed candidate in the tightly contested race comes after she was uninvited to a joint event the same day with El-Sayed, who defeated the congresswoman by a slim margin in the August primary.",
+   "published": "2026-11-01T17:37:32+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-11-01T18:58:11.486383+00:00"
+  },
+  {
+   "id": "27cae21ac9a902e5",
+   "title": "The Guardian view on the US midterms and election interference: Trump\u2019s attempted heist is already under way | Editorial",
+   "url": "https://www.theguardian.com/commentisfree/2026/nov/01/the-guardian-view-on-the-us-midterms-and-election-interference-trumps-attempted-heist-is-already-under-way",
+   "summary": "Voters are turning against the Republicans. But the clearest possible message is needed to safeguard democracyThe psychologist Jennifer Freyd identified a pattern often used by perpetrators: deny, accuse, and reverse victim and offender. More than one observer has noted that Donald Trump employs that pattern politically. With polls suggesting Republicans are likely to lose the House and perhaps the Senate too in the midterms, the man who refused to accept Americans\u2019 democratic verdict in 2020 is hawking a narrative of cheating Democrats who will steal seats via illegitimate votes.The January 6",
+   "published": "2026-11-01T17:30:17+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-11-01T18:58:10.862065+00:00"
+  },
+  {
+   "id": "e1a7e7c55bf61e75",
+   "title": "The dangerous illusion of \u2018a little Epic Fury\u2019",
+   "url": "https://thehill.com/opinion/national-security/6184776-economic-threat-epic-fury/",
+   "summary": "To get us out of this war, Trump needs to focus on reopening the Strait of Hormuz and tune out voices advocating for more of the same failed tactics.",
+   "published": "2026-11-01T17:00:00+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-11-01T18:58:11.197694+00:00"
+  },
   {
    "id": "c22050776c511918",
    "title": "Trump calls Alina Habba Milton\u2019s $50M deal \u2018obnoxious\u2019",
@@ -12,6 +111,17 @@
    "source_id": "thehill",
    "bias_note": "center",
    "first_seen": "2026-11-01T17:01:41.372952+00:00"
+  },
+  {
+   "id": "ca7ec41e1c0ed07a",
+   "title": "Inside top Trump bulldog\u2019s plan to save House GOP majority and defy history",
+   "url": "https://www.foxnews.com/politics/inside-top-trump-bulldog-plan-save-house-gop-majority-defy-history",
+   "summary": "Jim Jordan has barnstormed 115 districts across 34 states this election cycle, raising millions for House Republicans fighting to keep their majority.",
+   "published": "2026-11-01T16:00:47+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-11-01T18:58:10.018069+00:00"
   },
   {
    "id": "78996addd31773e1",
@@ -11188,116 +11298,6 @@
    "source_id": "thehill",
    "bias_note": "center",
    "first_seen": "2026-10-18T22:27:11.925763+00:00"
-  },
-  {
-   "id": "d7b46c2fb274b1e6",
-   "title": "Homan says Ilhan Omar could be stripped of naturalization, deported if immigration fraud is proven",
-   "url": "https://www.foxnews.com/media/homan-says-ilhan-omar-could-stripped-naturalization-deported-immigration-fraud-proven",
-   "summary": "Border czar Tom Homan says Ilhan Omar could face denaturalization and deportation if it is confirmed she committed immigration fraud.",
-   "published": "2026-10-18T18:43:40+00:00",
-   "source": "Fox News Latest",
-   "source_id": "foxnews-latest",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-10-18T22:27:10.743581+00:00"
-  },
-  {
-   "id": "f3a5ffeba5b8f1e8",
-   "title": "Trump endorses embattled Israeli Prime Minister Benjamin Netanyahu for reelection",
-   "url": "https://abcnews.com/Politics/wireStory/trump-endorses-embattled-israeli-prime-minister-benjamin-netanyahu-137361719",
-   "summary": "President Donald Trump has endorsed embattled Israeli Prime Minister Benjamin Netanyahu for late in his reelection campaign",
-   "published": "2026-10-18T18:10:17+00:00",
-   "source": "ABC News Politics",
-   "source_id": "abc-politics",
-   "bias_note": "center",
-   "first_seen": "2026-10-18T18:40:03.139992+00:00"
-  },
-  {
-   "id": "40de10380ebe47a2",
-   "title": "Tim Walz says he takes responsibility for Minnesota fraud by not running for re-election",
-   "url": "https://www.foxnews.com/media/tim-walz-takes-responsibility-minnesota-fraud-not-running-re-election-scandal-gift-gop",
-   "summary": "Tim Walz says he decided not to seek re-election over Minnesota&apos;s fraud scandal, calling it a &quot;gift&quot; to Republicans seeking to cut social programs.",
-   "published": "2026-10-18T18:00:49+00:00",
-   "source": "Fox News Latest",
-   "source_id": "foxnews-latest",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-10-18T18:40:01.778329+00:00"
-  },
-  {
-   "id": "7a3504851844ffc3",
-   "title": "I worked for 3 White House press secretaries \u2014 here's some advice for the next one",
-   "url": "https://thehill.com/opinion/white-house/6155486-lessons-jim-brady-reagan-white-house/",
-   "summary": "Former Reagan White House staffer Mark Weinberg offers advice to the incoming U.S. press secretary by reflecting on the lessons learned from predecessors Jim Brady, Larry Speakes, and Marlin Fitzwater.",
-   "published": "2026-10-18T18:00:00+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-18T18:40:02.560055+00:00"
-  },
-  {
-   "id": "06d0ca949da7a32f",
-   "title": "Trump announces plan for new East Potomac Links golf course",
-   "url": "https://thehill.com/policy/energy-environment/6156714-trump-plans-east-potomac-golf/",
-   "summary": "President Trump on Sunday announced a plan for a new golf course at East Potomac Park in Washington, D.C. \u201cI am pleased to announce that the Department of the Interior, under the auspices of Secretary Doug Burgum, and in conjunction with famed Golf Course Architect, Tom Fazio, has developed a plan to build a World...",
-   "published": "2026-10-18T17:58:45+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-18T18:40:02.560066+00:00"
-  },
-  {
-   "id": "7fa2074a6584cf33",
-   "title": "Zelensky says 'of course' Ukraine trusts the US, hopes Trump will 'change his decisions'",
-   "url": "https://thehill.com/policy/international/6156570-zelensky-hopes-trump-changes-decision/",
-   "summary": "Ukrainian President Volodymyr Zelensky on Sunday said \"of course\" his country trusts the U.S. but hopes President Trump will \"change his decisions\" after greenlighting a diesel deal with Russia. \"Of course we trust America,\" he told \"Meet the Press\" host Kristen Welker on NBC News. \"We trust bipartisan support and we trust President of the...",
-   "published": "2026-10-18T17:55:18+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-18T18:40:02.560070+00:00"
-  },
-  {
-   "id": "d1f88b857072b534",
-   "title": "Live updates: Obama condemns Omar investigation; Ukraine attacks St Petersburg oil depot",
-   "url": "https://thehill.com/homenews/administration/6156403-live-updates-ukraine-attacks-st-petersburg-oil-depot/",
-   "summary": "Former President Obama has weighed in on the federal government\u2019s criminal investigation into Rep. Ilhan Omar (D-Minn.) over accusations of immigration fraud, accusing the Trump administration of targeting its political opponents. His remarks come nearly a week after federal agents raided Omar\u2019s Washington, D.C., home and seized her phone as part of a criminal investigation...",
-   "published": "2026-10-18T17:23:04+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-18T18:40:02.560076+00:00"
-  },
-  {
-   "id": "f16ebbf1b4463c1a",
-   "title": "Wright says Trump administration has not broken promise to lower gas prices amid Iran war",
-   "url": "https://thehill.com/policy/energy-environment/6156548-wright-defends-gas-prices/",
-   "summary": "Energy Secretary Chris Wright on Sunday said the Trump administration has not broken its promise to lower gas prices as the Iran war stretches into its eighth month. CNN's Dana Bash asked Wright on \"State of the Union\" about his predictions early in the conflict that gas prices would decline \"within weeks, not months,\" and,...",
-   "published": "2026-10-18T17:18:52+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-18T18:40:02.560079+00:00"
-  },
-  {
-   "id": "c9c02875c2fe36b5",
-   "title": "Trump \u2018border czar\u2019 says Ilhan Omar could be \u2018of course\u2019 denaturalized and deported",
-   "url": "https://www.theguardian.com/us-news/2026/oct/18/tom-homan-trump-ilhan-omar-citizenship-deportation",
-   "summary": "Officials allege congresswoman, whose home was raided by federal agents, or family violated law to obtain citizenshipTom Homan, Donald Trump\u2019s \u201cborder czar\u201d, has said that the Republican presidential administration could \u201cof course\u201d strip Democratic congresswoman Ilhan Omar of her citizenship and deport her.Homan\u2019s comments during a Saturday appearance on Fox News were the first remarks explicitly mentioning denaturalization and deportation in connection with Omar that were attributed by name to a top Trump administration official since federal agents raided the Minnesota US House representati",
-   "published": "2026-10-18T17:16:02+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-10-18T18:40:02.266732+00:00"
-  },
-  {
-   "id": "c2fc4d740341b2c4",
-   "title": "Slotkin wants GOP prosecutions to deter young people from Trump administration jobs",
-   "url": "https://www.foxnews.com/politics/slotkin-wants-gop-prosecutions-deter-young-people-trump-administration-jobs",
-   "summary": "Elissa Slotkin said she wants young people to fear legal problems before joining the Trump administration, sparking fierce online backlash..",
-   "published": "2026-10-18T17:04:11+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-10-18T18:40:01.751431+00:00"
   }
  ]
 }
