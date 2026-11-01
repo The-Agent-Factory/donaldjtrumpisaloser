@@ -1,7 +1,106 @@
 {
- "updated": "2026-11-01T06:16:13.167603+00:00",
- "count": 1036,
+ "updated": "2026-11-01T13:37:39.122417+00:00",
+ "count": 1030,
  "articles": [
+  {
+   "id": "c4361035e3b792d7",
+   "title": "Trump makes war on the International Criminal Court",
+   "url": "https://thehill.com/opinion/white-house/6185064-trump-attack-international-criminal-court/",
+   "summary": "\u201cIt is only a matter of time\u201d before the International Criminal Court interferes with \u201cAmerican military and law enforcement operations,\u201d Secretary of State Marco Rubio warned in July. Convinced that such meddling would \u201cmean the death of the United States as a sovereign and independent nation,\u201d Rubio promised that the U.S. would use \u201call the...",
+   "published": "2026-11-01T13:00:00+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-11-01T13:37:38.284960+00:00"
+  },
+  {
+   "id": "2cc57a1d29ec00b5",
+   "title": "Congress can save America\u2019s unique history and boost the economy with just one move",
+   "url": "https://www.foxnews.com/opinion/congress-save-americas-unique-history-boost-economy-one-move",
+   "summary": "Trump urged Congress to pass a federal film tax credit as the U.S. share of global production has dropped from 65% to 39%, threatening American jobs.",
+   "published": "2026-11-01T12:00:34+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-11-01T13:37:37.717935+00:00"
+  },
+  {
+   "id": "6bfffba9674d5d10",
+   "title": "\u2018He\u2019s a force\u2019: Obama answers call to boost Democrats \u2013 and rattle Trump",
+   "url": "https://www.theguardian.com/us-news/2026/nov/01/barack-obama-midterms-democrats-trump",
+   "summary": "Former president has given series of blistering speeches to help candidates in key races \u2013 and deployment has proved a hit with party\u2019s progressive wingThat could have been awkward. Barack Obama, campaigning for Senate candidate Abdul El-Sayed in Michigan, acknowledged that his fellow Democrat has criticised some aspects of the Obama presidency.\u201cYeah, Abdul didn\u2019t agree with some things we wanted to do \u2013 that our administration was doing \u2013 when I was president,\u201d he told a rally in Detroit. \u201cYou know who else doesn\u2019t agree with everything I do? Michelle Obama.\u201d The crowd erupted in laughter. \u201cI",
+   "published": "2026-11-01T11:00:10+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-11-01T13:37:38.137071+00:00"
+  },
+  {
+   "id": "eabd67d4f2c1d23a",
+   "title": "Vance road tests 2028 campaign as Trump\u2019s midterm sideshow",
+   "url": "https://thehill.com/homenews/administration/6185794-vance-hones-2028-campaign-message-midterms/",
+   "summary": "Weatherton, TEXAS \u2014 Vice President Vance is homing in on his campaign message ahead of Election Day in what many see as a preview of a presidential bid in 2028 that seems all but certain.\u00a0 As Trump has criss-crossed the country for almost daily midterm rallies in the final month of campaigning, Vance\u2019s schedule has...",
+   "published": "2026-11-01T11:00:00+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-11-01T13:37:38.284973+00:00"
+  },
+  {
+   "id": "865438314bd9682d",
+   "title": "GOP plan for lame-duck sprint runs into votes, rules and the calendar",
+   "url": "https://thehill.com/homenews/house/6185340-gop-lame-duck-congress-2026-midterms-trump-agenda/",
+   "summary": "Republicans on Capitol Hill are poised to clash in the lame duck over how far to push President Trump's agenda. Midterm voters are widely expected to give Democrats control of the House, and maybe the Senate, in the next Congress, which would bring Trump\u2019s legislative agenda to a screeching halt beginning next year. That scenario...",
+   "published": "2026-11-01T11:00:00+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-11-01T13:37:38.284996+00:00"
+  },
+  {
+   "id": "af76a2449e5983e9",
+   "title": "Colombia's 'El Tigre' takes fight to cartels as Trump alliance takes shape",
+   "url": "https://www.foxnews.com/world/colombias-el-tigre-takes-fight-cartels-trump-alliance-takes-shape",
+   "summary": "Abelardo de la Espriella claims over 32,000 arrests in ten weeks as Colombia joins Trump&apos;s anti-cartel coalition, pivoting away from predecessor&apos;s policies.",
+   "published": "2026-11-01T10:00:57+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-11-01T13:37:37.717973+00:00"
+  },
+  {
+   "id": "73f28a94cb76b59f",
+   "title": "Midterm voters reveal what's driving them to the polls \u2014 but what they're voting against may matter more",
+   "url": "https://www.foxnews.com/politics/midterm-voters-reveal-whats-driving-them-polls-what-theyre-voting-against-may-matter-more",
+   "summary": "Voters reveal frustration with Trump&apos;s administration and opposition to socialism as the key factors driving their midterm election decisions.",
+   "published": "2026-11-01T09:00:51+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-11-01T13:37:37.695816+00:00"
+  },
+  {
+   "id": "49dd0f3a1946f013",
+   "title": "Trump thanks supporters for the memories in final campaign stops for 2026 midterms",
+   "url": "https://www.npr.org/2026/11/01/nx-s1-6022128/trump-rally-2026-midterms-republicans",
+   "summary": "President Trump has maintained a near-daily rally schedule as Election Day draws closer, playing his greatest hits for loyal crowds in red states in what is a sort-of goodbye to campaigning.",
+   "published": "2026-11-01T09:00:00+00:00",
+   "source": "NPR Politics",
+   "source_id": "npr-politics",
+   "bias_note": "center",
+   "first_seen": "2026-11-01T13:37:38.117889+00:00"
+  },
+  {
+   "id": "22fc29958fd446c6",
+   "title": "'Grasping at straws': Judge dismisses Trump suit against Wall Street Journal over Epstein letter",
+   "url": "https://www.npr.org/2026/11/01/nx-s1-6025342/judge-dismisses-trump-suit-against-wall-street-journal-epstein-letter",
+   "summary": "Saying the president was \"grasping at straws,\" a federal judge on Saturday threw out Donald Trump's $10 billion lawsuit against The Wall Street Journal and media mogul Rupert Murdoch over a story reporting on his ties to Jeffrey Epstein.",
+   "published": "2026-11-01T08:20:19+00:00",
+   "source": "NPR Politics",
+   "source_id": "npr-politics",
+   "bias_note": "center",
+   "first_seen": "2026-11-01T13:37:38.117916+00:00"
+  },
   {
    "id": "5a87e24f6f376867",
    "title": "Are the US midterms going to see a blue wave of Democrats winning seats \u2013 or a blue flood?",
@@ -11232,171 +11331,6 @@
    "source_id": "thehill",
    "bias_note": "center",
    "first_seen": "2026-10-18T15:55:23.735396+00:00"
-  },
-  {
-   "id": "6979ac6f4e965f84",
-   "title": "What role does the White House Press Secretary play in the Trump era?",
-   "url": "https://www.npr.org/2026/10/18/nx-s1-6005279/what-role-does-the-white-house-press-secretary-play-in-the-trump-era",
-   "summary": "NPR's Ayesha Rascoe asks Adm. John Kirby, who had spokesperson roles in the Obama and Biden administrations, about the utility of the role of the White House Press Secretary.",
-   "published": "2026-10-18T12:01:03+00:00",
-   "source": "NPR Politics",
-   "source_id": "npr-politics",
-   "bias_note": "center",
-   "first_seen": "2026-10-18T14:20:59.756817+00:00"
-  },
-  {
-   "id": "ed68c640a28435d8",
-   "title": "Politics chat: Zelenskyy on Trump, Democrats bring in the money for midterms",
-   "url": "https://www.npr.org/2026/10/18/nx-s1-6005192/politics-chat-zelenskyy-on-trump-democrats-bring-in-the-money-for-midterms",
-   "summary": "From Russia to AI to Iran, President Trump has taken political stances that put him at odds with much of the electorate.",
-   "published": "2026-10-18T12:01:01+00:00",
-   "source": "NPR Politics",
-   "source_id": "npr-politics",
-   "bias_note": "center",
-   "first_seen": "2026-10-18T14:20:59.756823+00:00"
-  },
-  {
-   "id": "90e93dae573b4e5a",
-   "title": "Trump suspends federal diesel taxes to help farmers, but states issue warnings",
-   "url": "https://www.npr.org/2026/10/18/nx-s1-5996662/trump-suspends-federal-diesel-taxes-to-help-farmers-but-states-issue-warnings",
-   "summary": "President Trump's executive order suspending federal taxes on diesel is aimed at helping farmers but it's more complicated than it sounds and states are warning drivers they may owe taxes later.",
-   "published": "2026-10-18T12:00:57+00:00",
-   "source": "NPR Politics",
-   "source_id": "npr-politics",
-   "bias_note": "center",
-   "first_seen": "2026-10-18T14:20:59.756826+00:00"
-  },
-  {
-   "id": "f02916c08241f3f3",
-   "title": "Trump tries different approach with Russia to bring Americans relief amid ongoing war with Ukraine",
-   "url": "https://www.foxnews.com/politics/trump-tries-different-approach-russia-bring-americans-relief-amid-ongoing-war-ukraine",
-   "summary": "Trump&apos;s Russian diesel deal faces bipartisan pushback as analysts question whether easing sanctions on Vladimir Putin will lower prices or aid peace.",
-   "published": "2026-10-18T12:00:13+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-10-18T14:20:59.545462+00:00"
-  },
-  {
-   "id": "009f0ebde59cc26e",
-   "title": "Small business owners are doing OK \u2013 but will that help Trump overcome his low approval ratings?",
-   "url": "https://www.theguardian.com/business/2026/oct/18/small-business-owners-trump-economy",
-   "summary": "Overall, economic sentiment for Trump is poor, but small businesses seem fairly confident, according to several surveysThere are 34m small businesses in the United States. They employ approximately half of the country\u2019s workers and generate about half of the country\u2019s GDP. They\u2019re an important voting block. So how are they feeling about the economy as we head into November\u2019s midterm elections? Overall, economic sentiment for Donald Trump is poor but small business \u2013 admittedly a diverse demographic that\u2019s hard to poll \u2013 seems fairly confident. A number of recently published surveys and reports",
-   "published": "2026-10-18T12:00:02+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-10-18T14:20:59.873392+00:00"
-  },
-  {
-   "id": "cd7b58d353bead6d",
-   "title": "Trump's 'Humpty Dumpty' approach to human rights",
-   "url": "https://thehill.com/opinion/white-house/6152165-state-department-policy-shift/",
-   "summary": "The administration insists that policies intended to expand opportunities for historically marginalized groups are themselves discriminatory, a sharp departure from past bipartisan approaches to civil rights.",
-   "published": "2026-10-18T12:00:00+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-18T14:21:00.058152+00:00"
-  },
-  {
-   "id": "29270cb81029bb3a",
-   "title": "Trump's chief of staff almost skipped screening that detected aggressive cancer",
-   "url": "https://www.foxnews.com/health/trumps-chief-staff-almost-skipped-screening-detected-aggressive-cancer",
-   "summary": "White House chief of staff Susie Wiles discusses how her doctor&apos;s insistence on an early mammogram caught her aggressive breast cancer in time.",
-   "published": "2026-10-18T11:00:13+00:00",
-   "source": "Fox News Latest",
-   "source_id": "foxnews-latest",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-10-18T11:15:41.350989+00:00"
-  },
-  {
-   "id": "6450dd51bea7ed34",
-   "title": "MIKE DAVIS: Justice Department must be wrapping up Rep. Ilhan Omar's Christmas present",
-   "url": "https://www.foxnews.com/opinion/mike-davis-justice-department-wrapping-rep-ilhan-omar-christmas-present",
-   "summary": "The federal warrant for Ilhan Omar&apos;s DC home raid was reportedly signed by a judge who donated to Hillary Clinton, undermining claims of political revenge.",
-   "published": "2026-10-18T10:36:38+00:00",
-   "source": "Fox News Latest",
-   "source_id": "foxnews-latest",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-10-18T11:15:41.351007+00:00"
-  },
-  {
-   "id": "a66da920b895afb9",
-   "title": "How Trump\u2019s justice department is testing separation of powers before the US midterms",
-   "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/18/trump-justice-department-us-midterms",
-   "summary": "From the attorney general stumping for Republican candidates to federal agents raiding the home of a Democratic congresswoman up for re-election, the department is violating long-standing normsDonald Trump\u2019s justice department has aggressively inserted itself into the midterm elections in the contest\u2019s final weeks, shattering the department\u2019s longstanding practice of political neutrality and leaving little doubt about the department\u2019s willingness to help should the president attempt to subvert elections where his party is forecasted to lose seats and ultimately control of Congress.In the last ",
-   "published": "2026-10-18T10:00:57+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-10-18T11:15:41.804294+00:00"
-  },
-  {
-   "id": "7b1f2a2ba62c878f",
-   "title": "If Trump fells 430 trees in the middle of a golf course, do they make a sound?",
-   "url": "https://www.theguardian.com/commentisfree/2026/oct/18/trump-golf-course-washington-dc",
-   "summary": "In attempting to turn a public space in DC into an enclave for elites, Trump is moving the US capital closer to GracelandWhen is a tree not a tree? When it\u2019s an obstacle to a par-3. If a tree falls in the middle of a golf course, does it make a sound? Yeah, probably. I wasn\u2019t there, but I have to assume, based on my limited knowledge of the laws of physics.What I do know is that Donald Trump\u2019s crusade to clear more than 400 trees for the purposes of redeveloping East Potomac Golf Links into a championship-level course isn\u2019t happening. For now.Dave Schilling is a Los Angeles-based writer and hu",
-   "published": "2026-10-18T10:00:56+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-10-18T11:15:41.804345+00:00"
-  },
-  {
-   "id": "4f3dd1e81e53dd2e",
-   "title": "Republicans warn that Pentagon funds will hinge on Trump getting tougher with Russia",
-   "url": "https://thehill.com/homenews/house/6155127-gop-pentagon-funding-trump-russia/",
-   "summary": "A growing chorus of House Republicans is warning President Trump that they\u2019re ready to block additional Pentagon funding unless the administration gets tougher on Russia.  Behind Defense Secretary Pete Hegseth, the administration is pushing Republicans on Capitol Hill to approve at least $350 billion in new military spending as part of a partisan reconciliation package...",
-   "published": "2026-10-18T10:00:00+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-18T11:15:41.917400+00:00"
-  },
-  {
-   "id": "a2e1eccb2fb11a49",
-   "title": "Democrats want to curb Trump\u2019s power with House majority. This is their greatest tool",
-   "url": "https://thehill.com/homenews/house/6154578-appropriations-committee-oversight-strategy/",
-   "summary": "House Democrats are eyeing their power over federal spending as one of their strongest tools to push back against President Trump\u2019s agenda if they win back the majority in November. A Democratic takeover would put Rep. Rosa DeLauro (D-Conn.) in line to chair the powerful House Appropriations Committee, giving Democrats greater sway over the annual...",
-   "published": "2026-10-18T10:00:00+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-18T11:15:41.917409+00:00"
-  },
-  {
-   "id": "9f8fe99b4968c6bf",
-   "title": "Can Ken Paxton outrun a trail of scandal to win US Senate seat in ruby-red Texas?",
-   "url": "https://www.theguardian.com/us-news/2026/oct/18/ken-paxton-texas-senate-scandal-midterms",
-   "summary": "The Republican state attorney general appears uniquely ill-chosen as a candidate \u2013 but he is a political survivor who could yet frustrate Democratic dreamsDepending how you look at the situation, it is either predictable that Ken Paxton, Texas\u2019s attorney general and Republican candidate for US Senate, is struggling in the polls \u2013 or impressive that he is not doing worse. Beloved by hardcore Maga voters and regarded with skepticism by the broader voting public, Paxton is also puzzlingly bland. Recently, Donald Trump told a crowd of supporters that the 63-year-old Paxton \u201cmay not dress right, he",
-   "published": "2026-10-18T09:00:56+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-10-18T11:15:41.804305+00:00"
-  },
-  {
-   "id": "3c7a97a4080fa348",
-   "title": "Becoming a lawyer could get cheaper and faster under looming Trump admin shakeup",
-   "url": "https://www.foxnews.com/politics/becoming-lawyer-cheaper-faster-trump-admin-shakeup",
-   "summary": "As the Trump admin weighs stripping the American Bar Association&apos;s law school accrediting arm of federal recognition, experts say the move could open the door to new types of legal education.",
-   "published": "2026-10-18T09:00:10+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-10-18T11:15:41.331870+00:00"
-  },
-  {
-   "id": "a6720e996ce70ef3",
-   "title": "With an ad aimed at Trump, this Republican exposed GOP angst about Latino voters",
-   "url": "https://www.npr.org/2026/10/18/nx-s1-5978762/maria-elvira-salazar-immigration-trump",
-   "summary": "Rep. Mar\u00eda Elvira Salazar filmed an ad warning the president that he's \"gone too far\" on immigration. It reflected concern among some Republicans that their gains with Latino voters could be at risk.",
-   "published": "2026-10-18T09:00:00+00:00",
-   "source": "NPR Politics",
-   "source_id": "npr-politics",
-   "bias_note": "center",
-   "first_seen": "2026-10-18T11:15:41.769634+00:00"
   }
  ]
 }
