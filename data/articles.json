@@ -1,7 +1,117 @@
 {
- "updated": "2026-11-01T18:58:12.311862+00:00",
+ "updated": "2026-11-01T23:39:35.686425+00:00",
  "count": 1027,
  "articles": [
+  {
+   "id": "35539faa92744af2",
+   "title": "Justice Department urges sanctions for database analysis critical of its noncitizen voting claims",
+   "url": "https://abcnews.com/Politics/wireStory/justice-department-urges-sanctions-database-analysis-critical-noncitizen-137757434",
+   "summary": "The Justice Department is urging a federal judge to consider whether to hold an immigrant rights group in contempt of court for disclosing the results of its analysis of a dataset of alleged noncitizens registered to vote in California",
+   "published": "2026-11-01T23:30:27+00:00",
+   "source": "ABC News Politics",
+   "source_id": "abc-politics",
+   "bias_note": "center",
+   "first_seen": "2026-11-01T23:39:35.359633+00:00"
+  },
+  {
+   "id": "00e013dec3a20fab",
+   "title": "Justice Department urges sanctions for database analysis critical of its noncitizen voting claims",
+   "url": "https://www.pbs.org/newshour/politics/justice-department-urges-sanctions-for-database-analysis-critical-of-its-noncitizen-voting-claims",
+   "summary": "Attorneys for an immigrant rights group on Saturday filed court papers revealing that their analysis found more than 40% of the people on the list do not appear in the state's voter file.",
+   "published": "2026-11-01T23:18:16+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-11-01T23:39:34.789911+00:00"
+  },
+  {
+   "id": "adca702bfdf50424",
+   "title": "Trump says he would \u2018love to have\u2019 Haley Stevens join Republican Party",
+   "url": "https://thehill.com/homenews/administration/6187354-trump-haley-stevens-join-republican-party/",
+   "summary": "President Trump on Sunday said he would \"love to have\" Rep. Haley Stevens join the Republican Party after she endorsed Michigan Senate candidate Mike Rogers (R) over the nominee, her former Senate Democratic primary opponent Abdul El-Sayed (D). Reporters spoke with the president outside Air Force One, flanked by House Speaker Mike Johnson (R-La.), Interior...",
+   "published": "2026-11-01T22:37:36+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-11-01T23:39:34.558471+00:00"
+  },
+  {
+   "id": "50a9147f310f5832",
+   "title": "DOJ set to appeal ruling in Alaska Senate race dispute over \u2018Decoy Dan\u2019",
+   "url": "https://www.foxnews.com/politics/doj-set-appeal-ruling-alaska-senate-race-dispute-over-decoy-dan",
+   "summary": "A federal judge rejected the DOJ&apos;s lawsuit to delay Alaska Senate election certification over the Dan Sullivan candidate controversy.",
+   "published": "2026-11-01T22:16:21+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-11-01T23:39:33.543385+00:00"
+  },
+  {
+   "id": "18922f20a6810620",
+   "title": "Bacon thinks there will be 'debate' about MAGA future if GOP does poorly in midterms",
+   "url": "https://thehill.com/homenews/house/6187358-don-bacon-gop-maga-debate/",
+   "summary": "Rep. Don Bacon (R-Neb.) on Sunday said he thinks the Republican Party will \u201cdebate\u201d the future of the MAGA movement should the GOP fare poorly in Tuesday\u2019s elections.  When asked by Jake Tapper on CNN\u2019s \"State of the Union\" if an unsatisfactory midterm performance might signal the \u201cbeginning of the end for the MAGA movement,\u201d...",
+   "published": "2026-11-01T21:57:18+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-11-01T23:39:34.558504+00:00"
+  },
+  {
+   "id": "3447c446d1666dc1",
+   "title": "Social Security email praising Trump may violate Hatch Act",
+   "url": "https://thehill.com/homenews/administration/6187284-ssa-irs-hatch-act-trump/",
+   "summary": "Emails sent by the Social Security Administration (SSA) and the Internal Revenue Service (IRS) that praised President Trump may violate the Hatch Act, experts say. \u201cUnder President Donald J. Trump, the Social Security Administration (SSA) is transforming into a model of excellence, one that meets and exceeds customer expectations for fast, accurate and secure service,\u201d...",
+   "published": "2026-11-01T20:44:19+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-11-01T23:39:34.558520+00:00"
+  },
+  {
+   "id": "5831f934e1d1c33b",
+   "title": "Trump commends Stevens' 'bravery' for endorsing Rogers",
+   "url": "https://thehill.com/homenews/campaign/6187175-trump-praises-stevens-gop-endorsement/",
+   "summary": "President Trump on Sunday commended Rep. Haley Stevens (D-Mich.) for her endorsement of GOP Senate candidate former Rep. Mike Rogers (Mich.). \u201cWow, this is BIG! Congresswoman Haley Stevens, a Highly Respected Democrat, who narrowly lost in the Primary to Abdul Mohamed El-Sayed, and who has been breathlessly wined and dined by the Dumocrats to help...",
+   "published": "2026-11-01T19:52:39+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-11-01T23:39:34.558546+00:00"
+  },
+  {
+   "id": "512baf9b813307db",
+   "title": "Private jet with 9 people on board crashes just miles from Mar-a-Lago",
+   "url": "https://www.foxnews.com/us/private-jet-9-people-board-crashes-just-miles-from-mar-a-lago",
+   "summary": "A small plane carrying nine people crashed and exploded in Palm Beach County, Florida, just miles from Mar-a-Lago.",
+   "published": "2026-11-01T19:31:26+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-11-01T23:39:33.636046+00:00"
+  },
+  {
+   "id": "0a98161cd30a291b",
+   "title": "WATCH LIVE: Trump rallies in Iowa as part of final push before Election Day",
+   "url": "https://www.pbs.org/newshour/politics/watch-live-trump-rallies-in-iowa-as-part-of-final-push-before-election-day",
+   "summary": "Trump's first stop is scheduled for Sunday afternoon in Dubuque, Iowa, where Republicans are battling to hold onto a critical Senate seat along with the governor's office.",
+   "published": "2026-11-01T19:12:43+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-11-01T23:39:34.789925+00:00"
+  },
+  {
+   "id": "f2b9559a0970c270",
+   "title": "Trump says he'll become 'Mr. Veto' if Democrats take Congress",
+   "url": "https://thehill.com/homenews/administration/6186898-trump-plans-veto-strategy/",
+   "summary": "President Trump said his strategy if the GOP loses control of the House and Senate would be to \u201cbecome Mr. Veto.\u201d \u201cWell, if that happens, I guess I\u2019ll become Mr. Veto. I\u2019m not going to let them through,\u201d Trump told the New York Post\u2019s Miranda Devine during an interview on \u201cPod Force One\u201d set to...",
+   "published": "2026-11-01T19:01:40+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-11-01T23:39:34.558590+00:00"
+  },
   {
    "id": "17e1160779e43130",
    "title": "Judge dismisses Trump attempt to block Alaska Senate race results if Republican loses",
@@ -100,6 +210,17 @@
    "source_id": "thehill",
    "bias_note": "center",
    "first_seen": "2026-11-01T18:58:11.197694+00:00"
+  },
+  {
+   "id": "c3c6392a10b0618e",
+   "title": "Judge dismisses lawsuit seeking to block certification of Alaska Senate race if GOP incumbent loses",
+   "url": "https://www.pbs.org/newshour/politics/sullivan-claims-peltola-is-still-lying-about-campaigns-involvement-in-alaska-ballot-controversy",
+   "summary": "Tuesday's ranked-choice election includes two candidates who have done little campaigning, one of whom shares the incumbent's name. It was that candidate's presence on the ballot that prompted Trump to push for the lawsuit out of fear he would siphon votes from the incumbent.",
+   "published": "2026-11-01T16:40:55+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-11-01T23:39:34.789932+00:00"
   },
   {
    "id": "c22050776c511918",
@@ -11177,127 +11298,6 @@
    "source_id": "thehill",
    "bias_note": "center",
    "first_seen": "2026-10-19T04:49:04.417158+00:00"
-  },
-  {
-   "id": "8f287253d490581a",
-   "title": "Trump unveils plan to transform historic DC golf course as judge tees off",
-   "url": "https://www.foxnews.com/politics/trump-unveils-plan-transform-historic-dc-golf-course-judge-tees-off",
-   "summary": "President Donald Trump announced Tom Fazio will redesign East Potomac Golf Links into a championship venue capable of hosting the U.S. Open.",
-   "published": "2026-10-18T23:22:18+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-10-19T04:49:03.136601+00:00"
-  },
-  {
-   "id": "2acc0e610d585743",
-   "title": "MIKE DAVIS: Sen Slotkin reveals her insidious scheme to target young conservatives",
-   "url": "https://www.foxnews.com/opinion/mike-davis-sen-slotkin-reveals-insidious-scheme-target-young-conservatives",
-   "summary": "Elissa Slotkin&apos;s University of Chicago remarks about prosecuting Trump officials and sending a &quot;deterrence message&quot; spark demands for investigations.",
-   "published": "2026-10-18T23:02:31+00:00",
-   "source": "Fox News Latest",
-   "source_id": "foxnews-latest",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-10-19T04:49:03.182701+00:00"
-  },
-  {
-   "id": "944f39f3a671f7d8",
-   "title": "Trump says DC golf course \u2018restoration\u2019 to start despite judge\u2019s order to pause plans",
-   "url": "https://www.theguardian.com/us-news/2026/oct/18/trump-dc-golf-course-renovation",
-   "summary": "Judge orders government to notify her by 8pm ET Sunday whether its position changed from Friday\u2019s court filing Donald Trump posted on Truth Social on Sunday that \u201crestoration work will begin\u201d on 15 November to a historic public golf course in Washington DC despite a federal judge\u2019s court order to pause his plans over environmental and historic preservation concerns.US district judge Ana Reyes had ruled earlier this year that the federal government must give notice before any substantive construction work on the East Potomac golf course could proceed, and last week issued an order halting the r",
-   "published": "2026-10-18T21:44:21+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-10-18T22:27:11.566385+00:00"
-  },
-  {
-   "id": "18b89e55738725d3",
-   "title": "Bessent says there was no sanctions relief for Russia after U.S. diesel deal",
-   "url": "https://thehill.com/homenews/administration/6156573-bessent-refutes-sanctions-relief/",
-   "summary": "Treasury Secretary Scott Bessent on Sunday said President Trump did not provide Russia with sanctions relief by waiving sanctions against Russia set to take effect soon, after signing off on a deal that allows Russia to permit diesel into the U.S. and global marketplace. NBC News's Kristen Welker on \"Meet the Press\" pressed Bessent on...",
-   "published": "2026-10-18T21:05:37+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-18T22:27:11.925729+00:00"
-  },
-  {
-   "id": "cc7729738f3f655c",
-   "title": "Congress reacts to executive order exempting Russia from economic sanctions",
-   "url": "https://www.npr.org/2026/10/18/nx-s1-6007363/congress-reacts-to-executive-order-exempting-russia-from-economic-sanctions",
-   "summary": "NPR's Eric McDaniel reports on how Congress has reacted to President Trump's executive order exempting Russia from economic sanctions.",
-   "published": "2026-10-18T21:00:11+00:00",
-   "source": "NPR Politics",
-   "source_id": "npr-politics",
-   "bias_note": "center",
-   "first_seen": "2026-10-18T22:27:11.429251+00:00"
-  },
-  {
-   "id": "95690deffcbaff8c",
-   "title": "With Ken Paxton's race faltering, GOP looks for someone to blame",
-   "url": "https://thehill.com/homenews/campaign/6155048-ken-paxton-republicans-texas-senate-race-trump/",
-   "summary": "Texas's Senate race is devolving into a blame game among Republicans weeks out from Election Day as the party's nominee Ken Paxton faces a stream of negative headlines and Democrats grow increasingly confident about flipping the state.   Republican tensions spilled into the public on Thursday when President Trump lashed out at incumbent Sen. John Cornyn (R-Texas) and...",
-   "published": "2026-10-18T21:00:00+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-18T22:27:11.925736+00:00"
-  },
-  {
-   "id": "b834476079a19dcf",
-   "title": "This Week on the Hill: Michigan Senate debate, Trump rallies and Obama hits the trail",
-   "url": "https://thehill.com/newsletters/this-week-on-the-hill/6155364-trump-obama-midterm-election-rallies-debates/",
-   "summary": "With just more than two weeks until Election Day, candidates are stepping up their campaigns in a final push to win over voters. In Michigan, Democratic progressive Senate candidate Abdul El-Sayed and former Republican Rep. Mike Rogers are set to face off Wednesday in a televised debate, hosted by WXYZ-TV. The two candidates are competing...",
-   "published": "2026-10-18T21:00:00+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-18T22:27:11.925738+00:00"
-  },
-  {
-   "id": "0700e1f4920ee09c",
-   "title": "Latino voters helped put Trump back in the White House. What's their next move?",
-   "url": "https://www.pbs.org/newshour/politics/latino-voters-helped-put-trump-back-in-the-white-house-whats-their-next-move",
-   "summary": "The path to a U.S. House majority runs through heavily Latino districts in states such as Arizona, Colorado and Texas, where Democrats are counting on disaffected Trump supporters to swing back their way.",
-   "published": "2026-10-18T20:46:52+00:00",
-   "source": "PBS NewsHour Politics",
-   "source_id": "pbs-politics",
-   "bias_note": "center",
-   "first_seen": "2026-10-18T22:27:12.104657+00:00"
-  },
-  {
-   "id": "9556235eaaa2a804",
-   "title": "Mulvaney predicts Wiles is in a 'powerful place' in the White House but will leave after midterms",
-   "url": "https://thehill.com/homenews/administration/6156830-mulvaney-expects-wiles-departure/",
-   "summary": "Former White House chief of staff Mick Mulvaney said he expects current chief of staff Susie Wiles to leave her post after the midterm elections, but her departure would be on her own terms after reports suggested she may have lost President Trump\u2019s confidence. \u201cIf she leaves, and I think she probably will, it\u2019s not...",
-   "published": "2026-10-18T19:49:47+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-18T22:27:11.925760+00:00"
-  },
-  {
-   "id": "84198dad12ea7aca",
-   "title": "Rubio heads to Central Asia as some wonder if he's keeping the most pressing matters at a distance",
-   "url": "https://www.pbs.org/newshour/politics/rubio-heads-to-central-asia-as-some-wonder-if-hes-keeping-the-most-pressing-matters-at-a-distance",
-   "summary": "This tour is intended to promote U.S. economic and security ties with Central and South Asia. But it has only tangential links to the Trump administration's current main foreign policy dilemmas in the Middle East and with the Russia-Ukraine war.",
-   "published": "2026-10-18T19:49:23+00:00",
-   "source": "PBS NewsHour Politics",
-   "source_id": "pbs-politics",
-   "bias_note": "center",
-   "first_seen": "2026-10-18T22:27:12.104662+00:00"
-  },
-  {
-   "id": "f1da54f82d32dfa0",
-   "title": "Bessent: Dropping oil prices before 2026 ends 'will depend' on Iran conflict",
-   "url": "https://thehill.com/policy/energy-environment/6156572-bessent-oil-prices-iran-conflict/",
-   "summary": "Treasury Secretary Scott Bessent said Sunday that oil prices could go down before the end of the year, but it will depend on the Iran war. NBC News's \"Meet the Press\" host Kristen Welker asked Bessent about the chances of lower prices by the start of 2027, adding President Trump's assertion that \"this is his...",
-   "published": "2026-10-18T18:58:55+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-18T22:27:11.925763+00:00"
   }
  ]
 }
