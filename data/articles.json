@@ -1,7 +1,40 @@
 {
- "updated": "2026-11-01T23:39:35.686425+00:00",
- "count": 1027,
+ "updated": "2026-11-02T06:17:20.772022+00:00",
+ "count": 1028,
  "articles": [
+  {
+   "id": "9cf6a04116c0a0bf",
+   "title": "Trump launches racist diatribe against Abdul El-Sayed at Iowa rally",
+   "url": "https://www.theguardian.com/us-news/2026/nov/01/trump-iowa-rally",
+   "summary": "President again took aim at progressive Senate candidate and lauded Haley Stevens for endorsing Mike RogersDonald Trump railed against Democratic US senate hopeful Abdul El-Sayed at a campaign event in Iowa Sunday, repeatedly referring to the Michigan progressive as a \u201cjihadist\u201d.Trump\u2019s comments aimed to influence a neck-and-neck race that will play an outsized role in determining which party controls the senate after Tuesday\u2019s midterm elections. Continue reading...",
+   "published": "2026-11-02T01:07:23+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-11-02T06:17:20.043781+00:00"
+  },
+  {
+   "id": "fb7bb9c21efa720e",
+   "title": "Trump praises Haley Stevens' defection while lobbing Islamophobic insults at El-Sayed \u2013 video",
+   "url": "https://www.theguardian.com/us-news/video/2026/nov/01/trump-praises-haley-stevens-iowa-rally-video",
+   "summary": "On stage in Iowa, Trump praised congresswoman Haley Stevens\u2019 defection from the Democrats to support Mike Rogers' Senate campaign \u2013 going so far as to welcome her to join the Republican party. He then called Abdul El-Sayed, a Muslim, a 'jihadist,' continuing a line of a Islamophobic attacks against the progressive Democratic Senate nominee.Trump launches racist diatribe against Abdul El-Sayed at Iowa rallyDemocrat Haley Stevens endorses Abdul El-Sayed\u2019s Republican rival Mike Rogers Continue reading...",
+   "published": "2026-11-02T01:04:36+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-11-02T06:17:20.043907+00:00"
+  },
+  {
+   "id": "8c9a237bc1bf5ddd",
+   "title": "Trump rallies in Iowa and Kansas as Republicans fight to keep Senate and House control",
+   "url": "https://abcnews.com/Politics/wireStory/trump-rallies-iowa-kansas-republicans-fight-senate-house-137746861",
+   "summary": "President Donald Trump is wrapping up a turbulent midterm campaign with rallies in Iowa and Kansas",
+   "published": "2026-11-01T23:49:06+00:00",
+   "source": "ABC News Politics",
+   "source_id": "abc-politics",
+   "bias_note": "center",
+   "first_seen": "2026-11-02T06:17:20.561086+00:00"
+  },
   {
    "id": "35539faa92744af2",
    "title": "Justice Department urges sanctions for database analysis critical of its noncitizen voting claims",
@@ -11276,28 +11309,6 @@
    "source_id": "propublica",
    "bias_note": "investigative",
    "first_seen": "2026-10-19T13:28:00.185700+00:00"
-  },
-  {
-   "id": "bfa150e117b7f557",
-   "title": "What does a White House press secretary do?",
-   "url": "https://www.npr.org/2026/10/18/nx-s1-6006807/what-does-a-white-house-press-secretary-do",
-   "summary": "Katie Zacharia's short time as White House press secretary has brought renewed attention to the high-profile role.",
-   "published": "2026-10-19T01:41:24+00:00",
-   "source": "NPR Politics",
-   "source_id": "npr-politics",
-   "bias_note": "center",
-   "first_seen": "2026-10-19T04:49:03.878330+00:00"
-  },
-  {
-   "id": "8086498b3def84f8",
-   "title": "Trump defends waiving Russia sanctions, says it keeps Moscow at negotiating table",
-   "url": "https://thehill.com/homenews/administration/6157113-donald-trump-defends-russia-sanctions-waiver/",
-   "summary": "President Trump defended his decision to waive Russian sanctions on Sunday, writing in a Truth Social post that it keeps Moscow at the negotiating table amid backlash from both sides of the aisle over the decision. \u201cMy decision on Russia is a very simple one. I am in the process of negotiating Peace in the...",
-   "published": "2026-10-19T00:00:45+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-19T04:49:04.417158+00:00"
   }
  ]
 }
