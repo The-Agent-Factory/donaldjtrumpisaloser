@@ -1,7 +1,161 @@
 {
- "updated": "2026-11-02T20:39:06.856401+00:00",
- "count": 1019,
+ "updated": "2026-11-03T02:23:35.448409+00:00",
+ "count": 1017,
  "articles": [
+  {
+   "id": "4b2441e8d96fb2b2",
+   "title": "Where the battle for Congress stands heading into Election Day",
+   "url": "https://www.pbs.org/newshour/show/where-the-battle-for-congress-stands-heading-into-election-day",
+   "summary": "Candidates spent the day making their final pitches to voters following a weekend of last-minute rallies and a high-profile Democratic defection in Michigan. President Trump delivered his closing message in Washington at the Lincoln Memorial Reflecting Pool after days of campaigning in mostly red states. Lisa Desjardins reports.",
+   "published": "2026-11-02T23:55:15+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-11-03T02:23:34.717479+00:00"
+  },
+  {
+   "id": "b2ac5b17672feeb4",
+   "title": "Trump offered a closing message to voters by touting his D.C. renovations",
+   "url": "https://www.npr.org/2026/11/02/nx-s1-6026399/trump-offered-a-closing-message-to-voters-by-touting-his-d-c-renovations",
+   "summary": "In Washington, President Trump delivered his last expected public address, pushing a weaving message to the public about why they should support Republicans.",
+   "published": "2026-11-02T23:35:51+00:00",
+   "source": "NPR Politics",
+   "source_id": "npr-politics",
+   "bias_note": "center",
+   "first_seen": "2026-11-03T02:23:33.777280+00:00"
+  },
+  {
+   "id": "49b3a0de754f4046",
+   "title": "Duckworth condemns Trump's low Halloween flyover, demands answers",
+   "url": "https://thehill.com/homenews/senate/6190569-duckworth-condemns-trump-flyover/",
+   "summary": "Sen. Tammy Duckworth (D-Ill.) on Monday condemned President Trump\u2019s recent low flyover in a letter addressed to Bryan Bedford, the administrator of the Federal Aviation Administration (FAA); Russell Vought, the director of the Office of Management and Budget; and Defense Secretary Pete Hegseth. The flyover occurred Thursday during the White House\u2019s Halloween party, with Air...",
+   "published": "2026-11-02T23:26:57+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-11-03T02:23:34.390707+00:00"
+  },
+  {
+   "id": "b6c30a5869038ff8",
+   "title": "Tamara Keith and Amy Walter on the early signals to watch on Election Night",
+   "url": "https://www.pbs.org/newshour/show/tamara-keith-and-amy-walter-on-the-early-signals-to-watch-on-election-night",
+   "summary": "NPR's Tamara Keith and Amy Walter of the Cook Political Report with Amy Walter join Geoff Bennett to discuss the latest political news, including President Trump's focus on the Reflecting Pool on the day before the election, the last-minute spectacle in the Michigan Senate race and the early signals to watch on Election Night.",
+   "published": "2026-11-02T23:25:00+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-11-03T02:23:34.717499+00:00"
+  },
+  {
+   "id": "1a23cb7e41f6cae3",
+   "title": "\u2018A despicable betrayal\u2019: Democrats incensed by Haley Stevens\u2019s endorsement of Mike Rogers",
+   "url": "https://www.theguardian.com/us-news/2026/nov/02/democrats-reaction-haley-steven-mike-rogers",
+   "summary": "Stevens\u2019s decision sparked fierce backlash from members of the party, while Donald Trump praised the sudden switchDemocrat Haley Stevens\u2019s shocking last-minute endorsement of Mike Rogers, the Michigan Republican Senate candidate, in the run-up to Tuesday\u2019s midterm elections has sparked fierce backlash from members of her party.Stevens, who narrowly lost in the Democratic primary for Senate to Abdul El-Sayed, announced her support for Rogers after a feud with the El-Sayed campaign over an outside group\u2019s advertisement, which blamed the high cost of living on US support for Israel. Continue read",
+   "published": "2026-11-02T23:22:57+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-11-03T02:23:34.149560+00:00"
+  },
+  {
+   "id": "d4b687bdc321a042",
+   "title": "Trump\u2019s DoJ charges six more people in \u2018voter fraud\u2019 crackdown in California",
+   "url": "https://www.theguardian.com/us-news/2026/nov/02/california-voter-fraud-charges",
+   "summary": "Latest arrests come after DoJ unsuccessfully fought to force state election officials to set aside about 20,000 ballotsUS midterms \u2013 live updatesThe US Department of Justice (DoJ) in California has charged six more people with alleged voter fraud crimes, an escalation of the Trump administration\u2019s campaign against the state\u2019s election processes on the eve of the midterms.Bill Essayli, the top federal prosecutor in Los Angeles and a close ally of the president, announced on Monday that his office was prosecuting six lawful permanent residents accused of unlawfully registering to vote and castin",
+   "published": "2026-11-02T23:22:24+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-11-03T02:23:34.149569+00:00"
+  },
+  {
+   "id": "d4ee0e6ef488ff2b",
+   "title": "Trump touts oil price dip in closing speech",
+   "url": "https://thehill.com/newsletters/energy-environment/6190523-trump-touts-oil-price-dip-in-closing-speech/",
+   "summary": "{beacon} Energy &#038; Environment Energy &#038; Environment &#8202; The Big Story  Oil prices fall ahead of midterms President Trump on Monday touted a new drop in oil prices during his closing pitch to voters ahead of Tuesday\u2019s midterm elections. \u00a9 Alex Brandon, Associated Press International benchmark Brent crude was trading at $104 Monday afternoon, down...",
+   "published": "2026-11-02T23:07:49+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-11-03T02:23:34.390734+00:00"
+  },
+  {
+   "id": "635e475809d302b2",
+   "title": "Supreme Court rejects Trump administration's bid to set aside 20,000 California ballots",
+   "url": "https://thehill.com/regulation/court-battles/6190525-supreme-court-trump-administration-california-ballots/",
+   "summary": "The Supreme Court on Monday quickly rejected the Trump administration\u2019s effort to force California officials to set aside 20,000 ballots it claims belong to likely noncitizens and must be investigated.  The court\u2019s one-sentence order contained no explanation and had no noted dissents. California and immigration rights groups question the veracity of the administration\u2019s list and...",
+   "published": "2026-11-02T22:55:26+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-11-03T02:23:34.390748+00:00"
+  },
+  {
+   "id": "f2b958d1a59f2bc8",
+   "title": "Forecasts of midterm blue wave put Trump's legacy on line",
+   "url": "https://thehill.com/homenews/administration/6190415-trump-midterm-election-blue-wave/",
+   "summary": "President Trump\u2019s political capital is on the line ahead of the midterm elections as a potential blue wave threatens his final two years in office.  Trump has crisscrossed the country, holding 28 in-person campaign rallies in addition to a series of tele-rallies. The president has made stops in Republican strongholds like Ohio, Texas, Iowa, Kansas...",
+   "published": "2026-11-02T22:23:53+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-11-03T02:23:34.390772+00:00"
+  },
+  {
+   "id": "6cc2baa9dc8e88de",
+   "title": "President Trump Completes Historic Travel Blitz: 30 Events, 20 States, 32 Days",
+   "url": "https://www.whitehouse.gov/releases/2026/11/president-trump-completes-historic-travel-blitz-30-events-20-states-32-days/",
+   "summary": "President Donald J. Trump has just completed one of the most relentless, far-reaching travel schedules of any modern presidency: 20 states in 32 days, from Wasilla, Alaska, to Daytona Beach, Florida. At every stop, President Trump took his Administration\u2019s record of results directly to the American people. Here are the highlights from President Trump\u2019s travel:\nThe post President Trump Completes Historic Travel Blitz: 30 Events, 20 States, 32 Days appeared first on The White House.",
+   "published": "2026-11-02T22:03:21+00:00",
+   "source": "WhiteHouse.gov News",
+   "source_id": "whitehouse",
+   "bias_note": "official/primary-source",
+   "first_seen": "2026-11-03T02:23:33.336072+00:00"
+  },
+  {
+   "id": "61e21376032a5969",
+   "title": "Spike Lee hopes the Knicks won't visit the White House, warns owner 'can\u2019t force them'",
+   "url": "https://www.foxnews.com/media/spike-lee-hopes-knicks-wont-visit-white-house-warns-owner-cant-force-them",
+   "summary": "Spike Lee says he hopes the New York Knicks refuse to visit the White House, claiming owner James Dolan cannot force players to meet President Donald Trump.",
+   "published": "2026-11-02T21:41:03+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-11-03T02:23:33.225460+00:00"
+  },
+  {
+   "id": "b6f41dd578372398",
+   "title": "Actor Bill Murray stuns Trump's top economic advisor with bizarre question on news show",
+   "url": "https://www.foxnews.com/media/actor-bill-murray-stuns-trumps-top-economic-advisor-bizarre-question-news-show",
+   "summary": "Bill Murray asked Kevin Hassett to say &quot;my dog just died&quot; on CNBC&apos;s &quot;Squawk Box&quot; to test his ever-present smile during a live interview moment Monday.",
+   "published": "2026-11-02T21:12:18+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-11-03T02:23:33.225479+00:00"
+  },
+  {
+   "id": "32e2d79dee37db12",
+   "title": "Ex-FBI chief in Chicago sues DoJ, claiming he was pressured to investigate Trump\u2019s foes",
+   "url": "https://www.theguardian.com/us-news/2026/nov/02/fbi-douglas-depodesta-trump-lawsuit-doj",
+   "summary": "Douglas DePodesta says he was made \u2018scapegoat\u2019 after collapse of case against Broadview Six anti-ICE protestersThe former head of the FBI in Chicago has accused the Trump administration of pressuring him to investigate the president\u2019s political opponents and making him a \u201cscapegoat\u201d after a major federal case against anti-ICE protesters fell apart.Douglas DePodesta, who served as FBI special agent in charge from 2024 until July 2026, alleged in a federal lawsuit filed on Monday that the Department of Justice (DoJ) had engaged in \u201cmisconduct\u201d and \u201cmalfeasance\u201d in its pursuit of unjust prosecuti",
+   "published": "2026-11-02T20:59:53+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-11-03T02:23:34.149579+00:00"
+  },
+  {
+   "id": "b5e305769b390b0e",
+   "title": "Battleground Dem touts bipartisan record, but can\u2019t name single issue she\u2019d work with Trump on",
+   "url": "https://www.foxnews.com/politics/battleground-dem-touts-bipartisan-record-cant-name-single-issue-shed-work-trump",
+   "summary": "Democratic Senate candidate Peggy Flanagan touted her bipartisan record but couldn&apos;t name one Trump policy she&apos;d support, citing &quot;continued grift.&quot;",
+   "published": "2026-11-02T20:30:44+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-11-03T02:23:33.158708+00:00"
+  },
   {
    "id": "6c2cbe5d0fdcf513",
    "title": "Iran offers to open Strait of Hormuz on several conditions",
@@ -278,6 +432,17 @@
    "first_seen": "2026-11-02T18:27:51.661945+00:00"
   },
   {
+   "id": "cd893af7a0965f1b",
+   "title": "John Oliver on Maga\u2019s James Talarico smears: \u2018middle school level homophobia\u2019",
+   "url": "https://www.theguardian.com/tv-and-radio/2026/nov/02/john-oliver-maga-james-talarico-midterms",
+   "summary": "The HBO host called out Trump\u2019s \u2018ridiculous\u2019 stunts and Republican Islamophobia in the lead up to the US midtermsOn his HBO show on Sunday night, John Oliver focused on the last-minute rallies being held across the US leading up to the midterms.In Texas, Republican Senate candidate Ken Paxton implored the few supporters assembled at a rally to not leave. Continue reading...",
+   "published": "2026-11-02T16:25:14+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-11-03T02:23:34.149616+00:00"
+  },
+  {
    "id": "7cc0f5742fc7aad1",
    "title": "Trump says aides have 'concept' of Canada trade deal",
    "url": "https://thehill.com/homenews/administration/6188730-trump-canada-trade-deal-concept/",
@@ -289,6 +454,17 @@
    "first_seen": "2026-11-02T18:27:51.661958+00:00"
   },
   {
+   "id": "92da8b5c5d90b498",
+   "title": "Xavier Becerra\u2019s \u2018California dream\u2019 faces reality check as governor\u2019s mansion beckons",
+   "url": "https://www.theguardian.com/us-news/2026/nov/02/xavier-becerra-california-governor-race",
+   "summary": "Former US representative, health secretary and state attorney general is a shoo-in after a stunning comeback victory in primaryIt was Tuesday, and the man poised to be the next governor of California wanted to talk about Donald Trump.Xavier Becerra had come to Guelaguetza restaurant in Los Angeles to talk about Trump\u2019s attacks on voting in the state, but instead found himself answering questions about a presidential provocation of a different order. Continue reading...",
+   "published": "2026-11-02T16:00:44+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-11-03T02:23:34.149621+00:00"
+  },
+  {
    "id": "daa86061b07ae75a",
    "title": "DOJ appeals to Supreme Court to reverse block on segregating 20K California ballots",
    "url": "https://www.foxnews.com/politics/doj-appeals-supreme-court-reverse-block-segregating-20k-california-ballots",
@@ -298,6 +474,28 @@
    "source_id": "foxnews-politics",
    "bias_note": "right-leaning",
    "first_seen": "2026-11-02T18:27:49.731192+00:00"
+  },
+  {
+   "id": "b739d53706d74936",
+   "title": "Supreme Court denies Trump admin request to reverse block on segregating 20K California ballots",
+   "url": "https://www.foxnews.com/politics/supreme-court-denies-trump-admin-request-reverse-block-segregating-20k-california-ballots",
+   "summary": "The Supreme Court rejected the Trump administration&apos;s request to segregate more than 20,000 California mail-in ballots flagged for potential noncitizen voting.",
+   "published": "2026-11-02T15:50:29+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-11-03T02:23:33.158750+00:00"
+  },
+  {
+   "id": "8a3ae2c46f066ce2",
+   "title": "Republicans were hoping to flip this New Hampshire Senate seat \u2013 will Trump get in the way?",
+   "url": "https://www.theguardian.com/us-news/2026/nov/02/new-hampshire-senate-race",
+   "summary": "Republican John Sununu tries to distance himself from unpopular president in race against Chris Pappas that has gone from \u2018toss-up\u2019 to \u2018lean Democrat\u2019Chris Pappas is stopping himself from getting too excited ahead of Tuesday\u2019s midterm election.\u201cI take nothing for granted,\u201d said the four-term US representative and Democratic nominee for New Hampshire\u2019s open Senate seat. \u201cThis is a very purple, competitive state. Elections are never in the bag here.\u201d Continue reading...",
+   "published": "2026-11-02T15:00:45+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-11-03T02:23:34.149626+00:00"
   },
   {
    "id": "3a770946b2408349",
@@ -10990,226 +11188,6 @@
    "source_id": "thehill",
    "bias_note": "center",
    "first_seen": "2026-10-20T04:57:27.699876+00:00"
-  },
-  {
-   "id": "4e009b0bedf4e495",
-   "title": "Trump announces $8B relief program for farmers",
-   "url": "https://thehill.com/homenews/administration/6159427-trump-announces-8-billion-harvest-relief/",
-   "summary": "President Trump announced Monday that a new $8 billion program will help provide temporary relief to farmers during the harvest season. Trump announced the Harvest Fuel Relief Program during his rally in Kansas stumping for GOP Sen. Roger Marshall, who is running for reelection in a competitive race against his Democratic opponent Adam Hamilton. He...",
-   "published": "2026-10-20T02:10:24+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-20T04:57:27.699879+00:00"
-  },
-  {
-   "id": "d2cd6f4c8e7afb0d",
-   "title": "Presidential Message on National Forest Products Week",
-   "url": "https://www.whitehouse.gov/briefings-statements/2026/10/presidential-message-on-national-forest-products-week-5753/",
-   "summary": "From the misty evergreens of the Pacific Northwest to the hardwood ridges of Appalachia, America\u2019s forests are among our Nation\u2019s greatest natural treasures.&#160; During National Forest Products Week, we renew our commitment to conserving these incredible landscapes and responsibly harnessing their abundance to sustain households, strengthen American jobs and industry, and secure lasting prosperity for [&#8230;]\nThe post Presidential Message on National Forest Products Week appeared first on The White House.",
-   "published": "2026-10-20T02:02:45+00:00",
-   "source": "WhiteHouse.gov News",
-   "source_id": "whitehouse",
-   "bias_note": "official/primary-source",
-   "first_seen": "2026-10-20T04:57:26.896920+00:00"
-  },
-  {
-   "id": "9cd8960bab96d235",
-   "title": "GOP's Don Bacon rips Trump over 'disgraceful' behavior on Ukraine, Russia",
-   "url": "https://thehill.com/policy/defense/6159412-bacon-slams-trump-russia-ukraine/",
-   "summary": "Rep. Don Bacon (R-Neb.) on Monday went after President Trump for his recent behavior surrounding the Russia-Ukraine war. \u201cIt's absolutely disgraceful our president is morally blind on this war. He's pitched his lot in with the dictator and the war criminal, and he's being harsh and undermining the democracy, the country that wants to be...",
-   "published": "2026-10-20T01:52:26+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-20T04:57:27.699885+00:00"
-  },
-  {
-   "id": "ab15ae285a807305",
-   "title": "Elissa Slotkin calls backlash to threat of prosecution comments 'manufactured outrage'",
-   "url": "https://www.foxnews.com/media/elissa-slotkin-calls-backlash-threat-prosecution-comments-manufactured-outrage",
-   "summary": "Sen. Elissa Slotkin, D-Mich., dismissed criticism on CNN as &quot;manufactured outrage&quot; after her viral remarks about prosecuting Trump administration enablers.",
-   "published": "2026-10-20T01:30:17+00:00",
-   "source": "Fox News Latest",
-   "source_id": "foxnews-latest",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-10-20T04:57:26.780359+00:00"
-  },
-  {
-   "id": "55245922d6a7f66c",
-   "title": "Justice Department targets and charges 28 alleged noncitizen California voters",
-   "url": "https://thehill.com/regulation/court-battles/6159377-doj-charges-noncitizen-voters/",
-   "summary": "The Justice Department (DOJ) targeted and charged 28 alleged California voters who are not citizens, the department said in a press release Monday. The DOJ said in the press release that on Monday, federal authorities in California arrested 11 non-Americans residing in the country \u201cwho are among 28 total charged in criminal complaints with federal...",
-   "published": "2026-10-20T00:46:15+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-20T04:57:27.699892+00:00"
-  },
-  {
-   "id": "c4c15d7c45eddec6",
-   "title": "JD Vance declines to endorse Netanyahu despite Trump's strong backing",
-   "url": "https://www.foxnews.com/politics/jd-vance-declines-endorse-netanyahu-despite-trumps-strong-backing",
-   "summary": "Vice President JD Vance said he will not weigh in on Israel&apos;s upcoming election after Trump threw his support behind Netanyahu&apos;s reelection bid.",
-   "published": "2026-10-20T00:45:41+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-10-20T04:57:26.703419+00:00"
-  },
-  {
-   "id": "9b340737d36abca4",
-   "title": "Kansas man mapped rooftops near Trump speech site, threatened to shoot president: DOJ",
-   "url": "https://www.foxnews.com/us/kansas-man-mapped-rooftops-near-trump-speech-site-threatened-shoot-president-doj",
-   "summary": "Jaden Read allegedly posted Facebook threats to shoot President Donald Trump and claimed he mapped rooftops near the planned Wichita, Kansas, speech.",
-   "published": "2026-10-19T22:59:12+00:00",
-   "source": "Fox News Latest",
-   "source_id": "foxnews-latest",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-10-19T23:45:21.895543+00:00"
-  },
-  {
-   "id": "fe8618e7ca148fc4",
-   "title": "Trump borrows from far right to blame unrest in France on immigration",
-   "url": "https://www.theguardian.com/us-news/2026/oct/19/trump-france-protests",
-   "summary": "President ignores school conditions and cost of living and says he warned Macron \u2018the whole world was coming in\u2019Explainer: why are people protesting across Europe?Donald Trump and JD Vance deployed a familiar US playbook on Europe, claiming that immigrants were responsible for rioting in France that began as student protests against crumbling schools and the high cost of living.The nationwide protests on Saturday were called over rising fuel prices and falling purchasing power, and in several cities they escalated into clashes with police that left a historic town hall torched and led to 1,800",
-   "published": "2026-10-19T22:48:35+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-10-19T23:45:22.529089+00:00"
-  },
-  {
-   "id": "d5ccad625fbaf568",
-   "title": "News Wrap: Federal judge clashes with DOJ over D.C. golf course",
-   "url": "https://www.pbs.org/newshour/show/news-wrap-federal-judge-clashes-with-doj-over-d-c-golf-course",
-   "summary": "In our news wrap Monday, a federal judge clashed with Justice Department lawyers in the latest legal standoff over the fate of a Washington, D.C. golf course, the Supreme Court will review a Reconstruction-era ban on home distilleries and Israeli authorities say they've arrested at least ten people in connection with recent settler attacks in the occupied West Bank.",
-   "published": "2026-10-19T22:40:37+00:00",
-   "source": "PBS NewsHour Politics",
-   "source_id": "pbs-politics",
-   "bias_note": "center",
-   "first_seen": "2026-10-19T23:45:22.937675+00:00"
-  },
-  {
-   "id": "72847b45ad9ad482",
-   "title": "Zelensky rolls the dice on combative Trump pressure campaign",
-   "url": "https://thehill.com/policy/international/6159291-zelensky-bets-trump-pressure-campaign-russia/",
-   "summary": "Ukrainian President Volodymyr Zelensky is making a high-stakes bet that a combative public pressure campaign targeting President Trump \u2014 in coordination with his allies in Congress \u2014 will push the president to reverse course on concessions to Russia.  Zelensky, under intense strain from relentless Russian strikes and depleted air defenses, has lashed out at Trump...",
-   "published": "2026-10-19T22:32:59+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-19T23:45:22.739461+00:00"
-  },
-  {
-   "id": "463d4647c8c8e8e7",
-   "title": "Tamara Keith and Carrie Dann on Trump's approval rating hitting a record low",
-   "url": "https://www.pbs.org/newshour/show/tamara-keith-and-carrie-dann-on-trumps-approval-rating-hitting-a-record-low",
-   "summary": "NPR's Tamara Keith and Carrie Dann of the Cook Political Report with Amy Walter join Geoff Bennett to discuss the latest political news, including a new poll putting President Trump's approval rating at a record low, the amount of money being spent on Senate races, Trump escalating his feud with Ukraine's president and Trump's attempts to remake Washington.",
-   "published": "2026-10-19T22:30:45+00:00",
-   "source": "PBS NewsHour Politics",
-   "source_id": "pbs-politics",
-   "bias_note": "center",
-   "first_seen": "2026-10-19T23:45:22.937691+00:00"
-  },
-  {
-   "id": "888fc1725b4a2e20",
-   "title": "DOJ charges 28 in California with voting crimes as election tensions escalate",
-   "url": "https://www.npr.org/2026/10/19/nx-s1-6007908/election-tensions-escalate-in-california-as-doj-charges-28-people-with-voting-crimes",
-   "summary": "The DOJ also filed an emergency request in federal court to stop California from processing ballots returned by people on the voter rolls the federal government says are \"likely noncitizens.\"",
-   "published": "2026-10-19T22:10:06+00:00",
-   "source": "NPR Politics",
-   "source_id": "npr-politics",
-   "bias_note": "center",
-   "first_seen": "2026-10-20T04:57:27.204804+00:00"
-  },
-  {
-   "id": "c03c51339a4eaafb",
-   "title": "Trump establishes new women's health divisions",
-   "url": "https://thehill.com/newsletters/healthcare/6159244-trump-establishes-new-womens-health-divisions/",
-   "summary": "Presented by {beacon} Healthcare Healthcare   PRESENTED BY  The Big Story  Trump establishes new women's health divisions  President Trump on Monday signed an executive order creating new executive offices dedicated to bolster research into women's health, crediting first lady Melania Trump for pushing the issue.  \u00a9 AP Photo/Alex Brandon \u201cToday we\u2019re taking historic action to...",
-   "published": "2026-10-19T22:03:43+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-19T23:45:22.739482+00:00"
-  },
-  {
-   "id": "bcf41b5cded56c47",
-   "title": "Beleaguered Macron cites US-Iran war as factor in protests amid Trump, Vance criticism",
-   "url": "https://www.foxnews.com/world/beleaguered-macron-cites-us-iran-war-factor-protests-amid-trump-vance-criticism",
-   "summary": "French President Emmanuel Macron cited the Iran war and its impact on fuel and living costs while addressing the ongoing protests and unrest across France.",
-   "published": "2026-10-19T22:02:58+00:00",
-   "source": "Fox News Latest",
-   "source_id": "foxnews-latest",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-10-19T23:45:21.895571+00:00"
-  },
-  {
-   "id": "c7d48745a86f8a79",
-   "title": "Trump calls on New Mexico to change its name to 'New America'",
-   "url": "https://thehill.com/homenews/administration/6159125-trump-calls-new-mexico-new-america/",
-   "summary": "President Trump called on New Mexico to change its name to \u201cNew America\u201d following his decision to alter the names of the Gulf of Mexico and Lake Ontario to include \u201cAmerica.\u201d \u201cNew Mexico should immediately change its name to New America. We are not Mexico, we are the United States of America,\u201d the president wrote...",
-   "published": "2026-10-19T21:59:36+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-19T23:45:22.739488+00:00"
-  },
-  {
-   "id": "4b9cd8c2b7382e0b",
-   "title": "Judge chastises Trump administration plan to push ahead overhaul of DC golf course",
-   "url": "https://www.npr.org/2026/10/19/nx-s1-6007746/golf-course-potomac-white-house-tree-removal",
-   "summary": "The Trump administration wants to turn a historic public golf course into championship links. Despite a judge's order, hundreds of trees were cut down to make way for the renovation.",
-   "published": "2026-10-19T21:56:37+00:00",
-   "source": "NPR Politics",
-   "source_id": "npr-politics",
-   "bias_note": "center",
-   "first_seen": "2026-10-19T23:45:22.510029+00:00"
-  },
-  {
-   "id": "fafb2effd2c061c5",
-   "title": "Interior will hold first offshore mining lease sale",
-   "url": "https://thehill.com/newsletters/energy-environment/6159155-interior-will-hold-first-offshore-mining-lease-sale/",
-   "summary": "{beacon} Energy &#038; Environment Energy &#038; Environment &#8202; The Big Story  Interior will hold first offshore mining lease sale  The Trump administration is officially moving ahead with a decision to lease ocean tracts off the coast of American Samoa for deep-sea mining. \u00a9 Fili Sagapolutele, Associated Press file The decision, announced Monday, would represent the...",
-   "published": "2026-10-19T21:51:09+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-19T23:45:22.739506+00:00"
-  },
-  {
-   "id": "22f155e2fb6103c3",
-   "title": "The Senate map driving Trump\u2019s late-stage travel blitz",
-   "url": "https://thehill.com/homenews/administration/6159184-trump-senate-midterm-travel/",
-   "summary": "President Trump\u2019s focus with two weeks to go before the midterms is squarely on the Senate, as he travels to a series of red states, some of which are threatening to turn blue. The president\u2019s travel schedule has included stops in states seen as deep red such as Alabama, Oklahoma and Tennessee, as well as...",
-   "published": "2026-10-19T21:48:39+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-19T23:45:22.739511+00:00"
-  },
-  {
-   "id": "1997154ebd7e1488",
-   "title": "Trump set to return to Texas for midterm rally",
-   "url": "https://thehill.com/homenews/campaign/6159173-trump-waco-texas-rally/",
-   "summary": "President Trump will head back to Texas exactly one week before Election Day, underscoring the competitive nature of the red state's battleground races. The Republican National Committee announced Monday that Trump will campaign in Waco, Texas, on Oct. 27. The trip will mark Trump\u2019s third visit to the Lone Star State this month alone and...",
-   "published": "2026-10-19T21:47:58+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-19T23:45:22.739516+00:00"
-  },
-  {
-   "id": "e89cb32fcd9f9fbe",
-   "title": "Trump gives contentious New York pipeline a Defense Production Act boost",
-   "url": "https://thehill.com/policy/energy-environment/6159109-trump-boosts-constitution-pipeline/",
-   "summary": "The Trump administration is giving a defense-related boost to a contentious pipeline in the Northeast U.S. The Energy Department said Monday that it would give up to $42 million from the Defense Production Act for the Constitution Pipeline project that would transport natural gas from Pennsylvania to New York. The pipeline project was scrapped in...",
-   "published": "2026-10-19T21:29:41+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-19T23:45:22.739548+00:00"
   }
  ]
 }
