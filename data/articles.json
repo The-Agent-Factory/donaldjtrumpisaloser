@@ -1,7 +1,95 @@
 {
- "updated": "2026-11-03T18:15:28.719863+00:00",
- "count": 1011,
+ "updated": "2026-11-03T19:31:56.999147+00:00",
+ "count": 1018,
  "articles": [
+  {
+   "id": "40809cb0c1f18ada",
+   "title": "GOP braces for midterms wipeout as Trump rants about Reflecting Pool algae?",
+   "url": "https://thehill.com/opinion/robbys-radar/6193430-gop-vulnerable-house-senate/",
+   "summary": "Fixing the Reflecting Pool is not a major concern of voters in Michigan or Texas or Alaska. And that\u2019s a problem.",
+   "published": "2026-11-03T19:19:57+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-11-03T19:31:56.216911+00:00"
+  },
+  {
+   "id": "4f479a759ba0949c",
+   "title": "Ken Burns: 'Something more fundamental at stake' in this election",
+   "url": "https://thehill.com/homenews/campaign/6193309-ken-burns-democracy-crisis/",
+   "summary": "Filmmaker and historian Ken Burns warned Tuesday that the U.S. is facing its fourth great national crisis, arguing that the stakes of the midterm elections extend beyond political differences and spill into the survival of democracy. In a New York Times opinion piece published on Election Day, Burns accused the Trump administration of fueling misinformation...",
+   "published": "2026-11-03T19:09:30+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-11-03T19:31:56.216932+00:00"
+  },
+  {
+   "id": "fdd9fc09ea877a0a",
+   "title": "Live updates: America heads to the polls as Trump fights to protect his agenda",
+   "url": "https://thehill.com/homenews/campaign/6190941-live-updates-trump-midterm-elections-2026/",
+   "summary": "Election Day is here, with President Trump\u2019s political capital on the line as Democrats eye a potential blue wave and Republicans scramble to defend their congressional majorities. Trump has campaigned across the country in recent months, holding 28 in-person rallies in addition to a series of telerallies. He\u2019s made stops in states including Ohio, Texas,...",
+   "published": "2026-11-03T19:08:00+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-11-03T19:31:56.216939+00:00"
+  },
+  {
+   "id": "8130bacfb3c532e0",
+   "title": "Democrats will get new power to probe Trump\u2019s DC projects if they win back the House",
+   "url": "https://thehill.com/policy/energy-environment/6192805-democrats-investigate-trump-dc-projects/",
+   "summary": "If Democrats take back one or both chambers, they\u2019ll unlock a sweeping new set of investigative powers they could unleash on President Trump\u2019s D.C. projects. For months, Democrats have lamented the Trump administration's efforts to \u201cbeautify\u201d Washington, D.C., including construction on the Lincoln Memorial Reflecting Pool, plans to build an arch near Arlington National Cemetery and...",
+   "published": "2026-11-03T19:00:36+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-11-03T19:31:56.216955+00:00"
+  },
+  {
+   "id": "77bfc821f11162f6",
+   "title": "President Trump Is Powering an American Manufacturing Renaissance",
+   "url": "https://www.whitehouse.gov/releases/2026/11/president-trump-is-powering-an-american-manufacturing-renaissance/",
+   "summary": "American manufacturing is surging under President Donald J. Trump. A new report shows the sector expanding for the tenth consecutive month, with production growing at its fastest pace in nearly five years. Factories are expanding. Jobs are returning. Paychecks are rising faster than inflation. And companies are investing trillions to build their futures in America. [&#8230;]\nThe post President Trump Is Powering an American Manufacturing Renaissance appeared first on The White House.",
+   "published": "2026-11-03T18:49:00+00:00",
+   "source": "WhiteHouse.gov News",
+   "source_id": "whitehouse",
+   "bias_note": "official/primary-source",
+   "first_seen": "2026-11-03T19:31:54.566932+00:00"
+  },
+  {
+   "id": "9f8804d7e95d5a74",
+   "title": "Wright: 'The best cure for high prices is high prices'",
+   "url": "https://thehill.com/business/6192862-chris-wright-energy-prices-affordability-iran-war/",
+   "summary": "Energy Secretary Chris Wright said Tuesday that high energy prices will soon come down, citing a boost in U.S. production.\u00a0 During an interview on Fox Business\u2019s \u201cBig Money in the Morning,\u201d Wright said the Trump administration is \u201cworking with\u201d producers to \u201crestart\u201d operations at closed fuel refineries and expand established operations. \u201cThis is what capitalism\u2019s...",
+   "published": "2026-11-03T18:29:12+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-11-03T19:31:56.216974+00:00"
+  },
+  {
+   "id": "464121512aa70bc5",
+   "title": "Young voters could help shape the midterms. But will they turn out?",
+   "url": "https://thehill.com/homenews/campaign/6189470-young-voters-gen-z-midterm-elections-election-day/",
+   "summary": "Advocates are enthusiastic about the potential for increased youth voter turnout in key races in Tuesday's midterms.   The economy, the Trump administration, AI and data centers have all sparked a fire in young Americans, according to youth voter groups that have knocked on thousands of doors across the country ahead of what is expected to...",
+   "published": "2026-11-03T18:22:21+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-11-03T19:31:56.216986+00:00"
+  },
+  {
+   "id": "a050594bcf3bde11",
+   "title": "Even if US democracy can be salvaged from Trump, Europe is moving on | Rafael Behr",
+   "url": "https://www.theguardian.com/commentisfree/2026/nov/03/us-democracy-donald-trump-europe-trust",
+   "summary": "It will take decades to rebuild trust in a country that removed a tyrant once \u2013 and then reinstated him four years laterWhen Joe Biden entered the White House in 2021 it was possible to believe that Donald Trump\u2019s reign had been an aberration. \u201cAmerica is back. The transatlantic alliance is back,\u201d the new president declared to relieved European leaders shortly after winning the 2020 race. It was true, but not for long.Trump\u2019s defeat proved that US democracy was mechanically operational, not culturally robust. His supporters tried violent subversion to prevent the inauguration of a successor. A",
+   "published": "2026-11-03T18:07:14+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-11-03T19:31:54.838843+00:00"
+  },
   {
    "id": "d7c85948500c6ae5",
    "title": "Election Day is finally here!",
@@ -12,6 +100,17 @@
    "source_id": "thehill",
    "bias_note": "center",
    "first_seen": "2026-11-03T18:15:27.676784+00:00"
+  },
+  {
+   "id": "d2ae79f5b73ce4f4",
+   "title": "AOC campaign memo frames growth from progressive firebrand to national Democratic Party force",
+   "url": "https://www.foxnews.com/politics/aoc-campaign-memo-frames-growth-from-progressive-firebrand-national-democratic-party-force",
+   "summary": "Alexandria Ocasio-Cortez&apos;s campaign memo reveals how she built a nationwide movement around economic populism after Trump&apos;s 2024 election victory.",
+   "published": "2026-11-03T17:49:43+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-11-03T19:31:54.506397+00:00"
   },
   {
    "id": "fcf2ec87319b819f",
@@ -11100,28 +11199,6 @@
    "source_id": "foxnews-politics",
    "bias_note": "right-leaning",
    "first_seen": "2026-10-20T21:41:13.557105+00:00"
-  },
-  {
-   "id": "e67c3f5409e2d83b",
-   "title": "Trump is promising farmers $8B. Republicans are praying it will save their campaigns.",
-   "url": "https://www.politico.com/news/2026/10/20/trump-farmers-payments-gop-midterms-01128165",
-   "summary": "The promise comes two weeks before Election Day \u2014 and the payments could still face a fight ahead in Congress.",
-   "published": "2026-10-20T19:01:00+00:00",
-   "source": "Politico",
-   "source_id": "politico",
-   "bias_note": "center",
-   "first_seen": "2026-10-20T21:41:14.478216+00:00"
-  },
-  {
-   "id": "8274d51874e5c3aa",
-   "title": "On the streets with Dr Oz as surprise fraud crackdown sends daycare directors scrambling",
-   "url": "https://www.foxnews.com/politics/streets-dr-oz-surprise-fraud-crackdown-sends-daycare-directors-scrambling",
-   "summary": "Dr. Mehmet Oz personally confronted staff at two Queens senior care centers over suspicious Medicaid billing, wheelchair charges and attendance records.",
-   "published": "2026-10-20T18:47:07+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-10-20T21:41:13.557117+00:00"
   }
  ]
 }
