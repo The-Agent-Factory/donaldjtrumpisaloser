@@ -1,7 +1,51 @@
 {
- "updated": "2026-11-04T18:01:47.047129+00:00",
- "count": 1042,
+ "updated": "2026-11-04T18:30:03.002744+00:00",
+ "count": 1043,
  "articles": [
+  {
+   "id": "7e02f2d53ebdb69d",
+   "title": "Live updates: Trump blames Iran war for midterm loss while touting ballroom construction",
+   "url": "https://thehill.com/homenews/campaign/6188142-live-updates-trump-democrats-congress-control/",
+   "summary": "In his first public appearance since Republicans lost big in the midterms, President Trump showed off the construction of the White House ballroom. \"It's for the country, and it's free,\" he said.\u00a0 Trump also told reporters that the Iran war was the \"primary reason\" for the GOP's losses. Hours earlier, Vice President Vance said in...",
+   "published": "2026-11-04T18:20:36+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-11-04T18:30:02.125323+00:00"
+  },
+  {
+   "id": "e9daaa1b3bb3c5c6",
+   "title": "Sticker company CEO wins Stefanik\u2019s New York House seat",
+   "url": "https://thehill.com/homenews/campaign/6182984-constantino-wins-new-york-house-race/",
+   "summary": "Sticker company CEO Anthony Constantino (R) is projected to win Rep. Elise Stefanik\u2019s (R-N.Y.) open House seat, according to Decision Desk HQ (DDHQ), The Hill\u2019s partner.  Constantino, who was endorsed by President Trump, defeated Democrat Blake Gendebien and independent Christopher Schmidt in the race to represent the Empire State\u2019s 21st District. Republicans were likely to...",
+   "published": "2026-11-04T18:13:40+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-11-04T18:30:02.125347+00:00"
+  },
+  {
+   "id": "ff2047cf2a54df2b",
+   "title": "Republicans annihilated in midterms: Anti-war MAGA was right",
+   "url": "https://thehill.com/opinion/robbys-radar/6198584-democrats-annihilate-gop-midterms/",
+   "summary": "When you break a promise, your voters punish you.",
+   "published": "2026-11-04T18:03:53+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-11-04T18:30:02.125350+00:00"
+  },
+  {
+   "id": "6f17732e22d92c39",
+   "title": "US midterm elections 2026 live updates: Trump ignores midterms in first remarks after stunning Republican losses; Vance blames Iran war",
+   "url": "https://www.theguardian.com/us-news/live/2026/nov/04/midterm-elections-results-senate-house-michigan-maine-mississippi-latest-updates",
+   "summary": "Instead, Trump focused on his ballroom, new helipad on White House lawn and various \u2018beautification\u2019 projects around Washington DCTrack live results from all 50 statesFull report: Democrats win control of CongressTell us: how do you feel about the midterm results?Wall Street surged at the open, after Democrats scored historic victories in midterm elections and secured control of US Congress.The Dow Jones rose 2%, while the tech-heavy Nasdaq and the benchmark S&amp;P 500 both gained more than 1%. That\u2019s quite a reversal: Overnight, stock futures fell sharply as investors worried about the prosp",
+   "published": "2026-11-04T18:01:35+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-11-04T18:30:00.730156+00:00"
+  },
   {
    "id": "1d03686609e4a0d0",
    "title": "Amid the Trump wreckage, the free press survives",
@@ -111,6 +155,17 @@
    "source_id": "guardian-uspolitics",
    "bias_note": "left-leaning",
    "first_seen": "2026-11-04T18:01:45.718201+00:00"
+  },
+  {
+   "id": "c4fdd89a065689e2",
+   "title": "Fox News Voter Poll: How Democrats took control of the Senate",
+   "url": "https://www.foxnews.com/politics/voter-poll-democrats-take-control-senate",
+   "summary": "Democrats flipped Senate seats across red and blue states as President Donald Trump&apos;s approval, inflation and gas prices dragged down GOP candidates.",
+   "published": "2026-11-04T17:13:22+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-11-04T18:29:59.760863+00:00"
   },
   {
    "id": "6ce492b013e6b42d",
@@ -11419,50 +11474,6 @@
    "source_id": "guardian-uspolitics",
    "bias_note": "left-leaning",
    "first_seen": "2026-10-21T18:42:04.727709+00:00"
-  },
-  {
-   "id": "cbf62954e45134c0",
-   "title": "President Trump Secures Major Wins for South Carolina Workers, Families, and Communities",
-   "url": "https://www.whitehouse.gov/releases/2026/10/president-trump-secures-major-wins-for-south-carolina-workers-families-and-communities/",
-   "summary": "President Donald J. Trump returns to South Carolina today to highlight a proven record of results that put workers, families, seniors, and communities first. Under President Trump and Republican leadership, South Carolinians are seeing historic tax relief, surging private investment and job creation, stronger rural healthcare, and major investments in infrastructure, military readiness, and public [&#8230;]\nThe post President Trump Secures Major Wins for South Carolina Workers, Families, and Communities appeared first on The White House.",
-   "published": "2026-10-21T18:26:45+00:00",
-   "source": "WhiteHouse.gov News",
-   "source_id": "whitehouse",
-   "bias_note": "official/primary-source",
-   "first_seen": "2026-10-21T18:42:04.027460+00:00"
-  },
-  {
-   "id": "b5701525c6816f2e",
-   "title": "Trump supporters confronted with painful gas prices deliver striking response: \u2018I'll take that any day\u2019",
-   "url": "https://www.foxnews.com/politics/trump-supporters-confronted-painful-gas-prices-deliver-striking-response-ill-take-that-any-day",
-   "summary": "Trump rally attendees in North Carolina say rising gas prices are worth it if the Iran war stops a nuclear weapon from threatening future generations.",
-   "published": "2026-10-21T18:18:50+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-10-21T18:42:03.790909+00:00"
-  },
-  {
-   "id": "38ec1f9ac8381997",
-   "title": "American woman masterminds $6 million marriage fraud scheme, Department of Justice says",
-   "url": "https://www.foxnews.com/us/american-woman-masterminds-6-million-marriage-fraud-scheme-department-justice",
-   "summary": "The Department of Justice accuses Jennifer Gonzalez of earning $6 million by arranging sham marriages for green cards over a decade in Massachusetts.",
-   "published": "2026-10-21T18:07:51+00:00",
-   "source": "Fox News Latest",
-   "source_id": "foxnews-latest",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-10-21T18:42:03.892588+00:00"
-  },
-  {
-   "id": "3069d54c97bb0af4",
-   "title": "Moreno says he will introduce bill to expand Trump Accounts access to people under 40",
-   "url": "https://thehill.com/homenews/senate/6163408-moreno-to-expand-trump-accounts/",
-   "summary": "GOP Sen. Bernie Moreno (Ohio) said Tuesday he will introduce legislation to expand access to the Trump administration\u2019s investment accounts for children to Americans younger than 40. \u201cThis is a game-changer and I\u2019ll lead the bill in the Senate to make it happen,\u201d Moreno wrote on the social platform X. \u201cTrump Accounts are already transforming...",
-   "published": "2026-10-21T18:02:50+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-21T18:42:06.275222+00:00"
   }
  ]
 }
