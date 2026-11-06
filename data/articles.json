@@ -1,7 +1,194 @@
 {
- "updated": "2026-11-06T17:50:36.708594+00:00",
- "count": 1015,
+ "updated": "2026-11-06T21:33:09.507219+00:00",
+ "count": 1018,
  "articles": [
+  {
+   "id": "6fb75af1b000191f",
+   "title": "Jeffries calls Miller a 'dangerous xenophobe' after promotion: 'Fire him today'",
+   "url": "https://thehill.com/homenews/administration/6205195-jeffries-blasts-trump-miller-pick/",
+   "summary": "House Democratic Leader Hakeem Jeffries is sounding off on Stephen Miller, President Trump's pick to replace outgoing White House Chief of Staff Susie Wiles. \u201cStephen Miller is a dangerous xenophobe and reckless extremist who has American blood on his hands,\u201d Jeffries said in a post to the social platform X. \u201cHis presence in government should...",
+   "published": "2026-11-06T21:17:03+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-11-06T21:33:08.895534+00:00"
+  },
+  {
+   "id": "de567f8ad1348a91",
+   "title": "Texas v Musk: how southern state Democrats won against the billionaire \u2013 explainer",
+   "url": "https://www.theguardian.com/us-news/video/2026/nov/06/texas-v-musk-how-southern-state-democrats-won-against-the-billionaire-explainer",
+   "summary": "Democrat James Talarico won a Senate seat in Texas, breaking a 38-year drought for his party in the Republican stronghold and delivering a stunning blow to Donald Trump. The race became one of the most expensive Senate contests in US history, with advertising spending topping $500m, according to estimates. GOP-aligned groups poured hundreds of millions of dollars into efforts to elect Ken Paxton, including substantial funding linked to multibillionaire Elon Musk, whom Talarico accused of trying to buy a Senate seat.Elon Musk\u2019s nearly half a billion dollars in midterms spending was a flopFive d",
+   "published": "2026-11-06T21:12:04+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-11-06T21:33:08.688317+00:00"
+  },
+  {
+   "id": "1437532455e4fe76",
+   "title": "Cornell Faculty Senate passes no-confidence vote over Jane Doe case, but Board of Trustees backs president",
+   "url": "https://thehill.com/homenews/education/6205152-cornell-faculty-senate-no-confidence-vote-jane-doe-new-york/",
+   "summary": "The Cornell Faculty Senate on Friday passed its no-confidence vote against the university administration and President Michael Kotlikoff after allegations of gang rape at a campus fraternity roiled the country.\u00a0 By 55 percent to 37 percent, with 7 percent abstaining, the symbolic vote marks the latest stage in the backlash to how the university handled...",
+   "published": "2026-11-06T21:09:33+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-11-06T21:33:08.895548+00:00"
+  },
+  {
+   "id": "52a071f8995c2582",
+   "title": "Trump's triumphal arch is blocked for now, but a new website highlights the plans",
+   "url": "https://www.pbs.org/newshour/politics/trumps-triumphal-arch-is-blocked-for-now-but-a-new-website-highlights-the-plans",
+   "summary": "The White House highlighted the website the morning after U.S. District Judge Tanya Chutkan issued a temporary restraining order that prohibits work on the site for 14 days.",
+   "published": "2026-11-06T20:36:43+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-11-06T21:33:09.001704+00:00"
+  },
+  {
+   "id": "f27b92925f6585e6",
+   "title": "Christie mulling White House bid, says 'Trump era is over'",
+   "url": "https://thehill.com/homenews/campaign/6204997-chris-christie-2028-presidential-election/",
+   "summary": "Former New Jersey Gov. Chris Christie (R) is considering a White House run in 2028, telling his party to go in \u201ca completely different direction\u201d after sizable midterm losses. In an interview with Politico on Wednesday, Christie said he sees himself as better positioned to run than other prominent Republicans \u2014 specifically Vice President Vance...",
+   "published": "2026-11-06T20:33:02+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-11-06T21:33:08.895556+00:00"
+  },
+  {
+   "id": "533775c3cf0a0644",
+   "title": "Stephen Miller, architect of Trump\u2019s immigration crackdown, to become White House chief of staff",
+   "url": "https://www.theguardian.com/us-news/2026/nov/06/stephen-miller-chief-of-staff-trump",
+   "summary": "US president confirms Susie Wiles, current chief of staff and first woman to serve in the role, will step downUS politics live \u2013 latest updatesStephen Miller, Donald Trump\u2019s most controversial aide and the architect of his sweeping immigration crackdown, will become his new White House chief of staff days after Republicans lost control of the US Congress in US midterm elections.The president announced the extraordinary appointment on Friday, confirming that Susie Wiles \u2013 his current chief of staff, and the first woman to serve in the role \u2013 had been ousted. Continue reading...",
+   "published": "2026-11-06T20:06:11+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-11-06T21:33:08.688112+00:00"
+  },
+  {
+   "id": "216d7dc1ff0a7509",
+   "title": "Johnson, staunch Trump ally, seeks to delay Senate GOP leadership election after big losses",
+   "url": "https://thehill.com/homenews/senate/6204900-ron-johnson-senate-gop-leadership-election-midterm-election-losses/",
+   "summary": "Sen. Ron Johnson (R-Wis.) obtained the five signatures he needs from GOP colleagues to request a meeting of the broader Senate Republican Conference to discuss postponing their leadership election, which is scheduled for next week.\u00a0 Johnson, who chairs the Senate Budget Committee, is seeking a delay of the election after an adviser of President Trump...",
+   "published": "2026-11-06T19:53:51+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-11-06T21:33:08.895581+00:00"
+  },
+  {
+   "id": "c546131a6feb214c",
+   "title": "Schumer says Democrats will stop Trump from placing 'right-winger' on the Supreme Court",
+   "url": "https://www.pbs.org/newshour/politics/schumer-says-democrats-will-stop-trump-from-placing-right-winger-on-the-supreme-court",
+   "summary": "Schumer says the party's agenda will center around lowering prices, along with five issues that they have focused on in the minority \u2014 healthcare, housing, Trump's tariffs, childcare and lowering energy bills.",
+   "published": "2026-11-06T19:46:53+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-11-06T21:33:09.001722+00:00"
+  },
+  {
+   "id": "edbb8ad8eb528dee",
+   "title": "Trump names Stephen Miller his next chief of staff after major Republican midterm losses",
+   "url": "https://www.pbs.org/newshour/politics/trump-names-stephen-miller-his-next-chief-of-staff-after-major-republican-midterm-losses",
+   "summary": "President Trump's White House chief of staff, Susie Wiles, is stepping down. She is Trump's longest-serving chief of staff and the first woman ever to hold the position.",
+   "published": "2026-11-06T19:17:44+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-11-06T21:33:09.001726+00:00"
+  },
+  {
+   "id": "3841f99019b0c543",
+   "title": "Stephen Miller will replace Susie Wiles as Trump's chief of staff",
+   "url": "https://www.npr.org/2026/11/06/nx-s1-6032795/stephen-miller-replace-susie-wiles-trumps-chief-of-staff",
+   "summary": "The change comes after sweeping Republican losses in the midterm elections.",
+   "published": "2026-11-06T19:13:52+00:00",
+   "source": "NPR Politics",
+   "source_id": "npr-politics",
+   "bias_note": "center",
+   "first_seen": "2026-11-06T21:33:08.598756+00:00"
+  },
+  {
+   "id": "033adf05970d7e4d",
+   "title": "Latino voters propel Democrats to big wins with leftward swing",
+   "url": "https://www.pbs.org/newshour/politics/latino-voters-propel-democrats-to-big-wins-with-leftward-swing",
+   "summary": "Hispanic voters, especially those in the working class, have been impacted by economic challenges, leading them to reject President Donald Trump and his Republican Party.",
+   "published": "2026-11-06T19:07:57+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-11-06T21:33:09.001729+00:00"
+  },
+  {
+   "id": "b850db31483044e8",
+   "title": "Susie Wiles out, Stephen Miller in, as Trump's chief of staff",
+   "url": "https://thehill.com/homenews/administration/6204745-susie-wiles-out-stephen-miller-in-as-trumps-chief-of-staff/",
+   "summary": "President Trump announced Friday that his chief of staff, Susie Wiles, is leaving the White House and longtime adviser Stephen Miller will take her place. The move comes after Republicans suffered sweeping defeats in the midterms, losing dozens of House seats and control of the Senate. \u201cI am pleased to announce that Mr. Stephen Miller,...",
+   "published": "2026-11-06T18:58:02+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-11-06T21:33:08.895638+00:00"
+  },
+  {
+   "id": "8f51a2597bc88952",
+   "title": "Trump backs Gruters's reelection bid as RNC chair",
+   "url": "https://thehill.com/homenews/administration/6204698-trump-backs-gruters-rnc-reelection/",
+   "summary": "President Trump formally backed Republican National Committee (RNC) Chair Joe Gruters\u2019s reelection bid on Friday following the party\u2019s widespread losses in Tuesday\u2019s midterm elections.\u00a0 \u201cJoe Gruters should return as Chairman of the RNC to continue to build our Party, and be a trusted partner as we MAKE AMERICA GREAT AGAIN, and ensure Free and Fair...",
+   "published": "2026-11-06T18:42:45+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-11-06T21:33:08.895644+00:00"
+  },
+  {
+   "id": "5533583542584d62",
+   "title": "Hockey great Wayne Gretzky defends relationship with President Trump and speaks on Russian hockey ban",
+   "url": "https://www.foxnews.com/outkick-sports/hockey-great-wayne-gretzky-defends-relationship-president-trump-speaks-russian-hockey-ban",
+   "summary": "Wayne Gretzky spoke about his friendship with President Trump and Canada&apos;s decision to ban Russia from the World Junior Hockey Championship in Alberta.",
+   "published": "2026-11-06T18:30:18+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-11-06T21:33:08.265795+00:00"
+  },
+  {
+   "id": "f38483b0fc7a5797",
+   "title": "On the Ground in the Final Days Before Trump\u2019s Midterm Debacle",
+   "url": "https://www.propublica.org/article/trump-movement-rally-voters-appeal",
+   "summary": "The post On the Ground in the Final Days Before Trump\u2019s Midterm Debacle appeared first on ProPublica.",
+   "published": "2026-11-06T18:30:00+00:00",
+   "source": "ProPublica",
+   "source_id": "propublica",
+   "bias_note": "investigative",
+   "first_seen": "2026-11-06T21:33:09.109759+00:00"
+  },
+  {
+   "id": "0a9d07e35d107336",
+   "title": "Trump names Stephen Miller new White House chief of staff, replacing Susie Wiles",
+   "url": "https://www.foxnews.com/politics/trump-names-stephen-miller-new-white-house-chief-staff-replacing-susie-wiles",
+   "summary": "Susie Wiles served 21 months as Trump&apos;s longest-serving chief of staff across both terms, departing after Republicans lost the House and Senate. Trump announced Stephen Miller will take on the role.",
+   "published": "2026-11-06T18:06:04+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-11-06T21:33:08.179577+00:00"
+  },
+  {
+   "id": "9c670e6c7840ddd8",
+   "title": "What They Are Saying: Blowout October Jobs Report Smashes Expectations",
+   "url": "https://www.whitehouse.gov/releases/2026/11/what-they-are-saying-blowout-october-jobs-report-smashes-expectations/",
+   "summary": "President Donald J. Trump has long said that America is the hottest country in the world \u2014 and today\u2019s blockbuster jobs report delivers the proof. The economy added a massive 165,000 new jobs in October, more than double what experts expected, with the unemployment rate falling, manufacturing surging, prior months revised sharply higher, and broad-based [&#8230;]\nThe post What They Are Saying: Blowout October Jobs Report Smashes Expectations appeared first on The White House.",
+   "published": "2026-11-06T17:51:30+00:00",
+   "source": "WhiteHouse.gov News",
+   "source_id": "whitehouse",
+   "bias_note": "official/primary-source",
+   "first_seen": "2026-11-06T21:33:08.302435+00:00"
+  },
   {
    "id": "6f6e1b22ab41cb69",
    "title": "Trump will be blocked from putting \u2018rightwinger\u2019 on supreme court, Schumer says",
@@ -11012,160 +11199,6 @@
    "source_id": "pbs-politics",
    "bias_note": "center",
    "first_seen": "2026-10-23T23:11:31.210325+00:00"
-  },
-  {
-   "id": "eda2ae3471d3e6f4",
-   "title": "Robert De Niro ad urges voters to vote early to avoid what Trump might 'pull on Election Day'",
-   "url": "https://www.foxnews.com/media/robert-de-niro-ad-urges-voters-vote-early-avoid-what-trump-might-pull-election-day",
-   "summary": "Actor Robert De Niro urged early voting in a fiery Indivisible ad, claiming President Donald Trump and the Supreme Court will interfere on Election Day.",
-   "published": "2026-10-23T21:00:13+00:00",
-   "source": "Fox News Latest",
-   "source_id": "foxnews-latest",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-10-23T23:11:30.410012+00:00"
-  },
-  {
-   "id": "4f50b147047a1c67",
-   "title": "Ilhan Omar doubles down on \u2018real name\u2019 when confronted at Mall of Somalia",
-   "url": "https://www.foxnews.com/politics/ilhan-omar-doubles-down-real-name-confronted-mall-somalia",
-   "summary": "Ilhan Omar insisted her real name is Ilhan Abdullahi Omar after a federal court filing listed her as Ilhan Nur Said Elmi in an immigration fraud probe.",
-   "published": "2026-10-23T20:56:08+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-10-23T23:11:30.378580+00:00"
-  },
-  {
-   "id": "0a5b51c4632b7f57",
-   "title": "Secret Service closes road near White House due to suspicious package",
-   "url": "https://thehill.com/homenews/state-watch/6169374-secret-service-investigates-suspicious-item/",
-   "summary": "The U.S. Secret Service and D.C. police are investigating reports of a \u201csuspicious item\u201d near the Eisenhower Executive Office Building, which resulted in a road closure. \u201cAround 2:40 p.m., on October 23, 2026, Secret Service Police were notified of a suspicious item near 17th St.\u00a0and Pennsylvania Avenue,\u201d according to a statement from a Secret Service...",
-   "published": "2026-10-23T20:51:25+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-23T23:11:31.024908+00:00"
-  },
-  {
-   "id": "e4f7065ca921a37d",
-   "title": "Collins says certain Canadian goods now tariff-exempt",
-   "url": "https://thehill.com/business/trade/6169025-maine-collins-exempts-canadian-products-tariffs/",
-   "summary": "Sen. Susan Collins (R-Maine)\u00a0announced Friday that nine categories of Canadian products \u201ccrucial for Maine\u2019s agricultural industries\u201d will be exempted from U.S. tariffs. The types of exempted goods include paperboard cartons, plastic boxes, refrigeration equipment, agricultural cleaning and sorting machinery, packing and wrapping machinery and seaweed and algae products, among others, according to a press release...",
-   "published": "2026-10-23T20:20:46+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-23T23:11:31.024917+00:00"
-  },
-  {
-   "id": "c2341365be16c0cf",
-   "title": "Ukraine: Starlink still isn't working after Trump restoration promise",
-   "url": "https://thehill.com/policy/defense/6169204-ukraine-starlink-zelensky-trump-musk/",
-   "summary": "Ukraine\u2019s military on Friday struggled with a still-slowed Starlink satellite system despite President Trump\u2019s promise a day earlier that SpaceX owner Elon Musk had restored the service. Connections with Starshield \u2014 the military version of Starlink, a major tool for Ukraine to defend itself from missile and drone attacks from Russia \u2014 continued to fail...",
-   "published": "2026-10-23T20:17:48+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-23T23:11:31.024923+00:00"
-  },
-  {
-   "id": "74be22ee5d968090",
-   "title": "DOJ has monitored elections for decades. Here's why some state officials are concerned this year",
-   "url": "https://www.pbs.org/newshour/politics/doj-has-monitored-elections-for-decades-heres-why-some-state-officials-are-concerned-this-year",
-   "summary": "The agency regularly monitors polling places. But this year's effort on Nov. 3 will more than double the number of federal monitors deployed during the 2022 midterms.",
-   "published": "2026-10-23T20:16:57+00:00",
-   "source": "PBS NewsHour Politics",
-   "source_id": "pbs-politics",
-   "bias_note": "center",
-   "first_seen": "2026-10-23T23:11:31.210329+00:00"
-  },
-  {
-   "id": "4bb1bc0efc5e4143",
-   "title": "Fact Sheet: President Donald J. Trump Announces the America First Seafood Strategy and Seafood.gov",
-   "url": "https://www.whitehouse.gov/fact-sheets/2026/10/fact-sheet-president-donald-j-trump-announces-the-america-first-seafood-strategy-and-seafood-gov/",
-   "summary": "SECURING AMERICAN SEAFOOD DOMINANCE:&#160;Today, President Donald J. Trump\u2019s Administration unveiled the historic America First Seafood Strategy and launched Seafood.gov, implementing a plan of action for the future of America\u2019s seafood industry. PUTTING AMERICA\u2019S FISHERMEN FIRST:&#160;President Trump is committed to building the future of American seafood in the United States by ensuring that American fishermen, American [&#8230;]\nThe post Fact Sheet: President Donald J. Trump Announces the America First Seafood Strategy and Seafood.gov appeared first on The White House.",
-   "published": "2026-10-23T20:10:57+00:00",
-   "source": "WhiteHouse.gov News",
-   "source_id": "whitehouse",
-   "bias_note": "official/primary-source",
-   "first_seen": "2026-10-23T23:11:30.498439+00:00"
-  },
-  {
-   "id": "282b2780a9235ad0",
-   "title": "FURTHER MODIFYING THE SCOPE OF PRODUCTS OF CANADA SUBJECT TO THE ADDITIONAL DUTIES IMPOSED TO OFFSET CANADIAN DISCRIMINATION AGAINST THE COMMERCE OF THE UNITED STATES WITH RESPECT TO MOTOR VEHICLES",
-   "url": "https://www.whitehouse.gov/presidential-actions/2026/10/further-modifying-the-scope-of-products-of-canada-subject-to-the-additional-duties-imposed-to-offset-canadian-discrimination-against-the-commerce-of-the-united-states-with-respect-to-motor-vehicles/",
-   "summary": "BY THE PRESIDENT OF THE UNITED STATES OF AMERICA A PROCLAMATION 1.&#160; In Proclamation 11048 of July 20, 2026 (Imposing Additional Duties To Offset Canadian Discrimination Against the Commerce of the United States With Respect to Motor Vehicles), I&#160;found as a fact that Canada is discriminating in fact against the commerce of the United States [&#8230;]\nThe post FURTHER MODIFYING THE SCOPE OF PRODUCTS OF CANADA SUBJECT TO THE ADDITIONAL DUTIES IMPOSED TO OFFSET CANADIAN DISCRIMINATION AGAINST THE COMMERCE OF THE UNITED STATES WITH RESPECT TO MOTOR VEHICLES appeared first on The White Hou",
-   "published": "2026-10-23T19:51:09+00:00",
-   "source": "WhiteHouse.gov News",
-   "source_id": "whitehouse",
-   "bias_note": "official/primary-source",
-   "first_seen": "2026-10-23T23:11:30.498446+00:00"
-  },
-  {
-   "id": "ba329feb481aa9b9",
-   "title": "Fact Sheet: President Donald J. Trump Further Modifies Canadian Products Subject to Tariffs Under Section 338",
-   "url": "https://www.whitehouse.gov/fact-sheets/2026/10/fact-sheet-president-donald-j-trump-further-modifies-canadian-products-subject-to-tariffs-under-section-338/",
-   "summary": "FURTHER COUNTERING CANADA\u2019S DISCRIMINATIORY TREATMENT OF AMERICAN EXPORTS:&#160;Today, to continue addressing Canada\u2019s discriminatory treatment of U.S. commerce,&#160;President Donald J. Trump signed a Proclamation pursuant to Section 338 of the Tariff Act of 1930 to further refine the scope of the tariffs on certain Canadian products previously&#160;announced&#160;on July 20, 2026&#160;and&#160;modified&#160;on September 8, 2026. DEFENDING THE INTERESTS [&#8230;]\nThe post Fact Sheet: President Donald J. Trump Further Modifies Canadian Products Subject to Tariffs Under Section 338 appeared fir",
-   "published": "2026-10-23T19:37:35+00:00",
-   "source": "WhiteHouse.gov News",
-   "source_id": "whitehouse",
-   "bias_note": "official/primary-source",
-   "first_seen": "2026-10-23T23:11:30.498448+00:00"
-  },
-  {
-   "id": "9dbe3b1bd14c63b0",
-   "title": "Ilhan Omar calls Trump \u2018creep\u2019 as president revives \u2018fake name,\u2019 marriage allegations",
-   "url": "https://www.foxnews.com/politics/ilhan-omar-calls-trump-creep-president-revives-fake-name-marriage-allegations",
-   "summary": "Trump seized on reporting about Rep. Ilhan Omar&apos;s birth name and revived longstanding allegations involving her former husband.",
-   "published": "2026-10-23T19:33:55+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-10-23T23:11:30.378590+00:00"
-  },
-  {
-   "id": "3f7cea1f0df0ae65",
-   "title": "Trump floats unconstitutional third term at campaign rally in Iowa \u2013 video",
-   "url": "https://www.theguardian.com/us-news/video/2026/oct/23/trump-floats-unconstitutional-third-term-at-campaign-rally-in-iowa-video",
-   "summary": "Donald Trump told rally-goers on Thursday evening that he had 'the right to run again' for president, invoking a claim he has repeatedly made that he may seek a third term despite it being unconstitutional Continue reading...",
-   "published": "2026-10-23T19:30:24+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-10-23T23:11:30.786806+00:00"
-  },
-  {
-   "id": "1e54b71e448f5e0b",
-   "title": "Trump administration stopped sharing evidence in Good and Pretti killings, Minnesota officials say",
-   "url": "https://www.pbs.org/newshour/nation/trump-administration-stopped-sharing-evidence-in-good-and-pretti-killings-minnesota-officials-say",
-   "summary": "The Trump administration has suggested that state prosecutors don't have jurisdiction to investigate federal officers, while Minnesota officials have said they don't trust the federal government to investigate itself.",
-   "published": "2026-10-23T18:56:29+00:00",
-   "source": "PBS NewsHour Politics",
-   "source_id": "pbs-politics",
-   "bias_note": "center",
-   "first_seen": "2026-10-23T23:11:31.210333+00:00"
-  },
-  {
-   "id": "2541c014fd926b33",
-   "title": "Mysterious \u2018black triangles\u2019 spotted over sensitive US site, new Pentagon UFO files reveal",
-   "url": "https://www.theguardian.com/world/2026/oct/23/ufo-pentagon-files",
-   "summary": "Unidentified object vanished suddenly and silently, anonymous senior military observers claimTwo senior military observers say they watched a mysterious black triangular object flying at an extraordinarily high speed over a sensitive site in the western US earlier this year, in the latest tranche of reported UFO sightings released on Friday by the Trump administration.The unidentified object showed none of the characteristics of a conventional military aircraft, their report to the defense department said, and it vanished suddenly and silently within seconds, leaving no exhaust trail or other ",
-   "published": "2026-10-23T18:45:43+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-10-23T23:11:30.786739+00:00"
-  },
-  {
-   "id": "d889bdf4ec850c7a",
-   "title": "DoJ sues to block certification of Alaska Senate results if Republican incumbent loses",
-   "url": "https://www.theguardian.com/us-news/2026/oct/23/trump-doj-lawsuit-alaska-senate-dan-sullivan",
-   "summary": "Trump justice department claims there could be \u2018confusion\u2019 about two Republicans on the ballot named Dan SullivanThe US Department of Justice on Thursday filed a pre-emptive lawsuit in federal court to block the certification of Alaska\u2019s US Senate results if the Republican incumbent on the ballot does not win.The justice department claimed there could be \u201cvoter confusion\u201d about the two Republican candidates on the ballot named Dan Sullivan, which it claims might influence the race\u2019s outcome in favor of the Democratic nominee, Mary Peltola. Continue reading...",
-   "published": "2026-10-23T18:06:57+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-10-23T18:25:01.500814+00:00"
   }
  ]
 }
