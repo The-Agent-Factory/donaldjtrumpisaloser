@@ -1,7 +1,40 @@
 {
- "updated": "2026-11-07T21:55:57.226522+00:00",
- "count": 1015,
+ "updated": "2026-11-08T01:28:24.732513+00:00",
+ "count": 1010,
  "articles": [
+  {
+   "id": "7a41a56f82d429e0",
+   "title": "Trump says 'a few' cabinet changes are in store after GOP midterm blowout",
+   "url": "https://thehill.com/homenews/administration/6206322-trump-cabinet-midterm-changes/",
+   "summary": "President Trump said he will be making a \u201cfew changes\u201d to his cabinet following the midterm elections where his party suffered major losses at the hands of the Democrats who took control of the House and the Senate. \u201cI love my Cabinet. I think they're good. But I'll \u2026 be doing maybe a few changes....",
+   "published": "2026-11-07T23:51:14+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-11-08T01:28:23.766991+00:00"
+  },
+  {
+   "id": "fb8a22d2d8f23d7f",
+   "title": "Sunday shows preview: Democrats lay out legislative agenda; Congress leadership sparks infighting",
+   "url": "https://thehill.com/homenews/sunday-talk-shows/6206302-congress-leadership-fight-democrats-agenda-midterms/",
+   "summary": "With Democrats set to take control of both the House and Senate following sweeping victories in the midterm elections, sitting lawmakers have already begun to lay out plans for the lame-duck period and the latter half of President Trump's second term. Democrats secured big wins in battleground states, flipping GOP-held seats in places like Texas,...",
+   "published": "2026-11-07T23:27:18+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-11-08T01:28:23.766997+00:00"
+  },
+  {
+   "id": "94a852a8307984e3",
+   "title": "After Trump made inroads, Latinos help Democrats deliver blue wave",
+   "url": "https://thehill.com/homenews/campaign/6205200-hispanic-voters-midterm-elections-gop/",
+   "summary": "Hispanic Americans helped deliver a historic blow to the GOP in Tuesday's contest, diminishing gains President Trump made with Latino men while augmenting the ranks of Democrats in the Congressional Hispanic Caucus (CHC). Exit polling data from polling firm BSP showed significant attrition among Latinos who backed Trump in 2024 \u2014 17 percent of those...",
+   "published": "2026-11-07T22:00:00+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-11-08T01:28:23.767002+00:00"
+  },
   {
    "id": "881abb4cb386b8da",
    "title": "Melania Trump secures $7.2M for foster care scholarships at LSU ahead of Alabama showdown",
@@ -11078,94 +11111,6 @@
    "source_id": "thehill",
    "bias_note": "center",
    "first_seen": "2026-10-25T04:50:09.557785+00:00"
-  },
-  {
-   "id": "7e387a717793a175",
-   "title": "California leader calls attack on alleged noncitizen voting \u2018weaponizing the law\u2019",
-   "url": "https://www.theguardian.com/us-news/2026/oct/24/california-noncitizen-voting-trump-administration",
-   "summary": "State attorney general said Trump\u2019s justice department\u2019s directive to verify 20,000 ballots is completely improperCalifornia\u2019s attorney general on Saturday rebuked the Trump administration\u2019s efforts to quash alleged noncitizen voting, calling it \u201cpoliticizing and weaponizing the law\u201d.Rob Bonta, the state\u2019s attorney general, said the justice department acted at Donald Trump\u2019s direction. Continue reading...",
-   "published": "2026-10-25T00:16:17+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-10-25T04:50:09.298231+00:00"
-  },
-  {
-   "id": "6a3e7c2cc0880c54",
-   "title": "Obama on Trump White House: \u2018Like Saddam Hussein opened a Cheesecake Factory\u2019",
-   "url": "https://thehill.com/homenews/campaign/6170405-obama-mocks-trump-white-house/",
-   "summary": "Former President Barack Obama poked fun at President Trump's various Washington, D.C.-area renovation projects during a campaign stop in Cleveland, Ohio, where he was stumping for Democratic gubernatorial candidate Amy Acton and Senate candidate Sherrod Brown. In his speech, Obama zeroed in on the changes President Trump has made to the White House during his...",
-   "published": "2026-10-25T00:05:25+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-25T04:50:09.557815+00:00"
-  },
-  {
-   "id": "7e5f61fd3b85f502",
-   "title": "California election officials frustrated, rattled by DOJ demand to sequester 'noncitizen' ballots",
-   "url": "https://abcnews.com/Politics/wireStory/california-election-officials-frustrated-rattled-doj-demand-sequester-137544298",
-   "summary": "Local election officials in California are frustrated after receiving a letter from the U.S. Department of Justice",
-   "published": "2026-10-24T23:34:20+00:00",
-   "source": "ABC News Politics",
-   "source_id": "abc-politics",
-   "bias_note": "center",
-   "first_seen": "2026-10-25T04:50:10.035416+00:00"
-  },
-  {
-   "id": "89dbdee4505f5a81",
-   "title": "Kushner\u2019s attorneys send notice to Vanity Fair on alleged \u201cdefamatory\u201d excerpt",
-   "url": "https://thehill.com/media/6170355-kushner-attorneys-warn-vanity-fair/",
-   "summary": "Attorneys representing President Trump\u2019s son-in-law Jared Kushner have sent a letter to Vanity Fair and Cond\u00e9 Nast over allegations published in an article on Thursday calling them \u201cfalse\u201d and \u201cdefamatory.\u201d \u201cWe formally put Vanity Fair and Cond\u00e9 Nast on notice regarding the false and defamatory allegations published about our client, Jared Kushner,\u201d wrote Chad Mizelle,...",
-   "published": "2026-10-24T23:15:39+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-25T04:50:09.557839+00:00"
-  },
-  {
-   "id": "9b7f04872c7eca0d",
-   "title": "Trump casts his midterm ballot early in Florida",
-   "url": "https://abcnews.com/Politics/wireStory/trump-casts-midterm-ballot-early-florida-137543344",
-   "summary": "President Donald Trump has cast his ballot in the midterm elections, voting for all Republicans in Florida before speaking at a Georgia rally",
-   "published": "2026-10-24T22:58:14+00:00",
-   "source": "ABC News Politics",
-   "source_id": "abc-politics",
-   "bias_note": "center",
-   "first_seen": "2026-10-25T04:50:10.035386+00:00"
-  },
-  {
-   "id": "7904bfa0e112b683",
-   "title": "Obama compares Trump's White House renovations to 'Saddam Hussein opening a Cheesecake Factory' at Ohio rally",
-   "url": "https://www.foxnews.com/politics/obama-compares-trumps-white-house-renovations-saddam-hussein-opening-cheesecake-factory-ohio-rally",
-   "summary": "Barack Obama compared Trump&apos;s White House renovations to a Cheesecake Factory run by Saddam Hussein at a Cleveland rally for Ohio Democrats.",
-   "published": "2026-10-24T22:35:34+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-10-25T04:50:08.954411+00:00"
-  },
-  {
-   "id": "08c2854425f2c987",
-   "title": "Barack Obama to rally for Abdul El-Sayed in Michigan before key US Senate race \u2013 US politics live",
-   "url": "https://www.theguardian.com/us-news/live/2026/oct/24/obama-abdul-el-sayed-midterms-rally-michigan-live-updates",
-   "summary": "The former Democratic president is showing major support in Detroit for the progressive Michigan candidate in final days before US midterm electionsSign up for Breaking News US emailDonald Trump voted in West Palm Beach, Florida today, telling reporters at the polls that he voted straight Republican on his ballot. Trump has historically mailed-in his ballot rather than voting in-person.Speaking from the polling site, Trump defended an ad from Ohio gubernatorial candidate Vivek Ramaswamy, his administration\u2019s lawsuit seeking to block certification of the Alaska Senate race if Repubican senator ",
-   "published": "2026-10-24T22:20:32+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-10-24T22:31:53.232054+00:00"
-  },
-  {
-   "id": "5be7c3f323fb0022",
-   "title": "Blanche: DOJ lawsuit not trying to 'stop the certification of Alaska's election'",
-   "url": "https://thehill.com/homenews/campaign/6170303-blanche-denies-alaska-election/",
-   "summary": "Attorney General Todd Blanche said Saturday that the Justice Department is not trying to stop the certification of Alaska\u2019s election, referring to a lawsuit filed this week which claimed to \u201cprotect the integrity\u201d of the election. The lawsuit, filed Thursday in the U.S. District Court for the district of Alaska,\u00a0claims that the inclusion of a candidate...",
-   "published": "2026-10-24T22:13:22+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-24T22:31:53.536182+00:00"
   }
  ]
 }
