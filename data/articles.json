@@ -1,7 +1,29 @@
 {
- "updated": "2026-11-08T16:42:37.397133+00:00",
- "count": 1002,
+ "updated": "2026-11-08T16:56:40.021455+00:00",
+ "count": 1003,
  "articles": [
+  {
+   "id": "f8c92db878eee241",
+   "title": "Challenging the politics that brought Donald Trump to power | Letters",
+   "url": "https://www.theguardian.com/us-news/2026/nov/08/challenging-the-politics-that-brought-donald-trump-to-power",
+   "summary": "Readers respond to an editorial commenting on the Republicans\u2019 rout in the US midterm electionsYour editorial on the US midterms (4 November) notes that culture war attacks, bigotry and smears failed this time. It is worth asking why they worked before. For a decade we have argued over whether Donald Trump\u2019s support was about economics or culture. My research, combining a survey of 6,600 US residents with social mobility data, suggests the question was badly posed. Trump\u2019s 2016 gains over Mitt&nbsp;Romney\u2019s in 2012 were largest in counties where children born poor are least likely to rise, and",
+   "published": "2026-11-08T16:37:43+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-11-08T16:56:39.150173+00:00"
+  },
+  {
+   "id": "721e7b33878e4c7a",
+   "title": "Hakeem Jeffries says he's a 'hard yes' to impeach Hegseth",
+   "url": "https://thehill.com/homenews/house/6206617-jeffries-supports-hegseth-impeachment/",
+   "summary": "House Minority Leader Hakeem Jeffries (D-N.Y.), who will likely be the Speaker of the House come January, said Sunday that he is a \u201chard yes\u201d when it comes to impeaching Defense Secretary Pete Hegseth. \u201cI\u2019m a hard yes on the Hegseth resolution. The so-called secretary of Defense has abused his power, undermined our national security...",
+   "published": "2026-11-08T16:16:22+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-11-08T16:56:39.347044+00:00"
+  },
   {
    "id": "eac694ca0658a063",
    "title": "Blanche dodges questions on investigating Democrats",
@@ -11012,17 +11034,6 @@
    "source_id": "thehill",
    "bias_note": "center",
    "first_seen": "2026-10-25T20:55:32.260114+00:00"
-  },
-  {
-   "id": "545b7ee43d193adc",
-   "title": "Blanche defends DoJ\u2019s pre-emptive suit to block Alaska Senate results certification",
-   "url": "https://www.theguardian.com/us-news/2026/oct/25/todd-blanche-doj-lawsuit-alaska-senate-election-results",
-   "summary": "US attorney general calls CNN \u2018crazy\u2019 for suggesting Trump\u2019s attempt to overturn election could lead to January 6 repeatSign up for The Stakes 2026: your weekly guide to the US midtermsTodd Blanche, Donald Trump\u2019s attorney general, lashed out during an interview on Sunday while defending the justice department\u2019s pre-emptive lawsuit to block certification of Alaska\u2019s US Senate results if the GOP incumbent loses, calling a TV host\u2019s question \u201ccrazy\u201d.The testy repartee unfolded on CNN\u2019s State of the Union over the DoJ\u2019s unprecedented legal action, which alleges that there could be \u201cvoter confusio",
-   "published": "2026-10-25T16:48:41+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-10-25T20:55:32.069612+00:00"
   }
  ]
 }
