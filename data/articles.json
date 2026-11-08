@@ -1,7 +1,238 @@
 {
- "updated": "2026-11-08T16:56:40.021455+00:00",
- "count": 1003,
+ "updated": "2026-11-08T22:12:34.089092+00:00",
+ "count": 1010,
  "articles": [
+  {
+   "id": "8cedf3cffeba6a9b",
+   "title": "Trump staffing changes post-midterms signal he's battle ready",
+   "url": "https://www.npr.org/2026/11/08/nx-s1-6034003/trump-staffing-changes-post-midterms-signal-hes-battle-ready",
+   "summary": "President Trump is making changes to his inner circle that signal how he may approach divided government.",
+   "published": "2026-11-08T22:04:17+00:00",
+   "source": "NPR Politics",
+   "source_id": "npr-politics",
+   "bias_note": "center",
+   "first_seen": "2026-11-08T22:12:32.349598+00:00"
+  },
+  {
+   "id": "92ce6f25a38402fa",
+   "title": "Voters demanded economic relief. Trump and Democrats face tough choices on how to deliver",
+   "url": "https://www.pbs.org/newshour/economy/voters-demanded-economic-relief-trump-and-democrats-face-tough-choices-on-how-to-deliver",
+   "summary": "Trump, who campaigned on the idea that a Democratic victory in the midterms would trigger a 1929-style economic depression, has maintained that the economy is booming. Since his party lost in Tuesday's voting, he has claimed he is willing to work with Democrats in the House and Senate, though that's not something he has done much of in the past.",
+   "published": "2026-11-08T21:59:15+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-11-08T22:12:33.128820+00:00"
+  },
+  {
+   "id": "48d6a5e9298ce9e0",
+   "title": "White House deputy chief of staff departs under Miller shakeup",
+   "url": "https://thehill.com/homenews/administration/6206974-white-house-deputy-chief-of-staff-departs-stephen-miller/",
+   "summary": "White House deputy chief of staff Richard Walters is departing from his role in the wake of longtime Trump adviser Stephen Miller being announced as the new chief of staff. \u201cRichard has been an invaluable member of the White House and has helped deliver some of the Administration\u2019s biggest victories,\u201d Miller said in a statement...",
+   "published": "2026-11-08T21:53:07+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-11-08T22:12:32.886831+00:00"
+  },
+  {
+   "id": "81fffdf80d2f1ced",
+   "title": "Iran gives US two-day diplomacy ultimatum",
+   "url": "https://thehill.com/policy/international/6206904-iran-gives-us-two-day-diplomacy-ultimatum/",
+   "summary": "Iranian Foreign Minister Abbas Araghchi on Sunday warned the U.S. to either accept Tehran\u2019s latest offer to end the more than eight-month war or face military escalation as President Trump mulls further strikes after the midterms. \u201cAmerican voters have made their choice. Time for the White House to make its own,\u201d Araghchi wrote in a...",
+   "published": "2026-11-08T21:06:28+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-11-08T22:12:32.886850+00:00"
+  },
+  {
+   "id": "e3f8377d3937a487",
+   "title": "Trump says he's 'unlikely' to renew attacks on Iran if talks show progress",
+   "url": "https://thehill.com/homenews/administration/6206935-trump-unlikely-attack-iran/",
+   "summary": "President Trump said he was \u201chighly unlikely\u201d to renew attacks against Iran if upcoming peace talks show progress regarding Tehran\u2019s nuclear program and opening the Strait of Hormuz, according to a new CNN report. \u201cIt depends on whether or not they sign a very strong agreement,\u201d Trump said during an interview with CNN\u2019s Jim Sciutto....",
+   "published": "2026-11-08T21:02:25+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-11-08T22:12:32.886854+00:00"
+  },
+  {
+   "id": "866358ae7cd2eb8b",
+   "title": "Trump and his Justice Department stand defiant as Democrats ready an investigative blitz",
+   "url": "https://www.pbs.org/newshour/politics/trump-and-his-justice-department-stand-defiant-as-democrats-ready-an-investigative-blitz",
+   "summary": "Trump set the tone, declaring on social media that investigative requests already made by Democrats are \"extortion at the highest level, and they should be held accountable.\"",
+   "published": "2026-11-08T20:58:15+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-11-08T22:12:33.128832+00:00"
+  },
+  {
+   "id": "a7e9b579e49261fd",
+   "title": "Deputy White House Chief of Staff Richard Walters exits job ahead of Stephen Miller takeover",
+   "url": "https://www.foxnews.com/politics/deputy-white-house-chief-staff-richard-walters-exits-job-ahead-stephen-miller-takeover",
+   "summary": "Stephen Miller praised Richard Walters as an \u201cinvaluable member&quot; who will continue helping the administration from outside the White House.",
+   "published": "2026-11-08T20:43:44+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-11-08T22:12:31.742466+00:00"
+  },
+  {
+   "id": "4d99f07ca772ea8b",
+   "title": "Trump and his Justice Department stand defiant as Democrats ready an investigative blitz",
+   "url": "https://abcnews.com/Politics/wireStory/trump-justice-department-stand-defiant-democrats-ready-investigative-137958810",
+   "summary": "President Donald Trump and his Department of Justice are taking a combative stance toward Democrats after their victories in the midterm elections",
+   "published": "2026-11-08T20:25:48+00:00",
+   "source": "ABC News Politics",
+   "source_id": "abc-politics",
+   "bias_note": "center",
+   "first_seen": "2026-11-08T22:12:33.842112+00:00"
+  },
+  {
+   "id": "1fc37267a27d41c8",
+   "title": "El-Sayed open to working with Trump on affordable healthcare",
+   "url": "https://thehill.com/homenews/senate/6206856-el-sayed-trump-healthcare-deal/",
+   "summary": "Sen.-elect Abdul El-Sayed (D-Mich.) stated he was open to working with President Trump on affordable healthcare despite the pair trading jabs while the incoming senator was on the campaign trail. \u201cLook, I've never met the man. He is the president of the United States. I am the U.S. senator-elect from the state of Michigan. I...",
+   "published": "2026-11-08T20:08:22+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-11-08T22:12:32.886874+00:00"
+  },
+  {
+   "id": "a355186a9f3a3680",
+   "title": "El-Sayed on Miller: 'Most broken man' to run 'the most dysfunctional White House'",
+   "url": "https://thehill.com/homenews/administration/6206812-el-sayed-slams-stephen-miller/",
+   "summary": "Sen.-elect Abdul El-Sayed (D-Mich.) on Sunday slammed Trump administration adviser Stephen Miller, who was recently promoted to White House chief of staff, calling him the \u201cmost broken man.\u201d In an interview on ABC News\u2019s \u201cThis Week,\u201d the outlet\u2019s Jonathan Karl asked El-Sayed about \u201cwhat message\u201d Miller\u2019s new role \u201csends to the country and to your...",
+   "published": "2026-11-08T19:41:38+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-11-08T22:12:32.886877+00:00"
+  },
+  {
+   "id": "1f59cd90d506c4f5",
+   "title": "Hakeem Jeffries supports impeachment of Pete Hegseth: \u2018He has got to go\u2019",
+   "url": "https://www.theguardian.com/us-news/2026/nov/08/pete-hegseth-impeachment-hakeem-jeffries",
+   "summary": "House Democrat is a \u2018hard yes\u2019 on impeachment resolution against defense secretary who \u2018has abused his power\u2019House minority leader Hakeem Jeffries, poised to become majority leader, said on Sunday that he strongly supports impeaching defense secretary Pete Hegseth as a Republican lawmaker prepares to force a House vote.The top Democrat made his position clear during an appearance on ABC\u2019s This Week, declaring himself a \u201chard yes\u201d on the impeachment resolution targeting Hegseth. Continue reading...",
+   "published": "2026-11-08T19:11:33+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-11-08T22:12:32.574509+00:00"
+  },
+  {
+   "id": "a6f54b38c766dbee",
+   "title": "ICYMI: AG Todd Blanche Dismantles Democrats\u2019 \u201cOversight\u201d Charade on the Sunday Shows",
+   "url": "https://www.whitehouse.gov/releases/2026/11/icymi-ag-todd-blanche-dismantles-democrats-oversight-charade-on-the-sunday-shows/",
+   "summary": "This morning, Attorney General Todd Blanche appeared on the Sunday shows and made clear that the Department of Justice will fulfill its Constitutional duty to represent the Executive Branch \u2014 and that Democrats\u2019 explicit threats of endless investigations, impeachments, and retribution against President Trump, Cabinet officials, and private citizens will not succeed. Key exchanges:\nThe post ICYMI: AG Todd Blanche Dismantles Democrats\u2019 \u201cOversight\u201d Charade on the Sunday Shows appeared first on The White House.",
+   "published": "2026-11-08T19:10:42+00:00",
+   "source": "WhiteHouse.gov News",
+   "source_id": "whitehouse",
+   "bias_note": "official/primary-source",
+   "first_seen": "2026-11-08T22:12:32.085444+00:00"
+  },
+  {
+   "id": "40d430bf11551bc8",
+   "title": "Sanders 'not worried' about Stephen Miller becoming White House chief of staff",
+   "url": "https://thehill.com/homenews/senate/6206577-sanders-miller-white-house/",
+   "summary": "Sen. Bernie Sanders (I-Vt.) on Sunday said he's \"not worried\" about Stephen Miller becoming President Trump's new White House chief of staff. \"Meet the Press\" host Kristen Welker pointed out Sanders's history of criticizing Miller and asked if he could see himself working with him. Sanders said he believes Trump is \"mentally unbalanced, erratic, but...",
+   "published": "2026-11-08T18:13:31+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-11-08T22:12:32.886890+00:00"
+  },
+  {
+   "id": "be859eccbf57e086",
+   "title": "GOP lawmaker calls Trump\u2019s promotion of Stephen Miller \u2018a mistake\u2019",
+   "url": "https://thehill.com/homenews/house/6206725-stutzman-decries-miller-promotion/",
+   "summary": "Rep. Marlin Stutzman (R-Ind.) on Sunday decried President Trump\u2019s promotion of Stephen Miller to White House chief of staff. \u201cI come from the business world, just like President Trump does. And you know what? If your team takes a beating as badly as we took this last week, you have to fire people,\u201d Stutzman told...",
+   "published": "2026-11-08T18:09:44+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-11-08T22:12:32.886893+00:00"
+  },
+  {
+   "id": "6a8bccaaa4b4a0be",
+   "title": "AP sources: Staff at U.S. center for AI safety are reporting to the White House, raising independence concerns",
+   "url": "https://www.pbs.org/newshour/politics/staff-at-u-s-center-for-ai-safety-are-reporting-to-the-white-house-raising-independence-concerns",
+   "summary": "Officials with the Center for Advancing Innovation and Standards for Super Intelligence, or CAISSI, an independent division of the Commerce Department, recently were asked to informally report to an office of the White House.",
+   "published": "2026-11-08T18:05:01+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-11-08T22:12:33.128839+00:00"
+  },
+  {
+   "id": "595163415d2081ae",
+   "title": "Saturday Night Live: Druski hosts and James Talarico cameos, but where\u2019s the post-election comedy?",
+   "url": "https://www.theguardian.com/tv-and-radio/2026/nov/08/saturday-night-live-druski-post-election-talarico",
+   "summary": "SNL booking comedian Druski post-midterms felt misbegotten in low-energy episode failing to capture historic \u2018blue-nami\u2019Four days after the historic \u201cblue-nami\u201d midterms, Saturday Night Live opens at Democrats\u2019 headquarters, where party leaders Hakeem Jeffries (Kenan Thompson) and Chuck Schumer (Sarah Sherman) celebrate, even as they vow to hold on to power in spite of the wishes of their energized base.Their toast is interrupted by the man responsible for Republicans\u2019 shellacking, Donald Trump (James Austin Johnson). The president, who is \u201cnow lame duck\u201d, accepts the results, \u201cwhich is scarie",
+   "published": "2026-11-08T18:02:36+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-11-08T22:12:32.574517+00:00"
+  },
+  {
+   "id": "16f2d02935493c67",
+   "title": "Trump set to lurch further right, claiming US took \u2018giant step back\u2019 in elections",
+   "url": "https://www.theguardian.com/us-news/2026/nov/08/trump-midterm-elections-loss-democrats-immigration",
+   "summary": "Trump poised to double down on immigration crackdown and refuse concessions to new Democratic majority in CongressDonald Trump set the stage for his administration to lurch further to the right this weekend, claiming the US had taken a \u201cgiant step back\u201d by widely rejecting his party.The US president\u2019s hardline aide, Stephen Miller, will begin as White House chief of staff on Monday. He will also meet with Dana White, CEO and president of the Ultimate Fighting Championship, after offering him the job of press secretary. Continue reading...",
+   "published": "2026-11-08T17:58:43+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-11-08T22:12:32.574520+00:00"
+  },
+  {
+   "id": "6d6a9b1743d8c46f",
+   "title": "Presidential Message on Diwali",
+   "url": "https://www.whitehouse.gov/briefings-statements/2026/11/presidential-message-on-diwali-1f71/",
+   "summary": "Today, I send my warmest greetings to Americans across our great Nation celebrating Diwali\u2014the Festival of Lights. During this special time, families gather around flickering diyas, homes shine with the warmth of ancient traditions, and countless communities glow with the beauty of a celebration thousands of years in the making.&#160; This Diwali, we observe light\u2019s [&#8230;]\nThe post Presidential Message on Diwali appeared first on The White House.",
+   "published": "2026-11-08T17:47:27+00:00",
+   "source": "WhiteHouse.gov News",
+   "source_id": "whitehouse",
+   "bias_note": "official/primary-source",
+   "first_seen": "2026-11-08T22:12:32.085450+00:00"
+  },
+  {
+   "id": "d9b6c270fe2620d7",
+   "title": "Sanders says Democrats should hold Trump accountable but 'cannot spend all of our time'",
+   "url": "https://thehill.com/homenews/senate/6206576-sanders-democrats-trump-accountability/",
+   "summary": "Sen. Bernie Sanders (I-Vt.) on Sunday said Democrats will need to hold President Trump accountable when they take over control of Congress starting in January but added that they \u201ccannot spend all of our time\u201d just investigating the president. \u201cDo we want to hold the Trump administration accountable for their corruption, for their illegal, unconstitutional...",
+   "published": "2026-11-08T17:21:26+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-11-08T22:12:32.886902+00:00"
+  },
+  {
+   "id": "cf165402d3bb208a",
+   "title": "Ex-RFK Jr adviser requests records on Wiles's health policy influence",
+   "url": "https://thehill.com/policy/healthcare/6206661-calley-means-susie-wiles-records/",
+   "summary": "Calley Means, a former top adviser to Health and Human Services (HHS) Secretary Robert F. Kennedy Jr., requested records on former White House chief of staff Susie Wiles\u2019s health policy influence be preserved following allegations he made that she led the Trump administration to consistently bow to corporate interests on health policy. \u201cIn light of...",
+   "published": "2026-11-08T17:13:43+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-11-08T22:12:32.886905+00:00"
+  },
+  {
+   "id": "0f7cf8c7e8281c29",
+   "title": "Trump shares cartoon of Dana White as press secretary",
+   "url": "https://thehill.com/homenews/media/6206667-trump-shares-dana-white-cartoon/",
+   "summary": "President Trump on Sunday shared a cartoon of Dana White, CEO and president of UFC, as White House press secretary after announcing that White had been proposed as a candidate for the role. The president posted a cartoon video with the same animation style as \u201cFamily Guy.\u201d In the video, White is in the White...",
+   "published": "2026-11-08T17:09:16+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-11-08T22:12:32.886908+00:00"
+  },
   {
    "id": "f8c92db878eee241",
    "title": "Challenging the politics that brought Donald Trump to power | Letters",
@@ -56,6 +287,17 @@
    "source_id": "foxnews-latest",
    "bias_note": "right-leaning",
    "first_seen": "2026-11-08T16:42:35.492203+00:00"
+  },
+  {
+   "id": "fd66ebf5cb93cabf",
+   "title": "Trump \u2018holds all the cards\u2019 in war against Iran\u2019s regime, White House says",
+   "url": "https://www.foxnews.com/politics/trump-holds-all-cards-war-against-irans-regime-white-house-says",
+   "summary": "Supreme Leader Ayatollah Mojtaba Khamenei taunts America after midterms, but the White House says Trump holds all the cards on the Strait of Hormuz.",
+   "published": "2026-11-08T15:13:07+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-11-08T22:12:31.742494+00:00"
   },
   {
    "id": "2b571ffdaf575282",
@@ -287,6 +529,17 @@
    "source_id": "thehill",
    "bias_note": "center",
    "first_seen": "2026-11-08T01:28:23.767002+00:00"
+  },
+  {
+   "id": "7305d6aa8d33f5e5",
+   "title": "Presidential Message on Honoring the American Flag",
+   "url": "https://www.whitehouse.gov/briefings-statements/2026/11/presidential-message-on-honoring-the-american-flag/",
+   "summary": "For nearly two and a half centuries, the American Flag has stood as the most iconic and magnificent symbol of freedom, liberty, and justice that the world has ever known. &#160;Today, we recommit ourselves to honoring our beloved Stars and Stripes by ensuring it is always treated with the utmost respect, dignity, and reverence that [&#8230;]\nThe post Presidential Message on Honoring the American Flag appeared first on The White House.",
+   "published": "2026-11-07T22:00:00+00:00",
+   "source": "WhiteHouse.gov News",
+   "source_id": "whitehouse",
+   "bias_note": "official/primary-source",
+   "first_seen": "2026-11-08T22:12:32.085451+00:00"
   },
   {
    "id": "881abb4cb386b8da",
@@ -10858,182 +11111,6 @@
    "source_id": "thehill",
    "bias_note": "center",
    "first_seen": "2026-10-26T00:26:02.264837+00:00"
-  },
-  {
-   "id": "1474b37cce130986",
-   "title": "Appeals court resists DOJ's bid to immediately segregate 20k California ballots",
-   "url": "https://thehill.com/regulation/court-battles/6171263-appeals-court-denies-emergency-california-hearing/",
-   "summary": "A federal appeals court appeared unlikely to immediately agree to the Trump administration\u2019s bid to segregate 20,000 California ballots it says are likely noncitizen voters, expressing skepticism at a rare Sunday hearing that a trial judge needs to move quicker. \u201cI don't see how we have jurisdiction,\u201d said U.S. Circuit Judge Mark Bennett.\u00a0 The Justice Department (DOJ) sued...",
-   "published": "2026-10-25T22:02:13+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-26T00:26:02.264843+00:00"
-  },
-  {
-   "id": "fcb81dc0bad97166",
-   "title": "Catholic bishops regret White House prayer photo with Trump, say it was used politically",
-   "url": "https://abcnews.com/Politics/wireStory/catholic-bishops-regret-white-house-prayer-photo-trump-137557990",
-   "summary": "Two Catholic bishops have expressed regret that they agreed to a White House meeting that produced a publicly distributed photo of them praying with President Donald Trump",
-   "published": "2026-10-25T21:54:06+00:00",
-   "source": "ABC News Politics",
-   "source_id": "abc-politics",
-   "bias_note": "center",
-   "first_seen": "2026-10-26T00:26:03.124477+00:00"
-  },
-  {
-   "id": "72a889c4ad5420a4",
-   "title": "Trump escalates rhetoric against El-Sayed as he tries to undermine Democrat in Michigan Senate race",
-   "url": "https://www.pbs.org/newshour/politics/trump-escalates-rhetoric-against-el-sayed-as-he-tries-to-undermine-democrat-in-michigan-senate-race",
-   "summary": "The Republican president has been attacking El-Sayed's faith throughout the campaign and claiming his past statements and background show a sympathy for extremists.",
-   "published": "2026-10-25T21:50:29+00:00",
-   "source": "PBS NewsHour Politics",
-   "source_id": "pbs-politics",
-   "bias_note": "center",
-   "first_seen": "2026-10-26T00:26:02.504107+00:00"
-  },
-  {
-   "id": "bc72c11b81e408e9",
-   "title": "Rogers dodges questions on MAGA label, Trump tariffs",
-   "url": "https://thehill.com/homenews/campaign/6171235-rogers-dodges-magar-label-interview/",
-   "summary": "Former Rep. Mike Rogers (R-Mich.) dodged questions on whether he identifies as a MAGA-Republican and avoided clarifying his position on President Trump\u2019s controversial tariffs against Canada ahead of his competitive race against Democrat Abdul El-Sayed in Michigan\u2019s Senate race.\u00a0\u00a0 During a Sunday appearance on NBC\u2019s \u201cMeet the Press,\u201d Rogers was asked if he considered himself...",
-   "published": "2026-10-25T21:44:53+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-26T00:26:02.264848+00:00"
-  },
-  {
-   "id": "ee2f636285c6cf3f",
-   "title": "This week on the Hill: Trump, Obama lead final push before Election Day",
-   "url": "https://thehill.com/newsletters/this-week-on-the-hill/6169610-trump-obama-midterm-election-campaign/",
-   "summary": "It\u2019s the final full week before Election Day, and candidates are ramping up their campaigns with rallies, high-profile surrogates and a last round of debates. After a week of daily campaign events across the United States, President Trump is set to visit Corinth, Miss., on Monday, in support of Republican Sen. Cindy Hyde-Smith (Miss.). He...",
-   "published": "2026-10-25T21:00:00+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-26T00:26:02.264864+00:00"
-  },
-  {
-   "id": "85fc2618f9d8bd29",
-   "title": "Iowa\u2019s Senate rivals pitch independence from their parties",
-   "url": "https://www.politico.com/news/2026/10/25/iowa-senate-hinson-turek-independence-01134978",
-   "summary": "Ashley Hinson qualified her pledge to be Trump\u2019s strongest ally, while Josh Turek praised the president\u2019s border record.",
-   "published": "2026-10-25T20:04:23+00:00",
-   "source": "Politico",
-   "source_id": "politico",
-   "bias_note": "center",
-   "first_seen": "2026-10-25T20:55:32.175212+00:00"
-  },
-  {
-   "id": "dde60b899eee8401",
-   "title": "Trump accuses Fox News of giving too much airtime to GOP opponents",
-   "url": "https://thehill.com/homenews/administration/6171084-trump-accuses-fox-news-of-giving-too-much-airtime-to-gop-opponents/",
-   "summary": "President Trump on Sunday blasted Fox News for giving too much airtime to Democratic candidates ahead of the midterm elections, arguing that the network\u2019s coverage was bringing too much attention to Republican opponents that could hurt them in tight races. \u201cFoxNews is spending far too much time putting on the OPPONENTS of Republican Party Candidates,...",
-   "published": "2026-10-25T19:53:53+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-25T20:55:32.260037+00:00"
-  },
-  {
-   "id": "c0ee3ffdcfef8320",
-   "title": "Judge asked to compel Trump administration to disclose emails and texts about Kennedy Center plans",
-   "url": "https://www.pbs.org/newshour/politics/judge-asked-to-compel-trump-administration-to-disclose-emails-and-texts-about-kennedy-center-plans",
-   "summary": "A list of records in the Kennedy Center's possession suggests that Trump has been in \"near-constant contact\" with the center's management, either directly or through intermediaries, plaintiffs' lawyers said in a court filing on Sunday.",
-   "published": "2026-10-25T19:49:52+00:00",
-   "source": "PBS NewsHour Politics",
-   "source_id": "pbs-politics",
-   "bias_note": "center",
-   "first_seen": "2026-10-25T20:55:32.698550+00:00"
-  },
-  {
-   "id": "0759682b11bd21ae",
-   "title": "Blanche says Trump isn't trying to meddle with Alaska election results by suing over Senate race",
-   "url": "https://www.pbs.org/newshour/politics/blanche-says-trump-isnt-trying-to-meddle-with-alaska-election-results-by-suing-over-senate-race",
-   "summary": "Blanche told CNN's \"State of the Union\" that President Donald Trump, who said Friday that he was \"the one that said do it,\" is not trying to overturn state election results \"in any way, shape or form\" on the cusp of the Nov. 3 election.",
-   "published": "2026-10-25T18:19:27+00:00",
-   "source": "PBS NewsHour Politics",
-   "source_id": "pbs-politics",
-   "bias_note": "center",
-   "first_seen": "2026-10-25T20:55:32.698555+00:00"
-  },
-  {
-   "id": "4e625f0b356dbc89",
-   "title": "Hassett says the economy is 'best we've ever seen'",
-   "url": "https://thehill.com/homenews/administration/6170922-hassett-economy-midterms/",
-   "summary": "Kevin Hassett, the director of the National Economic Council (NEC), on Sunday said the economy is the \"best we've ever seen\" as the Trump administration and Republicans make their final pitches heading into the midterm elections. \"So the great big picture about the economy is that it's about the best economy we've ever seen,\" Hassett...",
-   "published": "2026-10-25T18:18:07+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-25T20:55:32.260082+00:00"
-  },
-  {
-   "id": "2bffbe594fc03002",
-   "title": "MAPPED: The states Trump and top Democrats are targeting before Election Day",
-   "url": "https://www.foxnews.com/politics/mapped-states-trump-top-democrats-targeting-election-day",
-   "summary": "With Election Day less than two weeks away, Trump rallied in Florida, Georgia and Michigan as both parties deploy top surrogates to battlegrounds.",
-   "published": "2026-10-25T18:15:23+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-10-25T20:55:31.591889+00:00"
-  },
-  {
-   "id": "1cf14335a9c11b4e",
-   "title": "Blanche says Trump isn't trying to meddle with Alaska election results by suing over Senate race",
-   "url": "https://abcnews.com/Politics/wireStory/blanche-trump-meddle-alaska-election-results-suing-senate-137555745",
-   "summary": "Attorney General Todd Blanche is defending the Trump administration&rsquo;s lawsuit to block certification of Alaska's Senate results if incumbent Republican Dan Sullivan loses the race",
-   "published": "2026-10-25T18:11:02+00:00",
-   "source": "ABC News Politics",
-   "source_id": "abc-politics",
-   "bias_note": "center",
-   "first_seen": "2026-10-25T20:55:33.129481+00:00"
-  },
-  {
-   "id": "fe2d871b9314028e",
-   "title": "Blanche defends DOJ lawsuit blocking Alaska Senate results if Republican loses",
-   "url": "https://www.npr.org/2026/10/25/nx-s1-6016212/blanche-defends-doj-lawsuit-blocking-alaska-senate-results-if-republican-loses",
-   "summary": "Attorney General Todd Blanche defended the Justice Department's suit over Alaska's Senate race in an interview on CNN.",
-   "published": "2026-10-25T17:50:35+00:00",
-   "source": "NPR Politics",
-   "source_id": "npr-politics",
-   "bias_note": "center",
-   "first_seen": "2026-10-25T20:55:32.008860+00:00"
-  },
-  {
-   "id": "c1803d560f493f8a",
-   "title": "Trump reveals dire warning to Macron as violent unrest spreads across Europe",
-   "url": "https://www.foxnews.com/media/trump-reveals-dire-warning-macron-violent-unrest-spreads-across-europe",
-   "summary": "Trump says he warned Emmanuel Macron that immigration policies were &quot;destroying France&quot; as nearly 1,000 protesters were arrested on Saturday.",
-   "published": "2026-10-25T17:27:42+00:00",
-   "source": "Fox News Latest",
-   "source_id": "foxnews-latest",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-10-25T20:55:31.614485+00:00"
-  },
-  {
-   "id": "e9f07fd629efc825",
-   "title": "DOJ flooded with thousands of fraud tips after cash incentive launch, Trump official says",
-   "url": "https://www.foxnews.com/media/doj-flooded-thousands-fraud-tips-after-cash-incentive-launch-trump-official-says",
-   "summary": "The Justice Department&apos;s fraud whistleblower program received thousands of tips in days, as Colin McDonald reveals a novel upfront payment approach.",
-   "published": "2026-10-25T17:07:11+00:00",
-   "source": "Fox News Latest",
-   "source_id": "foxnews-latest",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-10-25T20:55:31.614496+00:00"
-  },
-  {
-   "id": "8947aef730b8ac0c",
-   "title": "Blanche accuses 'Face the Nation' host of 'misleading' description of Alaska election lawsuit",
-   "url": "https://thehill.com/homenews/state-watch/6170778-doj-alaska-election-lawsuit/",
-   "summary": "Attorney General Todd Blanche on Sunday accused CBS News's \"Face the Nation\" host Margaret Brennan of giving a \"misleading\" description of the Alaska Senate race, where two candidates with similar names will appear on the ballot. Brennan said the Department of Justice (DOJ) sued Alaska preemptively to block the certification of the results if Sen....",
-   "published": "2026-10-25T17:00:31+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-25T20:55:32.260114+00:00"
   }
  ]
 }
