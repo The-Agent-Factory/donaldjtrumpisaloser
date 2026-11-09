@@ -1,7 +1,128 @@
 {
- "updated": "2026-11-09T01:45:15.562284+00:00",
- "count": 1010,
+ "updated": "2026-11-09T09:53:32.128664+00:00",
+ "count": 1013,
  "articles": [
+  {
+   "id": "c6eb7aad16d0ce29",
+   "title": "Midterm results could complicate JD Vance's political future",
+   "url": "https://www.npr.org/2026/11/09/nx-s1-6030858/midterm-results-could-complicate-jd-vances-political-future",
+   "summary": "Vice President JD Vance is looking to recast his political fortune after serving as the Trump administration's No. 2 while his party suffered a historic wipeout.",
+   "published": "2026-11-09T09:45:28+00:00",
+   "source": "NPR Politics",
+   "source_id": "npr-politics",
+   "bias_note": "center",
+   "first_seen": "2026-11-09T09:53:31.272693+00:00"
+  },
+  {
+   "id": "7e6b058b77055290",
+   "title": "Trump admits deportation policy was \u2018too tough\u2019 despite promotion of Stephen Miller",
+   "url": "https://www.theguardian.com/us-news/2026/nov/09/trump-tells-60-minutes-deportation-policy-too-tough-ice-immigration",
+   "summary": "President makes unusual acknowledgment that one of defining policies of his second administration had become a political liabilityDonald Trump has admitted that his deportation policy was \u201ctoo tough\u201d and has offered to strike an immigration deal with Democrats in a concession after the Republicans\u2019 disastrous defeat in the midterm elections.In an interview on the CBS network\u2019s 60 Minutes broadcast on Sunday, the president acknowledged that the aggressive crackdown had hurt him politically and said he was open to an arrangement to allow some undocumented immigrants to remain in the US. Continue",
+   "published": "2026-11-09T08:32:32+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-11-09T09:53:31.289122+00:00"
+  },
+  {
+   "id": "b9b219f79d648734",
+   "title": "The stoning of Stephen Miller, now running the Trump White House",
+   "url": "https://www.foxnews.com/opinion/stoning-stephen-miller-now-running-trump-white-house",
+   "summary": "Trump&apos;s decision to name Stephen Miller his new chief of staff sparked an unprecedented media firestorm, as critics quickly targeted his hardline immigration record and influence over the president&apos;s agenda.",
+   "published": "2026-11-09T08:00:39+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-11-09T09:53:31.099680+00:00"
+  },
+  {
+   "id": "a980804afc30b624",
+   "title": "Stephen Miller, immigration hardliner, in his own words",
+   "url": "https://www.theguardian.com/us-news/2026/nov/09/stephen-miller-in-his-own-words",
+   "summary": "Trump\u2019s most controversial aide begins his first day as White House chief of staffStephen Miller, the influential architect of Donald Trump\u2019s aggressive immigration crackdown, is due to start as White House chief of staff today. His promotion has horrified many, handing even more power to the president\u2019s most controversial aide.The 41-year-old has been with Trump since the beginning of the US president\u2019s political career \u2013 serving as a speechwriter during his 2016 presidential campaign \u2013 and has long been seen as a hardliner on the right, serving as the driving force behind first-term Trump po",
+   "published": "2026-11-09T08:00:04+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-11-09T09:53:31.289131+00:00"
+  },
+  {
+   "id": "b64efc45ea9f23b1",
+   "title": "Democrats to attend Cop31 climate talks boosted by midterms and eager to make up for Trump-era setbacks",
+   "url": "https://www.theguardian.com/environment/2026/nov/09/cop31-climate-democrats-midterms",
+   "summary": "US government will have no official presence at UN\u2019s annual climate summit, this year\u2019s Cop31 held in Antalya, TurkeyThe US will be absent from key UN climate talks that start on Monday, a further sign of Donald Trump\u2019s scornful dismissal of the climate crisis. But Democrats\u2019 crushing win in the US midterm elections has delivered a timely shot of optimism to countries now looking beyond the Trump era of climate obstruction.For the second year in a row, there will be no official US government presence at the annual climate summit, this year known as Cop31 and held in Antalya, Turkey. While almo",
+   "published": "2026-11-09T06:00:01+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-11-09T09:53:31.289138+00:00"
+  },
+  {
+   "id": "20f4704ce33c6e90",
+   "title": "Bernie Sanders warns Democrats not to spend all their time investigating Trump",
+   "url": "https://www.foxnews.com/politics/bernie-sanders-warns-democrats-not-spend-all-time-investigating-trump",
+   "summary": "Sen. Bernie Sanders warned Democrats not to spend all their time investigating the Trump administration, urging the party to prioritize affordability and working-class families.",
+   "published": "2026-11-09T03:56:11+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-11-09T09:53:31.078403+00:00"
+  },
+  {
+   "id": "36a3f902a43cd910",
+   "title": "Trump says his deportation policy 'might have been too tough' for voters in the election",
+   "url": "https://abcnews.com/Politics/wireStory/trump-deportation-policy-tough-voters-election-137963473",
+   "summary": "President Donald Trump said he thinks his administration was too aggressive on deportations",
+   "published": "2026-11-09T03:41:20+00:00",
+   "source": "ABC News Politics",
+   "source_id": "abc-politics",
+   "bias_note": "center",
+   "first_seen": "2026-11-09T09:53:31.938714+00:00"
+  },
+  {
+   "id": "717c79619f11c460",
+   "title": "Trump says he doesn\u2019t disagree with Vance that Iran war fueled GOP losses",
+   "url": "https://www.foxnews.com/media/trump-says-he-doesnt-disagree-vance-iran-war-fueled-gop-losses",
+   "summary": "President Donald Trump said he doesn\u2019t disagree with JD Vance\u2019s assessment that the Iran war, rising costs and Israel ties contributed to GOP midterm losses.",
+   "published": "2026-11-09T03:13:14+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-11-09T09:53:31.099713+00:00"
+  },
+  {
+   "id": "7d9f30acc25f6d63",
+   "title": "Trump says \u2018hatred\u2019 between Zelensky, Putin is main obstacle to ending war",
+   "url": "https://thehill.com/homenews/6207193-trump-blames-zelensky-putin-hatred/",
+   "summary": "President Trump said during a Sunday appearance on \"60 minutes\" that the \"hatred between\" Ukrainian President Volodymyr Zelensky and Russian President Vladimir Putin is one of the primary obstacles toward resolving the Russia-Ukraine war. CBS News's Ross Douthat questioned Trump about his promise to end the Russia-Ukraine war, a claim he touted during his most...",
+   "published": "2026-11-09T02:41:43+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-11-09T09:53:31.481044+00:00"
+  },
+  {
+   "id": "41d9f869830d6bdb",
+   "title": "Trump admits immigration enforcement may have been too 'tough' in first interview since midterms",
+   "url": "https://www.foxnews.com/media/trump-admits-immigration-enforcement-may-have-been-too-tough-first-interview-since-midterms",
+   "summary": "President Donald Trump conceded his deportation policies may have been too &quot;tough&quot; and suggested that he could make a deal with the incoming Democratic Congress.",
+   "published": "2026-11-09T02:34:49+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-11-09T09:53:31.099716+00:00"
+  },
+  {
+   "id": "f9de5c5d4f2f07fd",
+   "title": "Trump says he was 'kidding' about Dana White for press secretary",
+   "url": "https://thehill.com/homenews/6207197-trump-dana-white-press-secretary-joke/",
+   "summary": "President Trump said on Sunday that he offered UFC CEO Dana White the White House press secretary role as a joke. \u201cI will tell you, I was only kidding,\u201d Trump told reporters in West Palm Beach, Florida. \u201cBut Dana loves the idea, and there's only one Dana, and he's great.\u201d The president then appeared to...",
+   "published": "2026-11-09T02:20:19+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-11-09T09:53:31.481052+00:00"
+  },
   {
    "id": "d645774d8e9b4780",
    "title": "Trump says his immigration crackdown \u2018might be too tough\u2019 after midterm losses",
@@ -11023,94 +11144,6 @@
    "source_id": "propublica",
    "bias_note": "investigative",
    "first_seen": "2026-10-26T15:14:37.752144+00:00"
-  },
-  {
-   "id": "59ec037125987333",
-   "title": "Trump escalates anti-Muslim attacks against El-Sayed in Michigan",
-   "url": "https://www.npr.org/2026/10/26/nx-s1-6016816/trump-escalates-anti-muslim-attacks",
-   "summary": "President Trump intensified his anti-Muslim rhetoric against Michigan Senate candidate Abdul El-Sayed on Sunday, portraying him as a threat to national security and questioning his loyalty to the United States.",
-   "published": "2026-10-26T09:22:36+00:00",
-   "source": "NPR Politics",
-   "source_id": "npr-politics",
-   "bias_note": "center",
-   "first_seen": "2026-10-26T15:14:36.389463+00:00"
-  },
-  {
-   "id": "c262499572feef27",
-   "title": "Cybersecurity CEO Indicted for Allegedly Scamming Millions From Ransomware Victims",
-   "url": "https://www.propublica.org/article/zohar-pinhasi-monstercloud-ransomware-indictment",
-   "summary": "The post Cybersecurity CEO Indicted for Allegedly Scamming Millions From Ransomware Victims appeared first on ProPublica.",
-   "published": "2026-10-26T09:00:00+00:00",
-   "source": "ProPublica",
-   "source_id": "propublica",
-   "bias_note": "investigative",
-   "first_seen": "2026-10-26T15:14:37.752148+00:00"
-  },
-  {
-   "id": "53554ea21ffe9137",
-   "title": "Spurned by Trump, these outgoing Republicans aren\u2019t helping their potential successors",
-   "url": "https://www.politico.com/news/2026/10/26/republicans-trump-spurned-cornyn-tillis-amodei-01134258",
-   "summary": "They were snubbed on their way out of office. Their revenge is indifference.",
-   "published": "2026-10-26T08:45:00+00:00",
-   "source": "Politico",
-   "source_id": "politico",
-   "bias_note": "center",
-   "first_seen": "2026-10-26T15:14:36.482983+00:00"
-  },
-  {
-   "id": "0f6aa78a34ceb5e1",
-   "title": "Trump's fingerprints seen on Latin America's rightward shift as Brazil becomes next test",
-   "url": "https://www.foxnews.com/politics/trumps-fingerprints-latin-americas-rightward-shift-brazil-becomes-next-test",
-   "summary": "Trump&apos;s political influence is fueling right-leaning shifts across Latin American countries, with Javier Milei leading Argentina&apos;s charge.",
-   "published": "2026-10-26T08:00:17+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-10-26T15:14:36.051896+00:00"
-  },
-  {
-   "id": "dd0e40d20b0f9a26",
-   "title": "Nicki Minaj pledges to support Donald Trump again during Michigan Republican campaign rally",
-   "url": "https://www.foxnews.com/politics/nicki-minaj-pledges-support-donald-trump-michigan-republican-campaign-rally",
-   "summary": "Nicki Minaj told President Donald Trump she would support him forever at a Michigan rally backing Mike Rogers and John James in the midterms.",
-   "published": "2026-10-26T06:39:39+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-10-26T07:51:56.961518+00:00"
-  },
-  {
-   "id": "ed5c5b02b3c0f298",
-   "title": "From Trump\u2019s staff to buttering a jacket potato: Edith Pritchett\u2019s week in Venn diagrams \u2013 cartoon",
-   "url": "https://www.theguardian.com/lifeandstyle/picture/2026/oct/26/edith-pritchett-week-in-venn-diagrams-cartoon-trump-staff-heathrow-airport-renationalise-water",
-   "summary": "Continue reading...",
-   "published": "2026-10-26T06:00:23+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-10-26T07:51:57.349839+00:00"
-  },
-  {
-   "id": "c4d97def0f882a4f",
-   "title": "Nicki Minaj tells Trump she\u2019ll support him if he runs again",
-   "url": "https://thehill.com/blogs/in-the-know/6171497-nicki-minaj-support-trump-michigan-rally-press-secretary/",
-   "summary": "Nicki Minaj joined President Trump at a campaign rally Sunday and said that she would support him if he chose to run again. \u201cSo, President Trump, it is an honor to stand with you every single time, and I will continue to support you forever and ever. If you run again, I will support you...",
-   "published": "2026-10-26T02:52:18+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-26T07:51:57.538104+00:00"
-  },
-  {
-   "id": "82d6512dd282f257",
-   "title": "Trump considering moving White House press corps",
-   "url": "https://thehill.com/homenews/administration/6171484-donald-trump-considering-moving-white-house-press-corps/",
-   "summary": "President Trump confirmed on Sunday he is considering moving the White House press corps from its historic location. \u201cAlso, I am not building a swimming pool in the White House Briefing Room, and never had any intention of doing so,\u201d he wrote on Truth Social in a lengthy post about comedian Bill Maher. \u201cI am...",
-   "published": "2026-10-26T02:36:02+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-26T07:51:57.538111+00:00"
   }
  ]
 }
