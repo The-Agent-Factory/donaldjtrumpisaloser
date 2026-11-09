@@ -1,7 +1,73 @@
 {
- "updated": "2026-11-08T22:12:34.089092+00:00",
+ "updated": "2026-11-09T01:45:15.562284+00:00",
  "count": 1010,
  "articles": [
+  {
+   "id": "d645774d8e9b4780",
+   "title": "Trump says his immigration crackdown \u2018might be too tough\u2019 after midterm losses",
+   "url": "https://thehill.com/homenews/6207170-trump-immigration-policy-midterm-losses/",
+   "summary": "President Trump on Sunday said his deportation policies might have been \u201ctoo tough\u201d and led to the GOP\u2019s historic losses in this year\u2019s elections.\u00a0 CBS News\u2019s Ross Douthat asked the president on \u201c60 Minutes\u201d if his immigration policy lost his party the midterms.  \u201cI think it both helped and hurt,\u201d Trump responded. \u201cI think I...",
+   "published": "2026-11-09T01:23:22+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-11-09T01:45:14.616344+00:00"
+  },
+  {
+   "id": "c6f33be7013a2d6f",
+   "title": "Trump says he was \u2018only kidding\u2019 about making UFC\u2019s Dana White next press secretary",
+   "url": "https://www.theguardian.com/us-news/2026/nov/08/trump-dana-white-press-secretary",
+   "summary": "President says it was \u2018just a little fun\u2019 to picture White, UFC boss and Trump\u2019s friend, in briefing room with fightersDonald Trump said on Sunday that he \u201cwas only kidding\u201d when he announced a day earlier that he had offered the job of White House press secretary to Dana White, the chief executive of the Ultimate Fighting Championship (UFC).Speaking to reporters on his way back the White House from his beach club in Florida, Trump explained the premise of his joke, that if the UFC boss, who is a devoted fan of the president, took over the briefing room, flanked by six fighters, reporters \u201cwou",
+   "published": "2026-11-09T01:10:55+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-11-09T01:45:14.339527+00:00"
+  },
+  {
+   "id": "810f2e0b51210daf",
+   "title": "Rep.-elect says Democratic majority is an 'opportunity' for Trump",
+   "url": "https://thehill.com/homenews/house/6207130-ojeda-urges-trump-cooperation/",
+   "summary": "Rep.-elect Richard Ojeda (D-N.C.) said Sunday that the Democrats\u2019 upcoming majority in Congress provides a chance for President Trump to work with the party to improve Americans' lives. \u201cBut make no mistake about it, if we don't get to Washington, D.C., and we don't start pushing legislation that elevates people's lives, we're going to lose...",
+   "published": "2026-11-09T00:16:15+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-11-09T01:45:14.616352+00:00"
+  },
+  {
+   "id": "204b5c8339aeb439",
+   "title": "Trump says he was \u2018only kidding\u2019 about making Dana White press secretary",
+   "url": "https://www.foxnews.com/politics/trump-says-only-kidding-making-dana-white-white-house-press-secretary",
+   "summary": "Trump says he was joking when he offered Dana White the press secretary job, but confirmed the UFC boss is visiting the White House on Monday.",
+   "published": "2026-11-09T00:06:40+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-11-09T01:45:13.556126+00:00"
+  },
+  {
+   "id": "709bd887be9b4fd0",
+   "title": "Trump\u2019s proposed Russia deal raises NATO alarm as ex-commander warns Putin seeks influence over Europe",
+   "url": "https://www.foxnews.com/world/trumps-proposed-russia-deal-raises-nato-alarm-ex-commander-warns-putin-seeks-influence-over-europe",
+   "summary": "President Donald Trump says a Russia deal could involve &quot;all of Europe&quot; as retired Gen. Philip Breedlove warns Putin wants spheres of influence.",
+   "published": "2026-11-08T23:48:13+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-11-09T01:45:13.667210+00:00"
+  },
+  {
+   "id": "4f9f0e2f9dba3a8b",
+   "title": "Katie Miller pauses podcast after husband named White House chief of staff",
+   "url": "https://thehill.com/blogs/in-the-know/6207095-katie-miller-pauses-podcast-after-husband-named-white-house-chief-of-staff/",
+   "summary": "After Stephen Miller was selected as White House chief of staff, his wife, conservative influencer Katie Miller, said she is stepping back from her podcast on Sunday. \u201cI make every decision based on what\u2019s best for my children and our family. With @StephenM taking on this new role for President Trump, I\u2019ve decided to stop...",
+   "published": "2026-11-08T23:34:54+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-11-09T01:45:14.616358+00:00"
+  },
   {
    "id": "8cedf3cffeba6a9b",
    "title": "Trump staffing changes post-midterms signal he's battle ready",
@@ -11045,72 +11111,6 @@
    "source_id": "thehill",
    "bias_note": "center",
    "first_seen": "2026-10-26T07:51:57.538111+00:00"
-  },
-  {
-   "id": "deb3096246d89794",
-   "title": "Ninth Circuit questions Trump DOJ's emergency request to set aside 20,000 California mail ballots",
-   "url": "https://www.foxnews.com/politics/ninth-circuit-questions-trump-doj-emergency-request-set-aside-20000-california-mail-ballots",
-   "summary": "A Ninth Circuit panel grilled Justice Department lawyers over forcing California to set aside mail-in ballots tied to suspected noncitizens.",
-   "published": "2026-10-26T01:26:06+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-10-26T07:51:56.961533+00:00"
-  },
-  {
-   "id": "5e6054931694c7b0",
-   "title": "El-Sayed: Trump has as much regard for Constitution as \u2018a piece of toilet paper\u2019",
-   "url": "https://thehill.com/homenews/campaign/6171437-el-sayed-trump-has-as-much-regard-for-constitution-as-a-piece-of-toilet-paper/",
-   "summary": "Michigan Senate candidate Abdul El-Sayed criticized President Trump on Sunday, saying the president has as much regard for the Constitution as \u201ca piece of toilet paper.\u201d In an interview with Al Sharpton on PoliticsNation, El-Sayed was asked about the numerous attacks made by the GOP and Trump about his family background and faith and how...",
-   "published": "2026-10-26T01:20:40+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-26T07:51:57.538117+00:00"
-  },
-  {
-   "id": "0dfbb02e7a39c074",
-   "title": "Tillis says it's 'appropriate to take a look at' Alaska ballot with two Dan Sullivans running",
-   "url": "https://thehill.com/homenews/campaign/6170783-thom-tillis-look-at-alaska-ballot-with-two-dan-sullivans-running/",
-   "summary": "Sen. Thom Tillis (R-N.C.) on Sunday said it was \"appropriate to take a look at\" the outcome of the Alaska Senate race with two candidates with similar names on the ballot, which prompted a Department of Justice (DOJ) lawsuit. \"Alaska has a candidate who just coincidentally happens to be the same name as my friend...",
-   "published": "2026-10-25T23:46:52+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-26T00:26:02.264821+00:00"
-  },
-  {
-   "id": "c808a6c0198afe25",
-   "title": "Trump says El-Sayed should have to pass through metal detector to enter Senate",
-   "url": "https://thehill.com/homenews/administration/6171296-donald-trump-abdul-el-sayed-pass-through-metal-detector-to-enter-senate/",
-   "summary": "President Trump called out Michigan Senate candidate Abdul El-Sayed on Sunday, saying he should have to pass through a metal detector to enter the Senate building.\u00a0 \u201cAnyone with that record of support for jihadists would be screened and unable to get a seat on an airplane. They certainly should not give him a seat in...",
-   "published": "2026-10-25T22:52:30+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-26T00:26:02.264832+00:00"
-  },
-  {
-   "id": "db37df6aa9a40aa4",
-   "title": "Trump rallies for Mike Rogers \u2013 and Nicki Minaj\u2019s derriere \u2013 in Michigan",
-   "url": "https://www.theguardian.com/us-news/2026/oct/25/trump-nicki-minaj-mike-rogers-michigan-rally",
-   "summary": "Trump again congratulated Ohio senator\u2019s rear end before his cheeky comment about rapper being \u2018hard to miss\u2019Donald Trump reiterated his apparent love for buxom bums during a rally in Michigan on Sunday where he encouraged the crowd to compliment rapper Nicki Minaj\u2019s behind.Trump\u2019s cheeky comments about Minaj\u2019s derriere came as he explained his recent observation on the Republican Ohio senator Jon Husted\u2019s rear end. Earlier in October, Trump said of the former college football player: \u201cI don\u2019t do this with men very often. I started examining his body, because I didn\u2019t know he was a great athle",
-   "published": "2026-10-25T22:36:59+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-10-26T00:26:01.985502+00:00"
-  },
-  {
-   "id": "5c8574d08f3db61e",
-   "title": "Tillis accuses California of being 'guilty' of ballot harvesting: 'They have a system there that is ripe for abuse'",
-   "url": "https://thehill.com/homenews/senate/6170781-thom-tillis-accuses-california-of-ballot-harvesting/",
-   "summary": "Sen. Thom Tillis (R-N.C.) on Sunday accused the state of California of being \"guilty\" of ballot harvesting, claiming that the Golden State has \"a system there that is ripe for abuse.\" \"Face the Nation\" host Margaret Brennan asked about the Department of Justice's (DOJ) legal battle with the state over potential noncitizens on their voter...",
-   "published": "2026-10-25T22:18:13+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-26T00:26:02.264837+00:00"
   }
  ]
 }
