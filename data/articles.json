@@ -1,7 +1,183 @@
 {
- "updated": "2026-11-10T18:30:13.697722+00:00",
- "count": 996,
+ "updated": "2026-11-10T20:51:41.306982+00:00",
+ "count": 1005,
  "articles": [
+  {
+   "id": "cef65275b0efabfc",
+   "title": "Iran-backed terror suspects plotted attack on US troops using vans packed with fuel, DOJ says",
+   "url": "https://www.foxnews.com/us/iran-backed-terror-suspects-plotted-attack-us-troops-vans-packed-fuel-doj-says",
+   "summary": "A Justice Department indictment alleges three Iran-backed suspects used fuel-laden vans to target RAF Fairford, a British base housing U.S. troops.",
+   "published": "2026-11-10T20:25:12+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-11-10T20:51:38.834433+00:00"
+  },
+  {
+   "id": "1674ad0ebc9d69ca",
+   "title": "Schumer says Trump support of Nvidia CEO a 'dereliction of duty'",
+   "url": "https://thehill.com/policy/national-security/6211619-schumer-slams-trump-nvidia-ceo/",
+   "summary": "Senate Minority Leader Chuck Schumer (D-N.Y.) slammed President Trump over his association with Nvidia CEO Jensen Huang following reports about the tech leader having an intimate relationship with alleged Chinese spy Alice Huang. \u201cThe press reports that Trump was briefed more than a year ago that Nvidia\u2019s CEO was having an affair with a suspected...",
+   "published": "2026-11-10T20:23:27+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-11-10T20:51:40.567534+00:00"
+  },
+  {
+   "id": "c92f234245a0dacd",
+   "title": "Jamie Raskin calls concerns over spending too much time investigating Trump a media 'narrative'",
+   "url": "https://www.foxnews.com/media/jamie-raskin-calls-concerns-over-spending-too-much-time-investigating-trump-media-narrative",
+   "summary": "Rep. Jamie Raskin, D-Md., dismissed concerns within the party about Democrats in Congress focusing too much on Trump investigations as a media &quot;narrative.&quot;",
+   "published": "2026-11-10T20:15:14+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-11-10T20:51:38.834446+00:00"
+  },
+  {
+   "id": "1bd3c93d18f27840",
+   "title": "Key Democrats shrug off Trump's wind comments: 'We chalk that up to him being 80'",
+   "url": "https://thehill.com/policy/energy-environment/6211611-trump-wind-turbines-bipartisan-permitting-reform-bill/",
+   "summary": "Key Democratic negotiators on Tuesday shrugged off President Trump\u2019s Monday remarks that he would not approve wind projects despite his support for a bipartisan bill that seeks to boost all forms of energy. The bill in question, which aims to ease the path forward for various forms of energy including renewables and fossil fuels, cleared...",
+   "published": "2026-11-10T20:14:27+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-11-10T20:51:40.567553+00:00"
+  },
+  {
+   "id": "67ec13a650f9c1e6",
+   "title": "Top Dem cries \u2018weaponization\u2019 as comments warning young people not to join Trump admin land her in hot water",
+   "url": "https://www.foxnews.com/politics/top-dem-cries-weaponization-comments-warning-young-people-not-join-trump-admin-lands-hot-water",
+   "summary": "Dem Sen. Elissa Slotkin, D-Mich., cries &quot;weaponization&quot; after Trump ordered the Justice Department to investigate her remarks warning young Republicans about joining his administration.",
+   "published": "2026-11-10T20:12:12+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-11-10T20:51:38.816835+00:00"
+  },
+  {
+   "id": "09843196a0f49e9e",
+   "title": "Admiral fired by Hegseth now backs his impeachment as incoming House member",
+   "url": "https://thehill.com/the-120/6211457-admiral-fired-by-hegseth-now-backs-his-impeachment-as-incoming-house-member/",
+   "summary": "Nancy Lacore, a former three-star Navy admiral whom Defense Secretary Pete Hegseth fired last year, is joining the wave of lawmakers \u2014 both newly-elected and sitting \u2014 pushing for the Pentagon chief's impeachment after winning South Carolina\u2019s 1st Congressional District last week. \u201cPete Hegseth is the most unqualified secretary that this nation has seen,\" Lacore...",
+   "published": "2026-11-10T20:06:26+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-11-10T20:51:40.567587+00:00"
+  },
+  {
+   "id": "ae5d6c2729adfa17",
+   "title": "'I don't like the prospect of losing': Supreme Court visa fine argument leaves DOJ worried",
+   "url": "https://thehill.com/regulation/court-battles/6211544-supreme-court-h2a-visa-case/",
+   "summary": "Nearly two hours of Supreme Court arguments over whether the Labor Department\u2019s system for fining employers that break visa rules is constitutional left the government sounding concerned. \u201cI don't like the prospect of losing. I think that's very obvious. I hope we don't lose this case, because of the consequences,\u201d Principal Deputy Solicitor General Sarah...",
+   "published": "2026-11-10T20:06:05+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-11-10T20:51:40.567594+00:00"
+  },
+  {
+   "id": "1754388d7211d728",
+   "title": "Thomas Markle, father of Meghan, cut off his ankle monitor, DOJ says",
+   "url": "https://thehill.com/blogs/in-the-know/in-the-know/6211571-thomas-markle-father-of-meghan-cut-off-his-ankle-monitor-doj-says/",
+   "summary": "The 82-year-old estranged father of Meghan, the Duchess of Sussex, cut an electronic monitoring device off his ankle, just days after his arrest for keeping child sexual abuse material in storage units in California, authorities said Tuesday.",
+   "published": "2026-11-10T20:02:39+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-11-10T20:51:40.567607+00:00"
+  },
+  {
+   "id": "6ea40ee38afa71b0",
+   "title": "Why Rachel Maddow thinks the Department of Justice is dead",
+   "url": "https://www.pbs.org/newshour/podcasts/settle-in-with-pbs-news/why-rachel-maddow-thinks-the-department-of-justice-is-dead",
+   "summary": "Rachel Maddow's latest book, \"Department of Fate,\" tackles the checkered past of the Department of Justice. In this episode of \"Settle In,\" the MS NOW host and anchor speaks with Amna Nawaz about why she considers the DOJ the most consequential institution in America.",
+   "published": "2026-11-10T19:56:22+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-11-10T20:51:40.750347+00:00"
+  },
+  {
+   "id": "b6f8f845969f0e1c",
+   "title": "Republicans elect Jim Jordan as House minority leader after midterm defeats",
+   "url": "https://www.theguardian.com/us-news/2026/nov/10/jim-jordan-house-republican-leader",
+   "summary": "As Democrats prepare to take control of Congress, Republicans pick Jordan for last two years of Trump\u2019s presidencyUS politics \u2013 live updatesRepublican lawmakers have elected Jim Jordan, veteran congressman and Trump loyalist, as their leader in the House of Representatives following resounding losses in last week\u2019s US midterm elections.As Democrats prepare to take control of both chambers of US Congress in January, Republicans backed Jordan to lead them in the House for the last two years of Donald Trump\u2019s presidency. Continue reading...",
+   "published": "2026-11-10T19:40:10+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-11-10T20:51:39.115913+00:00"
+  },
+  {
+   "id": "08720c052034de0b",
+   "title": "Jim Jordan becomes new House GOP leader after closed-door vote, defeating Steve Scalise",
+   "url": "https://www.foxnews.com/politics/jim-jordan-becomes-new-house-gop-leader-after-closed-door-vote-defeating-steve-scalise",
+   "summary": "Jim Jordan defeated Steve Scalise in a narrow secret ballot to become House GOP minority leader and President Trump&apos;s top defender in Congress.",
+   "published": "2026-11-10T19:20:38+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-11-10T20:51:38.816853+00:00"
+  },
+  {
+   "id": "5b30c8885fde5a7b",
+   "title": "Trump closing in on new press secretary as administration officials push for pick who could break the mold",
+   "url": "https://www.foxnews.com/politics/trump-closing-new-press-secretary-admin-officials-push-pick-break-mold",
+   "summary": "President Donald Trump wants a man as his next press secretary, and insiders say Ben Ferguson&apos;s name keeps coming up, a source close to the president says.",
+   "published": "2026-11-10T19:17:27+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-11-10T20:51:38.816856+00:00"
+  },
+  {
+   "id": "aa2c4fadee61f36a",
+   "title": "A Natural Gas Project Off Alaska\u2019s Coast May Be a Russian Ploy for Intel on the Arctic",
+   "url": "https://www.propublica.org/article/alaska-prudhoe-lng-polar-novatek",
+   "summary": "The post A Natural Gas Project Off Alaska\u2019s Coast May Be a Russian Ploy for Intel on the Arctic appeared first on ProPublica.",
+   "published": "2026-11-10T19:00:00+00:00",
+   "source": "ProPublica",
+   "source_id": "propublica",
+   "bias_note": "investigative",
+   "first_seen": "2026-11-10T20:51:40.894930+00:00"
+  },
+  {
+   "id": "07e26049a1a0a69c",
+   "title": "Secretary Hegseth Torches Baseless Impeachment Stunt: \u201cThis Is Not Patriotism; This Is Sabotage\u201d",
+   "url": "https://www.whitehouse.gov/releases/2026/11/secretary-hegseth-torches-baseless-impeachment-stunt-this-is-not-patriotism-this-is-sabotage/",
+   "summary": "This morning, Secretary of War Pete Hegseth systematically dismantled the desperate, ego-driven impeachment hoax by a disgruntled and defeated Congressman. Secretary Hegseth made clear that every operation targeted in the eight articles was lawful, ordered by the Commander-in-Chief, properly notified to Congress, and carried out by warriors who delivered decisive results. He also made clear [&#8230;]\nThe post Secretary Hegseth Torches Baseless Impeachment Stunt: \u201cThis Is Not Patriotism; This Is Sabotage\u201d appeared first on The White House.",
+   "published": "2026-11-10T18:57:20+00:00",
+   "source": "WhiteHouse.gov News",
+   "source_id": "whitehouse",
+   "bias_note": "official/primary-source",
+   "first_seen": "2026-11-10T20:51:38.961259+00:00"
+  },
+  {
+   "id": "588c903594e15703",
+   "title": "Trump's first Iran war escalation post-midterm losses seeks to choke off Tehran\u2019s trade",
+   "url": "https://www.foxnews.com/politics/trumps-first-iran-war-escalation-post-midterm-losses-seeks-choke-off-tehrans-trade",
+   "summary": "President Donald Trump launches Task Force Iron Gate to choke off Iran&apos;s land borders, but experts warn squeezing Tehran could trigger escalation.",
+   "published": "2026-11-10T18:43:25+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-11-10T20:51:38.816866+00:00"
+  },
+  {
+   "id": "53847c5c1f672129",
+   "title": "Democrats rally behind GOP lawmaker's Hegseth impeachment push, signal more to come in January",
+   "url": "https://www.foxnews.com/politics/democrats-rally-behind-gop-lawmaker-hegseth-impeachment-push-signal-more-january",
+   "summary": "Democrats rallied behind Rep. Thomas Massie&apos;s eight-count impeachment resolution against Pete Hegseth, citing the Iran war and Nicol\u00e1s Maduro&apos;s capture.",
+   "published": "2026-11-10T18:35:26+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-11-10T20:51:38.816872+00:00"
+  },
   {
    "id": "2ef4cf3bad53a58f",
    "title": "Trump's proposed revamp would stretch DC golf course more than 8,000 yards",
@@ -12,6 +188,17 @@
    "source_id": "thehill",
    "bias_note": "center",
    "first_seen": "2026-11-10T18:30:12.939366+00:00"
+  },
+  {
+   "id": "29f880a5264f98cd",
+   "title": "First Lady Melania Trump\u2019s Fostering the Future Together Grows Its International Momentum Across the United States, Asia, Europe, and the Caribbean",
+   "url": "https://www.whitehouse.gov/briefings-statements/2026/11/first-lady-melania-trumps-fostering-the-future-together-grows-its-international-momentum-across-the-united-states-asia-europe-and-the-caribbean/",
+   "summary": "First Lady Melania Trump\u2019s Fostering the Future Together is accelerating its global mission with four major international gatherings before the end of 2026. The member nation leaders are mobilizing to empower children through technology and education. Mrs. Trump\u2019s international initiative, Fostering the Future Together, will convene world leaders at four significant gatherings: \u201cI applaud First [&#8230;]\nThe post First Lady Melania Trump\u2019s Fostering the Future Together Grows Its International Momentum Across the United States, Asia, Europe, and the Caribbean appeared first on The White House.",
+   "published": "2026-11-10T18:22:09+00:00",
+   "source": "WhiteHouse.gov News",
+   "source_id": "whitehouse",
+   "bias_note": "official/primary-source",
+   "first_seen": "2026-11-10T20:51:38.961264+00:00"
   },
   {
    "id": "ccd86498cbda6817",
@@ -157,6 +344,17 @@
    "first_seen": "2026-11-10T18:30:12.667639+00:00"
   },
   {
+   "id": "e9600f7dd6982517",
+   "title": "\u2018The path is very difficult\u2019: Mark Danner on why Democrats shouldn\u2019t aim to only rebuild post-midterms",
+   "url": "https://www.theguardian.com/books/2026/nov/10/mark-danner-crossing-the-rubicon",
+   "summary": "The veteran journalist\u2019s Crossing the Rubicon comes after a historic election where Democrats took over state legislatures across the USMark Danner\u2019s new book, Crossing the Rubicon, collects his writing on politics for the New York Review of Books over the quarter-century since Bush v Gore in 2000. It arrives in the aftermath of another momentous election, the midterms tsunami that swamped Donald Trump and his Republican party and will give Democrats control of Congress next year.From January, battle will commence between Congress and a lame duck president. Democrats have two years to hold the",
+   "published": "2026-11-10T14:00:53+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-11-10T20:51:39.115950+00:00"
+  },
+  {
    "id": "507a1d9a13fec371",
    "title": "Hegseth rips impeachment push from outgoing Republican as 'farce,' 'stunt'",
    "url": "https://www.foxnews.com/politics/war-secretary-pete-hegseth-addresses-house-impeachment-effort",
@@ -166,6 +364,17 @@
    "source_id": "foxnews-politics",
    "bias_note": "right-leaning",
    "first_seen": "2026-11-10T18:30:12.222217+00:00"
+  },
+  {
+   "id": "ce8b471c16bf3fcc",
+   "title": "A Trump proposal would punish single parents. Other wealthy countries have a different approach",
+   "url": "https://www.theguardian.com/us-news/2026/nov/10/trump-vance-parents-payment-analysis",
+   "summary": "Canada, the Netherlands and Sweden offer extra support to solo-parent households. In its latest pronatalist push, the Trump administration aims to shift funds away from themWhen news broke that the Trump administration planned to pay married couples to have one parent stay home with their kids, everyone from policy wonks to Redditors bemoaned what they saw as a new front in the mommy wars.The proposal would shift funds that subsidize childcare for low-income working parents \u2013 the majority of them single parents who rely on childcare providers \u2013 to low-income married couples with one earner. Gi",
+   "published": "2026-11-10T13:00:53+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-11-10T20:51:39.115957+00:00"
   },
   {
    "id": "658b3eb2816a5215",
@@ -375,6 +584,17 @@
    "source_id": "thehill",
    "bias_note": "center",
    "first_seen": "2026-11-10T12:43:10.302750+00:00"
+  },
+  {
+   "id": "7e020afc69a670fe",
+   "title": "House GOP elects Jim Jordan as new leader as the party looks to rebuild from midterms",
+   "url": "https://www.npr.org/2026/11/10/nx-s1-6030988/gop-leadership-election-steve-scalise-jim-jordan",
+   "summary": "Jordan, a close Trump ally and co-founder of the ultra-conservative House Freedom Caucus, will succeed Mike Johnson, who says he's stepping down as the chamber's top Republican.",
+   "published": "2026-11-10T10:01:00+00:00",
+   "source": "NPR Politics",
+   "source_id": "npr-politics",
+   "bias_note": "center",
+   "first_seen": "2026-11-10T20:51:39.101611+00:00"
   },
   {
    "id": "b17cdb2a48d81a5b",
@@ -10836,127 +11056,6 @@
    "source_id": "thehill",
    "bias_note": "center",
    "first_seen": "2026-10-28T01:26:10.545597+00:00"
-  },
-  {
-   "id": "f0b7465ae6e78d6a",
-   "title": "Judge who apologized to accused would-be Trump assassin lights up DOJ in Hunter Biden FBI case",
-   "url": "https://www.foxnews.com/politics/judge-who-apologized-accused-would-be-trump-assassin-lights-up-doj-hunter-biden-fbi-case",
-   "summary": "Magistrate Judge Zia M. Faruqui tossed DOJ obstruction charges against two ex-FBI officials after prosecutors filed unsigned complaints at midnight.",
-   "published": "2026-10-27T20:43:53+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-10-28T01:26:09.167411+00:00"
-  },
-  {
-   "id": "dd03201954435985",
-   "title": "Trump continues calls for Venezuela to be 51st state",
-   "url": "https://thehill.com/homenews/administration/6176049-trump-venezuela-state-oil/",
-   "summary": "President Trump renewed calls for Venezuela to be the 51st U.S. state after touting the barrels of oil coming from the South American country. \"It will become a prosperous country, and who knows? Maybe someday soon, it will become a prosperous 51st state,\" Trump said of Venezuela. \"That's possible. Let's make it the 51st state.\"...",
-   "published": "2026-10-27T20:28:41+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-27T20:44:30.715727+00:00"
-  },
-  {
-   "id": "b04bac594709d770",
-   "title": "Vance responds to question about 'insulting' Alaska election lawsuit",
-   "url": "https://thehill.com/homenews/state-watch/6175918-vance-alaska-senate-lawsuit/",
-   "summary": "Vice President Vance on Tuesday slammed an independent candidate with a similar name to Sen. Dan Sullivan (R-Alaska) as committing \u201celectoral fraud\u201d when answering a question about his administration\u2019s lawsuit over the Senate race in the state. \u201cWhy shouldn't Alaskans find it insulting that the administration appears to be suggesting they can't read the word...",
-   "published": "2026-10-27T20:15:47+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-27T20:44:30.715753+00:00"
-  },
-  {
-   "id": "35cfac32e6914717",
-   "title": "Israel wraps up voting in do-or-die election for Netanyahu: What to watch",
-   "url": "https://thehill.com/policy/international/6175889-israel-elections-netanyahu-what-to-know/",
-   "summary": "Israeli voters headed to the polls Tuesday for a closely watched election that is widely regarded as a referendum on Prime Minister Benjamin Netanyahu and his administration.\u00a0 The election, which could endanger Netanyahu\u2019s nearly 19 years leading the country, has seen record turnout. Voting closed at 10 p.m. local time, or 4 p.m. EDT.\u00a0 Here\u2019s...",
-   "published": "2026-10-27T20:05:36+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-27T20:44:30.715759+00:00"
-  },
-  {
-   "id": "03edf7c9b44d19e3",
-   "title": "Zacharia says press corps has \u2018Trump Derangement Syndrome'",
-   "url": "https://thehill.com/homenews/administration/6175932-zacharia-blames-press-trump-derangement/",
-   "summary": "Former White House press secretary Katie Zacharia, who was fired from her role after five days following a rocky debut and scrutiny of her legal background, accused reporters of fueling \u201cTrump Derangement Syndrome\u201d in their coverage of President Trump. While Zacharia has remained relatively quiet since her ouster less than two weeks ago, in an...",
-   "published": "2026-10-27T20:00:02+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-27T20:44:30.715764+00:00"
-  },
-  {
-   "id": "1e9ddf17fcd66422",
-   "title": "McCain predicts Elizabeth Holmes will get a Trump pardon",
-   "url": "https://thehill.com/policy/technology/6175899-meghan-mccain-predicts-elizabeth-holmes-pardon/",
-   "summary": "Meghan McCain, former Sen. John McCain\u2019s (R-Ariz.) daughter, predicts that convicted Theranos founder Elizabeth Holmes will get a pardon from President Trump. \u201cOne of my hottest, hot takes is that Elizabeth Holmes will eventually get a Trump pardon,\u201d McCain wrote on the social platform X. She shared her thoughts in another post, asking comedian and...",
-   "published": "2026-10-27T19:59:55+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-27T20:44:30.715768+00:00"
-  },
-  {
-   "id": "7369e7580bb31884",
-   "title": "175 Democrats demand Trump admin stop Ilhan Omar investigation, warn it could hurt her re-election bid",
-   "url": "https://www.foxnews.com/politics/175-democrats-demand-trump-admin-stop-ilhan-omar-investigation-warn-could-hurt-her-re-election-bid",
-   "summary": "Rep. Pramila Jayapal led 175 House Democrats in accusing DHS and DOJ of weaponizing the federal investigation into Ilhan Omar&apos;s immigration history.",
-   "published": "2026-10-27T19:06:43+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-10-27T20:44:29.899137+00:00"
-  },
-  {
-   "id": "22e6bd6171b890c6",
-   "title": "2026 midterm elections: When polls close; when results are expected",
-   "url": "https://thehill.com/homenews/campaign/6175621-midterm-elections-polls-close-results/",
-   "summary": "There are just seven days until the final votes will be cast in the 2026 midterms. Tens of millions of voters across the country have already cast ballots for Senate, House, governor, state legislature and other critical races that will determine the future of President Trump\u2019s agenda. In the Senate, Democrats must flip four Republican-held...",
-   "published": "2026-10-27T18:44:22+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-27T20:44:30.715830+00:00"
-  },
-  {
-   "id": "3a2a3295a51078dc",
-   "title": "WATCH: Trump says Venezuela sent him 1 million barrels of oil as a 'gift'",
-   "url": "https://www.pbs.org/newshour/politics/watch-trump-says-venezuela-sent-him-1-million-barrels-of-oil-as-a-gift",
-   "summary": "President Donald Trump and Secretary of State Marco Rubio on Tuesday plan to show off a newly arrived oil tanker filled with Venezuelan crude to be processed in Texas refineries.",
-   "published": "2026-10-27T18:41:23+00:00",
-   "source": "PBS NewsHour Politics",
-   "source_id": "pbs-politics",
-   "bias_note": "center",
-   "first_seen": "2026-10-27T20:44:30.971223+00:00"
-  },
-  {
-   "id": "f372eff54a5c2b43",
-   "title": "Trump says he will ban the term artificial intelligence",
-   "url": "https://thehill.com/homenews/administration/6175633-trump-bans-artificial-intelligence-term/",
-   "summary": "President Trump said Tuesday that he was banning the term artificial intelligence \u201cin all relevant documents and everything else.\u201d \u201cIn short order, we will be officially BANNING the term, \u2018AI/Artificial Intelligence,\u2019 in all relevant documents, and everything else, due to its inaccuracy,\u201d he wrote on Truth Social. Trump hit on The Wall Street Journal for...",
-   "published": "2026-10-27T18:33:08+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-27T20:44:30.715833+00:00"
-  },
-  {
-   "id": "15b9414c39a4e902",
-   "title": "CDC deputy director to leave administration after 4 months",
-   "url": "https://thehill.com/policy/healthcare/6175616-shuford-to-exit-cdc-november/",
-   "summary": "Dr. Jennifer Shuford, the Centers for Disease Control and Prevention\u2019s (CDC) deputy director and chief medical officer, is leaving the agency after just four months on the job.  Shuford, an infectious disease physician, was a former Texas health commissioner. She was appointed in April as part of a leadership team to support director Erica Schwartz,...",
-   "published": "2026-10-27T18:32:19+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-27T20:44:30.715838+00:00"
   }
  ]
 }
