@@ -1,7 +1,62 @@
 {
- "updated": "2026-11-11T17:55:12.610767+00:00",
- "count": 1011,
+ "updated": "2026-11-11T18:27:07.266991+00:00",
+ "count": 1016,
  "articles": [
+  {
+   "id": "b83fc953d6a48a54",
+   "title": "Alina Habba Mildon loses $50M contract after Trump criticism",
+   "url": "https://thehill.com/homenews/administration/6213856-alina-habba-mildon-fired/",
+   "summary": "Alina Habba Mildon, a former attorney for President Trump, has reportedly been fired from a multi-million-dollar contract with a family company tied to a billionaire banker who recently received a presidential pardon. Concord Partners, a Florida-based company established by the daughter of Venezuelan billionaire Julio Herrera Velutini, terminated Mildon\u2019s $50 million contract in a Nov....",
+   "published": "2026-11-11T18:22:50+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-11-11T18:27:04.299266+00:00"
+  },
+  {
+   "id": "bff0a10085ed36a8",
+   "title": "White House confronts Democrats over planned probes, claiming possible 'criminality'",
+   "url": "https://abcnews.com/Politics/wireStory/white-house-confronts-democrats-planned-probes-claiming-criminality-138050098",
+   "summary": "The White House has issued a warning to Democrats over their planned probes into the Trump administration",
+   "published": "2026-11-11T18:20:08+00:00",
+   "source": "ABC News Politics",
+   "source_id": "abc-politics",
+   "bias_note": "center",
+   "first_seen": "2026-11-11T18:27:07.020099+00:00"
+  },
+  {
+   "id": "87bdf2e2494aacd7",
+   "title": "Judge allows Trump defamation case against BBC to proceed but tosses 1 claim",
+   "url": "https://abcnews.com/Politics/wireStory/judge-allows-trump-defamation-case-bbc-proceed-tosses-138050783",
+   "summary": "President Donald Trump&rsquo;s $10 billion defamation case against the BBC remains on track for now",
+   "published": "2026-11-11T18:19:30+00:00",
+   "source": "ABC News Politics",
+   "source_id": "abc-politics",
+   "bias_note": "center",
+   "first_seen": "2026-11-11T18:27:07.020060+00:00"
+  },
+  {
+   "id": "627721e204dc748d",
+   "title": "Trump wants a non-nuclear Iran. What's the plan?",
+   "url": "https://thehill.com/opinion/international/6212486-trump-iran-policy-pressure/",
+   "summary": "As President Trump maintains there is no rush to act against Iran, the administration faces internal debate over whether continued pressure will lead to a durable non-nuclear settlement.",
+   "published": "2026-11-11T18:00:00+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-11-11T18:27:04.299295+00:00"
+  },
+  {
+   "id": "fc56e9d20c0c5c39",
+   "title": "Biden says he didn't hide cancer diagnosis while president",
+   "url": "https://thehill.com/homenews/administration/6213629-biden-prostate-cancer-diagnosis-denies-hiding/",
+   "summary": "Former President Biden said in an interview published Wednesday he did not hide his aggressive stage 4 prostate cancer diagnosis while he was in the White House, adding he would not have sought a second term had he been diagnosed early. People magazine released an interview with the 46th president ahead of the release of...",
+   "published": "2026-11-11T17:53:59+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-11-11T18:27:04.299319+00:00"
+  },
   {
    "id": "5652f862d1d92204",
    "title": "Why does Pete Hegseth call himself secretary of war? \u2018Dopey but dangerous\u2019 wouldn\u2019t fit on a badge | Emma Brockes",
