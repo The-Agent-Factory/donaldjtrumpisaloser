@@ -1,7 +1,62 @@
 {
- "updated": "2026-11-12T00:47:35.976047+00:00",
- "count": 1017,
+ "updated": "2026-11-12T09:54:17.938786+00:00",
+ "count": 1008,
  "articles": [
+  {
+   "id": "d6dea08df0d4b549",
+   "title": "Trump faces a brutal impeachment era and needs a lawyer as press secretary",
+   "url": "https://www.foxnews.com/opinion/trump-faces-brutal-impeachment-era-needs-lawyer-press-secretary",
+   "summary": "What President Trump and his advisers learned from the first impeachment circus of the next two years is valuable. There are major lessons that can be applied to the next two years.",
+   "published": "2026-11-12T09:50:02+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-11-12T09:54:16.975264+00:00"
+  },
+  {
+   "id": "073fae5041618312",
+   "title": "Incoming House Oversight Committee chair Robert Garcia reacts to White House warning",
+   "url": "https://www.npr.org/2026/11/12/nx-s1-6037540/incoming-house-oversight-committee-chair-robert-garcia-reacts-to-white-house-warning",
+   "summary": "NPR's A Martinez asks Democratic Rep. Robert Garcia of California about 2027 House Oversight plans to investigate the Trump administration and the response from White House to his plans.",
+   "published": "2026-11-12T09:20:51+00:00",
+   "source": "NPR Politics",
+   "source_id": "npr-politics",
+   "bias_note": "center",
+   "first_seen": "2026-11-12T09:54:17.214621+00:00"
+  },
+  {
+   "id": "f3d1672005d8a7bc",
+   "title": "White House warns Democrats over future probes, citing possible 'criminality'",
+   "url": "https://www.npr.org/2026/11/12/nx-s1-6037548/white-house-warns-democrats-over-future-probes-citing-possible-criminality",
+   "summary": "The White House has taken an aggressive posture at the prospect of new Democratic oversight, when the new Congress comes in, next year.",
+   "published": "2026-11-12T09:18:04+00:00",
+   "source": "NPR Politics",
+   "source_id": "npr-politics",
+   "bias_note": "center",
+   "first_seen": "2026-11-12T09:54:17.214628+00:00"
+  },
+  {
+   "id": "187fb712b7b994d9",
+   "title": "El-Sayed tells Hegseth to resign after impeachment effort fails: 'Make it easy for everybody'",
+   "url": "https://www.foxnews.com/media/el-sayed-tells-hegseth-resign-after-democrats-derail-impeachment-effort-make-easy-everybody",
+   "summary": "Abdul El-Sayed told Secretary of War Pete Hegseth directly to resign on CNN, calling him &quot;really bad&quot; at his job and saying he has mishandled the war in Iran.",
+   "published": "2026-11-12T01:17:26+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-11-12T09:54:16.975354+00:00"
+  },
+  {
+   "id": "2e3ad9977a489e96",
+   "title": "Jeffries leaves door open to investigating major Trump ally as Democrats prepare to take power",
+   "url": "https://www.foxnews.com/politics/jeffries-leaves-door-open-investigating-major-trump-ally-democrats-prepare-take-power",
+   "summary": "Hakeem Jeffries says Democrats will &quot;follow the facts&quot; as Jamie Raskin and Robert Garcia prepare to lead oversight of Elon Musk and DOGE.",
+   "published": "2026-11-12T01:00:00+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-11-12T09:54:16.955714+00:00"
+  },
   {
    "id": "c33204f126e8b695",
    "title": "Former Navy JAG who flipped Kentucky House seat: 'Premature' to discuss Hegseth impeachment",
@@ -23,6 +78,17 @@
    "source_id": "foxnews-politics",
    "bias_note": "right-leaning",
    "first_seen": "2026-11-12T00:47:33.813823+00:00"
+  },
+  {
+   "id": "8fc1727be4a8dcd8",
+   "title": "At least 9 new Dem members will carry Al Green's mantle and try to impeach President Trump",
+   "url": "https://www.foxnews.com/politics/new-dem-members-carry-al-greens-mantle-try-impeach-president-trump",
+   "summary": "Rep. Al Green says at least nine incoming House Democratic caucus members will join his impeachment push, citing President Trump&apos;s crypto dealings and what they described as corruption.",
+   "published": "2026-11-11T23:56:14+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-11-12T09:54:16.955728+00:00"
   },
   {
    "id": "4565df3c4c84507f",
@@ -11023,171 +11089,6 @@
    "source_id": "propublica",
    "bias_note": "investigative",
    "first_seen": "2026-10-29T13:11:04.159806+00:00"
-  },
-  {
-   "id": "3c86e11764478c77",
-   "title": "Top U.S. Health Official Backed a Medication Policy Shift That Benefited a Company She Has Stock In",
-   "url": "https://www.propublica.org/article/hhs-alicia-jackson-menopause-treatment-policy",
-   "summary": "The post Top U.S. Health Official Backed a Medication Policy Shift That Benefited a Company She Has Stock In appeared first on ProPublica.",
-   "published": "2026-10-29T09:30:00+00:00",
-   "source": "ProPublica",
-   "source_id": "propublica",
-   "bias_note": "investigative",
-   "first_seen": "2026-10-29T13:11:04.159812+00:00"
-  },
-  {
-   "id": "7fc47c6935f95ab3",
-   "title": "El-Sayed\u2019s allies fear Trump\u2019s anti-Muslim attacks are reaching undecided voters",
-   "url": "https://www.politico.com/news/2026/10/29/trump-muslim-attacks-michigan-el-sayed-01140171",
-   "summary": "After Trump called him a \u201cjihadist,\u201d Abdul El-Sayed brushed off the \u201cdesperate, bad faith attacks\u201d",
-   "published": "2026-10-29T09:00:00+00:00",
-   "source": "Politico",
-   "source_id": "politico",
-   "bias_note": "center",
-   "first_seen": "2026-10-29T13:11:02.327938+00:00"
-  },
-  {
-   "id": "dcffbb51be3d7cc2",
-   "title": "\u201cPeak Greenwashing\u201d: Two Bills in Congress Endorse Misleading Recycling Claims",
-   "url": "https://www.propublica.org/article/plastics-industry-recycling-legislation-congress",
-   "summary": "The post \u201cPeak Greenwashing\u201d: Two Bills in Congress Endorse Misleading Recycling Claims appeared first on ProPublica.",
-   "published": "2026-10-29T09:00:00+00:00",
-   "source": "ProPublica",
-   "source_id": "propublica",
-   "bias_note": "investigative",
-   "first_seen": "2026-10-29T13:11:04.159814+00:00"
-  },
-  {
-   "id": "ee7d568407748a4a",
-   "title": "Support for Trump among white evangelicals has plummeted, polls reveal",
-   "url": "https://www.npr.org/2026/10/29/nx-s1-6012410/support-for-trump-among-white-evangelicals-has-plummeted-polls-reveal",
-   "summary": "Three new polls suggest that President Trump is losing ground among white evangelicals.\u00a0What explains this drop \u2014 and will it affect the midterm elections?",
-   "published": "2026-10-29T08:44:52+00:00",
-   "source": "NPR Politics",
-   "source_id": "npr-politics",
-   "bias_note": "center",
-   "first_seen": "2026-10-29T13:11:01.982111+00:00"
-  },
-  {
-   "id": "e8157739a8493ae7",
-   "title": "Justice Department announces Trump plans for golf course are in the works, course will close Nov. 15",
-   "url": "https://abcnews.com/Politics/wireStory/justice-department-announces-trump-plans-golf-works-close-137661198",
-   "summary": "The Justice Department has filed notice that President Donald Trump&rsquo;s announcements that there are plans for renovating the East Potomac Golf Course and there are plans to close the park beginning Nov. 15 are accurate",
-   "published": "2026-10-29T04:19:30+00:00",
-   "source": "ABC News Politics",
-   "source_id": "abc-politics",
-   "bias_note": "center",
-   "first_seen": "2026-10-29T05:54:28.469742+00:00"
-  },
-  {
-   "id": "535624d05fd6c55d",
-   "title": "How Trump's immigration crackdown sparked a backlash that could boomerang in the midterms",
-   "url": "https://abcnews.com/Politics/wireStory/trumps-immigration-crackdown-sparked-backlash-boomerang-midterms-137663210",
-   "summary": "Donald Trump roared back into office two years ago partly on the power of immigration",
-   "published": "2026-10-29T04:16:37+00:00",
-   "source": "ABC News Politics",
-   "source_id": "abc-politics",
-   "bias_note": "center",
-   "first_seen": "2026-10-29T05:54:28.469736+00:00"
-  },
-  {
-   "id": "9c82d69256e7b47b",
-   "title": "Hochul says Trump rallies are 'poisoning' Nicki Minaj's mind",
-   "url": "https://thehill.com/homenews/state-watch/6180077-minaj-trump-rallies-poisoning-mind/",
-   "summary": "New York Gov. Kathy Hochul (D-N.Y.) criticized rapper Nicki Minaj on Wednesday, saying President Trump's rallies were \u201cpoisoning\u201d the artist\u2019s mind.\u00a0 \u201cMaybe she oughta get outside and get offline a little more,\u201d Hochul told reporters. \u201cAnd stop going to Trump rallies, it\u2019s kinda poisoning your mind.\u201d The Empire State governor was responding to a post...",
-   "published": "2026-10-29T02:36:24+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-29T05:54:27.852002+00:00"
-  },
-  {
-   "id": "eeccf133687ee59d",
-   "title": "\u2018They mobilized a whole government response to that joke\u2019: Obama laughs off Trump attacks in rally for Ossoff",
-   "url": "https://www.theguardian.com/us-news/2026/oct/28/obama-atlanta-democrats-jon-ossoff",
-   "summary": "Former US president comes to Georgia to support Jon Ossoff for US Senate and Keisha Lance Bottoms for governorBarack Obama, speaking at a Wednesday campaign rally in suburban Atlanta, offered a closing argument for Democrats in the final week of the midterm election campaign.\u201cThese are not serious people,\u201d he said of Donald Trump and the Republican party. \u201cAnd we\u2019re all paying the price for their lack of seriousness.\u201d Continue reading...",
-   "published": "2026-10-29T02:12:23+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-10-29T05:54:27.571221+00:00"
-  },
-  {
-   "id": "ff3cd56cea4279b3",
-   "title": "Judge rebuffs Trump DoJ\u2019s bid to force California to set aside 20,000 ballots",
-   "url": "https://www.theguardian.com/us-news/2026/oct/28/federal-judge-trump-california-ballots",
-   "summary": "Justice department had demanded state segregate and not count ballots from people it claimed were non-citizensA federal judge declined to order California election officials to segregate and not count ballots from people the Trump administration claimed were non-citizens, rebuffing a legally thin request from the justice department that appeared designed to cast doubt over the results of the midterms.The ruling from US district judge David Carter, nominated to the federal bench by Bill Clinton, comes about two weeks after the justice department delivered a USB drive to election officials in Lo",
-   "published": "2026-10-29T01:54:47+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-10-29T05:54:27.571229+00:00"
-  },
-  {
-   "id": "9782879a95976c04",
-   "title": "El-Sayed responds to Stevens's fianc\u00e9e endorsing Rogers",
-   "url": "https://thehill.com/homenews/campaign/6180036-el-sayed-responds-stevens-fiance/",
-   "summary": "Michigan Senate candidate Abdul El-Sayed responded to his former primary opponent Rep. Haley Stevens\u2019s (D-Mich.) fianc\u00e9e endorsing his GOP opponent former Rep. Mike Rogers (R-Mich.). \u201cWell, I'm building a movement to take on the challenges that Donald Trump is facing. If folks have issues that are more important to them than that, that's fine,\u201d El-Sayed...",
-   "published": "2026-10-29T01:53:43+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-29T05:54:27.852020+00:00"
-  },
-  {
-   "id": "261df46e85df57a0",
-   "title": "Obama knocks White House's response to Cheesecake Factory jab: 'These are not serious people'",
-   "url": "https://thehill.com/homenews/campaign/6180017-obama-trump-cheesecake-factory-joke/",
-   "summary": "Former President Obama on Wednesday responded to uproar over a recent campaign trail jab at President Trump\u2019s White House decorations, slamming Republicans for focusing more on the joke than on the economy.  \u201cThey mobilized a whole-of-government response to that joke, not to inflation, but to that joke,\u201d Obama said during a campaign rally in Georgia....",
-   "published": "2026-10-29T01:44:14+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-29T05:54:27.852024+00:00"
-  },
-  {
-   "id": "2415b20aec48c7d8",
-   "title": "Trump calls alleged Alaska Senate spoiler scheme 'voter fraud at the highest level'",
-   "url": "https://thehill.com/homenews/administration/6180002-trump-alaska-senate-voter-fraud/",
-   "summary": "President Trump criticized Senate Democrats and former Rep. Mary Peltola\u2019s (D-Alaska) campaign on Wednesday amid allegations that the two worked together to put a spoiler candidate on the ballot in an effort to boost their party in the Alaska Senate race.\u00a0 \u201cThis is voter fraud at the highest level,\u201d Trump said while rallying in Chillicothe,...",
-   "published": "2026-10-29T01:30:50+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-29T05:54:27.852028+00:00"
-  },
-  {
-   "id": "422a9b046a52aa8d",
-   "title": "Senate Democrats drop $500K in Mississippi",
-   "url": "https://thehill.com/homenews/campaign/6179967-dscc-drops-mississippi-senate-funds/",
-   "summary": "The Democratic Senatorial Campaign Committee (DSCC) dropped $500,000 in Mississippi\u2019s Senate race supporting Scott Colom (D), who is challenging Trump-backed Sen. Cindy Hyde-Smith (R-Miss.). The new ad focused on Colom\u2019s record as a district attorney in the Magnolia State as the Democrat stated he\u2019ll \u201ctake on anyone who stands in the way of what\u2019s best...",
-   "published": "2026-10-29T01:02:27+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-29T05:54:27.852031+00:00"
-  },
-  {
-   "id": "530bd5a3d7799b97",
-   "title": "DOJ's California ballot fight rejected by another judge",
-   "url": "https://thehill.com/regulation/court-battles/6179970-judge-rejects-trump-ballot-challenge/",
-   "summary": "The Trump administration's bid to separate 20,000 mail ballots in California that it says are likely noncitizens met another defeat on Wednesday as a trial judge refused to intervene.  U.S. District Judge David Carter ruled California can continue to accept the questioned ballots like any other. \u201cThis request violates longstanding constitutional principles mandating that states have control over...",
-   "published": "2026-10-29T00:59:22+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-29T05:54:27.852035+00:00"
-  },
-  {
-   "id": "77f745bdfb4d64c1",
-   "title": "Judge denies the Justice Department's bid to stop processing California ballots",
-   "url": "https://www.npr.org/2026/10/28/nx-s1-6021478/doj-california-ballots-denied",
-   "summary": "While the judge rejected the Department of Justice's unprecedented demand in California, the case isn't over yet. The federal government immediately filed notice that it will\u00a0appeal.",
-   "published": "2026-10-29T00:52:50+00:00",
-   "source": "NPR Politics",
-   "source_id": "npr-politics",
-   "bias_note": "center",
-   "first_seen": "2026-10-29T05:54:27.499148+00:00"
   }
  ]
 }
