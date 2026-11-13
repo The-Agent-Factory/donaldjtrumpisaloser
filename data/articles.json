@@ -1,7 +1,106 @@
 {
- "updated": "2026-11-13T01:09:10.436805+00:00",
- "count": 973,
+ "updated": "2026-11-13T09:38:32.828436+00:00",
+ "count": 972,
  "articles": [
+  {
+   "id": "486b6c99ded61ac3",
+   "title": "Pence leaves door open to 2028 White House run, issues stark warning to GOP after midterm disaster",
+   "url": "https://www.foxnews.com/politics/pence-leaves-door-open-2028-white-house-run-issues-stark-warning-gop-after-midterm-disaster",
+   "summary": "Mike Pence says he&apos;s heard from people across the country about a 2028 presidential bid and warns the GOP must return to conservative principles.",
+   "published": "2026-11-13T09:00:24+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-11-13T09:38:31.596636+00:00"
+  },
+  {
+   "id": "2ad817b86fdf88ba",
+   "title": "Newsom reveals when he'll decide on 2028 White House bid amid growing speculation",
+   "url": "https://www.foxnews.com/politics/newsom-reveals-when-decide-2028-white-house-bid-growing-speculation",
+   "summary": "Democratic California Gov. Gavin Newsom says he will decide on a 2028 presidential bid by early January, but Kamala Harris could complicate those plans.",
+   "published": "2026-11-13T07:08:17+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-11-13T09:38:31.596644+00:00"
+  },
+  {
+   "id": "622e42fba51c1bc0",
+   "title": "Why the Nvidia CEO\u2019s downfall is bad for Trump \u2013 podcast",
+   "url": "https://www.theguardian.com/politics/audio/2026/nov/13/why-the-nvidia-scandal-is-bad-for-trump-podcast",
+   "summary": "Donald Trump is still defending men who are facing a lot of heat. Whether it\u2019s Nvidia\u2019s CEO, Jensen Huang, who could be ousted after admitting an affair with an alleged Chinese spy, or his embattled secretary of defence, Pete Hegseth. He has also (jokingly) begged strongmen to take his job offers.Jonathan Freedland speaks to Susan Glasser of the New Yorker about why Trump\u2019s judgment of high-profile men is \u2026 questionableListen out for and watch the new series of Comfort Eating with Siobh\u00e1n McSweeney.Watch Jonathan Freedland on our new Politics Weekly YouTube channel.Send your questions and feed",
+   "published": "2026-11-13T07:05:01+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-11-13T09:38:31.969760+00:00"
+  },
+  {
+   "id": "de06bec5ec8071c8",
+   "title": "Nvidia scandal sparks US national security furore and calls to take tough line on China",
+   "url": "https://www.theguardian.com/technology/2026/nov/13/nvidia-scandal-sparks-us-national-security-concerns-china",
+   "summary": "Former CEO Jensen Huang and US commerce secretary to appear before Congress amid bipartisan concern that America\u2019s security was put at risk Nvidia scandal \u2013 latest updatesAnalysis: Jensen Huang built an AI kingdom. Now he\u2019s gone, will Nvidia\u2019s ramparts be breached?Nvidia\u2019s ousted CEO Jensen Huang and Donald Trump\u2019s commerce secretary are expected to testify before Congress in the coming weeks, as the fallout from Huang\u2019s reported affair with an alleged Chinese spy reverberated across the US, sparking bipartisan concerns for national security and calls for a tougher stance against Beijing.Senat",
+   "published": "2026-11-13T06:34:59+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-11-13T09:38:31.969768+00:00"
+  },
+  {
+   "id": "c6221d2b8f523c1e",
+   "title": "Mark Kelly on Trump, the Iran War and his 2028 decision",
+   "url": "https://www.politico.com/video/2026/11/13/mark-kelly-on-trump-the-iran-war-and-his-2028-decision-2229213",
+   "summary": "",
+   "published": "2026-11-13T05:00:00+00:00",
+   "source": "Politico",
+   "source_id": "politico",
+   "bias_note": "center",
+   "first_seen": "2026-11-13T09:38:32.048399+00:00"
+  },
+  {
+   "id": "8cc8535f9204cad9",
+   "title": "Trump told Huang to fight for his job after affair scandals: Report",
+   "url": "https://thehill.com/homenews/administration/6217994-trump-nvidia-ceo-huang-resignation/",
+   "summary": "President Trump called outgoing Nvidia CEO Jensen Huang and told him to fight for his job ahead of his resignation, The New York Times reported on Thursday, citing two people briefed on the conversation. Huang resigned as CEO of one of the world\u2019s most valuable companies after reports emerged of multiple extramarital affairs, including one...",
+   "published": "2026-11-13T04:05:58+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-11-13T09:38:32.136313+00:00"
+  },
+  {
+   "id": "a67eee3af9cda367",
+   "title": "Stephen A Smith debriefs interview with President Trump, warns Democrats face steep challenge",
+   "url": "https://www.foxnews.com/media/stephen-a-smith-debriefs-interview-president-trump-warns-democrats-face-steep-challenge",
+   "summary": "Stephen A. Smith says President Trump was &quot;immovable&quot; in refusing to accept blame for GOP midterm losses during their wide-ranging White House interview.",
+   "published": "2026-11-13T03:50:03+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-11-13T09:38:31.662736+00:00"
+  },
+  {
+   "id": "e2fa94c7ab3f28f1",
+   "title": "Chris Van Hollen to challenge Chuck Schumer for Senate majority leader",
+   "url": "https://www.theguardian.com/us-news/2026/nov/12/chris-van-hollen-chuck-schumer-senate-majority-leader",
+   "summary": "Maryland Democrat challenges party leader after midterms sweep, saying: \u2018The American people called for change\u2019Chris Van Hollen, the Democratic senator of Maryland, announced on Thursday that he is challenging Chuck Schumer for the role of Senate majority leader when Democrats regain the chamber\u2019s majority in January.\u201cIn this election, the American people called for change. They called for a change from Donald Trump\u2019s disastrous policies \u2013 but even bigger than that, a change from the status quo that isn\u2019t working for working people,\u201d Van Hollen said in a statement posted on social media. Conti",
+   "published": "2026-11-13T02:30:07+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-11-13T09:38:31.969772+00:00"
+  },
+  {
+   "id": "71a2c0b99f766a8e",
+   "title": "Donald Trump calls Barack Obama 'highly overrated' and claims he'd win a third-term matchup",
+   "url": "https://www.foxnews.com/media/donald-trump-calls-barack-obama-highly-overrated-claims-hed-win-third-term-matchup",
+   "summary": "President Donald Trump told Stephen A. Smith he&apos;d &quot;easily&quot; beat former President Barack Obama in a hypothetical third-term election, calling him &quot;overrated.&quot;",
+   "published": "2026-11-13T02:24:50+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-11-13T09:38:31.662777+00:00"
+  },
   {
    "id": "0cc0d27c4c5dcc9d",
    "title": "Trump on Colom's Mississippi Senate win: 'I give him a lot of credit'",
@@ -386,6 +485,17 @@
    "source_id": "politico",
    "bias_note": "center",
    "first_seen": "2026-11-12T18:22:03.905352+00:00"
+  },
+  {
+   "id": "a32b6f0c29455309",
+   "title": "\u2018To them, we\u2019re just NPCs\u2019: the artists and activists challenging Trump\u2019s video game propaganda",
+   "url": "https://www.theguardian.com/games/2026/nov/12/trump-video-game-propaganda",
+   "summary": "Order a Diet Coke or invade Iran \u2013 that\u2019s the choice facing the US president in one of several satirical games, as designers turn the gamification of politics back on the White HouseIn early September, the Trump White House announced a surprising new addition to its official website. Named simply Arcade, it is a collection of browser games based on classic titles such as Flappy Bird, Snake, and Tetris, but re-tuned as flagrant works of political propaganda. Designed to court reactionary gamers, they push the administration\u2019s policies on immigration and other hot-button issues, while dehumanisi",
+   "published": "2026-11-12T14:00:43+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-11-13T09:38:31.969842+00:00"
   },
   {
    "id": "2755f07159e37f6f",
@@ -10583,127 +10693,6 @@
    "source_id": "propublica",
    "bias_note": "investigative",
    "first_seen": "2026-10-30T13:03:22.098291+00:00"
-  },
-  {
-   "id": "63e6c16043557fce",
-   "title": "I\u2019m a gen Z voter. Content creators have far less power than politicians think | Alex Bronzini-Vender",
-   "url": "https://www.theguardian.com/commentisfree/2026/oct/30/gen-z-politics-content-creators",
-   "summary": "Both US parties scramble to win young voters via influencer operations. The evidence doesn\u2019t support their effortsIn tight races, any group that shifts a few points can be called decisive. In 2024, however, gen Z voters actually earned the spotlight.Take Michigan, where Donald Trump won by about 1.4 points: he and Kamala Harris evenly split the youth vote, a 24-point collapse in the Democratic edge since 2020. If young voters made up just 15% of the state\u2019s electorate, their swing toward the president would be worth roughly 3.6 points, larger than Trump\u2019s entire margin of victory.Alex Bronzini",
-   "published": "2026-10-30T09:00:50+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-10-30T13:03:21.488084+00:00"
-  },
-  {
-   "id": "176d7be9bcb30295",
-   "title": "Trump-backed Alaska candidate blasts 'so-called Republican' Murkowski for endorsing Dem",
-   "url": "https://www.foxnews.com/politics/trump-backed-alaska-candidate-blasts-so-called-republican-murkowski-endorsing-dem",
-   "summary": "Trump-backed Alaska gubernatorial candidate Bernadette Wilson slammed Sen. Lisa Murkowski for endorsing her Democratic opponent, accusing the two of sharing liberal economic policies.",
-   "published": "2026-10-30T09:00:32+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-10-30T13:03:21.145904+00:00"
-  },
-  {
-   "id": "123f24f30fe8d84d",
-   "title": "JOHN KOUFOS: Trump\u2019s \u2018Shield of the Americas\u2019 could help defend us from cartels",
-   "url": "https://www.foxnews.com/opinion/john-koufos-trumps-shield-americas-could-help-defend-us-from-cartels",
-   "summary": "Brazil&apos;s refusal to join the Trump&apos;s &quot;Shield of the Americas&quot; leaves an important gap in the hemispheric fight against the powerful and deadly drug cartels",
-   "published": "2026-10-30T09:00:05+00:00",
-   "source": "Fox News Latest",
-   "source_id": "foxnews-latest",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-10-30T13:03:21.189094+00:00"
-  },
-  {
-   "id": "e1f48c76e1cc7d2c",
-   "title": "Federal and State Officials Ramp Up Scrutiny of DraftKings, Other Sports Betting Apps",
-   "url": "https://www.propublica.org/article/sports-betting-impact-louisiana-ohio-congress",
-   "summary": "The post Federal and State Officials Ramp Up Scrutiny of DraftKings, Other Sports Betting Apps appeared first on ProPublica.",
-   "published": "2026-10-30T09:00:00+00:00",
-   "source": "ProPublica",
-   "source_id": "propublica",
-   "bias_note": "investigative",
-   "first_seen": "2026-10-30T13:03:22.098296+00:00"
-  },
-  {
-   "id": "1b4e23184b841fb7",
-   "title": "Trump\u2019s foreign policy, from Ukraine to Iran, raised fears of world war three. Americans are about to have their say",
-   "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/30/ukraine-iran-trump-elections",
-   "summary": "Voters who backed the US president in the last election are saying they can\u2019t vote for him today: \u2018This is an abomination\u2019Outside the Ukrainian educational and cultural center in a quiet Pennsylvania suburb of Jenkintown, on the outskirts of Philadelphia, a banner expressed unqualified gratitude: \u201cThank you USA for supporting Ukraine.\u201dInside, however, the sentiment was altogether different. Irene Skulsky, a retired teacher in her late 70s, voiced indignation at Donald Trump\u2019s sudden turn against her ancestral homeland, which she believed had come close to killing her son, Darko, and a desire t",
-   "published": "2026-10-30T08:00:49+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-10-30T23:52:24.594101+00:00"
-  },
-  {
-   "id": "41545eedc759c5c6",
-   "title": "Vote Republican, or else: How Trump is dangling government help on the campaign trail",
-   "url": "https://abcnews.com/Politics/wireStory/vote-republican-trump-dangling-government-campaign-trail-137695753",
-   "summary": "President Donald Trump is signaling to states that his administration may be far less likely to help if their voters put Democrats in power on Election Day",
-   "published": "2026-10-30T06:43:00+00:00",
-   "source": "ABC News Politics",
-   "source_id": "abc-politics",
-   "bias_note": "center",
-   "first_seen": "2026-10-30T13:03:22.177421+00:00"
-  },
-  {
-   "id": "d9f07c61cda0ecec",
-   "title": "Peltola denies knowing about Alaska spoiler candidate as Justice Department escalates investigation",
-   "url": "https://abcnews.com/Politics/wireStory/peltola-denies-knowing-alaska-spoiler-candidate-justice-department-137669571",
-   "summary": "Democratic Senate candidate Mary Peltola denies that she knew anything about an effort to put another candidate on the Alaska ballot with the same name as the Republican incumbent",
-   "published": "2026-10-30T06:38:19+00:00",
-   "source": "ABC News Politics",
-   "source_id": "abc-politics",
-   "bias_note": "center",
-   "first_seen": "2026-10-30T13:03:22.177446+00:00"
-  },
-  {
-   "id": "1ce111047a481a8a",
-   "title": "A midterm crossroads for both parties eyeing the beginning of the end of the Trump era",
-   "url": "https://abcnews.com/Politics/wireStory/midterm-crossroads-parties-eyeing-beginning-end-trump-era-137695844",
-   "summary": "The nation&rsquo;s major political parties are at a crossroads",
-   "published": "2026-10-30T05:09:37+00:00",
-   "source": "ABC News Politics",
-   "source_id": "abc-politics",
-   "bias_note": "center",
-   "first_seen": "2026-10-30T05:56:02.798687+00:00"
-  },
-  {
-   "id": "848ee73e23558f52",
-   "title": "Donald Trump\u2019s Texas Troubles \u2013 podcast",
-   "url": "https://www.theguardian.com/news/audio/2026/oct/30/donald-trumps-texas-troubles-podcast",
-   "summary": "Washington bureau chief David Smith reports from Texas, where the Democrats are hopeful of a stunning victory that could also signal a much wider defeat for Trump in the midtermsFor decades it would have been unthinkable, but next week the Democrats are aiming for a momentous midterms win in Texas.Washington bureau chief David Smith charts the senate race between Democrat James Talarico \u2013 a 37-year-old Presbyterian \u2013 and Republican Ken Paxton, who has been heavily backed by Donald Trump. Continue reading...",
-   "published": "2026-10-30T03:00:42+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-10-30T05:56:01.648386+00:00"
-  },
-  {
-   "id": "2ae1fb518f4c8d83",
-   "title": "Justice Department issues subpoenas to California election workers",
-   "url": "https://www.npr.org/2026/10/29/nx-s1-6022560/doj-subpoenas-california-election",
-   "summary": "Grand jury subpoenas sent to election workers in Los Angeles come amid escalating tensions between the Trump administration and California election officials over the state's voter rolls.",
-   "published": "2026-10-30T01:35:54+00:00",
-   "source": "NPR Politics",
-   "source_id": "npr-politics",
-   "bias_note": "center",
-   "first_seen": "2026-10-30T05:56:01.400661+00:00"
-  },
-  {
-   "id": "9845fb218ec12641",
-   "title": "Vivek Ramaswamy discontinues attack ad that prompted wave of revulsion",
-   "url": "https://www.theguardian.com/us-news/2026/oct/29/vivek-ramaswamy-attack-ad-ohio-governor-race-republican",
-   "summary": "Candidate for Ohio governor confirms campaign no longer airing ad that smeared rival and was defended by TrumpVivek Ramaswamy, the Republican nominee for Ohio governor, confirmed on Thursday that his campaign is no longer airing an attack ad that features the estranged mother of his Democratic opponent, Amy Acton.The ad prompted a wave of revulsion since Acton\u2019s mother, Donna Arthur, lost custody of her daughter in 1978, when her second husband, Cledith Arthur, was charged with raping her daughter between the ages of 10 and 12. Continue reading...",
-   "published": "2026-10-30T01:10:33+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-10-30T05:56:01.648398+00:00"
   }
  ]
 }
