@@ -1,7 +1,18 @@
 {
- "updated": "2026-11-13T17:48:21.750288+00:00",
- "count": 964,
+ "updated": "2026-11-13T18:26:05.404390+00:00",
+ "count": 961,
  "articles": [
+  {
+   "id": "52c230fa0a20716c",
+   "title": "Chris Van Hollen floats using government shutdown threat to force Trump to end Iran war",
+   "url": "https://www.foxnews.com/media/chris-van-hollen-floats-using-government-shutdown-threat-force-trump-end-iran-war",
+   "summary": "Chris Van Hollen floated using a government shutdown to pressure President Trump into ending the war in Iran as he challenges Chuck Schumer for Senate Majority Leader.",
+   "published": "2026-11-13T18:16:27+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-11-13T18:26:03.603934+00:00"
+  },
   {
    "id": "fa576b987fcbb609",
    "title": "Who is Chris Van Hollen? The senator challenging Schumer as a progressive voice for Democrats",
@@ -10561,50 +10572,6 @@
    "source_id": "thehill",
    "bias_note": "center",
    "first_seen": "2026-10-30T19:26:58.354046+00:00"
-  },
-  {
-   "id": "239b97c2a321aefd",
-   "title": "Comey lawyers fight for dismissal of third criminal prosecution",
-   "url": "https://thehill.com/regulation/court-battles/6184780-comey-criminal-case-dismissal-hearing/",
-   "summary": "Lawyers for James Comey tried to persuade a federal judge Friday that the Trump administration's third attempt to prosecute\u00a0the former FBI director\u00a0for allegedly disclosing national defense information should be stopped\u00a0because the Department of Justice (DOJ) waited too long to bring the charges.\u00a0\u00a0 U.S. District Judge Trevor McFadden, an appointee of President Trump,\u00a0is weighing whether the...",
-   "published": "2026-10-30T18:00:55+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-30T19:26:58.354067+00:00"
-  },
-  {
-   "id": "88774fd04831849c",
-   "title": "Judge opens East Potomac Park probe into potential DOJ misconduct",
-   "url": "https://thehill.com/regulation/court-battles/6184378-ana-reyes-investigation-justice-department-golf-course/",
-   "summary": "A federal judge has opened an investigation into concerns that the Trump administration lied to her in the ongoing legal battle over President Trump\u2019s desire to redevelop East Potomac Golf Links. Friday\u2019s hearing became the latest fiery courtroom clash between U.S. District Judge Ana Reyes and the Department of Justice (DOJ), which repeatedly took issue...",
-   "published": "2026-10-30T17:50:39+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-30T19:26:58.354072+00:00"
-  },
-  {
-   "id": "002c3045c33345a2",
-   "title": "Americans 'frustrated' about Iran war going into midterms as Trump admin has decision to make: GOP lawmaker",
-   "url": "https://www.foxnews.com/politics/americans-frustrated-iran-war-midterms-trump-admin-decision-gop-lawmaker",
-   "summary": "House Armed Services Committee member Pat Harrigan says the U.S., in the ongoing conflict against Iran, must &quot;do what it takes to either win or come home.&quot;",
-   "published": "2026-10-30T17:49:53+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-10-30T19:26:56.269865+00:00"
-  },
-  {
-   "id": "54ab84fd17f16d0b",
-   "title": "Education Department posts doctored image showing its HQ as Spirit Halloween",
-   "url": "https://thehill.com/homenews/education/6184668-education-department-spirit-halloween/",
-   "summary": "The Education Department on Friday posted a doctored image on the social platform X showing the agency's headquarters in Washington with a Spirit Halloween banner on the building. \"These things are just popping up everywhere!\" the department said in its post. The image, posted the day before Halloween, comes as President Trump and Education Secretary Linda...",
-   "published": "2026-10-30T17:49:06+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-30T19:26:58.354076+00:00"
   }
  ]
 }
