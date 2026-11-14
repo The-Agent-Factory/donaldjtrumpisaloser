@@ -1,7 +1,51 @@
 {
- "updated": "2026-11-14T15:08:51.877008+00:00",
+ "updated": "2026-11-14T16:52:35.716092+00:00",
  "count": 960,
  "articles": [
+  {
+   "id": "8615a438fb3fbf9e",
+   "title": "Progressive versus moderate? Democrats deny party rift as they head into new Congress",
+   "url": "https://www.theguardian.com/us-news/2026/nov/14/democrats-moderate-progressive-congress",
+   "summary": "Incoming lawmakers have more in common with each other than they have divisions, even across ideological factionsDemocrats who won in the midterms, including those in places previously considered off the blue map and those in Democratic strongholds, crafted their campaigns around economic populism and accountability.Lawmakers in the anti-establishment incoming congressional class have more in common with each other than divisions, even across ideological factions. Voters sent a resounding message to work on affordability and rein in the Trump administration, and Democrats across the party have",
+   "published": "2026-11-14T15:28:14+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-11-14T16:52:34.726215+00:00"
+  },
+  {
+   "id": "2b0725ac6361d83c",
+   "title": "Clown Desmond Howard takes a disgusting shot at Jeremiah Smith, buy Melania's swimsuit & Butler Blue V debuts",
+   "url": "https://www.foxnews.com/outkick-sports/clown-desmond-howard-takes-disgusting-shot-jeremiah-smith-buy-melania-swimsuit-butler-blue-v-debuts",
+   "summary": "Desmond Howard questioned when Jeremiah Smith has been the difference in big games, igniting fury among Ohio State fans during Heisman voting season.",
+   "published": "2026-11-14T15:23:22+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-11-14T16:52:34.460549+00:00"
+  },
+  {
+   "id": "e4264a3a54c62e5c",
+   "title": "FAA ground stop leads to multiple delays, postponements in college football",
+   "url": "https://thehill.com/policy/sports-gaming/6220667-faa-ground-stop-college-football-delays/",
+   "summary": "Friday\u2019s nationwide ground stop issued by the Federal Aviation Administration (FAA) has led to some changes in Saturday's schedule for several college football games across the country. The nationwide grounding began at around 4 p.m. EST and lasted several hours impacting travel plans for multiple teams including Ole Miss, Kansas State University, University of Utah...",
+   "published": "2026-11-14T15:19:35+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-11-14T16:52:34.943444+00:00"
+  },
+  {
+   "id": "801c9b4463cfcb9f",
+   "title": "How a US extradition bid over Hamas allegations put a wealthy activist before a Spanish court",
+   "url": "https://www.theguardian.com/us-news/2026/nov/14/activist-extradition-gaza-hamas-spanish-court",
+   "summary": "James \u2018Fergie\u2019 Chambers, a Cox Enterprises heir, faced a two-hour hearing about alleged support for HamasA two-hour hearing in Spain\u2019s high court Friday on the US extradition request of wealthy leftwing activist and philanthropist James \u201cFergie\u201d Chambers turned out to be a study in contrasts.Chambers\u2019s defense took most of the session to query the US citizen and detail irregularities in the Trump administration\u2019s extradition request \u2013 several of which the Guardian has reported on \u2013 as well as the figures of Spanish law that would lead the three-judge panel to deny the request; while the prosec",
+   "published": "2026-11-14T15:00:47+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-11-14T16:52:34.726227+00:00"
+  },
   {
    "id": "d64efacdaca707f2",
    "title": "Democrats win an election and immediately move to subvert democracy",
@@ -10517,50 +10561,6 @@
    "source_id": "pbs-politics",
    "bias_note": "center",
    "first_seen": "2026-10-31T18:36:36.239806+00:00"
-  },
-  {
-   "id": "4b71b996018faeb0",
-   "title": "Why the Ilhan Omar saga isn't going away",
-   "url": "https://www.foxnews.com/politics/why-ilhan-omar-saga-isnt-going-away",
-   "summary": "Trump claims Ilhan Omar must resign from Congress over alleged immigration fraud, but the Constitution grants that power solely to the House itself.",
-   "published": "2026-10-31T16:07:26+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-10-31T18:36:35.272106+00:00"
-  },
-  {
-   "id": "9bf1603232bcc6e9",
-   "title": "Kamala Harris urges a 'too big to rig' turnout for the midterms and tees off on Trump",
-   "url": "https://abcnews.com/Politics/wireStory/kamala-harris-urges-big-rig-turnout-midterms-tees-137734957",
-   "summary": "Kamala Harris has been campaigning for Democratic candidates across multiple states during the final stretch of the midterm elections",
-   "published": "2026-10-31T16:02:46+00:00",
-   "source": "ABC News Politics",
-   "source_id": "abc-politics",
-   "bias_note": "center",
-   "first_seen": "2026-10-31T18:36:36.672748+00:00"
-  },
-  {
-   "id": "104109ba80a318b9",
-   "title": "It\u2019s closer to Beijing than Washington \u2013\u00a0and residents of this Alaskan outpost are reeling from Trump\u2019s policies",
-   "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/31/alaska-unalaska-fishing-trump",
-   "summary": "On the Bering Sea, Unalaska is the US\u2019s most productive seafood port, employing thousands of workers. But Trump\u2019s cuts, and his disastrous war with Iran, have caused chaos \u2013 and put Republican control of Congress at riskIt was less than 17 hours until the start of Alaska\u2019s lucrative Bering Sea crab season, and Oystein Lone was standing on a dock in the city of Unalaska, preparing to embark in rough conditions.The problem wasn\u2019t the next day\u2019s forecast of 60mph gusts, which would kick up white-capped swells and make crabbing, already one of the most dangerous jobs in the United States, even mor",
-   "published": "2026-10-31T16:00:47+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-10-31T18:36:35.913371+00:00"
-  },
-  {
-   "id": "0f43d2100c5670b1",
-   "title": "Will Tuesday be a a blue wave or just an anti-Trump surge?",
-   "url": "https://thehill.com/opinion/campaign/6184763-democrats-house-senate-polls/",
-   "summary": "All partisan roads seem to lead back to Donald Trump.",
-   "published": "2026-10-31T16:00:00+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-31T18:36:36.107514+00:00"
   }
  ]
 }
