@@ -1,7 +1,139 @@
 {
- "updated": "2026-11-13T23:37:54.423354+00:00",
- "count": 960,
+ "updated": "2026-11-14T06:35:06.786434+00:00",
+ "count": 965,
  "articles": [
+  {
+   "id": "3668bad9c2305aa0",
+   "title": "Democrat flips Alaska governor's mansion after Trump-backed GOP infighting",
+   "url": "https://www.foxnews.com/politics/democrat-flips-alaska-governors-mansion-trump-backed-gop-infighting",
+   "summary": "President Trump endorsed Republican Bernadette Wilson for Alaska governor, but bitter GOP infighting and ranked-choice voting complicated the race to succeed Mike Dunleavy.",
+   "published": "2026-11-14T06:09:34+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-11-14T06:35:05.680010+00:00"
+  },
+  {
+   "id": "7bd35c71dd45ec8e",
+   "title": "AI company behind FAA's SMART tool denies link to ground stop, Duffy confirms",
+   "url": "https://thehill.com/policy/transportation/6220416-faa-smart-ai-ground-stop-denial/",
+   "summary": "Air Space Intelligence (ASI), the company behind a recently deployed Federal Aviation Administration (FAA) AI tool, denied any link to the nationwide ground stop issued Friday afternoon. \u201cThe current ground stop is not based on or a result of the SMART system, any product of ASI or our integration with FAA and ATC,\u201d the company...",
+   "published": "2026-11-14T04:04:45+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-11-14T06:35:06.237153+00:00"
+  },
+  {
+   "id": "36acd4650bb9504d",
+   "title": "Duffy, Mullin call for $50B air travel 'overhaul' in fiery ground stop briefing",
+   "url": "https://thehill.com/policy/transportation/6220399-duffy-billions-air-traffic-ground-stop/",
+   "summary": "Trump administration officials reupped their calls for a multi-billion-dollar investment into updating the U.S.'s \"incredibly old\" air traffic control systems, calling out Congress for \"[kicking] the can down the road\" on improvements they argued could have prevented Friday night's nationwide ground stop. \u201cWhat we have is an incredibly old air traffic control system,\u201d Transportation Secretary...",
+   "published": "2026-11-14T03:37:13+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-11-14T06:35:06.237160+00:00"
+  },
+  {
+   "id": "4b1ed9147537f309",
+   "title": "\u2018It\u2019s frustrating\u2019: chaos at US airports as stoppage grinds travel plans to a halt",
+   "url": "https://www.theguardian.com/us-news/2026/nov/13/us-airports-flight-stoppage",
+   "summary": "Travelers and crew feeling \u2018pissed\u2019 or \u2018lucky\u2019 depending on level of upset amid nationwide ground stopAirport chaos continues after FAA lifts ground stop \u2013 live updatesThe US Federal Aviation Administration\u2019s decision to ground all flights on Friday threw airports and travel plans into chaos across the country, as passengers on planes and in airport terminals were suddenly thrust into limbo.At New York\u2019s John F Kennedy airport, passengers found their travel plans abruptly cancelled \u2013 some even after they\u2019d boarded. Continue reading...",
+   "published": "2026-11-14T02:49:59+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-11-14T06:35:06.118884+00:00"
+  },
+  {
+   "id": "9737ca0031189780",
+   "title": "US aviation agency lifts nationwide ground stop affecting all air travel",
+   "url": "https://www.theguardian.com/world/2026/nov/13/faa-nationwide-ground-stop-flights",
+   "summary": "Sean Duffy, the transportation secretary, said the airspace was now open and the problem had been identifiedAirport chaos continues after FAA lifts ground stop \u2013 live updatesThe Federal Aviation Administration (FAA) has lifted a nationwide ground stop that was declared Friday afternoon, delaying or canceling more than 11,000 US flights, according to aviation tracker FlightAware, and throwing airports into sudden chaos.The FAA confirmed the airspace was open in an advisory on its website. \u201cSo at 8.15 tonight, Eastern Time, we\u2019ve opened up the airspace,\u201d Sean Duffy, the US transportation secreta",
+   "published": "2026-11-14T02:15:53+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-11-14T06:35:06.118894+00:00"
+  },
+  {
+   "id": "af34245ac051e15a",
+   "title": "Airspace reopened after nationwide ground stop",
+   "url": "https://thehill.com/policy/transportation/6220313-faa-lifts-nationwide-ground-stop/",
+   "summary": "The nationwide ground stop issued by the Federal Aviation Administration Friday afternoon has been lifted, Transportation Secretary Sean Duffy confirmed. \"At 8:15 tonight Eastern Time, we've opened up the airspace,\" Duffy said to reporters in the White House briefing room during a press conference that began at around 8:30 p.m. EST. Duffy added that, although...",
+   "published": "2026-11-14T01:56:50+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-11-14T06:35:06.237164+00:00"
+  },
+  {
+   "id": "6d22b6117ee6c073",
+   "title": "Trump, Putin and Xi to meet in first trilateral meeting between leaders",
+   "url": "https://thehill.com/homenews/administration/6220278-trump-putin-xi-trilateral-meeting/",
+   "summary": "President Trump plans to meet with Russian President Vladimir Putin and Chinese President Xi Jinping on the sidelines of the Asia-Pacific Economic Cooperation (APEC) summit in China next week, marking the first-ever trilateral meeting between the three leaders. Trump will be in Asia for The Association of Southeast Asian Nations summit in the Philippines and...",
+   "published": "2026-11-14T01:30:55+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-11-14T06:35:06.237167+00:00"
+  },
+  {
+   "id": "acbfd5afaa924a65",
+   "title": "Joe Rogan says podcasters have no business at Trump press conferences alongside real journalists",
+   "url": "https://www.foxnews.com/media/joe-rogan-says-podcasters-no-business-trump-press-conferences-alongside-real-journalists",
+   "summary": "Joe Rogan rejected White House advisor David Sacks&apos; push to give podcasters front-row seats at press conferences, declaring &quot;we talk s---&quot; and aren&apos;t journalists.",
+   "published": "2026-11-14T01:28:48+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-11-14T06:35:05.696785+00:00"
+  },
+  {
+   "id": "eb074ac64eb6022d",
+   "title": "Watch: Duffy, Mullin hold press briefing on FAA nationwide ground stop",
+   "url": "https://thehill.com/video-clips/6220247-watch-duffy-mullin-hold-press-briefing-on-faa-nationwide-ground-stop/",
+   "summary": "Homeland Security Secretary Markwayne Mullin and Transportation Secretary Sean Duffy will hold a press briefing at the White House on Friday night to provide an update on the Federal Aviation Administration's (FAA) nationwide ground stop. \u201cThe @FAANews [FAA] issued a nationwide ground stop for all U.S. airports following a communication issue impacting all Air Route...",
+   "published": "2026-11-14T00:54:31+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-11-14T06:35:06.237184+00:00"
+  },
+  {
+   "id": "64fc125c3d215396",
+   "title": "Multiple college football teams in flight limbo due to FAA ground stop",
+   "url": "https://thehill.com/policy/sports-gaming/6220145-faa-ground-stop-impacts-college-football/",
+   "summary": "The nationwide ground stop issued by the Federal Aviation Administration Friday afternoon has impacted travel plans for college football teams scheduled to fly to their destinations. Among teams impacted are four schools in the NCAA's Big 12 Conference, Baylor University, Kansas State University, University of Utah and Arizona State University; three in the Big Ten...",
+   "published": "2026-11-14T00:08:59+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-11-14T06:35:06.237198+00:00"
+  },
+  {
+   "id": "32c3d153d7f70c41",
+   "title": "ICE touts record number of deportations in agency's history",
+   "url": "https://www.pbs.org/newshour/show/ice-touts-record-number-of-deportations-in-agencys-history",
+   "summary": "The Department of Homeland Security reports that immigrant deportations and arrests hit an all-time high. More than 491,000 people were arrested by ICE in the last fiscal year, and more than 483,000 were deported. The Trump administration has said it aims to deport one million immigrants annually. William Brangham discussed more with John Sandweg, who was acting ICE Director under President Obama.",
+   "published": "2026-11-13T23:35:23+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-11-14T06:35:06.407654+00:00"
+  },
+  {
+   "id": "888380a2073faabd",
+   "title": "Brooks and Marcus on how Republicans are responding to midterm losses",
+   "url": "https://www.pbs.org/newshour/show/brooks-and-marcus-on-how-republicans-are-responding-to-midterm-losses",
+   "summary": "David Brooks of The Atlantic and Ruth Marcus of The New Yorker join Amna Nawaz to discuss the week in politics, including the fallout of Nvidia CEO Jensen Huang's resignation and what the Trump administration knew, how Republicans are responding to their losses in the midterm elections, JD Vance's chances in 2028 and the Democratic leadership battle in the Senate.",
+   "published": "2026-11-13T23:30:37+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-11-14T06:35:06.407659+00:00"
+  },
   {
    "id": "83f934fed54de0de",
    "title": "House Democrat calls FAA stop 'quite disturbing'",
@@ -10484,83 +10616,6 @@
    "source_id": "npr-politics",
    "bias_note": "center",
    "first_seen": "2026-10-31T12:41:21.621768+00:00"
-  },
-  {
-   "id": "cf82d110ef8039eb",
-   "title": "As Trump fans the flames of a world on fire, can diplomacy take back control?",
-   "url": "https://www.theguardian.com/us-news/2026/oct/31/as-trump-fans-the-flames-of-a-world-on-fire-can-diplomacy-take-back-control",
-   "summary": "Amid the chaos, havoc and war caused by a capricious and amoral US president, countries are waking up to the dangers of being excluded and abused by AmericaNever has there been a time when the world has been more interconnected than now. What happens in the secretive inner councils in Tehran, the mountains of south-west Yemen, the steppe of the Donbas, the still bloody wasteland that is Gaza and even the elegant boulevards of Paris and Milan have a common thread.One cannot understand one set of conflicts without weaving them into another, and it is this very interdependence that is making each",
-   "published": "2026-10-31T06:00:38+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-10-31T15:58:12.219751+00:00"
-  },
-  {
-   "id": "c04370efb076a7d1",
-   "title": "Federal judge blocks Trump DOJ threats against election workers ahead of 2026 midterms",
-   "url": "https://www.foxnews.com/politics/federal-judge-blocks-trump-doj-threats-against-election-workers-ahead-2026-midterms",
-   "summary": "A federal judge blocked the Trump administration from threatening election workers with prosecution over ballots tied to suspected noncitizens.",
-   "published": "2026-10-31T05:57:05+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-10-31T12:41:21.082365+00:00"
-  },
-  {
-   "id": "20a68952a689145a",
-   "title": "Judge blocks DOJ from threatening election officials over noncitizen voting claims",
-   "url": "https://thehill.com/regulation/court-battles/6185891-judge-stops-trump-election-threats/",
-   "summary": "A California federal judge Friday ordered the Trump administration to stop threatening election officials with criminal prosecution in its ongoing efforts to crack down on noncitizen voting. U.S. District Judge Trina Thompson issued a temporary restraining order connected to a lawsuit brought by unions representing California election workers earlier Friday.\u00a0In her decision, the Biden-appointed judge...",
-   "published": "2026-10-31T03:01:46+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-31T05:52:12.451563+00:00"
-  },
-  {
-   "id": "ee64ff86ac7f08a4",
-   "title": "Federal judge bars DoJ from threatening election workers to stop processing ballots",
-   "url": "https://www.theguardian.com/us-news/2026/oct/30/justice-department-election-workers-ballots",
-   "summary": "Order says local officials can\u2019t be forced to separate or stop counting ballots that the government deems to be disputedA federal judge has barred the justice department from threatening or coercing election workers to stop processing ballots.The order issued late Friday also bars the justice department from demanding local election officials segregate or not count ballots that the federal government deems may have been cast by ineligible voters. Continue reading...",
-   "published": "2026-10-31T01:30:07+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-10-31T05:52:12.221982+00:00"
-  },
-  {
-   "id": "c7812c1528dc1256",
-   "title": "Ukraine gets approval for Patriot missile sale",
-   "url": "https://thehill.com/newsletters/defense-national-security/6185817-us-approves-ukraine-patriot-missiles/",
-   "summary": "Presented by Palantir {beacon} Defense &#038;National Security Defense &#038;National Security &#8202; The Big Story  Ukraine gets approval for Patriot missile sale The State Department approved on Friday a possible $2.1 billion sale of 500 Patriot interceptor missiles to Ukraine that is funded entirely by U.S. partners and allies.  \u00a9 Getty The Trump administration greenlit the...",
-   "published": "2026-10-31T00:36:42+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-31T05:52:12.451582+00:00"
-  },
-  {
-   "id": "8d44daef3d5fb240",
-   "title": "'The View' co-hosts agree Democrats should not impeach Trump if party wins back control of Congress",
-   "url": "https://www.foxnews.com/media/the-view-co-hosts-agree-democrats-should-not-impeach-trump-party-wins-back-control-congress",
-   "summary": "Former Vice President Kamala Harris warned Democrats against impeaching President Donald Trump, and &quot;The View&quot; co-hosts agreed the focus should be on accountability and investigations.",
-   "published": "2026-10-31T00:24:52+00:00",
-   "source": "Fox News Latest",
-   "source_id": "foxnews-latest",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-10-31T05:52:11.780293+00:00"
-  },
-  {
-   "id": "67e19c18ee81b23c",
-   "title": "Trump says Iran war will end 'soon'",
-   "url": "https://thehill.com/newsletters/defense-national-security/6185808-trump-iran-war-ending-soon/",
-   "summary": "Presented by Palantir {beacon} Defense &#038;National Security Defense &#038;National Security &#8202; The Big Story  Trump says Iran war will end 'soon' President Trump claimed on Friday that the U.S. war against Iran will end \"soon\" as he mulls authorizing military strikes on the Islamic Republic following the November midterm elections.  \u00a9 Jon Cherry, Associated Press...",
-   "published": "2026-10-31T00:21:53+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-31T05:52:12.451589+00:00"
   }
  ]
 }
