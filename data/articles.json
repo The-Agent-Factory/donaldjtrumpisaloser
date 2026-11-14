@@ -1,7 +1,106 @@
 {
- "updated": "2026-11-14T16:52:35.716092+00:00",
- "count": 960,
+ "updated": "2026-11-14T20:46:00.752702+00:00",
+ "count": 956,
  "articles": [
+  {
+   "id": "fd50659ffbb43f29",
+   "title": "Blumenthal says Lutnick \u2018must go\u2019 following Nvidia scandal",
+   "url": "https://thehill.com/homenews/senate/6220891-blumenthal-calls-lutnick-resign-nvidia-scandal/",
+   "summary": "Democratic Sen. Richard Blumenthal (Conn.) called on Howard Lutnick, President Trump\u2019s Commerce secretary, to step down over reports the cabinet member shielded Nvidia from federal oversight \u2014 accusations which emerged after the tech giant's CEO resigned this week. Jensen Huang stepped down from Nvidia's chief role Thursday after claims came to light of his reported...",
+   "published": "2026-11-14T20:33:01+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-11-14T20:45:59.901756+00:00"
+  },
+  {
+   "id": "9eb64d4c1920b6ec",
+   "title": "Trump says he's working with bipartisan senators on film industry legislation",
+   "url": "https://thehill.com/business/6220886-trump-bipartisan-film-industry-bill/",
+   "summary": "President Trump announced plans to pursue legislation to boost the U.S. film industry alongside a group of Republican and Democratic senators, a show of bipartisanship as his party prepares to hand over both chambers of Congress in January. The president said Friday he will cooperate on the legislation with Democratic Sens. Adam Schiff (Calif.), Raphael...",
+   "published": "2026-11-14T20:29:07+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-11-14T20:45:59.901763+00:00"
+  },
+  {
+   "id": "08799de157b37f09",
+   "title": "Princess Diana\u2019s legendary White House dance with John Travolta almost didn\u2019t happen",
+   "url": "https://www.foxnews.com/entertainment/princess-diana-legendary-white-house-dance-john-travolta-almost-didnt-happen",
+   "summary": "Princess Diana danced with Clint Eastwood, Tom Selleck and Ronald Reagan that evening, but it took coaxing to get John Travolta onto the floor.",
+   "published": "2026-11-14T19:00:35+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-11-14T20:45:59.382269+00:00"
+  },
+  {
+   "id": "dc0b602001d6c5c7",
+   "title": "The MAGA-lomaniacs who could drag America into the abyss",
+   "url": "https://thehill.com/opinion/white-house/6219083-midterm-rebuke-trump-gop/",
+   "summary": "Recent midterm elections resulted in a significant rebuke of the Trump administration, prompting criticism of unfulfilled campaign promises from both former allies like Tucker Carlson and Vice President JD Vance.",
+   "published": "2026-11-14T19:00:00+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-11-14T20:45:59.901767+00:00"
+  },
+  {
+   "id": "816e51beebcd3235",
+   "title": "Johnson says 'we don\u2019t really need any investigation' on FAA ground stop",
+   "url": "https://thehill.com/policy/transportation/6220851-mike-johnson-faa-ground-stop/",
+   "summary": "House Speaker Mike Johnson (R-La.) said there is no need for an investigation into the ground stop issued by the Federal Aviation Administration (FAA) on Friday, instead highlighting the need for \u201cinvestment.\u201d \u201cWe don\u2019t really need any investigation \u2026 we need further investment,\u201d Johnson said during an interview with Fox News\u2019s Saturday in America. \u201cI...",
+   "published": "2026-11-14T18:56:40+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-11-14T20:45:59.901773+00:00"
+  },
+  {
+   "id": "5d1bc3587dbc4525",
+   "title": "U.S. gives states another 6 months before they have to remove people from Medicaid for not working",
+   "url": "https://www.pbs.org/newshour/health/u-s-gives-states-another-6-months-before-they-have-to-remove-people-from-medicaid-for-not-working",
+   "summary": "The administration clarified that while states still have the option to take action at the beginning of the year, they won't have to kick anyone off or deny coverage for failure to meet the requirement until July 1.",
+   "published": "2026-11-14T18:05:33+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-11-14T20:46:00.154398+00:00"
+  },
+  {
+   "id": "f07015d3a11fa87a",
+   "title": "5 things to know on the FAA groundings",
+   "url": "https://thehill.com/policy/transportation/6220783-faa-ground-stop-what-to-know/",
+   "summary": "The Federal Aviation Administration (FAA) has air traffic control systems back online after a major telecommunications outage grounded all U.S. flights Friday evening. The delay stranded passengers across the country and forced airlines to delay or cancel thousands of flights, a disruption that may take days to get back to normal. Those affected included everyday...",
+   "published": "2026-11-14T17:52:00+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-11-14T20:45:59.901794+00:00"
+  },
+  {
+   "id": "b7606b0cc7420523",
+   "title": "White House lawyer's hardball warning to Dems has legal experts on both sides questioning one key threat",
+   "url": "https://www.foxnews.com/politics/white-house-lawyers-hardball-warning-dems-has-legal-experts-both-sides-questioning-one-key-threat",
+   "summary": "William Scharf&apos;s letter warns Democrats that abusive subpoenas could cross into criminality, but Rep. Robert Garcia says Trump has something to hide.",
+   "published": "2026-11-14T17:00:05+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-11-14T20:45:59.364952+00:00"
+  },
+  {
+   "id": "5be441503d9fe860",
+   "title": "Democrat wins Alaska governor\u2019s seat for first time in nearly 30 years",
+   "url": "https://www.theguardian.com/us-news/2026/nov/14/alaska-governor-democrat-jonathan-kreiss-tomkins-wins",
+   "summary": "Jonathan Kreiss-Tomkins\u2019 victory means Democrats will now hold 30 US governorships after midterm blowoutDemocrats have captured Alaska\u2019s governor\u2019s seat for the first time in nearly three decades, marking another major victory for their party in a midterm election period that has dramatically shifted political power across the US.Former Alaska state legislator Jonathan Kreiss-Tomkins defeated three Republican opponents, including a candidate backed by Donald Trump, becoming the first Democrat elected governor of Alaska since 1998. Continue reading...",
+   "published": "2026-11-14T16:58:33+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-11-14T20:45:59.698076+00:00"
+  },
   {
    "id": "8615a438fb3fbf9e",
    "title": "Progressive versus moderate? Democrats deny party rift as they head into new Congress",
@@ -10418,149 +10517,6 @@
    "source_id": "thehill",
    "bias_note": "center",
    "first_seen": "2026-10-31T23:25:44.495152+00:00"
-  },
-  {
-   "id": "6b71f2733154d341",
-   "title": "Judge dismisses Trump lawsuit against Wall Street Journal over Epstein birthday letter",
-   "url": "https://www.theguardian.com/us-news/2026/oct/31/judge-dismisses-trump-lawsuit-wall-street-journal-epstein",
-   "summary": "Ruling \u2018with prejudice\u2019 means US president may not amend or refile his lawsuit over his alleged birthday letter to Jeffrey EpsteinA US judge dismissed Donald Trump\u2019s lawsuit against the Wall Street Journal with prejudice on Saturday, according to a court filing, bringing an end to his legal challenge over the newspaper\u2019s reporting on his alleged birthday letter to Jeffrey Epstein.The decision follows an earlier dismissal in April that had allowed Trump to revise his complaint. As of Saturday, the case is dismissed with prejudice, meaning the lawsuit cannot be amended or refiled. Continue readi",
-   "published": "2026-10-31T20:31:39+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-10-31T23:25:44.201001+00:00"
-  },
-  {
-   "id": "1ff3338c96671325",
-   "title": "Kid Rock reveals what he told French President Macron after Trump unexpectedly handed him phone on golf course",
-   "url": "https://www.foxnews.com/media/kid-rock-reveals-told-french-president-macron-trump-unexpectedly-handed-phone-golf-course",
-   "summary": "Kid Rock told Bill Maher how a golf outing with Trump ended with him holding the phone mid-call with Emmanuel Macron in a viral &quot;Real Time&quot; moment.",
-   "published": "2026-10-31T20:30:25+00:00",
-   "source": "Fox News Latest",
-   "source_id": "foxnews-latest",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-10-31T23:25:43.527978+00:00"
-  },
-  {
-   "id": "9f9ae25a8baa8649",
-   "title": "Attorneys for Alaska say 'meritless' Trump demand to set aside Senate ballots 'not even possible'",
-   "url": "https://abcnews.com/Politics/wireStory/attorneys-alaska-meritless-trump-demand-set-aside-senate-137738992",
-   "summary": "Alaska&rsquo;s Republican-run state government is urging a federal judge to dismiss a lawsuit filed at President Donald Trump&rsquo;s direction to stop the certification of a possible Democratic win in that state&rsquo;s pivotal U.S. Senate race",
-   "published": "2026-10-31T20:14:48+00:00",
-   "source": "ABC News Politics",
-   "source_id": "abc-politics",
-   "bias_note": "center",
-   "first_seen": "2026-10-31T23:25:45.145164+00:00"
-  },
-  {
-   "id": "f02fdd11cf950c41",
-   "title": "Analysis: More than 40% of names on DOJ list of alleged noncitizens not on California's voter rolls",
-   "url": "https://www.pbs.org/newshour/politics/analysis-more-than-40-of-names-on-doj-list-of-alleged-noncitizens-not-on-californias-voter-rolls",
-   "summary": "It's the first outside analysis of a list that the Department of Justice has used to threaten prosecution of election officials. The analysis also found that thousands of U.S. citizens appear to be flagged as ineligible to vote on the government's list.",
-   "published": "2026-10-31T20:03:15+00:00",
-   "source": "PBS NewsHour Politics",
-   "source_id": "pbs-politics",
-   "bias_note": "center",
-   "first_seen": "2026-10-31T23:25:44.759531+00:00"
-  },
-  {
-   "id": "55c5d70468c00a0c",
-   "title": "Paxton and Talarico tussle for Texas Senate seat. Trump to campaign virtually instead of in person",
-   "url": "https://abcnews.com/Politics/wireStory/paxton-talarico-tussle-texas-senate-seat-trump-campaign-137737592",
-   "summary": "President Donald Trump is taking time off from the in-person campaign trail for virtual rallies",
-   "published": "2026-10-31T19:42:01+00:00",
-   "source": "ABC News Politics",
-   "source_id": "abc-politics",
-   "bias_note": "center",
-   "first_seen": "2026-10-31T23:25:45.145167+00:00"
-  },
-  {
-   "id": "ae019a957d68601e",
-   "title": "Trump prosecutions under Biden set precedent for DOJ\u2019s Alaska \u2018Decoy Dan\u2019 probe, ex-FEC chair says",
-   "url": "https://www.foxnews.com/politics/trump-prosecutions-biden-set-precedent-doj-alaska-decoy-dan-probe-ex-fec-chair-says",
-   "summary": "Hans von Spakovsky says Jack Smith&apos;s Trump indictment set the precedent for the DOJ&apos;s criminal probe into Alaska&apos;s &quot;Decoy Dan&quot; Senate race scheme.",
-   "published": "2026-10-31T19:09:02+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-10-31T23:25:43.443610+00:00"
-  },
-  {
-   "id": "2552f9646fc36a55",
-   "title": "More than 40% of names on DOJ list of alleged noncitizens not on California's voter rolls: analysis",
-   "url": "https://abcnews.com/Politics/wireStory/40-names-doj-list-alleged-noncitizens-californias-voter-137737426",
-   "summary": "More than 4 in 10 names flagged as possible noncitizen voters in California by the Trump administration can&rsquo;t even be found on the state&rsquo;s voter rolls",
-   "published": "2026-10-31T19:05:46+00:00",
-   "source": "ABC News Politics",
-   "source_id": "abc-politics",
-   "bias_note": "center",
-   "first_seen": "2026-10-31T23:25:45.145170+00:00"
-  },
-  {
-   "id": "231a6176aee650b5",
-   "title": "Lula and Milei both owe their victories to Trump",
-   "url": "https://thehill.com/opinion/international/6185055-brazil-lula-victory-us-tariffs/",
-   "summary": "Analysis of recent global elections suggests that while transactional support from the Trump administration helps allies like Javier Milei and Nasry Asfura win narrow victories, punitive measures such as those applied to Brazil resulted in the defeat of pro-Washington candidates.",
-   "published": "2026-10-31T19:00:00+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-31T23:25:44.495187+00:00"
-  },
-  {
-   "id": "6632bb6b09b67ce1",
-   "title": "Virginia and D.C. sue over Trump's arch, adding to legal challenges as government wants work to begin",
-   "url": "https://www.pbs.org/newshour/politics/virginia-and-d-c-sue-over-trumps-arch-adding-to-legal-challenges-as-government-wants-work-to-begin",
-   "summary": "There are now three lawsuits calling for a halt to potential work on a monument that would rise 250 feet on a patch of grass off the bridge that spans the Potomac River, connecting the city with Arlington National Cemetery.",
-   "published": "2026-10-31T18:29:25+00:00",
-   "source": "PBS NewsHour Politics",
-   "source_id": "pbs-politics",
-   "bias_note": "center",
-   "first_seen": "2026-10-31T18:36:36.239796+00:00"
-  },
-  {
-   "id": "25bd76483cdd00c0",
-   "title": "Bill Maher hits back at Trump over blistering Truth Social post, jokes about president's dinner review",
-   "url": "https://www.foxnews.com/media/bill-maher-hits-back-trump-blistering-truth-social-post-jokes-president-dinner-review",
-   "summary": "Bill Maher fired back at Trump&apos;s record 1,300-word Truth Social post on &quot;Real Time,&quot; reading the president&apos;s attacks aloud line by line onstage.",
-   "published": "2026-10-31T17:39:29+00:00",
-   "source": "Fox News Latest",
-   "source_id": "foxnews-latest",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-10-31T18:36:35.294044+00:00"
-  },
-  {
-   "id": "7250baf966248457",
-   "title": "Evacuees from Russia-controlled Oleshky arrive back in Ukraine amid U.S.-brokered ceasefire",
-   "url": "https://thehill.com/policy/international/6186192-oleshky-residents-return-ukraine/",
-   "summary": "Residents evacuated from the Russian-occupied city of Oleshky arrived back in Ukraine on Saturday amid a localized U.S.-brokered ceasefire agreement.\u00a0 The halt in fighting, which was secured earlier this month by first lady Melania Trump, went into effect on Tuesday and is set to last through Saturday.  Residents were given the choice of being transported...",
-   "published": "2026-10-31T17:22:03+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-31T18:36:36.107486+00:00"
-  },
-  {
-   "id": "81fc1bf0384e11d3",
-   "title": "Who are Ilhan Omar\u2019s lawyers? Meet the high-powered Dem attorneys the embattled rep hired",
-   "url": "https://www.foxnews.com/politics/who-ilhan-omars-lawyers-meet-high-powered-dem-attorneys-embattled-rep-hired",
-   "summary": "Ilhan Omar has hired Amy Jeffress and Joshua Matz, attorneys who represented Biden, House Democrats in Trump impeachment, and E. Jean Carroll.",
-   "published": "2026-10-31T17:18:10+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-10-31T18:36:35.272098+00:00"
-  },
-  {
-   "id": "b9799cdc3f1c9b57",
-   "title": "When will we know 2026 midterm election results? It may take some time, but that's normal",
-   "url": "https://www.pbs.org/newshour/politics/when-will-we-know-2026-midterm-election-results-it-may-take-some-time-but-thats-normal",
-   "summary": "In past elections, elected leaders, candidates and social media users have spread falsehoods that \"late night\" arrivals of \"ballot dumps\" or \"suitcases\" of ballots are signs of fraud, or that only Democratic-led cities take days to count votes.",
-   "published": "2026-10-31T17:02:17+00:00",
-   "source": "PBS NewsHour Politics",
-   "source_id": "pbs-politics",
-   "bias_note": "center",
-   "first_seen": "2026-10-31T18:36:36.239806+00:00"
   }
  ]
 }
