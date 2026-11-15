@@ -1,7 +1,62 @@
 {
- "updated": "2026-11-14T20:46:00.752702+00:00",
- "count": 956,
+ "updated": "2026-11-15T01:57:39.601806+00:00",
+ "count": 952,
  "articles": [
+  {
+   "id": "6078d9073bde58e1",
+   "title": "Carney says he's 'making progress' with Trump on possible US-Canada trade deal",
+   "url": "https://thehill.com/policy/international/6221010-carney-trump-canada-us-trade-progress/",
+   "summary": "Canadian Prime Minister Mark Carney said Saturday trade negotiations between his government and the U.S. were progressing amid a monthslong tariff battle between the two countries.\u00a0 The leader told reporters in Manila he had a conversation with President Trump, U.S. Trade Representative Jamieson Greer, White House chief of staff Stephen Miller and other officials \"just...",
+   "published": "2026-11-15T00:26:46+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-11-15T01:57:38.490033+00:00"
+  },
+  {
+   "id": "c134eef1dd473870",
+   "title": "Sunday shows preview: Democrats gear Trump administration probes amid leadership disputes",
+   "url": "https://thehill.com/homenews/sunday-talk-shows/6220953-sunday-shows-trump-cabinet-democrats-congress/",
+   "summary": "Democrats are charting their political future and issuing warnings to exercise their oversight powers against the Trump administration after gaining control of Congress with sweeping midterm election wins. This week, more races were called in Democrats\u2019 favor in Mississippi and Colorado. The Alaska Senate race remains uncalled as of Saturday afternoon, but new ballot counts...",
+   "published": "2026-11-14T23:55:20+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-11-15T01:57:38.490041+00:00"
+  },
+  {
+   "id": "5b6aa32ea929462a",
+   "title": "Kai Trump opens up about relationship with Tiger Woods, her mother's boyfriend: 'I love him so much'",
+   "url": "https://www.foxnews.com/outkick-sports/kai-trump-opens-relationship-tiger-woods-mothers-boyfriend-love-him-so-much",
+   "summary": "Kai Trump revealed how Tiger Woods helps with her golf game, calling her mother Vanessa Trump&apos;s boyfriend &quot;the best&quot; in a Golfweek interview.",
+   "published": "2026-11-14T22:50:07+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-11-15T01:57:37.299795+00:00"
+  },
+  {
+   "id": "8f803c170f43c3d5",
+   "title": "Trump takes parting shot at DC golf course conditions one day before major overhaul begins",
+   "url": "https://www.foxnews.com/outkick-sports/trump-takes-parting-shot-dc-golf-course-conditions-one-day-before-major-overhaul-begins",
+   "summary": "Trump shared photos of what he calls &quot;Trash Island&quot; on Truth Social, blasting U.S. District Judge Ana Reyes for slowing the East Potomac overhaul.",
+   "published": "2026-11-14T21:55:15+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-11-15T01:57:37.299817+00:00"
+  },
+  {
+   "id": "db94bcaaadab0c22",
+   "title": "With shifting Iran rhetoric following U.S. elections, Trump leaves Middle East in limbo about path ahead",
+   "url": "https://www.pbs.org/newshour/world/with-shifting-iran-rhetoric-following-u-s-elections-trump-leaves-middle-east-in-limbo-about-path-ahead",
+   "summary": "Trump's tonal shifts have only added to the uncertainty about what comes next in a war in which America's allies were not consulted before it was started but nonetheless struggle to deal with its economic ramifications.",
+   "published": "2026-11-14T21:17:42+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-11-15T01:57:38.684875+00:00"
+  },
   {
    "id": "fd50659ffbb43f29",
    "title": "Blumenthal says Lutnick \u2018must go\u2019 following Nvidia scandal",
@@ -10418,105 +10473,6 @@
    "source_id": "abc-politics",
    "bias_note": "center",
    "first_seen": "2026-11-01T06:16:12.859843+00:00"
-  },
-  {
-   "id": "fdc667fffbbb4be4",
-   "title": "Virginia and D.C. sue to block construction of Trump arch",
-   "url": "https://www.npr.org/2026/10/31/nx-s1-6024694/virginia-dc-sue-trump-arch",
-   "summary": "U.S. District Court Judge Tanya Chutkin ordered both sides to talk and to agree on a proposed briefing schedule on the motion for a temporary restraining order by Saturday evening.",
-   "published": "2026-10-31T22:48:51+00:00",
-   "source": "NPR Politics",
-   "source_id": "npr-politics",
-   "bias_note": "center",
-   "first_seen": "2026-10-31T23:25:44.119396+00:00"
-  },
-  {
-   "id": "9b477d164766596a",
-   "title": "Attorneys for Alaska say 'meritless' Trump demand to set aside Senate ballots 'not even possible'",
-   "url": "https://www.pbs.org/newshour/politics/attorneys-for-alaska-say-meritless-trump-demand-to-set-aside-senate-ballots-not-even-possible",
-   "summary": "The Department of Justice on Friday added a request that the judge separate all ballots showing votes for the second Dan Sullivan until it can be determined whether voters were fooled into wasting their votes for a spoiler candidate.",
-   "published": "2026-10-31T22:22:29+00:00",
-   "source": "PBS NewsHour Politics",
-   "source_id": "pbs-politics",
-   "bias_note": "center",
-   "first_seen": "2026-10-31T23:25:44.759519+00:00"
-  },
-  {
-   "id": "f7135d3147fc6bc3",
-   "title": "Paxton and Talarico tussle for Texas Senate seat as Trump campaigns virtually",
-   "url": "https://www.pbs.org/newshour/politics/paxton-and-talarico-tussle-for-texas-senate-seat-as-trump-campaigns-virtually",
-   "summary": "The closing sprint in Texas comes as early voting nears its conclusion in several states. Early balloting totals were approaching 50 million heading into the weekend. About 112 million voted in total in the 2022 midterm elections.",
-   "published": "2026-10-31T22:14:59+00:00",
-   "source": "PBS NewsHour Politics",
-   "source_id": "pbs-politics",
-   "bias_note": "center",
-   "first_seen": "2026-10-31T23:25:44.759524+00:00"
-  },
-  {
-   "id": "d87cb2fcfc71a0a8",
-   "title": "Rubio says the US government did not facilitate Bolsonaro\u2019s flight to the US",
-   "url": "https://abcnews.com/Politics/wireStory/rubio-us-government-facilitate-bolsonaros-flight-us-137740656",
-   "summary": "U.S. Secretary of State Marco Rubio says the Trump administration did not help Fl&aacute;vio Bolsonaro leave Brazil after his election defeat",
-   "published": "2026-10-31T21:39:44+00:00",
-   "source": "ABC News Politics",
-   "source_id": "abc-politics",
-   "bias_note": "center",
-   "first_seen": "2026-10-31T23:25:45.145159+00:00"
-  },
-  {
-   "id": "d3d571117e17877f",
-   "title": "How House Democrats' 'deterrence message' on Trump jobs could backfire",
-   "url": "https://www.foxnews.com/politics/house-democrats-deterrence-message-trump-jobs-could-backfire-former-federal-prosecutor-warns",
-   "summary": "Elissa Slotkin&apos;s warning to young Americans about joining Trump&apos;s administration could hand Republicans legal ammunition under Trump v. Mazars.",
-   "published": "2026-10-31T21:36:15+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-10-31T23:25:43.443592+00:00"
-  },
-  {
-   "id": "5579866f60d4174d",
-   "title": "Judge dismisses Trump suit against Wall Street Journal over Epstein birthday letter",
-   "url": "https://www.pbs.org/newshour/politics/judge-dismisses-trump-suit-against-wall-street-journal-over-epstein-birthday-letter",
-   "summary": "U.S. District Judge Darrin Gayles in Miami dismissed the suit with prejudice, ruling that the president did not prove the defendants made defamatory statements with actual malice as required by law.",
-   "published": "2026-10-31T21:32:54+00:00",
-   "source": "PBS NewsHour Politics",
-   "source_id": "pbs-politics",
-   "bias_note": "center",
-   "first_seen": "2026-10-31T23:25:44.759527+00:00"
-  },
-  {
-   "id": "79463c6a033445bb",
-   "title": "What a midterm race in Kentucky says about how Democrats may do in Trump strongholds",
-   "url": "https://www.npr.org/2026/10/31/nx-s1-6023294/what-a-midterm-race-in-kentucky-says-about-how-democrats-may-do-in-trump-strongholds",
-   "summary": "Democrats are putting up a fight in midterm races this year that went for President Donald Trump by double digits in 2024. Kentucky Public Radio's Sylvia Goodman explains what we can learn from one Kentucky district.",
-   "published": "2026-10-31T21:14:36+00:00",
-   "source": "NPR Politics",
-   "source_id": "npr-politics",
-   "bias_note": "center",
-   "first_seen": "2026-10-31T23:25:44.119402+00:00"
-  },
-  {
-   "id": "a6f4d82f698bd79b",
-   "title": "Election officials worry about DOJ monitoring of Tuesday's vote",
-   "url": "https://www.npr.org/2026/10/31/nx-s1-6019312/election-officials-worry-about-doj-monitoring-of-tuesdays-vote",
-   "summary": "Some election officials have been notified that the DOJ will be monitoring their polling stations. NPR's voting correspondent Miles Parks explains what he's watching for on election day - and afterwards.",
-   "published": "2026-10-31T21:14:31+00:00",
-   "source": "NPR Politics",
-   "source_id": "npr-politics",
-   "bias_note": "center",
-   "first_seen": "2026-10-31T23:25:44.119407+00:00"
-  },
-  {
-   "id": "b0e499dd6a9a23eb",
-   "title": "Sunday shows preview: Candidates make last-minute pitches ahead of Tuesday's midterms; Economy weighs heavily on voters' minds",
-   "url": "https://thehill.com/homenews/sunday-talk-shows/6186417-sunday-shows-preview-candidates-make-last-minute-pitches-ahead-of-tuesdays-midterms-economy-weighs-heavily-on-voters-minds/",
-   "summary": "With just days to go before the midterm elections, Republicans and Democrats are making their final case to voters to turn out at the polls on Nov. 3.  President Trump made a surprise reversal this week after his last-minute decision to cancel rallies in battleground states, announcing a day later he would travel to Kansas...",
-   "published": "2026-10-31T20:54:41+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-10-31T23:25:44.495152+00:00"
   }
  ]
 }
