@@ -1,7 +1,18 @@
 {
- "updated": "2026-11-15T17:14:13.397093+00:00",
- "count": 945,
+ "updated": "2026-11-15T17:36:17.122698+00:00",
+ "count": 946,
  "articles": [
+  {
+   "id": "31ae6bbb8e0e73bf",
+   "title": "Duffy says he \u2018can\u2019t cancel\u2019 contract with firm behind FAA outage",
+   "url": "https://thehill.com/policy/transportation/6221409-duffy-cannot-cancel-l3harris/",
+   "summary": "Transportation Secretary Sean Duffy says he \u201ccan\u2019t cancel\u201d control with L3Harris, the firm blamed for the Federal Aviation Administration\u2019s (FAA) outage on Friday that resulted in a nationwide ground stop.   \u201cThe reason is that L3Harris decades ago got the contract to run and own the network that operates communication for the FAA. They own the...",
+   "published": "2026-11-15T17:27:07+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-11-15T17:36:16.394072+00:00"
+  },
   {
    "id": "f36b16dc5e039106",
    "title": "Trump breaks silence on nationwide ground stop and demands more money from Congress",
@@ -133,6 +144,17 @@
    "source_id": "npr-politics",
    "bias_note": "center",
    "first_seen": "2026-11-15T17:14:11.869822+00:00"
+  },
+  {
+   "id": "66ac70ca0fa6c681",
+   "title": "In calling for an end to the Iran War, Vance walks a fine line with Trump",
+   "url": "https://www.npr.org/2026/11/15/nx-s1-6040447/in-calling-for-an-end-to-the-iran-war-vance-walks-a-fine-line-with-trump",
+   "summary": "A rift is opening up between President Trump and Vice President Vance when it comes to the Iran War. NPR's Ayesha Rascoe talks to Susan Glasser, staff writer at the New Yorker.",
+   "published": "2026-11-15T13:11:23+00:00",
+   "source": "NPR Politics",
+   "source_id": "npr-politics",
+   "bias_note": "center",
+   "first_seen": "2026-11-15T17:36:16.078278+00:00"
   },
   {
    "id": "435a59ff4a3a8633",
@@ -10385,17 +10407,6 @@
    "source_id": "pbs-politics",
    "bias_note": "center",
    "first_seen": "2026-11-01T18:58:11.486383+00:00"
-  },
-  {
-   "id": "27cae21ac9a902e5",
-   "title": "The Guardian view on the US midterms and election interference: Trump\u2019s attempted heist is already under way | Editorial",
-   "url": "https://www.theguardian.com/commentisfree/2026/nov/01/the-guardian-view-on-the-us-midterms-and-election-interference-trumps-attempted-heist-is-already-under-way",
-   "summary": "Voters are turning against the Republicans. But the clearest possible message is needed to safeguard democracyThe psychologist Jennifer Freyd identified a pattern often used by perpetrators: deny, accuse, and reverse victim and offender. More than one observer has noted that Donald Trump employs that pattern politically. With polls suggesting Republicans are likely to lose the House and perhaps the Senate too in the midterms, the man who refused to accept Americans\u2019 democratic verdict in 2020 is hawking a narrative of cheating Democrats who will steal seats via illegitimate votes.The January 6",
-   "published": "2026-11-01T17:30:17+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-11-01T18:58:10.862065+00:00"
   }
  ]
 }
