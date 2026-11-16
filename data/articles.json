@@ -1,7 +1,106 @@
 {
- "updated": "2026-11-16T18:37:59.591588+00:00",
- "count": 933,
+ "updated": "2026-11-16T20:50:25.328409+00:00",
+ "count": 932,
  "articles": [
+  {
+   "id": "09bb57871116f0a2",
+   "title": "Nominations Sent to the Senate",
+   "url": "https://www.whitehouse.gov/presidential-actions/2026/11/nominations-sent-to-the-senate-a864/",
+   "summary": "NOMINATIONS SENT TO THE SENATE: Kara Frederick, of California, to be Ambassador Extraordinary and Plenipotentiary of the United States of America to the Plurinational State of Bolivia. Eric Matthew Ueland, of Virginia, to be Comptroller General of the United States for a term of fifteen years, vice Eugene Louis Dodaro, term expired. T. Elliot Gaiser, [&#8230;]\nThe post Nominations Sent to the Senate appeared first on The White House.",
+   "published": "2026-11-16T20:50:09+00:00",
+   "source": "WhiteHouse.gov Presidential Actions",
+   "source_id": "whitehouse-actions",
+   "bias_note": "official/primary-source",
+   "first_seen": "2026-11-16T20:50:22.462960+00:00"
+  },
+  {
+   "id": "d1e1a0c9d8aaed3c",
+   "title": "Nvidia's board not considering return of Huang as CEO",
+   "url": "https://thehill.com/policy/technology/6223454-nvidia-board-rejects-huang-return/",
+   "summary": "Nvidia's Board of Directors is not weighing Jensen Huang's return as CEO, a source familiar confirmed to The Hill. Within days of Huang stepping down as Nvidia's longtime CEO amid a national security scandal, petitions circulated calling for his return, while President Trump said on Monday he \"certainly wouldn't mind\" if Huang returned as CEO....",
+   "published": "2026-11-16T20:50:05+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-11-16T20:50:24.123906+00:00"
+  },
+  {
+   "id": "f63ab7846f865f0e",
+   "title": "Dem governor rips College Republicans for hosting ex-Trump Border chief, provokes fiery response",
+   "url": "https://www.foxnews.com/politics/dem-governor-rips-college-republicans-hosting-ex-trump-border-chief-provokes-fiery-response",
+   "summary": "NJ Dem Gov. Mikie Sherrill says the state will work with Rutgers to &apos;protect&apos; students as the college&apos;s student Republicans chapter invites former Trump immigration official to speak on campus.",
+   "published": "2026-11-16T20:09:22+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-11-16T20:50:21.907121+00:00"
+  },
+  {
+   "id": "29a1af9e88203dde",
+   "title": "Dana White after press secretary stunt: 'I want nothing to do with politics'",
+   "url": "https://thehill.com/homenews/administration/6223190-dana-white-declines-press-secretary/",
+   "summary": "UFC President and CEO Dana White on Saturday said he wants \"nothing to do with politics\" following the stunt last week where he seemed poised to become the next White House press secretary. President Trump wrote on Truth Social earlier this month that he had offered the job to White, who share a friendship. The...",
+   "published": "2026-11-16T19:54:43+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-11-16T20:50:24.123956+00:00"
+  },
+  {
+   "id": "b71aef7cf5d1ec0e",
+   "title": "Joe Rogan slams Trump, says MAGA betrayed 'podcast bros'",
+   "url": "https://thehill.com/opinion/robbys-radar/6223386-gop-loses-young-men-economic-betrayal/",
+   "summary": "So to Trump and his party, I say this: Take Joe Rogan\u2019s warning seriously, and make the economy work for the people who voted you in to power two years ago.",
+   "published": "2026-11-16T19:47:01+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-11-16T20:50:24.123975+00:00"
+  },
+  {
+   "id": "e44267d846b25fc1",
+   "title": "Hillary Clinton 'looking forward' to Trump's State of the Union, Democratic women staring him down",
+   "url": "https://www.foxnews.com/media/hillary-clinton-looking-forward-trumps-state-union-democratic-women-staring-him-down",
+   "summary": "Hillary Clinton told Rachel Maddow she&apos;s eager to see Democratic women stare down Trump at his 2027 State of the Union after the party&apos;s midterm wins.",
+   "published": "2026-11-16T19:35:28+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-11-16T20:50:21.953054+00:00"
+  },
+  {
+   "id": "a9dc1f3ee2a912ce",
+   "title": "Canada could turn to Chinese automakers without US deal: Carney",
+   "url": "https://thehill.com/policy/international/6223278-carney-threatens-china-auto-deal/",
+   "summary": "Canadian Prime Minister Mark Carney said Monday that Canada could turn to Chinese automakers to shore up its struggling auto industry if trade negotiations with the Trump administration fail to produce a deal. Speaking to reporters in Cambodia, Carney said he remains focused on reaching an agreement with the U.S. but warned that Canada would...",
+   "published": "2026-11-16T19:23:14+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-11-16T20:50:24.123988+00:00"
+  },
+  {
+   "id": "a997d88960ce1c57",
+   "title": "Freeze, fraud alert or monitoring? What to do after a breach",
+   "url": "https://www.foxnews.com/tech/freeze-fraud-alert-monitoring-what-do-after-breach",
+   "summary": "A credit freeze, fraud alert and identity monitoring each protect different parts of your financial life after a data breach. Here&apos;s how to choose.",
+   "published": "2026-11-16T19:00:42+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-11-16T20:50:21.953109+00:00"
+  },
+  {
+   "id": "a6fafe5c719f8215",
+   "title": "FOX News to present 7th annual 'All-American Christmas Tree Lighting' with Melania Trump on Nov 20",
+   "url": "https://www.foxnews.com/media/fox-news-present-7th-annual-all-american-christmas-tree-lighting-melania-trump-nov-20",
+   "summary": "FOX News Media&apos;s 7th annual &quot;All-American Christmas Tree Lighting&quot; will take place on Friday, Nov. 20, outside the network&apos;s New York City headquarters.",
+   "published": "2026-11-16T18:55:01+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-11-16T20:50:21.953113+00:00"
+  },
   {
    "id": "36b54579e3e9ff55",
    "title": "Indicted Virginia state senator pushes to sanction Blanche, Patel over public comments",
@@ -10154,116 +10253,6 @@
    "source_id": "guardian-uspolitics",
    "bias_note": "left-leaning",
    "first_seen": "2026-11-03T02:23:34.149579+00:00"
-  },
-  {
-   "id": "b5e305769b390b0e",
-   "title": "Battleground Dem touts bipartisan record, but can\u2019t name single issue she\u2019d work with Trump on",
-   "url": "https://www.foxnews.com/politics/battleground-dem-touts-bipartisan-record-cant-name-single-issue-shed-work-trump",
-   "summary": "Democratic Senate candidate Peggy Flanagan touted her bipartisan record but couldn&apos;t name one Trump policy she&apos;d support, citing &quot;continued grift.&quot;",
-   "published": "2026-11-02T20:30:44+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-11-03T02:23:33.158708+00:00"
-  },
-  {
-   "id": "6c2cbe5d0fdcf513",
-   "title": "Iran offers to open Strait of Hormuz on several conditions",
-   "url": "https://thehill.com/policy/international/6189852-iran-offers-strait-hormuz-opening/",
-   "summary": "Iran offered to open the Strait of Hormuz on several conditions during negotiations, as President Trump has warned he is open to authorizing major combat operations against Tehran after the November midterm elections.\u00a0 Iranian officials are demanding that the U.S. government lift sanctions and release billions of dollars in frozen Iranian assets \u2014 requests that...",
-   "published": "2026-11-02T20:13:19+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-11-02T20:39:05.802733+00:00"
-  },
-  {
-   "id": "1089fc7e4b519b7b",
-   "title": "Adam Hamilton responds to Trump's 'perverted pastor' remarks in Kansas",
-   "url": "https://thehill.com/homenews/campaign/6189617-democrat-adam-hamilton-responds/",
-   "summary": "Kansas Democratic Senate candidate Adam Hamilton said it was \u201cpathetic\u201d for President Trump to call him a \"perverted pastor\" at a Sunday rally in support of Sen. Roger Marshall (R-Kan.). \"I think it's sad, it's pathetic to be calling a pastor a pervert and all the things that he's been saying,\" Hamilton told NewsNation's Mills...",
-   "published": "2026-11-02T19:26:56+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-11-02T20:39:05.802779+00:00"
-  },
-  {
-   "id": "88e3535f969c4216",
-   "title": "How Israel is at the heart of Haley Stevens\u2019s extraordinary reversal",
-   "url": "https://www.theguardian.com/us-news/2026/nov/02/haley-stevens-israel-aipac",
-   "summary": "The issue runs through almost every twist and turn and has come to define the congresswoman\u2019s political personaFor Haley Stevens, the road from Democratic Senate candidate to campaigning alongside a Republican she once called a rubber stamp for Donald Trump has been remarkably short \u2013 and the issue running through almost every twist and turn has been Israel.Having failed to stop Abdul El-Sayed in the primary, Stevens chose to back Republican Mike Rogers on Sunday, a candidate who she previously warned would enable Trump\u2019s agenda \u2013 apparently because the Democrat who won refuses to share her po",
-   "published": "2026-11-02T19:15:23+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-11-02T20:39:05.503579+00:00"
-  },
-  {
-   "id": "4b50355cb50727cd",
-   "title": "Mamdani threatens to sue Trump administration over alleged ICE use of New York City property",
-   "url": "https://thehill.com/homenews/state-watch/6189621-nyc-mayor-threatens-ice-lawsuit/",
-   "summary": "New York City Mayor Zohran Mamdani (D) on Monday threatened to sue the Trump administration over Immigration and Customs Enforcement's (ICE) alleged use of city property. In a letter addressed to Homeland Security Secretary Markwayne Mullin, acting ICE Director David Venturella and ICE New York field office Director Kenneth Genalo, Mamdani states that he is...",
-   "published": "2026-11-02T19:12:08+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-11-02T20:39:05.802782+00:00"
-  },
-  {
-   "id": "62d539a018fef4e6",
-   "title": "Live updates: Trump touts Reflecting Pool rehab in remarks there",
-   "url": "https://thehill.com/homenews/administration/6187464-stevens-rogers-endorsement-backlash/",
-   "summary": "President Trump is delivering remarks Monday afternoon from an iconic venue, the Lincoln Memorial Reflecting Pool, to both tout his D.C. beautification projects and offer a closing message ahead of Tuesday's midterm elections. Trump\u2019s remarks will focus on the agenda he and Republican lawmakers have advanced since the start of his second term, a source...",
-   "published": "2026-11-02T19:09:57+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-11-02T20:39:05.802785+00:00"
-  },
-  {
-   "id": "d6912e648a0d0146",
-   "title": "Michael Wilbon to take time away from 'Pardon the Interruption'",
-   "url": "https://thehill.com/homenews/media/6189567-michael-wilbon-pardon-the-interruption-espn-break/",
-   "summary": "Longtime sportswriter and television commentator Michael Wilbon is taking an extended break from \"Pardon the Interruption,\" the long-running ESPN debate show, to focus on his health. Wilbon, in a statement posted Monday to social platform X, said he was stepping back from the show indefinitely, though he did not give specifics on what was ailing...",
-   "published": "2026-11-02T19:08:04+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-11-02T20:39:05.802790+00:00"
-  },
-  {
-   "id": "0aa3b828cf2c2a14",
-   "title": "Kennedy Center to recognize Paul Anka, Andy Garcia, Barbara Mandrell at off-site Honors ceremony",
-   "url": "https://thehill.com/blogs/in-the-know/6189586-kennedy-center-honorees-paul-anka-andy-garcia-barbara-mandrell-david-mamet/",
-   "summary": "Playwright David Mamet, songwriter Paul Anka, composer David Foster, actor Andy Garcia and country music singer Barbara Mandrell are poised to receive the Kennedy Center Honors this year at a ceremony that will be held off-site amid a legal battle over renovations and adding President Trump's name to the performing arts institution.\u00a0 The Kennedy Center...",
-   "published": "2026-11-02T18:56:15+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-11-02T20:39:05.802794+00:00"
-  },
-  {
-   "id": "0eab2d3c50bf5dac",
-   "title": "Judge accuses DOJ of 'weaponization,' tosses case against ex-FBI officials",
-   "url": "https://www.npr.org/2026/11/02/g-s1-151242/judge-tosses-case-fbi-officials-hunter-biden",
-   "summary": "The judge said he was \"deeply troubled\" by the mistakes and rushed nature of the case over the FBI's Hunter Biden probes \u2014 one of several politically charged DOJ actions ahead of the midterms.",
-   "published": "2026-11-02T18:54:01+00:00",
-   "source": "NPR Politics",
-   "source_id": "npr-politics",
-   "bias_note": "center",
-   "first_seen": "2026-11-02T20:39:05.271528+00:00"
-  },
-  {
-   "id": "c0756a5806f7edd1",
-   "title": "I'm Dr Abdul El-Sayed. This is why I want Michigan's vote for Senate",
-   "url": "https://www.foxnews.com/opinion/dr-abdul-el-sayed-why-want-michigans-vote-senate",
-   "summary": "Democrat Abdul El-Sayed makes his case against Republican Mike Rogers in the Michigan Senate race, citing tariffs, gas prices, and healthcare as key campaign issues.",
-   "published": "2026-11-02T18:45:13+00:00",
-   "source": "Fox News Latest",
-   "source_id": "foxnews-latest",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-11-02T20:39:04.817243+00:00"
   }
  ]
 }
