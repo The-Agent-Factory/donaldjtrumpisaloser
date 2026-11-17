@@ -1,7 +1,227 @@
 {
- "updated": "2026-11-16T20:50:25.328409+00:00",
- "count": 932,
+ "updated": "2026-11-17T02:58:12.820382+00:00",
+ "count": 939,
  "articles": [
+  {
+   "id": "49b016b81cc9dcea",
+   "title": "Vance mocks Democrats for accusing Trump of being \u2018soft on China\u2019",
+   "url": "https://thehill.com/homenews/administration/6224034-vance-mocks-china-softness-accusations/",
+   "summary": "Vice President Vance mocked Democrats who accused President Trump of being \u201csoft on China\u201d amid criticism of the administration's handling of the Nvidia scandal.\u00a0 \u201cNow again, I find it just hysterical that the Democrats are accusing Donald Trump of being soft on China,\u201d Vance said during an interview with Fox News. \u201cWhen it comes to...",
+   "published": "2026-11-17T02:06:38+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-11-17T02:58:12.147949+00:00"
+  },
+  {
+   "id": "0cf8666ad8e0c56c",
+   "title": "Hillary Clinton picks a foreign politician she believes is now the \u2018leader of the free world\u2019",
+   "url": "https://www.foxnews.com/media/hillary-clinton-picks-foreign-politician-believes-leader-free-world",
+   "summary": "Former Secretary of State Hillary Clinton argued Canadian Prime Minister Mark Carney may be the current &quot;leader of the free world&quot; instead of President Donald Trump.",
+   "published": "2026-11-17T01:11:15+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-11-17T02:58:11.106373+00:00"
+  },
+  {
+   "id": "bb99722d9d342b62",
+   "title": "Trump appeals to state and federal courts to erase hush money criminal conviction",
+   "url": "https://www.pbs.org/newshour/politics/trump-appeals-to-state-and-federal-courts-to-erase-hush-money-criminal-conviction",
+   "summary": "A federal appeals court is weighing whether it can \u2014 or should \u2014 intervene in President Donald Trump's hush money case now that a New York State appellate court has heard arguments in his quest to erase the historic conviction.",
+   "published": "2026-11-17T00:48:19+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-11-17T02:58:12.340563+00:00"
+  },
+  {
+   "id": "f81848e536891d35",
+   "title": "Trump admin opens civil rights probes into 15 colleges over DEI grants",
+   "url": "https://www.foxnews.com/media/trump-admin-opens-civil-rights-probes-15-colleges-over-dei-grants",
+   "summary": "The Education Department&apos;s Office for Civil Rights opened probes into CUNY&apos;s NYC Men Teach program over alleged race- and sex-based discrimination.",
+   "published": "2026-11-17T00:23:40+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-11-17T02:58:11.106389+00:00"
+  },
+  {
+   "id": "1419918ed7022be4",
+   "title": "Air Force One rerouted over extreme weather",
+   "url": "https://thehill.com/homenews/administration/6223947-trump-reroutes-air-force-one/",
+   "summary": "Air Force One was rerouted Monday over extreme weather as President Trump and administration officials head to Asia to meet with Chinese President Xi Jinping and Russian President Vladimir Putin. \u201cDue to extreme weather conditions in Anchorage, Air Force One landed in Fairbanks in order to refuel under better climate conditions,\u201d a White House official...",
+   "published": "2026-11-17T00:08:34+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-11-17T02:58:12.147966+00:00"
+  },
+  {
+   "id": "9f06b1abca420926",
+   "title": "Trump administration seeks to deflect responsibility for nationwide ground stop",
+   "url": "https://www.pbs.org/newshour/show/trump-administration-seeks-to-deflect-responsibility-for-nationwide-ground-stop",
+   "summary": "Three days after air travel was halted in the longest nationwide ground stop since 9/11, the focus has turned to how the air traffic control network can be fixed. The Trump administration is calling for tens of billions of dollars to pay for improvements, but Democrats are questioning that price tag, saying billions have already been approved for an FAA overhaul. Liz Landers reports.",
+   "published": "2026-11-16T23:55:00+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-11-17T02:58:12.340569+00:00"
+  },
+  {
+   "id": "466430bb004d22f0",
+   "title": "Trump\u2019s Asia trip takes Alaska detour as weather forces refueling stop change",
+   "url": "https://www.foxnews.com/politics/trumps-asia-trip-takes-alaska-detour-weather-forces-refueling-stop-change",
+   "summary": "Air Force One diverted its Alaska refueling stop from Anchorage to Fairbanks due to extreme weather as President Donald Trump&apos;s Asia trip heads to Manila.",
+   "published": "2026-11-16T23:48:44+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-11-17T02:58:10.818260+00:00"
+  },
+  {
+   "id": "19c13e69f57a70f2",
+   "title": "U.S. works to close loophole that let China access advanced AI chips",
+   "url": "https://www.pbs.org/newshour/show/u-s-works-to-close-loophole-that-let-china-access-advanced-ai-chips",
+   "summary": "The Trump administration announced new rules today to further restrict China's access to advanced chips for the use of AI. It comes as questions are mounting about how the Commerce Department allowed loopholes for chip exports. The rule puts new restrictions on overseas data centers and is designed to counter possible smuggling. Amna Nawaz discussed more with Liza Tobin.",
+   "published": "2026-11-16T23:40:37+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-11-17T02:58:12.340580+00:00"
+  },
+  {
+   "id": "13cc11d87de9288a",
+   "title": "Tamara Keith and Amy Walter on Trump's summit with Xi and Putin",
+   "url": "https://www.pbs.org/newshour/show/tamara-keith-and-amy-walter-on-trumps-summit-with-xi-and-putin",
+   "summary": "NPR's Tamara Keith and Amy Walter of the Cook Political Report with Amy Walter join Geoff Bennett to discuss the latest political news, including President Trump's trip to Asia, his planned meetings with the leaders of China and Russia, what the summit might accomplish, Trump blaming Biden for the FAA's problems and the battle over Democratic leadership in Congress.",
+   "published": "2026-11-16T23:35:35+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-11-17T02:58:12.340583+00:00"
+  },
+  {
+   "id": "4b27cc407efc45df",
+   "title": "3rd aircraft carrier arrives in Middle East as Trump weighs Iran options",
+   "url": "https://thehill.com/newsletters/defense-national-security/6223863-3rd-aircraft-carrier-arrives-in-middle-east-as-trump-weighs-iran-options/",
+   "summary": "Welcome to The Hill's Defense &#038; NatSec newsletter {beacon} Defense &#038;National Security Defense &#038;National Security &#8202; The Big Story  3rd aircraft carrier arrives in Middle East as Trump weighs Iran options A third U.S. aircraft carrier has arrived in the Middle East, bringing more U.S. service members and firepower, as President Trump weighs his options...",
+   "published": "2026-11-16T23:28:57+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-11-17T02:58:12.147994+00:00"
+  },
+  {
+   "id": "fde95c44a3bb3a53",
+   "title": "Trump backs campaign to reinstate Huang as CEO of Nvidia",
+   "url": "https://www.pbs.org/newshour/politics/trump-backs-campaign-to-reinstate-huang-as-ceo-of-nvidia",
+   "summary": "Huang resigned last week from Nvidia, apparently ousted by the board after revelations that he had extramarital affairs, both with a Chinese businesswoman suspected of being an intelligence asset for Beijing and with a senior executive who reported to him.",
+   "published": "2026-11-16T23:25:54+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-11-17T02:58:12.340584+00:00"
+  },
+  {
+   "id": "2990b0f21e2f6c8b",
+   "title": "United Airlines says system outage resolved",
+   "url": "https://thehill.com/policy/transportation/6223837-united-airlines-resolves-tech-outage/",
+   "summary": "United Airlines on Monday said a system outage has been resolved, an issue that comes days after the Federal Aviation Administration (FAA) issued a ground stop that heavily impacted the airline\u2019s services. United told The Hill that it had \u201cresolved a technology issue that delayed flight departures\u201d but that there was \u201cno impact on flights...",
+   "published": "2026-11-16T23:18:20+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-11-17T02:58:12.147998+00:00"
+  },
+  {
+   "id": "49ad5b8ae254929b",
+   "title": "Trump, Xi meet in the wake of Nvidia scandal",
+   "url": "https://thehill.com/newsletters/technology/6223706-trump-xi-meet-in-the-wake-of-nvidia-scandal/",
+   "summary": "Presented by Google Public Sector. {beacon} Technology Technology The Big Story  Nvidia scandal threatens dark cloud over Trump-Xi meeting  The espionage and extramarital affair scandal surrounding Nvidia and its embattled founder, Jensen Huang, could throw a wrench into President Trump's meeting this week with Chinese premier Xi Jinping.  \u00a9 Julia Demaree Nikhinson, Associated Press Trump...",
+   "published": "2026-11-16T23:06:57+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-11-17T02:58:12.148000+00:00"
+  },
+  {
+   "id": "c2df0b22276cc037",
+   "title": "The Memo: Sean Duffy\u2019s $50B FAA request gets cool reception from Congress",
+   "url": "https://thehill.com/homenews/analysis/6223711-duffy-pushes-air-traffic-upgrades/",
+   "summary": "The reverberations from Friday\u2019s massive air traffic ground stop are now being felt on Capitol Hill as the Trump administration pushes for an extra $50 billion in funding for the Federal Aviation Administration (FAA). The push is being spearheaded by Transportation Secretary Sean Duffy, who has been the administration\u2019s principal voice following Friday\u2019s shutdown, which...",
+   "published": "2026-11-16T22:44:13+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-11-17T02:58:12.148016+00:00"
+  },
+  {
+   "id": "ea2cd04da4da2096",
+   "title": "Buttigieg fires back at Trump over FAA outage blame",
+   "url": "https://thehill.com/policy/transportation/6223723-buttigieg-trump-faa-groundstop/",
+   "summary": "Former Transportation Secretary Pete Buttigieg on Monday went after President Trump for blaming him for the recent Federal Aviation Administration (FAA) ground stop. \u201cWell, we've been trying to get the money for two years to fix it, and Buttigieg ruined the system,\u201d Trump told reporters Monday outside the White House discussing the air traffic control...",
+   "published": "2026-11-16T22:40:00+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-11-17T02:58:12.148019+00:00"
+  },
+  {
+   "id": "ebfa914b30eb5083",
+   "title": "Duffy seeks more FAA funding, but lawmakers want answers first",
+   "url": "https://thehill.com/policy/transportation/6223690-lawmakers-demand-ground-stop-answers/",
+   "summary": "Transportation Secretary Sean Duffy is calling on Congress to approve $50 billion in emergency funding to upgrade the nation's air traffic control (ATC) technology after a rare nationwide ground stop led to the cancellation of 17,000 flights over the weekend.  But Democratic lawmakers are arguing the Trump administration hasn't fully justified or explained the need...",
+   "published": "2026-11-16T22:34:46+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-11-17T02:58:12.148022+00:00"
+  },
+  {
+   "id": "dba3610f4bc34728",
+   "title": "JD Vance says he and Trump still 'don't know' whether Alice Huang was a Chinese spy",
+   "url": "https://www.foxnews.com/media/jd-vance-trump-dont-know-alice-huang-chinese-spy",
+   "summary": "JD Vance says intelligence on whether Alice Huang spied for China points in different directions, as Nvidia faces national security scrutiny over chips.",
+   "published": "2026-11-16T22:01:09+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-11-17T02:58:11.106489+00:00"
+  },
+  {
+   "id": "bfda1bbdf44c8500",
+   "title": "WATCH: 'You never notice broken windows, obviously,' Trump tells Black reporter",
+   "url": "https://www.pbs.org/newshour/politics/watch-you-never-notice-broken-windows-obviously-trump-tells-black-reporter",
+   "summary": "President Donald Trump berated NBC News White House correspondent Yamiche Alcindor on Monday after she asked him to respond to critics who say he was too focused on construction projects in the nation's capital instead of issues with the country's airline systems, which came to a halt Friday in a rare nationwide FAA ground stop.",
+   "published": "2026-11-16T21:34:29+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-11-17T02:58:12.340587+00:00"
+  },
+  {
+   "id": "607d35342c8ae09f",
+   "title": "Third US aircraft carrier brings thousands more troops to Middle East",
+   "url": "https://www.theguardian.com/us-news/2026/nov/16/aircraft-middle-east-trump-military",
+   "summary": "The US president oscillates between strike threats on Iran and insisting the war \u2018militarily is effectively over\u2019A third US aircraft carrier has arrived in the Middle East, US Central Command said in a social media post on Monday, making a dramatic show of military might as Donald Trump keeps his options open for next steps in the Iran war.The USS Theodore Roosevelt brings thousands of additional troops to the Middle East as Trump has oscillated between threatening additional large-scale strikes on Iran and insisting that the more than eight-month-old war \u201cmilitarily is effectively over\u201d. Cont",
+   "published": "2026-11-16T21:13:02+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-11-17T02:58:11.983489+00:00"
+  },
+  {
+   "id": "e135f3f565874881",
+   "title": "Read the full White House memo requiring agencies to get approval before testifying in front of Congress",
+   "url": "https://www.pbs.org/newshour/politics/read-the-full-white-house-memo-requiring-agencies-to-get-approval-before-testifying-in-front-of-congress",
+   "summary": "In a new memorandum obtained by PBS News on Monday, White House counsel Will Scharf is directing all federal agencies and executive departments to get approval from White House legal and legislative affairs offices before agreeing to testify before congressional committees.",
+   "published": "2026-11-16T21:00:32+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-11-17T02:58:12.340589+00:00"
+  },
   {
    "id": "09bb57871116f0a2",
    "title": "Nominations Sent to the Senate",
@@ -23,6 +243,28 @@
    "source_id": "thehill",
    "bias_note": "center",
    "first_seen": "2026-11-16T20:50:24.123906+00:00"
+  },
+  {
+   "id": "f3d420e573fcd4be",
+   "title": "President Trump\u2019s Immigration Policies Are Saving American Lives",
+   "url": "https://www.whitehouse.gov/releases/2026/11/president-trumps-immigration-policies-are-saving-american-lives/",
+   "summary": "Traffic fatalities have fallen to the second-lowest level in American history following President Donald J. Trump\u2019s crackdown on illegal alien truck drivers. That good news joins sharp drops in traffic deaths, overdoses, violent crime, and border fatalities after the largest immigration enforcement surge in modern history \u2014 while Democrats\u2019 open-border policies left chaos, missing kids, [&#8230;]\nThe post President Trump\u2019s Immigration Policies Are Saving American Lives appeared first on The White House.",
+   "published": "2026-11-16T20:40:32+00:00",
+   "source": "WhiteHouse.gov News",
+   "source_id": "whitehouse",
+   "bias_note": "official/primary-source",
+   "first_seen": "2026-11-17T02:58:11.206394+00:00"
+  },
+  {
+   "id": "5472a8244bd58b69",
+   "title": "ICYMI: \u201cTrump border crackdown drives encounters to record October low as zero-release streak hits 18 months\u201d",
+   "url": "https://www.whitehouse.gov/releases/2026/11/icymi-trump-border-crackdown-drives-encounters-to-record-october-low-as-zero-release-streak-hits-18-months/",
+   "summary": "For 18 straight months, zero illegal aliens have been released into the United States as President Donald J. Trump continues to deliver the most secure border in American history. It\u2019s a direct consequence of restored enforcement, deterrence, and operational control that has reversed years of chaos \u2014 and the numbers aren\u2019t even close. As Fox [&#8230;]\nThe post ICYMI: \u201cTrump border crackdown drives encounters to record October low as zero-release streak hits 18 months\u201d appeared first on The White House.",
+   "published": "2026-11-16T20:29:50+00:00",
+   "source": "WhiteHouse.gov News",
+   "source_id": "whitehouse",
+   "bias_note": "official/primary-source",
+   "first_seen": "2026-11-17T02:58:11.206398+00:00"
   },
   {
    "id": "f63ab7846f865f0e",
@@ -10088,171 +10330,6 @@
    "source_id": "thehill",
    "bias_note": "center",
    "first_seen": "2026-11-03T11:59:12.147150+00:00"
-  },
-  {
-   "id": "4539462f52ebb90b",
-   "title": "Trump calls Iran conflict a 'soft war,' insists US holds the cards ahead of midterm elections",
-   "url": "https://www.foxnews.com/media/trump-calls-iran-conflict-soft-war-insists-us-holds-cards-ahead-midterm-elections",
-   "summary": "Trump called the Iran conflict a &quot;soft war&quot; on &quot;Hannity&quot; just hours after the United States struck Iran&apos;s Qeshm Island in the Strait of Hormuz.",
-   "published": "2026-11-03T02:47:52+00:00",
-   "source": "Fox News Latest",
-   "source_id": "foxnews-latest",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-11-03T11:59:11.471628+00:00"
-  },
-  {
-   "id": "87a273587063aa7b",
-   "title": "Talarico says he wants to work with Trump on bipartisan MAGA agenda",
-   "url": "https://thehill.com/homenews/campaign/6190917-james-talarico-donald-trump-maga/",
-   "summary": "Democratic Texas Senate candidate James Talarico said he would want to work with President Trump on a bipartisan \u201cMake America Great Again\u201d agenda. \u201cI would love, as the next U.S. senator from Texas, to work with Donald Trump to actually fulfill some of the promises of his political project,\u201d Talarico stated during an interview with...",
-   "published": "2026-11-03T02:39:09+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-11-03T11:59:12.147155+00:00"
-  },
-  {
-   "id": "4b2441e8d96fb2b2",
-   "title": "Where the battle for Congress stands heading into Election Day",
-   "url": "https://www.pbs.org/newshour/show/where-the-battle-for-congress-stands-heading-into-election-day",
-   "summary": "Candidates spent the day making their final pitches to voters following a weekend of last-minute rallies and a high-profile Democratic defection in Michigan. President Trump delivered his closing message in Washington at the Lincoln Memorial Reflecting Pool after days of campaigning in mostly red states. Lisa Desjardins reports.",
-   "published": "2026-11-02T23:55:15+00:00",
-   "source": "PBS NewsHour Politics",
-   "source_id": "pbs-politics",
-   "bias_note": "center",
-   "first_seen": "2026-11-03T02:23:34.717479+00:00"
-  },
-  {
-   "id": "b2ac5b17672feeb4",
-   "title": "Trump offered a closing message to voters by touting his D.C. renovations",
-   "url": "https://www.npr.org/2026/11/02/nx-s1-6026399/trump-offered-a-closing-message-to-voters-by-touting-his-d-c-renovations",
-   "summary": "In Washington, President Trump delivered his last expected public address, pushing a weaving message to the public about why they should support Republicans.",
-   "published": "2026-11-02T23:35:51+00:00",
-   "source": "NPR Politics",
-   "source_id": "npr-politics",
-   "bias_note": "center",
-   "first_seen": "2026-11-03T02:23:33.777280+00:00"
-  },
-  {
-   "id": "49b3a0de754f4046",
-   "title": "Duckworth condemns Trump's low Halloween flyover, demands answers",
-   "url": "https://thehill.com/homenews/senate/6190569-duckworth-condemns-trump-flyover/",
-   "summary": "Sen. Tammy Duckworth (D-Ill.) on Monday condemned President Trump\u2019s recent low flyover in a letter addressed to Bryan Bedford, the administrator of the Federal Aviation Administration (FAA); Russell Vought, the director of the Office of Management and Budget; and Defense Secretary Pete Hegseth. The flyover occurred Thursday during the White House\u2019s Halloween party, with Air...",
-   "published": "2026-11-02T23:26:57+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-11-03T02:23:34.390707+00:00"
-  },
-  {
-   "id": "b6c30a5869038ff8",
-   "title": "Tamara Keith and Amy Walter on the early signals to watch on Election Night",
-   "url": "https://www.pbs.org/newshour/show/tamara-keith-and-amy-walter-on-the-early-signals-to-watch-on-election-night",
-   "summary": "NPR's Tamara Keith and Amy Walter of the Cook Political Report with Amy Walter join Geoff Bennett to discuss the latest political news, including President Trump's focus on the Reflecting Pool on the day before the election, the last-minute spectacle in the Michigan Senate race and the early signals to watch on Election Night.",
-   "published": "2026-11-02T23:25:00+00:00",
-   "source": "PBS NewsHour Politics",
-   "source_id": "pbs-politics",
-   "bias_note": "center",
-   "first_seen": "2026-11-03T02:23:34.717499+00:00"
-  },
-  {
-   "id": "1a23cb7e41f6cae3",
-   "title": "\u2018A despicable betrayal\u2019: Democrats incensed by Haley Stevens\u2019s endorsement of Mike Rogers",
-   "url": "https://www.theguardian.com/us-news/2026/nov/02/democrats-reaction-haley-steven-mike-rogers",
-   "summary": "Stevens\u2019s decision sparked fierce backlash from members of the party, while Donald Trump praised the sudden switchDemocrat Haley Stevens\u2019s shocking last-minute endorsement of Mike Rogers, the Michigan Republican Senate candidate, in the run-up to Tuesday\u2019s midterm elections has sparked fierce backlash from members of her party.Stevens, who narrowly lost in the Democratic primary for Senate to Abdul El-Sayed, announced her support for Rogers after a feud with the El-Sayed campaign over an outside group\u2019s advertisement, which blamed the high cost of living on US support for Israel. Continue read",
-   "published": "2026-11-02T23:22:57+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-11-03T02:23:34.149560+00:00"
-  },
-  {
-   "id": "d4b687bdc321a042",
-   "title": "Trump\u2019s DoJ charges six more people in \u2018voter fraud\u2019 crackdown in California",
-   "url": "https://www.theguardian.com/us-news/2026/nov/02/california-voter-fraud-charges",
-   "summary": "Latest arrests come after DoJ unsuccessfully fought to force state election officials to set aside about 20,000 ballotsUS midterms \u2013 live updatesThe US Department of Justice (DoJ) in California has charged six more people with alleged voter fraud crimes, an escalation of the Trump administration\u2019s campaign against the state\u2019s election processes on the eve of the midterms.Bill Essayli, the top federal prosecutor in Los Angeles and a close ally of the president, announced on Monday that his office was prosecuting six lawful permanent residents accused of unlawfully registering to vote and castin",
-   "published": "2026-11-02T23:22:24+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-11-03T02:23:34.149569+00:00"
-  },
-  {
-   "id": "d4ee0e6ef488ff2b",
-   "title": "Trump touts oil price dip in closing speech",
-   "url": "https://thehill.com/newsletters/energy-environment/6190523-trump-touts-oil-price-dip-in-closing-speech/",
-   "summary": "{beacon} Energy &#038; Environment Energy &#038; Environment &#8202; The Big Story  Oil prices fall ahead of midterms President Trump on Monday touted a new drop in oil prices during his closing pitch to voters ahead of Tuesday\u2019s midterm elections. \u00a9 Alex Brandon, Associated Press International benchmark Brent crude was trading at $104 Monday afternoon, down...",
-   "published": "2026-11-02T23:07:49+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-11-03T02:23:34.390734+00:00"
-  },
-  {
-   "id": "635e475809d302b2",
-   "title": "Supreme Court rejects Trump administration's bid to set aside 20,000 California ballots",
-   "url": "https://thehill.com/regulation/court-battles/6190525-supreme-court-trump-administration-california-ballots/",
-   "summary": "The Supreme Court on Monday quickly rejected the Trump administration\u2019s effort to force California officials to set aside 20,000 ballots it claims belong to likely noncitizens and must be investigated.  The court\u2019s one-sentence order contained no explanation and had no noted dissents. California and immigration rights groups question the veracity of the administration\u2019s list and...",
-   "published": "2026-11-02T22:55:26+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-11-03T02:23:34.390748+00:00"
-  },
-  {
-   "id": "f2b958d1a59f2bc8",
-   "title": "Forecasts of midterm blue wave put Trump's legacy on line",
-   "url": "https://thehill.com/homenews/administration/6190415-trump-midterm-election-blue-wave/",
-   "summary": "President Trump\u2019s political capital is on the line ahead of the midterm elections as a potential blue wave threatens his final two years in office.  Trump has crisscrossed the country, holding 28 in-person campaign rallies in addition to a series of tele-rallies. The president has made stops in Republican strongholds like Ohio, Texas, Iowa, Kansas...",
-   "published": "2026-11-02T22:23:53+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-11-03T02:23:34.390772+00:00"
-  },
-  {
-   "id": "6cc2baa9dc8e88de",
-   "title": "President Trump Completes Historic Travel Blitz: 30 Events, 20 States, 32 Days",
-   "url": "https://www.whitehouse.gov/releases/2026/11/president-trump-completes-historic-travel-blitz-30-events-20-states-32-days/",
-   "summary": "President Donald J. Trump has just completed one of the most relentless, far-reaching travel schedules of any modern presidency: 20 states in 32 days, from Wasilla, Alaska, to Daytona Beach, Florida. At every stop, President Trump took his Administration\u2019s record of results directly to the American people. Here are the highlights from President Trump\u2019s travel:\nThe post President Trump Completes Historic Travel Blitz: 30 Events, 20 States, 32 Days appeared first on The White House.",
-   "published": "2026-11-02T22:03:21+00:00",
-   "source": "WhiteHouse.gov News",
-   "source_id": "whitehouse",
-   "bias_note": "official/primary-source",
-   "first_seen": "2026-11-03T02:23:33.336072+00:00"
-  },
-  {
-   "id": "61e21376032a5969",
-   "title": "Spike Lee hopes the Knicks won't visit the White House, warns owner 'can\u2019t force them'",
-   "url": "https://www.foxnews.com/media/spike-lee-hopes-knicks-wont-visit-white-house-warns-owner-cant-force-them",
-   "summary": "Spike Lee says he hopes the New York Knicks refuse to visit the White House, claiming owner James Dolan cannot force players to meet President Donald Trump.",
-   "published": "2026-11-02T21:41:03+00:00",
-   "source": "Fox News Latest",
-   "source_id": "foxnews-latest",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-11-03T02:23:33.225460+00:00"
-  },
-  {
-   "id": "b6f41dd578372398",
-   "title": "Actor Bill Murray stuns Trump's top economic advisor with bizarre question on news show",
-   "url": "https://www.foxnews.com/media/actor-bill-murray-stuns-trumps-top-economic-advisor-bizarre-question-news-show",
-   "summary": "Bill Murray asked Kevin Hassett to say &quot;my dog just died&quot; on CNBC&apos;s &quot;Squawk Box&quot; to test his ever-present smile during a live interview moment Monday.",
-   "published": "2026-11-02T21:12:18+00:00",
-   "source": "Fox News Latest",
-   "source_id": "foxnews-latest",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-11-03T02:23:33.225479+00:00"
-  },
-  {
-   "id": "32e2d79dee37db12",
-   "title": "Ex-FBI chief in Chicago sues DoJ, claiming he was pressured to investigate Trump\u2019s foes",
-   "url": "https://www.theguardian.com/us-news/2026/nov/02/fbi-douglas-depodesta-trump-lawsuit-doj",
-   "summary": "Douglas DePodesta says he was made \u2018scapegoat\u2019 after collapse of case against Broadview Six anti-ICE protestersThe former head of the FBI in Chicago has accused the Trump administration of pressuring him to investigate the president\u2019s political opponents and making him a \u201cscapegoat\u201d after a major federal case against anti-ICE protesters fell apart.Douglas DePodesta, who served as FBI special agent in charge from 2024 until July 2026, alleged in a federal lawsuit filed on Monday that the Department of Justice (DoJ) had engaged in \u201cmisconduct\u201d and \u201cmalfeasance\u201d in its pursuit of unjust prosecuti",
-   "published": "2026-11-02T20:59:53+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-11-03T02:23:34.149579+00:00"
   }
  ]
 }
