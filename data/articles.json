@@ -1,7 +1,161 @@
 {
- "updated": "2026-11-18T17:18:14.933634+00:00",
- "count": 898,
+ "updated": "2026-11-18T19:16:05.099343+00:00",
+ "count": 892,
  "articles": [
+  {
+   "id": "1068a2d05a8acf8a",
+   "title": "Canada's Carney: Trump 'listens a lot more in private'",
+   "url": "https://thehill.com/policy/international/6228281-trump-carney-relationship-u-s-canada/",
+   "summary": "Canadian Prime Minister Mark Carney said Wednesday his dynamic with President Trump \u2014 fraught with public disputes \u2014 is much different behind closed doors but cautioned the U.S.-Canada relationship cannot be repaired overnight. \u201cHe's very different inside the room, \u2026 he's a very personable individual,\u201d Carney told The New York Times\u2019 Andrew Ross Sorkin at...",
+   "published": "2026-11-18T19:07:10+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-11-18T19:16:04.619808+00:00"
+  },
+  {
+   "id": "ba53d7663f31d600",
+   "title": "Trump cannot deter Xi and Putin\u2019s nuclear goals with a strategy designed for just one",
+   "url": "https://www.foxnews.com/opinion/trump-cannot-deter-xi-putin-nuclear-goals-strategy-designed-one",
+   "summary": "President Donald Trump should take a strong position when he meets Vladimir Putin and Xi Jinping in China with nuclear arms control possibly on the agenda.",
+   "published": "2026-11-18T18:42:43+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-11-18T19:16:02.616996+00:00"
+  },
+  {
+   "id": "64456b1387553cb4",
+   "title": "Russian national accused of surveilling US tech company",
+   "url": "https://www.foxnews.com/us/russian-national-accused-surveilling-us-tech-company",
+   "summary": "Russian national Igor D&apos;iu was indicted for allegedly stalking Silicon Valley tech employees with tracking devices and fake IDs, the FBI says.",
+   "published": "2026-11-18T18:41:32+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-11-18T19:16:02.617003+00:00"
+  },
+  {
+   "id": "dfd48b2e12697d15",
+   "title": "Ukraine strikes 'one of the largest oil refineries' in southern Russia ahead of Putin-Trump meeting in China",
+   "url": "https://www.foxnews.com/world/ukraine-strikes-one-largest-oil-refineries-southern-russia-ahead-putin-trump-meeting-china",
+   "summary": "Ukraine&apos;s military says its strikes hit a key oil refinery in Russia&apos;s Krasnodar Krai region ahead of President Donald Trump&apos;s meeting with Vladimir Putin.",
+   "published": "2026-11-18T18:32:36+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-11-18T19:16:02.617006+00:00"
+  },
+  {
+   "id": "d801126a58bb85cd",
+   "title": "Buttigieg on Duffy's Biden administration jabs: 'What the hell is he talking about?'",
+   "url": "https://thehill.com/policy/transportation/6228206-buttigieg-duffy-infrastructure-clash/",
+   "summary": "Former Transportation Secretary Pete Buttigieg fired back at Transportation Secretary Sean Duffy after he blamed the Biden administration for failing to invest in the nation\u2019s aging air traffic control system following last week\u2019s nationwide ground stop. \u201cWhat the hell is he talking about? I mean, we launched the biggest infrastructure investment since the Eisenhower years,\u201d...",
+   "published": "2026-11-18T18:30:19+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-11-18T19:16:04.619818+00:00"
+  },
+  {
+   "id": "0730868c532f6085",
+   "title": "WATCH: Intelligence official pressed to explain cause of National Security Agency outage",
+   "url": "https://www.pbs.org/newshour/politics/watch-intelligence-official-pressed-to-explain-cause-of-national-security-agency-outage",
+   "summary": "Jay Clayton, the Trump administration's director of national intelligence, said Wednesday that recent computer systems service disruptions in the government and private sector are \"not a coordinated or state-sponsored attack.\"",
+   "published": "2026-11-18T18:29:47+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-11-18T19:16:04.737531+00:00"
+  },
+  {
+   "id": "f49456800e75c3a1",
+   "title": "Protesters heckle Trump's ex-Border Patrol chief offstage after Dem governor condemns College Republican event",
+   "url": "https://www.foxnews.com/politics/protesters-heckle-trumps-ex-border-patrol-chief-offstage-dem-governor-condemns-college-republican-event",
+   "summary": "Protesters shouted &quot;Immigrants are welcome here&quot; as Gregory Bovino was escorted offstage at Rutgers College Republicans event Mikie Sherrill called &quot;wrong.&quot;",
+   "published": "2026-11-18T18:26:49+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-11-18T19:16:02.599499+00:00"
+  },
+  {
+   "id": "7c2cd9a723716043",
+   "title": "SOUND OFF: Trump face to face with Putin in China",
+   "url": "https://www.foxnews.com/politics/sound-off-trump-face-face-putin-china",
+   "summary": "President Donald Trump and Russian President Vladimir Putin are expected to meet in China this week. Give us your thoughts about its impact on Iran, Ukraine and more.",
+   "published": "2026-11-18T18:22:10+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-11-18T19:16:02.599507+00:00"
+  },
+  {
+   "id": "c4915d5429f3bbeb",
+   "title": "As overdose deaths fall, White House makes misleading claims about who deserves credit",
+   "url": "https://www.npr.org/2026/11/18/nx-s1-6044209/drug-deaths-overdose-drop-trump-biden-fentanyl",
+   "summary": "In a statement celebrating the historic drop in drug deaths, the White House pointed to successes since President Trump took office. In fact, the biggest progress happened under the Biden administration.",
+   "published": "2026-11-18T18:18:16+00:00",
+   "source": "NPR Politics",
+   "source_id": "npr-politics",
+   "bias_note": "center",
+   "first_seen": "2026-11-18T19:16:02.799551+00:00"
+  },
+  {
+   "id": "b6ae9636517a4885",
+   "title": "Senate Republicans advance Trump's effort to abolish Dept of Education",
+   "url": "https://www.foxnews.com/media/senate-republicans-advance-trumps-effort-abolish-dept-education",
+   "summary": "Senate Republicans, led by Jim Banks, push a 10-bill package to permanently transfer Department of Education programs, codifying Trump&apos;s dismantling order.",
+   "published": "2026-11-18T18:16:31+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-11-18T19:16:02.617028+00:00"
+  },
+  {
+   "id": "3330c72bdb719d82",
+   "title": "1 in 5 Trump voters say Republicans will lose White House: Survey",
+   "url": "https://thehill.com/homenews/campaign/6227832-trump-voters-expectations-2028/",
+   "summary": "Around one in five Trump voters say that Republicans will lose the White House in the next presidential election. In the Politico poll, 22 percent of respondents that cast their ballot for President Trump in the 2024 election said Democrats will take the White House in 2028. Sixty percent of respondents said a Republican will...",
+   "published": "2026-11-18T17:47:29+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-11-18T19:16:04.619883+00:00"
+  },
+  {
+   "id": "421fe2bd9b346442",
+   "title": "Senate committee rejects Trump nominee to lead National Science Foundation",
+   "url": "https://www.theguardian.com/us-news/2026/nov/18/trump-national-science-foundation-nominee",
+   "summary": "Committee chair Bill Cassidy, a Republican, said Jim O\u2019Neill \u2018did not do enough to stand up for science\u2019 in previous posts Jim O\u2019Neill will not undergo a confirmation hearing on Wednesday to head he National Science Foundation (NSF) because he \u201cdid not do enough to stand up for science\u201d in his previous position, said Bill Cassidy, a Republican from Louisiana who is chair of the Senate committee on health, education, labor and pensions.This ends O\u2019Neill\u2019s run for the top US scientific organization, an embattled independent federal agency that has seen major budget cuts and grant freezes under t",
+   "published": "2026-11-18T17:46:34+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-11-18T19:16:02.950289+00:00"
+  },
+  {
+   "id": "f21f255fd91ab703",
+   "title": "US senators urge White House AI chief to fix vulnerabilities after mass outages",
+   "url": "https://www.theguardian.com/us-news/2026/nov/18/jay-clayton-ai-tech-outages-infrastructure",
+   "summary": "As Democrats flag AI bank breaches and cyber-attacks in Japan, Jay Clayton says system failures happenUS politics live \u2013 latest updatesA bipartisan pair of US senators are calling on Jay Clayton, the director of national intelligence and AI czar, to identify and fix vulnerabilities in the US\u2019s infrastructure following nationwide outages at major companies and government agencies.Maria Cantwell, the top Democrat on the Senate commerce, science, and transportation committee, and Mike Rounds, the Republican chair of the Senate subcommittee on cybersecurity, sent a letter to Clayton on Tuesday, ou",
+   "published": "2026-11-18T17:25:00+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-11-18T19:16:02.950297+00:00"
+  },
+  {
+   "id": "9df76955d6a92ede",
+   "title": "Democrats nominate Hakeem Jeffries as first Black House speaker despite progressives\u2019 concerns",
+   "url": "https://www.theguardian.com/us-news/2026/nov/18/hakeem-jeffries-house-speaker-nomination",
+   "summary": "Jeffries is set to become one of Trump\u2019s most prominent opponents for final two years of his presidencyUS politics live \u2013 latest updatesDemocrats on Wednesday resoundingly nominated Hakeem Jeffries to serve as speaker of the House when the new Congress begins next year, teeing him up to become the first Black lawmaker to lead the chamber.A New York congressman who has served as the Democratic minority leader since 2023, Jeffries is set to become one of Donald Trump\u2019s most prominent opponents for the final two years of his presidency, when Democrats will control both the Senate and House of Rep",
+   "published": "2026-11-18T17:24:01+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-11-18T19:16:02.950302+00:00"
+  },
   {
    "id": "e44de7fb34241b4d",
    "title": "Trump plans to meet separately with Putin on his China trip in addition to their 3-way talks with Xi",
@@ -122,6 +276,17 @@
    "source_id": "npr-politics",
    "bias_note": "center",
    "first_seen": "2026-11-18T17:18:12.916907+00:00"
+  },
+  {
+   "id": "d9786f78b61af405",
+   "title": "WATCH: Mullin defends Trump administration's messaging on spate of outages, flight to football game during ground stop",
+   "url": "https://www.pbs.org/newshour/politics/watch-live-dhs-secretary-mullin-testifies-on-worldwide-threats-amid-tech-outages-iran-warnings",
+   "summary": "The hearing in front of the House Homeland Security Committee is a standard yearly opportunity for members of Congress to grill top administration officials over national security threats. But it comes as the U.S. has faced a series of cyber and technology problems that have left Americans feeling vulnerable.",
+   "published": "2026-11-18T14:56:22+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-11-18T19:16:04.737545+00:00"
   },
   {
    "id": "476ea6d9fca95f78",
@@ -9648,237 +9813,6 @@
    "source_id": "pbs-politics",
    "bias_note": "center",
    "first_seen": "2026-11-04T23:44:02.800326+00:00"
-  },
-  {
-   "id": "383286176d57d448",
-   "title": "World leaders who sparred with Trump express mix of relief, caution at GOP election rout",
-   "url": "https://www.pbs.org/newshour/world/world-leaders-who-sparred-with-trump-express-mix-of-relief-caution-at-gop-election-rout",
-   "summary": "British Prime Minister Andy Burnham expressed hope the election results would focus minds in Washington and other capitals on ending the Iran war, which has sent fuel prices soaring \u2014 a major source of frustration for voters.",
-   "published": "2026-11-04T18:53:24+00:00",
-   "source": "PBS NewsHour Politics",
-   "source_id": "pbs-politics",
-   "bias_note": "center",
-   "first_seen": "2026-11-04T23:44:02.800332+00:00"
-  },
-  {
-   "id": "3140623d004f4194",
-   "title": "Both sides of the Atlantic sense more hope: voters are drawn to the \u2018politics of love\u2019 | Alexander Hurst",
-   "url": "https://www.theguardian.com/commentisfree/2026/nov/04/donald-trump-midterms-atlantic-hope-voters-democratic",
-   "summary": "Trump\u2019s rout could be part of a democratic spring that began in Hungary. But will it extend to the French elections next May?Hungary, Brazil, Serbia, and now the US. So far this year, when their hand has been held to the stove, voters have chosen what the Texas senator-elect James Talarico, the new face of the US\u2019s Christian left, campaigned on as a \u201cpolitics of love\u201d: a society where we aren\u2019t at each other\u2019s throats, or a police state at ours.Is it any surprise that when there is clarity about the choice on offer, voters have started to shrink away from a vision fuelled by billionaire wealth",
-   "published": "2026-11-04T18:35:18+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-11-04T23:44:01.152912+00:00"
-  },
-  {
-   "id": "cef854b4ea47c8b7",
-   "title": "The Guardian view on the US midterms: joy for Democrats, a rout for Republicans and a reprieve for democracy | Editorial",
-   "url": "https://www.theguardian.com/commentisfree/2026/nov/04/the-guardian-view-on-the-us-midterms-joy-for-democrats-a-rout-for-republicans-and-a-reprieve-for-democracy",
-   "summary": "Voters have delivered a damning verdict on Donald Trump\u2019s presidency with this Congressional landslideBitter experience made Democrats wary of believing that the blue wave predicted by polls would materialise. What arrived was not just victory but a rout: control of Congress and a Republican wipeout. It was an astounding humiliation for a president whose political brand is power. Donald Trump won it back in 2024 by promising voters lower prices and no foreign wars. He lost it by launching an illegal conflict that hit&nbsp;them in the pocket and imposing hefty tariffs too.&nbsp;He urged voters ",
-   "published": "2026-11-04T18:31:13+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-11-04T23:44:01.152917+00:00"
-  },
-  {
-   "id": "e9ab4f861a09b847",
-   "title": "Trump 'couldn't transfer the love' of his supporters to other Republicans amid historic midterm loss",
-   "url": "https://www.foxnews.com/politics/trump-couldnt-transfer-love-supporters-other-republicans-amid-historic-midterm-loss",
-   "summary": "Donald Trump said he &quot;couldn&apos;t transfer the love&quot; from his rally supporters to Republican candidates after Democrats swept the midterm elections.",
-   "published": "2026-11-04T18:30:39+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-11-04T23:44:00.099005+00:00"
-  },
-  {
-   "id": "85ba787c80e0dff5",
-   "title": "Majority Leader Thune says Senate GOP won't 'stand idly by' as Democrats take control of Congress",
-   "url": "https://www.foxnews.com/politics/majority-leader-thune-says-senate-gop-wont-stand-idly-by-democrats-take-control-congress",
-   "summary": "In the face of an electoral rout, Senate Majority Leader John Thune declared that Senate Republicans will work with President Donald Trump against &quot;Democrat extremism.&quot;",
-   "published": "2026-11-04T18:29:00+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-11-04T23:44:00.099009+00:00"
-  },
-  {
-   "id": "b3f7e8107576857a",
-   "title": "Under-the-radar implication of Dem blue wave means 'zero' chance GOP accomplishes critical goal, experts warn",
-   "url": "https://www.foxnews.com/politics/under-the-radar-implication-dem-blue-wave-means-zero-chance-gop-accomplishes-critical-goal-experts-warn",
-   "summary": "Ron DeSantis warns that Tuesday&apos;s Senate losses effectively end Trump&apos;s chances of replacing Clarence Thomas and Samuel Alito with conservatives.",
-   "published": "2026-11-04T18:21:27+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-11-04T23:44:00.099025+00:00"
-  },
-  {
-   "id": "7e02f2d53ebdb69d",
-   "title": "Live updates: Trump blames Iran war for midterm loss while touting ballroom construction",
-   "url": "https://thehill.com/homenews/campaign/6188142-live-updates-trump-democrats-congress-control/",
-   "summary": "In his first public appearance since Republicans lost big in the midterms, President Trump showed off the construction of the White House ballroom. \"It's for the country, and it's free,\" he said.\u00a0 Trump also told reporters that the Iran war was the \"primary reason\" for the GOP's losses. Hours earlier, Vice President Vance said in...",
-   "published": "2026-11-04T18:20:36+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-11-04T18:30:02.125323+00:00"
-  },
-  {
-   "id": "e9daaa1b3bb3c5c6",
-   "title": "Sticker company CEO wins Stefanik\u2019s New York House seat",
-   "url": "https://thehill.com/homenews/campaign/6182984-constantino-wins-new-york-house-race/",
-   "summary": "Sticker company CEO Anthony Constantino (R) is projected to win Rep. Elise Stefanik\u2019s (R-N.Y.) open House seat, according to Decision Desk HQ (DDHQ), The Hill\u2019s partner.  Constantino, who was endorsed by President Trump, defeated Democrat Blake Gendebien and independent Christopher Schmidt in the race to represent the Empire State\u2019s 21st District. Republicans were likely to...",
-   "published": "2026-11-04T18:13:40+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-11-04T18:30:02.125347+00:00"
-  },
-  {
-   "id": "125ba61af1ec03db",
-   "title": "GOP's midterm defeat sparks bold claims from foreign leaders who've clashed with Trump",
-   "url": "https://www.foxnews.com/politics/gops-midterm-defeat-sparks-bold-claims-from-foreign-leaders-whove-clashed-trump",
-   "summary": "Pedro S\u00e1nchez says Americans voted against hate and climate denial as European leaders react to the Democratic Party&apos;s 2026 midterm victories.",
-   "published": "2026-11-04T18:11:14+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-11-04T23:44:00.099031+00:00"
-  },
-  {
-   "id": "ff2047cf2a54df2b",
-   "title": "Republicans annihilated in midterms: Anti-war MAGA was right",
-   "url": "https://thehill.com/opinion/robbys-radar/6198584-democrats-annihilate-gop-midterms/",
-   "summary": "When you break a promise, your voters punish you.",
-   "published": "2026-11-04T18:03:53+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-11-04T18:30:02.125350+00:00"
-  },
-  {
-   "id": "6f17732e22d92c39",
-   "title": "US midterm elections 2026 live updates: Trump ignores midterms in first remarks after stunning Republican losses; Vance blames Iran war",
-   "url": "https://www.theguardian.com/us-news/live/2026/nov/04/midterm-elections-results-senate-house-michigan-maine-mississippi-latest-updates",
-   "summary": "Instead, Trump focused on his ballroom, new helipad on White House lawn and various \u2018beautification\u2019 projects around Washington DCTrack live results from all 50 statesFull report: Democrats win control of CongressTell us: how do you feel about the midterm results?Wall Street surged at the open, after Democrats scored historic victories in midterm elections and secured control of US Congress.The Dow Jones rose 2%, while the tech-heavy Nasdaq and the benchmark S&amp;P 500 both gained more than 1%. That\u2019s quite a reversal: Overnight, stock futures fell sharply as investors worried about the prosp",
-   "published": "2026-11-04T18:01:35+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-11-04T18:30:00.730156+00:00"
-  },
-  {
-   "id": "1d03686609e4a0d0",
-   "title": "Amid the Trump wreckage, the free press survives",
-   "url": "https://thehill.com/opinion/white-house/6198299-trump-press-freedom-battle/",
-   "summary": "The American free press will survive now and for decades to come.",
-   "published": "2026-11-04T18:00:00+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-11-04T18:01:45.966690+00:00"
-  },
-  {
-   "id": "ec45bddfc63c1b35",
-   "title": "House Dem who defied Hakeem Jeffries scores upset win in pro-Trump district",
-   "url": "https://www.foxnews.com/politics/house-dem-who-defied-hakeem-jeffries-scores-upset-win-pro-trump-district",
-   "summary": "Marie Gluesenkamp Perez ran a heated race against John Braun in a district Donald Trump carried in 2024.",
-   "published": "2026-11-04T17:59:34+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-11-04T23:44:00.099044+00:00"
-  },
-  {
-   "id": "b4e5494978f0b78b",
-   "title": "Watch live: Trump speaks from White House ballroom construction site",
-   "url": "https://thehill.com/video-clips/6198474-watch-live-trump-speaks-from-white-house-ballroom-construction-site/",
-   "summary": "President Trump speaks after Election Day.",
-   "published": "2026-11-04T17:48:21+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-11-04T18:01:45.966730+00:00"
-  },
-  {
-   "id": "d8bd05dd69639aa7",
-   "title": "It's too close to call in these Senate, House races",
-   "url": "https://thehill.com/newsletters/1230-report/6198384-its-too-close-to-call-in-these-senate-house-races/",
-   "summary": "Plus: \ud83c\udfe0Johnson triggers leadership fight {beacon} It\u2019s Wednesday. We tried to sleep, briefly. Wow, did Election Day fly by.  &#8202; In today's issue: The blue wave hits hard Awaiting Mississippi, Alaska results Undecided House races Johnson won't run for minority leader Trump, Vance react to drubbing First College Football Playoff rankings Programming note: We're Joshua Feldstein and Julia...",
-   "published": "2026-11-04T17:39:35+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-11-04T18:01:45.966745+00:00"
-  },
-  {
-   "id": "dbe78ce98f3f1619",
-   "title": "Back in the majority, Democrats have plans for a long list of Trump investigations",
-   "url": "https://www.npr.org/2026/11/04/g-s1-150276/2026-midterms-democrats-investigations",
-   "summary": "Democrats will have the ability to subpoena records and compel individuals to testify. The Epstein files, Elon Musk, the Iran war and Trump's business interests may all come under the microscope.",
-   "published": "2026-11-04T17:38:36+00:00",
-   "source": "NPR Politics",
-   "source_id": "npr-politics",
-   "bias_note": "center",
-   "first_seen": "2026-11-04T18:01:45.528469+00:00"
-  },
-  {
-   "id": "744823df83702109",
-   "title": "Democratic socialist wins DC mayor's office",
-   "url": "https://thehill.com/homenews/campaign/6173395-lewis-george-wins-washington-dc-mayoral-election/",
-   "summary": "Democratic socialist Janeese Lewis George was projected to win the race for mayor of Washington and lead the nation\u2019s capital through the end of President Trump\u2019s second term, according to Decision Desk HQ.\u00a0 Retiring Mayor Muriel Bowser (D) has led the city for a decade, tangling with the Trump administration over crime, public safety and...",
-   "published": "2026-11-04T17:37:10+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-11-04T18:01:45.966757+00:00"
-  },
-  {
-   "id": "27ecc9e01109d8dd",
-   "title": "These Democrats are set to take foreign policy reins in Congress",
-   "url": "https://thehill.com/policy/international/6198389-democrats-foreign-policy-power-congress/",
-   "summary": "Tuesday\u2019s seismic midterm results hands Democrats significant powers to investigate the Trump administration\u2019s world dealings and check the president\u2019s intervention abroad.  The Democrats likely to move into top posts on the foreign policy panels and appropriations committees are seasoned legislators with deep international experience.  Democrats have slammed President Trump\u2019s attacks on U.S. allies and gutting...",
-   "published": "2026-11-04T17:36:59+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-11-04T18:01:45.966761+00:00"
-  },
-  {
-   "id": "0fd562b21f6c002d",
-   "title": "Iranian leaders say midterm results show U.S. voters have rejected Trump's war",
-   "url": "https://www.pbs.org/newshour/world/iranian-leaders-say-midterm-results-show-u-s-voters-have-rejected-trumps-war",
-   "summary": "Concerns about the war, particularly frustration over rising prices for fuel and other goods in the U.S., helped Democrats win control of both chambers of Congress in Tuesday's vote, a sharp setback for President Donald Trump and his Republican Party.",
-   "published": "2026-11-04T17:36:11+00:00",
-   "source": "PBS NewsHour Politics",
-   "source_id": "pbs-politics",
-   "bias_note": "center",
-   "first_seen": "2026-11-04T18:01:46.176023+00:00"
-  },
-  {
-   "id": "46788e90ff31b035",
-   "title": "Democrats\u2019 triumph deals devastating blow to Trump - The Latest",
-   "url": "https://www.theguardian.com/news/audio/2026/nov/04/democrats-triumph-deals-devastating-blow-to-trump-the-latest",
-   "summary": "Democrats have won a historic sweep in the US midterm elections, winning back control of Congress in a major setback for Donald Trump. Senate seats went blue in traditional Republican strongholds such as Texas, South Carolina and Kansas, where the Democrats had their first win since 1932. Voters have sent a strong message of discontent to the Trump administration over the economy, the cost of living and rising gas prices. Trump is now a lame-duck president for the rest of his term. Lucy Hough speaks to our Washington editor, Ankita Rao \u2013 watch on YouTube Continue reading...",
-   "published": "2026-11-04T17:31:51+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-11-04T18:01:45.718186+00:00"
-  },
-  {
-   "id": "f186923eb6ac4825",
-   "title": "Pollsters missed the mark again \u2014 but this time, it wasn't Republicans they underestimated",
-   "url": "https://www.foxnews.com/politics/pollsters-missed-mark-again-but-this-time-wasnt-republicans-they-underestimated",
-   "summary": "Trump and Republicans claimed midterm polls were rigged against the GOP, but pollsters say it was Democrats who were significantly undercounted.",
-   "published": "2026-11-04T17:26:44+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-11-04T23:44:00.099078+00:00"
   }
  ]
 }
