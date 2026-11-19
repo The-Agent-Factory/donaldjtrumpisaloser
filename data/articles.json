@@ -1,7 +1,172 @@
 {
- "updated": "2026-11-19T00:27:51.700108+00:00",
- "count": 882,
+ "updated": "2026-11-19T10:26:35.711256+00:00",
+ "count": 885,
  "articles": [
+  {
+   "id": "4b52112310c45ee0",
+   "title": "Supreme Court urged to defang \u2018criminal trap\u2019 that has sent Trump officials to prison",
+   "url": "https://www.foxnews.com/politics/supreme-court-urged-defang-criminal-trap-sent-trump-officials-prison",
+   "summary": "Peter Navarro asks the Supreme Court to overturn his contempt of Congress convictions, arguing willfulness could make such prosecutions harder to prove.",
+   "published": "2026-11-19T10:00:50+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-11-19T10:26:34.471672+00:00"
+  },
+  {
+   "id": "1d005fbcaa3155ee",
+   "title": "Elected Somali daycare owner with fraud ties now revealed to also be married to illegal immigrant",
+   "url": "https://www.foxnews.com/politics/elected-somali-daycare-owner-fraud-ties-revealed-married-illegal-immigrant",
+   "summary": "Fox News Digital confirmed Minnesota DFL Rep. Abdi Daisane&apos;s wife, Ayaan Aydid, is in the U.S. illegally after crossing the southern border in 2023.",
+   "published": "2026-11-19T10:00:22+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-11-19T10:26:34.471685+00:00"
+  },
+  {
+   "id": "44ba0f1d83e178ea",
+   "title": "4 essential lessons we learned from the government\u2019s dangerous war on \u2018disinformation\u2019",
+   "url": "https://www.foxnews.com/opinion/4-essential-lessons-learned-government-dangerous-war-disinformation",
+   "summary": "The White House once pressed platforms to curb speech; Trump&apos;s executive order reversed it, but new report warns oversight gaps could allow a repeat.",
+   "published": "2026-11-19T10:00:09+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-11-19T10:26:34.490506+00:00"
+  },
+  {
+   "id": "f51d572214befb91",
+   "title": "This Counselor Faces Trial for Sexually Abusing 15 Students. California Has Been Warned About Him for Years.",
+   "url": "https://www.propublica.org/article/california-educator-licenses-sexual-abuse-criminal-charges",
+   "summary": "The post This Counselor Faces Trial for Sexually Abusing 15 Students. California Has Been Warned About Him for Years. appeared first on ProPublica.",
+   "published": "2026-11-19T10:00:00+00:00",
+   "source": "ProPublica",
+   "source_id": "propublica",
+   "bias_note": "investigative",
+   "first_seen": "2026-11-19T10:26:35.356927+00:00"
+  },
+  {
+   "id": "fede7ce46f386a34",
+   "title": "Trump's China trip: Historic Xi-Putin talks, 'superintelligence' boast and other top moments",
+   "url": "https://www.foxnews.com/politics/trumps-china-trip-historic-xi-putin-talks-superintelligence-boast-other-top-moments",
+   "summary": "President Donald Trump declared the US the world leader in &quot;superintelligence&quot; at the APEC summit in Shenzhen, staking a tech claim amid the AI rivalry.",
+   "published": "2026-11-19T09:12:39+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-11-19T10:26:34.471688+00:00"
+  },
+  {
+   "id": "f65396026b0fbe61",
+   "title": "Is Donald Trump beyond caricature? Not at all \u2013 here\u2019s his hilarious origin story",
+   "url": "https://www.theguardian.com/stage/2026/nov/19/donald-review-trump-ustinov-studio-bath",
+   "summary": "Ustinov Studio, Bath Elliot Cowan is scarily convincing as the budding Potus in Donald, a high-speed, three-actor comedy from the playwright behind The Lehman TrilogyHis manner and actions often seeming like improbable caricature, the current US president sets a challenge for satire, any comic exaggeration likely to be trumped by reality. Mike Bartlett\u2019s play The 47th (2022), staged between Trump\u2019s administrations, pursued wild fantasies about the politician\u2019s future career that were soon superseded by odder events. Ali Abbasi\u2019s movie The Apprentice (2024) more sensibly focused on the period f",
+   "published": "2026-11-19T09:00:22+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-11-19T10:26:34.896784+00:00"
+  },
+  {
+   "id": "c189a49335f5d24e",
+   "title": "Trump's massive DC triumphal arch project dealt another blow by federal judge",
+   "url": "https://www.foxnews.com/politics/trumps-massive-dc-triumphal-arch-project-dealt-another-blow-federal-judge",
+   "summary": "A federal judge extended her order blocking construction of President Donald Trump&apos;s triumphal arch in Washington, D.C., putting the project on hold until at least Dec. 3.",
+   "published": "2026-11-19T08:00:30+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-11-19T10:26:34.471692+00:00"
+  },
+  {
+   "id": "c3e5d012328378d6",
+   "title": "Trump says people stockpiling food, water amid outages should 'relax'",
+   "url": "https://thehill.com/homenews/administration/6229375-trump-downplays-outage-concerns/",
+   "summary": "President Trump on Wednesday said that Americans purchasing and stockpiling canned food and water in response to the recent series of major outages should all \"relax\" and that \"everything's good.\" Trump downplayed concerns over these outages in an interview with Fox News's Jacqui Heinrich in Shenzen, China, saying that they were all \"individual events. She...",
+   "published": "2026-11-19T04:04:29+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-11-19T10:26:35.015635+00:00"
+  },
+  {
+   "id": "5a96471eb72bb997",
+   "title": "'The View' co-host Whoopi Goldberg demands Dems impeach RFK Jr, 'get his a-- out of there'",
+   "url": "https://www.foxnews.com/media/the-view-co-host-whoopi-goldberg-demands-dems-impeach-rfk-jr-get-his-a-out-there",
+   "summary": "&quot;The View&quot; co-host Whoopi Goldberg demanded Congress impeach HHS Secretary Robert F. Kennedy Jr. after the U.S. lost its measles elimination status Tuesday.",
+   "published": "2026-11-19T03:00:58+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-11-19T10:26:34.490560+00:00"
+  },
+  {
+   "id": "2e12304c6a478982",
+   "title": "President Trump downplays panic over tech outages: \u2018Nobody\u2019s going to play games with us\u2019",
+   "url": "https://www.foxnews.com/media/president-trump-downplays-panic-tech-outages-nobody-going-play-games-us",
+   "summary": "President Donald Trump urged Americans to &quot;relax&quot; over FAA and Microsoft outages, warning any country that targeted U.S. systems would be hit hard.",
+   "published": "2026-11-19T02:22:49+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-11-19T10:26:34.490570+00:00"
+  },
+  {
+   "id": "a0bdfdd9ebd57ddf",
+   "title": "Trump says 'we'll wipe them out' if Iran dirty bombs US",
+   "url": "https://thehill.com/homenews/administration/6229265-trump-says-well-wipe-them-out-if-iran-dirty-bombs-us/",
+   "summary": "President Trump on Wednesday renewed his threat to annihilate Iran if it goes forward with its reported threat to launch a dirty bomb on U.S. soil. Fox News's Jacqui Heinrich asked Trump while in Shenzen, China, for the Asia-Pacific Economic Cooperation (APEC) summit if Washington, D.C., residents should worry about Iran launching a dirty bomb...",
+   "published": "2026-11-19T01:59:54+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-11-19T10:26:35.015671+00:00"
+  },
+  {
+   "id": "dc8971aae4da6e37",
+   "title": "Elon Musk claims \u2018I\u2019m not Maga\u2019 and says he regrets vast sums to back Republicans",
+   "url": "https://www.theguardian.com/us-news/2026/nov/18/elon-musk-maga-trump",
+   "summary": "Musk, who aligned with Trump and was frequent White House guest, says he feels \u2018pretty foolish\u2019 about record midterm spendingElon Musk denied being Maga on Wednesday, despite aligning himself intensely with Donald Trump\u2019s Make America Great Again movement since 2024.\u201cI\u2019m not Maga,\u201d the world\u2019s richest person told the New York Times Dealbook summit, which he attended via video call from China, where he is one of several US business leaders who have accompanied Trump on his trip to Asia. Continue reading...",
+   "published": "2026-11-19T01:07:51+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-11-19T10:26:34.896831+00:00"
+  },
+  {
+   "id": "1f58f5893ca5972d",
+   "title": "Obama-era homeless policy fueled crisis it promised to end, expert says as Trump admin makes striking reversal",
+   "url": "https://www.foxnews.com/us/obama-era-homeless-policy-fueled-crisis-promised-end-expert-says-trump-admin-makes-striking-reversal",
+   "summary": "Homeless services veteran Michele Steeb says LA\u2019s funding cutoff offers a chance to restore accountability after years of alleged mismanagement.",
+   "published": "2026-11-19T01:02:11+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-11-19T10:26:34.490616+00:00"
+  },
+  {
+   "id": "7fe29be2301807e8",
+   "title": "DOJ charges Russian national with spying on workers for 'large' defense tech company",
+   "url": "https://thehill.com/policy/technology/6229202-russian-spied-on-palantir-employees/",
+   "summary": "Federal prosecutors charged a Russian national with secretly working for Moscow to conduct illegal surveillance of employees at a major defense technology company over Ukraine\u2019s use of its technology in the war against Russia, the Justice Department announced Wednesday. Igor D\u2019iu, who was arrested Oct. 30, allegedly followed workers, tracked down their home addresses and...",
+   "published": "2026-11-19T00:32:36+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-11-19T10:26:35.015696+00:00"
+  },
+  {
+   "id": "181c86d86c9deaf6",
+   "title": "Cornyn blocks Trump's nomination to federal district court because he didn't choose a Texan",
+   "url": "https://thehill.com/homenews/senate/6229094-cornyn-blocks-non-texan-judge/",
+   "summary": "Sen. John Cornyn (R-Texas) on Wednesday blocked President Trump's judicial nominee T. Elliot Gaiser from being confirmed for a seat on the U.S. District Court in the Northern District of Texas because the nominee is not from Texas. Cornyn, the outgoing senator to be succeeded by Sen.-elect James Talarico (D-Texas), did not submit a blue...",
+   "published": "2026-11-19T00:26:46+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-11-19T10:26:35.015699+00:00"
+  },
   {
    "id": "c071c81ecb7f28dd",
    "title": "Xi, Putin \u2018not our friends\u2019 Republicans warn Trump ahead of trilateral",
@@ -91,6 +256,28 @@
    "first_seen": "2026-11-19T00:27:50.927719+00:00"
   },
   {
+   "id": "b3e1fce00abe9640",
+   "title": "The law releasing the Epstein files passed one year ago. What do his victims say?",
+   "url": "https://www.npr.org/2026/11/18/nx-s1-6041708/the-law-releasing-the-epstein-files-passed-one-year-ago-what-do-his-victims-say",
+   "summary": "It's been a year since the House passed the Epstein Files Transparency Act, forcing the Justice Department to release millions of files connected to the convicted sex offender. His victims speak out.",
+   "published": "2026-11-18T22:27:43+00:00",
+   "source": "NPR Politics",
+   "source_id": "npr-politics",
+   "bias_note": "center",
+   "first_seen": "2026-11-19T10:26:34.820607+00:00"
+  },
+  {
+   "id": "d17f196e1d10656e",
+   "title": "Why the Nvidia scandal is a national security issue",
+   "url": "https://www.npr.org/2026/11/18/nx-s1-6044275/why-the-nvidia-scandal-is-a-national-security-issue",
+   "summary": "The Nvidia scandal has spilled over into the Trump administration, which is now under intense scrutiny for how it allowed America's top AI chips to end up in China's hands.",
+   "published": "2026-11-18T22:12:56+00:00",
+   "source": "NPR Politics",
+   "source_id": "npr-politics",
+   "bias_note": "center",
+   "first_seen": "2026-11-19T10:26:34.820618+00:00"
+  },
+  {
    "id": "89fee08bf25ecaa4",
    "title": "Federal judge extends block on Trump arch construction",
    "url": "https://thehill.com/regulation/court-battles/6228830-trump-arch-construction-halted-december/",
@@ -100,6 +287,17 @@
    "source_id": "thehill",
    "bias_note": "center",
    "first_seen": "2026-11-19T00:27:50.927722+00:00"
+  },
+  {
+   "id": "acf120fffe64ed56",
+   "title": "Democrats nominate Jeffries for speaker, prep investigations into Trump's orbit",
+   "url": "https://www.npr.org/2026/11/18/nx-s1-6043185/democrats-nominate-jeffries-for-speaker-prep-investigations-into-trumps-orbit",
+   "summary": "Democrats gave the official nod to Hakeem Jeffries to be the next speaker of the House. Meanwhile, Democrats are ramping up their plans to investigate the Trump administration come January.",
+   "published": "2026-11-18T22:01:19+00:00",
+   "source": "NPR Politics",
+   "source_id": "npr-politics",
+   "bias_note": "center",
+   "first_seen": "2026-11-19T10:26:34.820624+00:00"
   },
   {
    "id": "6919484a5177d745",
@@ -9538,171 +9736,6 @@
    "source_id": "propublica",
    "bias_note": "investigative",
    "first_seen": "2026-11-05T16:30:18.144231+00:00"
-  },
-  {
-   "id": "668fbc4b29b4e8c0",
-   "title": "Kamala Harris urges Dems to 'be ruthless' with power after midterms, demands Trump accountability",
-   "url": "https://www.foxnews.com/politics/kamala-harris-democrats-trump-accountability-midterms",
-   "summary": "Former Vice President Kamala Harris, former Secretary of State Hillary Clinton and former President Bill Clinton offered their thoughts on the heels of the midterm elections.",
-   "published": "2026-11-05T10:10:32+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-11-05T16:30:17.403412+00:00"
-  },
-  {
-   "id": "136e8caae5edb738",
-   "title": "Trump's arch is on the verge of federal approval. But a judge could block construction",
-   "url": "https://www.npr.org/2026/11/05/nx-s1-6027301/trump-arch-federal-approval-judge-construction",
-   "summary": "A federal panel will meet to consider the arch for final approval on Thursday, and the government said it may begin construction later that same day. Critics hope a judge will intervene last-minute.",
-   "published": "2026-11-05T10:02:00+00:00",
-   "source": "NPR Politics",
-   "source_id": "npr-politics",
-   "bias_note": "center",
-   "first_seen": "2026-11-05T16:30:17.602289+00:00"
-  },
-  {
-   "id": "0f1d13caf8379391",
-   "title": "SafeSport Will Now Alert Schools, Clubs if Coaches Sanctioned for Abuse Continue to Work With Kids",
-   "url": "https://www.propublica.org/article/safesport-child-abuse-notification-system-impact",
-   "summary": "The post SafeSport Will Now Alert Schools, Clubs if Coaches Sanctioned for Abuse Continue to Work With Kids appeared first on ProPublica.",
-   "published": "2026-11-05T10:00:00+00:00",
-   "source": "ProPublica",
-   "source_id": "propublica",
-   "bias_note": "investigative",
-   "first_seen": "2026-11-05T16:30:18.144237+00:00"
-  },
-  {
-   "id": "b75b84417e541629",
-   "title": "Democrats will control Congress. Will it change Trump's approach to foreign policy?",
-   "url": "https://www.npr.org/2026/11/05/nx-s1-6028977/democrats-will-control-congress-will-it-change-trumps-approach-to-foreign-policy",
-   "summary": "NPR's Leila Fadel speaks with historian and journalist Anne Applebaum about how much a Democrat-led Congress can steer foreign policy.",
-   "published": "2026-11-05T09:50:34+00:00",
-   "source": "NPR Politics",
-   "source_id": "npr-politics",
-   "bias_note": "center",
-   "first_seen": "2026-11-05T16:30:17.602298+00:00"
-  },
-  {
-   "id": "e7cf6b3860c2a557",
-   "title": "Morning news brief",
-   "url": "https://www.npr.org/2026/11/05/nx-s1-6023116/morning-news-brief",
-   "summary": "Democrats are planning out how to tackle their agenda in the new year, ballots are still being counted in some undecided races, Trump avoids taking the blame after GOP midterm losses.",
-   "published": "2026-11-05T09:47:05+00:00",
-   "source": "NPR Politics",
-   "source_id": "npr-politics",
-   "bias_note": "center",
-   "first_seen": "2026-11-05T16:30:17.602301+00:00"
-  },
-  {
-   "id": "5a42f41d6abe3836",
-   "title": "Democrats and Republicans reflect on midterm results and the message sent by voters",
-   "url": "https://www.npr.org/2026/11/05/nx-s1-6029732/democrats-and-republicans-reflect-on-midterm-results-and-the-message-sent-by-voters",
-   "summary": "The 2026 election proved to be very good for Democrats and very bad for President Trump and Republicans. But there are still races outstanding that can tell us what mattered to voters this year.",
-   "published": "2026-11-05T09:46:11+00:00",
-   "source": "NPR Politics",
-   "source_id": "npr-politics",
-   "bias_note": "center",
-   "first_seen": "2026-11-05T16:30:17.602308+00:00"
-  },
-  {
-   "id": "a1b1563254f796b8",
-   "title": "Trump blames GOP candidates and Fox News for midterm losses",
-   "url": "https://www.npr.org/2026/11/05/nx-s1-6028845/trump-blames-gop-candidates-and-fox-news-for-midterm-losses",
-   "summary": "President Trump has blamed GOP candidates and Fox News in the wake of the sweeping Democratic sweep during the midterm elections.",
-   "published": "2026-11-05T09:45:40+00:00",
-   "source": "NPR Politics",
-   "source_id": "npr-politics",
-   "bias_note": "center",
-   "first_seen": "2026-11-05T16:30:17.602311+00:00"
-  },
-  {
-   "id": "4545e3ae88c5cf62",
-   "title": "Republicans turn on Trump after devastating midterm losses hand Democrats control of Congress",
-   "url": "https://www.foxnews.com/politics/republicans-turn-trump-after-devastating-midterm-losses-hand-democrats-control-congress",
-   "summary": "GOP insiders blame Trump after Election Night&apos;s blue tsunami flipped both chambers, with Democrats scoring seven Senate and 27 House pickups.",
-   "published": "2026-11-05T09:00:05+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-11-05T16:30:17.403415+00:00"
-  },
-  {
-   "id": "b2d385c02ab5ba3e",
-   "title": "US midterm elections 2026 live: Democrats eye historic upset in Mississippi Senate race as Republican blame game begins",
-   "url": "https://www.theguardian.com/us-news/live/2026/nov/05/midterm-elections-live-latest-updates-mississippi-senate-race",
-   "summary": "Democrat Scott Colom is leading Republican incumbent Cindy Hyde-Smith in the southern state; JD Vance pointed to the war in Iran as the \u2018obvious\u2019 culprit for Republicans\u2019 lossLive results | How do you feel about the results?Sign up for Breaking News US emailAnalysis: Is this the beginning of the end for Trump?Democrat Connie Chan has conceded in the race to fill Nancy Pelosi\u2019s vacant seat in the House of Representatives. Chan, Pelosi\u2019s preferred candidate in the race, congratulated fellow Democrat Scott Wiener. The Associated Press is yet to call the California race, but in a statement posted ",
-   "published": "2026-11-05T06:14:12+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-11-05T06:55:48.925418+00:00"
-  },
-  {
-   "id": "73a24d496389f8f4",
-   "title": "Will Democrats\u2019 midterms triumph put wind back in sails of the renewables sector?",
-   "url": "https://www.theguardian.com/business/2026/nov/05/democrats-midterms-triumph-renewable-energy-industry-donald-trump",
-   "summary": "Future brightens for US developers in particular after election when voters rejected Trump\u2019s war on clean energyAfter years as collateral damage in Donald Trump\u2019s war on climate action, the Democrats\u2019 sweeping triumph in the US midterm elections has emerged as a victory for the global renewable energy industry too.Across the world\u2019s financial centres the market value of renewable energy developers climbed as the election results confirmed the Republicans had lost control of the Senate and House of Representatives. Continue reading...",
-   "published": "2026-11-05T06:00:55+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-11-05T06:55:48.925427+00:00"
-  },
-  {
-   "id": "5d889a6997c561ce",
-   "title": "Zelensky speaks with US envoys ahead of trilateral talks",
-   "url": "https://thehill.com/policy/international/6200015-zelensky-witkoff-kushner-talks/",
-   "summary": "Ukrainian President Volodymyr Zelensky on Wednesday said he spoke with U.S. special envoy Steve Witkoff and Jared Kushner, President Trump's son-in-law, ahead of trilateral talks with his country, the U.S. and Russia. Zelensky said the three spoke for 90 minutes in anticipation for the talks slated to be held Nov. 10-11. He said the meeting...",
-   "published": "2026-11-05T03:40:24+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-11-05T06:55:49.083325+00:00"
-  },
-  {
-   "id": "02adb7cc97c325c3",
-   "title": "Trump has been humbled. Now what? - podcast",
-   "url": "https://www.theguardian.com/news/audio/2026/nov/05/trump-has-been-humbled-now-what-podcast",
-   "summary": "Journalist Molly Ball reports from Washington DC after the Republicans\u2019 resounding midterms defeat. Will the party finally distance itself from Donald Trump? And what will the Democrats do with the power they\u2019ve just gained? Send your comments and questions to tif.questions@theguardian.comHow will Donald Trump react to the Republicans\u2019 midterm drubbing? And do the Democrats have a plan beyond being the anti-Trump party?The veteran political journalist Molly Ball talks through the ramifications of a historic set of midterm results as Trump oversaw a string of losses in red states from Kansas to",
-   "published": "2026-11-05T03:00:51+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-11-05T06:55:48.925451+00:00"
-  },
-  {
-   "id": "44eb9e52a769df00",
-   "title": "Trump urges Congress to pass daylight saving bill after 'ridiculous' early sunset",
-   "url": "https://thehill.com/homenews/administration/6199783-trump-calls-congress-daylight-saving/",
-   "summary": "President Trump on Wednesday called on Congress to pass the Sunshine Protection Act, which would make daylight saving time permanent, after the day's \"ridiculous\" early sunset. \"Too bad the Senate has not yet approved the Sunshine Protection Act or, the 'I Don\u2019t Want to Change My Clocks Anymore Act,'\" he wrote on Truth Social. \"It\u2019s...",
-   "published": "2026-11-05T02:48:08+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-11-05T06:55:49.083335+00:00"
-  },
-  {
-   "id": "536c75ac15737ad9",
-   "title": "Elon Musk\u2019s nearly half a billion dollars in midterms spending was a flop",
-   "url": "https://www.theguardian.com/technology/2026/nov/04/elon-musk-midterm-spending-analysis",
-   "summary": "The tech billionaire set spending record as he poured $446m into campaigns for failed Republican candidatesElon Musk set a record for election spending this year after pouring nearly half a billion dollars into backing Republicans in the US midterm elections. It turned out to be a poor investment.The SpaceX and Tesla CEO contributed at least $446m to Republican-aligned Super Pacs and groups over the course of the elections, specifically targeting several key Senate races in an effort to help the Trump administration retain Republican control of Congress. He outdid his own 2024 spending of near",
-   "published": "2026-11-05T02:00:50+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-11-05T06:55:48.925458+00:00"
-  },
-  {
-   "id": "b153aba875999655",
-   "title": "None of the House Republicans who voted to impeach Trump will be in the next Congress",
-   "url": "https://thehill.com/homenews/house/6199833-trump-impeachment-vote-republicans-exit/",
-   "summary": "None of the House Republicans who voted to impeach President Trump over the Jan. 6, 2021, attack on the Capitol will be in Congress after this year, following Tuesday\u2019s midterm elections. The last Republicans still in the House are outgoing Rep. David Valadao (Calif.), who was defeated by Democrat Randy Villegas on Tuesday, and Rep....",
-   "published": "2026-11-05T00:33:50+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-11-05T06:55:49.083417+00:00"
   }
  ]
 }
