@@ -1,7 +1,161 @@
 {
- "updated": "2026-11-19T19:23:44.681842+00:00",
- "count": 876,
+ "updated": "2026-11-19T20:43:38.354004+00:00",
+ "count": 886,
  "articles": [
+  {
+   "id": "291ca9708db27f20",
+   "title": "Trump ally Bill Essayli tapped to lead investigation of Biden officials over Mar-a-Lago raid",
+   "url": "https://www.foxnews.com/politics/trump-ally-bill-essayli-tapped-lead-investigation-biden-officials-mar-a-lago-raid",
+   "summary": "Bill Essayli will probe whether Biden officials broke the law in the FBI&apos;s 2022 raid on Donald Trump&apos;s Mar-a-Lago estate, which sparked Jack Smith&apos;s case.",
+   "published": "2026-11-19T20:21:11+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-11-19T20:43:37.770266+00:00"
+  },
+  {
+   "id": "0ba16db4a545eaa3",
+   "title": "Sanders pours cold water on 2028 White House bid",
+   "url": "https://thehill.com/homenews/campaign/6231265-sanders-rules-out-presidential-run/",
+   "summary": "Sen. Bernie Sanders (I-Vt.) has poured cold water on the idea of another run for the White House.\u00a0 \"I think probably not. I think taking office at 87 years of age and finishing my first term at 91 is not something that probably inspires a whole lot of people,\u201d Sanders told host Steven Bartlett on...",
+   "published": "2026-11-19T20:17:18+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-11-19T20:43:38.093372+00:00"
+  },
+  {
+   "id": "0120f91df5775c21",
+   "title": "Fact-checking Mullin's House hearing on FAA ground stop, outages and dirty bombs",
+   "url": "https://www.pbs.org/newshour/politics/fact-checking-mullins-house-hearing-on-faa-ground-stop-outages-and-dirty-bombs",
+   "summary": "Following a week of flight delays, website outages and the possibility of an Iranian dirty bomb attack, House lawmakers grilled top administration officials, including Homeland Security Secretary Markwayne Mullin, about threats to the United States.",
+   "published": "2026-11-19T20:12:55+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-11-19T20:43:38.127367+00:00"
+  },
+  {
+   "id": "f189424a13c8f692",
+   "title": "Trump says he doesn't need help from Russia, China to end Iran war",
+   "url": "https://thehill.com/homenews/administration/6231130-trump-china-russia-summit-iran-war/",
+   "summary": "President Trump on Wednesday said he does not need Russia and China's help to conclude the Iran war, before meeting with the leaders of both countries for an unprecedented summit in China the following day. \"Well, you know, we don't need any help,\" Trump told Fox News's Jacqui Heinrich while in Shenzhen, China. \"We've defeated...",
+   "published": "2026-11-19T20:07:42+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-11-19T20:43:38.093386+00:00"
+  },
+  {
+   "id": "e9a904bba11e18d4",
+   "title": "Trump\u2019s CISA pick rejects Jan. 6 as an 'attack,' won't name 2020 election winner",
+   "url": "https://abcnews.com/Politics/wireStory/trumps-cisa-pick-michael-losapio-rejects-jan-6-138299268",
+   "summary": "Michael LoSapio, President Donald Trump's nominee to lead the Cybersecurity and Infrastructure Security Agency, says he doesn't consider the Jan_ 6 Capitol insurrection an &quot;attack.&quot;",
+   "published": "2026-11-19T20:04:43+00:00",
+   "source": "ABC News Politics",
+   "source_id": "abc-politics",
+   "bias_note": "center",
+   "first_seen": "2026-11-19T20:43:38.215375+00:00"
+  },
+  {
+   "id": "561424b222afb987",
+   "title": "Live updates: Trump, Xi, Putin issue peace declaration; Democrats' Iran war powers resolution fails again",
+   "url": "https://thehill.com/homenews/administration/6229360-live-updates-trump-xi-putin-china-summit-crypto-alaska-tech-outages/",
+   "summary": "GOP senators again blocked a Democrat-backed resolution directing President Trump to withdraw U.S. troops from the conflict with Iran, despite the war contributing to Republicans' sweeping losses in November's midterms. Three Republicans voted with nearly the entire Senate Democratic caucus for the war powers resolution, which failed on a 48-51 vote after passing in the...",
+   "published": "2026-11-19T20:04:33+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-11-19T20:43:38.093389+00:00"
+  },
+  {
+   "id": "4ceff601e2330ba1",
+   "title": "John Cornyn blocks Trump judicial nominee after Senate shouting match with Ted Cruz",
+   "url": "https://www.theguardian.com/us-news/2026/nov/19/judge-t-elliot-gaiser-nomination-fight",
+   "summary": "Outgoing senator withheld \u2018blue slip\u2019 from T Elliot Gaiser, blocking his appointment to northern Texas district courtAn outgoing Republican senator blocked one of Donald Trump\u2019s judicial nominations on Wednesday, throwing a wrench in the party\u2019s plans to approve the US president\u2019s picks before Democrats take control of Congress.John Cornyn of Texas, who is leaving the US Senate after nearly 24 years following his primary loss to a Trump-backed challenger, told the Associated Press he would not support T Elliot Gaiser, a 37-year-old official in the justice department, to serve on a district cou",
+   "published": "2026-11-19T20:03:58+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-11-19T20:43:37.932162+00:00"
+  },
+  {
+   "id": "3672619cf5b499ef",
+   "title": "Hillary Clinton: Xi, Putin play Trump 'like a child's guitar'",
+   "url": "https://thehill.com/policy/international/6231312-clinton-trump-xi-putin/",
+   "summary": "Former Secretary of State Hillary Clinton said Chinese President Xi Jinping and Russian President Vladimir Putin play President Trump \u201clike a child\u2019s guitar.\u201d \u201cAll [Trump] cares about, the best I can tell, is looking like he belongs in the company of Xi Jinping and Vladimir Putin, both of whom he\u2019s going to meet with, together,\u201d...",
+   "published": "2026-11-19T19:57:32+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-11-19T20:43:38.093401+00:00"
+  },
+  {
+   "id": "ad714a7d4e8e8bfb",
+   "title": "DOJ, DHS launch hub to fight cyber crime",
+   "url": "https://thehill.com/homenews/administration/6231274-dhs-doj-cybercrime-hub/",
+   "summary": "The Department of Homeland Security (DHS) and the Department of Justice (DOJ) announced a new hub to combat online cyber crime Wednesday, specifically targeting criminal scams and sextortion schemes.\u00a0 The launch comes amid growing concern after a series of tech outages in recent days, though the government has insisted there is no indication cyberattacks were...",
+   "published": "2026-11-19T19:52:13+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-11-19T20:43:38.093406+00:00"
+  },
+  {
+   "id": "600935fef0e72518",
+   "title": "Dems, GOP rebels fail to rein in Trump's Iran war in Senate, but bigger battle looms",
+   "url": "https://www.foxnews.com/politics/dems-gop-rebels-fail-rein-trumps-iran-war-senate-bigger-battle-looms",
+   "summary": "Senate Democrats and rebel Republicans fail to pass a war powers resolution over Trump&apos;s Iran war, as Tim Kaine denies Republican shutdown threats.",
+   "published": "2026-11-19T19:51:40+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-11-19T20:43:37.770279+00:00"
+  },
+  {
+   "id": "eae827f38bfba050",
+   "title": "Senate Republicans reject war powers resolution to end Iran conflict",
+   "url": "https://thehill.com/homenews/senate/6231044-senate-republicans-war-powers-resolution-vote-fails/",
+   "summary": "Senate Republicans on Wednesday blocked a measure that would have directed President Trump to end hostilities in Iran. It\u2019s not the first time such a measure has come up for a vote in the Senate this year, but Democrats hoped for success after a midterm election that saw many voters support Democrats out of opposition...",
+   "published": "2026-11-19T19:50:45+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-11-19T20:43:38.093409+00:00"
+  },
+  {
+   "id": "b8547a4c9cf2f0a5",
+   "title": "Judges have put Trump's arch and golf course on hold, but only for a matter of days",
+   "url": "https://www.npr.org/2026/11/19/nx-s1-6047151/trump-arch-golf-course-judge-orders",
+   "summary": "A federal judge has twice delayed construction of Trump's arch. Another is keeping East Potomac Park open. The proposed golf course redesign got mixed feedback from a federal arts panel on Thursday.",
+   "published": "2026-11-19T19:46:27+00:00",
+   "source": "NPR Politics",
+   "source_id": "npr-politics",
+   "bias_note": "center",
+   "first_seen": "2026-11-19T20:43:37.909786+00:00"
+  },
+  {
+   "id": "ee58c7e862b8ddbd",
+   "title": "Pentagon has no department-wide plan to address munitions shortages, watchdog report finds",
+   "url": "https://thehill.com/policy/defense/6231155-pentagon-lacks-munitions-plan-gao/",
+   "summary": "Despite a munitions shortfall exacerbated by the Trump administration\u2019s war in Iran, the Pentagon does not have a department-wide plan to address the issue long-term, a federal watchdog said in a new report released Thursday. The Government Accountability Office (GAO) found that while the Defense Department has taken steps toward increasing its munitions inventory, it...",
+   "published": "2026-11-19T19:24:38+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-11-19T20:43:38.093423+00:00"
+  },
+  {
+   "id": "bbd28ee0df4756d3",
+   "title": "ICYMI: President Trump Talks China, Iran, Super Intelligence, and the Path Ahead in Exclusive Interview from Shenzhen",
+   "url": "https://www.whitehouse.gov/releases/2026/11/icymi-president-trump-talks-china-iran-super-intelligence-and-the-path-ahead-in-exclusive-interview-from-shenzhen/",
+   "summary": "Last night, President Donald J. Trump delivered a message of American resurgence in an exclusive live interview on Fox News from Shenzhen, China \u2014 just hours before his historic meeting with President Xi Jinping and President Vladimir Putin. He highlighted the respect America now commands under his leadership, the decisive steps he is taking to [&#8230;]\nThe post ICYMI: President Trump Talks China, Iran, Super Intelligence, and the Path Ahead in Exclusive Interview from Shenzhen appeared first on The White House.",
+   "published": "2026-11-19T19:20:20+00:00",
+   "source": "WhiteHouse.gov News",
+   "source_id": "whitehouse",
+   "bias_note": "official/primary-source",
+   "first_seen": "2026-11-19T20:43:37.807216+00:00"
+  },
   {
    "id": "77782d72dbb339fb",
    "title": "Trump brushes off Musk distancing from MAGA",
@@ -9593,50 +9747,6 @@
    "source_id": "guardian-uspolitics",
    "bias_note": "left-leaning",
    "first_seen": "2026-11-05T23:40:41.402788+00:00"
-  },
-  {
-   "id": "633e18d3935d87b9",
-   "title": "US escalates economic campaign against Cuba and targets China-based suppliers",
-   "url": "https://abcnews.com/Politics/wireStory/us-escalates-economic-campaign-cuba-targets-china-based-137890475",
-   "summary": "The Trump administration has escalated its economic campaign against Cuba",
-   "published": "2026-11-05T20:30:45+00:00",
-   "source": "ABC News Politics",
-   "source_id": "abc-politics",
-   "bias_note": "center",
-   "first_seen": "2026-11-05T23:40:42.211536+00:00"
-  },
-  {
-   "id": "a200945598b5429f",
-   "title": "Deep-red Kansas votes for change as patience wears thin with Trump: \u2018The economy is really taking a beating\u2019",
-   "url": "https://www.theguardian.com/us-news/2026/nov/05/kansas-voters-trump-republicans-dispatch",
-   "summary": "Bills have soared in rural state buffeted by tariffs and war in Iran \u2013 and Democrat Adam Hamilton\u2019s stunning upset shows how deep economic frustrations runLinda Olson always does her homework before voting \u2013 a trait she inherited from a family invested, and interested, in politics. Her father was a photographer who took portraits of political leaders in Washington, while her grandparents were farmers who cared deeply about their industry.In 2024, Olson\u2019s research led her to Donald Trump. She trusted that the then-former president would improve their economic realities in Junction City, Kansas ",
-   "published": "2026-11-05T20:00:32+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-11-06T06:55:32.179049+00:00"
-  },
-  {
-   "id": "3df76de3e000ab11",
-   "title": "Hegseth demands $350B for military, fires back at Dem impeachment push",
-   "url": "https://www.foxnews.com/politics/hegseth-demands-350b-military-fires-back-dem-impeachment-push",
-   "summary": "War Secretary Pete Hegseth urged Congress to approve $350 billion in military funding and vowed to fight Democratic impeachment efforts.",
-   "published": "2026-11-05T19:28:24+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-11-05T23:40:40.763018+00:00"
-  },
-  {
-   "id": "50cfcc7ec19201f1",
-   "title": "Missouri Voters Just Made It Much Harder for Lawmakers to Overturn Citizen-Led Initiatives",
-   "url": "https://www.propublica.org/article/missouri-voter-ballot-initiatives-amendment-6",
-   "summary": "The post Missouri Voters Just Made It Much Harder for Lawmakers to Overturn Citizen-Led Initiatives appeared first on ProPublica.",
-   "published": "2026-11-05T19:25:00+00:00",
-   "source": "ProPublica",
-   "source_id": "propublica",
-   "bias_note": "investigative",
-   "first_seen": "2026-11-05T23:40:41.940755+00:00"
   }
  ]
 }
