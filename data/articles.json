@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T18:59:23.938675+00:00",
- "count": 880,
+ "updated": "2026-11-20T21:50:59.661119+00:00",
+ "count": 887,
  "articles": [
   {
    "id": "fa4eda37765a11e1",
@@ -12,6 +12,237 @@
    "source_id": "foxnews-latest",
    "bias_note": "right-leaning",
    "first_seen": "2026-11-20T13:01:24.159692+00:00"
+  },
+  {
+   "id": "2b46772c5167c98d",
+   "title": "Trump presser",
+   "url": "https://www.npr.org/2026/11/20/nx-s1-6047636/trump-presser",
+   "summary": "President Trump gave a wide-ranging press conference following his historic trip to Asia where he met with Chinese President Xi and Russian President Putin.",
+   "published": "2026-11-20T21:38:21+00:00",
+   "source": "NPR Politics",
+   "source_id": "npr-politics",
+   "bias_note": "center",
+   "first_seen": "2026-11-20T21:50:58.526568+00:00"
+  },
+  {
+   "id": "fe233c788488a9f0",
+   "title": "Second federal judge blocks construction of Trump's memorial arch",
+   "url": "https://www.pbs.org/newshour/politics/second-federal-judge-blocks-construction-of-trumps-memorial-arch",
+   "summary": "A second federal judge has blocked President Donald Trump's administration from building a 250-foot memorial arch in the nation's capital, issuing an order on Friday that keeps the construction work on hold indefinitely, according to plaintiffs' lawyers who sued to challenge the project.",
+   "published": "2026-11-20T21:28:49+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-11-20T21:50:59.053939+00:00"
+  },
+  {
+   "id": "1c12ba10b1a43cbe",
+   "title": "Trump floats an unexpected name to be his successor as powerhouses Rubio and Vance stand by",
+   "url": "https://www.foxnews.com/politics/trump-floats-unexpected-name-successor-powerhouses-rubio-vance-stand",
+   "summary": "Donald Trump stunned the White House press briefing room by asking Stephen Miller if he wants to run for president, as JD Vance and Marco Rubio looked on.",
+   "published": "2026-11-20T21:28:09+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-11-20T21:50:58.032096+00:00"
+  },
+  {
+   "id": "198652ba5cadbe80",
+   "title": "Trump asks Stephen Miller: 'Do you want to run for president?'",
+   "url": "https://thehill.com/homenews/administration/6234343-trump-asks-stephen-miller-run-presidency/",
+   "summary": "President Trump floated his newly appointed chief of staff, longtime adviser Stephen Miller, as a potential presidential candidate \u2014 asking the top White House official if he was interested in the presidency during a press conference Friday afternoon. The comment came after Miller heaped praise on the president, with whom the chief of staff has...",
+   "published": "2026-11-20T21:27:23+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-11-20T21:50:58.839826+00:00"
+  },
+  {
+   "id": "b63e863225a8a5f3",
+   "title": "WATCH: Trump on data centers: 'Take advantage, don't shut them off'",
+   "url": "https://www.pbs.org/newshour/politics/watch-trump-on-data-centers-take-advantage-dont-shut-them-off",
+   "summary": "The president said he doesn't want to allow the centers to be built outside the U.S. \"because China will take all of them.\" He added that companies that try to build elsewhere will face \"tremendous penalties.\"",
+   "published": "2026-11-20T21:25:01+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-11-20T21:50:59.053945+00:00"
+  },
+  {
+   "id": "be0ca6cb1035c6fc",
+   "title": "WATCH: Cascade of tech outages 'separate events' and 'under control,' Trump says",
+   "url": "https://www.pbs.org/newshour/politics/watch-cascade-of-tech-outages-separate-events-and-under-control-trump-says",
+   "summary": "\"If there's any silver lining to what happened last week, it's that Congress seems to be very receptive now to giving us the money,\" Trump said about the administration's plan to overhaul air traffic control.",
+   "published": "2026-11-20T21:13:21+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-11-20T21:50:59.053948+00:00"
+  },
+  {
+   "id": "8982fb7e7b4f8c15",
+   "title": "Judge rejects Alex Murdaugh's push to toss murder indictment over blood and ammo claims",
+   "url": "https://www.foxnews.com/us/judge-rejects-alex-murdaugh-push-toss-murder-indictment-blood-ammo-claims",
+   "summary": "A judge refused to dismiss murder charges against Alex Murdaugh, rejecting defense claims that SLED investigator David Owen misled the grand jury on blood spatter.",
+   "published": "2026-11-20T20:57:26+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-11-20T21:50:58.092281+00:00"
+  },
+  {
+   "id": "97c5319b997bd976",
+   "title": "EXCLUSIVE: Trump\u2019s former FDA nominee vowed new abortion pill safety review after pressure from Sen Hawley",
+   "url": "https://www.foxnews.com/politics/exclusive-trumps-fda-nominee-vows-new-abortion-pill-safety-review-after-pressure-sen-hawley",
+   "summary": "Food and Drug Administration nominee Dr. Heidi Overton committed to a timeline for a delayed mifepristone safety study, Sen. Josh Hawley&apos;s office says.",
+   "published": "2026-11-20T20:38:16+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-11-20T21:50:58.032109+00:00"
+  },
+  {
+   "id": "d4857e329e413058",
+   "title": "Iran takes pointed jab at Trump Cabinet secretary for moving onto military base",
+   "url": "https://www.foxnews.com/politics/iran-takes-pointed-jab-trump-cabinet-secretary-moving-military-base",
+   "summary": "Treasury Secretary Scott Bessent moved to a military base amid reported Iranian assassination threats a senior official says reached an advanced stage.",
+   "published": "2026-11-20T20:36:05+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-11-20T21:50:58.032112+00:00"
+  },
+  {
+   "id": "4d7f6d180f13b722",
+   "title": "Trump wags finger at 'really rude' reporter, tells her she belongs in the 'back row' during press exchange",
+   "url": "https://www.foxnews.com/politics/trump-wags-finger-really-rude-reporter-tells-her-she-belongs-back-row-during-press-exchange",
+   "summary": "Donald Trump wagged his finger at a reporter, calling her &quot;really a rude person&quot; and telling her she belonged in the &quot;back row&quot; at the White House.",
+   "published": "2026-11-20T20:35:08+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-11-20T21:50:58.032114+00:00"
+  },
+  {
+   "id": "0ed2e861e0b3acbf",
+   "title": "WATCH: Trump says he would love former Nvidia CEO Jensen Huang to 'be given a second chance'",
+   "url": "https://www.pbs.org/newshour/politics/watch-trump-says-he-would-love-former-nvidia-ceo-jensen-huang-to-be-given-a-second-chance",
+   "summary": "\"We have to protect our brilliant people. Jensen is one of them,\" Trump said during a news conference at the White House, touting Nvidia as \"a very important company to us.\"",
+   "published": "2026-11-20T20:34:56+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-11-20T21:50:59.053950+00:00"
+  },
+  {
+   "id": "d68b8dfa232636e8",
+   "title": "Who is Kirsten Davies, Trump's new cyber chief?",
+   "url": "https://thehill.com/homenews/administration/6234175-trump-names-kirsten-davies-cyber-director/",
+   "summary": "The White House tapped Pentagon chief information officer Kirsten Davies to serve as acting national cyber director Thursday just after firing Sean Cairncross from the role.\u00a0 Davies managed the Defense Department\u2019s cybersecurity and information technology strategy and has years of previous experience in the cyber sector. In a post to social platform X after the...",
+   "published": "2026-11-20T20:12:15+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-11-20T21:50:58.839866+00:00"
+  },
+  {
+   "id": "0756d6cd1c8165d5",
+   "title": "WATCH: 'We will not allow that to happen,' Trump says of reported Iran dirty bomb threat",
+   "url": "https://www.pbs.org/newshour/politics/watch-we-will-not-allow-that-to-happen-trump-says-of-reported-iran-dirty-bomb-threat",
+   "summary": "\"We know a lot about what's happening in Iran,\" Trump said, speaking during a news briefing at the White House. \"We know everything they say. We know who they are, where they are. We'll find out about it.\"",
+   "published": "2026-11-20T20:12:12+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-11-20T21:50:59.053952+00:00"
+  },
+  {
+   "id": "4b272befae7e52f4",
+   "title": "Trump responds after Vance blames Iran war for midterm losses, VP says his job is to support president",
+   "url": "https://www.foxnews.com/politics/trump-responds-vance-blames-iran-war-midterm-losses-vp-says-job-support-president",
+   "summary": "President Donald Trump says he would launch the war against Iran again, as JD Vance blames midterm losses on voter anger over the conflict and oil prices.",
+   "published": "2026-11-20T20:03:11+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-11-20T21:50:58.032124+00:00"
+  },
+  {
+   "id": "6e84d8e5549af364",
+   "title": "H.R. 10167 \u2013 Common Cents Act",
+   "url": "https://www.whitehouse.gov/briefings-statements/2026/11/h-r-10167-common-cents-act/",
+   "summary": "On Friday, November 20, 2026, the President signed into law: H.R. 10167, the &#8220;Common Cents Act,&#8221; which directs the Department of the Treasury to stop production of the penny except for collector needs; provides rounding guidance for cash transactions; allows the nickel to be composed of cost-saving materials; and provides procedures for the Secretary of [&#8230;]\nThe post H.R. 10167 \u2013 Common Cents Act appeared first on The White House.",
+   "published": "2026-11-20T19:41:38+00:00",
+   "source": "WhiteHouse.gov News",
+   "source_id": "whitehouse",
+   "bias_note": "official/primary-source",
+   "first_seen": "2026-11-20T21:50:58.318364+00:00"
+  },
+  {
+   "id": "37dac1e3b87e33b0",
+   "title": "Watch live: Trump, Dana White host helipad reception honoring Marine Band",
+   "url": "https://thehill.com/homenews/administration/6233969-live-dana-white-trump-helipad-reception/",
+   "summary": "President Trump and UFC CEO Dana White will host a reception Friday honoring the United States Marine Band on the White House's newly renovated helipad. The president and White are expected to announce a combined $200,000 personal donation to the band, which also performed at the UFC 250 fight over the summer. Taxpayer dollars will...",
+   "published": "2026-11-20T19:34:54+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-11-20T21:50:58.839897+00:00"
+  },
+  {
+   "id": "33f9377951773fae",
+   "title": "Vance deflects on whether Iran war worth political price",
+   "url": "https://thehill.com/homenews/administration/6233999-vance-iran-war-midterm-elections/",
+   "summary": "Vice President Vance dodged the question on Friday of whether he thought the Iran war was worth Republicans losing big in the midterm elections earlier this month. \u201cThe president is the one who makes the decision, and the president has said he would do it again,\u201d Vance said at a press briefing alongside President Trump...",
+   "published": "2026-11-20T19:32:18+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-11-20T21:50:58.839900+00:00"
+  },
+  {
+   "id": "d7424e2ccf32023a",
+   "title": "Trump opens door to deals with Democrats on healthcare, Hollywood, college sports",
+   "url": "https://thehill.com/homenews/administration/6233986-trump-open-democrat-cooperation-healthcare/",
+   "summary": "President Trump left the door open to working with Democrats on issues such as healthcare, Hollywood and college sports regulations during his news conference on Friday.\u00a0 \u201cI am open to great healthcare. Now, can it be what they want? No, but it can be a combination of what we all want. We could end up...",
+   "published": "2026-11-20T19:26:49+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-11-20T21:50:58.839906+00:00"
+  },
+  {
+   "id": "c4a363783a718037",
+   "title": "WATCH: After calling Putin his friend, Trump 'can't speak to' whether Putin is a friend to America",
+   "url": "https://www.pbs.org/newshour/politics/trump-defends-calling-putin-a-friend-saying-they-have-a-very-good-personal-relationship",
+   "summary": "President Donald Trump doubled down Friday on his description of Vladimir Putin as a friend but said he \"can't speak\" to whether the Russian president is a friend to the U.S.",
+   "published": "2026-11-20T19:09:45+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-11-20T21:50:59.053954+00:00"
+  },
+  {
+   "id": "7a65904af0ba1b33",
+   "title": "\u2018Worth fighting for\u2019: senators vow to restore financial watchdog agency after Guardian investigation",
+   "url": "https://www.theguardian.com/us-news/2026/nov/20/senators-consumer-financial-protection-bureau",
+   "summary": "Democrats \u2013 including incoming banking chair and both majority leader candidates \u2013 said wealthy interests were prioritized over the needs of working AmericansIn response to a Guardian investigation, four US Senate Democrats say they will work to resurrect a financial watchdog agency that has abandoned dozens of enforcement actions under the second Trump administration.The Guardian found that after the Consumer Financial Protection Bureau (CFPB) dropped more than 20 lawsuits against banks and corporations accused of a range of financial misconduct, complaints against those firms rose by an aver",
+   "published": "2026-11-20T18:51:16+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-11-20T21:50:58.582287+00:00"
+  },
+  {
+   "id": "5733aa2a7beb0744",
+   "title": "Lauren Boebert says Trump \u2018did some things to hurt\u2019 her constituents",
+   "url": "https://www.theguardian.com/us-news/2026/nov/20/lauren-boebert-trump-midterms",
+   "summary": "Controversial Colorado Republican narrowly lost House seat in midterms but says \u2018I\u2019m not mad at the president\u2019Lauren Boebert says Donald Trump \u201cdid some things that hurt\u201d her constituents before they voted the pugnacious Colorado Republican out of her US House seat during midterm elections, which saw her and the president\u2019s party lose control of Congress.\u201cThis could be a referendum on President Trump,\u201d Boebert said to the Associated Press in an interview published on Friday. \u201cIt could be the referendum on Congress or the Republican party. I think it\u2019s all of it. Continue reading...",
+   "published": "2026-11-20T18:51:09+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-11-20T21:50:58.582294+00:00"
   },
   {
    "id": "a3bd6dfb21e97489",
@@ -9527,160 +9758,6 @@
    "source_id": "whitehouse",
    "bias_note": "official/primary-source",
    "first_seen": "2026-11-07T01:58:25.663775+00:00"
-  },
-  {
-   "id": "1c4abb8070ad9dba",
-   "title": "Democrats blast 'dangerous' elevation of Miller as refusal to learn from the election",
-   "url": "https://thehill.com/homenews/house/6205303-democrats-trump-miller-promotion/",
-   "summary": "To congressional Democrats, President Trump\u2019s decision to promote aide Stephen Miller to serve as his chief of staff meant two things: an elevation of the aide's extremist views and a refusal to heed the will of voters who delivered the left a historic victory. \u201cDonald Trump learned nothing from his historic defeat. Stephen Miller is...",
-   "published": "2026-11-06T21:49:54+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-11-07T01:58:25.932429+00:00"
-  },
-  {
-   "id": "f0ad89d61a8fec9b",
-   "title": "Secret Service arrests armed Venezuelan migrant near White House over alleged Trump assassination threat",
-   "url": "https://www.foxnews.com/us/secret-service-arrests-armed-venezuelan-migrant-near-white-house-alleged-trump-assassination-threat",
-   "summary": "Secret Service officers arrested a Venezuelan migrant in Washington, D.C., after finding guns in a stolen vehicle and hearing an alleged threat against President Donald Trump.",
-   "published": "2026-11-06T21:18:15+00:00",
-   "source": "Fox News Latest",
-   "source_id": "foxnews-latest",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-11-07T01:58:25.574666+00:00"
-  },
-  {
-   "id": "6fb75af1b000191f",
-   "title": "Jeffries calls Miller a 'dangerous xenophobe' after promotion: 'Fire him today'",
-   "url": "https://thehill.com/homenews/administration/6205195-jeffries-blasts-trump-miller-pick/",
-   "summary": "House Democratic Leader Hakeem Jeffries is sounding off on Stephen Miller, President Trump's pick to replace outgoing White House Chief of Staff Susie Wiles. \u201cStephen Miller is a dangerous xenophobe and reckless extremist who has American blood on his hands,\u201d Jeffries said in a post to the social platform X. \u201cHis presence in government should...",
-   "published": "2026-11-06T21:17:03+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-11-06T21:33:08.895534+00:00"
-  },
-  {
-   "id": "de567f8ad1348a91",
-   "title": "Texas v Musk: how southern state Democrats won against the billionaire \u2013 explainer",
-   "url": "https://www.theguardian.com/us-news/video/2026/nov/06/texas-v-musk-how-southern-state-democrats-won-against-the-billionaire-explainer",
-   "summary": "Democrat James Talarico won a Senate seat in Texas, breaking a 38-year drought for his party in the Republican stronghold and delivering a stunning blow to Donald Trump. The race became one of the most expensive Senate contests in US history, with advertising spending topping $500m, according to estimates. GOP-aligned groups poured hundreds of millions of dollars into efforts to elect Ken Paxton, including substantial funding linked to multibillionaire Elon Musk, whom Talarico accused of trying to buy a Senate seat.Elon Musk\u2019s nearly half a billion dollars in midterms spending was a flopFive d",
-   "published": "2026-11-06T21:12:04+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-11-06T21:33:08.688317+00:00"
-  },
-  {
-   "id": "1437532455e4fe76",
-   "title": "Cornell Faculty Senate passes no-confidence vote over Jane Doe case, but Board of Trustees backs president",
-   "url": "https://thehill.com/homenews/education/6205152-cornell-faculty-senate-no-confidence-vote-jane-doe-new-york/",
-   "summary": "The Cornell Faculty Senate on Friday passed its no-confidence vote against the university administration and President Michael Kotlikoff after allegations of gang rape at a campus fraternity roiled the country.\u00a0 By 55 percent to 37 percent, with 7 percent abstaining, the symbolic vote marks the latest stage in the backlash to how the university handled...",
-   "published": "2026-11-06T21:09:33+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-11-06T21:33:08.895548+00:00"
-  },
-  {
-   "id": "52a071f8995c2582",
-   "title": "Trump's triumphal arch is blocked for now, but a new website highlights the plans",
-   "url": "https://www.pbs.org/newshour/politics/trumps-triumphal-arch-is-blocked-for-now-but-a-new-website-highlights-the-plans",
-   "summary": "The White House highlighted the website the morning after U.S. District Judge Tanya Chutkan issued a temporary restraining order that prohibits work on the site for 14 days.",
-   "published": "2026-11-06T20:36:43+00:00",
-   "source": "PBS NewsHour Politics",
-   "source_id": "pbs-politics",
-   "bias_note": "center",
-   "first_seen": "2026-11-06T21:33:09.001704+00:00"
-  },
-  {
-   "id": "4741e334ddf97618",
-   "title": "Trump's move from Wiles to Miller signals major tactical shift for governing without Congress",
-   "url": "https://www.foxnews.com/politics/trumps-move-wiles-miller-signals-major-tactical-shift-governing-without-congress",
-   "summary": "Stephen Miller and Russ Vought have been identifying policies Trump can enact by executive order on immigration, tariffs and government spending.",
-   "published": "2026-11-06T20:34:35+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-11-07T01:58:25.558725+00:00"
-  },
-  {
-   "id": "f27b92925f6585e6",
-   "title": "Christie mulling White House bid, says 'Trump era is over'",
-   "url": "https://thehill.com/homenews/campaign/6204997-chris-christie-2028-presidential-election/",
-   "summary": "Former New Jersey Gov. Chris Christie (R) is considering a White House run in 2028, telling his party to go in \u201ca completely different direction\u201d after sizable midterm losses. In an interview with Politico on Wednesday, Christie said he sees himself as better positioned to run than other prominent Republicans \u2014 specifically Vice President Vance...",
-   "published": "2026-11-06T20:33:02+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-11-06T21:33:08.895556+00:00"
-  },
-  {
-   "id": "533775c3cf0a0644",
-   "title": "Stephen Miller, architect of Trump\u2019s immigration crackdown, to become White House chief of staff",
-   "url": "https://www.theguardian.com/us-news/2026/nov/06/stephen-miller-chief-of-staff-trump",
-   "summary": "US president confirms Susie Wiles, current chief of staff and first woman to serve in the role, will step downUS politics live \u2013 latest updatesStephen Miller, Donald Trump\u2019s most controversial aide and the architect of his sweeping immigration crackdown, will become his new White House chief of staff days after Republicans lost control of the US Congress in US midterm elections.The president announced the extraordinary appointment on Friday, confirming that Susie Wiles \u2013 his current chief of staff, and the first woman to serve in the role \u2013 had been ousted. Continue reading...",
-   "published": "2026-11-06T20:06:11+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-11-06T21:33:08.688112+00:00"
-  },
-  {
-   "id": "216d7dc1ff0a7509",
-   "title": "Johnson, staunch Trump ally, seeks to delay Senate GOP leadership election after big losses",
-   "url": "https://thehill.com/homenews/senate/6204900-ron-johnson-senate-gop-leadership-election-midterm-election-losses/",
-   "summary": "Sen. Ron Johnson (R-Wis.) obtained the five signatures he needs from GOP colleagues to request a meeting of the broader Senate Republican Conference to discuss postponing their leadership election, which is scheduled for next week.\u00a0 Johnson, who chairs the Senate Budget Committee, is seeking a delay of the election after an adviser of President Trump...",
-   "published": "2026-11-06T19:53:51+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-11-06T21:33:08.895581+00:00"
-  },
-  {
-   "id": "c546131a6feb214c",
-   "title": "Schumer says Democrats will stop Trump from placing 'right-winger' on the Supreme Court",
-   "url": "https://www.pbs.org/newshour/politics/schumer-says-democrats-will-stop-trump-from-placing-right-winger-on-the-supreme-court",
-   "summary": "Schumer says the party's agenda will center around lowering prices, along with five issues that they have focused on in the minority \u2014 healthcare, housing, Trump's tariffs, childcare and lowering energy bills.",
-   "published": "2026-11-06T19:46:53+00:00",
-   "source": "PBS NewsHour Politics",
-   "source_id": "pbs-politics",
-   "bias_note": "center",
-   "first_seen": "2026-11-06T21:33:09.001722+00:00"
-  },
-  {
-   "id": "edbb8ad8eb528dee",
-   "title": "Trump names Stephen Miller his next chief of staff after major Republican midterm losses",
-   "url": "https://www.pbs.org/newshour/politics/trump-names-stephen-miller-his-next-chief-of-staff-after-major-republican-midterm-losses",
-   "summary": "President Trump's White House chief of staff, Susie Wiles, is stepping down. She is Trump's longest-serving chief of staff and the first woman ever to hold the position.",
-   "published": "2026-11-06T19:17:44+00:00",
-   "source": "PBS NewsHour Politics",
-   "source_id": "pbs-politics",
-   "bias_note": "center",
-   "first_seen": "2026-11-06T21:33:09.001726+00:00"
-  },
-  {
-   "id": "3841f99019b0c543",
-   "title": "Stephen Miller will replace Susie Wiles as Trump's chief of staff",
-   "url": "https://www.npr.org/2026/11/06/nx-s1-6032795/stephen-miller-replace-susie-wiles-trumps-chief-of-staff",
-   "summary": "The change comes after sweeping Republican losses in the midterm elections.",
-   "published": "2026-11-06T19:13:52+00:00",
-   "source": "NPR Politics",
-   "source_id": "npr-politics",
-   "bias_note": "center",
-   "first_seen": "2026-11-06T21:33:08.598756+00:00"
-  },
-  {
-   "id": "033adf05970d7e4d",
-   "title": "Latino voters propel Democrats to big wins with leftward swing",
-   "url": "https://www.pbs.org/newshour/politics/latino-voters-propel-democrats-to-big-wins-with-leftward-swing",
-   "summary": "Hispanic voters, especially those in the working class, have been impacted by economic challenges, leading them to reject President Donald Trump and his Republican Party.",
-   "published": "2026-11-06T19:07:57+00:00",
-   "source": "PBS NewsHour Politics",
-   "source_id": "pbs-politics",
-   "bias_note": "center",
-   "first_seen": "2026-11-06T21:33:09.001729+00:00"
   }
  ]
 }
