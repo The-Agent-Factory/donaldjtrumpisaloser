@@ -1,7 +1,150 @@
 {
- "updated": "2026-11-19T20:43:38.354004+00:00",
- "count": 886,
+ "updated": "2026-11-20T03:25:17.990463+00:00",
+ "count": 876,
  "articles": [
+  {
+   "id": "fb88884e097d53f1",
+   "title": "Trump's CISA nominee ducks questions on 2020 election results, Jan. 6 Capitol attack",
+   "url": "https://thehill.com/homenews/administration/6231922-senate-holds-losapio-cisa-nomination/",
+   "summary": "Michael LoSapio, President Trump's nominee to lead the Cybersecurity and Infrastructure Security Agency (CISA), on Thursday ducked questions from lawmakers about the Jan. 6, 2021, U.S. Capitol attack and who won the 2020 presidential election. LoSapio serves as the chief information security officer at tech company Palantir. He told Sen. Richard Blumenthal (D-Conn.), when asked...",
+   "published": "2026-11-20T02:29:35+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-11-20T03:25:17.437107+00:00"
+  },
+  {
+   "id": "886ce809313ca7f3",
+   "title": "NATIONAL RURAL HEALTH DAY: President Trump Delivers Largest Rural Health Investment in History",
+   "url": "https://www.whitehouse.gov/releases/2026/11/national-rural-health-day-president-trump-delivers-largest-rural-health-investment-in-history/",
+   "summary": "National Rural Health Day honors the people who keep rural America strong. As our nation celebrates Rural Health Day, Americans across the country are benefiting from President Trump&#8217;s leadership, which has delivered the single largest investment in rural health in American history. The landmark $50 billion Rural Health Transformation Fund\u2014which every single Democrat voted AGAINST\u2014is [&#8230;]\nThe post NATIONAL RURAL HEALTH DAY: President Trump Delivers Largest Rural Health Investment in History appeared first on The White House.",
+   "published": "2026-11-20T02:12:39+00:00",
+   "source": "WhiteHouse.gov News",
+   "source_id": "whitehouse",
+   "bias_note": "official/primary-source",
+   "first_seen": "2026-11-20T03:25:16.290958+00:00"
+  },
+  {
+   "id": "2ade3fd7252ee71d",
+   "title": "Trump\u2019s National Cyber Director Sean Cairncross fired amid widespread tech outages",
+   "url": "https://www.foxnews.com/politics/trumps-national-cyber-director-sean-cairncross-fired",
+   "summary": "President Donald Trump backed the firing of National Cyber Director Sean Cairncross over cybersecurity credentials, with Kirsten A. Davies stepping in.",
+   "published": "2026-11-20T02:00:36+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-11-20T03:25:16.242444+00:00"
+  },
+  {
+   "id": "399dacee98bd1032",
+   "title": "Democrat lawmaker hit with federal indictment over alleged $240K COVID fraud scheme",
+   "url": "https://www.foxnews.com/us/democrat-lawmaker-hit-federal-indictment-alleged-240k-covid-fraud-scheme",
+   "summary": "Alabama Rep. Patrick Sellers allegedly obtained more than $240,000 through fraudulent applications and used the money for personal expenses.",
+   "published": "2026-11-20T01:29:45+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-11-20T03:25:16.259375+00:00"
+  },
+  {
+   "id": "6455c7d0ecb1da48",
+   "title": "White House cyber director ousted after US hit by wave of tech outages",
+   "url": "https://www.theguardian.com/us-news/2026/nov/19/white-house-cyber-director-ousted",
+   "summary": "Sean Cairncross exits after outages that sparked fierce criticism, with DoD official Kirsten Davies to take overWhite House national \u2060cyber director Sean \u2060Cairncross \u200bwas ousted from his job, a person close to the White House told Reuters on Thursday, \u2060days after tech outages hit US air travel, banking and national security systems.Cairncross oversaw cybersecurity policy and \u2060strategy across the federal government. Department of Defense chief information officer \u200bKirsten Davies will \u200cassume the position \u200ctemporarily, according to the source. Continue reading...",
+   "published": "2026-11-20T01:25:05+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-11-20T03:25:16.975838+00:00"
+  },
+  {
+   "id": "821b46920ab00505",
+   "title": "Trump clears hurdle in $15 billion lawsuit against New York Times",
+   "url": "https://www.foxnews.com/media/trump-clears-hurdle-15-billion-lawsuit-against-new-york-times",
+   "summary": "President Donald Trump\u2019s legal team celebrated Thursday after a judge denied The New York Times\u2019 motion to dismiss a $15 billion defamation lawsuit against the paper.",
+   "published": "2026-11-20T00:02:15+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-11-20T03:25:16.259426+00:00"
+  },
+  {
+   "id": "a702b897798c9b2e",
+   "title": "White House lets go of national cyber director, names acting replacement",
+   "url": "https://thehill.com/homenews/administration/6231938-sean-cairncross-resigns-cyber-director/",
+   "summary": "Sean Cairncross, the national cyber director, has been let go from his post, a White House official confirmed to The Hill Thursday. The official said President Trump supported the decision to let go of the director, as he believed Cairncross did not have the proper cyber credentials for the job. The Defense Department Chief Information...",
+   "published": "2026-11-19T23:56:47+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-11-20T03:25:17.437155+00:00"
+  },
+  {
+   "id": "a485645b31b85274",
+   "title": "Tennessee Democrat describes how she won a Trump district with almost no ad money",
+   "url": "https://www.pbs.org/newshour/show/tennessee-democrat-describes-how-she-won-a-trump-district-with-almost-no-ad-money",
+   "summary": "When Democrats take control of the House, one of their new members will hail from a district no one expected them to win. Victoria Broderick is a tech support worker from rural Tennessee who unseated eight-term Republican Rep. Scott Desjarlais. She did so despite raising less than $100,000 and receiving zero investment from the national party. Liz Landers spoke with Broderick about her win.",
+   "published": "2026-11-19T23:30:05+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-11-20T03:25:17.586781+00:00"
+  },
+  {
+   "id": "3cc8a3bc44d4d1b7",
+   "title": "3 takeaways from Trump, Xi and Putin's historic summit",
+   "url": "https://www.pbs.org/newshour/world/3-takeaways-from-trump-xi-and-putins-historic-summit",
+   "summary": "The meeting between U.S. President Donald Trump, China's Xi Jinping and Russia's Vladimir Putin on Thursday was the first-ever sit-down for the leaders of the three countries.",
+   "published": "2026-11-19T22:58:31+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-11-20T03:25:17.586787+00:00"
+  },
+  {
+   "id": "9dcbd1f5eced2488",
+   "title": "Judge issues 14-day extension of order blocking Trump's triumphal arch construction",
+   "url": "https://www.pbs.org/newshour/politics/judge-issues-14-day-extension-of-order-blocking-trumps-triumphal-arch-construction",
+   "summary": "A federal judge on Wednesday temporarily extended an order blocking the Trump administration from breaking ground on a towering memorial arch in the nation's capital.",
+   "published": "2026-11-19T22:39:21+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-11-20T03:25:17.586789+00:00"
+  },
+  {
+   "id": "dfeae552472ea0af",
+   "title": "Donald Trump issues posthumous pardon to MLB \u2018superstar and legend\u2019 Pete Rose",
+   "url": "https://www.theguardian.com/sport/2026/nov/19/donald-trump-issues-posthumous-pardon-to-mlb-superstar-and-legend-pete-rose",
+   "summary": "Rose pleaded guilty to tax evasion in 1990Player also banned from baseball over betsDonald Trump says he has posthumously pardoned Pete Rose more than two years after the baseball star\u2019s death and a year after he was reinstated by Major League Baseball Commissioner Rob Manfred.\u201cI have just given a Complete and Total Pardon to the Late, Great Pete Rose, a true Baseball SUPERSTAR + LEGEND,\u201d Trump posted on social media. Continue reading...",
+   "published": "2026-11-19T22:09:12+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-11-20T03:25:16.975844+00:00"
+  },
+  {
+   "id": "4447f5511cca0269",
+   "title": "Appeals court rejects Democrat LaMonica McIver\u2019s bid to toss charges over ICE protest",
+   "url": "https://www.theguardian.com/us-news/2026/nov/19/lamonica-mciver-ice-delaney-hall",
+   "summary": "New Jersey congresswoman, charged with interfering with immigration arrest, set to face trial over May 2025 incidentAn appeals court decided on Thursday that the Democratic New Jersey representative LaMonica McIver will continue to face charges related to a skirmish outside an immigration detention center last year when she attempted to conduct an oversight visit there.The court\u2019s decision to decline McIver\u2019s request to overturn the court\u2019s earlier ruling comes just a day after she pressed the homeland security secretary for the Trump administration\u2019s aggressive immigration enforcement operati",
+   "published": "2026-11-19T21:57:39+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-11-20T03:25:16.975849+00:00"
+  },
+  {
+   "id": "297e3c8a91c8ebcb",
+   "title": "Trump scores key win over House progressive accused of assaulting ICE agent",
+   "url": "https://www.foxnews.com/politics/trump-scores-key-win-over-house-progressive-accused-assaulting-ice-agent",
+   "summary": "New Jersey Rep. LaMonica McIver says she faces 17 years in prison after the 3rd Circuit refused to reconsider her ICE charges at Delaney Hall.",
+   "published": "2026-11-19T20:45:06+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-11-20T03:25:16.242478+00:00"
+  },
   {
    "id": "291ca9708db27f20",
    "title": "Trump ally Bill Essayli tapped to lead investigation of Biden officials over Mar-a-Lago raid",
@@ -408,6 +551,17 @@
    "source_id": "foxnews-politics",
    "bias_note": "right-leaning",
    "first_seen": "2026-11-19T19:23:43.643182+00:00"
+  },
+  {
+   "id": "79caf38409df8dce",
+   "title": "Top House Democrat questions what Trump accomplished in Xi-Putin summit",
+   "url": "https://www.npr.org/2026/11/19/nx-s1-6046487/gregory-meeks-trump-xi-putin-summit",
+   "summary": "Rep. Gregory Meeks raises concerns about U.S. alliances after Trump's summit with Xi and Putin. He also discusses Chinese espionage amid the Nvidia scandal.",
+   "published": "2026-11-19T11:20:37+00:00",
+   "source": "NPR Politics",
+   "source_id": "npr-politics",
+   "bias_note": "center",
+   "first_seen": "2026-11-20T03:25:16.916076+00:00"
   },
   {
    "id": "a16f73d049f62b69",
@@ -9483,270 +9637,6 @@
    "source_id": "thehill",
    "bias_note": "center",
    "first_seen": "2026-11-06T06:55:32.484418+00:00"
-  },
-  {
-   "id": "8dd5772eae34b8be",
-   "title": "2 House Democrats float idea of Blanche impeachment",
-   "url": "https://thehill.com/homenews/house/6203031-house-democrats-push-blanche-impeachment/",
-   "summary": "Two House Democrats are already floating the impeachment of Attorney General Todd Blanche after the GOP\u2019s sweeping midterm election defeats, suggesting Democrats could win enough Republican support in the Senate to remove him from office. Reps. Hank Johnson (D-Ga.) and Deborah Ross (D-N.C.) voiced their support for impeaching Blanche on Thursday, just two days after...",
-   "published": "2026-11-06T02:08:29+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-11-06T06:55:32.484452+00:00"
-  },
-  {
-   "id": "3cecbd6b6f258cb2",
-   "title": "Rubio places additional sanctions on Cuba, targeting 'illicit' shipping network",
-   "url": "https://thehill.com/policy/defense/6202991-rubio-broadens-cuba-sanctions-crude-oil/",
-   "summary": "The Trump administration announced another wave of sanctions against Cuba Thursday, targeting 10 individuals and entities tied to the country's government, military and oil industry. The State Department accused Cuba\u2019s \u201cruling elite\u201d in its announcement of \u201choarding the island\u2019s energy, shipping, and technology resources for its own enrichment, leaving the Cuban people to contend with...",
-   "published": "2026-11-06T01:53:06+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-11-06T06:55:32.484468+00:00"
-  },
-  {
-   "id": "67c63a2232059e57",
-   "title": "Bruce Wolpe on what Trump will do after the \u2018profound result\u2019 of the US midterms - podcast",
-   "url": "https://www.theguardian.com/australia-news/audio/2026/nov/06/bruce-wolpe-trump-us-midterms-australian-politics-podcast",
-   "summary": "Political editor Tom McIlroy speaks to Bruce Wolpe \u2013 a senior fellow at the United States Studies Centre and a former congressional staffer during the Obama era \u2013 about the seismic win by the Democrats in the US midterms.Wolpe reflects on the candidates who drove the \u2018blue wave\u2019 in this cost-of-living election and shares his predictions for the erratic US president\u2019s next steps \u2013 and the retribution that could be coming for defence secretary Pete HegsethRead more:As Australia ponders how to deal with a castrated Trump administration, one lesson is clear: \u2018It\u2019s the economy, stupid\u2019 | Zoe Daniel",
-   "published": "2026-11-06T01:30:39+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-11-06T06:55:32.179017+00:00"
-  },
-  {
-   "id": "86a37e45b7f9b060",
-   "title": "Tankers carrying Russian diesel change course, raising doubts about shipments to U.S.",
-   "url": "https://www.pbs.org/newshour/world/tankers-carrying-russian-diesel-change-course-raising-doubts-about-shipments-to-u-s",
-   "summary": "President Donald Trump's plan to allow imports of Russian diesel appeared to falter this week after state and federal officials warned that handling any shipments could bring legal consequences and two tankers initially bound for the United States changed course.",
-   "published": "2026-11-06T00:17:51+00:00",
-   "source": "PBS NewsHour Politics",
-   "source_id": "pbs-politics",
-   "bias_note": "center",
-   "first_seen": "2026-11-06T06:55:32.735824+00:00"
-  },
-  {
-   "id": "e604e040f8bc9821",
-   "title": "Melania Trump touts rare agreement she brokered between Russia and Ukraine",
-   "url": "https://www.npr.org/2026/11/05/nx-s1-6030662/melania-trump-touts-rare-agreement-she-brokered-between-russia-and-ukraine",
-   "summary": "The six-day pause from the Russian-occupied city of Oleshky comes as the administration ramps up efforts to secure an agreement to end the war in Ukraine.",
-   "published": "2026-11-05T23:52:48+00:00",
-   "source": "NPR Politics",
-   "source_id": "npr-politics",
-   "bias_note": "center",
-   "first_seen": "2026-11-06T06:55:32.036661+00:00"
-  },
-  {
-   "id": "f1a43d11b414e9b8",
-   "title": "Vance \u2018privately\u2019 blasts Netanyahu as Iran war divides Trump administration and 2028 ambitions loom",
-   "url": "https://www.foxnews.com/politics/vance-privately-blasts-netanyahu-iran-war-divides-trump-admin-2028-ambitions-loom",
-   "summary": "JD Vance privately accused Benjamin Netanyahu of being &quot;wrong on everything&quot; about the Iran war as he positions himself for a 2028 presidential bid.",
-   "published": "2026-11-05T23:49:09+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-11-06T06:55:31.396620+00:00"
-  },
-  {
-   "id": "c22b04599de3bc0c",
-   "title": "Trump seeks national monument status for iconic White House rooms",
-   "url": "https://thehill.com/newsletters/energy-environment/6202853-white-house-rooms-national-monuments-trump/",
-   "summary": "{beacon} Energy &#038; Environment Energy &#038; Environment &#8202; The Big Story  Trump makes Oval Office a national monument President Trump signed a proclamation Thursday seeking to designate two iconic White House spaces, the Oval Office and Cabinet Room, as national monuments.  \u00a9 Alex Brandon, Associated Press Trump said Congress would have to ratify the proclamation,...",
-   "published": "2026-11-05T23:46:56+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-11-06T06:55:32.484525+00:00"
-  },
-  {
-   "id": "fae1702af4ac5b81",
-   "title": "After midterms, Trump is left to weigh his next move in Iran war that contributed to GOP loss",
-   "url": "https://www.pbs.org/newshour/politics/after-midterms-trump-is-left-to-weigh-his-next-move-in-iran-war-that-contributed-to-gop-loss",
-   "summary": "As Trump ponders his next move, the stakes couldn't be higher for Iran, the Middle East and the global economy writ large.",
-   "published": "2026-11-05T23:46:36+00:00",
-   "source": "PBS NewsHour Politics",
-   "source_id": "pbs-politics",
-   "bias_note": "center",
-   "first_seen": "2026-11-06T06:55:32.735837+00:00"
-  },
-  {
-   "id": "0b8e1d00e4bf25f2",
-   "title": "Hegseth in \u2018trouble\u2019 as Trump faces music on Iran war, midterms",
-   "url": "https://thehill.com/policy/defense/6202854-hegseth-pentagon-future-uncertain/",
-   "summary": "Defense Secretary Pete Hegseth\u2019s future leading the Pentagon looks increasingly uncertain as his critics within the administration blame him for helping push President Trump into a war that contributed to massive midterm losses Tuesday.  Two sources familiar with the discussion said the president is asking allies about Hegseth\u2019s standing. One of those sources said the...",
-   "published": "2026-11-05T23:41:23+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-11-06T06:55:32.484531+00:00"
-  },
-  {
-   "id": "109ae4bdb467da38",
-   "title": "What the blue wave looked like in North Carolina",
-   "url": "https://www.npr.org/2026/11/05/nx-s1-6030848/what-the-blue-wave-looked-like-in-north-carolina",
-   "summary": "Democrats have flipped five Republican-held congressional seats in North Carolina. The surprising results were just one part of the blue wave in a swing state that President Trump won three times.",
-   "published": "2026-11-05T23:17:52+00:00",
-   "source": "NPR Politics",
-   "source_id": "npr-politics",
-   "bias_note": "center",
-   "first_seen": "2026-11-05T23:40:41.282304+00:00"
-  },
-  {
-   "id": "fd72c01d218e22b8",
-   "title": "What happens after the \u2018blue wave\u2019? Our reporters answer your midterm election results questions",
-   "url": "https://www.theguardian.com/community/live/2026/nov/05/what-happens-after-the-blue-wave-our-reporters-answer-your-midterm-election-results-questions",
-   "summary": "Democrats have taken control of Congress in a sweeping blue wave. Sign up or sign in to ask our team your questions about the results of the midterm electionsLive results from the US midterm electionsThe 2026 US midterm elections were a forceful rebuke of Donald Trump and the Republicans as Democrats captured control of Congress.Democrats hoping for a \u201cblue wave\u201d saw a blue tsunami as they triumphed in deep-red states such as Texas, Kansas and South Carolina to build comfortable majorities in both the Senate and House of Representatives. Voters also elected Democratic governors in Texas, Georg",
-   "published": "2026-11-05T23:10:36+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-11-05T23:40:41.402726+00:00"
-  },
-  {
-   "id": "d6c34219f78566ed",
-   "title": "Trump signs proclamation to prevent changes to Oval Office, other White House rooms",
-   "url": "https://www.foxnews.com/politics/trump-signs-proclamation-prevent-changes-oval-office-other-white-house-rooms",
-   "summary": "Trump signed a proclamation designating the Oval Office and Cabinet Room a national monument to prevent future presidents from altering them.",
-   "published": "2026-11-05T23:10:31+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-11-06T06:55:31.396630+00:00"
-  },
-  {
-   "id": "95ecd8e7a5475010",
-   "title": "After taking control of Congress, Democrats vow major probes into Trump's 'tentacles of corruption'",
-   "url": "https://www.pbs.org/newshour/politics/after-taking-control-of-congress-democrats-vow-major-probes-into-trumps-tentacles-of-corruption",
-   "summary": "Corruption topped the list of concerns for voters who ousted Republicans and handed Democrats control of Congress in the midterm elections. Now, the newly empowered Democratic Party is putting the issue front and center as its leaders chart their course for investigations and policymaking.",
-   "published": "2026-11-05T23:00:50+00:00",
-   "source": "PBS NewsHour Politics",
-   "source_id": "pbs-politics",
-   "bias_note": "center",
-   "first_seen": "2026-11-05T23:40:41.779004+00:00"
-  },
-  {
-   "id": "038a42d25e87d1e3",
-   "title": "Fact Sheet: President Donald J. Trump Establishes the Oval Office as a National Monument",
-   "url": "https://www.whitehouse.gov/fact-sheets/2026/11/fact-sheet-president-donald-j-trump-establishes-the-oval-office-as-a-national-monument/",
-   "summary": "ESTABLISHING THE OVAL OFFICE NATIONAL MONUMENT:&#160;Today, President Donald J. Trump signed a Proclamation establishing the Oval Office as a National Monument to ensure its preservation, proper care, and management. PRESERVING THE OVAL OFFICE FOR FUTURE GENERATIONS:&#160;President Trump is taking action to ensure that the Oval Office gets the historic recognition and protection it deserves. HONORING [&#8230;]\nThe post Fact Sheet: President Donald J. Trump Establishes the Oval Office as a National Monument appeared first on The White House.",
-   "published": "2026-11-05T22:53:44+00:00",
-   "source": "WhiteHouse.gov News",
-   "source_id": "whitehouse",
-   "bias_note": "official/primary-source",
-   "first_seen": "2026-11-05T23:40:41.000138+00:00"
-  },
-  {
-   "id": "0d039f10a6623c9d",
-   "title": "ESTABLISHMENT OF THE OVAL OFFICE NATIONAL MONUMENT",
-   "url": "https://www.whitehouse.gov/presidential-actions/2026/11/establishment-of-the-oval-office-national-monument/",
-   "summary": "BY THE PRESIDENT OF THE UNITED STATES OF AMERICA A PROCLAMATION The Oval Office stands as one of the most recognizable and historically significant spaces in the United States. &#160;Since its establishment in its present location and form during the administration of President Franklin D. Roosevelt, it has served as the principal working office of [&#8230;]\nThe post ESTABLISHMENT OF THE OVAL OFFICE NATIONAL MONUMENT appeared first on The White House.",
-   "published": "2026-11-05T22:51:56+00:00",
-   "source": "WhiteHouse.gov News",
-   "source_id": "whitehouse",
-   "bias_note": "official/primary-source",
-   "first_seen": "2026-11-05T23:40:41.000143+00:00"
-  },
-  {
-   "id": "7194550ca54a5cda",
-   "title": "Elon Musk gambled $445 million to boost Republicans in the midterms. It came up short",
-   "url": "https://www.pbs.org/newshour/politics/elon-musk-gambled-445-million-to-boost-republicans-in-the-midterms-it-came-up-short",
-   "summary": "Nobody may have suffered bigger losses Tuesday than President Donald Trump. But few others had more on the line than Musk, who gambled big and came up holding the midterm's worst return on investment.",
-   "published": "2026-11-05T22:44:08+00:00",
-   "source": "PBS NewsHour Politics",
-   "source_id": "pbs-politics",
-   "bias_note": "center",
-   "first_seen": "2026-11-05T23:40:41.779010+00:00"
-  },
-  {
-   "id": "9656ac084d9a63e2",
-   "title": "Trump signs proclamation making Oval Office, Cabinet Room national monument",
-   "url": "https://thehill.com/homenews/administration/6202079-trump-national-monuments-oval-office-cabinet-room/",
-   "summary": "President Trump signed a proclamation Thursday making the Oval Office and Cabinet Room in the White House a national monument.\u00a0 Trump noted Congress would have to ratify the proclamation, and that \u201cno major modifications\u201d would be able to be made to the rooms without approval from Congress.  \u201cIt\u2019s a symbol of our country, and the...",
-   "published": "2026-11-05T22:32:14+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-11-05T23:40:41.604880+00:00"
-  },
-  {
-   "id": "d41d4f71a41bc078",
-   "title": "How Democrats plan to investigate the Trump administration after their midterm wins",
-   "url": "https://www.npr.org/2026/11/05/nx-s1-6029639/how-democrats-plan-to-investigate-the-trump-administration-after-their-midterm-wins",
-   "summary": "With their new majorities, Democrats will have at their disposal the full investigatory powers of the Congress, which include the ability to subpoena records and compel individuals to testify.",
-   "published": "2026-11-05T22:28:50+00:00",
-   "source": "NPR Politics",
-   "source_id": "npr-politics",
-   "bias_note": "center",
-   "first_seen": "2026-11-05T23:40:41.282316+00:00"
-  },
-  {
-   "id": "257442c7546d2d43",
-   "title": "Trump adviser calls for alternative to Thune for Senate GOP leader",
-   "url": "https://thehill.com/homenews/senate/6202589-trump-adviser-calls-gop-revolt/",
-   "summary": "President Trump adviser Alex Bruesewitz publicly called on Senate Republicans to look beyond Majority Leader John Thune (R-S.D.) Thursday, accusing the party of \u201crewarding failure\u201d after sweeping midterm losses. \u201cWhy do Hill Republicans insist on rewarding failure? He\u2019s not exactly in touch with the interests of Republican voters,\u201d Bruesewitz wrote on the social platform X....",
-   "published": "2026-11-05T22:10:45+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-11-05T23:40:41.604903+00:00"
-  },
-  {
-   "id": "b0e6a37120279741",
-   "title": "WATCH: First lady Melania Trump hosted Russian and Ukrainian officials. Trump met with Putin's envoy",
-   "url": "https://www.pbs.org/newshour/politics/watch-first-lady-melania-trump-hosted-russian-and-ukrainian-officials-trump-met-with-putins-envoy",
-   "summary": "President Donald Trump said he met with Vladimir Putin's envoy at the White House on Thursday but did not meet with Ukrainian officials who were also visiting.",
-   "published": "2026-11-05T22:04:18+00:00",
-   "source": "PBS NewsHour Politics",
-   "source_id": "pbs-politics",
-   "bias_note": "center",
-   "first_seen": "2026-11-05T23:40:41.779012+00:00"
-  },
-  {
-   "id": "2fd0d4f965eb87ea",
-   "title": "Trump signs proclamation he says will prevent future changes to Oval Office and Cabinet Room",
-   "url": "https://www.pbs.org/newshour/politics/trump-signs-proclamation-he-says-will-prevent-future-changes-to-oval-office-and-cabinet-room",
-   "summary": "Since returning to the White House, Trump has overseen numerous design changes to various rooms, including the Oval Office, where he has filled the wall space with portraits, a copy of the Declaration of Independence and numerous golden accents.",
-   "published": "2026-11-05T21:48:33+00:00",
-   "source": "PBS NewsHour Politics",
-   "source_id": "pbs-politics",
-   "bias_note": "center",
-   "first_seen": "2026-11-05T23:40:41.779014+00:00"
-  },
-  {
-   "id": "b3bd8c70d856ee1c",
-   "title": "Key federal panel expected to approve Trump's arch amid court challenge",
-   "url": "https://www.pbs.org/newshour/politics/key-federal-panel-expected-to-approve-trumps-arch-amid-court-challenge",
-   "summary": "The approval would clear a hurdle on the road to breaking ground on the project, and the administration has said it could launch construction within a day of the vote. But the proposed 250-foot tall gilded arch still faced legal challenges.",
-   "published": "2026-11-05T21:34:07+00:00",
-   "source": "PBS NewsHour Politics",
-   "source_id": "pbs-politics",
-   "bias_note": "center",
-   "first_seen": "2026-11-05T23:40:41.779017+00:00"
-  },
-  {
-   "id": "910b4125d04f6d5b",
-   "title": "White House event reveals Ukraine and Russia share one goal: flattering Melania",
-   "url": "https://www.theguardian.com/us-news/2026/nov/05/melania-trump-white-house-visit-ukraine-russia",
-   "summary": "As war rages on in Kyiv and other cities, the first lady celebrates her single-city ceasefire with Russian and Ukrainian envoysBeaming from a podium in the White House\u2019s Grand Foyer, Melania Trump welcomed senior Russian and Ukrainian officials on Thursday to celebrate a ceasefire in an embattled Ukrainian town for which she has become the unlikeliest broker.The evacuation from Oleshky, a frontline Ukrainian town now occupied by Russia where 800 people lived through a protracted humanitarian crisis, may seem like a sideshow at this point in the war. Russian missiles and drones continue to rain",
-   "published": "2026-11-05T20:52:27+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-11-05T23:40:41.402779+00:00"
-  },
-  {
-   "id": "294f9272f24b6a18",
-   "title": "Gavin Newsom commutes more than 500 death sentences in California",
-   "url": "https://www.theguardian.com/us-news/2026/nov/05/gavin-newsom-commutes-death-sentences-california",
-   "summary": "Democrat\u2019s move prevents these people from executions under future governors, after Christa Pike\u2019s failed executionGavin Newsom, California\u2019s governor, commuted the death sentences of more than 500 people on the state\u2019s death row on Thursday, a move that ensures they can never be executed under future administrations.The Democrat\u2019s mass commutation at the end of his term has converted all of the state\u2019s death sentences to life without the possibility of parole, the largest clearing of any US death row in modern history. Continue reading...",
-   "published": "2026-11-05T20:44:57+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-11-05T23:40:41.402788+00:00"
   }
  ]
 }
