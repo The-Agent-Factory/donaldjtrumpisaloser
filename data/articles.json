@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T03:14:57.606015+00:00",
- "count": 889,
+ "updated": "2026-11-21T12:44:16.669934+00:00",
+ "count": 888,
  "articles": [
   {
    "id": "fa4eda37765a11e1",
@@ -12,6 +12,94 @@
    "source_id": "foxnews-latest",
    "bias_note": "right-leaning",
    "first_seen": "2026-11-20T13:01:24.159692+00:00"
+  },
+  {
+   "id": "f608e5002b32c9df",
+   "title": "This is how badly Trump\u2019s Republican endorsements did in the midterms",
+   "url": "https://www.theguardian.com/us-news/2026/nov/21/trump-republican-endorsements-midterms",
+   "summary": "The Guardian analyzed US Senate, House and governors\u2019 races, showing Trump\u2019s dwindling influence over the GOPDonald Trump often boasts about the power of his \u201cComplete and Total Endorsement\u201d of candidates, but in the 2026 midterms, his endorsements carried less weight than they did two years ago.Half of the Senate candidates Trump endorsed lost, and most of the governors the US president endorsed were defeated by Democratic candidates in this month\u2019s blue wave midterm elections, according to an analysis by the Guardian. Continue reading...",
+   "published": "2026-11-21T12:00:58+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-11-21T12:44:15.569298+00:00"
+  },
+  {
+   "id": "6ea03d3441f5b24b",
+   "title": "Utah mommy blogger Ruby Franke's daughter begs parole board not to let her out of prison: 'she is a monster'",
+   "url": "https://www.foxnews.com/us/utah-mommy-blogger-ruby-franke-daughter-begs-parole-board-not-let-her-out-prison-she-is-monster",
+   "summary": "Shari Franke revealed weekly nightmares of her mother&apos;s house as she urged the Utah Board of Pardons and Parole to keep Ruby Franke behind bars.",
+   "published": "2026-11-21T12:00:11+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-11-21T12:44:15.301876+00:00"
+  },
+  {
+   "id": "4fa8e2c7d9590cf6",
+   "title": "\u2018Grandfather\u2019 or \u2018godfather\u2019? Republicans know they\u2019re stuck with Trump",
+   "url": "https://www.politico.com/news/2026/11/21/republican-chairs-know-stuck-with-trump-2028-01179393",
+   "summary": "Some grassroots GOP leaders want Trump to stay out of 2028 \u2014 even though they know he won\u2019t.",
+   "published": "2026-11-21T12:00:00+00:00",
+   "source": "Politico",
+   "source_id": "politico",
+   "bias_note": "center",
+   "first_seen": "2026-11-21T12:44:15.694346+00:00"
+  },
+  {
+   "id": "f5022eb10131b352",
+   "title": "Fair-weather Silicon Valley pivots away from the right after blue wave: \u2018I\u2019m not Maga\u2019",
+   "url": "https://www.theguardian.com/us-news/2026/nov/21/silicon-valley-pivot-us-midterms",
+   "summary": "From Elon Musk to Palantir\u2019s Alex Karp, CEOs are softening hardline stances in expectation of an influx of DemocratsA short two years ago, Elon Musk stood before an audience of tens of thousands of people in New York City and proudly told them: \u201cI\u2019m not just Maga. I\u2019m dark, gothic Maga.\u201dOn Wednesday, Musk spoke with much less conviction. \u201cI\u2019m not Maga,\u201d he said. \u201cWell, at least I\u2019m not sure what Maga means.\u201d The richest person in the world added he felt \u201cfoolish\u201d for spending some $500m to elect Republicans in the midterms. \u201cIf I could rewind the clock, I would have spent less money,\u201d he said ",
+   "published": "2026-11-21T11:00:56+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-11-21T12:44:15.569324+00:00"
+  },
+  {
+   "id": "17074b3810332c6e",
+   "title": "Promise Me, America by Joe Biden review \u2013 former president defends his decisions",
+   "url": "https://www.theguardian.com/books/2026/nov/21/promise-me-america-joe-biden-memoir-review",
+   "summary": "New memoir tells of policy feats and battles with Trump but struggles to take responsibility for re-election debacleInevitably, readers of Joe Biden\u2019s new memoir will flick forward to find what he says about the events that ended his presidency: increasing pressure about his age and capacity that finally led him to stand aside and anoint Kamala Harris, too late, ushering fascism back to the White House. Alas, Biden thinks he was just fine to keep on serving and the whole thing was a stitch-up by a panicked party.Of his catastrophic debate in June 2024, when the then 81-year-old president blink",
+   "published": "2026-11-21T10:00:55+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-11-21T12:44:15.569328+00:00"
+  },
+  {
+   "id": "323c7c23b6ff3cb6",
+   "title": "2028 presidential contender under fire from state auditor over waste, fraud, abuse fears: 'Troubling response'",
+   "url": "https://www.foxnews.com/politics/2028-presidential-contender-under-fire-from-state-auditor-over-waste-fraud-abuse-fears-troubling-response",
+   "summary": "Kentucky&apos;s top auditor says $1.5 billion in taxpayer waste was uncovered, accusing Democratic Gov. Andy Beshear of brushing off Medicaid and SNAP findings.",
+   "published": "2026-11-21T10:00:44+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-11-21T12:44:15.259400+00:00"
+  },
+  {
+   "id": "de3fcb0a5f233459",
+   "title": "Why Is the World Still Counting on Unproven Carbon Capture Technology?",
+   "url": "https://www.propublica.org/article/carbon-capture-and-storage-climate-models",
+   "summary": "The post Why Is the World Still Counting on Unproven Carbon Capture Technology? appeared first on ProPublica.",
+   "published": "2026-11-21T10:00:00+00:00",
+   "source": "ProPublica",
+   "source_id": "propublica",
+   "bias_note": "investigative",
+   "first_seen": "2026-11-21T12:44:16.143167+00:00"
+  },
+  {
+   "id": "65faec62f6b5a006",
+   "title": "Democratic Sen.-elect Colom responds to Trump's praise",
+   "url": "https://thehill.com/homenews/campaign/6234930-scott-colom-trump-praise-response/",
+   "summary": "Sen.-elect Scott Colom (D-Miss.) reacted in an interview Friday to President Trump\u2019s recent praise of his midterm campaign strategy, saying his tactic of reaching out to Republicans during the election cycle shows how he plans to represent Mississippi. Colom went viral on the campaign trail for a video he shared in which he tried to...",
+   "published": "2026-11-21T03:09:44+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-11-21T12:44:15.776608+00:00"
   },
   {
    "id": "d7d2be678beefa7c",
@@ -9681,105 +9769,6 @@
    "source_id": "guardian-uspolitics",
    "bias_note": "left-leaning",
    "first_seen": "2026-11-07T16:29:09.955867+00:00"
-  },
-  {
-   "id": "82a79116efba9c7d",
-   "title": "Week in Politics: Trump taps Miller for chief of staff; doubles down on Trumpism",
-   "url": "https://www.npr.org/2026/11/07/nx-s1-6030908/week-in-politics-trump-taps-miller-for-chief-of-staff-doubles-down-on-trumpism",
-   "summary": "President Trump's decision to make Stephen Miller his new chief of staff is a rebuke of the midterm results and a doubling-down on Trumpism.",
-   "published": "2026-11-07T12:41:07+00:00",
-   "source": "NPR Politics",
-   "source_id": "npr-politics",
-   "bias_note": "center",
-   "first_seen": "2026-11-07T16:29:09.717434+00:00"
-  },
-  {
-   "id": "957a59dfd29b9235",
-   "title": "House GOP erupts at Stephen Miller as Trump elevates him after midterm massacre: 'Megalomaniac'",
-   "url": "https://www.foxnews.com/politics/house-gop-erupts-stephen-miller-trump-elevates-him-after-midterm-massacre-megalomaniac",
-   "summary": "House Republicans expressed shock and anger after Trump promoted Stephen Miller to chief of staff following the GOP&apos;s historic midterm losses.",
-   "published": "2026-11-07T12:30:07+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-11-07T16:29:09.175973+00:00"
-  },
-  {
-   "id": "9621471421a5f8dc",
-   "title": "Flip voters discovered that Trump\u2019s racism and xenophobia are expensive",
-   "url": "https://www.theguardian.com/us-news/2026/nov/07/flip-voters-trump-midterms",
-   "summary": "Maga\u2019s regret voters were all-in for Trump\u2019s racism. Then they found out they couldn\u2019t afford itFor the first time in a decade, election predictions far exceeded public expectations. What pollsters anticipated as a blue wave billowed into a blue tsunami. Wins that held ground for already blue seats eased nerves, and the flips of swing states like Michigan, Georgia, North Carolina and Ohio energized the blue base. But red-belt-busting wins in Republican strongholds like Texas, South Carolina and Kansas alongside pending races in Alaska and Mississippi left mouths agape. The explanation was that",
-   "published": "2026-11-07T12:00:12+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-11-07T16:29:09.955884+00:00"
-  },
-  {
-   "id": "cf7c5c2de8d6ce93",
-   "title": "Democratic senator-elect calls Trump 'unserious fool' while defending combative political style",
-   "url": "https://www.foxnews.com/politics/democratic-senator-elect-calls-trump-unserious-fool-defending-combative-political-style",
-   "summary": "Abdul El-Sayed told Pod Save America that Democrats must treat Trump as an &quot;unserious fool&quot; and stop clinging to outdated political decorum.",
-   "published": "2026-11-07T12:00:11+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-11-07T16:29:09.175980+00:00"
-  },
-  {
-   "id": "aa0b8173c6ba4bd6",
-   "title": "The Memo: GOP fumbles for way forward in a world beyond Trump",
-   "url": "https://thehill.com/homenews/analysis/6205560-trump-midterm-elections-republican-party-direction/",
-   "summary": "A historic election week is ending, but the debate about the future of the Republican Party is just beginning. On one side are those who see the midterms as a wholesale repudiation of President Trump \u2014 or at least a startling reminder that neither he nor his party is immune to the laws of political...",
-   "published": "2026-11-07T11:00:00+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-11-07T16:29:10.201524+00:00"
-  },
-  {
-   "id": "5e342cdc28fa490b",
-   "title": "Trump sends 'clear message' to Democrats with Miller promotion",
-   "url": "https://thehill.com/homenews/administration/6205475-trump-miller-promotion-democrats-majority/",
-   "summary": "President Trump sent a blunt message to the incoming Democratic majority on Capitol Hill by tapping Stephen Miller to be his new chief of staff, setting up what is likely to be a contentious two years between both ends of Pennsylvania Avenue.\u00a0 Miller is loathed by most Democrats, many of whom view him as xenophobic...",
-   "published": "2026-11-07T11:00:00+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-11-07T16:29:10.201535+00:00"
-  },
-  {
-   "id": "e5052e83a8dac9b4",
-   "title": "Texas\u2019 School Voucher Program Could Be \u201cUnrecognizable, If Not Extinct,\u201d Says Democratic Lawmaker",
-   "url": "https://www.propublica.org/article/texas-school-vouchers-gina-hinojosa",
-   "summary": "The post Texas\u2019 School Voucher Program Could Be \u201cUnrecognizable, If Not Extinct,\u201d Says Democratic Lawmaker appeared first on ProPublica.",
-   "published": "2026-11-07T11:00:00+00:00",
-   "source": "ProPublica",
-   "source_id": "propublica",
-   "bias_note": "investigative",
-   "first_seen": "2026-11-07T16:29:10.883776+00:00"
-  },
-  {
-   "id": "d29e41e562774826",
-   "title": "The end of Maga as we know it",
-   "url": "https://www.theguardian.com/news/ng-interactive/2026/nov/07/the-end-of-maga-as-we-know-it",
-   "summary": "The Republican party will regroup after their shellacking in the US midterm elections, but it won\u2019t look the sameWalking by a tattoo studio and medical spa on the pretty main street of Round Rock, in Texas Hill Country, Tarik Bakir recalled voting for Barack Obama in 2008 and Donald Trump in 2024. But when it came to the 2026 midterm elections, he was firmly back in the Democrats\u2019 column.\u201cI\u2019m not happy with the Iran war,\u201d said Bakir, 41, a financial adviser who served with the US military in Afghanistan. \u201cThe economy\u2019s OK, but not great. This election was a rebuttal to Trump. This time people ",
-   "published": "2026-11-07T06:00:05+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-11-07T08:52:03.522551+00:00"
-  },
-  {
-   "id": "148291b876c16d58",
-   "title": "Tillis says Miller is 'worst of all possible choices' for chief of staff role",
-   "url": "https://thehill.com/homenews/administration/6205824-tillis-slams-trump-miller-hire/",
-   "summary": "Sen. Thom Tillis (R-N.C.) blasted President Trump\u2019s Friday decision to replace outgoing White House chief of staff Susie Wiles with top adviser Stephen Miller, saying the president \u201cneeds to rethink\u201d his decision. \u201cI've criticized a lot of the president's advisors for bad advice that I think \u2026 created some of the environment on Tuesday, but...",
-   "published": "2026-11-07T04:12:52+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-11-07T08:52:03.728586+00:00"
   }
  ]
 }
