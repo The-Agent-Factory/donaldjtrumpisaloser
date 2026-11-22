@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T18:18:43.417647+00:00",
+ "updated": "2026-11-22T20:44:41.959711+00:00",
  "count": 885,
  "articles": [
   {
@@ -12,6 +12,72 @@
    "source_id": "foxnews-latest",
    "bias_note": "right-leaning",
    "first_seen": "2026-11-20T13:01:24.159692+00:00"
+  },
+  {
+   "id": "9f3a9007bf7a8682",
+   "title": "Democrats clinch historic House majority as Chuck Hubbard defeats longtime GOP Rep. Virginia Foxx",
+   "url": "https://www.foxnews.com/politics/democrats-clinch-historic-house-majority-chuck-hubbard-defeats-longtime-gop-rep-virginia-foxx",
+   "summary": "Democrats secured their largest House majority since 1992, setting up clashes with Trump over investigations, health care and Republican policies.",
+   "published": "2026-11-22T20:34:07+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-11-22T20:44:40.347731+00:00"
+  },
+  {
+   "id": "fb61cc4234e2e4e6",
+   "title": "Jensen Huang\u2019s reported affair was \u2018most expensive sex since Helen of Troy\u2019, US senator says",
+   "url": "https://www.theguardian.com/us-news/2026/nov/22/jensen-huang-nvidia-john-kennedy",
+   "summary": "John Kennedy looks to Trump leaders as he asks how China evidently bypassed export controls for Nvidia\u2019s top AI chipsInvoking Greek mythology, US senator John Kennedy has characterized former Nvidia chief executive officer Jensen Huang\u2019s reported affair with a suspected Chinese spy as \u201cthe most expensive sex since Helen of Troy\u201d.The Louisiana Republican\u2019s allusion to the legendary figure whose desirability was such that it caused the mythic Trojan war came during an interview on NBC\u2019s Meet the Press on Sunday. Host Kristen Welker asked Kennedy, known for his colloquialisms, if US national secu",
+   "published": "2026-11-22T20:23:36+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-11-22T20:44:41.013974+00:00"
+  },
+  {
+   "id": "6b73b8836b3e8175",
+   "title": "Trump blames $6T stock market slide on Democrats' midterm wins",
+   "url": "https://thehill.com/homenews/administration/6236127-trump-blames-market-drop/",
+   "summary": "President Trump blames the stock market\u2019s $6 trillion slide on the Democratic party\u2019s wins nationwide that saw it take control of both the House and Senate.  \u201cThe Market is down more than 6 Trillion Dollars since the Democrats\u2019 rather strange \u2018win\u2019 on November 3rd,\u201d Trump wrote on Truth Social. \u201cNASDAQ, by itself, is down 20%....",
+   "published": "2026-11-22T19:46:02+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-11-22T20:44:41.211636+00:00"
+  },
+  {
+   "id": "e1de8a9341eea70a",
+   "title": "Democrats capture at least 258 House seats in largest sweep since 1992",
+   "url": "https://www.theguardian.com/us-news/2026/nov/22/house-democrats-historic-sweep",
+   "summary": "Milestone reached Sunday, after Democrat Chuck Hubbard defeated Republican Virginia Foxx in North CarolinaHouse Democrats have secured their best general election result in decades, winning at least 258 seats in a midterm election sweep unseen since 1992 that creates not only vast opportunities to govern but also intense pressure to deliver on campaign promises and priorities.Democrats have gained 44 House seats so far, four more than the 40 they picked up in Donald Trump\u2019s first midterm in 2018. Continue reading...",
+   "published": "2026-11-22T19:17:56+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-11-22T20:44:41.013983+00:00"
+  },
+  {
+   "id": "20baa5925c3edf02",
+   "title": "U.S. intelligence chief says Trump's description of Putin as a 'friend' is 'entirely appropriate'",
+   "url": "https://www.pbs.org/newshour/world/u-s-intelligence-chief-says-trumps-description-of-putin-as-a-friend-is-entirely-appropriate",
+   "summary": "Clayton defended comments that Democrats have characterized as a betrayal of American values after Trump met with Putin and Chinese President Xi Jinping for rare three-way talks.",
+   "published": "2026-11-22T18:37:06+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-11-22T20:44:41.395780+00:00"
+  },
+  {
+   "id": "9262e5fe5f547f12",
+   "title": "Hakeem Jeffries willing to cross political aisle to work on Democrats\u2019 agenda",
+   "url": "https://www.theguardian.com/us-news/2026/nov/22/hakeem-jeffries-democrats-agenda",
+   "summary": "Incoming House speaker says party focused on affordability and fixing \u2018broken\u2019 healthcare and immigration systemsThe incoming US House speaker, Hakeem Jeffries, has said he and his fellow Democrats are focused on affordability, expanding healthcare and fixing the \u201cbroken\u201d immigration system in the country \u2013 and willing to cross the political aisle to do so.Jeffries laid out that agenda in an interview on Sunday with CBS News\u2019s Face the Nation, less than three weeks after Democrats seized control of Congress during the 3 November midterms for the latter half of Donald Trump\u2019s second presidency.",
+   "published": "2026-11-22T18:25:42+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-11-22T20:44:41.013988+00:00"
   },
   {
    "id": "86b3fcf538a0a0e2",
@@ -9670,72 +9736,6 @@
    "source_id": "pbs-politics",
    "bias_note": "center",
    "first_seen": "2026-11-08T22:12:33.128832+00:00"
-  },
-  {
-   "id": "a7e9b579e49261fd",
-   "title": "Deputy White House Chief of Staff Richard Walters exits job ahead of Stephen Miller takeover",
-   "url": "https://www.foxnews.com/politics/deputy-white-house-chief-staff-richard-walters-exits-job-ahead-stephen-miller-takeover",
-   "summary": "Stephen Miller praised Richard Walters as an \u201cinvaluable member&quot; who will continue helping the administration from outside the White House.",
-   "published": "2026-11-08T20:43:44+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-11-08T22:12:31.742466+00:00"
-  },
-  {
-   "id": "4d99f07ca772ea8b",
-   "title": "Trump and his Justice Department stand defiant as Democrats ready an investigative blitz",
-   "url": "https://abcnews.com/Politics/wireStory/trump-justice-department-stand-defiant-democrats-ready-investigative-137958810",
-   "summary": "President Donald Trump and his Department of Justice are taking a combative stance toward Democrats after their victories in the midterm elections",
-   "published": "2026-11-08T20:25:48+00:00",
-   "source": "ABC News Politics",
-   "source_id": "abc-politics",
-   "bias_note": "center",
-   "first_seen": "2026-11-08T22:12:33.842112+00:00"
-  },
-  {
-   "id": "1fc37267a27d41c8",
-   "title": "El-Sayed open to working with Trump on affordable healthcare",
-   "url": "https://thehill.com/homenews/senate/6206856-el-sayed-trump-healthcare-deal/",
-   "summary": "Sen.-elect Abdul El-Sayed (D-Mich.) stated he was open to working with President Trump on affordable healthcare despite the pair trading jabs while the incoming senator was on the campaign trail. \u201cLook, I've never met the man. He is the president of the United States. I am the U.S. senator-elect from the state of Michigan. I...",
-   "published": "2026-11-08T20:08:22+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-11-08T22:12:32.886874+00:00"
-  },
-  {
-   "id": "a355186a9f3a3680",
-   "title": "El-Sayed on Miller: 'Most broken man' to run 'the most dysfunctional White House'",
-   "url": "https://thehill.com/homenews/administration/6206812-el-sayed-slams-stephen-miller/",
-   "summary": "Sen.-elect Abdul El-Sayed (D-Mich.) on Sunday slammed Trump administration adviser Stephen Miller, who was recently promoted to White House chief of staff, calling him the \u201cmost broken man.\u201d In an interview on ABC News\u2019s \u201cThis Week,\u201d the outlet\u2019s Jonathan Karl asked El-Sayed about \u201cwhat message\u201d Miller\u2019s new role \u201csends to the country and to your...",
-   "published": "2026-11-08T19:41:38+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-11-08T22:12:32.886877+00:00"
-  },
-  {
-   "id": "1f59cd90d506c4f5",
-   "title": "Hakeem Jeffries supports impeachment of Pete Hegseth: \u2018He has got to go\u2019",
-   "url": "https://www.theguardian.com/us-news/2026/nov/08/pete-hegseth-impeachment-hakeem-jeffries",
-   "summary": "House Democrat is a \u2018hard yes\u2019 on impeachment resolution against defense secretary who \u2018has abused his power\u2019House minority leader Hakeem Jeffries, poised to become majority leader, said on Sunday that he strongly supports impeaching defense secretary Pete Hegseth as a Republican lawmaker prepares to force a House vote.The top Democrat made his position clear during an appearance on ABC\u2019s This Week, declaring himself a \u201chard yes\u201d on the impeachment resolution targeting Hegseth. Continue reading...",
-   "published": "2026-11-08T19:11:33+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-11-08T22:12:32.574509+00:00"
-  },
-  {
-   "id": "a6f54b38c766dbee",
-   "title": "ICYMI: AG Todd Blanche Dismantles Democrats\u2019 \u201cOversight\u201d Charade on the Sunday Shows",
-   "url": "https://www.whitehouse.gov/releases/2026/11/icymi-ag-todd-blanche-dismantles-democrats-oversight-charade-on-the-sunday-shows/",
-   "summary": "This morning, Attorney General Todd Blanche appeared on the Sunday shows and made clear that the Department of Justice will fulfill its Constitutional duty to represent the Executive Branch \u2014 and that Democrats\u2019 explicit threats of endless investigations, impeachments, and retribution against President Trump, Cabinet officials, and private citizens will not succeed. Key exchanges:\nThe post ICYMI: AG Todd Blanche Dismantles Democrats\u2019 \u201cOversight\u201d Charade on the Sunday Shows appeared first on The White House.",
-   "published": "2026-11-08T19:10:42+00:00",
-   "source": "WhiteHouse.gov News",
-   "source_id": "whitehouse",
-   "bias_note": "official/primary-source",
-   "first_seen": "2026-11-08T22:12:32.085444+00:00"
   }
  ]
 }
