@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-22T12:39:15.443792+00:00",
- "count": 896,
+ "updated": "2026-11-22T18:18:43.417647+00:00",
+ "count": 885,
  "articles": [
   {
    "id": "fa4eda37765a11e1",
@@ -12,6 +12,138 @@
    "source_id": "foxnews-latest",
    "bias_note": "right-leaning",
    "first_seen": "2026-11-20T13:01:24.159692+00:00"
+  },
+  {
+   "id": "86b3fcf538a0a0e2",
+   "title": "Scientists are fighting for their halted funds. Trust of Black communities may be harder to win back",
+   "url": "https://www.pbs.org/newshour/health/scientists-are-fighting-for-their-halted-funds-trust-of-black-communities-may-be-harder-to-win-back",
+   "summary": "The study was among broader research into why Black Americans are twice as likely as their white peers to develop Alzheimer's, but the Trump administration abruptly halted it in its final stretch.",
+   "published": "2026-11-22T18:02:55+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-11-22T18:18:42.801955+00:00"
+  },
+  {
+   "id": "9aa8b431487c9113",
+   "title": "Trump warns of new strikes against Iran after new year, calls negotiators \u2018professional tap dancers\u2019",
+   "url": "https://www.foxnews.com/politics/trump-warns-new-strikes-against-iran-after-new-year-calls-negotiators-professional-tap-dancers",
+   "summary": "",
+   "published": "2026-11-22T17:52:35+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-11-22T18:18:41.706180+00:00"
+  },
+  {
+   "id": "0b4f0d7826ec3aec",
+   "title": "Director of National Intelligence: Putin is 'not America's friend in Ukraine'",
+   "url": "https://thehill.com/homenews/administration/6235931-clayton-defends-trump-putin-friendship/",
+   "summary": "Director of National Intelligence Jay Clayton defended President Trump\u2019s use of the word \u201cfriend\u201d to describe his relationship with Russian President Vladimir Putin, but drew a distinction between the two leaders\u2019 personal relationship and that of the country\u2019s. In an interview with ABC\u2019s \u201cThis Week,\u201d Clayton told co-anchor Jonathan Karl that the word \u201cfriend\u201d was...",
+   "published": "2026-11-22T17:19:23+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-11-22T18:18:42.489685+00:00"
+  },
+  {
+   "id": "6e8f4d7d75c90582",
+   "title": "Trump says it would be 'hard' to work with Chuck Schumer: 'He will fail again'",
+   "url": "https://www.foxnews.com/politics/trump-says-hard-work-chuck-schumer-fail-again",
+   "summary": "President Donald Trump says it will be &quot;hard&quot; to work with Chuck Schumer as Senate majority leader, claiming the Democratic leader will &quot;fail again.&quot;",
+   "published": "2026-11-22T17:18:57+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-11-22T18:18:41.706189+00:00"
+  },
+  {
+   "id": "275fbea67a34dc0f",
+   "title": "Trump hates wind power. A bill he supports may help it get built",
+   "url": "https://thehill.com/policy/energy-environment/6234642-trump-wind-power-permitting-reform/",
+   "summary": "While President Trump vows not to approve wind energy, a bill he could sign into law may have his administration moving these projects forward. Trump has been a longtime opponent of wind energy, calling it \u201cworthless.\" However, he\u2019s also encouraging Congress to approve the Bipartisan American Affordability and Jobs Act (BAAJA), which seeks to help...",
+   "published": "2026-11-22T17:00:00+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-11-22T18:18:42.489714+00:00"
+  },
+  {
+   "id": "63f7e3fe636b2458",
+   "title": "Clayton says he trusts Trump 'completely' after calling Putin a friend",
+   "url": "https://thehill.com/homenews/administration/6235771-clayton-trusts-trump-putin/",
+   "summary": "Director of National Intelligence Jay Clayton on Sunday said he trusts President Trump \"completely\" after he called Russian President Vladimir Putin, a perceived U.S. adversary, a friend. CNN's Dana Bash on \"State of the Union\" showed Clayton two Truth Social posts from the president referring to Putin and Chinese President Xi Jinping as his friends,...",
+   "published": "2026-11-22T15:48:15+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-11-22T18:18:42.489737+00:00"
+  },
+  {
+   "id": "483d8f6c1df05f55",
+   "title": "Live updates: Leadership fight ramps up; Clayton calls Trump's trilateral talks 'remarkable'",
+   "url": "https://thehill.com/homenews/administration/6235588-live-updates-congress-leadership-fight-ramps-up/",
+   "summary": "Lawmakers left Capitol Hill and headed home for the Thanksgiving recess this weekend after a jam-packed week of moving bills and confirming appointments, as the 119th Congress comes to a close and Democrats take control of both chambers in the new year. Director of National Intelligence Jay Clayton on Sunday said he trusts President Trump...",
+   "published": "2026-11-22T15:43:23+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-11-22T18:18:42.489739+00:00"
+  },
+  {
+   "id": "72f09eb75d786607",
+   "title": "Trump says it will be \u2018very hard\u2019 to work with Schumer as Senate majority leader",
+   "url": "https://thehill.com/homenews/administration/6235788-trump-critiques-schumer-senate/",
+   "summary": "President Trump said Sunday that it would be \u201cvery hard\u201d for him to work with Senate Minority Leader Chuck Schumer (D-N.Y.) if he becomes majority leader next year, as the New York Democrat faces a challenge to his leadership post when Democrats take control of the chamber in January. \u201cIt is going to be very...",
+   "published": "2026-11-22T15:19:09+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-11-22T18:18:42.489741+00:00"
+  },
+  {
+   "id": "f613037f38718f5b",
+   "title": "Politics chat: Lawmakers step up with only weeks to Democrats' control of Congress",
+   "url": "https://www.npr.org/2026/11/22/nx-s1-6045787/politics-chat-lawmakers-step-up-with-only-weeks-to-democrats-control-of-congress",
+   "summary": "A funding deadline for Congress weeks before Democrats take control. President Trump signs an executive order requiring contractors to get approval before sharing with Congressional investigations.",
+   "published": "2026-11-22T13:12:09+00:00",
+   "source": "NPR Politics",
+   "source_id": "npr-politics",
+   "bias_note": "center",
+   "first_seen": "2026-11-22T18:18:42.172798+00:00"
+  },
+  {
+   "id": "534ee5ac501a666e",
+   "title": "Christian nationalist conference hosts Nick Fuentes, vows to keep pushing MAGA agenda",
+   "url": "https://www.npr.org/2026/11/22/nx-s1-6040018/christian-nationalist-conference-hosts-nick-fuentes-vows-to-keep-pushing-maga-agenda",
+   "summary": "A particular group of Christian nationalists met in Texas last weekend and vowed to push what remains of MAGA as far to the right as possible. They hosted antisemitic streamer Nick Fuentes.",
+   "published": "2026-11-22T13:12:08+00:00",
+   "source": "NPR Politics",
+   "source_id": "npr-politics",
+   "bias_note": "center",
+   "first_seen": "2026-11-22T18:18:42.172805+00:00"
+  },
+  {
+   "id": "42edd584571890b1",
+   "title": "$275M Obama-era solar fraud case could net taxpayers $1B, but Trump's DOJ backs Biden dismissal",
+   "url": "https://www.foxnews.com/politics/275m-obama-era-solar-fraud-case-net-taxpayers-1b-trump-doj-backs-biden-dismissal",
+   "summary": "Investors behind a False Claims Act qui tam lawsuit over Crescent Dunes&apos; $275 million federal grant say the Trump DOJ is defending a Biden-era dismissal.",
+   "published": "2026-11-22T13:00:46+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-11-22T18:18:41.706214+00:00"
+  },
+  {
+   "id": "b7ad53f84096095e",
+   "title": "Trump\u2019s immigration crackdown drives international students away from US universities",
+   "url": "https://www.theguardian.com/education/2026/nov/22/trump-immigration-crackdown-international-students",
+   "summary": "The decline is costing colleges millions in tuition revenue and depriving American students of the cultural benefits of international classmatesUntil 2025, students from Brazil, Nigeria, Thailand, Turkey, Turkmenistan and Zambia eagerly accepted a full scholarship to attend Indiana University in Bloomington, a town in the midwestern United States where fans are passionate about the Hoosiers \u2013 the school\u2019s basketball and football teams.The town also hosts the Little 500, a famous bicycle race that can attract more than 25,000 people. And most importantly for prospective students, the school has",
+   "published": "2026-11-22T13:00:28+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-11-22T18:18:42.227688+00:00"
   },
   {
    "id": "6cfafb674561f3f2",
@@ -9604,259 +9736,6 @@
    "source_id": "whitehouse",
    "bias_note": "official/primary-source",
    "first_seen": "2026-11-08T22:12:32.085444+00:00"
-  },
-  {
-   "id": "40d430bf11551bc8",
-   "title": "Sanders 'not worried' about Stephen Miller becoming White House chief of staff",
-   "url": "https://thehill.com/homenews/senate/6206577-sanders-miller-white-house/",
-   "summary": "Sen. Bernie Sanders (I-Vt.) on Sunday said he's \"not worried\" about Stephen Miller becoming President Trump's new White House chief of staff. \"Meet the Press\" host Kristen Welker pointed out Sanders's history of criticizing Miller and asked if he could see himself working with him. Sanders said he believes Trump is \"mentally unbalanced, erratic, but...",
-   "published": "2026-11-08T18:13:31+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-11-08T22:12:32.886890+00:00"
-  },
-  {
-   "id": "be859eccbf57e086",
-   "title": "GOP lawmaker calls Trump\u2019s promotion of Stephen Miller \u2018a mistake\u2019",
-   "url": "https://thehill.com/homenews/house/6206725-stutzman-decries-miller-promotion/",
-   "summary": "Rep. Marlin Stutzman (R-Ind.) on Sunday decried President Trump\u2019s promotion of Stephen Miller to White House chief of staff. \u201cI come from the business world, just like President Trump does. And you know what? If your team takes a beating as badly as we took this last week, you have to fire people,\u201d Stutzman told...",
-   "published": "2026-11-08T18:09:44+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-11-08T22:12:32.886893+00:00"
-  },
-  {
-   "id": "6a8bccaaa4b4a0be",
-   "title": "AP sources: Staff at U.S. center for AI safety are reporting to the White House, raising independence concerns",
-   "url": "https://www.pbs.org/newshour/politics/staff-at-u-s-center-for-ai-safety-are-reporting-to-the-white-house-raising-independence-concerns",
-   "summary": "Officials with the Center for Advancing Innovation and Standards for Super Intelligence, or CAISSI, an independent division of the Commerce Department, recently were asked to informally report to an office of the White House.",
-   "published": "2026-11-08T18:05:01+00:00",
-   "source": "PBS NewsHour Politics",
-   "source_id": "pbs-politics",
-   "bias_note": "center",
-   "first_seen": "2026-11-08T22:12:33.128839+00:00"
-  },
-  {
-   "id": "595163415d2081ae",
-   "title": "Saturday Night Live: Druski hosts and James Talarico cameos, but where\u2019s the post-election comedy?",
-   "url": "https://www.theguardian.com/tv-and-radio/2026/nov/08/saturday-night-live-druski-post-election-talarico",
-   "summary": "SNL booking comedian Druski post-midterms felt misbegotten in low-energy episode failing to capture historic \u2018blue-nami\u2019Four days after the historic \u201cblue-nami\u201d midterms, Saturday Night Live opens at Democrats\u2019 headquarters, where party leaders Hakeem Jeffries (Kenan Thompson) and Chuck Schumer (Sarah Sherman) celebrate, even as they vow to hold on to power in spite of the wishes of their energized base.Their toast is interrupted by the man responsible for Republicans\u2019 shellacking, Donald Trump (James Austin Johnson). The president, who is \u201cnow lame duck\u201d, accepts the results, \u201cwhich is scarie",
-   "published": "2026-11-08T18:02:36+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-11-08T22:12:32.574517+00:00"
-  },
-  {
-   "id": "16f2d02935493c67",
-   "title": "Trump set to lurch further right, claiming US took \u2018giant step back\u2019 in elections",
-   "url": "https://www.theguardian.com/us-news/2026/nov/08/trump-midterm-elections-loss-democrats-immigration",
-   "summary": "Trump poised to double down on immigration crackdown and refuse concessions to new Democratic majority in CongressDonald Trump set the stage for his administration to lurch further to the right this weekend, claiming the US had taken a \u201cgiant step back\u201d by widely rejecting his party.The US president\u2019s hardline aide, Stephen Miller, will begin as White House chief of staff on Monday. He will also meet with Dana White, CEO and president of the Ultimate Fighting Championship, after offering him the job of press secretary. Continue reading...",
-   "published": "2026-11-08T17:58:43+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-11-08T22:12:32.574520+00:00"
-  },
-  {
-   "id": "6d6a9b1743d8c46f",
-   "title": "Presidential Message on Diwali",
-   "url": "https://www.whitehouse.gov/briefings-statements/2026/11/presidential-message-on-diwali-1f71/",
-   "summary": "Today, I send my warmest greetings to Americans across our great Nation celebrating Diwali\u2014the Festival of Lights. During this special time, families gather around flickering diyas, homes shine with the warmth of ancient traditions, and countless communities glow with the beauty of a celebration thousands of years in the making.&#160; This Diwali, we observe light\u2019s [&#8230;]\nThe post Presidential Message on Diwali appeared first on The White House.",
-   "published": "2026-11-08T17:47:27+00:00",
-   "source": "WhiteHouse.gov News",
-   "source_id": "whitehouse",
-   "bias_note": "official/primary-source",
-   "first_seen": "2026-11-08T22:12:32.085450+00:00"
-  },
-  {
-   "id": "d9b6c270fe2620d7",
-   "title": "Sanders says Democrats should hold Trump accountable but 'cannot spend all of our time'",
-   "url": "https://thehill.com/homenews/senate/6206576-sanders-democrats-trump-accountability/",
-   "summary": "Sen. Bernie Sanders (I-Vt.) on Sunday said Democrats will need to hold President Trump accountable when they take over control of Congress starting in January but added that they \u201ccannot spend all of our time\u201d just investigating the president. \u201cDo we want to hold the Trump administration accountable for their corruption, for their illegal, unconstitutional...",
-   "published": "2026-11-08T17:21:26+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-11-08T22:12:32.886902+00:00"
-  },
-  {
-   "id": "cf165402d3bb208a",
-   "title": "Ex-RFK Jr adviser requests records on Wiles's health policy influence",
-   "url": "https://thehill.com/policy/healthcare/6206661-calley-means-susie-wiles-records/",
-   "summary": "Calley Means, a former top adviser to Health and Human Services (HHS) Secretary Robert F. Kennedy Jr., requested records on former White House chief of staff Susie Wiles\u2019s health policy influence be preserved following allegations he made that she led the Trump administration to consistently bow to corporate interests on health policy. \u201cIn light of...",
-   "published": "2026-11-08T17:13:43+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-11-08T22:12:32.886905+00:00"
-  },
-  {
-   "id": "0f7cf8c7e8281c29",
-   "title": "Trump shares cartoon of Dana White as press secretary",
-   "url": "https://thehill.com/homenews/media/6206667-trump-shares-dana-white-cartoon/",
-   "summary": "President Trump on Sunday shared a cartoon of Dana White, CEO and president of UFC, as White House press secretary after announcing that White had been proposed as a candidate for the role. The president posted a cartoon video with the same animation style as \u201cFamily Guy.\u201d In the video, White is in the White...",
-   "published": "2026-11-08T17:09:16+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-11-08T22:12:32.886908+00:00"
-  },
-  {
-   "id": "f8c92db878eee241",
-   "title": "Challenging the politics that brought Donald Trump to power | Letters",
-   "url": "https://www.theguardian.com/us-news/2026/nov/08/challenging-the-politics-that-brought-donald-trump-to-power",
-   "summary": "Readers respond to an editorial commenting on the Republicans\u2019 rout in the US midterm electionsYour editorial on the US midterms (4 November) notes that culture war attacks, bigotry and smears failed this time. It is worth asking why they worked before. For a decade we have argued over whether Donald Trump\u2019s support was about economics or culture. My research, combining a survey of 6,600 US residents with social mobility data, suggests the question was badly posed. Trump\u2019s 2016 gains over Mitt&nbsp;Romney\u2019s in 2012 were largest in counties where children born poor are least likely to rise, and",
-   "published": "2026-11-08T16:37:43+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-11-08T16:56:39.150173+00:00"
-  },
-  {
-   "id": "721e7b33878e4c7a",
-   "title": "Hakeem Jeffries says he's a 'hard yes' to impeach Hegseth",
-   "url": "https://thehill.com/homenews/house/6206617-jeffries-supports-hegseth-impeachment/",
-   "summary": "House Minority Leader Hakeem Jeffries (D-N.Y.), who will likely be the Speaker of the House come January, said Sunday that he is a \u201chard yes\u201d when it comes to impeaching Defense Secretary Pete Hegseth. \u201cI\u2019m a hard yes on the Hegseth resolution. The so-called secretary of Defense has abused his power, undermined our national security...",
-   "published": "2026-11-08T16:16:22+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-11-08T16:56:39.347044+00:00"
-  },
-  {
-   "id": "eac694ca0658a063",
-   "title": "Blanche dodges questions on investigating Democrats",
-   "url": "https://thehill.com/homenews/administration/6206582-attorney-general-blanche-dodges-investigation-questions/",
-   "summary": "Attorney General Todd Blanche dodged questions on Sunday on whether he would open investigations into Democratic members of Congress following President Trump\u2019s remarks to look into claims of a \u201ccriminal act.\u201d Appearing on CNN\u2019s \u201cState of the Union,\u201d Blanche was asked about Trump ordering investigations against Congressional Democrats for calling for the impeachment of certain...",
-   "published": "2026-11-08T15:27:06+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-11-08T16:42:36.465364+00:00"
-  },
-  {
-   "id": "1fa1bfcf39f13de7",
-   "title": "Abdul El-Sayed\u2019s Oxford years: PhD, political influences and sporting distinction",
-   "url": "https://www.theguardian.com/us-news/2026/nov/08/abdul-el-sayed-michigan-senator-oxford-university-years-phd",
-   "summary": "Michigan senator-elect\u2019s former peers recall his time at university in Britain \u2013 and his love of coronation chicken sandwichesIn the cold, twilight days of 2008, inside the University of Michigan\u2019s fortress-like Fleming administration building, one student was given a particularly adulatory sendoff.Mary Sue Coleman, president of the university at the time, convened a ceremony for the latest Rhodes scholar heading to the University of Oxford: Abdul El-Sayed. \u201cThere is no doubt among anyone who crosses his path that he will achieve all he sets out to accomplish and more,\u201d she declared to a room ",
-   "published": "2026-11-08T15:26:04+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-11-08T16:42:36.212109+00:00"
-  },
-  {
-   "id": "52e465534b513bf0",
-   "title": "Trump \u2018holds all the cards\u2019 in war against Iran\u2019s regime, White House says",
-   "url": "https://www.foxnews.com/opinion/trump-holds-all-cards-war-against-irans-regime-white-house-says",
-   "summary": "Supreme Leader Ayatollah Mojtaba Khamenei taunts America after midterms, but the White House says Trump holds all the cards on the Strait of Hormuz.",
-   "published": "2026-11-08T15:13:07+00:00",
-   "source": "Fox News Latest",
-   "source_id": "foxnews-latest",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-11-08T16:42:35.492203+00:00"
-  },
-  {
-   "id": "fd66ebf5cb93cabf",
-   "title": "Trump \u2018holds all the cards\u2019 in war against Iran\u2019s regime, White House says",
-   "url": "https://www.foxnews.com/politics/trump-holds-all-cards-war-against-irans-regime-white-house-says",
-   "summary": "Supreme Leader Ayatollah Mojtaba Khamenei taunts America after midterms, but the White House says Trump holds all the cards on the Strait of Hormuz.",
-   "published": "2026-11-08T15:13:07+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-11-08T22:12:31.742494+00:00"
-  },
-  {
-   "id": "2b571ffdaf575282",
-   "title": "The political playbook that unraveled US transgender rights in the past decade",
-   "url": "https://www.theguardian.com/us-news/2026/nov/08/transgender-rights-unraveled",
-   "summary": "From the military to healthcare, Trump systematically dismantled Obama-era protections for transgender rightsShelby Chestnut remembers turning on the news in 2016 and hearing something he didn\u2019t expect. Then- attorney general, Loretta Lynch, had just announced a federal lawsuit to block HB2 in North Carolina, otherwise known as the \u201cbathroom bill\u201d. Lynch said the law, which made it illegal for transgender people to use a public restroom that did not align with the sex listed on their birth certificate, was reminiscent of those passed during the Jim Crow era that restricted public facility use ",
-   "published": "2026-11-08T15:00:42+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-11-08T16:42:36.212117+00:00"
-  },
-  {
-   "id": "65c0bffd33ad3716",
-   "title": "Voters demanded economic relief. Trump and Democrats face tough choices on how to deliver",
-   "url": "https://abcnews.com/Politics/wireStory/voters-demanded-economic-relief-trump-democrats-face-tough-137952337",
-   "summary": "Voters have sent a strong election-year message to President Donald Trump and the new Democratic congressional majority to repair the U.S. economy damaged by inflation",
-   "published": "2026-11-08T14:16:52+00:00",
-   "source": "ABC News Politics",
-   "source_id": "abc-politics",
-   "bias_note": "center",
-   "first_seen": "2026-11-08T16:42:37.199164+00:00"
-  },
-  {
-   "id": "48e4237c0f46d45f",
-   "title": "Three ways the new Congress can stop Trump\u2019s war",
-   "url": "https://thehill.com/opinion/congress-blog/6205683-congress-tools-end-iran-war/",
-   "summary": "Following Democratic victories in the midterm elections driven by opposition to the Iran war, the incoming Congress plans to utilize its power of the purse, potential impeachment proceedings against the Defense secretary, and litigation to force the Trump administration to end the conflict.",
-   "published": "2026-11-08T14:00:00+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-11-08T16:42:36.465384+00:00"
-  },
-  {
-   "id": "8fd967947300e9ad",
-   "title": "Live updates: Trump sits for post-midterms interview; Congress gears up for lame-duck session",
-   "url": "https://thehill.com/homenews/administration/6206264-live-trump-60-minutes-congress-midterms/",
-   "summary": "President Trump is set to appear on CBS News's \"60 Minutes\" Sunday night, sitting for his first interview following the GOP's devastating loss of both the House and Senate in Tuesday's midterms. Post Election Day, the president was quick to blame Republican candidate quality for the sweeping blue wave, though others pointed to Trump's approval...",
-   "published": "2026-11-08T13:35:47+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-11-08T16:42:36.465396+00:00"
-  },
-  {
-   "id": "9cf57efdfa9d9926",
-   "title": "Republican consultant discusses what went wrong and what's next for the GOP",
-   "url": "https://www.npr.org/2026/11/08/nx-s1-6033375/republican-consultant-discusses-what-went-wrong-and-whats-next-for-the-gop",
-   "summary": "NPR's Ayesha Rascoe speaks to Hogan Gidley, a Republican consultant and former White House Deputy Press Secretary during the first Trump administration, about the GOP's post-midterm strategy.",
-   "published": "2026-11-08T13:22:23+00:00",
-   "source": "NPR Politics",
-   "source_id": "npr-politics",
-   "bias_note": "center",
-   "first_seen": "2026-11-08T16:42:36.023427+00:00"
-  },
-  {
-   "id": "004d97bad1c9047f",
-   "title": "Week in politics: Democrats plan for the next Congress, Trump's new Chief of Staff",
-   "url": "https://www.npr.org/2026/11/08/nx-s1-6030679/week-in-politics-democrats-plan-for-the-next-congress-trumps-new-chief-of-staff",
-   "summary": "Democrats plans for the next Congress, where they'll hold significant majorities in both chambers.\nMeanwhile, President Trump signals his plans by promoting Stephen Miller as his new Chief of Staff.",
-   "published": "2026-11-08T13:16:05+00:00",
-   "source": "NPR Politics",
-   "source_id": "npr-politics",
-   "bias_note": "center",
-   "first_seen": "2026-11-08T16:42:36.023437+00:00"
-  },
-  {
-   "id": "00880b1f073ca54a",
-   "title": "Dana White says he will meet with Trump to discuss White House press secretary role",
-   "url": "https://thehill.com/homenews/administration/6206479-dana-white-trump-press-secretary/",
-   "summary": "Dana White, president and CEO of the Ultimate Fighting Championship (UFC), on Saturday said he will meet with President Trump on Monday to discuss the president's offer to take the role of White House press secretary. White told reporters in London that he was flying to Washington and, when asked how he could balance multiple...",
-   "published": "2026-11-08T13:12:36+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-11-08T16:42:36.465399+00:00"
-  },
-  {
-   "id": "d19719f2ddf163b6",
-   "title": "How CrossFit helped shape the macho fitness culture of Trump\u2019s America",
-   "url": "https://www.theguardian.com/us-news/2026/nov/08/crossfit-fitness-culture-trump-america",
-   "summary": "The movement founded by Greg Glassman grew into an empire, helping popularize the masculinity aesthetic embraced by Pete Hegseth and RFK JrComparative machismo is hardly new, but when Donald Trump publicly admired Senator Jon Husted\u2019s backside earlier this month, later telling advisers it made the since-defeated Ohio incumbent more \u201cinteresting\u201d to voters, the senator leaned into the compliment, saying it gave him extra motivation to \u201cget down to the gym\u201d.Would that odd exchange have taken place without CrossFit, the fitness empire founded by college dropout and gymnast Greg Glassman in the 19",
-   "published": "2026-11-08T13:00:40+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-11-08T16:42:36.212122+00:00"
   }
  ]
 }
