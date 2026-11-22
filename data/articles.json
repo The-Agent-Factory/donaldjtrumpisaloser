@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T20:33:50.918464+00:00",
- "count": 897,
+ "updated": "2026-11-22T02:17:28.014721+00:00",
+ "count": 899,
  "articles": [
   {
    "id": "fa4eda37765a11e1",
@@ -12,6 +12,105 @@
    "source_id": "foxnews-latest",
    "bias_note": "right-leaning",
    "first_seen": "2026-11-20T13:01:24.159692+00:00"
+  },
+  {
+   "id": "41650b7ddaf37ef3",
+   "title": "Sunday shows preview: Trump's security agenda, House leadership elections take center stage",
+   "url": "https://thehill.com/homenews/sunday-talk-shows/6235459-house-leadership-trump-national-security/",
+   "summary": "House Democrats nominated Minority Leader Hakeem Jeffries (D-N.Y.) this week for the Speakership, teeing up what would mark his historic appointment as the first Black lawmaker to lead the legislative chamber.  Jeffries's nomination was one of many significant firsts in the lower chamber. House Democrats also elected Rep. Katherine Clark (D-Mass.) as the first woman for...",
+   "published": "2026-11-21T23:06:51+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-11-22T02:17:27.258112+00:00"
+  },
+  {
+   "id": "46f270cac6fc8694",
+   "title": "Trump says Roger Clemens should be in the Baseball Hall of Fame 'immediately,' won't fully back Barry Bonds",
+   "url": "https://www.foxnews.com/outkick-sports/trump-says-roger-clemens-should-baseball-hall-fame-immediately-wont-fully-back-barry-bonds",
+   "summary": "Fresh off pardoning Pete Rose, President Donald Trump said Roger Clemens belongs in the Baseball Hall of Fame immediately, citing his seven Cy Youngs.",
+   "published": "2026-11-21T23:02:03+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-11-22T02:17:26.272807+00:00"
+  },
+  {
+   "id": "1907e33f760b0578",
+   "title": "For families of the fallen, Trump's proposed arch casts a shadow over Arlington National Cemetery",
+   "url": "https://www.pbs.org/newshour/politics/for-families-of-the-fallen-trumps-proposed-arch-casts-a-shadow-over-arlington-national-cemetery",
+   "summary": "Trump's proposed 250-foot-tall arch could cast a long shadow on Arlington National Cemetery, with the potential to literally shade gravesites, disrupt solemn visits with the noise of construction and alter the carefully designed historic landscape of the nation's capital.",
+   "published": "2026-11-21T22:52:03+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-11-22T02:17:27.442407+00:00"
+  },
+  {
+   "id": "460719117a505666",
+   "title": "Trump orders federal contractors to check with White House before responding to Congress",
+   "url": "https://www.npr.org/2026/11/21/g-s1-154966/trump-contractors-congress",
+   "summary": "President Trump is directing federal contractors to consult the White House about inquiries from Congress and to withhold any communications that his administration considers privileged.",
+   "published": "2026-11-21T22:40:36+00:00",
+   "source": "NPR Politics",
+   "source_id": "npr-politics",
+   "bias_note": "center",
+   "first_seen": "2026-11-22T02:17:26.960961+00:00"
+  },
+  {
+   "id": "b68c6563be526a37",
+   "title": "Trump's grip on GOP tested as MAGA allies head for exit",
+   "url": "https://thehill.com/homenews/campaign/6234314-trump-maga-split-midterms/",
+   "summary": "President Trump's grip on the Republican Party is being seriously tested after the midterm thumping, as stalwarts of his \"Make America Great Again\" (MAGA) movement flee the ship.  Elon Musk's statement that he is \"not MAGA,\" a 180-degree turn from where he stood after Trump's inauguration, is the most notable example. But Musk is not...",
+   "published": "2026-11-21T22:00:00+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-11-22T02:17:27.258128+00:00"
+  },
+  {
+   "id": "f7f9724f890a9f03",
+   "title": "Trump vows to work with Democrats to cap credit card interest rates at 10%",
+   "url": "https://www.pbs.org/newshour/politics/trump-vows-to-work-with-democrats-to-cap-credit-card-interest-rates-at-10",
+   "summary": "The standard proposal would substantially reduce what credit card companies can charge customers. The median credit card interest rate is roughly 22.2%, according to an August survey by the New York Federal Reserve.",
+   "published": "2026-11-21T21:20:34+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-11-22T02:17:27.442413+00:00"
+  },
+  {
+   "id": "0a5039231f3a8436",
+   "title": "Trump praises Zacharia amid California state bar investigation",
+   "url": "https://thehill.com/homenews/administration/6235423-trump-defends-zacharia-departure/",
+   "summary": "President Trump heaped praise on former White House Press Secretary Katie Zacharia in a phone interview Saturday, defending her quick exit from the role earlier this fall. \u201cI saw the way she was being treated and I said, \u2018Katie, you don\u2019t need this,\u2019\u201d Trump told Fox News\u2019 Kayleigh McEnany, a former Trump press secretary. \u201cShe...",
+   "published": "2026-11-21T21:07:46+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-11-22T02:17:27.258131+00:00"
+  },
+  {
+   "id": "7c9e9f9934eec8e5",
+   "title": "Voters oust some sheriffs who signed pacts to help Trump's immigration enforcement efforts",
+   "url": "https://abcnews.com/Politics/wireStory/voters-oust-sheriffs-signed-pacts-trumps-immigration-enforcement-138344353",
+   "summary": "Some sheriffs who aided President Donald Trump&rsquo;s immigration crackdown have been ousted from office by voters",
+   "published": "2026-11-21T20:57:36+00:00",
+   "source": "ABC News Politics",
+   "source_id": "abc-politics",
+   "bias_note": "center",
+   "first_seen": "2026-11-22T02:17:27.764079+00:00"
+  },
+  {
+   "id": "0d1039ca8ff675cf",
+   "title": "Trump wants to work with Democrats on placing 10 percent cap on credit card interest rates",
+   "url": "https://thehill.com/business/6235394-trump-calls-credit-card-cap/",
+   "summary": "President Trump reupped his call for a 10 percent cap on credit card interest rates, saying he would be willing to work with Democrats on the issue. \u201cI didn\u2019t even know they said it but they\u2019ve been trying to get that for years. I would do it,\u201d Trump said during a phone call interview with...",
+   "published": "2026-11-21T20:28:45+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-11-22T02:17:27.258134+00:00"
   },
   {
    "id": "17b16ba4a026bd9e",
@@ -9791,83 +9890,6 @@
    "source_id": "foxnews-latest",
    "bias_note": "right-leaning",
    "first_seen": "2026-11-08T09:04:56.144144+00:00"
-  },
-  {
-   "id": "7a41a56f82d429e0",
-   "title": "Trump says 'a few' cabinet changes are in store after GOP midterm blowout",
-   "url": "https://thehill.com/homenews/administration/6206322-trump-cabinet-midterm-changes/",
-   "summary": "President Trump said he will be making a \u201cfew changes\u201d to his cabinet following the midterm elections where his party suffered major losses at the hands of the Democrats who took control of the House and the Senate. \u201cI love my Cabinet. I think they're good. But I'll \u2026 be doing maybe a few changes....",
-   "published": "2026-11-07T23:51:14+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-11-08T01:28:23.766991+00:00"
-  },
-  {
-   "id": "fb8a22d2d8f23d7f",
-   "title": "Sunday shows preview: Democrats lay out legislative agenda; Congress leadership sparks infighting",
-   "url": "https://thehill.com/homenews/sunday-talk-shows/6206302-congress-leadership-fight-democrats-agenda-midterms/",
-   "summary": "With Democrats set to take control of both the House and Senate following sweeping victories in the midterm elections, sitting lawmakers have already begun to lay out plans for the lame-duck period and the latter half of President Trump's second term. Democrats secured big wins in battleground states, flipping GOP-held seats in places like Texas,...",
-   "published": "2026-11-07T23:27:18+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-11-08T01:28:23.766997+00:00"
-  },
-  {
-   "id": "94a852a8307984e3",
-   "title": "After Trump made inroads, Latinos help Democrats deliver blue wave",
-   "url": "https://thehill.com/homenews/campaign/6205200-hispanic-voters-midterm-elections-gop/",
-   "summary": "Hispanic Americans helped deliver a historic blow to the GOP in Tuesday's contest, diminishing gains President Trump made with Latino men while augmenting the ranks of Democrats in the Congressional Hispanic Caucus (CHC). Exit polling data from polling firm BSP showed significant attrition among Latinos who backed Trump in 2024 \u2014 17 percent of those...",
-   "published": "2026-11-07T22:00:00+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-11-08T01:28:23.767002+00:00"
-  },
-  {
-   "id": "7305d6aa8d33f5e5",
-   "title": "Presidential Message on Honoring the American Flag",
-   "url": "https://www.whitehouse.gov/briefings-statements/2026/11/presidential-message-on-honoring-the-american-flag/",
-   "summary": "For nearly two and a half centuries, the American Flag has stood as the most iconic and magnificent symbol of freedom, liberty, and justice that the world has ever known. &#160;Today, we recommit ourselves to honoring our beloved Stars and Stripes by ensuring it is always treated with the utmost respect, dignity, and reverence that [&#8230;]\nThe post Presidential Message on Honoring the American Flag appeared first on The White House.",
-   "published": "2026-11-07T22:00:00+00:00",
-   "source": "WhiteHouse.gov News",
-   "source_id": "whitehouse",
-   "bias_note": "official/primary-source",
-   "first_seen": "2026-11-08T22:12:32.085451+00:00"
-  },
-  {
-   "id": "881abb4cb386b8da",
-   "title": "Melania Trump secures $7.2M for foster care scholarships at LSU ahead of Alabama showdown",
-   "url": "https://www.foxnews.com/politics/melania-trump-secures-7-2m-foster-care-scholarships-lsu-ahead-alabama-showdown",
-   "summary": "Melania Trump unveiled a $7.2 million scholarship endowment at LSU for foster care youth before receiving a custom jersey and football tribute.",
-   "published": "2026-11-07T21:36:56+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-11-07T21:55:56.207819+00:00"
-  },
-  {
-   "id": "23da95f46dc4cb03",
-   "title": "JACKSON THOMPSON: Trump says he offered UFC CEO Dana White press secretary job",
-   "url": "https://www.foxnews.com/outkick-sports/jackson-thompson-trump-says-offered-ufc-ceo-dana-white-press-secretary-job",
-   "summary": "President Donald Trump proposed UFC CEO Dana White as White House press secretary in a Truth Social post, naming MMA fighters as assistants.",
-   "published": "2026-11-07T21:35:29+00:00",
-   "source": "Fox News Latest",
-   "source_id": "foxnews-latest",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-11-07T21:55:56.232438+00:00"
-  },
-  {
-   "id": "8efac8314b7ea170",
-   "title": "Trump says he's asked UFC's Dana White to be his press secretary",
-   "url": "https://www.pbs.org/newshour/politics/trump-says-hes-asked-ufcs-dana-white-to-be-his-press-secretary",
-   "summary": "Trump's social media post about the offer came as his White House is in a period of major transition and struggling with his party's deep losses in Tuesday's midterm elections.",
-   "published": "2026-11-07T20:55:40+00:00",
-   "source": "PBS NewsHour Politics",
-   "source_id": "pbs-politics",
-   "bias_note": "center",
-   "first_seen": "2026-11-07T21:55:56.748566+00:00"
   }
  ]
 }
