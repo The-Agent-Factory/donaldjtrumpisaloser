@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-23T02:51:43.814109+00:00",
- "count": 878,
+ "updated": "2026-11-23T14:47:32.431305+00:00",
+ "count": 871,
  "articles": [
   {
    "id": "fa4eda37765a11e1",
@@ -12,6 +12,160 @@
    "source_id": "foxnews-latest",
    "bias_note": "right-leaning",
    "first_seen": "2026-11-20T13:01:24.159692+00:00"
+  },
+  {
+   "id": "dfa4db2f66ca0142",
+   "title": "Democrats reveal details for 2028 presidential primary after midterm victories \u2013 US politics live",
+   "url": "https://www.theguardian.com/us-news/live/2026/nov/23/donald-trump-democrats-republicans-presidential-primary-midterms-house-latest-news-updates",
+   "summary": "Party says there will be 12 debates to select a candidate from what is expected to be a large number of hopefulsSign up to the Breaking News US emailHere\u2019s Trump\u2019s full social media post, in which he also called Jensen Huang \u201ca Great Patriot and National Treasure\u201d.The NVIDIA Board of Directors has made the correct and proper decision to return Jensen Huang to the position of CEO. The Country needs Jensen\u2019s leadership at NVIDIA in order to ensure the Success and Prosperity of not only the Company, but the American Economy. The United States Government has no reason to believe that Jensen\u2019s retu",
+   "published": "2026-11-23T14:38:52+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-11-23T14:47:30.238819+00:00"
+  },
+  {
+   "id": "24e978d3dda12360",
+   "title": "Trump praises Nvidia's move reinstating Huang",
+   "url": "https://thehill.com/homenews/administration/6236924-trump-praises-nvidia-ceo-reinstatement/",
+   "summary": "President Trump praised Nvidia\u2019s stunning move to reinstate Jensen Huang as its CEO on Monday, a short time after he was removed for several extramarital affairs, including one with a Chinese spy that posed threats to national security. \u201cThe NVIDIA Board of Directors has made the correct and proper decision to return Jensen Huang to...",
+   "published": "2026-11-23T14:30:04+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-11-23T14:47:31.599449+00:00"
+  },
+  {
+   "id": "66a36c3ad63dc5c6",
+   "title": "Trump backed off Lutnick firing after donation: Haberman",
+   "url": "https://thehill.com/homenews/administration/6236742-donald-trump-howard-lutnick-maggie-haberman/",
+   "summary": "New York Times journalist Maggie Haberman said on Sunday that President Trump backed off from firing Commerce Secretary Howard Lutnick after he made a significant donation to the president. \u201cTrump also complained about attention to Lutnick's sons. He mentioned the donation in big meetings, sometimes saying the only reason he tolerated Lutnick's 'bulls***' was b/c...",
+   "published": "2026-11-23T14:27:35+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-11-23T14:47:31.599467+00:00"
+  },
+  {
+   "id": "d2b6c86563d3ff0e",
+   "title": "Live updates: Nvidia makes U-turn on Jensen Huang, Trump praises decision",
+   "url": "https://thehill.com/homenews/administration/6236287-live-updates-donald-trump-goverment-spending-senate-leadership-fight-iran-war/",
+   "summary": "Nvidia\u2019s board reinstated Jensen Huang as its president and CEO on Monday in a stunning U-turn shortly after rejecting his offer to return. The reversal comes just weeks after the fallout from Huang\u2019s admission of an affair with a woman suspected of being a Chinese spy. \u201cThe Board believes Jensen is the right person to...",
+   "published": "2026-11-23T14:16:00+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-11-23T14:47:31.599484+00:00"
+  },
+  {
+   "id": "08c25894c595fe3d",
+   "title": "Government tech systems are failing \u2014 and Trump fired the tech experts",
+   "url": "https://thehill.com/opinion/cybersecurity/6232948-gov-outages-staffing-crisis/",
+   "summary": "Whatever the root cause for any particular outage turns out to be, one thing is clear: by eschewing tech workers in the government, we\u2019ve made the country\u2019s systems harder to protect and maintain.",
+   "published": "2026-11-23T14:00:00+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-11-23T14:47:31.599499+00:00"
+  },
+  {
+   "id": "3ca5fba8fd34fb21",
+   "title": "Trump says he's inclined to strike Iran after new year if no deal reached",
+   "url": "https://thehill.com/policy/international/6236693-donald-trump-iran-strikes-new-year/",
+   "summary": "President Trump said he was inclined to resume strikes against Iran after the new year if no deal is reached between Washington and Tehran to end the conflict. Trump acknowledged that indirect talks between the two nations were still ongoing but described Iranian officials as \u201cprofessional tap dancers.\u201d He also accused the regime of stalling...",
+   "published": "2026-11-23T13:33:09+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-11-23T14:47:31.599503+00:00"
+  },
+  {
+   "id": "10185575c98cc3c4",
+   "title": "'One of the very worst.' Jan. 6 leader Stewart Rhodes says he is 'absolutely done' with Trump",
+   "url": "https://www.pbs.org/newshour/politics/one-of-the-very-worst-jan-6-leader-stewart-rhodes-says-he-is-absolutely-done-with-trump",
+   "summary": "\"We elected him to end the corruption in Washington, D.C. 'Drain the swamp.' Unfortunately his administration has been one of the most corrupt administrations in U.S. history,\" Rhodes said.",
+   "published": "2026-11-23T12:59:12+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-11-23T14:47:31.928256+00:00"
+  },
+  {
+   "id": "2e2ee5319bdfdf1c",
+   "title": "Trump to confront Newsom over plan to spare 548 death row inmates and more top headlines",
+   "url": "https://www.foxnews.com/us/trump-confront-newsom-plan-spare-548-death-row-inmates-more-top-headlines",
+   "summary": "Get all the stories you need-to-know from the most powerful name in news delivered first thing every morning to your inbox.",
+   "published": "2026-11-23T12:32:00+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-11-23T14:47:29.789860+00:00"
+  },
+  {
+   "id": "23fb6feb6682e853",
+   "title": "Trump's Super Intelligence Force should build a last-resort defense",
+   "url": "https://thehill.com/opinion/cybersecurity/6234226-super-intelligence-force-ai-safety/",
+   "summary": "We install smoke detectors before the fire, not during it.",
+   "published": "2026-11-23T12:30:00+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-11-23T14:47:31.599529+00:00"
+  },
+  {
+   "id": "0ab955f002e85a51",
+   "title": "\u2018Is it possible for any government to run that way?\u2019: Americans outraged over tech outages",
+   "url": "https://www.theguardian.com/us-news/2026/nov/23/us-tech-outages-flights-microsoft",
+   "summary": "After the nationwide flight stoppage and Microsoft outage, many are directing their anger at the Trump administrationThe US Federal Aviation Administration\u2019s grounding of all US flights last week, alongside separate outages affecting Microsoft services, caused widespread disruption across the country.While flights and Microsoft applications have since returned to normal, readers across the US have shared their frustrations with the Guardian. Many have directed their anger at the Trump administration, questioning its competence and calling for greater accountability and transparency about the s",
+   "published": "2026-11-23T12:00:29+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-11-23T14:47:30.238876+00:00"
+  },
+  {
+   "id": "54405965819a94d2",
+   "title": "Trump to confront Newsom over plan to spare 548 death row inmates, including notorious child killers",
+   "url": "https://www.foxnews.com/politics/president-trump-confront-newsom-plan-spare-548-death-row-inmates-notorious-child-killers",
+   "summary": "President Donald Trump is expected to join victims&apos; families at the DOJ to condemn Gavin Newsom&apos;s plan to commute all 548 California death sentences to life without parole.",
+   "published": "2026-11-23T11:00:58+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-11-23T14:47:29.751727+00:00"
+  },
+  {
+   "id": "dadff3d10057e02b",
+   "title": "Spotted on the D.C. Metro: Trump Staffer Accidentally Reveals Plan for Smithsonian Overhaul",
+   "url": "https://www.propublica.org/article/dc-metro-smithsonian-american-history-plan",
+   "summary": "The post Spotted on the D.C. Metro: Trump Staffer Accidentally Reveals Plan for Smithsonian Overhaul appeared first on ProPublica.",
+   "published": "2026-11-23T11:00:00+00:00",
+   "source": "ProPublica",
+   "source_id": "propublica",
+   "bias_note": "investigative",
+   "first_seen": "2026-11-23T14:47:32.067393+00:00"
+  },
+  {
+   "id": "4c0befd1d24ab39f",
+   "title": "If They Call 911 About Domestic Abuse, Will They Be Deported?",
+   "url": "https://www.propublica.org/article/immigration-domestic-violence",
+   "summary": "The post If They Call 911 About Domestic Abuse, Will They Be Deported? appeared first on ProPublica.",
+   "published": "2026-11-23T10:00:00+00:00",
+   "source": "ProPublica",
+   "source_id": "propublica",
+   "bias_note": "investigative",
+   "first_seen": "2026-11-23T14:47:32.067398+00:00"
+  },
+  {
+   "id": "50401644216751b1",
+   "title": "Trump's Thanksgiving turkeys arrive at luxury DC hotel as Americans vote on their names",
+   "url": "https://www.foxnews.com/politics/trumps-thanksgiving-turkeys-arrive-luxury-dc-hotel-americans-vote-names",
+   "summary": "Two turkeys raised on a West Virginia farm strutted a red carpet at the Willard InterContinental Washington, D.C., ahead of Tuesday&apos;s pardon.",
+   "published": "2026-11-23T02:48:57+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-11-23T14:47:29.751741+00:00"
   },
   {
    "id": "e2be825e0d55bb5f",
@@ -1574,6 +1728,17 @@
    "source_id": "whitehouse",
    "bias_note": "official/primary-source",
    "first_seen": "2026-11-20T18:59:20.639389+00:00"
+  },
+  {
+   "id": "4a2c5a4a3f1e7356",
+   "title": "President Trump Brings Home Billions in Economic Growth and Strengthens America\u2019s Security",
+   "url": "https://www.whitehouse.gov/releases/2026/11/president-trump-brings-home-billions-in-economic-growth-and-strengthens-americas-security/",
+   "summary": "President Donald J. Trump has concluded his four-day visit to the Philippines and China where he advanced his America First agenda, secured billions in deals that support American workers, ensured a free and open Indo-Pacific that benefits everyday Americans, and bolstered regional security to protect Americans from illicit activity abroad.\u00a0At home or abroad, President Trump [&#8230;]\nThe post President Trump Brings Home Billions in Economic Growth and Strengthens America\u2019s Security appeared first on The White House.",
+   "published": "2026-11-20T15:39:53+00:00",
+   "source": "WhiteHouse.gov News",
+   "source_id": "whitehouse",
+   "bias_note": "official/primary-source",
+   "first_seen": "2026-11-23T14:47:29.856064+00:00"
   },
   {
    "id": "4624317182ab43ec",
@@ -9417,248 +9582,6 @@
    "source_id": "propublica",
    "bias_note": "investigative",
    "first_seen": "2026-11-09T20:48:40.754556+00:00"
-  },
-  {
-   "id": "ca40782d28a1c8a6",
-   "title": "Trump-aligned Mississippi auditor launches governor bid, vows to dismantle 'good ol' boys' club'",
-   "url": "https://www.foxnews.com/politics/trump-aligned-mississippi-auditor-launches-governor-bid-vows-dismantle-good-ol-boys-club",
-   "summary": "Mississippi State Auditor Shad White says his office uncovered $75 million in misspent funds and vows to shut down the state&apos;s &quot;rotten system.&quot;",
-   "published": "2026-11-09T14:15:01+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-11-09T20:48:37.918949+00:00"
-  },
-  {
-   "id": "61a008dff5b3df03",
-   "title": "Joe Biden, in White House memoir, says Trump should carry the weight of Jan. 6 riots 'to his grave'",
-   "url": "https://abcnews.com/Politics/wireStory/joe-biden-white-house-memoir-trump-carry-weight-137969725",
-   "summary": "Former U_S_ President Joe Biden writes in his White House memoir that Donald Trump has deeply damaged the country and world with an administration determined to &ldquo;tear down institutions and inflame hatreds.&rdquo;",
-   "published": "2026-11-09T13:38:17+00:00",
-   "source": "ABC News Politics",
-   "source_id": "abc-politics",
-   "bias_note": "center",
-   "first_seen": "2026-11-09T20:48:40.969692+00:00"
-  },
-  {
-   "id": "bf38855bcd43b18e",
-   "title": "Trump is humiliated and angry \u2013 and Europe is where he\u2019s free to lash out | Nathalie Tocci",
-   "url": "https://www.theguardian.com/commentisfree/2026/nov/09/donald-trump-humiliated-angry-europe",
-   "summary": "The US president sees Europeans as the mirror image of his \u2018woke\u2019 domestic foes. They should brace for further betrayal this winterEuropeans have greeted the blue wave that crashed down on Donald Trump and his Republican party with jubilation and relief. Jubilation, because Trump\u2019s second presidential administration has been the most destructive in the history of the transatlantic relationship. His disdain for Europe and his evident delight in attacking its governments \u2013 in particular that of Ukraine \u2013 have been hard to swallow.Relief, because the midterm election results confirm that European",
-   "published": "2026-11-09T13:10:43+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-11-09T20:48:38.969298+00:00"
-  },
-  {
-   "id": "0bfa14b198aa652f",
-   "title": "Diversity, decency and a new south: who were the real winners in the US midterms? | Robert Reich",
-   "url": "https://www.theguardian.com/commentisfree/2026/nov/09/us-midterms-winners-losers",
-   "summary": "Tuesday was a victory for equity and inclusivity and a rejection of hate and fear. The biggest losers? Megadonors and Super PacsRather than regurgitate the particular wins and losses that occurred on Tuesday, I thought it more useful, at this point, to look at the big picture and identify the largest overall winners and losers for the country as a whole.Biggest winner: a diverse, equitable and inclusive America. It\u2019s Donald Trump\u2019s DEI nightmare. Georgia voters elected Keisha Lance Bottoms, the first Black female governor in the country. Texas chose Gina Hinojosa, the state\u2019s first Latina gove",
-   "published": "2026-11-09T13:00:10+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-11-09T20:48:38.969304+00:00"
-  },
-  {
-   "id": "ba3a2cb1b8d37fe1",
-   "title": "Congress is back after GOP's midterm defeat. And, Trump appoints new chief of staff",
-   "url": "https://www.npr.org/2026/11/09/g-s1-152627/up-first-newsletter-stephen-miller-trump-congress-nvidia-cop31",
-   "summary": "Republicans have just weeks left of control of Congress. Here's what to expect. And, Trump has appointed Stephen Miller as his new chief of staff, signaling his readiness to confront his opposition.",
-   "published": "2026-11-09T12:45:14+00:00",
-   "source": "NPR Politics",
-   "source_id": "npr-politics",
-   "bias_note": "center",
-   "first_seen": "2026-11-09T20:48:38.779817+00:00"
-  },
-  {
-   "id": "bb8d57f975e37ab1",
-   "title": "Rubio defends Trump's Iran war as not 'necessarily popular, but necessary'",
-   "url": "https://www.foxnews.com/politics/rubio-defends-trumps-iran-war-not-necessarily-popular-necessary",
-   "summary": "Secretary of State Marco Rubio defended Trump&apos;s Iran war as &quot;necessary&quot; to prevent a nuclear weapon, even as he ties it to Republican midterm losses.",
-   "published": "2026-11-09T12:10:26+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-11-09T20:48:37.918951+00:00"
-  },
-  {
-   "id": "53b50f2b7ee9f109",
-   "title": "Donald Trump 'kidding' about making UFC boss Dana White US press secretary \u2013 video",
-   "url": "https://www.theguardian.com/us-news/video/2026/nov/09/donald-trump-kidding-about-making-ufc-boss-dana-white-us-press-secretary-video",
-   "summary": "Donald Trump said on Sunday that he was 'only kidding' when he announced a day earlier that he had offered the job of White House press secretary to Dana White, the chief executive of the Ultimate Fighting Championship (UFC)Trump says he was \u2018only kidding\u2019 about making UFC\u2019s Dana White next press secretary Continue reading...",
-   "published": "2026-11-09T12:08:26+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-11-09T20:48:38.969345+00:00"
-  },
-  {
-   "id": "64ffa60b7a7a77b8",
-   "title": "After midterm losses, Trump makes changes to his inner circle",
-   "url": "https://www.npr.org/2026/11/09/nx-s1-6034027/after-midterm-losses-trump-makes-changes-to-his-inner-circle",
-   "summary": "President Trump is shaking up his closest advisers after Democrats made huge gains in the midterm elections.",
-   "published": "2026-11-09T11:45:25+00:00",
-   "source": "NPR Politics",
-   "source_id": "npr-politics",
-   "bias_note": "center",
-   "first_seen": "2026-11-09T20:48:38.779824+00:00"
-  },
-  {
-   "id": "5721de704e753e2e",
-   "title": "Firm Linked to Trump\u2019s Sons Got Nearly $40 Million in Federal Contracts to Screen for Ebola and Other Diseases",
-   "url": "https://www.propublica.org/article/trump-sons-xwell-xprestest-government-contracts",
-   "summary": "The post Firm Linked to Trump\u2019s Sons Got Nearly $40 Million in Federal Contracts to Screen for Ebola and Other Diseases appeared first on ProPublica.",
-   "published": "2026-11-09T11:00:00+00:00",
-   "source": "ProPublica",
-   "source_id": "propublica",
-   "bias_note": "investigative",
-   "first_seen": "2026-11-09T20:48:40.754561+00:00"
-  },
-  {
-   "id": "9ab91c366f137261",
-   "title": "EXCLUSIVE: Trump's FAA touts new AI-powered tool helping thousands of passengers avoid flight delays",
-   "url": "https://www.foxnews.com/politics/exclusive-trumps-faa-touts-new-ai-powered-tool-helping-thousands-passengers-avoid-flight-delays",
-   "summary": "The Trump administration&apos;s SMART system rerouted nearly 180 flights carrying 24,000 passengers, cutting flight times by over 10 minutes on average.",
-   "published": "2026-11-09T10:00:38+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-11-09T20:48:37.918960+00:00"
-  },
-  {
-   "id": "ffa16ca1b813a1a8",
-   "title": "Democrats won big. Can they lower your grocery bill?",
-   "url": "https://www.npr.org/2026/11/09/nx-s1-6030830/democrats-grocery-bill-affordability",
-   "summary": "Affordability concerns were top of mind for voters heading into the midterms, as tariffs and the war in Iran drove up prices, including food costs. Now, Americans are expecting relief from Washington.",
-   "published": "2026-11-09T10:00:00+00:00",
-   "source": "NPR Politics",
-   "source_id": "npr-politics",
-   "bias_note": "center",
-   "first_seen": "2026-11-09T20:48:38.779830+00:00"
-  },
-  {
-   "id": "72b339d6556f7b6f",
-   "title": "Palantir hires a former Democratic senator as it faces scrutiny in new Congress",
-   "url": "https://www.npr.org/2026/11/09/nx-s1-6029641/palantir-congress-jon-tester-investigations",
-   "summary": "The secretive software company has been accused of letting its powerful tools be used by the Trump administration to surveil Americans. Now it's hiring former Sen. Jon Tester to burnish its image.",
-   "published": "2026-11-09T10:00:00+00:00",
-   "source": "NPR Politics",
-   "source_id": "npr-politics",
-   "bias_note": "center",
-   "first_seen": "2026-11-09T20:48:38.779846+00:00"
-  },
-  {
-   "id": "02fe35deb67564db",
-   "title": "\u2018Old ideas are for old people\u2019: A new MAGA group looks to push GOP further right",
-   "url": "https://www.politico.com/news/2026/11/09/jd-vance-allies-launch-new-group-01155638",
-   "summary": "American Ascent promises to recruit and elect a new generation of young \u2018America First\u2019 candidates.",
-   "published": "2026-11-09T10:00:00+00:00",
-   "source": "Politico",
-   "source_id": "politico",
-   "bias_note": "center",
-   "first_seen": "2026-11-09T20:48:39.146449+00:00"
-  },
-  {
-   "id": "897cc99107ca276c",
-   "title": "Lawyers in This State Are Allowed to Ghost Clients for Years. Why Don\u2019t More Judges Stop Them?",
-   "url": "https://www.propublica.org/article/post-conviction-legal-system-finley-judges-pennsylvania",
-   "summary": "The post Lawyers in This State Are Allowed to Ghost Clients for Years. Why Don\u2019t More Judges Stop Them? appeared first on ProPublica.",
-   "published": "2026-11-09T10:00:00+00:00",
-   "source": "ProPublica",
-   "source_id": "propublica",
-   "bias_note": "investigative",
-   "first_seen": "2026-11-09T20:48:40.754564+00:00"
-  },
-  {
-   "id": "c6eb7aad16d0ce29",
-   "title": "Midterm results could complicate JD Vance's political future",
-   "url": "https://www.npr.org/2026/11/09/nx-s1-6030858/midterm-results-could-complicate-jd-vances-political-future",
-   "summary": "Vice President JD Vance is looking to recast his political fortune after serving as the Trump administration's No. 2 while his party suffered a historic wipeout.",
-   "published": "2026-11-09T09:45:28+00:00",
-   "source": "NPR Politics",
-   "source_id": "npr-politics",
-   "bias_note": "center",
-   "first_seen": "2026-11-09T09:53:31.272693+00:00"
-  },
-  {
-   "id": "7e6b058b77055290",
-   "title": "Trump admits deportation policy was \u2018too tough\u2019 despite promotion of Stephen Miller",
-   "url": "https://www.theguardian.com/us-news/2026/nov/09/trump-tells-60-minutes-deportation-policy-too-tough-ice-immigration",
-   "summary": "President makes unusual acknowledgment that one of defining policies of his second administration had become a political liabilityDonald Trump has admitted that his deportation policy was \u201ctoo tough\u201d and has offered to strike an immigration deal with Democrats in a concession after the Republicans\u2019 disastrous defeat in the midterm elections.In an interview on the CBS network\u2019s 60 Minutes broadcast on Sunday, the president acknowledged that the aggressive crackdown had hurt him politically and said he was open to an arrangement to allow some undocumented immigrants to remain in the US. Continue",
-   "published": "2026-11-09T08:32:32+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-11-09T09:53:31.289122+00:00"
-  },
-  {
-   "id": "b9b219f79d648734",
-   "title": "The stoning of Stephen Miller, now running the Trump White House",
-   "url": "https://www.foxnews.com/opinion/stoning-stephen-miller-now-running-trump-white-house",
-   "summary": "Trump&apos;s decision to name Stephen Miller his new chief of staff sparked an unprecedented media firestorm, as critics quickly targeted his hardline immigration record and influence over the president&apos;s agenda.",
-   "published": "2026-11-09T08:00:39+00:00",
-   "source": "Fox News Latest",
-   "source_id": "foxnews-latest",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-11-09T09:53:31.099680+00:00"
-  },
-  {
-   "id": "a980804afc30b624",
-   "title": "Stephen Miller, immigration hardliner, in his own words",
-   "url": "https://www.theguardian.com/us-news/2026/nov/09/stephen-miller-in-his-own-words",
-   "summary": "Trump\u2019s most controversial aide begins his first day as White House chief of staffStephen Miller, the influential architect of Donald Trump\u2019s aggressive immigration crackdown, is due to start as White House chief of staff today. His promotion has horrified many, handing even more power to the president\u2019s most controversial aide.The 41-year-old has been with Trump since the beginning of the US president\u2019s political career \u2013 serving as a speechwriter during his 2016 presidential campaign \u2013 and has long been seen as a hardliner on the right, serving as the driving force behind first-term Trump po",
-   "published": "2026-11-09T08:00:04+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-11-09T09:53:31.289131+00:00"
-  },
-  {
-   "id": "b64efc45ea9f23b1",
-   "title": "Democrats to attend Cop31 climate talks boosted by midterms and eager to make up for Trump-era setbacks",
-   "url": "https://www.theguardian.com/environment/2026/nov/09/cop31-climate-democrats-midterms",
-   "summary": "US government will have no official presence at UN\u2019s annual climate summit, this year\u2019s Cop31 held in Antalya, TurkeyThe US will be absent from key UN climate talks that start on Monday, a further sign of Donald Trump\u2019s scornful dismissal of the climate crisis. But Democrats\u2019 crushing win in the US midterm elections has delivered a timely shot of optimism to countries now looking beyond the Trump era of climate obstruction.For the second year in a row, there will be no official US government presence at the annual climate summit, this year known as Cop31 and held in Antalya, Turkey. While almo",
-   "published": "2026-11-09T06:00:01+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-11-09T09:53:31.289138+00:00"
-  },
-  {
-   "id": "20f4704ce33c6e90",
-   "title": "Bernie Sanders warns Democrats not to spend all their time investigating Trump",
-   "url": "https://www.foxnews.com/politics/bernie-sanders-warns-democrats-not-spend-all-time-investigating-trump",
-   "summary": "Sen. Bernie Sanders warned Democrats not to spend all their time investigating the Trump administration, urging the party to prioritize affordability and working-class families.",
-   "published": "2026-11-09T03:56:11+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-11-09T09:53:31.078403+00:00"
-  },
-  {
-   "id": "36a3f902a43cd910",
-   "title": "Trump says his deportation policy 'might have been too tough' for voters in the election",
-   "url": "https://abcnews.com/Politics/wireStory/trump-deportation-policy-tough-voters-election-137963473",
-   "summary": "President Donald Trump said he thinks his administration was too aggressive on deportations",
-   "published": "2026-11-09T03:41:20+00:00",
-   "source": "ABC News Politics",
-   "source_id": "abc-politics",
-   "bias_note": "center",
-   "first_seen": "2026-11-09T09:53:31.938714+00:00"
-  },
-  {
-   "id": "717c79619f11c460",
-   "title": "Trump says he doesn\u2019t disagree with Vance that Iran war fueled GOP losses",
-   "url": "https://www.foxnews.com/media/trump-says-he-doesnt-disagree-vance-iran-war-fueled-gop-losses",
-   "summary": "President Donald Trump said he doesn\u2019t disagree with JD Vance\u2019s assessment that the Iran war, rising costs and Israel ties contributed to GOP midterm losses.",
-   "published": "2026-11-09T03:13:14+00:00",
-   "source": "Fox News Latest",
-   "source_id": "foxnews-latest",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-11-09T09:53:31.099713+00:00"
   }
  ]
 }
