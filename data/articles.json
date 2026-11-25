@@ -1,7 +1,84 @@
 {
- "updated": "2026-11-25T20:24:06.659872+00:00",
- "count": 802,
+ "updated": "2026-11-25T21:45:58.726485+00:00",
+ "count": 804,
  "articles": [
+  {
+   "id": "bc0d37fa3d68eaa4",
+   "title": "Navarro: Democratic probes a recipe for 2028 GOP president or 'civil war'",
+   "url": "https://thehill.com/homenews/administration/6243798-navarro-warns-trump-investigations-civil-war/",
+   "summary": "Top trade adviser Peter Navarro said likely Democratic investigations into the Trump administration next Congress will lead to Republicans holding the White House in two years or \u201ccivil war.\u201d \u201cCongressional Democrats won the midterms on gas and grocery prices. Now, they promise to spend the next two years waging lawfare against Trump officials. That's a...",
+   "published": "2026-11-25T21:31:39+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-11-25T21:45:57.679679+00:00"
+  },
+  {
+   "id": "4dbe66e9ee0514c1",
+   "title": "Abrego Garcia sees victory in Spain arrival after Trump deportation push",
+   "url": "https://thehill.com/homenews/administration/6243654-kilmar-abrego-garcia-trump-administration-deportation-case/",
+   "summary": "The departure of Kilmar Abrego Garcia to Spain late Tuesday ends an effort of more than a year by the Trump team to deport him to Africa, with both sides claiming victory in the unusual immigration case. His exit caps a nightmarish period for the Maryland man, whose wife and child are U.S. citizens. It...",
+   "published": "2026-11-25T21:18:34+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-11-25T21:45:57.679687+00:00"
+  },
+  {
+   "id": "0e64e554f2df5211",
+   "title": "Melania Trump reunites her seventh group of Ukrainian and Russian children with their families",
+   "url": "https://www.pbs.org/newshour/world/melania-trump-reunites-her-seventh-group-of-ukrainian-and-russian-children-with-their-families",
+   "summary": "First lady Melania Trump has helped return a seventh group of Ukrainian and Russian children to their families, bringing the total number of kids in these wartime reunifications to 43, the White House announced Wednesday.",
+   "published": "2026-11-25T21:08:56+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-11-25T21:45:57.843891+00:00"
+  },
+  {
+   "id": "ce3d5df3befb05f9",
+   "title": "Chris Van Hollen picks up more support for Senate majority leader role ahead of Democrats vote next week \u2013 live",
+   "url": "https://www.theguardian.com/us-news/live/2026/nov/25/donald-trump-jensen-huang-nvidia-pardon-senate-hearing-iowa-abdul-el-sayed-latest-news-updates",
+   "summary": "Senator-elect Troy Jackson, of Maine, announced he would support the progressive over the current minority leader, Chuck Schumer Sign up for the Breaking News US emailUS trade representative Jamieson Greer claimed this morning that he did not expect the new proposed tariffs to rattle the global economy.\u201cWe\u2019ve talked to our trading partners about this \u2014 they know what we\u2019re proposing,\u201d Greer told CNBC. \u201cI think a lot of this is baked in, and I don\u2019t think any of these would actually take effect earlier than a couple months from now.\u201dFINAL REMINDER. Controlled detonation at Iowa Army Ammunition ",
+   "published": "2026-11-25T20:55:05+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-11-25T21:45:57.508084+00:00"
+  },
+  {
+   "id": "13f97fdcae74552f",
+   "title": "Trump could avoid Dems' \u2018extreme\u2019 amnesty push by signing immigration reform before new Congress",
+   "url": "https://www.foxnews.com/politics/trump-sign-dignity-act-dems-extreme-amnesty-push-house-republican-says",
+   "summary": "House Republicans say President Donald Trump could sign the Dignity Act this Congress, but warn delay would bring a bill more like an amnesty bill.",
+   "published": "2026-11-25T20:38:15+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-11-25T21:45:57.334727+00:00"
+  },
+  {
+   "id": "31e97e71e7bf2584",
+   "title": "Presidential contender's 'remarkably tone-deaf\u2019 move against Trump triggers parental uproar: 'Unconscionable'",
+   "url": "https://www.foxnews.com/politics/presidential-contenders-remarkably-tone-deaf-move-against-trump-triggers-parental-uproar-unconscionable",
+   "summary": "Illinois Democratic Gov. JB Pritzker faces fierce school choice backlash after opting out of the federal scholarship tax credit. Critics cite politics.",
+   "published": "2026-11-25T20:37:46+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-11-25T21:45:57.334738+00:00"
+  },
+  {
+   "id": "29decca1e9f979d5",
+   "title": "Miller touts Iowa blast as 'tremendous display of unity' under Trump",
+   "url": "https://thehill.com/homenews/administration/6243542-miller-praises-iowa-munitions-detonation-trump/",
+   "summary": "White House chief of staff Stephen Miller praised the U.S. Army's lead-based munitions detonation in Iowa on Wednesday as a success by the Trump administration, as early reports suggest the spread of lead pollution is lower than expected. \u201cEvery single extraordinary mitigation measure put into place far exceeded expectations, and the technical mastery of the...",
+   "published": "2026-11-25T20:35:00+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-11-25T21:45:57.679731+00:00"
+  },
   {
    "id": "12f083eb0b25fe6b",
    "title": "EXCLUSIVE: White House accuses South Korea of breaking promise to Trump as US tech giant faces $688M in fines",
@@ -8768,61 +8845,6 @@
    "source_id": "whitehouse",
    "bias_note": "official/primary-source",
    "first_seen": "2026-11-12T00:47:34.068236+00:00"
-  },
-  {
-   "id": "c4673032b6842030",
-   "title": "Trump's ex-lawyer Alina Habba loses massive contract days after president blasts 'outrageous' deal",
-   "url": "https://www.foxnews.com/politics/trumps-ex-lawyer-alina-habba-loses-massive-contract-days-after-president-blasts-outrageous-deal",
-   "summary": "Donald Trump personally directed Alina Habba&apos;s firing from a $50 million Concord Partners contract linked to pardoned Venezuelan banker&apos;s family.",
-   "published": "2026-11-11T21:45:34+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-11-12T00:47:33.813840+00:00"
-  },
-  {
-   "id": "e7a1df183c145b1d",
-   "title": "Judge allows Trump defamation case against BBC to proceed but tosses 1 claim",
-   "url": "https://www.pbs.org/newshour/politics/judge-allows-trump-defamation-case-against-bbc-to-proceed-but-tosses-1-claim",
-   "summary": "President Donald Trump's $10 billion defamation case against the BBC remains on track, for the moment.",
-   "published": "2026-11-11T21:32:56+00:00",
-   "source": "PBS NewsHour Politics",
-   "source_id": "pbs-politics",
-   "bias_note": "center",
-   "first_seen": "2026-11-12T00:47:35.150470+00:00"
-  },
-  {
-   "id": "290935fb787a1b83",
-   "title": "Who is Jim Jordan, the House Republicans' pick for minority leader?",
-   "url": "https://www.npr.org/2026/11/11/nx-s1-6037439/who-is-jim-jordan-the-house-republicans-pick-for-minority-leader",
-   "summary": "As House Republicans prepare for life in the minority, they're turning to Jim Jordan as their next leader. In Jordan, they've picked a conservative firebrand and one of Trump's most vocal defenders.",
-   "published": "2026-11-11T21:24:05+00:00",
-   "source": "NPR Politics",
-   "source_id": "npr-politics",
-   "bias_note": "center",
-   "first_seen": "2026-11-12T00:47:34.494580+00:00"
-  },
-  {
-   "id": "d6c9f672ffa75459",
-   "title": "Trump says the towering arch he wants to be build might be dedicated to military veterans",
-   "url": "https://www.pbs.org/newshour/politics/trump-says-the-towering-arch-he-wants-to-be-build-might-be-dedicated-to-military-veterans",
-   "summary": "President Donald Trump observed Veterans Day by suggesting that the towering arch he wants to build in his own honor would also be dedicated to the U.S. military and those who served in its ranks.",
-   "published": "2026-11-11T21:11:02+00:00",
-   "source": "PBS NewsHour Politics",
-   "source_id": "pbs-politics",
-   "bias_note": "center",
-   "first_seen": "2026-11-12T00:47:35.150473+00:00"
-  },
-  {
-   "id": "a03cd49e9817f73f",
-   "title": "Stephen Miller's internal memo unleashes Trump agencies after 'absolute control' under Wiles' reign",
-   "url": "https://www.foxnews.com/politics/stephen-miller-internal-memo-unleashes-trump-agencies-absolute-control-wiles-reign",
-   "summary": "A memo under new chief of staff Stephen Miller gives Cabinet secretaries messaging control, shifting from what sources say was Susie Wiles&apos; grip.",
-   "published": "2026-11-11T20:56:52+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-11-12T00:47:33.813848+00:00"
   }
  ]
 }
