@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-24T21:01:10.257742+00:00",
- "count": 833,
+ "updated": "2026-11-25T00:49:27.796342+00:00",
+ "count": 827,
  "articles": [
   {
    "id": "fa4eda37765a11e1",
@@ -12,6 +12,171 @@
    "source_id": "foxnews-latest",
    "bias_note": "right-leaning",
    "first_seen": "2026-11-20T13:01:24.159692+00:00"
+  },
+  {
+   "id": "fa5c76011c3d2d69",
+   "title": "Trump administration weighs targeting Iran's top regime leaders in bid to end war: report",
+   "url": "https://www.foxnews.com/world/trump-administration-weighs-targeting-irans-top-regime-leaders-bid-end-war-report",
+   "summary": "Donald Trump&apos;s administration is reportedly weighing strikes on Iran&apos;s senior leaders, including Mojtaba Khamenei, as the war nears its ninth month.",
+   "published": "2026-11-25T00:36:01+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-11-25T00:49:26.453872+00:00"
+  },
+  {
+   "id": "df37bbc910c35f77",
+   "title": "How Trump may have profited from Huang's return to Nvidia",
+   "url": "https://www.pbs.org/newshour/show/how-trump-may-have-profited-from-huangs-return-to-nvidia",
+   "summary": "A day after President Trump intervened to reinstate Nvidia's embattled CEO, a new report suggests that Trump himself may have benefited financially to the tune of millions of dollars. White House correspondent Liz Landers reports.",
+   "published": "2026-11-24T23:55:53+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-11-25T00:49:27.180311+00:00"
+  },
+  {
+   "id": "307f031d30f8ab41",
+   "title": "Questions mount on RFK Jr.'s plan to regain measles elimination status",
+   "url": "https://thehill.com/newsletters/healthcare/6241511-rfk-jr-measles-elimination-questions/",
+   "summary": "Click in for more news from The Hill {beacon} Healthcare Healthcare &#8202; The Big Story  Questions mount on RFK Jr.'s plan to regain measles elimination status  A growing measles outbreak across the U.S. is highlighting concerns about the impact of vaccine hesitancy under Health Secretary Robert F. Kennedy Jr.\u2019s leadership.   \u00a9 Jose Luis Magana, Associated...",
+   "published": "2026-11-24T23:52:45+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-11-25T00:49:27.079159+00:00"
+  },
+  {
+   "id": "daad90dc8af330fb",
+   "title": "Jensen Huang\u2019s Nvidia return adds momentum to chip export controls",
+   "url": "https://thehill.com/policy/technology/6241448-trump-pressures-nvidia-huang-return/",
+   "summary": "President Trump\u2019s successful effort to pressure Nvidia\u2019s board to bring back Jensen Huang as CEO has sparked a furious reaction from lawmakers in both parties, promising to make the relationship between the two men a central point of congressional investigations. The ramped-up oversight of Trump and Jensen Huang, who lost his job after reports of...",
+   "published": "2026-11-24T23:09:39+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-11-25T00:49:27.079177+00:00"
+  },
+  {
+   "id": "feb93be5445dfa91",
+   "title": "Thomas Markle, estranged father of Meghan Markle, indicted on child pornography charges",
+   "url": "https://www.foxnews.com/entertainment/thomas-markle-estranged-father-meghan-markle-indicted-child-pornography-charges",
+   "summary": "Thomas Markle, the estranged father of Meghan Markle, has been indicted on child pornography charges involving 35mm film negatives of minors under 12.",
+   "published": "2026-11-24T23:06:05+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-11-25T00:49:26.453952+00:00"
+  },
+  {
+   "id": "d946afa1f01c33e4",
+   "title": "A Startup Tied to Donald Trump Jr. Could Get a Historic $15 Billion Loan From the Pentagon",
+   "url": "https://www.propublica.org/article/donald-trump-jr-hadrian-pentagon-loan",
+   "summary": "The post A Startup Tied to Donald Trump Jr. Could Get a Historic $15 Billion Loan From the Pentagon appeared first on ProPublica.",
+   "published": "2026-11-24T23:00:00+00:00",
+   "source": "ProPublica",
+   "source_id": "propublica",
+   "bias_note": "investigative",
+   "first_seen": "2026-11-25T00:49:27.430618+00:00"
+  },
+  {
+   "id": "4526207819e2dfc1",
+   "title": "FAA issues and lifts ground stop at Chicago's O'Hare",
+   "url": "https://thehill.com/homenews/administration/6241322-faa-ohare-ground-stop/",
+   "summary": "The Federal Aviation Administration (FAA) on Tuesday issued a ground stop at O\u2019Hare International Airport in Chicago \u2014 the second brief pause on flights in two days. The ground stop was placed in effect until 4:15 p.m. local time due to an equipment outage with a \u200bground surveillance radar and \u200btracking system. The pause in...",
+   "published": "2026-11-24T22:57:40+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-11-25T00:49:27.079183+00:00"
+  },
+  {
+   "id": "c7aa8977a41c6dab",
+   "title": "Army detonating lead munitions tomorrow",
+   "url": "https://thehill.com/newsletters/energy-environment/6241360-army-detonating-lead-munitions-tomorrow/",
+   "summary": "{beacon} Energy &#038; Environment Energy &#038; Environment &#8202; The Big Story  Army detonating lead munitions tomorrow The Army is going ahead with detonating lead-containing munitions in Iowa on Wednesday after President Trump threw additional uncertainty into the controversy on Monday. \u00a9 Brigida I. Sanchez/U.S. Army Corps of Engineers via AP \u201cWe are proceeding with the...",
+   "published": "2026-11-24T22:43:30+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-11-25T00:49:27.079187+00:00"
+  },
+  {
+   "id": "ed271457fae7f3d1",
+   "title": "Nearly 1 in 3 Americans have 'very little' faith in FAA: Poll",
+   "url": "https://thehill.com/policy/transportation/6241364-faa-faith-poll-low/",
+   "summary": "Nearly a third of Americans have \u201cvery little\u201d faith in the Federal Aviation Administration (FAA), according to a new survey. In The Economist/YouGov poll, 28 percent of respondents said they have \u201cvery little\u201d confidence in the FAA, while 44 percent said they have \u201csome\u201d and 19 percent said they have \u201cquite a lot.\u201d Nine percent...",
+   "published": "2026-11-24T22:42:30+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-11-25T00:49:27.079224+00:00"
+  },
+  {
+   "id": "6aea2a3baf7a7b63",
+   "title": "How much did Trump stand to make from Huang return?",
+   "url": "https://thehill.com/homenews/administration/6241139-trump-nvidia-huang-return-profits/",
+   "summary": "President Trump, who pushed Nvidia\u2019s board of directors to reinstate Jensen Huang as CEO despite his high-profile scandal, has already benefited financially from the tech mogul\u2019s return to the company. Nvidia\u2019s stock, which closed at $125.53 per share on Friday, surged on Monday to a high of $171.05 per share \u2014 before it fell to...",
+   "published": "2026-11-24T22:26:48+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-11-25T00:49:27.079238+00:00"
+  },
+  {
+   "id": "7617b4a2daefb8e5",
+   "title": "Ilhan Omar\u2019s legal reckoning is looming, and redactions can't hide it",
+   "url": "https://www.foxnews.com/opinion/ilhan-omars-legal-reckoning-looming-redactions-cant-hide",
+   "summary": "The DOJ says Rep. Ilhan Omar committed crimes over decades, and newly released search warrant documents hint at fraud charges or denaturalization ahead.",
+   "published": "2026-11-24T22:17:48+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-11-25T00:49:26.453991+00:00"
+  },
+  {
+   "id": "ffb20ae15e7cb03e",
+   "title": "Jennings: Talarico, Colom should run for White House",
+   "url": "https://thehill.com/homenews/campaign/6241202-scott-jennings-urges-talarico-colom/",
+   "summary": "Political commentator Scott Jennings encouraged Democratic Sens.-elect James Talarico (Texas) and Scott Colom (Miss.) to run for president, as speculation rises about possible 2028 candidates. \u201cYou want Scott\u2019s political consulting? I\u2019ll give you some. If I were Talarico or especially the guy in Mississippi, Colom \u2026 I would just go ahead and run for president,\u201d...",
+   "published": "2026-11-24T21:59:47+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-11-25T00:49:27.079263+00:00"
+  },
+  {
+   "id": "90d0d2dd7fd17b91",
+   "title": "Obama judge's Omar warrant unsealing directly contradicts his own decision in Trump case, DOJ says",
+   "url": "https://www.foxnews.com/politics/obama-judges-omar-warrant-unsealing-directly-contradicts-his-own-decision-trump-case",
+   "summary": "Justice Department lawyers say Judge James Boasberg contradicted his ruling by unsealing search warrant records in Rep. Ilhan Omar&apos;s Washington, D.C. case.",
+   "published": "2026-11-24T21:45:21+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-11-25T00:49:26.415833+00:00"
+  },
+  {
+   "id": "dcd44121797bbe77",
+   "title": "Trump pauses turkey pardon to salute US troops guarding Strait of Hormuz: 'Watch over and protect'",
+   "url": "https://www.foxnews.com/politics/trump-pauses-turkey-pardon-salute-us-troops-guarding-strait-hormuz-watch-over-protect",
+   "summary": "President Donald Trump paused the White House turkey pardon to thank U.S. troops enforcing what he called the greatest naval blockade against Iran.",
+   "published": "2026-11-24T21:29:14+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-11-25T00:49:26.415841+00:00"
+  },
+  {
+   "id": "03242b7fd138a8b4",
+   "title": "DOJ apologizes to House\u2019s top lawyer for dispute about Omar home search",
+   "url": "https://thehill.com/regulation/court-battles/6241076-doj-apologizes-house-lawyer-berry/",
+   "summary": "The Department of Justice (DOJ) apologized to the House\u2019s top lawyer, Matthew Berry, for claims he sided with the Trump administration as it sought to obtain a warrant to search Rep. Ilhan Omar\u2019s (D-Minn.) home, according to new court filings. DOJ prosecutors previously stated in filings to a federal judge that Berry \u201crefused to be...",
+   "published": "2026-11-24T21:23:36+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-11-25T00:49:27.079289+00:00"
   },
   {
    "id": "b80586171f037f98",
@@ -8933,237 +9098,6 @@
    "source_id": "foxnews-latest",
    "bias_note": "right-leaning",
    "first_seen": "2026-11-11T01:57:36.539848+00:00"
-  },
-  {
-   "id": "125126b3493ef1cc",
-   "title": "Cruz says Hegseth will resign, be fired or get impeached",
-   "url": "https://thehill.com/homenews/6212332-ted-cruz-hegseth-departure-impeachment-talks/",
-   "summary": "Welcome to The Hill's Defense &#038; NatSec newsletter {beacon} Defense &#038;National Security Defense &#038;National Security &#8202; The Big Story  Cruz says Hegseth will resign, be fired or get impeached Sen. Ted Cruz (R-Texas) predicted on his podcast earlier this week that Defense Secretary Pete Hegseth will either resign, be fired or be impeached in the...",
-   "published": "2026-11-11T00:33:44+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-11-11T01:57:38.209321+00:00"
-  },
-  {
-   "id": "c6d940b6a35d5254",
-   "title": "Norman gives Trump an 'F' on South Carolina midterm performance",
-   "url": "https://thehill.com/homenews/campaign/6212326-norman-gives-trump-f-grade/",
-   "summary": "Rep. Ralph Norman (R-S.C.) gave President Trump a failing grade for his performance in South Carolina\u2019s midterm elections after a Trump-backed Senate candidate defeated Norman in the Republican primary but lost to a Democrat in the general election. \u201cIn South Carolina, he gets an F,\u201d Norman told MeidasTouch on Tuesday when asked to grade Trump\u2019s...",
-   "published": "2026-11-11T00:24:28+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-11-11T01:57:38.209327+00:00"
-  },
-  {
-   "id": "6878934a072f9b7c",
-   "title": "'I've Had It' host Jennifer Welch cheers Wisconsin brewing company that called Kirk an 'awful human being'",
-   "url": "https://www.foxnews.com/media/ive-had-it-host-jennifer-welch-cheers-wisconsin-brewing-company-called-kirk-awful-human-being",
-   "summary": "Jennifer Welch promoted the Minocqua Brewing Company on her &quot;I&apos;ve Had It&quot; podcast after the Wisconsin anti-Trump brewery attacked Charlie Kirk and offered sponsorship.",
-   "published": "2026-11-11T00:19:06+00:00",
-   "source": "Fox News Latest",
-   "source_id": "foxnews-latest",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-11-11T01:57:36.539870+00:00"
-  },
-  {
-   "id": "62e590857f05f895",
-   "title": "House Republicans block effort to impeach Pentagon chief Pete Hegseth",
-   "url": "https://www.theguardian.com/us-news/2026/nov/10/pete-hegseth-impeachment-effort",
-   "summary": "Trump ally, accused of an array of illegal acts, had earlier condemned impeachment push as \u2018a farce and a stunt\u2019House Republicans on Tuesday blocked an effort to impeach Pete Hegseth, rejecting allegations that the defense secretary had repeatedly violated the constitution through his handling of the Iran war and other conflicts globally.The vote came a week after Republicans lost control of the Senate and House of Representatives in their worst midterm election in more than a half century, and underscored how lawmakers remain wary of crossing Donald Trump, who has signaled his continued suppo",
-   "published": "2026-11-10T23:56:11+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-11-11T01:57:36.809017+00:00"
-  },
-  {
-   "id": "9bfe4e1d82c612ff",
-   "title": "House rejects Hegseth impeachment as GOP selects Jordan and Thune as leaders",
-   "url": "https://www.pbs.org/newshour/show/house-rejects-hegseth-impeachment-as-gop-selects-jordan-and-thune-as-leaders",
-   "summary": "Power shifts in Washington continued as new party leadership began to take shape. In the House, the GOP picked Jim Jordan to be their new leader and Senate Republicans re-elected John Thune. The House also voted to quash an effort to impeach Defense Secretary Pete Hegseth. Lisa Desjardins reports.",
-   "published": "2026-11-10T23:55:40+00:00",
-   "source": "PBS NewsHour Politics",
-   "source_id": "pbs-politics",
-   "bias_note": "center",
-   "first_seen": "2026-11-11T01:57:38.611061+00:00"
-  },
-  {
-   "id": "295097009ea91ed9",
-   "title": "A breakdown of the impeachment articles filed against Pete Hegseth",
-   "url": "https://www.pbs.org/newshour/show/a-breakdown-of-the-impeachment-articles-filed-against-pete-hegseth",
-   "summary": "For a legal perspective on the effort to impeach Defense Secretary Pete Hegseth, Geoff Bennett spoke with Eugene Fidell. He's a longtime military law expert who served as a Coast Guard lawyer and later practiced military law in the private sector. He also co-founded the National Institute of Military Justice, an organization dedicated to improving the military justice system.",
-   "published": "2026-11-10T23:50:33+00:00",
-   "source": "PBS NewsHour Politics",
-   "source_id": "pbs-politics",
-   "bias_note": "center",
-   "first_seen": "2026-11-11T01:57:38.611071+00:00"
-  },
-  {
-   "id": "0eae0261e4afd14b",
-   "title": "Hegseth has remained defiant as Congress members deliberate articles of impeachment",
-   "url": "https://www.npr.org/2026/11/10/nx-s1-6035792/hegseth-has-remained-defiant-as-congress-members-deliberate-articles-of-impeachment",
-   "summary": "Defense Secretary Pete Hegseth is fighting back. As members of Congress begin deliberating on the articles of impeachment against him, Hegseth gave his first press conference in months.",
-   "published": "2026-11-10T23:43:59+00:00",
-   "source": "NPR Politics",
-   "source_id": "npr-politics",
-   "bias_note": "center",
-   "first_seen": "2026-11-11T01:57:36.792212+00:00"
-  },
-  {
-   "id": "cda23e6e5446f9d3",
-   "title": "House votes to effectively end the impeachment effort against Pete Hegseth",
-   "url": "https://www.npr.org/2026/11/10/nx-s1-6036813/house-votes-to-effectively-end-the-impeachment-effort-against-pete-hegseth",
-   "summary": "House Republicans managed to short-circuit a floor vote on the impeachment effort brought against the Defense Secretary by Kentucky Republican Thomas Massie.",
-   "published": "2026-11-10T23:43:11+00:00",
-   "source": "NPR Politics",
-   "source_id": "npr-politics",
-   "bias_note": "center",
-   "first_seen": "2026-11-11T01:57:36.792220+00:00"
-  },
-  {
-   "id": "d7272befe46ea987",
-   "title": "Salazar keeps House seat after break with Trump on immigration",
-   "url": "https://thehill.com/homenews/campaign/6163186-maria-elvira-salazar-florida-27th-district-reelection/",
-   "summary": "Rep. Maria Elvira Salazar (R-Fla.) is projected to win reelection to her seat in Florida\u2019s 27th Congressional District despite breaking with President Trump on his immigration agenda during the campaign, according to Decision Desk HQ (DDHQ). She is set to clinch a narrow win over Democrat Eliott Rodriguez, in the south Florida district, notching about...",
-   "published": "2026-11-10T23:36:07+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-11-11T01:57:38.209344+00:00"
-  },
-  {
-   "id": "2708f2b5110cefcc",
-   "title": "Heinrich, Whitehouse unbothered by Trump's anti-wind comments",
-   "url": "https://thehill.com/newsletters/energy-environment/6212162-heinrich-whitehouse-unbothered-by-trumps-anti-wind-comments/",
-   "summary": "{beacon} Energy &#038; Environment Energy &#038; Environment &#8202; The Big Story  Key Democrats shrug as Trump bashes wind Key Democratic negotiators on Tuesday shrugged off President Trump\u2019s Monday remarks that he would not approve wind projects despite his support for a bipartisan bill that seeks to boost all forms of energy. \u00a9 Greg Nash The...",
-   "published": "2026-11-10T23:23:07+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-11-11T01:57:38.209349+00:00"
-  },
-  {
-   "id": "068d8921eb4628fc",
-   "title": "House GOP leaders block Massie's Hegseth impeachment push",
-   "url": "https://www.foxnews.com/politics/house-gop-leaders-block-massie-hegseth-impeachment-push",
-   "summary": "Rep. Thomas Massie introduced a privileged resolution to impeach Secretary of War Pete Hegseth, meaning it had to be considered by the full House.",
-   "published": "2026-11-10T23:16:18+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-11-11T01:57:36.520791+00:00"
-  },
-  {
-   "id": "5a12a232363db2c2",
-   "title": "Who is Jim Jordan? Pugnacious Trump ideologue to lead diminished Republican ranks",
-   "url": "https://www.theguardian.com/us-news/2026/nov/10/who-is-jim-jordan-house-republicans",
-   "summary": "Controversial far-right congressman defied 2022 subpoena from Capitol attack panel and was accused of ignoring sexual abuse as college wrestling coachThe election of Jim Jordan on Tuesday to lead House Republicans elevates a combative Donald Trump ideologue who defied a congressional subpoena over the 6 January attack, as the party tries as it tries to adjust to life out of power.Jordan will lead a diminished Republican conference, as its ranks shrink to one of the smallest in decades. But it is a triumph for the Ohio Republican who was pushed out of the contentious House speakership race thre",
-   "published": "2026-11-10T23:12:12+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-11-11T01:57:36.809020+00:00"
-  },
-  {
-   "id": "0c399995145c4f8d",
-   "title": "House GOP shelves Pete Hegseth impeachment articles",
-   "url": "https://thehill.com/policy/defense/6212136-house-shelves-hegseth-impeachment/",
-   "summary": "House Republicans on Tuesday shelved a measure spearheaded by outgoing Rep. Thomas Massie (R-Ky.) that would have led to a vote on impeaching Defense Secretary Pete Hegseth. In a dramatic and tight 211-204 vote, the House voted to refer the resolution to committee, a move that essentially ends efforts to impeach Hegseth over the Iran...",
-   "published": "2026-11-10T23:04:49+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-11-11T01:57:38.209360+00:00"
-  },
-  {
-   "id": "96b190275ed3f104",
-   "title": "CMS blocks $112M in Medicaid funding to Minnesota",
-   "url": "https://thehill.com/newsletters/healthcare/6212112-cms-blocks-112m-in-medicaid-funding-to-minnesota/",
-   "summary": "Presented by CareQuest {beacon} Healthcare Healthcare The Big Story  CMS blocks $112M in Medicaid funding to Minnesota The Trump administration is cutting off more than $112 million in federal funding to Minnesota over \"unallowable claims,\" the most recent escalation in the White House's fight over Medicaid fraud in the state.  \u00a9 Adobe Stock The administration...",
-   "published": "2026-11-10T22:49:19+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-11-11T01:57:38.209379+00:00"
-  },
-  {
-   "id": "4b166501d6cb873f",
-   "title": "Biden's book reveals 'very generous letter' from Trump during 2021 transition",
-   "url": "https://thehill.com/homenews/administration/6212102-biden-reveals-trump-letter/",
-   "summary": "Former President Biden has revealed the contents of what he described as a \u201cvery generous\u201d letter his predecessor President Trump left him in the Oval Office in 2021, offering a glimpse of goodwill between the political foes after a bitter presidential election. In the letter, published in full in Biden\u2019s upcoming memoir, \u201cPromise Me, America,\u201d...",
-   "published": "2026-11-10T22:31:11+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-11-11T01:57:38.209384+00:00"
-  },
-  {
-   "id": "23592d19865770d3",
-   "title": "Nominations and Withdrawals Sent to the Senate",
-   "url": "https://www.whitehouse.gov/presidential-actions/2026/11/nominations-and-withdrawals-sent-to-the-senate-b6a4/",
-   "summary": "NOMINATIONS SENT TO THE SENATE: Mark Aesch, of Florida, to be Federal Transit Administrator, vice Marcus Molinaro. Mikhail Bogachek, of Florida, to be Ambassador Extraordinary and Plenipotentiary of the United States of America to the Republic of Kosovo. Andreas Borgeas, of California, to be a Member of the Foreign Claims Settlement Commission of the United [&#8230;]\nThe post Nominations and Withdrawals Sent to the Senate appeared first on The White House.",
-   "published": "2026-11-10T21:56:49+00:00",
-   "source": "WhiteHouse.gov News",
-   "source_id": "whitehouse",
-   "bias_note": "official/primary-source",
-   "first_seen": "2026-11-11T01:57:36.650749+00:00"
-  },
-  {
-   "id": "c71a2733cfb01f7e",
-   "title": "Hegseth labels impeachment push a policy dispute, but do lawmakers' allegations rise to high crimes?",
-   "url": "https://www.foxnews.com/politics/hegseth-calls-impeachment-push-policy-dispute-allegations-rise-high-crimes",
-   "summary": "Pete Hegseth calls eight impeachment articles mere &quot;policy disagreements&quot; as Rep. Thomas Massie alleges war powers violations and unlawful strikes.",
-   "published": "2026-11-10T21:44:25+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-11-11T01:57:36.520809+00:00"
-  },
-  {
-   "id": "3e6728e2680188eb",
-   "title": "VETERANS DAY, 2026",
-   "url": "https://www.whitehouse.gov/presidential-actions/2026/11/veterans-day-2026/",
-   "summary": "BY THE PRESIDENT OF THE UNITED STATES OF AMERICA A PROCLAMATION For over 250 years, the liberties and freedoms of every American have been safeguarded by the heroic men and women who have faithfully served in the United States Armed Forces.&#160; This Veterans Day, we honor our Nation&#8217;s cherished veterans and recommit to strengthen the [&#8230;]\nThe post VETERANS DAY, 2026 appeared first on The White House.",
-   "published": "2026-11-10T21:12:15+00:00",
-   "source": "WhiteHouse.gov News",
-   "source_id": "whitehouse",
-   "bias_note": "official/primary-source",
-   "first_seen": "2026-11-11T01:57:36.650755+00:00"
-  },
-  {
-   "id": "3556f1e5761fe236",
-   "title": "Presidential Determination Concerning Wildfire Suppression Activities in the United States",
-   "url": "https://www.whitehouse.gov/presidential-actions/2026/11/presidential-determination-concerning-wildfire-suppression-activities-in-the-united-states/",
-   "summary": "MEMORANDUM FOR THE SECRETARY OF THE INTERIOR, THE SECRETARY OF AGRICULTURE, THE ADMINISTRATOR OF THE ENVIRONMENTAL PROTECTION AGENCY SUBJECT:\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Presidential Determination Concerning Wildfire Suppression Activities in the United States By the authority vested in me as President by the Constitution and the laws of the United States of America, including section&#160;313 of the Federal Water [&#8230;]\nThe post Presidential Determination Concerning Wildfire Suppression Activities in the United States appeared first on The White House.",
-   "published": "2026-11-10T21:11:07+00:00",
-   "source": "WhiteHouse.gov News",
-   "source_id": "whitehouse",
-   "bias_note": "official/primary-source",
-   "first_seen": "2026-11-11T01:57:36.650758+00:00"
-  },
-  {
-   "id": "11953d9c5ebcb858",
-   "title": "Congressional Bills H.R. 997, H.R. 1703, H.R. 1945, and H.R. 7730 Signed into Law",
-   "url": "https://www.whitehouse.gov/briefings-statements/2026/11/congressional-bills-h-r-997-h-r-1703-h-r-1945-and-h-r-7730-signed-into-law/",
-   "summary": "On Tuesday, November 10, 2026, the President signed into law: H.R. 997, the &#8220;National Taxpayer Advocate Enhancement Act of 2025,&#8221; which authorizes the National Taxpayer Advocate to appoint legal counsel within the Office of the National Taxpayer Advocate that reports directly to the National Taxpayer Advocate, or delegate thereof, and further expands the authority of [&#8230;]\nThe post Congressional Bills H.R. 997, H.R. 1703, H.R. 1945, and H.R. 7730 Signed into Law appeared first on The White House.",
-   "published": "2026-11-10T21:03:39+00:00",
-   "source": "WhiteHouse.gov News",
-   "source_id": "whitehouse",
-   "bias_note": "official/primary-source",
-   "first_seen": "2026-11-11T01:57:36.650761+00:00"
-  },
-  {
-   "id": "d2dd751221116e8e",
-   "title": "Fact Sheet: President Donald J. Trump Advances Wildfire Suppression",
-   "url": "https://www.whitehouse.gov/fact-sheets/2026/11/fact-sheet-president-donald-j-trump-advances-wildfire-suppression/",
-   "summary": "KEEPING AMERICANS SAFE:\u00a0Today, President Donald J. Trump signed a Presidential\u00a0Memorandum\u00a0to protect communities at risk from wildfires and ensure immediate action is taken to control fires before they become major natural disasters that destroy thousands of acres of timber and imperil critical water resources and watersheds. GUARANTEEING FIRE SUPPRESSION TOOLS:&#160;To prepare for the upcoming wildland fire [&#8230;]\nThe post Fact Sheet: President Donald J. Trump Advances Wildfire Suppression appeared first on The White House.",
-   "published": "2026-11-10T21:03:02+00:00",
-   "source": "WhiteHouse.gov News",
-   "source_id": "whitehouse",
-   "bias_note": "official/primary-source",
-   "first_seen": "2026-11-11T01:57:36.650763+00:00"
   }
  ]
 }
