@@ -1,7 +1,150 @@
 {
- "updated": "2026-11-25T21:45:58.726485+00:00",
- "count": 804,
+ "updated": "2026-11-26T04:11:21.543782+00:00",
+ "count": 800,
  "articles": [
+  {
+   "id": "2c907c668e1d8eff",
+   "title": "Judge sides against Democrats on taxpayer-funded pro-Trump ads",
+   "url": "https://thehill.com/regulation/court-battles/6244361-judge-denies-dnc-ad-challenge/",
+   "summary": "A federal judge sided against the Democratic National Committee (DNC) in their case regarding the administration\u2019s taxpayer-funded pro-President Trump advertisements that played earlier this year, according to new court filings. The DNC previously argued that the ads would affect the outcome of November\u2019s midterm election. A federal judge issued a temporary restraining order that required...",
+   "published": "2026-11-26T03:09:54+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-11-26T04:11:20.709431+00:00"
+  },
+  {
+   "id": "63f428a0367ce5ac",
+   "title": "FedEx cargo jet overshoots runway at Miami International Airport and stops just short of busy road",
+   "url": "https://www.foxnews.com/us/fedex-cargo-jet-overshoots-runway-miami-international-airport-stops-just-short-busy-road",
+   "summary": "The Federal Aviation Administration issued a ground stop at Miami International Airport after a FedEx cargo jet overran the runway, causing Thanksgiving flight delays.",
+   "published": "2026-11-26T02:46:04+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-11-26T04:11:20.033010+00:00"
+  },
+  {
+   "id": "01f779c381afdeba",
+   "title": "Netanyahu declares corruption trial has 'fallen apart' after judges question key charges",
+   "url": "https://www.foxnews.com/world/netanyahu-declares-corruption-trial-fallen-apart-judges-question-key-charges",
+   "summary": "Israeli Prime Minister Benjamin Netanyahu declared his corruption trial &quot;fell apart&quot; as judges urged prosecutors to rethink the bribery and fraud cases.",
+   "published": "2026-11-26T02:26:48+00:00",
+   "source": "Fox News Latest",
+   "source_id": "foxnews-latest",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-11-26T04:11:20.033029+00:00"
+  },
+  {
+   "id": "20924f302da690d7",
+   "title": "Musk appeals $2.6B Twitter fraud verdict: Report",
+   "url": "https://thehill.com/regulation/court-battles/6244265-musk-appeals-twitter-fraud-verdict-report/",
+   "summary": "Elon Musk is asking a federal appeals court to overturn a jury verdict that found he defrauded Twitter shareholders ahead of his $44 billion acquisition of the social media company in 2022 by driving down its stock price. In a brief filed Monday night with the U.S. Court of Appeals for the 9th Circuit, Musk\u2019s...",
+   "published": "2026-11-26T01:31:35+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-11-26T04:11:20.709460+00:00"
+  },
+  {
+   "id": "931cd5ea45f4eef9",
+   "title": "President Trump Unleashes Whole-of-Government Effort to Protect America\u2019s Critical Infrastructure",
+   "url": "https://www.whitehouse.gov/releases/2026/11/president-trump-unleashes-whole-of-government-effort-to-protect-americas-critical-infrastructure/",
+   "summary": "At President Donald J. Trump\u2019s direction, the Administration is pursuing a coordinated, whole-of-government effort to modernize federal systems, strengthen our defenses, and protect America\u2019s critical infrastructure. The Trump Administration has assembled a highly capable interagency team that remains hypervigilant in protecting our nation\u2019s critical systems, confronting emerging threats, and ensuring America is secure, resilient, and [&#8230;]\nThe post President Trump Unleashes Whole-of-Government Effort to Protect America\u2019s Critical Infrastructure appeared first on The White House.",
+   "published": "2026-11-26T00:38:59+00:00",
+   "source": "WhiteHouse.gov News",
+   "source_id": "whitehouse",
+   "bias_note": "official/primary-source",
+   "first_seen": "2026-11-26T04:11:20.140627+00:00"
+  },
+  {
+   "id": "ac45e88df841032d",
+   "title": "EU 'strongly rejects' rationale behind Trump's tariffs",
+   "url": "https://thehill.com/policy/international/6244220-eu-rejects-us-tariff-proposal/",
+   "summary": "The European Union on Wednesday pushed back against the Trump administration\u2019s allegations that the bloc\u2019s industrial policies are contributing to a global oversupply of manufactured goods, after the U.S. proposed imposing 15 percent tariffs on imports from its 27 member countries. The European Commission rejected the findings of a months-long investigation by the Office of...",
+   "published": "2026-11-26T00:24:34+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-11-26T04:11:20.709464+00:00"
+  },
+  {
+   "id": "0e194279c044fcb1",
+   "title": "2nd Circuit deals blow to Manhattan DA, breathes new life into Trump's hush money appeal",
+   "url": "https://www.foxnews.com/politics/second-circuit-deals-blow-manhattan-da-breathes-new-life-trump-hush-money-appeal",
+   "summary": "President Donald Trump&apos;s bid to move his New York hush money case to federal court is revived after the 2nd Circuit cited errors in a prior denial.",
+   "published": "2026-11-26T00:00:15+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-11-26T04:11:19.970915+00:00"
+  },
+  {
+   "id": "b54e7176487daffd",
+   "title": "Kushner calls Putin 'grandmaster of politics'",
+   "url": "https://thehill.com/policy/international/6244109-kushner-calls-putin-grandmaster/",
+   "summary": "U.S. special envoy Jared Kushner, President Trump\u2019s son-in-law, called Russian President Vladimir Putin a \u201cgrandmaster of politics\u201d following U.S.-backed trilateral peace talks that have yielded little progress.\u00a0 \u201cPresident Putin is very organized. You know, people can like what he's done. They cannot like what he's done. But he's definitely a grandmaster of politics,\u201d Kushner said...",
+   "published": "2026-11-25T23:20:45+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-11-26T04:11:20.709494+00:00"
+  },
+  {
+   "id": "8c4e3d2be01900a3",
+   "title": "Trump Administration Leads Whole-of-Government Effort to Safely Neutralize Obama-Era Explosives Threat in Iowa",
+   "url": "https://www.whitehouse.gov/releases/2026/11/trump-administrations-whole-of-government-effort-safely-neutralizes-obama-era-explosives-threat-in-iowa/",
+   "summary": "Under President Donald J. Trump\u2019s leadership, the U.S. Army this morning safely destroyed nearly five tons of degraded explosives at the Iowa Army Ammunition Plant. All initial indications show the controlled detonation to be highly successful, with EPA monitors reporting zero detection of airborne lead and no secondary explosions or infrastructure damage. This is what [&#8230;]\nThe post Trump Administration Leads Whole-of-Government Effort to Safely Neutralize Obama-Era Explosives Threat in Iowa appeared first on The White House.",
+   "published": "2026-11-25T23:10:56+00:00",
+   "source": "WhiteHouse.gov News",
+   "source_id": "whitehouse",
+   "bias_note": "official/primary-source",
+   "first_seen": "2026-11-26T04:11:20.140634+00:00"
+  },
+  {
+   "id": "065d1627cdccc0f6",
+   "title": "Alaska ends voter data agreement with Justice Department, which had been searching for noncitizens",
+   "url": "https://www.pbs.org/newshour/politics/alaska-ends-voter-data-agreement-with-justice-department-which-had-been-searching-for-noncitizens",
+   "summary": "A Republican official who oversees Alaska elections said she has ended an agreement under which the state shared its voter registration list with the U.S. Department of Justice and allowed the agency to flag voters for possible removal.",
+   "published": "2026-11-25T22:53:33+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-11-26T04:11:20.897565+00:00"
+  },
+  {
+   "id": "8df17eb663d1a5e9",
+   "title": "&Aacute;brego Garc&iacute;a, a Salvadoran mistakenly deported by U.S., goes to Spain but hopes to return after Trump",
+   "url": "https://www.pbs.org/newshour/politics/abrego-garcia-a-salvadoran-mistakenly-deported-by-u-s-goes-to-spain-but-hopes-to-return-after-trump",
+   "summary": "Kilmar \u00c1brego Garc\u00eda, a Salvadoran national who fought his mistaken deportation from the United States, arrived in Spain on Wednesday after what his lawyer described as a temporary departure, with hopes of returning to his family's home in Maryland after President Donald Trump leaves office.",
+   "published": "2026-11-25T22:30:20+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-11-26T04:11:20.897582+00:00"
+  },
+  {
+   "id": "5e6fefed4761f225",
+   "title": "Talarico, Cruz push for Space Academy to be in Texas",
+   "url": "https://thehill.com/homenews/senate/6243899-cruz-talarico-bipartisan-trump-space-academy/",
+   "summary": "Sen. Ted Cruz (R) and Sen.-elect James Talarico (D), who are poised to hold Texas's two seats in the upper chamber for at least the next four years, are campaigning together in a rare bipartisan move for President Trump\u2019s proposed U.S. Space Academy to be built in their home state. \u201cWe share a commitment to...",
+   "published": "2026-11-25T22:16:03+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-11-26T04:11:20.709525+00:00"
+  },
+  {
+   "id": "fc2924d4ed048ba1",
+   "title": "Trump's birthright citizenship restrictions struck down again by DC federal judge he called 'hater'",
+   "url": "https://www.foxnews.com/politics/trumps-birthright-citizenship-restrictions-struck-down-dc-federal-judge-called-hater",
+   "summary": "Judge Christopher Cooper struck down Trump&apos;s second birthright citizenship order, citing the Fourteenth Amendment and rejecting surrogacy-based exclusions.",
+   "published": "2026-11-25T21:48:11+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-11-26T04:11:19.970929+00:00"
+  },
   {
    "id": "bc0d37fa3d68eaa4",
    "title": "Navarro: Democratic probes a recipe for 2028 GOP president or 'civil war'",
@@ -8658,193 +8801,6 @@
    "source_id": "npr-politics",
    "bias_note": "center",
    "first_seen": "2026-11-12T09:54:17.214628+00:00"
-  },
-  {
-   "id": "187fb712b7b994d9",
-   "title": "El-Sayed tells Hegseth to resign after impeachment effort fails: 'Make it easy for everybody'",
-   "url": "https://www.foxnews.com/media/el-sayed-tells-hegseth-resign-after-democrats-derail-impeachment-effort-make-easy-everybody",
-   "summary": "Abdul El-Sayed told Secretary of War Pete Hegseth directly to resign on CNN, calling him &quot;really bad&quot; at his job and saying he has mishandled the war in Iran.",
-   "published": "2026-11-12T01:17:26+00:00",
-   "source": "Fox News Latest",
-   "source_id": "foxnews-latest",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-11-12T09:54:16.975354+00:00"
-  },
-  {
-   "id": "2e3ad9977a489e96",
-   "title": "Jeffries leaves door open to investigating major Trump ally as Democrats prepare to take power",
-   "url": "https://www.foxnews.com/politics/jeffries-leaves-door-open-investigating-major-trump-ally-democrats-prepare-take-power",
-   "summary": "Hakeem Jeffries says Democrats will &quot;follow the facts&quot; as Jamie Raskin and Robert Garcia prepare to lead oversight of Elon Musk and DOGE.",
-   "published": "2026-11-12T01:00:00+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-11-12T09:54:16.955714+00:00"
-  },
-  {
-   "id": "c33204f126e8b695",
-   "title": "Former Navy JAG who flipped Kentucky House seat: 'Premature' to discuss Hegseth impeachment",
-   "url": "https://thehill.com/the-120/6214824-dembo-hegseth-impeachment-vote/",
-   "summary": "Rep.-elect Zach Dembo (D-Ky.) said it would be \u201cpremature\u201d to discuss Defense Secretary Pete Hegseth\u2019s impeachment following a failed House vote to oust the head of the Pentagon.\u00a0 \u201cLook, I just got elected a week ago. I don't even have an office yet. I'll tell you, I did not come here with the goal of...",
-   "published": "2026-11-12T00:04:22+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-11-12T00:47:34.929572+00:00"
-  },
-  {
-   "id": "5360651172ad0c42",
-   "title": "At least 10 new Dem members will carry Al Green's mantle and try to impeach President Trump",
-   "url": "https://www.foxnews.com/politics/least-10-new-dem-members-carry-al-greenes-mantle-try-impeach-president-trump",
-   "summary": "Rep. Al Green says at least 10 incoming House Democratic caucus members will join his impeachment push, citing President Trump&apos;s crypto dealings and what they described as corruption.",
-   "published": "2026-11-11T23:56:14+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-11-12T00:47:33.813823+00:00"
-  },
-  {
-   "id": "8fc1727be4a8dcd8",
-   "title": "At least 9 new Dem members will carry Al Green's mantle and try to impeach President Trump",
-   "url": "https://www.foxnews.com/politics/new-dem-members-carry-al-greens-mantle-try-impeach-president-trump",
-   "summary": "Rep. Al Green says at least nine incoming House Democratic caucus members will join his impeachment push, citing President Trump&apos;s crypto dealings and what they described as corruption.",
-   "published": "2026-11-11T23:56:14+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-11-12T09:54:16.955728+00:00"
-  },
-  {
-   "id": "4565df3c4c84507f",
-   "title": "White House threatens Democrats over plans to investigate Trump officials",
-   "url": "https://www.pbs.org/newshour/show/white-house-threatens-democrats-over-plans-to-investigate-trump-officials",
-   "summary": "With Democrats set to take control of Congress, the White House is threatening them over investigations into the Trump administration. The top White House lawyer warned that aggressive oversight of the administration \"may cross the line into blatant criminality.\" It comes amid a wave of resignations within the Justice Department. Amna Nawaz discussed more with Devlin Barrett of The New York Times.",
-   "published": "2026-11-11T23:45:49+00:00",
-   "source": "PBS NewsHour Politics",
-   "source_id": "pbs-politics",
-   "bias_note": "center",
-   "first_seen": "2026-11-12T00:47:35.150442+00:00"
-  },
-  {
-   "id": "c7f0c9eb00773ec3",
-   "title": "Democrats push to rein in Trump on immigration after voter backlash to ICE raids",
-   "url": "https://www.theguardian.com/us-news/2026/nov/11/democrats-trump-immigration-agenda",
-   "summary": "Members of Congress seek to \u2018bring sanity\u2019 to system but decline to give details on plans to reform or abolish agencyA group of congressional Democrats on Wednesday pushed for immediate efforts to rein in the Trump administration\u2019s sweeping immigration enforcement operation and \u201cbring sanity\u201d to an immigration system that Donald Trump said, after his party\u2019s midterm drubbing, had been \u201ctoo tough\u201d in certain aspects.Just over a week after the midterm elections in which the US president\u2019s harsh crackdown on immigration fueled a voter backlash against Republicans, some sitting and newly elected D",
-   "published": "2026-11-11T23:42:08+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-11-12T00:47:34.647962+00:00"
-  },
-  {
-   "id": "e17267fb1039fc9c",
-   "title": "Sen. Coons on Huang affair, Iran war and why Trump should fire Hegseth",
-   "url": "https://www.pbs.org/newshour/show/sen-coons-on-huang-affair-iran-war-and-why-trump-should-fire-hegseth",
-   "summary": "As Democrats prepare to take control of Congress, Delaware Sen. Chris Coons is poised to become chairman of the Senate Foreign Relations Committee, succeeding retiring Democrat Jeanne Shaheen. A staunch supporter of Ukraine and a critic of President Trump's war with Iran, Coons would take the helm at a consequential moment for American foreign policy.  Coons joined Geoff Bennett to discuss more.",
-   "published": "2026-11-11T23:40:56+00:00",
-   "source": "PBS NewsHour Politics",
-   "source_id": "pbs-politics",
-   "bias_note": "center",
-   "first_seen": "2026-11-12T00:47:35.150447+00:00"
-  },
-  {
-   "id": "adc03f99cbc63d28",
-   "title": "A missed opportunity: Dems stew over vote on Hegseth impeachment",
-   "url": "https://thehill.com/newsletters/defense-national-security/6214779-a-missed-opportunity-dems-stew-over-vote-on-hegseth-impeachment/",
-   "summary": "Welcome to The Hill's Defense &#038; NatSec newsletter {beacon} Defense &#038;National Security Defense &#038;National Security &#8202; The Big Story  A missed opportunity: Dems stew over vote on Hegseth impeachment House Democrats are steaming after 11 colleagues missed a vote to impeach Pete Hegseth, allowing the Defense secretary\u2019s Republican allies to defeat the measure this week. ...",
-   "published": "2026-11-11T23:38:00+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-11-12T00:47:34.929604+00:00"
-  },
-  {
-   "id": "a26d0c5a498062dc",
-   "title": "Jeffries promises \u2018remedial assistance\u2019 to anyone impacted by Trump immigration enforcement",
-   "url": "https://www.foxnews.com/media/jeffries-promises-remedial-assistance-anyone-impacted-trump-immigration-enforcement",
-   "summary": "Hakeem Jeffries pledged to drive down cost of living on housing, healthcare, and groceries, but he also vowed remedial assistance for DACA recipients.",
-   "published": "2026-11-11T23:31:14+00:00",
-   "source": "Fox News Latest",
-   "source_id": "foxnews-latest",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-11-12T00:47:33.888789+00:00"
-  },
-  {
-   "id": "ff069048f71c2354",
-   "title": "Interior plans public land sales",
-   "url": "https://thehill.com/newsletters/energy-environment/6214742-interior-plans-public-land-sales/",
-   "summary": "{beacon} Energy &#038; Environment Energy &#038; Environment &#8202; The Big Story  Interior eyes public land sales and workforce change The Trump administration is planning to sell some public lands in the years ahead, it announced this week. \u00a9 AP Photo/Alex Brandon The Interior Department \u201cwill work to decrease the size of the federal estate by...",
-   "published": "2026-11-11T23:30:41+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-11-12T00:47:34.929609+00:00"
-  },
-  {
-   "id": "8e824ebfd5e9ff68",
-   "title": "How Scott Colom won deep-red Mississippi with little help from Democrats",
-   "url": "https://www.theguardian.com/us-news/2026/nov/11/scott-colom-mississippi-democrat-senate-midterms",
-   "summary": "Democrat chatted up people at hair salons, colleges and at Trump rallies to become Mississippi\u2019s first Black senator since ReconstructionThe ad is simple, less than half a minute long, but many say it was the moment the nation took notice of Mississippi\u2019s US Senate race.In it, the incumbent Republican senator Cindy Hyde-Smith, a cattle farmer, answers a reporter\u2019s question about the rising price of beef: \u201cYou know, you have so many proteins to choose from,\u201d she says. Continue reading...",
-   "published": "2026-11-11T23:18:36+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-11-12T00:47:34.647971+00:00"
-  },
-  {
-   "id": "04a7409cf7637357",
-   "title": "Dems projected to score historic upset in deep-red Mississippi, topple Trump ally Hyde-Smith",
-   "url": "https://www.foxnews.com/politics/dems-projected-score-historic-upset-deep-red-mississippi-topple-trump-ally-hyde-smith",
-   "summary": "U.S. Senate Republicans suffered another stunning setback as Sen. Cindy Hyde-Smith is projected to lose to Democrat Scott Colom in reliably red Mississippi, according to the AP.",
-   "published": "2026-11-11T23:11:32+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-11-12T00:47:33.813830+00:00"
-  },
-  {
-   "id": "e1888062574465f1",
-   "title": "Democrats, vowing action next year, stew over missed votes on Hegseth impeachment",
-   "url": "https://thehill.com/homenews/house/6214625-house-democrats-fail-hegseth-measure/",
-   "summary": "House Democrats are steaming after 11 colleagues missed a vote to impeach Pete Hegseth, allowing the Defense secretary\u2019s Republican allies to defeat the measure this week.  The debacle is leading to new calls for Democrats to tighten the ship when it comes to demanding attendance for floor votes. And it\u2019s providing new fuel to a...",
-   "published": "2026-11-11T23:01:37+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-11-12T00:47:34.929649+00:00"
-  },
-  {
-   "id": "b31e3a585f28e94a",
-   "title": "Palantir's Karp says he's been criticizing Trump on immigration 'in private'",
-   "url": "https://thehill.com/policy/technology/6214634-palantir-ceo-criticizes-trump-immigration/",
-   "summary": "Palantir CEO Alex Karp revealed he has been criticizing President Trump \u201cin private\u201d over his handling of immigration and the administration detaining a record number of people throughout the summer.\u00a0 \"Well, I'm really happy to hear the president, you know, in his words: \u2018yeah, we kind of went too far,\" Karp told Politico\u2019s Adam Wren....",
-   "published": "2026-11-11T23:00:01+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-11-12T00:47:34.929653+00:00"
-  },
-  {
-   "id": "59e592486cfd54e8",
-   "title": "The Memo: Misfire on Hegseth vote adds to Democratic tensions",
-   "url": "https://thehill.com/homenews/analysis/6214600-democrats-fail-hegseth-impeachment/",
-   "summary": "Democrats admit they fumbled Tuesday when they allowed House Republicans to block an effort to impeach Defense Secretary Pete Hegseth. Now the question is whether the embarrassing misfire can be chalked up to one-off disorganization or is symptomatic of a larger problem. Among progressives, irritation goes beyond the specifics of the failure of the Hegseth...",
-   "published": "2026-11-11T22:56:16+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-11-12T00:47:34.929671+00:00"
-  },
-  {
-   "id": "57dd77ca350ebb17",
-   "title": "\u201cWe Render You the Highest Salute\u201d: President Trump Honors America\u2019s Veterans on Hallowed Ground at Arlington",
-   "url": "https://www.whitehouse.gov/releases/2026/11/we-render-you-the-highest-salute-president-trump-honors-americas-veterans-on-hallowed-ground-at-arlington/",
-   "summary": "On this Veterans Day, President Donald J. Trump stood among the fallen at Arlington National Cemetery and rendered our nation\u2019s highest salute to the living who still carry the cost of freedom. In words that echoed across the quiet hills where generations of heroes rest, the Commander-in-Chief honored every Patriot who has worn the uniform [&#8230;]\nThe post \u201cWe Render You the Highest Salute\u201d: President Trump Honors America\u2019s Veterans on Hallowed Ground at Arlington appeared first on The White House.",
-   "published": "2026-11-11T22:17:51+00:00",
-   "source": "WhiteHouse.gov News",
-   "source_id": "whitehouse",
-   "bias_note": "official/primary-source",
-   "first_seen": "2026-11-12T00:47:34.068236+00:00"
   }
  ]
 }
