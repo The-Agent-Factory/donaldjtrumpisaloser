@@ -1,7 +1,106 @@
 {
- "updated": "2026-11-26T20:01:07.986745+00:00",
- "count": 794,
+ "updated": "2026-11-26T23:01:56.373359+00:00",
+ "count": 791,
  "articles": [
+  {
+   "id": "b7a653fc7ed3463c",
+   "title": "Mexican leader rebukes US over DEA tip lines, claims 'interference'",
+   "url": "https://thehill.com/policy/international/6244966-sheinbaum-rebukes-dea-tip-line/",
+   "summary": "Mexican President Claudia Sheinbaum rebuked U.S. Drug Enforcement Administration officials over its tip line, claiming it interfered with her country\u2019s work.  \u201cThe DEA has plenty of work to do in its own country. A lot,\u201d Sheinbaum stated, according to the Associated Press. \u201cThe first thing it should do is investigate corruption in the United States...",
+   "published": "2026-11-26T22:58:54+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-11-26T23:01:55.761667+00:00"
+  },
+  {
+   "id": "8c64aff76aad4e7e",
+   "title": "Petition to oust US ambassador reaches Canadian Parliament",
+   "url": "https://thehill.com/homenews/administration/6244968-petition-expel-us-ambassador-hoekstra/",
+   "summary": "A petition signed by nearly 290,000 Canadians calling on Prime Minister Mark Carney\u2019s government to expel U.S. Ambassador Pete Hoekstra was formally presented to Canada\u2019s House of Commons on Thursday. Canadian Green Party leader Elizabeth May introduced the nonbinding petition, which urged the government to declare President Trump\u2019s ambassador \u201cpersona non grata\u201d and revoke his...",
+   "published": "2026-11-26T22:55:57+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-11-26T23:01:55.761675+00:00"
+  },
+  {
+   "id": "f4a8b8da97b396d5",
+   "title": "Strobe Talbott, Time magazine reporter and deputy US secretary of state, dies aged 80",
+   "url": "https://www.theguardian.com/us-news/2026/nov/26/strobe-talbott-time-secretary-of-state-dead",
+   "summary": "After 21 years at Time, Talbott joined the Clinton administration and later headed the Brookings InstitutionStrobe Talbott, a former Time magazine reporter who later served as deputy secretary of state under Bill Clinton and then headed the Brookings Institution, died Thursday. He was 80.His son, Devin Talbott, confirmed he died peacefully after a long illness in his East Hampton, New York, home. Continue reading...",
+   "published": "2026-11-26T22:36:55+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-11-26T23:01:55.502031+00:00"
+  },
+  {
+   "id": "12f1ac5eb8b93540",
+   "title": "Judge declines to issue a long-term ban on taxpayer-funded, pro-Trump ads critics called propaganda",
+   "url": "https://www.pbs.org/newshour/politics/judge-declines-to-issue-a-long-term-ban-on-taxpayer-funded-pro-trump-ads-critics-called-propaganda",
+   "summary": "A federal judge on Wednesday sided against Democrats on the federal government's taxpayer-funded ads that promoted partisan messages and President Donald Trump ahead of the midterm elections, declining to extend a temporary ban.",
+   "published": "2026-11-26T22:20:22+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-11-26T23:01:55.911936+00:00"
+  },
+  {
+   "id": "5899c9dda4e8afc2",
+   "title": "Thanksgiving storms ground DC flights, knock out power for more than 850K",
+   "url": "https://thehill.com/policy/energy-environment/6244928-thanksgiving-storm-flight-delays-power-outages/",
+   "summary": "A powerful coastal storm disrupted Thanksgiving travel in the Washington, D.C., area on Thursday as heavy rain and winds stopped flights at Ronald Reagan Washington National Airport (DCA). Along the East Coast, hundreds and thousands of homes and businesses lost power, along with more in the Midwest. The Federal Aviation Administration (FAA) issued a ground...",
+   "published": "2026-11-26T22:01:20+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-11-26T23:01:55.761679+00:00"
+  },
+  {
+   "id": "031a12ef4426a7ec",
+   "title": "Democrats\u2019 plan to end funding for Iran war leaves open what comes next",
+   "url": "https://thehill.com/policy/international/6243997-democrats-seek-end-iran-war-questions/",
+   "summary": "One of the top priorities for the incoming Democratic majorities is cutting off funding for the U.S. war with Iran, which was launched by President Trump nine months ago with no input from Congress.  What happens after that \u2014 and whether Democrats can force Trump to end the war without jeopardizing U.S. forces in the...",
+   "published": "2026-11-26T22:00:00+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-11-26T23:01:55.761683+00:00"
+  },
+  {
+   "id": "5c81734f2a95bb85",
+   "title": "Trump takes on Somali welfare dependency in Thanksgiving message, lays out who should stay in US",
+   "url": "https://www.foxnews.com/politics/trump-takes-somali-welfare-dependency-thanksgiving-message-lays-who-should-stay-us",
+   "summary": "President Donald Trump says only 2% of Minnesota&apos;s Somali community should stay, claiming on Truth Social the rest should be thrown out to save the state.",
+   "published": "2026-11-26T20:58:30+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-11-26T23:01:54.867225+00:00"
+  },
+  {
+   "id": "e0408bb2e277da58",
+   "title": "Emmer: GOP should have said it wasn't 'realistic' to fix economy in 2 years",
+   "url": "https://thehill.com/homenews/house/6244906-tom-emmer-republicans-economy-messaging/",
+   "summary": "House Majority Whip Tom Emmer (R-Minn.) said Republicans should have spent the past two years tempering voters\u2019 expectations about how quickly President Trump could turn the economy around, acknowledging that the party ceded the issue of affordability to Democrats ahead of its bruising midterm losses. \u201cWe need to take responsibility for our messaging. We did...",
+   "published": "2026-11-26T20:50:40+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-11-26T23:01:55.761687+00:00"
+  },
+  {
+   "id": "851de2eb6d05035a",
+   "title": "Musk pledges 2 SpaceX shares per American child",
+   "url": "https://thehill.com/policy/technology/6244857-elon-musk-pledges-spacex-shares-to-american-children/",
+   "summary": "SpaceX and its CEO Elon Musk announced Wednesday that they would each donate a share of the aerospace company\u2019s stock to every American child with an active \u201cTrump Account\u201d \u2014 doubling a pledge the billionaire made last month. The company said in a statement it would issue new shares of its Class A common stock...",
+   "published": "2026-11-26T20:01:29+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-11-26T23:01:55.761691+00:00"
+  },
   {
    "id": "51d023a16cb08714",
    "title": "Trump unloads on critics in wide-ranging Thanksgiving Day rant",
@@ -8603,138 +8702,6 @@
    "source_id": "foxnews-politics",
    "bias_note": "right-leaning",
    "first_seen": "2026-11-13T01:09:07.268087+00:00"
-  },
-  {
-   "id": "5e0d2e4258723b97",
-   "title": "Senate Democrats weigh December funding deadline to force an end to Iran war",
-   "url": "https://thehill.com/homenews/senate/6217635-senate-democrats-threaten-shutdown-iran/",
-   "summary": "Some Senate Democrats are looking to use a looming government funding deadline to force the Trump administration to end the war in Iran.\u00a0 While party leaders have yet to decide on whether to risk a shutdown, the desire for action from a mix of progressives and moderates could throw a wrench into the end-of-year legislative...",
-   "published": "2026-11-12T23:00:58+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-11-13T01:09:09.245464+00:00"
-  },
-  {
-   "id": "ec0c5b06b486a5b4",
-   "title": "Kalshi ends Donald Trump Jr. advisory role, pointing to Polymarket ties",
-   "url": "https://thehill.com/policy/technology/6217564-trump-jr-kalshi-advisory-end/",
-   "summary": "Kalshi has ended Donald Trump Jr.\u2019s advisory role with the company after his firm, 1789 Capital, increased its investment in Polymarket earlier this year. \u201cWe have mutually agreed to end Don\u2019s advisory role after his firm\u2019s significant investment in a competitor this past summer,\u201d Kalshi spokesperson Dani Lever said in a statement. \u201cWe are grateful...",
-   "published": "2026-11-12T22:57:35+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-11-13T01:09:09.245479+00:00"
-  },
-  {
-   "id": "77c871299b2b22a8",
-   "title": "Cindy Holscher wins in Kansas, holding governor's office for Democrats",
-   "url": "https://www.npr.org/2026/11/12/g-s1-151187/holscher-kansas-masterson-governor-midterms",
-   "summary": "Holscher, a state senator, overcame a more well-known Republican who had Trump's endorsement in the state that has gone to the GOP in most other statewide races.",
-   "published": "2026-11-12T22:52:49+00:00",
-   "source": "NPR Politics",
-   "source_id": "npr-politics",
-   "bias_note": "center",
-   "first_seen": "2026-11-13T01:09:08.222356+00:00"
-  },
-  {
-   "id": "08b3d7939d7f625d",
-   "title": "Top trade committee Democrats launch probe into Trump administration approving Nvidia's chip sales to China",
-   "url": "https://thehill.com/policy/technology/6217470-democrats-investigate-trump-nvidia-chips-china/",
-   "summary": "The top Democrats on the House and Senate's trade committees are requesting the Commerce Department preserve its records on President Trump's decision late last year to allow Nvidia to sell its H200 chips to China. The investigation was announced Thursday by Sen. Ron Wyden (D-Ore.), ranking member of the Senate Finance Committee; and Rep. Richard...",
-   "published": "2026-11-12T22:52:19+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-11-13T01:09:09.245495+00:00"
-  },
-  {
-   "id": "e04494bc7d3c0d80",
-   "title": "First Lady Melania Trump Honors America\u2019s Fallen Heroes at the Tomb of The Unknown Soldier",
-   "url": "https://www.whitehouse.gov/briefings-statements/2026/11/first-lady-melania-trump-honors-americas-fallen-heroes-at-the-tomb-of-the-unknown-soldier/",
-   "summary": "The First Lady of the United States of America, Mrs. Melania Trump, participated in a wreath-laying ceremony at the Tomb of the Unknown Soldier at Arlington National Cemetery on Veterans Day. The First Lady reflected on the experience: \u201cEvery time I visit the Tomb of the Unknown Soldier, I use the surrounding calmness to reflect [&#8230;]\nThe post First Lady Melania Trump Honors America\u2019s Fallen Heroes at the Tomb of The Unknown Soldier appeared first on The White House.",
-   "published": "2026-11-12T22:36:37+00:00",
-   "source": "WhiteHouse.gov News",
-   "source_id": "whitehouse",
-   "bias_note": "official/primary-source",
-   "first_seen": "2026-11-13T01:09:07.587310+00:00"
-  },
-  {
-   "id": "569f4ccc1c9878a6",
-   "title": "Nominations Sent to the Senate",
-   "url": "https://www.whitehouse.gov/presidential-actions/2026/11/nominations-sent-to-the-senate-16a6/",
-   "summary": "NOMINATIONS SENT TO THE SENATE: NOMINATIONS SENT TO THE SENATE: Nathan Anonick, of Virginia, to be a Commissioner of the Commodity Futures Trading Commission for a term expiring June 19, 2031, vice Rostin Behnam, term expired. Kristin N. Johnson, of Michigan, to be a Member of the Securities and Exchange Commission for a term expiring [&#8230;]\nThe post Nominations Sent to the Senate appeared first on The White House.",
-   "published": "2026-11-12T22:04:41+00:00",
-   "source": "WhiteHouse.gov News",
-   "source_id": "whitehouse",
-   "bias_note": "official/primary-source",
-   "first_seen": "2026-11-13T01:09:07.587316+00:00"
-  },
-  {
-   "id": "c6ce34a76a674342",
-   "title": "WATCH: Trump administration officials announce PTSD research funding for psychedelic drug ibogaine",
-   "url": "https://www.pbs.org/newshour/politics/watch-trump-administration-officials-announce-ptsd-research-funding-for-psychedelic-drug-ibogaine",
-   "summary": "Federal officials on Thursday announced new funding to explore the medical potential of ibogaine, a controversial psychedelic drug championed by veterans, conservative lawmakers and podcasters aligned with President Donald Trump.",
-   "published": "2026-11-12T21:58:26+00:00",
-   "source": "PBS NewsHour Politics",
-   "source_id": "pbs-politics",
-   "bias_note": "center",
-   "first_seen": "2026-11-13T01:09:09.759281+00:00"
-  },
-  {
-   "id": "bb11c35f33817174",
-   "title": "\u201cDemocrats Will Help Us\u201d: Caravans March North as Dems Vow to Reopen the Border. President Trump Won\u2019t Let It Happen.",
-   "url": "https://www.whitehouse.gov/releases/2026/11/democrats-will-help-us-caravans-march-north-as-dems-vow-to-reopen-the-border-president-trump-wont-let-it-happen/",
-   "summary": "Days after the midterms, caravans of illegal aliens are already marching north to the U.S. \u2014 and they\u2019re counting on Democrats to let them in. Why wouldn\u2019t they? Congressional Democrats are vowing to abolish ICE, dismantle DHS, stop deportations, and hand out amnesty while border-state Democrats cut off cooperation on immigration enforcement. It\u2019s the same [&#8230;]\nThe post \u201cDemocrats Will Help Us\u201d: Caravans March North as Dems Vow to Reopen the Border. President Trump Won\u2019t Let It Happen. appeared first on The White House.",
-   "published": "2026-11-12T21:46:53+00:00",
-   "source": "WhiteHouse.gov News",
-   "source_id": "whitehouse",
-   "bias_note": "official/primary-source",
-   "first_seen": "2026-11-13T01:09:07.587319+00:00"
-  },
-  {
-   "id": "245bc6fd4da22d83",
-   "title": "Presidential Message on National Native American Heritage Month",
-   "url": "https://www.whitehouse.gov/briefings-statements/2026/11/presidential-message-on-national-native-american-heritage-month-39c4/",
-   "summary": "Alaska Natives and Native Americans are inextricably linked to the history of our Republic and are integral to our glorious future.&#160; During National Native American Heritage Month, we honor the sacrifices and the innumerable contributions of tribal communities to the prosperity and success of our great Nation.&#160; Native Americans impact communities nationwide with innovation and [&#8230;]\nThe post Presidential Message on National Native American Heritage Month appeared first on The White House.",
-   "published": "2026-11-12T21:35:41+00:00",
-   "source": "WhiteHouse.gov News",
-   "source_id": "whitehouse",
-   "bias_note": "official/primary-source",
-   "first_seen": "2026-11-13T01:09:07.587321+00:00"
-  },
-  {
-   "id": "1db9d3230968a6fa",
-   "title": "Presidential Message on National Military Families Month",
-   "url": "https://www.whitehouse.gov/briefings-statements/2026/11/presidential-message-on-national-military-families-month/",
-   "summary": "For 250 years, our glorious Republic has been safeguarded by noble and heroic patriots in the United States Armed Forces.&#160; Throughout our storied history, these warriors have been sustained by the support, love, strength, and grit provided by their incomparable families.&#160; During National Military Families Month, we celebrate the incredible men, women, parents, and children [&#8230;]\nThe post Presidential Message on National Military Families Month appeared first on The White House.",
-   "published": "2026-11-12T21:34:51+00:00",
-   "source": "WhiteHouse.gov News",
-   "source_id": "whitehouse",
-   "bias_note": "official/primary-source",
-   "first_seen": "2026-11-13T01:09:07.587324+00:00"
-  },
-  {
-   "id": "9b275a2b48765a72",
-   "title": "Presidential Message on National Entrepreneurship Month",
-   "url": "https://www.whitehouse.gov/briefings-statements/2026/11/presidential-message-on-national-entrepreneurship-month-bfcb/",
-   "summary": "The entrepreneurial spirit of America has been forged by the determination of generations who envisioned a Nation where every hardworking citizen can live their glorious American Dream.&#160; For over 250 years, entrepreneurs have created the strong foundation that our country has built upon to become the economic powerhouse that we are today.&#160; This National Entrepreneurship [&#8230;]\nThe post Presidential Message on National Entrepreneurship Month appeared first on The White House.",
-   "published": "2026-11-12T21:33:37+00:00",
-   "source": "WhiteHouse.gov News",
-   "source_id": "whitehouse",
-   "bias_note": "official/primary-source",
-   "first_seen": "2026-11-13T01:09:07.587326+00:00"
-  },
-  {
-   "id": "7cbfb694a2fa68e7",
-   "title": "The top Trump officials Democrats admit are on their hit list for investigations in the new Congress",
-   "url": "https://www.foxnews.com/politics/top-trump-officials-democrats-admit-hit-list-investigations-new-congress",
-   "summary": "Democrats say Howard Lutnick, Stephen Miller, Tom Homan and Marco Rubio could face impeachment efforts and congressional hearings in January.",
-   "published": "2026-11-12T20:29:09+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-11-13T01:09:07.268111+00:00"
   }
  ]
 }
