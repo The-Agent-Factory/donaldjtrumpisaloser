@@ -1,7 +1,128 @@
 {
- "updated": "2026-11-26T13:57:53.740929+00:00",
- "count": 801,
+ "updated": "2026-11-26T20:01:07.986745+00:00",
+ "count": 794,
  "articles": [
+  {
+   "id": "51d023a16cb08714",
+   "title": "Trump unloads on critics in wide-ranging Thanksgiving Day rant",
+   "url": "https://thehill.com/homenews/administration/6244831-trump-thanksgiving-message-critics-gdp-somali-community/",
+   "summary": "President Trump marked Thanksgiving Day with a lengthy rant on social media in which he lashed out at his political opponents, accused federal officials of releasing \u201cfake\u201d economic numbers and called for the mass expulsion of Somalis from the U.S. In a grievance-filled post on Truth Social, the president began by wishing Americans a happy...",
+   "published": "2026-11-26T19:42:46+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-11-26T20:01:07.131257+00:00"
+  },
+  {
+   "id": "0c437947aaa522b9",
+   "title": "Live updates: Bad weather disrupts Thanksgiving; Trump calls for probe into GDP data",
+   "url": "https://thehill.com/homenews/administration/6244342-live-updates-inclement-weather-thanksgiving-issues-iowa-detonation-fallout/",
+   "summary": "Severe weather is upending Thanksgiving plans across the country, with travelers bracing for flight delays and cancellations as a powerful nor\u2019easter moves up the East Coast. The storm has already pushed back the annual Macy\u2019s Thanksgiving Day Parade to Saturday and prompted emergency declarations in New York and New Jersey. President Trump on Thursday demanded...",
+   "published": "2026-11-26T17:58:39+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-11-26T20:01:07.131304+00:00"
+  },
+  {
+   "id": "054dd673aff9894d",
+   "title": "Trump heads to Arizona next week for a high-stakes expansion of TSMC's computer chip factories",
+   "url": "https://www.pbs.org/newshour/politics/trump-heads-to-arizona-next-week-for-a-high-stakes-expansion-of-tsmcs-computer-chip-factories",
+   "summary": "President Donald Trump, who has staked his economic policy on growth in the artificial intelligence sector, will travel to Arizona on Dec. 4 to speak at the groundbreaking for a new Taiwan Semiconductor Manufacturing Co. computer chip foundry, according to both the White House and the Taiwan-based company.",
+   "published": "2026-11-26T17:52:23+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-11-26T20:01:07.379306+00:00"
+  },
+  {
+   "id": "8ee8c54a6d6310c5",
+   "title": "Trump calls the pre-election GDP figures 'fake' and demands an investigation of Commerce Department",
+   "url": "https://abcnews.com/Politics/wireStory/trump-calls-gdp-figures-fake-demands-investigation-commerce-138469221",
+   "summary": "President Donald Trump is suggesting without evidence a conspiracy within the government to report upwardly revised economic growth figures after the midterm elections that were disastrous for Republicans",
+   "published": "2026-11-26T17:46:29+00:00",
+   "source": "ABC News Politics",
+   "source_id": "abc-politics",
+   "bias_note": "center",
+   "first_seen": "2026-11-26T20:01:07.815994+00:00"
+  },
+  {
+   "id": "e0be42034007f162",
+   "title": "Nate Silver: Trump could \u2018absolutely\u2019 be removed from office after midterm turmoil",
+   "url": "https://thehill.com/homenews/administration/6244759-nate-silver-donald-trump-impeachment-post-midterms/",
+   "summary": "Polling analyst Nate Silver suggested there \u201cabsolutely\u201d is a chance that President Trump could be removed from office after the GOP and his administration faced clear backlash during the midterms.\u00a0 On an episode of the \u201cStill Counting\u201d podcast between Silver and fellow co-hosts Galen Druke and Clare Malone, the pundit asked the pair what prediction...",
+   "published": "2026-11-26T17:42:47+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-11-26T20:01:07.131309+00:00"
+  },
+  {
+   "id": "1c06407df5d738a3",
+   "title": "5 questions facing President Trump this Thanksgiving",
+   "url": "https://thehill.com/homenews/analysis/6242015-iran-war-impact-election/",
+   "summary": "President Trump is facing a transformed political landscape as he begins his final two years in the White House. The Republican Party took a serious beating in the midterm elections, with Democrats gaining nine seats in the Senate and notching their highest number of House seats since the 1990s. At least some blame for the...",
+   "published": "2026-11-26T17:00:00+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-11-26T20:01:07.131312+00:00"
+  },
+  {
+   "id": "903a8cc15126117d",
+   "title": "Trump, NATO chief urge Russia not to expand war in Ukraine",
+   "url": "https://thehill.com/policy/international/6244695-donald-trump-mark-rutte-meeting-russia-ukraine-war/",
+   "summary": "President Trump and NATO Secretary General Mark Rutte urged Russia not to expand its war with Ukraine, as peace talks between the countries have made little headway in recent weeks and as the conflict nears five years.\u00a0 Trump and Rutte, following a meeting Wednesday at the president's Mar-a-Lago resort in Florida, released a joint statement...",
+   "published": "2026-11-26T16:44:26+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-11-26T20:01:07.131323+00:00"
+  },
+  {
+   "id": "f91f07351b57ac3c",
+   "title": "Trump calls GDP figures 'fake' and demands an investigation of Commerce Department",
+   "url": "https://www.pbs.org/newshour/politics/trump-calls-gdp-figures-fake-and-demands-an-investigation-of-commerce-department",
+   "summary": "President Donald Trump on Thursday accused his Commerce Department of purposely issuing incorrect economic growth figures before the midterm elections, and said he wants to launch an investigation.",
+   "published": "2026-11-26T16:36:06+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-11-26T20:01:07.379312+00:00"
+  },
+  {
+   "id": "17a709162ae306d7",
+   "title": "2026's biggest political turkeys: Scandals, gaffes and other memorable unfortunate moments from this year",
+   "url": "https://www.foxnews.com/politics/2026-biggest-political-turkeys-scandals-gaffes-memorable-unfortunate-moments-year",
+   "summary": "Eric Swalwell&apos;s California gubernatorial collapse, Tim Walz&apos;s fraud scandal and more: the political figures whose 2026 ended in scandal and defeat.",
+   "published": "2026-11-26T16:00:02+00:00",
+   "source": "Fox News Politics",
+   "source_id": "foxnews-politics",
+   "bias_note": "right-leaning",
+   "first_seen": "2026-11-26T20:01:06.527939+00:00"
+  },
+  {
+   "id": "408dc4fa758167f4",
+   "title": "China, others bash Trump\u2019s latest tariff gambit: \u2018Trade wars serve no one\u2019s interests\u2019",
+   "url": "https://thehill.com/policy/international/6244629-trump-global-tariffs-china-japan-eu-fallout/",
+   "summary": "Several countries hit by the Trump administration\u2019s new wave of tariffs \u2014 which targeted China, the European Union and others \u2014 condemned the announcement, arguing the move wouldn\u2019t benefit anyone.\u00a0\u00a0 \u201cTariff wars and trade wars serve no one\u2019s interests,\u201d Chinese Foreign Ministry spokesperson Guo Jiakun told reporters Thursday. China could face 20 percent import tariffs...",
+   "published": "2026-11-26T15:44:00+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-11-26T20:01:07.131335+00:00"
+  },
+  {
+   "id": "bebd5c61e42300e1",
+   "title": "Trump demands probe into preelection GDP data, alleges \u2018purposeful\u2019 error",
+   "url": "https://thehill.com/homenews/administration/6244608-trump-revised-gdp-data-probe/",
+   "summary": "President Trump on Thursday called for an investigation into economic data released ahead of the midterm elections after the federal government revised its estimate of third-quarter growth upward. The president, in a Thanksgiving Day post on Truth Social, alleged without providing evidence that the initial gross domestic product (GDP) figures were deliberately understated. \u201cWhy wasn\u2019t...",
+   "published": "2026-11-26T15:35:49+00:00",
+   "source": "The Hill",
+   "source_id": "thehill",
+   "bias_note": "center",
+   "first_seen": "2026-11-26T20:01:07.131338+00:00"
+  },
   {
    "id": "116a7996194c3a66",
    "title": "Trump, NATO chief push Russia to avoid any actions that would 'expand the war' with Ukraine",
@@ -573,6 +694,17 @@
    "source_id": "whitehouse",
    "bias_note": "official/primary-source",
    "first_seen": "2026-11-25T20:24:05.029856+00:00"
+  },
+  {
+   "id": "69eabd1a97ecf537",
+   "title": "The census provides a critical snapshot of the US. Proposed changes could affect who is counted in 2030",
+   "url": "https://www.theguardian.com/us-news/2026/nov/25/2030-census-changes",
+   "summary": "Trump administration\u2019s bid to cut question on race and add one on citizenship could reshape how the US population is understoodJust a few years away from the 2030 census, the US Census Bureau is considering changes that could fundamentally reshape how people are counted \u2013 and therefore impact democracy, education, infrastructure and health. The proposed rule changes would add two new parts to the regulations that govern the census: One change would remove a question about race and ethnicity, while another would add a citizenship question. Also among the proposed changes is a line that would fo",
+   "published": "2026-11-25T12:00:25+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-11-26T20:01:06.904789+00:00"
   },
   {
    "id": "dd390125b4c42002",
@@ -8603,215 +8735,6 @@
    "source_id": "foxnews-politics",
    "bias_note": "right-leaning",
    "first_seen": "2026-11-13T01:09:07.268111+00:00"
-  },
-  {
-   "id": "72161331ed244b1c",
-   "title": "Trump administration plans to make it harder to get grocery assistance",
-   "url": "https://www.pbs.org/newshour/politics/trump-administration-plans-to-make-it-harder-to-get-grocery-assistance",
-   "summary": "About 6.3 million people could lose eligibility for SNAP by the 2029 fiscal year if the proposed change takes effect, according to the U.S. Department of Agriculture. That is on top of 5.5 million people who already have lost SNAP benefits over the past year.",
-   "published": "2026-11-12T19:02:18+00:00",
-   "source": "PBS NewsHour Politics",
-   "source_id": "pbs-politics",
-   "bias_note": "center",
-   "first_seen": "2026-11-13T01:09:09.759304+00:00"
-  },
-  {
-   "id": "633d5f2300bbfb2e",
-   "title": "Trump says no deal needed on Iran war and orders Vance to focus on domestic issues",
-   "url": "https://www.theguardian.com/us-news/2026/nov/12/trump-jd-vance-iran-war",
-   "summary": "President says vice-president will focus on supposed \u2018Massive Corruption and Crime taking place in Democrat run Cities and States\u2019US politics live \u2013 latest updatesDonald Trump has said that the US is no longer seeking a deal to end the war with Iran and ordered JD Vance, who had spearheaded recent efforts to restart negotiations with Iran, to focus on domestic politics instead.In a post to his social media site on Thursday, Trump said he was redirecting the vice-president to focus his \u201ccomplete and total attention on the Massive Corruption and Crime taking place in Democrat run Cities and Stat",
-   "published": "2026-11-12T19:01:16+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-11-13T01:09:08.351276+00:00"
-  },
-  {
-   "id": "7125b06d0b59405c",
-   "title": "House Dem misses Hegseth impeachment vote because of major medical procedure one week after Election Day",
-   "url": "https://www.foxnews.com/politics/house-dem-misses-hegseth-impeachment-vote-major-medical-procedure-week-after-election-day",
-   "summary": "Democratic Rep. Lou Correa, one of the House members who did not vote Tuesday on the Hegseth impeachment issue, underwent open-heart surgery that day.",
-   "published": "2026-11-12T18:40:10+00:00",
-   "source": "Fox News Latest",
-   "source_id": "foxnews-latest",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-11-12T18:44:02.060326+00:00"
-  },
-  {
-   "id": "33c416988943cd38",
-   "title": "Hegseth presents award to soldier who scolded him and his aides at Tomb of the Unknown Soldier",
-   "url": "https://www.pbs.org/newshour/world/hegseth-presents-award-to-soldier-who-scolded-him-and-his-aides-at-tomb-of-the-unknown-soldier",
-   "summary": "The scolding drew attention once more to the embattled defense secretary, who had survived an impeachment attempt the day before.",
-   "published": "2026-11-12T18:35:44+00:00",
-   "source": "PBS NewsHour Politics",
-   "source_id": "pbs-politics",
-   "bias_note": "center",
-   "first_seen": "2026-11-12T18:44:02.814894+00:00"
-  },
-  {
-   "id": "c68416443aec9866",
-   "title": "O'Reilly: House Democrats' new Epstein report 'a bunch of bull'",
-   "url": "https://thehill.com/homenews/media/6216776-oreilly-judiciary-committee-epstein-report-bull/",
-   "summary": "Conservative commentator Bill O\u2019Reilly called a new House Judiciary Committee report on the Justice Department's (DOJ) investigation into convicted sex offender and disgraced financier Jeffrey Epstein \u201ca bunch of bull,\u201d saying it failed to expose any \"legitimate corruption.\" \u201cNo, I didn't read it. It's a bunch of bull and nobody would print it, because a)...",
-   "published": "2026-11-12T18:27:48+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-11-12T18:44:02.664093+00:00"
-  },
-  {
-   "id": "c76fd294d0c280b6",
-   "title": "Trump asks Vance to focus on \u2018corruption and crime\u2019 in Dem-run cities, states",
-   "url": "https://www.foxnews.com/politics/trump-asks-vance-focus-corruption-crime-dem-run-cities-states",
-   "summary": "President Trump says JD Vance will target alleged corruption in Minnesota, California and Illinois, claiming billions are stolen monthly from government programs.",
-   "published": "2026-11-12T17:48:55+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-11-12T18:22:02.965295+00:00"
-  },
-  {
-   "id": "4f02bbbecb8b7a95",
-   "title": "Howard Lutnick is next Trump official top Dems want on the chopping block amid NVIDIA scandal",
-   "url": "https://www.foxnews.com/politics/howard-lutnick-next-trump-official-dems-want-chopping-block-amid-nvidia-scandal",
-   "summary": "Top House Democrats are calling for an investigation into Howard Lutnick over his alleged role in the NVIDIA Jensen Huang Chinese spy scandal.",
-   "published": "2026-11-12T17:38:40+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-11-12T18:22:02.965304+00:00"
-  },
-  {
-   "id": "56059621fd767527",
-   "title": "Trump opens door to immigration deal, but Republicans have one condition",
-   "url": "https://www.foxnews.com/politics/trump-opens-door-immigration-deal-republicans-have-one-condition",
-   "summary": "President Donald Trump floated a deal for long-term immigrants, but Senate Republicans drew a hard line, insisting amnesty is completely off the table.",
-   "published": "2026-11-12T17:35:28+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-11-12T18:22:02.965308+00:00"
-  },
-  {
-   "id": "83e3020e79e509f4",
-   "title": "White House counsel says Supreme Court delivered 'generational win' on presidential\u00a0firing power",
-   "url": "https://thehill.com/regulation/court-battles/6216580-scharf-slaughter-v-trump-win-supreme-court/",
-   "summary": "White House counsel Will Scharf praised the Supreme Court's June decision strengthening presidential firing power as a \"generational win,\" saying Thursday it righted what he viewed as a \"historic constitutional wrong.\"   \"A president who can't control who's exercising the executive power that is vested in him, that's a cabined presidency,\" Scharf said during the Federalist...",
-   "published": "2026-11-12T17:30:48+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-11-12T18:22:04.011072+00:00"
-  },
-  {
-   "id": "7e55501e79bc4bba",
-   "title": "White House lawyer vows to fight 'tooth and nail' against 'inappropriate' investigations",
-   "url": "https://thehill.com/homenews/administration/6215926-white-house-counsel-vows-fight/",
-   "summary": "White House counsel Will Scharf vowed Wednesday that he will fight \"tooth and nail\" against Democratic lawmakers pledging to open sweeping probes into the Trump administration next year, claiming their investigations are \"inappropriate.\" \"They can't investigate for the purpose of inflicting pain on government officials,\" Scharf said on \"Rob Schmitt Tonight\" on Newsmax. \"They can't...",
-   "published": "2026-11-12T17:24:59+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-11-12T18:22:04.011109+00:00"
-  },
-  {
-   "id": "2f84a6ff0f152ef7",
-   "title": "First Lady Melania Trump Honors America\u2019s Elite Soldiers and the Sacrifices of Military Families",
-   "url": "https://www.whitehouse.gov/briefings-statements/2026/11/first-lady-melania-trump-honors-americas-elite-soldiers-and-the-sacrifices-of-military-families/",
-   "summary": "First Lady Melania Trump visited Fort Rucker, the headquarters U.S. Army Aviation, to honor America\u2019s soldiers and the sacrifices of the military families who support them. \u201cI want to take a moment to say thank you to one very important group of people: the families of America\u2019s military. Your role is profound. While your loved [&#8230;]\nThe post First Lady Melania Trump Honors America\u2019s Elite Soldiers and the Sacrifices of Military Families appeared first on The White House.",
-   "published": "2026-11-12T17:18:04+00:00",
-   "source": "WhiteHouse.gov News",
-   "source_id": "whitehouse",
-   "bias_note": "official/primary-source",
-   "first_seen": "2026-11-12T18:22:03.213609+00:00"
-  },
-  {
-   "id": "68db99753eb8a865",
-   "title": "Democrats want to stop Trump's arch, golf course and more. What are their options?",
-   "url": "https://www.npr.org/2026/11/12/nx-s1-6034539/democrats-congress-trump-arch-ballroom-funding-oversight",
-   "summary": "As Trump's arch and other projects make their way through the courts, many critics are looking to Congress to stop them. Democrats have a few tools, including funding and oversight.",
-   "published": "2026-11-12T17:13:54+00:00",
-   "source": "NPR Politics",
-   "source_id": "npr-politics",
-   "bias_note": "center",
-   "first_seen": "2026-11-12T18:22:03.564372+00:00"
-  },
-  {
-   "id": "d0480fd2eff2b090",
-   "title": "Biden judge rejects DOJ bid to halt probe of prosecutors in botched ICE protest case",
-   "url": "https://www.foxnews.com/politics/biden-judge-rejects-doj-bid-halt-probe-prosecutors-botched-ice-protest-case",
-   "summary": "Judge April Perry ordered U.S. Attorney Andrew Boutros and three prosecutors to give sworn testimony in the Broadview Six case amid misconduct allegations.",
-   "published": "2026-11-12T16:40:55+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-11-12T18:22:02.965318+00:00"
-  },
-  {
-   "id": "545718d2e320d73e",
-   "title": "More than half of Republicans prefer 2028 nominee to take different approach from Trump: Poll",
-   "url": "https://thehill.com/homenews/campaign/6216295-republicans-2028-presidential-nominee-poll-trump/",
-   "summary": "More than half of surveyed Republicans are looking for a 2028 presidential nominee with a different approach from President Trump, according to a new poll. In the Reuters/Ipsos poll, 52 percent of Republican or Republican-leaning respondents said they want a 2028 GOP nominee with \u201ca different approach to governing as Donald Trump.\u201d Forty-six percent of...",
-   "published": "2026-11-12T16:29:29+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-11-12T18:22:04.011172+00:00"
-  },
-  {
-   "id": "b91a3907c52eb98f",
-   "title": "ICE reports record immigration arrests, deportations since Trump White House return",
-   "url": "https://abcnews.com/Politics/wireStory/ice-reports-record-high-immigration-arrests-deportations-trumps-138083036",
-   "summary": "U.S. Immigration and Customs Enforcement says it arrested and deported more people during a recent 12-month period than at any time in its 23-year history",
-   "published": "2026-11-12T16:05:54+00:00",
-   "source": "ABC News Politics",
-   "source_id": "abc-politics",
-   "bias_note": "center",
-   "first_seen": "2026-11-12T18:22:05.144843+00:00"
-  },
-  {
-   "id": "1146b8698578dbb7",
-   "title": "Another Trump heavyweight revealed to be living on military base as Cabinet roster grows",
-   "url": "https://www.foxnews.com/politics/another-trump-heavyweight-revealed-living-military-base-cabinet-roster-grows",
-   "summary": "Attorney General Todd Blanche has been living on a military base for months as multiple Trump administration officials relocate to protected housing.",
-   "published": "2026-11-12T16:04:32+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-11-12T18:22:02.965327+00:00"
-  },
-  {
-   "id": "9ffdd79f797dbc71",
-   "title": "Pence delivers scathing rebuke of Vance's Iran war assessment, blames Trump policies for GOP losses",
-   "url": "https://www.foxnews.com/politics/pence-delivers-scathing-rebuke-vances-iran-war-assessment-blames-trump-policies-gop-losses",
-   "summary": "Mike Pence rejects JD Vance&apos;s claim that the Iran war alone cost Republicans Congress, pointing to inflation, self-dealing and policy failures.",
-   "published": "2026-11-12T16:00:31+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-11-12T18:22:02.965330+00:00"
-  },
-  {
-   "id": "85d19580879f3d33",
-   "title": "2028 Dems: Don\u2019t label me",
-   "url": "https://www.politico.com/news/2026/11/12/2028-dems-dont-label-me-01161787",
-   "summary": "Democrats with eyes on the White House are hoping to push the party past its long-running ideological war.",
-   "published": "2026-11-12T15:00:00+00:00",
-   "source": "Politico",
-   "source_id": "politico",
-   "bias_note": "center",
-   "first_seen": "2026-11-12T18:22:03.905352+00:00"
-  },
-  {
-   "id": "a32b6f0c29455309",
-   "title": "\u2018To them, we\u2019re just NPCs\u2019: the artists and activists challenging Trump\u2019s video game propaganda",
-   "url": "https://www.theguardian.com/games/2026/nov/12/trump-video-game-propaganda",
-   "summary": "Order a Diet Coke or invade Iran \u2013 that\u2019s the choice facing the US president in one of several satirical games, as designers turn the gamification of politics back on the White HouseIn early September, the Trump White House announced a surprising new addition to its official website. Named simply Arcade, it is a collection of browser games based on classic titles such as Flappy Bird, Snake, and Tetris, but re-tuned as flagrant works of political propaganda. Designed to court reactionary gamers, they push the administration\u2019s policies on immigration and other hot-button issues, while dehumanisi",
-   "published": "2026-11-12T14:00:43+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-11-13T09:38:31.969842+00:00"
   }
  ]
 }
