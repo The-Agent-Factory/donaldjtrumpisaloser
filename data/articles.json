@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-27T19:29:51.583489+00:00",
- "count": 764,
+ "updated": "2026-11-27T19:49:47.403819+00:00",
+ "count": 763,
  "articles": [
   {
    "id": "5c11fb83934ed76d",
@@ -8394,17 +8394,6 @@
    "source_id": "guardian-uspolitics",
    "bias_note": "left-leaning",
    "first_seen": "2026-11-13T23:37:53.490990+00:00"
-  },
-  {
-   "id": "1ae543e90abe8115",
-   "title": "Two top Trump Cabinet officials go to war over China spy scandal amid explosive accusations: report",
-   "url": "https://www.foxnews.com/politics/two-top-trump-cabinet-officials-go-war-over-china-spy-scandal-amid-explosive-accusations-report",
-   "summary": "A White House Situation Room meeting erupted after Nvidia CEO Jensen Huang&apos;s affair with a suspected Chinese spy tied to chip diversions was revealed.",
-   "published": "2026-11-13T19:49:44+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-11-13T23:37:52.906751+00:00"
   }
  ]
 }
