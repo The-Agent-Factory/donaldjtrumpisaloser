@@ -1,7 +1,40 @@
 {
- "updated": "2026-11-27T19:49:47.403819+00:00",
- "count": 763,
+ "updated": "2026-11-28T02:44:39.736160+00:00",
+ "count": 742,
  "articles": [
+  {
+   "id": "c129d64911f14f70",
+   "title": "Brooks and Capehart on Trump's new tariffs, Nvidia's future and Democratic leadership",
+   "url": "https://www.pbs.org/newshour/show/brooks-and-capehart-on-trumps-new-tariffs-nvidias-future-and-democratic-leadership",
+   "summary": "David Brooks of The Atlantic and Jonathan Capehart of MS NOW join Nick Schifrin to discuss the week in politics, including President Trump's relationship with Russia's Vladimir Putin, Jensen Huang's return to Nvidia and sweeping new tariffs on China, Europe and others.",
+   "published": "2026-11-27T23:40:22+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-11-28T02:44:39.010744+00:00"
+  },
+  {
+   "id": "48dde8dadba06f46",
+   "title": "ACLU seeks court order blocking Trump administration's efforts to unmask ICE critics on social media",
+   "url": "https://abcnews.com/Politics/wireStory/aclu-seeks-court-order-blocking-trump-administrations-efforts-138488643",
+   "summary": "Civil rights attorneys claim the Trump administration is abusing the grand jury process in an effort to unmask social media users anonymously criticizing its immigration enforcement tactics",
+   "published": "2026-11-27T23:33:31+00:00",
+   "source": "ABC News Politics",
+   "source_id": "abc-politics",
+   "bias_note": "center",
+   "first_seen": "2026-11-28T02:44:39.425391+00:00"
+  },
+  {
+   "id": "ab4c5746fb904bf5",
+   "title": "Rachel Maddow discusses how the Justice Department has strayed from its mission",
+   "url": "https://www.pbs.org/newshour/show/rachel-maddow-discusses-how-the-justice-department-has-strayed-from-its-mission",
+   "summary": "Journalist and MS NOW anchor Rachel Maddow's fifth book, \"Department of Fate,\" explores the history of the Department of Justice. Maddow argues the DOJ is \"America's most consequential institution,\" but says it has now strayed dramatically from its mission. Amna Nawaz spoke with Maddow about all of this and more in a recent episode of our PBS News podcast, \"Settle in.\"",
+   "published": "2026-11-27T23:30:40+00:00",
+   "source": "PBS NewsHour Politics",
+   "source_id": "pbs-politics",
+   "bias_note": "center",
+   "first_seen": "2026-11-28T02:44:39.010752+00:00"
+  },
   {
    "id": "5c11fb83934ed76d",
    "title": "Trump to visit groundbreaking for semiconductor manufacturer that supplies Nvidia: Reports",
@@ -8130,270 +8163,6 @@
    "source_id": "guardian-uspolitics",
    "bias_note": "left-leaning",
    "first_seen": "2026-11-14T06:35:06.118884+00:00"
-  },
-  {
-   "id": "9737ca0031189780",
-   "title": "US aviation agency lifts nationwide ground stop affecting all air travel",
-   "url": "https://www.theguardian.com/world/2026/nov/13/faa-nationwide-ground-stop-flights",
-   "summary": "Sean Duffy, the transportation secretary, said the airspace was now open and the problem had been identifiedAirport chaos continues after FAA lifts ground stop \u2013 live updatesThe Federal Aviation Administration (FAA) has lifted a nationwide ground stop that was declared Friday afternoon, delaying or canceling more than 11,000 US flights, according to aviation tracker FlightAware, and throwing airports into sudden chaos.The FAA confirmed the airspace was open in an advisory on its website. \u201cSo at 8.15 tonight, Eastern Time, we\u2019ve opened up the airspace,\u201d Sean Duffy, the US transportation secreta",
-   "published": "2026-11-14T02:15:53+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-11-14T06:35:06.118894+00:00"
-  },
-  {
-   "id": "af34245ac051e15a",
-   "title": "Airspace reopened after nationwide ground stop",
-   "url": "https://thehill.com/policy/transportation/6220313-faa-lifts-nationwide-ground-stop/",
-   "summary": "The nationwide ground stop issued by the Federal Aviation Administration Friday afternoon has been lifted, Transportation Secretary Sean Duffy confirmed. \"At 8:15 tonight Eastern Time, we've opened up the airspace,\" Duffy said to reporters in the White House briefing room during a press conference that began at around 8:30 p.m. EST. Duffy added that, although...",
-   "published": "2026-11-14T01:56:50+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-11-14T06:35:06.237164+00:00"
-  },
-  {
-   "id": "6d22b6117ee6c073",
-   "title": "Trump, Putin and Xi to meet in first trilateral meeting between leaders",
-   "url": "https://thehill.com/homenews/administration/6220278-trump-putin-xi-trilateral-meeting/",
-   "summary": "President Trump plans to meet with Russian President Vladimir Putin and Chinese President Xi Jinping on the sidelines of the Asia-Pacific Economic Cooperation (APEC) summit in China next week, marking the first-ever trilateral meeting between the three leaders. Trump will be in Asia for The Association of Southeast Asian Nations summit in the Philippines and...",
-   "published": "2026-11-14T01:30:55+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-11-14T06:35:06.237167+00:00"
-  },
-  {
-   "id": "acbfd5afaa924a65",
-   "title": "Joe Rogan says podcasters have no business at Trump press conferences alongside real journalists",
-   "url": "https://www.foxnews.com/media/joe-rogan-says-podcasters-no-business-trump-press-conferences-alongside-real-journalists",
-   "summary": "Joe Rogan rejected White House advisor David Sacks&apos; push to give podcasters front-row seats at press conferences, declaring &quot;we talk s---&quot; and aren&apos;t journalists.",
-   "published": "2026-11-14T01:28:48+00:00",
-   "source": "Fox News Latest",
-   "source_id": "foxnews-latest",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-11-14T06:35:05.696785+00:00"
-  },
-  {
-   "id": "eb074ac64eb6022d",
-   "title": "Watch: Duffy, Mullin hold press briefing on FAA nationwide ground stop",
-   "url": "https://thehill.com/video-clips/6220247-watch-duffy-mullin-hold-press-briefing-on-faa-nationwide-ground-stop/",
-   "summary": "Homeland Security Secretary Markwayne Mullin and Transportation Secretary Sean Duffy will hold a press briefing at the White House on Friday night to provide an update on the Federal Aviation Administration's (FAA) nationwide ground stop. \u201cThe @FAANews [FAA] issued a nationwide ground stop for all U.S. airports following a communication issue impacting all Air Route...",
-   "published": "2026-11-14T00:54:31+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-11-14T06:35:06.237184+00:00"
-  },
-  {
-   "id": "64fc125c3d215396",
-   "title": "Multiple college football teams in flight limbo due to FAA ground stop",
-   "url": "https://thehill.com/policy/sports-gaming/6220145-faa-ground-stop-impacts-college-football/",
-   "summary": "The nationwide ground stop issued by the Federal Aviation Administration Friday afternoon has impacted travel plans for college football teams scheduled to fly to their destinations. Among teams impacted are four schools in the NCAA's Big 12 Conference, Baylor University, Kansas State University, University of Utah and Arizona State University; three in the Big Ten...",
-   "published": "2026-11-14T00:08:59+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-11-14T06:35:06.237198+00:00"
-  },
-  {
-   "id": "32c3d153d7f70c41",
-   "title": "ICE touts record number of deportations in agency's history",
-   "url": "https://www.pbs.org/newshour/show/ice-touts-record-number-of-deportations-in-agencys-history",
-   "summary": "The Department of Homeland Security reports that immigrant deportations and arrests hit an all-time high. More than 491,000 people were arrested by ICE in the last fiscal year, and more than 483,000 were deported. The Trump administration has said it aims to deport one million immigrants annually. William Brangham discussed more with John Sandweg, who was acting ICE Director under President Obama.",
-   "published": "2026-11-13T23:35:23+00:00",
-   "source": "PBS NewsHour Politics",
-   "source_id": "pbs-politics",
-   "bias_note": "center",
-   "first_seen": "2026-11-14T06:35:06.407654+00:00"
-  },
-  {
-   "id": "888380a2073faabd",
-   "title": "Brooks and Marcus on how Republicans are responding to midterm losses",
-   "url": "https://www.pbs.org/newshour/show/brooks-and-marcus-on-how-republicans-are-responding-to-midterm-losses",
-   "summary": "David Brooks of The Atlantic and Ruth Marcus of The New Yorker join Amna Nawaz to discuss the week in politics, including the fallout of Nvidia CEO Jensen Huang's resignation and what the Trump administration knew, how Republicans are responding to their losses in the midterm elections, JD Vance's chances in 2028 and the Democratic leadership battle in the Senate.",
-   "published": "2026-11-13T23:30:37+00:00",
-   "source": "PBS NewsHour Politics",
-   "source_id": "pbs-politics",
-   "bias_note": "center",
-   "first_seen": "2026-11-14T06:35:06.407659+00:00"
-  },
-  {
-   "id": "83f934fed54de0de",
-   "title": "House Democrat calls FAA stop 'quite disturbing'",
-   "url": "https://thehill.com/policy/transportation/6220064-garcia-calls-faa-ground-stop-disturbing/",
-   "summary": "Rep. Robert Garcia (D-Calif.) called the nationwide ground stop issued by the Federal Aviation Administration (FAA) on Friday \u201cquite disturbing.\u201d \u201cThis is quite disturbing and pretty extraordinary of a action taken,\u201d Garcia said during an appearance on MS NOW. \u201cWhatever it is, I think deserves as much transparency as possible.\u201d \u201cThe impact is going to...",
-   "published": "2026-11-13T23:22:00+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-11-13T23:37:53.735482+00:00"
-  },
-  {
-   "id": "e91f25e6d7bd937d",
-   "title": "Trump administration delays Medicaid work requirement enforcement",
-   "url": "https://thehill.com/policy/healthcare/6220069-trump-delays-medicaid-work-requirements/",
-   "summary": "The Trump administration is delaying the implementation of controversial Medicaid work requirements, giving states an extra six months to prepare.\u00a0 The work requirements, which Republicans established in the One Big Beautiful Bill last year, will still technically go into effect Jan. 1. But states will have an optional \u201chold harmless\u201d transition period that will run...",
-   "published": "2026-11-13T23:19:17+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-11-13T23:37:53.735490+00:00"
-  },
-  {
-   "id": "33f0211314b726ab",
-   "title": "WATCH: Homeland Security Secretary Mullin says FAA flight stoppage 'isn't another 9/11'",
-   "url": "https://www.pbs.org/newshour/nation/watch-homeland-security-secretary-mullin-says-faa-flight-stoppage-isnt-another-9-11",
-   "summary": "Homeland Security Secretary Markwayne Mullin said there are no indications of an attack against the nation, after the Federal Aviation Administration grounded all flights nationwide Friday afternoon due to communications problems.",
-   "published": "2026-11-13T23:00:52+00:00",
-   "source": "PBS NewsHour Politics",
-   "source_id": "pbs-politics",
-   "bias_note": "center",
-   "first_seen": "2026-11-13T23:37:53.931847+00:00"
-  },
-  {
-   "id": "837e89d4c05acc8c",
-   "title": "UFC boss Dana White brushes off Democratic probe threats, recalls 'crazy 48 hours' around Trump job offer",
-   "url": "https://www.foxnews.com/media/ufc-boss-dana-white-brushes-off-democratic-probe-threats-recalls-crazy-48-hours-around-trump-job-offer",
-   "summary": "UFC CEO Dana White told Lara Trump he has nothing to hide from post-midterm Democratic probes and recounted his &quot;crazy 48 hours&quot; around President Donald Trump&apos;s press secretary joke.",
-   "published": "2026-11-13T22:40:22+00:00",
-   "source": "Fox News Latest",
-   "source_id": "foxnews-latest",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-11-13T23:37:53.096231+00:00"
-  },
-  {
-   "id": "9fcd846bc3c855e3",
-   "title": "DHS head Markwayne Mullin says there is not a threat to the U.S. amid FAA ground stop",
-   "url": "https://www.npr.org/2026/11/13/nx-s1-6040418/dhs-head-markwayne-mullin-says-there-is-not-a-threat-to-the-u-s-amid-faa-ground-stop",
-   "summary": "Department of Homeland Security Secretary Markwayne Mullin spoke to at the White House on Friday afternoon after the FAA issues a total ground stop. NPR was there for the briefing.",
-   "published": "2026-11-13T22:36:46+00:00",
-   "source": "NPR Politics",
-   "source_id": "npr-politics",
-   "bias_note": "center",
-   "first_seen": "2026-11-13T23:37:53.392019+00:00"
-  },
-  {
-   "id": "190337eb6423d7b2",
-   "title": "GOP state officials push to revive Trump's mail voting restrictions for 2028 election",
-   "url": "https://www.npr.org/2026/11/13/nx-s1-6040409/trump-mail-in-voting",
-   "summary": "Some Republican state officials are reviving a bid for mail-in voting restrictions for the 2028 election by appealing a court order blocking the Postal Service from carrying out a revised ballot rule.",
-   "published": "2026-11-13T22:18:55+00:00",
-   "source": "NPR Politics",
-   "source_id": "npr-politics",
-   "bias_note": "center",
-   "first_seen": "2026-11-13T23:37:53.392026+00:00"
-  },
-  {
-   "id": "35bd692c8283a048",
-   "title": "Fate of Trump's DC golf course makeover at East Potomac Park hangs before federal judge",
-   "url": "https://thehill.com/regulation/court-battles/6219769-federal-judge-east-potomac-park-golf-course-hearing/",
-   "summary": "A federal judge is set to rule this weekend on whether the Trump administration can move forward with its planned closure of East Potomac Park and the historic public golf course there, with the judge signaling during a lengthy hearing Friday that she was not poised to allow it, at least for now. \u00a0 U.S....",
-   "published": "2026-11-13T22:10:33+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-11-13T23:37:53.735612+00:00"
-  },
-  {
-   "id": "a0ccc943cf679210",
-   "title": "Trump and Zohran sitting in a tree\u2026",
-   "url": "https://www.politico.com/newsletters/new-york-playbook-pm/2026/11/13/trump-and-zohran-sitting-in-a-tree-01166061",
-   "summary": "",
-   "published": "2026-11-13T21:55:50+00:00",
-   "source": "Politico",
-   "source_id": "politico",
-   "bias_note": "center",
-   "first_seen": "2026-11-13T23:37:53.555189+00:00"
-  },
-  {
-   "id": "1e6360226ba2f3a3",
-   "title": "Ethics Watchdog Urges Investigation Into Top Health Official, Alleging Conflict of Interest Over Hormone Therapy Policy",
-   "url": "https://www.propublica.org/article/hhs-alicia-jackson-ethics-complaint",
-   "summary": "The post Ethics Watchdog Urges Investigation Into Top Health Official, Alleging Conflict of Interest Over Hormone Therapy Policy appeared first on ProPublica.",
-   "published": "2026-11-13T21:50:00+00:00",
-   "source": "ProPublica",
-   "source_id": "propublica",
-   "bias_note": "investigative",
-   "first_seen": "2026-11-13T23:37:54.103501+00:00"
-  },
-  {
-   "id": "039e29e21e9d7c7c",
-   "title": "As Van Hollen wages a challenge, Senate Democrats are torn on whom to elect as their leader",
-   "url": "https://www.theguardian.com/us-news/2026/nov/13/democrats-midterms-senate-leader",
-   "summary": "Maryland senator\u2019s bid against Chuck Schumer for leadership could decide direction of the Democratic partyUS politics live \u2013 latest updatesEver since Donald Trump returned to the White House, Democratic officeholders and voters alike have been divided over whether their leader in the Senate, Chuck Schumer, is up to the task of taking the president on.That debate intensified on Thursday, when the Maryland senator Chris Van Hollen announced he will challenge Schumer for the post of Democratic Senate leader, which will become one of the most powerful jobs in Washington when the party takes contro",
-   "published": "2026-11-13T21:34:14+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-11-13T23:37:53.490946+00:00"
-  },
-  {
-   "id": "af48d25501f0e8da",
-   "title": "Hassett denies report he is leaving White House",
-   "url": "https://thehill.com/homenews/administration/6219713-kevin-hassett-denies-departure/",
-   "summary": "Kevin Hassett, the director of the National Economic Council (NEC), pushed back Friday on a report that he will depart the Trump administration in the coming weeks. He told CNBC\u2019s Eamon Javers through text that the report is \u201cnot true.\u201d The White House also denied the report, writing on social platform X, \u201cThere is no...",
-   "published": "2026-11-13T21:26:26+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-11-13T23:37:53.735618+00:00"
-  },
-  {
-   "id": "e928971bfd834963",
-   "title": "FAA orders nationwide ground stop",
-   "url": "https://thehill.com/policy/transportation/6219722-faa-issues-us-flight-ground-stop/",
-   "summary": "The Federal Aviation Administration (FAA) issued a nationwide ground stop for all U.S. flights, Transportation Secretary Sean Duffy confirmed Friday. \u201cThe @FAANews [FAA] issued a nationwide ground stop for all U.S. airports following a communication issue impacting all Air Route Traffic Control Centers,\u201d Duffy wrote on the social platform X. \u201cFAA technicians are investigating the...",
-   "published": "2026-11-13T21:23:00+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-11-13T23:37:53.735623+00:00"
-  },
-  {
-   "id": "024193fce3305e25",
-   "title": "The government says it will close a beloved D.C. park Sunday. Will a judge step in?",
-   "url": "https://www.npr.org/2026/11/13/nx-s1-6039273/east-po-hearing-nov-13",
-   "summary": "Federal judge Ana Reyes grilled the government on Friday about its plans for East Potomac Park, and indicated she could order it to remain open despite President Trump's renovation wishes.",
-   "published": "2026-11-13T21:06:05+00:00",
-   "source": "NPR Politics",
-   "source_id": "npr-politics",
-   "bias_note": "center",
-   "first_seen": "2026-11-13T23:37:53.392037+00:00"
-  },
-  {
-   "id": "f7944d73e52c8473",
-   "title": "Rep Lauren Boebert projected to lose House seat in another Democratic flip",
-   "url": "https://www.foxnews.com/politics/rep-lauren-boebert-projected-lose-house-seat-another-democratic-flip",
-   "summary": "Rep. Lauren Boebert, R-Colo., lost her congressional seat to Democratic challenger Eileen Laubacher. Boebert, an ally of President Trump, was seeking a fourth term.",
-   "published": "2026-11-13T20:37:39+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-11-13T23:37:52.906704+00:00"
-  },
-  {
-   "id": "5f98add0538b9d66",
-   "title": "Pete Hegseth impeachment effort dies in the House as absent Democrats couldn't beat the traffic",
-   "url": "https://www.foxnews.com/politics/pete-hegseth-impeachment-effort-dies-house-absent-democrats-couldnt-beat-traffic",
-   "summary": "Pete Hegseth narrowly avoided becoming only the third cabinet secretary ever impeached after 11 absent Democrats failed to reach the House floor.",
-   "published": "2026-11-13T20:13:17+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-11-13T23:37:52.906745+00:00"
-  },
-  {
-   "id": "9884e09e3f3746b0",
-   "title": "Trump-backed Maga firebrand Lauren Boebert defeated in Colorado congressional race",
-   "url": "https://www.theguardian.com/us-news/2026/nov/13/trump-maga-lauren-boebert-colorado",
-   "summary": "US congresswoman, who has been caught up in repeated controversies, loses re-election bid to Democrat Eileen LaubacherLauren Boebert, the firebrand conservative Republican Colorado representative whose three terms in Congress have been marred by multiple controversies, was defeated in her re-election bid.The gun rights advocate, born-again Christian and one-time QAnon fan lost to Democrat Eileen Laubacher by a less than 1% margin, according to the Associated Press. Continue reading...",
-   "published": "2026-11-13T20:07:07+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-11-13T23:37:53.490990+00:00"
   }
  ]
 }
