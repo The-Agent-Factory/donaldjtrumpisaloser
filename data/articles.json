@@ -1,7 +1,29 @@
 {
- "updated": "2026-11-28T02:44:39.736160+00:00",
- "count": 742,
+ "updated": "2026-11-28T13:08:51.339934+00:00",
+ "count": 725,
  "articles": [
+  {
+   "id": "509276d54536f572",
+   "title": "Week in Politics: Trump's Thanksgiving messaging; Congress' pre-holiday to-do list",
+   "url": "https://www.npr.org/2026/11/28/nx-s1-6052169/week-in-politics-trumps-thanksgiving-messaging-congress-pre-holiday-to-do-list",
+   "summary": "We look at President Trump's messaging over Thanksgiving, as well as what Congress can get done before the holidays.",
+   "published": "2026-11-28T12:39:24+00:00",
+   "source": "NPR Politics",
+   "source_id": "npr-politics",
+   "bias_note": "center",
+   "first_seen": "2026-11-28T13:08:50.246731+00:00"
+  },
+  {
+   "id": "f111a86a58f8a869",
+   "title": "US oligarchs enriched by \u2018transactional\u2019 Trump face fierce scrutiny in new Congress",
+   "url": "https://www.theguardian.com/us-news/2026/nov/28/oligarchs-trump-allies-congress-scrutiny",
+   "summary": "Democrats pledge aggressive investigations into Trump-allied billionaires and how president\u2019s policies have boosted their bottom linesFor an elite circle of Donald Trump billionaire allies who lavished tens of millions of dollars on his campaign, vanity projects and crypto ventures, his second administration has boosted their bottom lines through lax oversight, tax breaks, federal contracts and other perks.But with Democrats winning control of Congress in the midterms, House and Senate investigations are being planned for 2027 into several Maga oligarchs in hi-tech and crypto industries, exami",
+   "published": "2026-11-28T12:00:39+00:00",
+   "source": "Guardian US Politics",
+   "source_id": "guardian-uspolitics",
+   "bias_note": "left-leaning",
+   "first_seen": "2026-11-28T13:08:50.328124+00:00"
+  },
   {
    "id": "c129d64911f14f70",
    "title": "Brooks and Capehart on Trump's new tariffs, Nvidia's future and Democratic leadership",
@@ -7954,215 +7976,6 @@
    "source_id": "foxnews-latest",
    "bias_note": "right-leaning",
    "first_seen": "2026-11-14T15:08:47.847611+00:00"
-  },
-  {
-   "id": "60ee7f0602dabbf2",
-   "title": "Trump \u2018whiplash\u2019 on deportations putting Afghans in turmoil: \u2018People already survived a war\u2019",
-   "url": "https://www.theguardian.com/us-news/2026/nov/14/afghan-deportations-trump-administration",
-   "summary": "Members of Congress and advocates warn that returning people to their home countries could be a death sentenceDozens of Afghans who are currently in the US but fear being deported back to Afghanistan along with a larger group and possibly killed by the Taliban are experiencing \u201cfragile relief\u201d this weekend after it appeared that the Trump administration had put on hold plans to remove them within days.Members of Congress and advocates have repeatedly warned that the deportations could effectively be a death sentence. Continue reading...",
-   "published": "2026-11-14T13:00:47+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-11-14T15:08:48.670857+00:00"
-  },
-  {
-   "id": "6c7f261383f38e0d",
-   "title": "GOP midterm bloodbath exposes cracks in Vance's 2028 White House ambitions",
-   "url": "https://www.foxnews.com/politics/gop-midterm-bloodbath-exposes-cracks-vances-2028-white-house-ambitions",
-   "summary": "Rep. Randy Fine compared JD Vance&apos;s post-midterm remarks on the Iran war to 1932 Germany, vowing he will not support a 2028 presidential bid.",
-   "published": "2026-11-14T13:00:38+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-11-14T15:08:47.805421+00:00"
-  },
-  {
-   "id": "0005bbafc421d930",
-   "title": "Trump faces bipartisan backlash over plan to sell public lands to states and tribes",
-   "url": "https://www.npr.org/2026/11/14/nx-s1-6039155/trump-faces-bipartisan-backlash-over-plan-to-sell-public-lands-to-states-and-tribes",
-   "summary": "The Trump administration wants to sell some federal public lands to states, local governments and tribes, a plan that's once again drawing swift bi-partisan opposition.",
-   "published": "2026-11-14T12:40:22+00:00",
-   "source": "NPR Politics",
-   "source_id": "npr-politics",
-   "bias_note": "center",
-   "first_seen": "2026-11-14T15:08:48.500314+00:00"
-  },
-  {
-   "id": "8e21cc08e1c7f9a3",
-   "title": "One industry surged DC lobbying 337% under Trump \u2014 here\u2019s what\u2019s driving the push",
-   "url": "https://www.foxnews.com/politics/industry-drove-dc-lobbying-337-percent-trump-whats-driving-push",
-   "summary": "Lobbying spending on tariff-related filings surged 337% in 2026, Advancing American Freedom found, as businesses scramble to navigate trade shifts.",
-   "published": "2026-11-14T12:30:39+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-11-14T15:08:47.805427+00:00"
-  },
-  {
-   "id": "4d986c1644c15a72",
-   "title": "GOP newcomer who toppled Cory Mills sets sights on fraud, inflation as he heads to Capitol Hill",
-   "url": "https://www.foxnews.com/politics/gop-newcomer-who-toppled-cory-mills-sets-sights-fraud-inflation-he-heads-capitol-hill",
-   "summary": "Rep.-elect Ryan Elijah, R-Fla., told Fox News Digital he wants to crack down on fraud and congressional insider trading.",
-   "published": "2026-11-14T12:00:08+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-11-14T15:08:47.805432+00:00"
-  },
-  {
-   "id": "7357cd35a59d20af",
-   "title": "Will Trump\u2019s lame duck presidency push him further beyond constraints of the law?",
-   "url": "https://www.theguardian.com/us-news/ng-interactive/2026/nov/14/trump-lame-duck-presidency-outcome",
-   "summary": "Midterm elections have defanged the US president \u2013 leaving critics to worry about his next move in his \u2018fat Elvis\u2019 stageIt was just before 3am when Donald Trump entered a crowded Manhattan ballroom, greeted by chants of \u201cUSA! USA\u201d and theme music from the Hollywood film Air Force One. On stage, two red \u201cMake America great again\u201d (Maga) caps were mounted in glass cases like holy relics.That was the scene 10 years ago this week when Trump, a businessman and reality TV star, stunned the world by beating Hillary Clinton to the White House. A decade later an unlikely president is serving an unlikel",
-   "published": "2026-11-14T11:00:43+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-11-14T15:08:48.670895+00:00"
-  },
-  {
-   "id": "d044e56d88c30f57",
-   "title": "Hegseth survived impeachment bid but reprieve may be temporary: \u2018He can\u2019t escape justice forever\u2019",
-   "url": "https://www.theguardian.com/us-news/2026/nov/14/hegseth-impeachment-effort-reprimand-veterans-day",
-   "summary": "The reprimand the defense secretary endured at US military\u2019s most sacred shrine epitomizes his disrepute The sentinel who bawled out Pete Hegseth for apparent disrespect at the Tomb of the Unknown Solider seemed to be speaking for more than just himself.Nothing quite epitomizes the disrepute into which the US defense secretary has fallen than the reprimand delivered to Hegseth and his party after they conversed and laughed loudly while visiting Arlington national cemetery on Wednesday to mark Veterans\u2019 Day. Continue reading...",
-   "published": "2026-11-14T11:00:42+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-11-14T15:08:48.670903+00:00"
-  },
-  {
-   "id": "c7ea270c8d48eac2",
-   "title": "Trump keeps signaling an end to Iran war, but expert warns a crucial piece of his strategy is missing",
-   "url": "https://www.foxnews.com/politics/trump-keeps-signaling-end-iran-war-expert-warns-crucial-piece-his-strategy-missing",
-   "summary": "President Donald Trump declared on Truth Social the U.S. no longer needs a deal with Iran, one day after proclaiming victory at Arlington.",
-   "published": "2026-11-14T11:00:05+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-11-14T15:08:47.805440+00:00"
-  },
-  {
-   "id": "54aafaf34014b232",
-   "title": "Trump says the Iran war 'effectively over.\u2019 It\u2019s still costing the US billions",
-   "url": "https://thehill.com/policy/defense/6214685-us-military-costs-iran-conflict/",
-   "summary": "President Trump this week declared the war in Iran \u201ceffectively over\u201d militarily and \u201cwon\u201d by the U.S. But he did so as American taxpayers are footing the bill for billions of dollars in operational costs to keep the country\u2019s troops at the ready overseas.  The war is no longer making top headlines, and firing between...",
-   "published": "2026-11-14T11:00:00+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-11-14T15:08:50.683908+00:00"
-  },
-  {
-   "id": "4aebb9b8f3993128",
-   "title": "Senate Democrats prepare to flex new oversight powers against Musk",
-   "url": "https://thehill.com/the-120/6219817-musk-faces-democratic-oversight/",
-   "summary": "Democrats have spent the first half of the second Trump presidency openly questioning how Elon Musk has wielded influence over the federal government.   Soon, they will have the chance to ask him directly.   Fresh off a sweeping victory in the midterm elections, Senate Democrats are keen to use their new majority to investigate Musk and...",
-   "published": "2026-11-14T11:00:00+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-11-14T15:08:50.683921+00:00"
-  },
-  {
-   "id": "25385cf1508c1446",
-   "title": "As Democrats win big, thirst traps of male candidates take social media by storm",
-   "url": "https://www.npr.org/2026/11/14/nx-s1-6040507/democrats-male-candidates-masculinity-trump",
-   "summary": "It's everywhere on social media: Democrats celebrating the attractive men voters elected in the midterms. But it's bigger than a meme and says a lot about politics of masculinity in the age of Trump.",
-   "published": "2026-11-14T10:00:00+00:00",
-   "source": "NPR Politics",
-   "source_id": "npr-politics",
-   "bias_note": "center",
-   "first_seen": "2026-11-14T15:08:48.500319+00:00"
-  },
-  {
-   "id": "6eaaf315fbf4f84e",
-   "title": "Hegseth's failed impeachment was a warning to Democrats. Where will they go from here?",
-   "url": "https://www.npr.org/2026/11/14/nx-s1-6040299/hegseth-impeachment-democrats-house-test",
-   "summary": "Democrats have been given a huge opportunity with majorities in both the House and Senate \u2014 but the balance of priorities, timing, messaging and discipline are all going to be major tests.",
-   "published": "2026-11-14T10:00:00+00:00",
-   "source": "NPR Politics",
-   "source_id": "npr-politics",
-   "bias_note": "center",
-   "first_seen": "2026-11-14T15:08:48.500327+00:00"
-  },
-  {
-   "id": "eb531acc9b4bce76",
-   "title": "I Investigated the Online Sports Betting Industry. DraftKings Shut Down My Account.",
-   "url": "https://www.propublica.org/article/draftkings-investigation-closed-account",
-   "summary": "The post I Investigated the Online Sports Betting Industry. DraftKings Shut Down My Account. appeared first on ProPublica.",
-   "published": "2026-11-14T10:00:00+00:00",
-   "source": "ProPublica",
-   "source_id": "propublica",
-   "bias_note": "investigative",
-   "first_seen": "2026-11-14T15:08:51.177380+00:00"
-  },
-  {
-   "id": "b88f2fb78fe8f97c",
-   "title": "Massie's push to impeach Hegseth splits constituents in his own backyard: 'Pure spite'",
-   "url": "https://www.foxnews.com/politics/massie-push-impeach-hegseth-splits-constituents-backyard-pure-spite",
-   "summary": "Northern Kentucky residents offer sharply divided takes on Thomas Massie&apos;s push to impeach Pete Hegseth over the Iran war and his true motives.",
-   "published": "2026-11-14T09:00:19+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-11-14T15:08:47.805455+00:00"
-  },
-  {
-   "id": "3668bad9c2305aa0",
-   "title": "Democrat flips Alaska governor's mansion after Trump-backed GOP infighting",
-   "url": "https://www.foxnews.com/politics/democrat-flips-alaska-governors-mansion-trump-backed-gop-infighting",
-   "summary": "President Trump endorsed Republican Bernadette Wilson for Alaska governor, but bitter GOP infighting and ranked-choice voting complicated the race to succeed Mike Dunleavy.",
-   "published": "2026-11-14T06:09:34+00:00",
-   "source": "Fox News Politics",
-   "source_id": "foxnews-politics",
-   "bias_note": "right-leaning",
-   "first_seen": "2026-11-14T06:35:05.680010+00:00"
-  },
-  {
-   "id": "7bd35c71dd45ec8e",
-   "title": "AI company behind FAA's SMART tool denies link to ground stop, Duffy confirms",
-   "url": "https://thehill.com/policy/transportation/6220416-faa-smart-ai-ground-stop-denial/",
-   "summary": "Air Space Intelligence (ASI), the company behind a recently deployed Federal Aviation Administration (FAA) AI tool, denied any link to the nationwide ground stop issued Friday afternoon. \u201cThe current ground stop is not based on or a result of the SMART system, any product of ASI or our integration with FAA and ATC,\u201d the company...",
-   "published": "2026-11-14T04:04:45+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-11-14T06:35:06.237153+00:00"
-  },
-  {
-   "id": "f83800c632dcdc49",
-   "title": "ICYMI: After Nationwide Ground Stop, Trump Administration Prioritizes Safety, Calls for Full Modernization Funding",
-   "url": "https://www.whitehouse.gov/releases/2026/11/icymi-after-nationwide-ground-stop-trump-administration-prioritizes-safety-calls-for-full-modernization-funding/",
-   "summary": "On Friday night, Secretary of Transportation Sean Duffy and Secretary of Homeland Security Markwayne Mullin briefed reporters after a nationwide FAA ground stop caused by instability in the nation\u2019s decades-old air traffic control systems. The failure stemmed from overloaded 1980s-era equipment, with zero evidence of a cyberattack. President Trump has already secured $12.5 billion toward [&#8230;]\nThe post ICYMI: After Nationwide Ground Stop, Trump Administration Prioritizes Safety, Calls for Full Modernization Funding appeared first on The White House.",
-   "published": "2026-11-14T04:00:00+00:00",
-   "source": "WhiteHouse.gov News",
-   "source_id": "whitehouse",
-   "bias_note": "official/primary-source",
-   "first_seen": "2026-11-15T22:54:21.649599+00:00"
-  },
-  {
-   "id": "36acd4650bb9504d",
-   "title": "Duffy, Mullin call for $50B air travel 'overhaul' in fiery ground stop briefing",
-   "url": "https://thehill.com/policy/transportation/6220399-duffy-billions-air-traffic-ground-stop/",
-   "summary": "Trump administration officials reupped their calls for a multi-billion-dollar investment into updating the U.S.'s \"incredibly old\" air traffic control systems, calling out Congress for \"[kicking] the can down the road\" on improvements they argued could have prevented Friday night's nationwide ground stop. \u201cWhat we have is an incredibly old air traffic control system,\u201d Transportation Secretary...",
-   "published": "2026-11-14T03:37:13+00:00",
-   "source": "The Hill",
-   "source_id": "thehill",
-   "bias_note": "center",
-   "first_seen": "2026-11-14T06:35:06.237160+00:00"
-  },
-  {
-   "id": "4b1ed9147537f309",
-   "title": "\u2018It\u2019s frustrating\u2019: chaos at US airports as stoppage grinds travel plans to a halt",
-   "url": "https://www.theguardian.com/us-news/2026/nov/13/us-airports-flight-stoppage",
-   "summary": "Travelers and crew feeling \u2018pissed\u2019 or \u2018lucky\u2019 depending on level of upset amid nationwide ground stopAirport chaos continues after FAA lifts ground stop \u2013 live updatesThe US Federal Aviation Administration\u2019s decision to ground all flights on Friday threw airports and travel plans into chaos across the country, as passengers on planes and in airport terminals were suddenly thrust into limbo.At New York\u2019s John F Kennedy airport, passengers found their travel plans abruptly cancelled \u2013 some even after they\u2019d boarded. Continue reading...",
-   "published": "2026-11-14T02:49:59+00:00",
-   "source": "Guardian US Politics",
-   "source_id": "guardian-uspolitics",
-   "bias_note": "left-leaning",
-   "first_seen": "2026-11-14T06:35:06.118884+00:00"
   }
  ]
 }
